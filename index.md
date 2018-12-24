@@ -1,4 +1,4 @@
-[Начало работы с HubEx](gettingstarted.md)
+[Начало работы с HubEx](dosc/GettingStarted.md)
 
 
 

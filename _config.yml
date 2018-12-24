@@ -1,1 +1,5 @@
 theme: jekyll-theme-slate
+title: Начало работы с HubEx
+description: Краткие иснтрукции по работе с системой, основных понятия и первые шаги.
+plugins:
+  - jekyll-seo-tag

@@ -1,6 +1,7 @@
 theme: jekyll-theme-slate
 title: Пользовательская документация по работе с HubEx
 description: Краткие иснтрукции по работе, основных понятия и первые шаги по освоению платформы.
+url: hubex.ru
 plugins:
   - jekyll-sitemap
   - jekyll-seo-tag

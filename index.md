@@ -1,3 +1,3 @@
-##[Начало работы с HubEx](docs/GettingStarted.md)
-С чего начать....
+##С чего начать?
+[Начало работы с HubEx](docs/GettingStarted.md)
 

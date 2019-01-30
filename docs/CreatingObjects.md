@@ -22,4 +22,4 @@
 
 ![checklists.png](/attachments/images/checklists.png)
 
-  |[Перейти к разделу Создание обслуживаемых компаний](./CreatingCompany.md)|[Перейти в меню](http://wiki.hubex.ru)| [Перейти к разделу Создание заказчика](./CreatingCustomer.md) |
+  |[Перейти к разделу "Создание обслуживаемых компаний"](./CreatingCompany.md)|[Перейти в меню](http://wiki.hubex.ru)| [Перейти к разделу "Создание заказчика"](./CreatingCustomer.md) |

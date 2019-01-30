@@ -5,4 +5,4 @@
 
 ![15.png](/attachments/images/15.png)
 
-|[Перейти к разделу Переход заявки по стадиям](./ChangingStatus.md)|[Перейти в меню](http://wiki.hubex.ru)| [Перейти к разделу Создание шаблона оборудования и маркировка](./CreatingObjTemplates.md) |
+|[Перейти к разделу "Переход заявки по стадиям"](./ChangingStatus.md)|[Перейти в меню](http://wiki.hubex.ru)| [Перейти к разделу "Создание шаблона оборудования и маркировка"](./CreatingObjTemplates.md) |

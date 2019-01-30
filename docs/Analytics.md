@@ -8,4 +8,4 @@
 
 ![28.png](/attachments/images/28.png)
 
-|[Перейти к разделу Чеклисты](./Checklists.md)|[Перейти в меню](http://wiki.hubex.ru)| 
+|[Перейти к разделу "Чеклисты"](./Checklists.md)|[Перейти в меню](http://wiki.hubex.ru)| 

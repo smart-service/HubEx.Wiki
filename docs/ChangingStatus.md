@@ -4,4 +4,4 @@
 
 ![14.png](/attachments/images/14.png)
 
-|[Перейти к разделу Создание заявки](./CreatingTicket.md)|[Перейти в меню](http://wiki.hubex.ru)| [Перейти к разделу Прикрепление выполненных работ](./AttachingFiles.md) |
+|[Перейти к разделу "Создание заявки"](./CreatingTicket.md)|[Перейти в меню](http://wiki.hubex.ru)| [Перейти к разделу "Прикрепление выполненных работ"](./AttachingFiles.md) |

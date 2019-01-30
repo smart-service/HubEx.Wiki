@@ -1,4 +1,3 @@
-[[_TOC_]]
 #### [Начало работы с HubEx](docs/GettingStarted.md)
 #### [Создание пользователя вашей системы](docs/CreatingUser.md)
 #### [Создание обслуживаемых компаний](docs/CreatingCompany.md)

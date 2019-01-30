@@ -3,7 +3,7 @@
 #### [Создание пользователя вашей системы](docs/CreatingUser.md)
 #### [Создание обслуживаемых компаний](docs/CreatingCompany.md)
 #### [Ввод обслуживаемого оборудования](docs/CreatingObjects.md)
-####[Создание заказчика](docs/CreatingCustomer.md)
+#### [Создание заказчика](docs/CreatingCustomer.md)
 #### [Создание заявки](docs/CreatingTicket.md)
 #### [Переход заявки по стадиям](docs/ChangingStatus.md)
 #### [Прикрепление выполненных работ](docs/AttachingFiles.md)

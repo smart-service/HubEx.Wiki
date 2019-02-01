@@ -1,6 +1,19 @@
 <html>
-  <head>
+  <head id ="my-head">
     {% include head.html %}
     {% seo %}
+    <a href="index.md" class="fill-div"></a>
   </head>
 </html>
+
+#my-head {
+    background-color: #f00;
+    width: 200px;
+    height: 200px;
+}
+a.fill-div {
+    display: block;
+    height: 100%;
+    width: 100%;
+    text-decoration: none;
+}

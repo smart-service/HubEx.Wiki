@@ -11,8 +11,8 @@
 
 ----
 Для написания сообщений по заявке в мобильном приложении, выберете заявку из списка, на экране заявки нажмите на иконку сообщения в правом верхнем углу.
-<div style="margin: 0 auto; display: block;">
-  <img src="/attachments/images/ru/Messages/mes2.jpg" />
+<div>
+  <img  style="margin: 0 auto; display: block;" max-width: 100% src="/attachments/images/ru/Messages/mes2.jpg" />
 </div>
 
 

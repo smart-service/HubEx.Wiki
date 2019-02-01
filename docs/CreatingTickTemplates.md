@@ -11,8 +11,9 @@
 
 ## Паспорт объекта
 При сканировании QR кода можно получить паспорт объекта, в котором указаны основная информация и публичные файлы и документы по объекту.
+
 <div>
-  <img  style="margin: 0 auto; display: block; max-width: 100%;" src="/attachments/images/ru/CreatingTickTemplates/templt1.jpg" />
+  <img  style="margin: 0 auto; display: block; max-width: 100%;" src="/attachments/images/ru/CreatingTickTemplates/templt2.jpg" />
 </div>
 
 

@@ -30,3 +30,16 @@
 #### [Чеклисты](docs/Checklists.md)
 #### [Аналитика](docs/Analytics.md)
 <a class="menuItem" href="/docs/CreatingUser/">Создание пользователя вашей системы</a>
+<a class="menuItem" href="/docs/CreatingCompany/">Создание обслуживаемых компаний</a>
+<a class="menuItem" href="/docs/CreatingObjects/">Ввод обслуживаемого оборудования</a>
+<a class="menuItem" href="/docs/CreatingCustomer/">Создание заказчика</a>
+<a class="menuItem" href="/docs/CreatingTicket/">Создание заявки</a>
+<a class="menuItem" href="/docs/ChangingStatus/">Переход заявки по стадиям</a>
+<a class="menuItem" href="/docs/AttachingFiles/">Прикрепление выполненных работ</a>
+<a class="menuItem" href="/docs/CreatingObjTemplates/">Создание шаблона оборудования и маркировка</a>
+<a class="menuItem" href="/docs/docs/CreatingTickTemplates/">Создание шаблона заявок и паспорт объекта</a>
+<a class="menuItem" href="/docs/docs/SelfRegister/">Саморегистрация и подача заявок</a>
+<a class="menuItem" href="/docs/ViewRestriction/">Ограничение видимости файлов</a>
+<a class="menuItem" href="/docs/Messages/">Сообщения по заявке и вкладка сообщения</a>
+<a class="menuItem" href="/docs/Checklists/">Чеклисты</a>
+<a class="menuItem" href="/docs/Analytics/">Аналитика</a>

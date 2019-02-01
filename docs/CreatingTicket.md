@@ -16,7 +16,9 @@
 ![tick2.png](/attachments/images/ru/CreatingTicket/tick2.png)
 
 Отсканируйте QR-код, привязанный к объекту, по которому необходимо обслуживание. В форме создания заявки введите описание проблемы, прикрепите дополнительные файлы. При необходимости Вы можете нажать на кнопку «Показать дополнительные поля», чтобы указать адрес, телефон и др. Далее нажмите «Создать заявку».
-![tick3.png](/attachments/images/ru/CreatingTicket/tick3.png)
+<div>
+  <img  style="margin: 0 auto; display: block; max-width: 100%;" src="/attachments/images/ru/CreatingTicket/tick3.jpg" />
+</div>
 
 
 

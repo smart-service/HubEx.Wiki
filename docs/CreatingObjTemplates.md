@@ -14,15 +14,22 @@
 2) Маркировка оборудования через Мобильное приложение для инженера HubEx
 
 Перейдите в пункт «Приемка и маркировка» бокового меню мобильного приложения инженера. Отсканировав QR-код, произойдет переход на экран маркировки, чтобы связать Ваш QR код с этим оборудованием.
-![templo2.png](/attachments/images/ru/CreatingObjTemplates/templo2.png)
+
+<div>
+  <img  style="margin: 0 auto; display: block; max-width: 100%;" src="/attachments/images/ru/CreatingObjTemplates/templo2.jpg" />
+</div>
 
   Выбрав пункт «Новое оборудование», отобразится список шаблонов оборудования. Выберите один из созданных ранее шаблонов оборудования, чтобы создать новое оборудование с использованием информации из шаблона. По нажатию на «Продолжить без шаблона» отобразится форма создания нового оборудования с незаполненными полями.
 
-![templo3.png](/attachments/images/ru/CreatingObjTemplates/templo3.png)
+  <div>
+    <img  style="margin: 0 auto; display: block; max-width: 100%;" src="/attachments/images/ru/CreatingObjTemplates/templo3.jpg" />
+  </div>
 
   Если же при сканировании QR кода, вы не хотите маркировать ваше оборудование, а просто добавить новое оборудование в систему,  то нажмите на кнопку «Продолжить без маркировки», тогда на экране Вашего смартфона отобразится список шаблонов для создания нового оборудования, а также возможность продолжения без шаблона.
 
-![templo4.png](/attachments/images/ru/CreatingObjTemplates/templo4.png)
+  <div>
+    <img  style="margin: 0 auto; display: block; max-width: 100%;" src="/attachments/images/ru/CreatingObjTemplates/templo4.jpg" />
+  </div>
 
 3) Публикация объекта после маркировки
 

@@ -1,5 +1,5 @@
 theme: jekyll-theme-slate
-title: <a href="#">Пользовательская документация по работе с HubEx<a>
+title: <a href="/">Пользовательская документация по работе с HubEx</a>
 description: Краткие иснтрукции по работе, основные понятия и первые шаги по освоению платформы.
 url: hubex.ru
 permalink: /:title/

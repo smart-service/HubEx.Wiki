@@ -13,8 +13,9 @@
 
  Чтобы посмотреть информацию о сотруднике, Вы можете нажать на иконку сотрудника, в таком случае отобразится всплывающее окошко с информацией о Вашем сервисном специалисте.
 
- ![geo3.png](/attachments/images/ru/GeoPosition/geo3.png)
-
+ <div>
+   <img  style="margin: 0 auto; display: block; max-width: 100%;" src="/attachments/images/ru/GeoPosition/geo3.png" />
+ </div>
 
 
  ___

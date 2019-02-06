@@ -18,4 +18,4 @@
 #### [Сообщения по заявке и вкладка сообщения](docs/Messages.md)
 #### [Чеклисты](docs/Checklists.md)
 #### [Аналитика](docs/Analytics.md)
-#### [Геоданные](docs/GeoPosition.md)
+#### [Геопозиция](docs/GeoPosition.md)

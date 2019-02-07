@@ -2,7 +2,7 @@ theme: jekyll-theme-slate
 title: <a href="/" id="headTitle" style="color:#fff;">Руководство пользователя HubEx</a>
 description: Краткие инcтрукции по работе, основные понятия и первые шаги по освоению платформы.
 url: hubex.ru
-permalink: /:title/
+lang: "ru_RU"
 avatar: https://github.com/smart-service/HubEx.Wiki/blob/master/attachments/images/Logo%20WB%401x.jpg
 plugins:
   - jekyll-sitemap

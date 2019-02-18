@@ -6,6 +6,10 @@ lang: "ru_RU"
 avatar: https://github.com/smart-service/HubEx.Wiki/blob/master/attachments/images/Logo%20WB%401x.jpg
 google_analytics: UA-134055582-1
 yandex_metric: 52269412
+favicon:
+  source: icon.png
+  path: /_layouts
 plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
+  - jekyll-favicon

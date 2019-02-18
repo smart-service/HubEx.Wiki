@@ -1,5 +1,13 @@
 <html>
   <head>
+    <title>
+   {%if page.title %}
+       {{ page.title }}
+   {% else %}
+       {{ site.title }}
+   {% endif %}
+</title>
+    <meta itemprop="description" name="description" content="{% if page.description %}{{ page.description | truncate: 160 }}{% else %}{{ site.description | truncate: 160  }}{% endif %}" />
     <link rel="shortcut icon" type="icon.png" href="icon.png">
     {% seo %}
     {% include analytics.html $}

@@ -1,10 +1,8 @@
-<<<<<<< HEAD
-< head>
-  < meta name="keywords" content="Добавление ваших сотрудников в систему HubEx">
-  < meta name="description" content="Научитесь создавать профили пользователей в системе HubEx">
-  < title>Создание пользователей вашей системы < /title>
-< /head>
-=======
+---
+title: Создание пользователей вашей системы.
+description: Научитесь создавать профили пользователей в системе HubEx.
+---
+
 <!-- Yandex.Metrika counter -->
 <script type="text/javascript" >
    (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};

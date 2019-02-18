@@ -1,19 +1,11 @@
 <html>
-  <head id ="my-head">
-    {% include head.html %}
+  <head>
+    <link rel="shortcut icon" type="HubEx.Wiki/attachments/images/icon.png" href="/images/icon.png">
     {% seo %}
-    <a href="http://wiki.hubex.ru" class="fill-div"></a>
+    {% include analytics.html $}
   </head>
+  <body>
+    {% include yandex.html $}
+   
 </html>
 
-#my-head {
-    background-color: #f00;
-    width: 200px;
-    height: 200px;
-}
-a.fill-div {
-    display: block;
-    height: 100%;
-    width: 100%;
-    text-decoration: none;
-}

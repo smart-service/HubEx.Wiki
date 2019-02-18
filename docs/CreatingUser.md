@@ -18,8 +18,6 @@ description: Научитесь создавать профили пользов
 </script>
 <noscript><div><img src="https://mc.yandex.ru/watch/'{{ site.yandex_metric }}'" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
 <!-- /Yandex.Metrika counter -->
->>>>>>> 13afba6051336fae601347d12b78adbaf0680934
-
 #### Создайте пользователей вашей системы(ваших инженеров, администраторов).
 В этом разделе вы научитесь:
 - Создавать начальника сервисной службы/администратора

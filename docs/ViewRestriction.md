@@ -1,3 +1,8 @@
+---
+title: Ограничение видимости файлов.
+description: Как ограничить файлы, чтобы они были недоступны третьим лицам в системе HubEx?
+---
+
 <!-- Yandex.Metrika counter -->
 <script type="text/javascript" >
    (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};

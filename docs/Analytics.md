@@ -1,3 +1,8 @@
+---
+title: Аналитика и отчеты.
+description: Как использовать аналитику для получения актуальной статистики по заявкам и оборудованию в системе HubEx?
+---
+
 <!-- Yandex.Metrika counter -->
 <script type="text/javascript" >
    (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};

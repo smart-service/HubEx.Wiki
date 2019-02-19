@@ -1,3 +1,8 @@
+---
+title: Шаблоны заявок и паспорт объекта.
+description: Как создать шаблон заявки, а также посмотреть паспорт оборудования в системе HubEx?
+---
+
 <!-- Yandex.Metrika counter -->
 <script type="text/javascript" >
    (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};

@@ -16,7 +16,7 @@
 
 <link href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.0/normalize.min.css">
 <link rel="stylesheet" href="assets/tipuesearch/tipuesearch.css">
-<form action="search.html">
+<form action="assets/tipuesearch/search.html">
 <div class="tipue_search_group">
 <input type="text" name="q" id="tipue_search_input" pattern=".{3,}" title="At least 3 characters" required><button type="submit" class="tipue_search_button"><div class="tipue_search_icon">&#9906;</div></button>
 </div>

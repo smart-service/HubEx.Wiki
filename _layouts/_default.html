@@ -13,7 +13,29 @@
     {% include analytics.html $}
   </head>
   <body>
+
+    <!-- HEADER -->
+    <div id="header_wrap" class="outer">
+        <header class="inner">
+          <h1 id="project_title">{{ site.title | default: site.github.repository_name }}</h1>
+          <h2 id="project_tagline">{{ site.description | default: site.github.project_tagline }}</h2>
+          <link href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.0/normalize.min.css">
+<link rel="stylesheet" href="assets/tipuesearch/tipuesearch.css">
+<form action="assets/tipuesearch/search.html" style="
+    padding: 0px;
+">
+<div class="tipue_search_group" style="
+    display: flex;
+    justify-content: flex-end;
+">
+<input type="text" name="q" id="tipue_search_input" pattern=".{3,}" title="At least 3 characters" required placeholder = "Поиск по статьям"><button type="submit" class="tipue_search_button" style="
+    color: #ccc;
+"><div class="tipue_search_icon">&#9906;</div></button>
+</div>
+</form>
+        </header>
+    </div>
     {% include yandex.html $}
-   
+  </body>   
 </html>
 

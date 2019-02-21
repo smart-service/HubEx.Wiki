@@ -16,7 +16,9 @@
 
 <link href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.0/normalize.min.css">
 <link rel="stylesheet" href="assets/tipuesearch/tipuesearch.css">
-<form action="assets/tipuesearch/search.html">
+<form action="assets/tipuesearch/search.html" style="
+    padding: 0px;
+">
 <div class="tipue_search_group" style="
     display: flex;
     justify-content: flex-end;

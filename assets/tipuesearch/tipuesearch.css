@@ -153,8 +153,8 @@ http://www.tipue.com/search
 {
      float: left;
      width: 200px;
-     background-color: #f3f3f3;
-     border: none;
+     background-color: #ffffff;
+     border: 1.3px solid;
      padding: 9px 6px 10px 15px;
      height: 56px;
      border-radius: 3px;
@@ -172,8 +172,8 @@ http://www.tipue.com/search
      width: 47px;
      height: 56px;
      margin-left: -3px;
-     background-color: #f3f3f3;
-     border: none;
+     background-color: #ffffff;
+     border: 1.3px solid;
      border-radius: 3px;
      box-sizing: border-box;
      cursor: pointer;

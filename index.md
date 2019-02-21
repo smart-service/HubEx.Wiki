@@ -21,7 +21,7 @@
     display: flex;
     justify-content: flex-end;
 ">
-<input type="text" name="q" id="tipue_search_input" pattern=".{3,}" title="At least 3 characters" required><button type="submit" class="tipue_search_button"><div class="tipue_search_icon">&#9906;</div></button>
+<input type="text" name="q" id="tipue_search_input" pattern=".{3,}" title="At least 3 characters" required placeholder = "Поиск по статьям"><button type="submit" class="tipue_search_button"><div class="tipue_search_icon">&#9906;</div></button>
 </div>
 </form>
 

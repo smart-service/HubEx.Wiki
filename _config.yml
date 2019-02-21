@@ -1,20 +1,6 @@
 theme: jekyll-theme-slate
 title: <a href="/" id="headTitle" style="color:#fff;">Руководство пользователя HubEx</a>
-description: "Краткие инcтрукции по работе, основные понятия и первые шаги по освоению платформы.
-<link href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.0/normalize.min.css">
-<link rel="stylesheet" href="assets/tipuesearch/tipuesearch.css">
-<form action="assets/tipuesearch/search.html" style="
-    padding: 0px;
-">
-<div class="tipue_search_group" style="
-    display: flex;
-    justify-content: flex-end;
-">
-<input type="text" name="q" id="tipue_search_input" pattern=".{3,}" title="At least 3 characters" required placeholder = "Поиск по статьям"><button type="submit" class="tipue_search_button" style="
-    color: #ccc;
-"><div class="tipue_search_icon">&#9906;</div></button>
-</div>
-</form>"
+description: Краткие инcтрукции по работе, основные понятия и первые шаги по освоению платформы.
 url: wiki.hubex.ru
 lang: "ru_RU"
 avatar: https://github.com/smart-service/HubEx.Wiki/blob/master/attachments/images/Logo%20WB%401x.jpg

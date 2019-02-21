@@ -13,8 +13,12 @@
 </script>
 <noscript><div><img src="https://mc.yandex.ru/watch/'{{ site.yandex_metric }}'" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
 <!-- /Yandex.Metrika counter -->
-
-<link href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.0/normalize.min.css">
+<div class="site-header-container {% if site.cover %}has-cover{% endif %}" {% if site.cover %}style="background-image: url({{ site.cover | prepend: site.baseurl }});"{% endif %}>
+  <div class="scrim {% if site.cover %}has-cover{% endif %}">
+    <header class="site-header">
+      <h1 class="title">{{ site.title }}</h1>
+      {% if site.subtitle %}<p class="subtitle">{{ site.subtitle }}</p>{% endif %}
+       <link href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.0/normalize.min.css">
 <link rel="stylesheet" href="assets/tipuesearch/tipuesearch.css">
 <form action="assets/tipuesearch/search.html" style="
     padding: 0px;
@@ -28,6 +32,11 @@
 "><div class="tipue_search_icon">&#9906;</div></button>
 </div>
 </form>
+    </header>
+  </div>
+</div>
+
+
 
 
 ## Как начать работу с HubEx

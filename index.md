@@ -44,3 +44,22 @@
 #### [Чеклисты](docs/Checklists.md)
 #### [Аналитика](docs/Analytics.md)
 #### [Геопозиция](docs/GeoPosition.md)
+
+## Продвинутая работа в системе HubEx
+Для того, чтобы сделать использование нашей системы более удобной для Вас, существует вход для администратора, с помощью этого Вы сможете добавить информацию, которую впоследствии смогут использовать Ваши сотрудники.
+### Администрирование
+#### [Настройка ролей](docs/admin/Roles.md)
+#### [Настройка UI полномочий](docs/admin/UI_Permissions.md)
+### Структура предприятия
+#### [Настройка участков](docs/admin/Places.md)
+#### [Типы оборудования](docs/admin/ObjectsType.md)
+### Настройки заявки
+#### [Виды работ](docs/admin/WorkType.md)
+#### [Типы заявок](docs/admin/TicketType/.md)
+#### [Статусы заявок](docs/admin/StatusType.md)
+#### [Актуальность заявки](docs/admin/Actuality.md)
+#### [Критичность заявки](docs/admin/Criticality.md)
+#### [Правила выбора исполнителя](docs/admin/RulesOfChoice.md)
+#### [Стадии заявки](docs/admin/StageType.md)
+#### [Элементы интерфейса](docs/admin/InterfaceElements.md)
+#### [Жизненный цикл заявки](docs/admin/TicketLifeCycle.md)

@@ -13,20 +13,6 @@
 </script>
 <noscript><div><img src="https://mc.yandex.ru/watch/'{{ site.yandex_metric }}'" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
 <!-- /Yandex.Metrika counter -->
-<link href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.0/normalize.min.css">
-<link rel="stylesheet" href="assets/tipuesearch/tipuesearch.css">
-<form action="assets/tipuesearch/search.html" style="
-    padding: 0px;
-">
-<div class="tipue_search_group" style="
-    display: flex;
-    justify-content: flex-end;
-">
-<input type="text" name="q" id="tipue_search_input" pattern=".{3,}" title="At least 3 characters" required placeholder = "Поиск по статьям"><button type="submit" class="tipue_search_button" style="
-    color: #ccc;
-"><div class="tipue_search_icon">&#9906;</div></button>
-</div>
-</form>
 
 ## Как начать работу с HubEx
 Для начала работы Вам будет выдан именной тенант. Если Вы его уже получили, то для того чтобы зайти в систему HubEx Вам необходимо установить пароль для Вашей учетной записи. Обязательно проверьте Ваш почтовый ящик, в который после регистрации придёт письмо для подтверждения Вашего аккаунта.

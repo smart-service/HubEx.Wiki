@@ -8,7 +8,7 @@ google_analytics: UA-134055582-1
 yandex_metric: 52269412
 favicon:
   source: icon.png
-  path: /_layouts
+  path: /_layouts/
 plugins:
   - jekyll-sitemap
   - jekyll-seo-tag

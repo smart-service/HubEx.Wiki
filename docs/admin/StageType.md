@@ -14,7 +14,7 @@
 
 
 ### Следующие шаги:
-- [Элементы интерфейса](./InterfaceElements.md)
+- [Элементы интерфейса](./InterfaceOfElements.md)
 - [Жизненный цикл заявки](./TicketLifeCycle.md)
 
 ____

@@ -18,7 +18,7 @@ description: Как использовать аналитику для полу�
 </script>
 <noscript><div><img src="https://mc.yandex.ru/watch/'{{ site.yandex_metric }}'" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
 <!-- /Yandex.Metrika counter -->
-
+<link rel="stylesheet" type="text/css" href="/layouts/style.css">
 #### Аналитика
 В этом разделе вы научитесь:
 - Использовать вкладку аналитика

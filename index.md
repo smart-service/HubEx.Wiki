@@ -1,6 +1,3 @@
----
-layout: default
----
 <!-- Yandex.Metrika counter -->
 
 <script type="text/javascript" >
@@ -17,6 +14,7 @@ layout: default
 </script>
 <noscript><div><img src="https://mc.yandex.ru/watch/'{{ site.yandex_metric }}'" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
 <!-- /Yandex.Metrika counter -->
+<link rel="stylesheet" type="text/css" href="/assets/css/styles.scss">
 ## Как начать работу с HubEx
 Для начала работы Вам будет выдан именной тенант. Если Вы его уже получили, то для того чтобы зайти в систему HubEx Вам необходимо установить пароль для Вашей учетной записи. Обязательно проверьте Ваш почтовый ящик, в который после регистрации придёт письмо для подтверждения Вашего аккаунта.
 
@@ -49,7 +47,7 @@ layout: default
 #### [Типы оборудования](docs/admin/ObjectsType.md)
 ### Настройки заявки
 #### [Виды работ](docs/admin/WorkType.md)
-#### [Типы заявок](docs/admin/TicketType/.md)
+#### [Типы заявок](docs/admin/TicketType.md)
 #### [Статусы заявок](docs/admin/StatusType.md)
 #### [Актуальность заявки](docs/admin/Actuality.md)
 #### [Критичность заявки](docs/admin/Criticality.md)

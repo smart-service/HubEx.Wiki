@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+
 <!-- Yandex.Metrika counter -->
 
 <script type="text/javascript" >

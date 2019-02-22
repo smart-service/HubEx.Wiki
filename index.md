@@ -1,4 +1,8 @@
+---
+layout: default
+---
 <!-- Yandex.Metrika counter -->
+
 <script type="text/javascript" >
    (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
    m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
@@ -13,7 +17,6 @@
 </script>
 <noscript><div><img src="https://mc.yandex.ru/watch/'{{ site.yandex_metric }}'" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
 <!-- /Yandex.Metrika counter -->
-<link rel="stylesheet" type="text/css" href="/assets/css/styles.scss">
 ## Как начать работу с HubEx
 Для начала работы Вам будет выдан именной тенант. Если Вы его уже получили, то для того чтобы зайти в систему HubEx Вам необходимо установить пароль для Вашей учетной записи. Обязательно проверьте Ваш почтовый ящик, в который после регистрации придёт письмо для подтверждения Вашего аккаунта.
 

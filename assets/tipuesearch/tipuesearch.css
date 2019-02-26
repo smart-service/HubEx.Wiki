@@ -77,6 +77,7 @@ http://www.tipue.com/search
      color: #333;
      text-decoration: none;
 }
+
 .tipue_search_content_url, .tipue_search_content_debug
 {
      font: 300 15px/1.7 'Open Sans', sans-serif;
@@ -170,7 +171,7 @@ http://www.tipue.com/search
 {
      position: relative;
      float: left;
-     width: 55px;
+     width: 50px;
      height: 45px;
      margin-left: -3px;
      background-color: #ffffff;

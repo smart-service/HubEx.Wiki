@@ -52,5 +52,5 @@
 #### [Критичность заявки](docs/admin/Criticality.md)
 #### [Правила выбора исполнителя](docs/admin/RulesOfChoice.md)
 #### [Стадии заявки](docs/admin/StageType.md)
-#### [Элементы интерфейса](docs/admin/InterfaceOfElements.md)
+#### [Элементы интерфейса](docs/admin/ElementsOfInterface.md)
 #### [Жизненный цикл заявки](docs/admin/TicketLifeCycle.md)

@@ -31,7 +31,7 @@
 
 ### Следующие шаги:
 - [Стадии заявки](./StageType.md)
-- [Элементы интерфейса](./InterfaceElements.md)
+- [Элементы интерфейса](./ElementsOfInterface.md)
 - [Жизненный цикл заявки](./TicketLifeCycle.md)
 
 ____

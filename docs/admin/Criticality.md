@@ -15,7 +15,7 @@
 ### Следующие шаги:
 - [Правила выбора исполнителя](./RulesOfChoice.md)
 - [Стадии заявки](./StageType.md)
-- [Элементы интерфейса](./InterfaceElements.md)
+- [Элементы интерфейса](./ElementsOfInterface.md)
 
 ____
 - [Перейти в меню](http://wiki.hubex.ru)

@@ -32,6 +32,9 @@ description: Как добавить клиентов, с которыми со�
 
 Для того, чтобы заказчику зайти в приложение, ему необходимо загрузить его из [App Store](https://itunes.apple.com/ru/app//id1386688688?mt=8) или [Google Play](https://play.google.com/store/apps/details?id=ru.hubex.engineer), после чего зайти под своим аккаунтом.
 
+<div>
+  <img  style="margin: 0 auto; display: block; max-width: 100%;" src="/attachments/images/ru/CreatingCustomer/cust2.jpg" /><img style="margin: 0 auto; display: block; max-width: 100%;" src="/attachments/images/ru/CreatingCustomer/cust3.jpg" />
+</div>
 
 
 ### Следующие шаги:

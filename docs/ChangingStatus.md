@@ -38,8 +38,9 @@ description: Как изменить стадию (статус) заявки в
 
 После того как Вы измените стадию, каждому, кто связан с заявкой придет push-уведомление о том, что произошло изменение.
 
-![stat3.jpg](/attachments/images/ru/ChangingStatus/stat3.jpg)
-
+<div>
+  <img  style="margin: 0 auto; display: block; max-width: 100%;" src="/attachments/images/ru/ChangingStatus/stat3.jpg" />
+</div>
 
 
 ### Следующие шаги:

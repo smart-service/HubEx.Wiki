@@ -30,11 +30,15 @@ description: Как изменить стадию (статус) заявки в
 
 Для перевода заявки по стадиям, перейдите в список заявок через боковое меню, выберите необходимую заявку, затем в пункте «Перейти на стадию» выберите стадию, на которую требуется перевести данную заявку. Сохраните.
 
-![stat1.png](/attachments/images/ru/ChangingStatus/stat1.png)
+<div>
+  <img  style="margin: 0 auto; display: block; max-width: 100%;" src="/attachments/images/ru/ChangingStatus/stat1.png" />
+</div>
 
 Например, при переходе со стадии «В работе», Вы можете перейти на одну из следующих стадий, для этого просто нажмите на один из вариантов, после чего нажмите кнопку «Сохранить», чтобы применить и сохранить изменения.
 
-![stat2.png](/attachments/images/ru/ChangingStatus/stat2.png)
+<div>
+  <img  style="margin: 0 auto; display: block; max-width: 100%;" src="/attachments/images/ru/ChangingStatus/stat2.png" />
+</div>
 
 После того как Вы измените стадию, каждому, кто связан с заявкой придет push-уведомление о том, что произошло изменение.
 

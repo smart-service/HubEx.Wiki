@@ -52,6 +52,10 @@ description: Как создавать профили пользователей
 
 После подтверждения регистрации, система потребует создать новый пароль, который вместе с электронной почтой потребуются для входа в мобильное приложение. Проделав данные шаги Ваш сотрудник сможет начать использовать МП Исполнителя, которое он сможет скачать из [App Store](https://itunes.apple.com/ru/app//id1386688688?mt=8) или [Google Play](https://play.google.com/store/apps/details?id=ru.hubex.engineer).
 
+<div>
+  <img  style="margin: 0 auto; display: block; max-width: 100%;" src="/attachments/images/ru/CreatingUser/user11.jpg" />
+</div>
+
 При использовании сотрудником мобильного приложения, перед началом работы ему надо будет подтвердить использование геолокации, чтобы вы могли отслеживать местоположение своего работника.
 ![User5.png](/attachments/images/ru/CreatingUser/user5.png)
 

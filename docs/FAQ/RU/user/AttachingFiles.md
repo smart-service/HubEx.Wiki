@@ -27,13 +27,13 @@ description: Как прикрепить отчет по выполнению р
 
 Для прикрепления подтверждения выполнения работ по заявке выберите заявку из списка, перейдите на вкладку «Выполнение», нажмите "добавить работу". В открытой форме выполненной работы заполните необходимые поля, добавьте фотографии.
 
-![file1.png](/attachments/images/ru/AttachingFiles/file1.png)
+![file1.png](/attachments/images/FAQ/USER/AttachingFiles/file1.png)
 
 ### Добавление выполненной работы через МП:
 Для того чтобы добавить документ для подтверждения выполнения работы через мобильное приложение HubEx Engineer, вам потребуется зайти в выполненную заявку, пролистать вниз и выбрать пункт «Выполнение». Заполните поля, обратите внимание, что Вы можете добавить комментарий, а также прикрепить фото или другие файлы.
 
 <div>
-  <img  style="margin: 0 auto; display: block; max-width: 100%;" src="/attachments/images/ru/AttachingFiles/file2.jpg" />
+  <img  style="margin: 0 auto; display: block; max-width: 100%;" src="/attachments/images/FAQ/USER/AttachingFiles/file2.jpg" />
 </div>
 
 

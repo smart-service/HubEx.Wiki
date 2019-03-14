@@ -27,26 +27,26 @@ description: Как использовать геопозицию, чтобы о
 
 Для просмотра карты ваших сотрудников необходимо перейти на вкладку "Сотрудники", а затем в раздел "Карта". Перед Вами отобразится карта со всеми сотрудниками, использующими мобильное приложение. На карте вы можете нажимать +/- чтобы приблизить/отдалить карту, а также расширить карту на полный экран и вернуться после этого к обычному размеру экрана.
 
-![geo1.png](/attachments/images/ru/GeoPosition/geo1.png)
+![geo1.png](/attachments/images/FAQ/USER/GeoPosition/geo1.png)
 
  Для того, чтобы найти конкретного сотрудника, Вы можете отфильтровать список всех сотрудников по следующим параметрам: ФИО, должность, участок на котором работает сотрудник и вид работ, проводимый сотрудником.
 
- ![geo2.png](/attachments/images/ru/GeoPosition/geo2.png)
+ ![geo2.png](/attachments/images/FAQ/USER/GeoPosition/geo2.png)
 
  Чтобы посмотреть информацию о сотруднике, Вы можете нажать на иконку сотрудника, в таком случае отобразится всплывающее окошко с информацией о Вашем сервисном специалисте.
 
  <div>
-   <img  style="margin: 0 auto; display: block; max-width: 100%;" src="/attachments/images/ru/GeoPosition/geo3.png" />
+   <img  style="margin: 0 auto; display: block; max-width: 100%;" src="/attachments/images/FAQ/USER/GeoPosition/geo3.png" />
  </div>
 
 Если Вы захотите узнать местоположение сервисного специалиста по конкретной заявке, то в МП для этого вам следует перейти в выбранную вами заявку и нажать на окошко карты, изначально вы увидите местоположение объекта, однако нажав на иконку сотрудника, вы увидите, где находится инженер в данный момент времени.
 
 <div style="display: flex;">
   <div>
-    <img style="margin: 0 auto; width: 308px;" src="/attachments/images/ru/GeoPosition/geo4.png" />
+    <img style="margin: 0 auto; width: 308px;" src="/attachments/images/FAQ/USER/GeoPosition/geo4.png" />
   </div>
   <div>
-    <img style="margin: 0 auto; width: 308px;" src="/attachments/images/ru/GeoPosition/geo5.png" />
+    <img style="margin: 0 auto; width: 308px;" src="/attachments/images/FAQ/USER/GeoPosition/geo5.png" />
   </div>
 </div>
 

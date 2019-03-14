@@ -5,11 +5,11 @@
 
 Роль – это определенный статус у каждого пользователя , который дает и ограничивает ему функционал. С помощью этого раздела Вы можете кастомизировать роли, необходимые Вам для использования.
 
-![Role1](/attachments/images/FAQ_RU/Roles/role1.png)
+![Role1](/attachments/images/FAQ/ADMIN/Roles/role1.png)
 
 При создании новой роли введите ее название, по желанию добавьте описание к новой роли, а также обязательно укажите полномочия для этой роли.
 
-![Role2](/attachments/images/FAQ_RU/Roles/role2.png)
+![Role2](/attachments/images/FAQ/ADMIN/Roles/role2.png)
 
 
 

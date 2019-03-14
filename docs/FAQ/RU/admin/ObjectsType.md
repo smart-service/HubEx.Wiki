@@ -4,11 +4,11 @@
 
 Тип оборудования определяет обязательность наличия адреса при создании оборудования. Типы оборудования можно найти на вкладке «Структура предприятия».
 
-![objtype1](/attachments/images/FAQ_RU/ObjectsType/objtype1.png)
+![objtype1](/attachments/images/FAQ/ADMIN/ObjectsType/objtype1.png)
 
 Для того, чтобы создать новый тип оборудования, нажмите кнопку «Создать оборудование», введите название (оно может быть любым) и сделайте обязательным наличие адреса, если необходимо введение адреса нового объекта. Мобильным оборудованием называется оборудование без привязки к конкретному адресу.
 
-![objtype2](/attachments/images/FAQ_RU/ObjectsType/objtype2.png)
+![objtype2](/attachments/images/FAQ/ADMIN/ObjectsType/objtype2.png)
 
 
 

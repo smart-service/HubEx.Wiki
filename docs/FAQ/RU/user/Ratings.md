@@ -13,7 +13,7 @@
 Чтобы оценить качество исполнения заявки, перейдите в раздел Ваших заявок (т.е. раздел «Мои») или же выберите нужную Вам заявку из списка всех заявок в МП Заказчика. Далее в самом верху профиля заявки Вам требуется нажать на окошко с подписью «Оцените качество исполнения заявки», после чего Вы можете оценить заявку по представленным критериям.
 
 <div style="display: flex;">
-  <img  style="margin: 0 auto; display: block; max-width: 100%;" src="/attachments/images/FAQ/USER/Ratings/rate2.png" /><img style="margin: 0 auto; display: block; max-width: 100%;" src="/attachments/images/FAQ/USER/Ratings/rate3.png" />
+  <img  style="margin: 0 auto; display: block; max-width: 100%;" src="/attachments/images/FAQ/USER/Ratings/rate2.jpg" /><img style="margin: 0 auto; display: block; max-width: 100%;" src="/attachments/images/FAQ/USER/Ratings/rate3.jpg" />
 </div>
 
 После того, как вы проставили рейтинг по каждому из критериев, нажмите на кнопку «Оценить», чтобы сохранить и применить изменения.
@@ -21,7 +21,7 @@
 Далее система подсчитывает средневзвешенное значение Вашей оценки, после чего Вы сможете увидеть в профиле заявки итоговый рейтинг, а при нажатии на него подробно просмотреть оценку по заявке, то есть увидеть оценку по каждому из критериев, а также написанные комментарии. Оцененные заявки будут отображаться в списке всех заявок с иконкой звездочки и рейтингом в правом верхнем углу заявки.
 
 <div>
-  <img  style="margin: 0 auto; display: block; max-width: 100%;" src="/attachments/images/FAQ/USER/Ratings/rate1.png" />
+  <img  style="margin: 0 auto; display: block; max-width: 100%;" src="/attachments/images/FAQ/USER/Ratings/rate1.jpg" />
 </div>
 
 ## Просмотр рейтинга сотрудников в WEB
@@ -38,7 +38,7 @@
 Для того, чтобы сервисному сотруднику просмотреть свой рейтинг, ему необходимо открыть МП Исполнителя, зайти в боковое меню, где под его ФИО будет указан его рейтинг, помеченный значком «звездочка». Стоит отметить, что сотрудник не будет видеть рейтинг по исполненной им заявке, он сможет заметить изменения только в своем профиле.
 
 <div>
-  <img  style="margin: 0 auto; display: block; max-width: 100%;" src="/attachments/images/FAQ/USER/Ratings/rate6.png" />
+  <img  style="margin: 0 auto; display: block; max-width: 100%;" src="/attachments/images/FAQ/USER/Ratings/rate6.jpg" />
 </div>
 
 

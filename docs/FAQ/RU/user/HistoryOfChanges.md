@@ -12,5 +12,8 @@
 ![hist2.png](/attachments/images/FAQ/USER/HistoryOfChanges/hist2.png)
 
 
+
+### Следующие шаги:
+- [Экспорт](./Export.md)
 ___
 - [Перейти в меню](http://wiki.hubex.ru)

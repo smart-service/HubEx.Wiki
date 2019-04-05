@@ -11,7 +11,7 @@
 
 ![exptick1.png](/attachments/images/FAQ/USER/Export/exptick1.png)
 
-После нажатия на кнопку «Скачать», начнется автоматическая загрузка таблицы Excel.
+После этого начнется автоматическая загрузка таблицы Excel.
 
 ![exptick2.png](/attachments/images/FAQ/USER/Export/exptick2.png)
 
@@ -23,7 +23,7 @@
 
 ![expobj1.png](/attachments/images/FAQ/USER/Export/expobj1.png)
 
-После нажатия на кнопку «Скачать», начнется автоматическая загрузка таблицы Excel.
+После этого начнется автоматическая загрузка таблицы Excel.
 
 ![expobj.png](/attachments/images/FAQ/USER/Export/expobj2.png)
 
@@ -34,7 +34,7 @@
 
 ![expuser1.png](/attachments/images/FAQ/USER/Export/expuser1.png)
 
-После нажатия на кнопку «Скачать», начнется автоматическая загрузка таблицы Excel.
+После нажатия на кнопку, начнется автоматическая загрузка таблицы Excel.
 
 ![expuser2.png](/attachments/images/FAQ/USER/Export/expuser2.png)
 
@@ -46,7 +46,7 @@
 
 ![expcomp1.png](/attachments/images/FAQ/USER/Export/expcomp1.png)
 
-После нажатия на кнопку «Скачать» произойдет загрузка таблицы Excel.
+После нажатия на кнопку произойдет загрузка таблицы Excel.
 
 
 

@@ -60,7 +60,7 @@ description: Как создавать профили пользователей
 ![User5.png](/attachments/images/FAQ/USER/CreatingUser/user5.png)
 
 Также для вашего удобства Вы можете экспортировать список Ваших сотрудников из системы HubEx при помощи функции "Экспорт". Подробнее про это читайте [здесь](https://wiki.hubex.ru/docs/FAQ/RU/user/Export.html).
-<a href=“https://wiki.hubex.ru/docs/FAQ/RU/user/Export.html#expuser”>Экспорт сотрудников</a>
+
 ### Следующие шаги:
 - [Создание обслуживаемых компаний](./CreatingCompany.md)
 - [Ввод обслуживаемого оборудования](./CreatingObjects.md)

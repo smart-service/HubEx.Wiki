@@ -4,9 +4,9 @@
   <meta charset="utf-8">
   <title>Быстрый переход внутри документа</title>
  <ul>
-       <li><a href="#objects">Импорт объектов</a></li>
-       <li><a href="#workers">Импорт сотрудников</a></li>
-       <li><a href="#companies">Импорт компаний</a></li>
+       <li><a href="#objects">Импортировать объекты</a></li>
+       <li><a href="#workers">Импортировать сотрудников</a></li>
+       <li><a href="#companies">Импортировать компании</a></li>
  </ul>
 </html>
 

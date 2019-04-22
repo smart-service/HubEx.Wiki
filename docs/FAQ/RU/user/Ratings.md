@@ -46,6 +46,7 @@
 ### Следующие шаги:
 - [История изменений](./HistoryOfChanges.md)
 - [Экспорт](./Export.md)
+- [Импорт](./Import.md)
 
 ___
 - [Перейти в меню](http://wiki.hubex.ru)

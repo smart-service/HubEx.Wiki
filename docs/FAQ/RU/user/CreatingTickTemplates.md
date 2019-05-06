@@ -62,8 +62,8 @@ description: Как создать шаблон заявки, а также по
 
 - Нажав на кнопку «Выбрать из списка», Вы сможете вручную выбрать необходимый родительский или дочерний объект, а потом создать заявку.
 
-<div>
-  <img  style="margin: 0 auto; display: block; max-width: 100%;" src="/attachments/images/FAQ/USER/CreatingTickTemplates/templt3.jpg" />
+<div style="display: flex;">
+  <img  style="margin: 0 auto; display: block; max-width: 100%;" src="/attachments/images/FAQ/USER/CreatingTickTemplates/templt3.jpg" /><img style="margin: 0 auto; display: block; max-width: 100%;" src="/attachments/images/FAQ/USER/CreatingTickTemplates/templt4.jpg" />
 </div>
 
 Нажав на кнопку «Посмотреть историю обслуживания», Вы сможете увидеть все заявки, которые когда-либо были созданы по данному объекту.

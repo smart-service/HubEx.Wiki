@@ -25,6 +25,7 @@
 #### [Ввод обслуживаемого оборудования](docs/FAQ/RU/user/CreatingObjects.md)
 #### [Создание заказчика](docs/FAQ/RU/user/CreatingCustomer.md)
 #### [Создание заявки](docs/FAQ/RU/user/CreatingTicket.md)
+#### [Создание плановой заявки](docs/FAQ/RU/user/PlannedTickets.md)
 #### [Переход заявки по стадиям и удаление заявки](docs/FAQ/RU/user/ChangingStatus.md)
 #### [Прикрепление выполненных работ](docs/FAQ/RU/user/AttachingFiles.md)
 #### [Создание шаблона оборудования и маркировка](docs/FAQ/RU/user/CreatingObjTemplates.md)

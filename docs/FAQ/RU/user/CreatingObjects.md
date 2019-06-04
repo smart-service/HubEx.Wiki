@@ -74,7 +74,7 @@ description: Как добавить обслуживаемые компание
 ### Следующие шаги:
 - [Создание заказчика](./CreatingCustomer.md)
 - [Создание заявки](./CreatingTicket.md)
-- [Создание плановой заявки](docs/FAQ/RU/user/PlannedTickets.md)
+- [Создание плановой заявки](./PlannedTickets.md)
 
 
 ___

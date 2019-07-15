@@ -16,6 +16,7 @@
 ### Следующие шаги:
 - [Элементы интерфейса](./ElementsOfInterface.md)
 - [Жизненный цикл заявки](./TicketLifeCycle.md)
+- [Атрибуты заявки](./TicketAttribute.md)
 
 ____
 - [Перейти в меню](http://wiki.hubex.ru)

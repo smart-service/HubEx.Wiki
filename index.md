@@ -60,3 +60,5 @@
 #### [Стадии заявки](docs/FAQ/RU/admin/StageType.md)
 #### [Элементы интерфейса](docs/FAQ/RU/admin/ElementsOfInterface.md)
 #### [Жизненный цикл заявки](docs/FAQ/RU/admin/TicketLifeCycle.md)
+### Настройки системы
+#### [Атрибуты заявки](docs/FAQ/RU/admin/TicketAttribute.md)

@@ -9,7 +9,7 @@
 
 Для создания нового статуса заявки, нажмите «Создать статус заявки», обязательно введите название нового статуса и выберете цвет нового статуса заявки, чтобы Вам легче было определять приоритет заявки.
 
-![status1](/attachments/images/FAQ/ADMIN/StatusType/status1.png)
+![status2](/attachments/images/FAQ/ADMIN/StatusType/status2.png)
 
 
 

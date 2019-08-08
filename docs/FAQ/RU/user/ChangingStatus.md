@@ -52,7 +52,7 @@ description: Как изменить стадию (статус) заявки в
   <img  style="margin: 0 auto; display: block; max-width: 100%;" src="/attachments/images/FAQ/USER/ChangingStatus/stat3.jpg" />
 </div>
 
-Также Вы можете самостоятельно настроить жизненный цикл заявки в разделе для администратора, подробнее про это можете прочитать в статье [Статусы заявок](https://wiki.hubex.ru/docs/admin/StageType.html).
+Также Вы можете самостоятельно настроить жизненный цикл заявки в разделе для администратора, подробнее про это можете прочитать в статье [Жизненный цикл заявки](https://wiki.hubex.ru/docs/FAQ/RU/admin/TicketLifeCycle.html).
 
 <h5 id="deletetick">Удаление заявки на любой стадии.</h5>
 

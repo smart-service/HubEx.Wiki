@@ -23,7 +23,7 @@
 <h5 id="deltick3">Другие возможности фильтрации: </h5>
 Также с помощью фильтров Вы можете определить, кто подал заявку, исполнителя по заявке, метод подачи заявки и другое.
 <div style="display: flex;">
-  <img  style="margin: 0 auto; display: block; max-width: 100%;" src="/attachments/images/FAQ/USER/Filters/filter1.png" /><img style="margin: 0 auto; display: block; max-width: 100%;" src="/attachments/images/FAQ/USER/Filters/filter2.png" />
+  <img  style="margin: 0 auto; display: block; max-width: 100%;" src="/attachments/images/FAQ/USER/Filters/filter1.jpg" /><img style="margin: 0 auto; display: block; max-width: 100%;" src="/attachments/images/FAQ/USER/Filters/filter2.jpg" />
 </div>
 
 

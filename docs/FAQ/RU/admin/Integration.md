@@ -15,10 +15,12 @@
 <img src="/attachments/images/FAQ/ADMIN/Integration/integr3.png"/>
 
 В скачанном текстовом документе скопируйте ключ.
-<li> Теперь зайдите в разделе "Интеграция" на вкладку "Ключи". Создайте 2 ключа: </li>
+<li> Теперь зайдите в разделе "Интеграция" на вкладку "Ключи".
+Создайте 2 ключа: </li>
 <ul>
 <li> С названием "hubex_token", в поле "Значение" которого введите код из скачанного файла;</li>
 <img src="/attachments/images/FAQ/ADMIN/Integration/integr4.png"/>
+
 <li> С названием "request_path", в поле "Значение" которого введите "HubEx.INT.Bitrix24.Api/Api/webhook".</li>
 <img src="/attachments/images/FAQ/ADMIN/Integration/integr5.png"/>
 </ul>

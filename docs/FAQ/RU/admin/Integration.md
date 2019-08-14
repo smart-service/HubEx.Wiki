@@ -7,7 +7,7 @@
 <body>
 <ol type="1">
 <li> Для начала Вам необходимо зайти в консоль администратора, сделать это можно, нажав на иконку пользователя в правом верхнем углу, где затем нажать "Консоль администратора".</li>
-![integr1](/attachments/images/FAQ/ADMIN/Integration/integr1.png)
+<img src="/attachments/images/FAQ/ADMIN/Integration/integr1.png"/>
 
 После того, как Вы зашли в Консоль Администратора, Вам потребуется зайти в разделе "Интеграция" на вкладку "Служебные пользователи".
 ![integr2](/attachments/images/FAQ/ADMIN/Integration/integr2.png)

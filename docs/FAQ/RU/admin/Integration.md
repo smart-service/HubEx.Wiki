@@ -10,29 +10,30 @@
 <img src="/attachments/images/FAQ/ADMIN/Integration/integr1.png"/>
 
 После того, как Вы зашли в Консоль Администратора, Вам потребуется зайти в разделе "Интеграция" на вкладку "Служебные пользователи".
-![integr2](/attachments/images/FAQ/ADMIN/Integration/integr2.png)
+<img src="/attachments/images/FAQ/ADMIN/Integration/integr2.png"/>
 <li> Теперь Вам необходимо активировать Пользователя API. Переключив тумблер, выберите какие роли получат возможность использовать интеграцию со сторонними системами (рекомендуем выдавать такие права только Начальнику сервисной службы, либо Администратору). Также выберите участки, информацию по которым хотите интегрировать. Осталось нажать на кнопку "Сгенерировать" и скачать токен доступа.</li>
-![integr3](/attachments/images/FAQ/ADMIN/Integration/integr3.png)
+<img src="/attachments/images/FAQ/ADMIN/Integration/integr3.png"/>
 
 В скачанном текстовом документе скопируйте ключ.
 <li> Теперь зайдите в разделе "Интеграция" на вкладку "Ключи". Создайте 2 ключа: </li>
-- С названием "hubex_token", в поле "Значение" которого введите код из скачанного файла;
-![integr4](/attachments/images/FAQ/ADMIN/Integration/integr4.png)
-- С названием "request_path", в поле "Значение" которого введите "HubEx.INT.Bitrix24.Api/Api/webhook".
-![integr5](/attachments/images/FAQ/ADMIN/Integration/integr5.png)
-
+<ul>
+<li> С названием "hubex_token", в поле "Значение" которого введите код из скачанного файла;</li>
+<img src="/attachments/images/FAQ/ADMIN/Integration/integr4.png"/>
+<li> С названием "request_path", в поле "Значение" которого введите "HubEx.INT.Bitrix24.Api/Api/webhook".</li>
+<img src="/attachments/images/FAQ/ADMIN/Integration/integr5.png"/>
+</ul>
 После создания двух ключей вкладка "Ключи" должна выглядеть так:
-![integr6](/attachments/images/FAQ/ADMIN/Integration/integr6.png)
+<img src="/attachments/images/FAQ/ADMIN/Integration/integr6.png"/>
 
 <li> Теперь перейдите на сайт Битрикс 24, где, например, с помощью поиска перейдите на вкладку "Вебхуки". Нажмите на кнопку "Добавить вебхук", после чего выберите "Входящий вебхук".
 На открывшейся странице с правами доступа, Вам необходимо выбрать только пункты "Задачи" и "Задачи(расширенные права)", а затем внизу страницы нажать кнопку сохранить. </li>
-![integr7](/attachments/images/FAQ/ADMIN/Integration/integr7.png)
+<img src="/attachments/images/FAQ/ADMIN/Integration/integr7.png"/>
 
 После того, как Вы сохранили новый вебхук, у Вас появится ссылка, которую вам необходимо скопировать до "/profile/".
-![integr8](/attachments/images/FAQ/ADMIN/Integration/integr8.png)
+<img src="/attachments/images/FAQ/ADMIN/Integration/integr8.png"/>
 <li> Осталось зайти обратно в Консоль администратора на вкладку "Webhook'и", где нажать "Добавить webhook".</li>
 Укажите желаемое название для нового Вебхука, а затем в поле "URL webhook'a" введите "http://localhost:19081/${request_path}/${hubex_token}/?bitrix24Url=", где после знака равно (без пробелов) вставьте адрес, скопированный с Битрикс 24. Осталось привязать новый Вебхук к событию или же к определенной стадии заявки. После введения всей информации, не забудьте нажать кнопку "Сохранить."
-![integr9](/attachments/images/FAQ/ADMIN/Integration/integr9.png)
+<img src="/attachments/images/FAQ/ADMIN/Integration/integr9.png"/>
 
 </ol>
 </body>

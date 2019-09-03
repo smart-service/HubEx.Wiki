@@ -40,7 +40,7 @@
 <img src="/attachments/images/FAQ/USER/AdditionalFields/addfields5.png"/>
 
 <h5 id="checkmob">Просмотр дополнительных полей в МП.</h5>
-Все введенные доп. поля, конечно же, можно увидеть и в МП. На фото ниже Вы можете увидеть, как это выглядит в мобильном приложении.
+Все введенные доп. поля, конечно же, можно увидеть и в МП. На фото ниже, Вы можете увидеть, как это выглядит.
 
 <img src="/attachments/images/FAQ/USER/AdditionalFields/addfields6.jpg"/>
 

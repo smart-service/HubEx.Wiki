@@ -17,25 +17,25 @@
 <ol type="1">
 <li> Для начала Вам необходимо зайти в консоль администратора, сделать это можно, нажав на иконку пользователя в правом верхнем углу, где затем нажать "Консоль администратора". </li>
 
-![addfields1.png](/attachments/images/FAQ/USER/AdditionalFields/addfields1.png)
+<img src="/attachments/images/FAQ/USER/AdditionalFields/addfields1.png"/>
 
 <li> После того, как Вы зашли в Консоль Администратора, Вам потребуется зайти в разделе "Настройки системы" на вкладку "Дополнительные поля". Теперь нажмите на кнопку "Создать атрибут", в открывшемся окне заполните требуемые поля и обязательно укажите, что данный атрибут используется для заявок, сделать это можно посредством выбора соостветствующего пункта в выпадающем списке. Подробнее про создание атрибутов Вы можете прочитать [здесь.](https://wiki.hubex.ru/docs/FAQ/RU/admin/TicketAttribute.html) </li>
 
-![addfields2.png](/attachments/images/FAQ/USER/AdditionalFields/addfields2.png)
+<img src="/attachments/images/FAQ/USER/AdditionalFields/addfields2.png"/>
 
 <li> Теперь создав нужный Вам атрибут, необходимо выдать полномочия, чтобы он был доступен при создании заявки, а также, чтобы вы могли его видеть на последующих стадиях заявки. Для этого необходимо перейти в раздел "Настройки заявки" на вкладку "Поля на форме заявки". </li>
 
-![addfields3.png](/attachments/images/FAQ/USER/AdditionalFields/addfields3.png)
+<img src="/attachments/images/FAQ/USER/AdditionalFields/addfields3.png"/>
 
 <li> Выберите роли, для которых хотите выдать полномочие видеть и заполнять доп. поля при создании заявки. Для того, чтобы ускорить процесс, выберите сразу несколько ролей и все доступные стадии. Обратите внимание, что необходимо выдать полномочия для каждой из стадий, чтобы была возможность видеть доп. поля. Не забудьте сохранить внесенные изменения. </li>
 
-![addfields4.png](/attachments/images/FAQ/USER/AdditionalFields/addfields4.png)
+<img src="/attachments/images/FAQ/USER/AdditionalFields/addfields4.png"/>
 
 <h5 id="createtickwithaddfield">Создание заявки с использованием дополнительных полей.</h5>
 
  Теперь при создании заявки (про то, как создавать заявки, читайте [здесь](https://wiki.hubex.ru/docs/FAQ/RU/user/CreatingTicket.html)) Вы можете перейти на вкладку "Доп. поля", где будут те самые поля, которые вы создавали в Консоли Администратора.
 
-![addfields5.png](/attachments/images/FAQ/USER/AdditionalFields/addfields5.png)
+<img src="/attachments/images/FAQ/USER/AdditionalFields/addfields5.png"/>
 
 </ol>
 </body>

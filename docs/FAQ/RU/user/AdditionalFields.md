@@ -5,7 +5,9 @@
 <title>Быстрый переход внутри документа</title>
 <ul>
      <li><a href="#createaddfield">Добавлять дополнительные поля в консоли администратора;</a></li>
-     <li><a href="#createtickwithaddfield">Создавать заявки с использованием дополнительных полей.</a></li>
+     <li><a href="#createtickwithaddfield">Создавать заявки с использованием дополнительных полей;</a></li>
+     <li><a href="#checkmob">Просматривать дополнительные поля в МП.</a></li>
+
 </ul>
 </html>
 
@@ -36,6 +38,11 @@
 <p> Теперь при создании заявки (про то, как создавать заявки, читайте <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/CreatingTicket.html"> здесь</a>) Вы можете перейти на вкладку "Доп. поля", где будут те самые поля, которые вы создали в Консоли Администратора.</p>
 
 <img src="/attachments/images/FAQ/USER/AdditionalFields/addfields5.png"/>
+
+<h5 id="checkmob">Просмотр дополнительных полей в МП.</h5>
+Все введенные доп. поля, конечно же, можно увидеть и в МП. На фото ниже Вы можете увидеть, как это выглядит в мобильном приложении.
+
+<img src="/attachments/images/FAQ/USER/AdditionalFields/addfields6.jpg"/>
 
 </ol>
 </body>

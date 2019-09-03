@@ -26,6 +26,7 @@
 #### [Создание заказчика](docs/FAQ/RU/user/CreatingCustomer.md)
 #### [Создание заявки](docs/FAQ/RU/user/CreatingTicket.md)
 #### [Создание плановой заявки](docs/FAQ/RU/user/PlannedTickets.md)
+#### [Создание дополнительных полей в заявке](docs/FAQ/RU/user/AdditionalFields.md)
 #### [Использование фильтров для поиска заявок](docs/FAQ/RU/user/Filters.md)
 #### [Переход заявки по стадиям и удаление заявки](docs/FAQ/RU/user/ChangingStatus.md)
 #### [Прикрепление выполненных работ](docs/FAQ/RU/user/AttachingFiles.md)
@@ -42,6 +43,7 @@
 #### [Экспорт](docs/FAQ/RU/user/Export.md)
 #### [Импорт](docs/FAQ/RU/user/Import.md)
 #### [Брэндирование](docs/FAQ/RU/user/Branding.md)
+#### [Календарь](docs/FAQ/RU/user/Calendar.md)
 
 ## Консоль администратора в HubEx
 Для того, чтобы сделать использование нашей системы более удобной для Вас, существует вход для администратора, с помощью этого Вы сможете добавить информацию, которую впоследствии смогут использовать Ваши сотрудники.

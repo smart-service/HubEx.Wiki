@@ -58,7 +58,9 @@
 
  А для того, чтобы подать заявку через мобильное приложение, для начала Вам потребуется авторизоваться в нем, используя логин и пароль (те же самые, что и в WEB). Нажав на кнопку в правом нижнем углу, Вы сможете подать заявку, отсканировав QR-код или же выбрав объект из списка.
 
-<img src="/attachments/images/FAQ/USER/HubExStepByStep/stepbystep8.jpg"/>
+ <div>
+   <img  style="margin: 0 auto; display: block; max-width: 100%;" src="/attachments/images/FAQ/USER/HubExStepByStep/stepbystep8.jpg" />
+ </div>
 
  Про то, как создать QR-код и привязать его к объекту, читайте <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/CreatingTickTemplates.html"> здесь</a>, а чтобы более подробно узнать, как подавать заявки в мобильном приложении, читайте  <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/CreatingTicket.html#webticket"> здесь.</a>
 

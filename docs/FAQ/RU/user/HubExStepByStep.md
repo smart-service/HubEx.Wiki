@@ -22,7 +22,7 @@
 
 Теперь пошагово рассмотрим, что делать дальше:
 <ol type="1">
-<li><h5 id="addcompanies">Добавление обслуживаемых компаний.</h5></li>
+Шаг <li><h5 id="addcompanies">Добавление обслуживаемых компаний.</h5></li>
  Перейдя на вкладку "Компании", вы увидете одну уже созданную компанию - Вашу.
 
 <img src="/attachments/images/FAQ/USER/HubExStepByStep/stepbystep2.png"/>

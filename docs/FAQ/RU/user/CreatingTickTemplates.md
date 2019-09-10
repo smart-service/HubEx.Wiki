@@ -19,13 +19,13 @@ description: Как создать шаблон заявки, а также по
 <noscript><div><img src="https://mc.yandex.ru/watch/'{{ site.yandex_metric }}'" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
 <!-- /Yandex.Metrika counter -->
 
-#### Шаблоны заявок и паспорт объекта
+#### QR-коды и паспорт объекта
 В этом разделе вы научитесь:
 <html>
   <meta charset="utf-8">
   <title>Быстрый переход внутри документа</title>
  <ul>
-       <li><a href="#ticktempl">Создавать шаблоны заявок;</a></li>
+       <li><a href="#ticktempl">Создавать QR-коды;</a></li>
        <li><a href="#passport">Просматривать паспорт объекта;</a></li>
        <li><a href="#passporteng">Просматривать паспорт объекта в МП Инженера.</a></li>
  </ul>

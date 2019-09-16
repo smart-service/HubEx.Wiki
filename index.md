@@ -33,7 +33,9 @@
 #### [Переход заявки по стадиям и удаление заявки](docs/FAQ/RU/user/ChangingStatus.md)
 #### [Прикрепление выполненных работ](docs/FAQ/RU/user/AttachingFiles.md)
 #### [Создание шаблона оборудования и маркировка](docs/FAQ/RU/user/CreatingObjTemplates.md)
-<span class="updated-badge"></span><a href "docs/FAQ/RU/user/CreatingTickTemplates.md">Создание QR-кода и паспорта объекта</a>
+<div>
+<span class="updated-badge"></span><a class="h4" href="docs/FAQ/RU/user/CreatingTickTemplates.md">Создание QR-кода и паспорта объекта</a>
+</div>
 #### [Саморегистрация и подача заявок](docs/FAQ/RU/user/SelfRegister.md)
 #### [Ограничение видимости файлов](docs/FAQ/RU/user/ViewRestriction.md)
 #### [Сообщения по заявке и вкладка сообщения](docs/FAQ/RU/user/Messages.md)

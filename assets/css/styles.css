@@ -466,14 +466,16 @@ Small Device Styles
   }
 
 }
-
+.new-badge, .updated-badge {
+	background-repeat: no-repeat;
+	height: 20px;
+	display: inline-block;
+	vertical-align: middle;
+	margin-left: 20px;
+}
 .new-badge {
 	background-image: url('https://239911.selcdn.ru/Public/badge-new.svg');
-	background-repeat: no-repeat;
-	width: 32px;
 }
 .updated-badge {
 	background-image: url('https://239911.selcdn.ru/Public/badge-updated.svg');
-	background-repeat: no-repeat;
-	width: 32px;
 }

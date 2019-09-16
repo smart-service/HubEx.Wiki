@@ -469,9 +469,10 @@ Small Device Styles
 .new-badge, .updated-badge {
 	background-repeat: no-repeat;
 	height: 20px;
+	width: 32px;
 	display: inline-block;
 	vertical-align: middle;
-	margin-left: 20px;
+	margin-left: 10px;
 }
 .new-badge {
 	background-image: url('https://239911.selcdn.ru/Public/badge-new.svg');

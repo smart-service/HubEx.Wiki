@@ -34,7 +34,7 @@
 #### [Прикрепление выполненных работ](docs/FAQ/RU/user/AttachingFiles.md)
 #### [Создание шаблона оборудования и маркировка](docs/FAQ/RU/user/CreatingObjTemplates.md)
 <div>
-<span class="updated-badge"></span><a class="h4" href="docs/FAQ/RU/user/CreatingTickTemplates.md">Создание QR-кода и паспорта объекта</a>
+<div class="updated-badge"></div><a class="h4" href="docs/FAQ/RU/user/CreatingTickTemplates.md">Создание QR-кода и паспорта объекта</a>
 </div>
 #### [Саморегистрация и подача заявок](docs/FAQ/RU/user/SelfRegister.md)
 #### [Ограничение видимости файлов](docs/FAQ/RU/user/ViewRestriction.md)

@@ -468,12 +468,12 @@ Small Device Styles
 }
 
 .new-badge {
-	background-image: url('../badges/new.svg');
+	background-image: url('https://239911.selcdn.ru/Public/badge-new.svg');
 	background-repeat: none;
 	width: 32px;
 }
 .updated-badge {
-	background-image: url('../badges/updated.svg'),
+	background-image: url('https://239911.selcdn.ru/Public/badge-updated.svg'),
 	background-repeat: none;
 	width: 32px;
 }

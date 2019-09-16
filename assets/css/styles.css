@@ -468,12 +468,12 @@ Small Device Styles
 }
 
 .new-badge {
-	background-image: url('../images/new.svg');
+	background-image: url('../badges/new.svg');
 	background-repeat: none;
 	width: 32px;
 }
 .updated-badge {
-	background-image: url('../images/updated.svg'),
+	background-image: url('../badges/updated.svg'),
 	background-repeat: none;
 	width: 32px;
 }

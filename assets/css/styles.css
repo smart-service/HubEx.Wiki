@@ -473,7 +473,7 @@ Small Device Styles
 	width: 32px;
 }
 .updated-badge {
-	background-image: url('https://239911.selcdn.ru/Public/badge-updated.svg'),
+	background-image: url('https://239911.selcdn.ru/Public/badge-updated.svg');
 	background-repeat: none;
 	width: 32px;
 }

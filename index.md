@@ -25,7 +25,7 @@
 #### [Создание пользователя вашей системы](docs/FAQ/RU/user/CreatingUser.md)
 #### [Создание обслуживаемых компаний](docs/FAQ/RU/user/CreatingCompany.md)
 <h4>
-<a href="/docs/FAQ/RU/user/CreatingObjects.html">Ввод обслуживаемого оборудования</a><span class="updated-badge" title="16.09.2019"></span>
+<a href="/docs/FAQ/RU/user/CreatingObjects.html">Ввод обслуживаемого оборудования</a><span class="updated-badge" title="24.09.2019"></span>
 </h4>
 #### [Создание заказчика](docs/FAQ/RU/user/CreatingCustomer.md)
 #### [Создание заявки](docs/FAQ/RU/user/CreatingTicket.md)
@@ -70,7 +70,9 @@
 #### [Критичность заявки](docs/FAQ/RU/admin/Criticality.md)
 #### [Правила выбора исполнителя](docs/FAQ/RU/admin/RulesOfChoice.md)
 #### [Стадии заявки](docs/FAQ/RU/admin/StageType.md)
-#### [Элементы интерфейса](docs/FAQ/RU/admin/ElementsOfInterface.md)
+<h4>
+<a href="/docs/FAQ/RU/admin/ElementsOfInterface.html">Поля на форме заявки</a><span class="updated-badge" title="24.09.2019"></span>
+</h4>
 #### [Жизненный цикл заявки](docs/FAQ/RU/admin/TicketLifeCycle.md)
 ### Настройки системы
 #### [Дополнительные поля](docs/FAQ/RU/admin/TicketAttribute.md)

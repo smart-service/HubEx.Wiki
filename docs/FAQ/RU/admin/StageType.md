@@ -14,7 +14,7 @@
 
 
 ### Следующие шаги:
-- [Элементы интерфейса](./ElementsOfInterface.md)
+- [Поля  на форме заявки](./ElementsOfInterface.md)
 - [Жизненный цикл заявки](./TicketLifeCycle.md)
 - [Атрибуты заявки](./TicketAttribute.md)
 

@@ -1,4 +1,4 @@
-
+﻿
 /*
 Tipue Search 7.0
 Copyright (c) 2018 Tipue
@@ -70,7 +70,7 @@ var tipuesearch_string_10 = 'Related';
 var tipuesearch_string_11 = 'Search too short. Should be one character or more.';
 var tipuesearch_string_12 = 'Search too short. Should be';
 var tipuesearch_string_13 = 'символов или больше';
-var tipuesearch_string_14 = 'секнуд';
+var tipuesearch_string_14 = 'секунд';
 var tipuesearch_string_15 = 'Open Image';
 var tipuesearch_string_16 = 'Goto Page';
 

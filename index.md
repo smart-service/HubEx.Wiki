@@ -58,7 +58,9 @@
 <a href="/docs/FAQ/RU/admin/HowToEnterTheAdmin.html">Как войти в консоль администратора?</a><span class="new-badge" title="23.09.2019"></span>
 </h4>
 ### Администрирование
-#### [Настройка ролей](docs/FAQ/RU/admin/Roles.md)
+<h4>
+<a href="/docs/FAQ/RU/admin/Roles.html">Создание QR-кода и паспорта объекта</a><span class="updated-badge" title="16.09.2019"></span>
+</h4>
 #### [Настройка UI полномочий](docs/FAQ/RU/admin/UI_Permissions.md)
 ### Структура предприятия
 #### [Настройка участков](docs/FAQ/RU/admin/Places.md)

@@ -53,11 +53,15 @@
 
 Инженер сможет увидеть заявки, которые ему необходимо выполнить в течение дня.
 
-![cal9.png](/attachments/images/FAQ/USER/Calendar/cal9.png)
+<div>
+  <img  style="margin: 0 auto; display: block; max-width: 100%;" src="/attachments/images/FAQ/USER/Calendar/cal9.png" />
+</div>
 
 Нажав на надпись месяца, Вы можете просмотреть расписание на другой день месяца, также и по прошедшим дням.
 
-![cal10.png](/attachments/images/FAQ/USER/Calendar/cal10.png)
+<div>
+  <img  style="margin: 0 auto; display: block; max-width: 100%;" src="/attachments/images/FAQ/USER/Calendar/cal10.jpg" />
+</div>
 
 Нажав на любую из заявок, Вы перейдете в ее профиль для просмотра подробной информации по заявке.
 Обратите внимание, что при неуказании даты и времени исполнения, заявка не будет отображаться в календаре у сервисного исполнителя.

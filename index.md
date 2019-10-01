@@ -59,7 +59,7 @@
 </h4>
 ### Администрирование
 <h4>
-<a href="/docs/FAQ/RU/admin/Roles.html">Создание QR-кода и паспорта объекта</a><span class="updated-badge" title="16.09.2019"></span>
+<a href="/docs/FAQ/RU/admin/Roles.html">Настройка ролей</a><span class="updated-badge" title="16.09.2019"></span>
 </h4>
 #### [Настройка UI полномочий](docs/FAQ/RU/admin/UI_Permissions.md)
 ### Структура предприятия

@@ -17,6 +17,8 @@
 <html>
 <body>
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BJU4AUR2nOU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 <p> После того, как вы впервые зашли в свой аккаунт в ситеме HubEx, вы увидете следующий экран:</p>
 
 <img src="/attachments/images/FAQ/USER/HubExStepByStep/stepbystep1.png"/>
@@ -75,8 +77,6 @@
 </ol>
 </body>
 </html>
-
-Также смотрите обучающее видео на YouTube, в котором пошагово рассказывается, как начать работу с HubEx. Посмотреть его можно [по ссылке](https://www.youtube.com/watch?v=BJU4AUR2nOU).
 
 Вы проделали простые шаги по настройке системы. Наполнили ее основными данными. В дальнейшем, на основании этих данных можно выстроить бизнес-процессы, собирать статистику, проводить аналитику и многое другое. Подробнее читайте в соответствующих разделах [руководства](https://wiki.hubex.ru/).
 

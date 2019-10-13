@@ -20,7 +20,7 @@
 Чтобы облегчить Вам работу, мы уже создали в системе Вашу компанию, также вы можете увидеть предопределенные Роли для пользователей, Типы заявок и Виды работ.
 
 <h4>
-<a href="docs/FAQ/RU/user/HubExStepByStep.html">Создание QR-кода и паспорта объекта</a><span class="updated-badge" title="16.09.2019"></span>
+<a href="docs/FAQ/RU/user/HubExStepByStep.html">Знакомство с системой HubEx</a><span class="updated-badge" title="16.09.2019"></span>
 </h4>
 
 Для успешного начала работы выполните следующие шаги:

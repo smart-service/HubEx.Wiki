@@ -8,14 +8,30 @@
     margin: 0 auto;
 }
 .block {
-    background: #ED1940;
-    width: calc(100% / 3 - 30px); 
+    background: #4688FF;
+    width: calc(100% / 3 - 30px);
     min-width: 290px;
     max-width: 400px;
-    height: 250px; 
+    height: 250px;
     border-radius: 10px;
     margin: 15px;
     display: flex;
     align-items: center;
     justify-content: center;
+    flex-direction: column;
+}
+.article_title {
+    max-height: 50%;
+    /* max-width: 200px; */
+    font-size: 20px;
+    color: #ffffff;
+    text-align: center
+}
+.logo {
+    margin: 5%;
+    border: none;
+    padding: 0px;
+    /* margin-left: 15%; */
+    box-shadow: none;
+    min-width: 45px;
 }

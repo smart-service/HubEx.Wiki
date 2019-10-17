@@ -30,6 +30,9 @@
 <a href="/docs/FAQ/RU/user/CreatingObjects.html">Ввод обслуживаемого оборудования</a><span class="updated-badge" title="24.09.2019"></span>
 </h4>
 #### [Создание заказчика](docs/FAQ/RU/user/CreatingCustomer.md)
+<h4>
+<a href="/docs/FAQ/RU/user/CustomerApp.html">Использование мобильного приложения заказчика</a><span class="new-badge" title="17.10.2019"></span>
+</h4>
 #### [Создание заявки](docs/FAQ/RU/user/CreatingTicket.md)
 #### [Создание плановой заявки](docs/FAQ/RU/user/PlannedTickets.md)
 #### [Создание дополнительных полей в заявке](docs/FAQ/RU/user/AdditionalFields.md)

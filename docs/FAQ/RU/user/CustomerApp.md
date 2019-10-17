@@ -20,7 +20,7 @@
   <img  style="margin: 0 auto; display: block; max-width: 100%;" src="/attachments/images/FAQ/USER/CustomerApp/custapp1.jpg" />
 </div>
 
-<h5 id="#custappp1">Просмотр заявок и отслеживание их статусов.</h5>
+<h5 id="#custappp2">Просмотр заявок и отслеживание их статусов.</h5>
 После успешного входа в Ваш аккаунт, Вы окажетесь на вкладке "Мои", где будут отображены заявки, которые были поданы Вами.
 
 <div>

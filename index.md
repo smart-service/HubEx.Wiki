@@ -44,7 +44,7 @@
 <a href="/docs/FAQ/RU/user/CreatingTaskTemplates.html">Создание QR-кода и паспорта объекта</a><span class="updated-badge" title="14.10.2019"></span>
 </h4>
 <h4>
-<a href="/docs/FAQ/RU/user/CreatingObjTemplates.html">Создание паспорта объекта и последующая подача заявки</a><span class="updated-badge" title="14.10.2019"></span>
+<a href="/docs/FAQ/RU/user/HowToMakePassport.html">Создание паспорта объекта и последующая подача заявки</a><span class="new-badge" title="17.10.2019"></span>
 </h4>
 #### [Саморегистрация и подача заявок](docs/FAQ/RU/user/SelfRegister.md)
 #### [Ограничение видимости файлов](docs/FAQ/RU/user/ViewRestriction.md)

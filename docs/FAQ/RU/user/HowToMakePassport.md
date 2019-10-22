@@ -27,30 +27,30 @@
 
 <li>Нажмите кнопку "Создать QR-код".</li>
 
-<img src="/attachments/images/FAQ/USER/HubExStepByStep/htmp2.png"/>
+<img src="/attachments/images/FAQ/USER/HowToMakePassport/htmp2.png"/>
 
 <li>Заполните все требуемые поля: обязательно заполнить требуется поле "Описание", поставьте галочку рядом у окошка с надписью "Опубликовать", чтобы данный QR-код был доступен для сканирования и укажите тип заявки, и, конечно же, выберите объект, к которому будет привязан новый QR-код.</li>
 
-<img src="/attachments/images/FAQ/USER/HubExStepByStep/htmp3.png"/>
+<img src="/attachments/images/FAQ/USER/HowToMakePassport/htmp3.png"/>
 
 <li>Заполните поля на вкладке "Дополнительно". Заполнив поле "Исполнитель", выбранный исполнитель будет автоматически выбираться при создании заявки по данному объекту.</li>
 
-<img src="/attachments/images/FAQ/USER/HubExStepByStep/htmp4.png"/>
+<img src="/attachments/images/FAQ/USER/HowToMakePassport/htmp4.png"/>
 
 <li>Не забудьте нажать кнопку "Сохранить", чтобы сохранить введенную информацию. После нажатия на копку "Сохранить" страничка обновиться, и перед Вами будет новый QR-код, который можно загрузить и распечатать (про то, как это сделать, читайте [здесь](https://wiki.hubex.ru/docs/FAQ/RU/user/CreatingTaskTemplates.html#downloadqr)), и, конечно же, подать заявку. Про то, как это сделать, читайте [ниже]().</li>
 
-<img src="/attachments/images/FAQ/USER/HubExStepByStep/htmp5.png"/>
+<img src="/attachments/images/FAQ/USER/HowToMakePassport/htmp5.png"/>
 
 </ol>
 <li> Создание QR-кода из профиля объекта.</li>
 <ol>
 <li> Первым шагом является открытие профиля того объекта, к которому Вы хотите привязать QR-код:</li>
 
-<img src="/attachments/images/FAQ/USER/HubExStepByStep/htmp6.png"/>
+<img src="/attachments/images/FAQ/USER/HowToMakePassport/htmp6.png"/>
 
 <li> Теперь перейдите на вкладку "Маркировка", где нажмите кнопку "Маркировать".</li>
 
-<img src="/attachments/images/FAQ/USER/HubExStepByStep/htmp7.png"/>
+<img src="/attachments/images/FAQ/USER/HowToMakePassport/htmp7.png"/>
 
 <li> Заполните требуемые поля, подробно было рассказано про это в предыдущем пункте.</li>
 
@@ -63,13 +63,13 @@
 Первым шагом является вход в мобильное приложение инженера и открытие бокового меню, где нужно нажать на кнопку "Приемка и Маркировка".
 
 <div>
-  <img  style="margin: 0 auto; display: block; max-width: 100%;" src="/attachments/images/FAQ/USER/HubExStepByStep/htmp8.jpg" />
+  <img  style="margin: 0 auto; display: block; max-width: 100%;" src="/attachments/images/FAQ/USER/HowToMakePassport/htmp8.jpg" />
 </div>
 
 Далее, выберите, хотите ли Вы привязать данный QR-код к новому оборудованию или же к существующему. Выбрав вариант "Новое оборудование", Вы можете создать новый объект, которого не было в системе и сразу же привязать к нему QR-код. Выбрав же вариант "Существующее оборудование", выберите объект из списка всех объектов, к которому хотели бы привязать QR-код.
 
 <div>
-  <img  style="margin: 0 auto; display: block; max-width: 100%;" src="/attachments/images/FAQ/USER/HubExStepByStep/htmp9.jpg" />
+  <img  style="margin: 0 auto; display: block; max-width: 100%;" src="/attachments/images/FAQ/USER/HowToMakePassport/htmp9.jpg" />
 </div>
 
 Нажав на выбранный Вами объект, Вы перейдете в его профиль, где система предложит "Привязать QR-код". Подтвердив выбор, QR-код будет успешно привязан к новому объекту.
@@ -85,25 +85,25 @@
 <li> Если Ваш смартфон поддерживает распознавание QR-кодов, то Вы можете зайти в камеру и отсканировать QR-код, в противном же случае, используйте приложение для распознавания QR-кодов. После этого Вы окажетесь на WEB-форме с паспортом объекта.</li>
 
 <div>
-  <img  style="margin: 0 auto; display: block; max-width: 100%;" src="/attachments/images/FAQ/USER/HubExStepByStep/htmp10.jpg" />
+  <img  style="margin: 0 auto; display: block; max-width: 100%;" src="/attachments/images/FAQ/USER/HowToMakePassport/htmp10.jpg" />
 </div>
 
 <li> Нажав на кнопку "Подать заявку", Вы перейдете на вкладку подачи заявки. Выберите вид работ, и по желанию напишите комментарий и приложите файлы.</li>
 
 <div>
-  <img  style="margin: 0 auto; display: block; max-width: 100%;" src="/attachments/images/FAQ/USER/HubExStepByStep/htmp11.jpg" />
+  <img  style="margin: 0 auto; display: block; max-width: 100%;" src="/attachments/images/FAQ/USER/HowToMakePassport/htmp11.jpg" />
 </div>
 
 <li> Теперь укажите, как с Вами можно связаться. Выбрав вариант "не получать уведомления", вы, как и следует из названия, не будете получать информации по заявке.
 
 <div>
-  <img  style="margin: 0 auto; display: block; max-width: 100%;" src="/attachments/images/FAQ/USER/HubExStepByStep/htmp12.jpg" />
+  <img  style="margin: 0 auto; display: block; max-width: 100%;" src="/attachments/images/FAQ/USER/HowToMakePassport/htmp12.jpg" />
 </div>
 
 Выбрав же вариант "e-mail", Вы можете, указать свои контактные данные.
 
 <div>
-  <img  style="margin: 0 auto; display: block; max-width: 100%;" src="/attachments/images/FAQ/USER/HubExStepByStep/htmp13.jpg" />
+  <img  style="margin: 0 auto; display: block; max-width: 100%;" src="/attachments/images/FAQ/USER/HowToMakePassport/htmp13.jpg" />
 </div>
 
 Если Вы уже зарегестрированы в системе, то Вам придет push-уведомление, где Вам надо будет подтвердить, что это действительно Вы подали заявку, если же заявку подал новые пользователь, то ему на почту придет письмо с ссылкой для регистрации в системе.</li>

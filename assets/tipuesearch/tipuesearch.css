@@ -11,7 +11,11 @@ http://www.tipue.com/search
 
 /* basics */
 
-
+.tipue_search_group{
+    display: flex;
+    justify-content: flex-end;
+    background: linear-gradient(to top, #333232, #303036);
+}
 .tipue_search_group:after
 {
      content: "";
@@ -28,7 +32,8 @@ http://www.tipue.com/search
      font: 15px/1 'Open Sans', sans-serif;
      color: #333;   
      -webkit-font-smoothing: antialiased;
-	-moz-osx-font-smoothing: grayscale;
+    -moz-osx-font-smoothing: grayscale;
+
 }
 .tipue_search_icon
 {
@@ -166,7 +171,8 @@ http://www.tipue.com/search
      box-shadow: none;
 	outline: 0;
 	margin: 0;
-     color: #000;
+    color: #000;
+    margin-left: 20px;
 }
 .tipue_search_button
 {
@@ -180,7 +186,8 @@ http://www.tipue.com/search
      border-radius: 3px;
      box-sizing: border-box;
      cursor: pointer;
-	outline: 0;
+     outline: 0; 
+     margin-right: 20px;
 }
 .tipue_search_icon
 {

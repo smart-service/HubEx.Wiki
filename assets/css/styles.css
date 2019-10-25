@@ -252,6 +252,7 @@ Full-Width Styles
 .outer {
   width: 100%;
   box-sizing: border-box;
+  min-height: 700px;
 }
 
 .inner {

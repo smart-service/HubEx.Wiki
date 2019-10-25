@@ -252,7 +252,6 @@ Full-Width Styles
 .outer {
   width: 100%;
   box-sizing: border-box;
-  min-height: 700px;
 }
 
 .inner {
@@ -260,6 +259,7 @@ Full-Width Styles
   max-width: 900px;
   padding: 20px 10px;
   margin: 0 auto;
+  min-height: 700px;
 }
 
 #forkme_banner {

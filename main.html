@@ -1,0 +1,155 @@
+<html>
+    <head>
+        <link rel="stylesheet" type="text/css" href="./assets/css/style_main.css">
+        <link rel="stylesheet" type="text/css" href="./assets/css/styles.css">
+        <link rel="icon" type="image/png" sizes="124x124" href="./attachments/images/icon.png">
+        <meta charset='utf-8'>
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width,maximum-scale=2">
+        <meta itemprop="description" name="description" content="{% if page.description %}{{ page.description | truncate: 160 }}{% else %}{{ site.description | truncate: 160  }}{% endif %}" />
+        <script type="text/javascript" >
+                (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+                m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+                (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+                ym('{{ site.yandex_metric }}', "init", {
+                     id:'{{ site.yandex_metric }}',
+                     clickmap:true,
+                     trackLinks:true,
+                     accurateTrackBounce:true,
+                     webvisor:true
+                });
+             </script>
+             <noscript><div><img src="https://mc.yandex.ru/watch/'{{ site.yandex_metric }}'" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+             <!-- /Yandex.Metrika counter -->
+             <link rel="stylesheet" type="text/css" href="/assets/css/styles.css">
+    </head>
+   <body style='background: #fff'> 
+        <!-- HEADER -->
+        <div id="header_wrap" class="outer">
+            <header class="menu">
+              <h1 id="project_title"><a href="/" id="headTitle" style="color:#fff;">Руководство пользователя HubEx</a></h1>
+              <h2 id="project_tagline">Краткие инcтрукции по работе, основные понятия и первые шаги по освоению платформы.</h2>
+              <link href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.0/normalize.min.css">
+              <link rel="stylesheet" href="./assets/tipuesearch/tipuesearch.css">
+              <form action="./assets/tipuesearch/search.html" style="padding: 0px; width:100%; margin: 15px;margin-bottom:30px;">
+              <div class="tipue_search_group">
+              <input type="text" name="q" id="tipue_search_input" pattern=".{3,}" title="At least 3 characters" required placeholder = "Поиск по статьям"><button type="submit" class="tipue_search_button" style="color: #ccc;"><div class="tipue_search_icon">&#9906;</div></button>
+              </div>
+              </form>
+            </header>
+        </div>
+        <div id='main_content_wrap' class='outer'>
+            <div class='menu' style= "margin-top: 2%;">
+               
+                <div class='block' onclick="location='docs/FAQ/RU/user/HubExStepByStep.md'">
+                        <div class='inner_block'>
+                                <img src = 'attachments/logo/customer_red.svg' class='logo'>
+                                <div class='article_title' onclick="location='index.md'">Как начать работу с HubEx</div>
+                        </div>
+                        <div class="block_text">
+                                <p class="text_in_block">Создание заявок</p>
+                                <p class="text_in_block">Создание оборудования</p>
+                                <p class='text_in_block'>Создание пользователей</p>
+                        </div>
+                        <div>
+                                <div class='bottom_navigation'>
+                                         <img src='attachments/logo/article_new.svg' class = 'article_logo'>
+                                         <p class='article_number'>21 статья</p> 
+                                         <img src = 'attachments/logo/arrow.svg' class = 'arrow'> 
+                                </div>
+                        </div>
+                </div>
+                <div class='block' onclick="location='docs/FAQ/RU/index_web.md'">
+                        <div class="inner_block">
+                                <img src = 'attachments/logo/executor_red.svg' class='logo'>
+                                <div class='article_title' onclick="location='index.md'">Панель диспетчера</div>
+                        </div>
+                        <div class="block_text">
+                             <p class="text_in_block">Статьи про работу диспетчера</p>
+                             <p class='text_in_block'>Создание заявок</p>
+                             <p class="text_in_block">Управление объектами и оборудованием</p>
+                         </div>
+                         <div>
+                                <div class='bottom_navigation'>
+                                        <img src='attachments/logo/article_new.svg' class = 'article_logo'>
+                                        <p class='article_number'>21 статья</p> 
+                                        <img src = 'attachments/logo/arrow.svg' class = 'arrow'> 
+                                </div>
+                        </div>
+               </div>          
+                <div class='block' onclick="location='docs/FAQ/RU/index_app.md'">
+                         <div class = "inner_block">
+                                 <img src = 'attachments/logo/settings_red.svg' class='logo'>
+                                 <div class='article_title' onclick="location='index.md'">Мобильное приложение инженера</div>
+                         </div>
+                         <div class="block_text">
+                                <p class="text_in_block">Работа с заявками в мобильном приложении</p>
+                                <p class='text_in_block'>Выполнение заявок</p>
+                                <p class="text_in_block">Акты выполненных работ и чек-листы</p>
+                        </div>
+                        <div>
+                                <div class='bottom_navigation'>
+                                        <img src='attachments/logo/article_new.svg' class = 'article_logo'>
+                                        <p class='article_number'>21 статья</p> 
+                                        <img src = 'attachments/logo/arrow.svg' class = 'arrow'> 
+                                </div>
+                        </div>
+                </div>
+                <div class='block' onclick="location='docs/FAQ/RU/index_admin.md'">
+                        <div class='inner_block'>
+                                <img src = 'attachments/logo/Settings_red.svg' class='logo'>
+                                <div class='article_title' onclick="location='index.md'">Консоль администрирования</div>
+                        </div>
+                        <div class="block_text">
+                                <p class="text_in_block">Настройки видов работ</p>
+                                <p class='text_in_block'>Видимость полей в заявке</p>
+                                <p class="text_in_block">Настройка бизнес-процессов</p>
+                        </div>
+                        <div>
+                                <div class='bottom_navigation'>
+                                        <img src='attachments/logo/article_new.svg' class = 'article_logo'>
+                                        <p class='article_number'>21 статья</p> 
+                                        <img src = 'attachments/logo/arrow.svg' class = 'arrow'> 
+                                </div>
+                        </div>
+                </div>
+                <div class='block' onclick="location='docs/FAQ/RU/index_questions.md'">
+                        <div class = 'inner_block'>
+                                <img src = 'attachments/logo/key_red.svg' class='logo'>
+                                <div class='article_title' onclick="location='index.md'">Часто задаваемые вопросы</div>
+                        </div>
+                        <div class="block_text">
+                                <p class="text_in_block">Пустой экран формы заявки</p>
+                                <p class="text_in_block">Не получается создать объект</p>
+                                <p class='text_in_block'>Как настроить уведомление на почту</p>
+                        </div>
+                        <div>
+                                <div class='bottom_navigation'>
+                                        <img src='attachments/logo/article_new.svg' class = 'article_logo'>
+                                        <p class='article_number'>21 статья</p> 
+                                        <img src = 'attachments/logo/arrow.svg' class = 'arrow'> 
+                                </div>
+                        </div>
+                </div>
+                <div class='block' onclick="location='docs/FAQ/RU/index_video.md'">
+                        <div class='inner_block'>
+                                <img src = 'attachments/logo/key_red.svg' class='logo'>
+                                <div class='article_title' onclick="location='index.md'">Обучающие видеоролики</div>
+                        </div>
+                        <div class="block_text">
+                                <p class="text_in_block">Как начать работу с HubEx</p>
+                                <p class="text_in_block">Создание cправочников для работы</p>
+                                <p class='text_in_block'>Основные элементы HubEx</p>
+                        </div>
+                        <div>
+                                <div class='bottom_navigation'>
+                                        <img src='attachments/logo/article_new.svg' class = 'article_logo'>
+                                        <p class='article_number'>21 статья</p> 
+                                        <img src = 'attachments/logo/arrow.svg' class = 'arrow'> 
+                                </div>
+                        </div>
+                </div>
+            </div>
+         </div>
+    </body>
+</html>

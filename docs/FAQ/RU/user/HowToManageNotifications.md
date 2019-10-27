@@ -20,20 +20,24 @@
 <li> Копирование исходного уведомления:</li>
 Для того чтобы сократить время и не создавать новый "триггер" вручную, Вы можете скопировать имеющийся. Для этого, к примеру, перейдем в "профиль" триггера "Уведомление заявка выполнена".
 
- <img src="/attachments/images/FAQ/USER/HowToManageNotifications/htmn2.png"/>
+<img src="/attachments/images/FAQ/USER/HowToManageNotifications/htmn2.png"/>
 
 Нажмите кнопку "Копировать", после чего вернитесь обратно в список всех триггеров. В самом низу будет триггер с названием "Копия ...".
 
-  <img src="/attachments/images/FAQ/USER/HowToManageNotifications/htmn3.png"/>
+<img src="/attachments/images/FAQ/USER/HowToManageNotifications/htmn3.png"/>
 
  <li> Адаптирование "триггера" под формат почты:</li>
 Перейдем в "профиль" нового "триггера", нажав на него. Можем изменить название под более подходящее, например "Уведомление Заявка выполнена e-mail".
 
-  <img src="/attachments/images/FAQ/USER/HowToManageNotifications/htmn4.png"/>
+
+<img src="/attachments/images/FAQ/USER/HowToManageNotifications/htmn4.png"/>
+
 
 Теперь самое важное: в пункте "Способ отправки сообщения" выбираем e-mail, и вместо "Tт" выбираем "M (со стрелочкой вниз)".
 
-  <img src="/attachments/images/FAQ/USER/HowToManageNotifications/htmn5.jpg"/>
+
+<img src="/attachments/images/FAQ/USER/HowToManageNotifications/htmn5.jpg"/>
+
 
 Нажимаем сохранить.
 

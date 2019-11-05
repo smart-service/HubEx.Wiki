@@ -70,7 +70,10 @@
 <a href="/docs/FAQ/RU/user/TheDifferenceBetweenObjectTypes.html">Что делать, если при создании оборудования система просит указать родительский объект?</a><span class="new-badge" title="27.10.2019"></span>
 </h4>
 <h4>
-<a href="/docs/FAQ/RU/user/HowToSendInvitation.html">Как отправлять приглашение для сотрудника/заказчика?</a><span class="new-badge" title="27.10.2019"></span>
+<a href="/docs/FAQ/RU/user/HowToSendInvitation.html">Как отправлять приглашение для сотрудника/заказчика?</a><span class="new-badge" title="04.11.2019"></span>
+</h4>
+<h4>
+<a href="/docs/FAQ/RU/user/SuperAndUsualUser.html">Вход под учётной записью "Владельца тенанта" и обычного пользователя тенанта.</a><span class="new-badge" title="05.11.2019"></span>
 </h4>
 ## Консоль администратора в HubEx
 Для того, чтобы сделать использование нашей системы более удобной для Вас, существует вход для администратора, с помощью этого Вы сможете добавить информацию, которую впоследствии смогут использовать Ваши сотрудники.

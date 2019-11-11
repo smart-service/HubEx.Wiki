@@ -6,6 +6,7 @@
     align-content:center;
     max-width: 1200px;
     margin: 0 auto;
+    margin-top: 2%;
 }
 .block {
     background: #ffffff;
@@ -42,7 +43,10 @@
     padding: 10px;
     /* margin-left: 15%; */
     box-shadow: none;
-    min-width: 45px;
+    min-width: 40px;
+}
+.block:hover {
+    cursor: pointer;
 }
 .block:after {
     position: absolute;
@@ -66,9 +70,9 @@
             transform-origin: left;
 }
 .block:hover:after {
-    -webkit-transform: scaleX(0.9);
-        -ms-transform: scaleX(0.9);
-            transform: scaleX(0.9);
+    -webkit-transform: scaleX(1);
+        -ms-transform: scaleX(1);
+            transform: scaleX(1);
   }
   .inner_block {
       margin: 0px;

@@ -14,7 +14,7 @@
 <!-- /Yandex.Metrika counter -->
 <link rel="stylesheet" type="text/css" href="/assets/css/styles.css">
 Для успешного начала работы выполните следующие шаги:
-#### [Создание пользователя вашей системы](/user/CreatingUser.md)
+#### [Создание пользователя вашей системы](/FAQ/RU/user/CreatingUser.md)
 #### [Создание обслуживаемых компаний](docs/FAQ/RU/user/CreatingCompany.md)
 <h4>
 <a href="/docs/FAQ/RU/user/CreatingObjects.html">Ввод обслуживаемого оборудования</a><span class="updated-badge" title="24.09.2019"></span>

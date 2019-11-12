@@ -14,12 +14,12 @@
 <!-- /Yandex.Metrika counter -->
 <link rel="stylesheet" type="text/css" href="/assets/css/styles.css">
 Для успешного начала работы выполните следующие шаги:
-#### [Создание пользователя вашей системы](docs/FAQ/RU/user/CreatingUser.md)
+#### [Создание пользователя вашей системы](/user/CreatingUser.html)
 #### [Создание обслуживаемых компаний](docs/FAQ/RU/user/CreatingCompany.md)
 <h4>
 <a href="/docs/FAQ/RU/user/CreatingObjects.html">Ввод обслуживаемого оборудования</a><span class="updated-badge" title="24.09.2019"></span>
 </h4>
-#### [Создание заказчика](docs/FAQ/RU/user/CreatingCustomer.md)
+#### [Создание заказчика](docs/FAQ/RU/user/CreatingCustomer.html)
 #### [Создание заявки](docs/FAQ/RU/user/CreatingTicket.md)
 #### [Создание плановой заявки](docs/FAQ/RU/user/PlannedTickets.md)
 #### [Создание дополнительных полей в заявке](docs/FAQ/RU/user/AdditionalFields.md)

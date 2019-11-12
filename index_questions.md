@@ -38,3 +38,8 @@
 <a href="/docs/FAQ/RU/admin/HowToEnterTheAdmin.html">Как войти в консоль администратора?</a><span class="new-badge" title="23.09.2019"></span>
 </h4>
 #### [Пошаговая интеграция с Битрикс 24](docs/FAQ/RU/admin/Integration.md)
+
+
+
+____
+- [Перейти в меню](http://wiki.hubex.ru)

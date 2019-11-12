@@ -40,3 +40,8 @@
 #### [Дополнительные поля](docs/FAQ/RU/admin/TicketAttribute.md)
 ### Интеграция
 #### [Пошаговая интеграция с Битрикс 24](docs/FAQ/RU/admin/Integration.md)
+
+
+
+____
+- [Перейти в меню](http://wiki.hubex.ru)

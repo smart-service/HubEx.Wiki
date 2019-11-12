@@ -44,3 +44,8 @@
 <h4>
 <a href="/docs/FAQ/RU/user/Calendar.html">Календарь</a><span class="new-badge" title="23.09.2019"></span>
 </h4>
+
+
+
+____
+- [Перейти в меню](http://wiki.hubex.ru)

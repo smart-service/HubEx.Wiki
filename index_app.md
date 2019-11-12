@@ -14,7 +14,7 @@
 <noscript><div><img src="https://mc.yandex.ru/watch/'{{ site.yandex_metric }}'" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
 <!-- /Yandex.Metrika counter -->
 <link rel="stylesheet" type="text/css" href="/assets/css/styles.css">
-## Работа в мобильном приложении: 
+## Работа в мобильном приложении:
 #### [Создание заявки](docs/FAQ/RU/user/CreatingTicket.md)
 #### [Прикрепление выполненных работ](docs/FAQ/RU/user/AttachingFiles.md)
 <h4>
@@ -24,3 +24,8 @@
 #### [Сообщения по заявке и вкладка сообщения](docs/FAQ/RU/user/Messages.md)
 #### [Чеклисты](docs/FAQ/RU/user/Checklists.md)
 #### [Рейтинги](docs/FAQ/RU/user/Ratings.md)
+
+
+
+____
+- [Перейти в меню](http://wiki.hubex.ru)

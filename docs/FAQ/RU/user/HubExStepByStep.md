@@ -20,7 +20,7 @@
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/BJU4AUR2nOU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<p> После того, как вы впервые зашли в свой аккаунт в системе HubEx, вы увидите следующий экран:</p>
+<p> После того, как Вы впервые зашли в свой аккаунт в системе HubEx, Вы увидите следующий экран:</p>
 
 <img src="/attachments/images/FAQ/USER/HubExStepByStep/stepbystep1.png"/>
 
@@ -31,14 +31,14 @@
  <ol>
  <li> Оборудование, которое требует сервисного обслуживания;</li>
  <li> Заявки, которые поступают по оборудованию;</li>
- <li> Сервисные инженеры, которые обслуживают оборудование, закрепленное за компание);</li>
+ <li> Сервисные инженеры, которые обслуживают оборудование, закрепленное за компанией);</li>
  <li> Сотрудники Заказчика, которые имеют возможность подавать заявки.</li>
 </ol>
  Компанией может выступать как физическое лицо, так и юридическое, которое является владельцем оборудования. Начинать работу с системой необходимо с заведения компаний, чтобы затем привязать новое оборудование и заказчиков к конкретным компаниям. Это позволит навести порядок в системе и отслеживать актуальный статус заявок от клиентов.
 
 <img src="/attachments/images/FAQ/USER/HubExStepByStep/stepbystep2.png"/>
 
-<p>Перейдя на вкладку "Компании", вы увидите одну уже созданную компанию - Вашу.</p>
+<p>Перейдя на вкладку "Компании", Вы увидите одну уже созданную компанию - Вашу.</p>
 
 <img src="/attachments/images/FAQ/USER/HubExStepByStep/stepbystep3.png"/>
 
@@ -89,7 +89,7 @@
    <img  style="margin: 0 auto; display: block; max-width: 100%;" src="/attachments/images/FAQ/USER/HubExStepByStep/stepbystep8.jpg" />
  </div>
 
- <p>Про то, как создать QR-код и привязать его к объекту, читайте <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/CreatingTickTemplates.html"> здесь</a>, а чтобы более подробно узнать, как подавать заявки в мобильном приложении, читайте  <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/CreatingTicket.html#webticket"> здесь.</a></p>
+ <p>Про то, как создать QR-код и привязать его к объекту, читайте <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/CreatingTaskTemplates.html"> здесь</a>, а чтобы более подробно узнать, как подавать заявки в мобильном приложении, читайте  <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/CreatingTicket.html#webticket"> здесь.</a></p>
 
 </ol>
 </body>

@@ -15,7 +15,9 @@
 <link rel="stylesheet" type="text/css" href="/assets/css/styles.css">
 Для успешного начала работы выполните следующие шаги:
 #### [Создание пользователя вашей системы](docs/FAQ/RU/user/CreatingUser.md)
-#### [Создание обслуживаемых компаний](docs/FAQ/RU/user/CreatingCompany.md)
+<h4>
+<a href="/docs/FAQ/RU/user/CreatingCompany.html">Создание обслуживаемых компаний</a><span class="updated-badge" title="16.09.2019"></span>
+</h4>
 <h4>
 <a href="/docs/FAQ/RU/user/CreatingObjects.html">Ввод обслуживаемого оборудования</a><span class="updated-badge" title="24.09.2019"></span>
 </h4>

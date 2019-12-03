@@ -36,6 +36,10 @@
 <a href="/docs/FAQ/RU/admin/ElementsOfInterface.html">Поля на форме заявки</a><span class="updated-badge" title="24.09.2019"></span>
 </h4>
 #### [Жизненный цикл заявки](docs/FAQ/RU/admin/TicketLifeCycle.md)
+### Настройки оповещений
+<h4>
+<a href="/docs/FAQ/RU/admin/Notifications.html">Настройка оповещений</a><span class="new-badge" title="03.12.2019"></span>
+</h4>
 ### Настройки системы
 #### [Дополнительные поля](docs/FAQ/RU/admin/TicketAttribute.md)
 ### Интеграция

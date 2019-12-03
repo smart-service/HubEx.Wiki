@@ -16,7 +16,7 @@
 ### Следующие шаги:
 - [Поля  на форме заявки](./ElementsOfInterface.md)
 - [Жизненный цикл заявки](./TicketLifeCycle.md)
-- [Атрибуты заявки](./TicketAttribute.md)
+- [Настройка оповещений](.//Notifications.md)
 
 ____
 - [Перейти в меню](http://wiki.hubex.ru)

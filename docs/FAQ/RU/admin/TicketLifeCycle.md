@@ -22,7 +22,7 @@
 
 
 ### Следующие шаги:
-- [Атрибуты заявки](./TicketAttribute.md)
+- [Настройка оповещений](./Notifications.md)
 - [Интеграция](./Integration.md)
 
 

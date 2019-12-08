@@ -13,7 +13,7 @@
 <noscript><div><img src="https://mc.yandex.ru/watch/'{{ site.yandex_metric }}'" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
 <!-- /Yandex.Metrika counter -->
 <link rel="stylesheet" type="text/css" href="/assets/css/styles.css">
-## Ответы на частозадаваемые вопросы
+## Ответы на часто задаваемые вопросы
 На этой странице вы можете найти ответы на вопросы, возникающие у пользователей.
 
 <h4>

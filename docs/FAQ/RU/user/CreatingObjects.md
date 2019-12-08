@@ -60,13 +60,13 @@ description: Как добавить обслуживаемые компание
   <img  style="margin: 0 auto; display: block; max-width: 100%;" src="/attachments/images/FAQ/USER/CreatingObjects/obj12.png" />
 </div>
 
-<li>Из профиля родительского объекта, нажав на кнопку "3 точки", после чего нажать "Создать дочерний объект | обородувание";</li>
+<li>Из профиля родительского объекта, нажав на кнопку "3 точки", после чего нажать "Создать дочерний объект | оборудование";</li>
 
 <div>
   <img  style="margin: 0 auto; display: block; max-width: 100%;" src="/attachments/images/FAQ/USER/CreatingObjects/obj13.jpg" />
 </div>
 
-<li>Из списка всех объектов, нажав на кнопку "3 точки" на конкретном объекте, после чего выбрать "Создать дочерний объект | обородувание".</li>
+<li>Из списка всех объектов, нажав на кнопку "3 точки" на конкретном объекте, после чего выбрать "Создать дочерний объект | оборудование".</li>
 
 <div>
   <img  style="margin: 0 auto; display: block; max-width: 100%;" src="/attachments/images/FAQ/USER/CreatingObjects/obj14.jpg" />

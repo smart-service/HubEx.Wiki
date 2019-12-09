@@ -20,7 +20,6 @@
 </h4>
 ### Администрирование
 #### [Настройка ролей](docs/FAQ/RU/admin/Roles.md)
-#### [Настройка UI полномочий](docs/FAQ/RU/admin/UI_Permissions.md)
 ### Структура предприятия
 #### [Настройка участков](docs/FAQ/RU/admin/Places.md)
 #### [Типы оборудования](docs/FAQ/RU/admin/ObjectsType.md)

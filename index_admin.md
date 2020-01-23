@@ -43,7 +43,9 @@
 #### [Дополнительные поля](docs/FAQ/RU/admin/TicketAttribute.md)
 ### Интеграция
 #### [Пошаговая интеграция с Битрикс 24](docs/FAQ/RU/admin/Integration.md)
-
+<h4>
+<a href="/docs/FAQ/RU/admin/TicketMail.html">Интеграция по эл. почте</a><span class="new-badge" title="23.01.2020"></span>
+</h4>
 
 
 ____

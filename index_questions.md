@@ -41,7 +41,9 @@
 <h4>
 <a href="/docs/FAQ/RU/user/ChangeOfObjectType.html">Как поменять тип существующего оборудования?</a><span class="new-badge" title="06.12.2019"></span>
 </h4>
-
+<h4>
+<a href="/docs/FAQ/RU/user/HowToManageGmailIntegration.html">Как настроить интеграцию с Gmail (почта Google)?</a><span class="new-badge" title="29.01.2020"></span>
+</h4>
 
 ____
 - [Перейти в меню](http://wiki.hubex.ru)

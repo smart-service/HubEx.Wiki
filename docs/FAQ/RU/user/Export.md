@@ -33,7 +33,7 @@
 
 После нажатия на кнопку экспорта заявок, нажмите на "Расширенный экспорт", затем у Вас откроется окошко выбора экспортируемых полей.
 
-![exptick3.png](/attachments/images/FAQ/USER/Export/exptick3.png)
+![exptick3.png](/attachments/images/FAQ/USER/Export/exptick3.jpg)
 
 Выбрав интересующие Вас поля, нажмите кнопку "Экспорт".
 

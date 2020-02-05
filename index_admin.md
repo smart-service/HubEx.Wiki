@@ -23,6 +23,9 @@
 ### Структура предприятия
 #### [Настройка участков](docs/FAQ/RU/admin/Places.md)
 #### [Типы оборудования](docs/FAQ/RU/admin/ObjectsType.md)
+<h4>
+<a href="/docs/FAQ/RU/admin/ObjectClass.html">Классы оборудования</a><span class="new-badge" title="05.02.2020"></span>
+</h4>
 ### Настройки заявки
 #### [Виды работ](docs/FAQ/RU/admin/WorkType.md)
 #### [Типы заявок](docs/FAQ/RU/admin/TicketType.md)

@@ -41,7 +41,7 @@
 #### [Рейтинги](docs/FAQ/RU/user/Ratings.md)
 #### [История изменений](docs/FAQ/RU/user/HistoryOfChanges.md)
 <h4>
-<a href="/docs/FAQ/RU/user/Export.html">Экспорт</a><span class="updated-badge" title="20.02.2020"></span>
+<a href="/docs/FAQ/RU/user/Export.html">Экспорт</a><span class="updated-badge" title="18.02.2020"></span>
 </h4>
 #### [Импорт](docs/FAQ/RU/user/Import.md)
 #### [Брэндирование](docs/FAQ/RU/user/Branding.md)

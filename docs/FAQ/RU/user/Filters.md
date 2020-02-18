@@ -48,7 +48,7 @@
 
 Введите название быстрого фильтра.
 
-![filter9.png](/attachments/images/FAQ/USER/Filters/filter9.png)
+![filter9.jpg](/attachments/images/FAQ/USER/Filters/filter9.jpg)
 
 После сохранения нового фильтра, он будет доступен вам в графе "быстрые фильтры".
 

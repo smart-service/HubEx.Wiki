@@ -26,7 +26,7 @@
 #### [Создание плановой заявки](docs/FAQ/RU/user/PlannedTickets.md)
 #### [Создание дополнительных полей в заявке](docs/FAQ/RU/user/AdditionalFields.md)
 <h4>
-<a href="/docs/FAQ/RU/user/Filters.html">Использование фильтров для поиска заявок</a><span class="new-badge" title="18.02.2020"></span>
+<a href="/docs/FAQ/RU/user/Filters.html">Использование фильтров для поиска заявок</a><span class="updated-badge" title="18.02.2020"></span>
 </h4>
 #### [Переход заявки по стадиям и удаление заявки](docs/FAQ/RU/user/ChangingStatus.md)
 #### [Прикрепление выполненных работ](docs/FAQ/RU/user/AttachingFiles.md)

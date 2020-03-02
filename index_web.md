@@ -47,18 +47,15 @@
 <a href="/docs/FAQ/RU/user/Calendar.html">Календарь</a><span class="new-badge" title="23.09.2019"></span>
 </h4>
 ### Склады
+В системе HubEx появился новый функционал - склады. Теперь в системе HubEx владельцы бизнеса смогут отслеживать расход материалов, актуальное количество остатков и иметь возможность загружать справочник материалов в систему. А сервисный специалист может указывать количество тех материалов, которые были использованы по заявке.
 <h4>
-<a href="/docs/FAQ/RU/user/Materials.html">Материалы</a><span class="new-badge" title="20.01.2020"></span>
-</h4>
-### Склады
-<h4>
-<a href="/docs/FAQ/RU/user/Materials.html">Материалы</a><span class="new-badge" title="20.01.2020"></span>
+<a href="/docs/FAQ/RU/user/Materials.html">Материалы</a><span class="new-badge" title="01.03.2020"></span>
 </h4>
 <h4>
-<a href="/docs/FAQ/RU/user/TicketWithMaterials.html">Подача заявки с указанием материалов</a><span class="new-badge" title="20.01.2020"></span>
+<a href="/docs/FAQ/RU/user/TicketWithMaterials.html">Подача заявки с указанием материалов</a><span class="new-badge" title="01.03.2020"></span>
 </h4>
 <h4>
-<a href="/docs/FAQ/RU/user/Withdrawals.html">Расход</a><span class="new-badge" title="20.01.2020"></span>
+<a href="/docs/FAQ/RU/user/Withdrawals.html">Расход</a><span class="new-badge" title="01.03.2020"></span>
 </h4>
 
 

@@ -42,7 +42,11 @@
 <a href="/docs/FAQ/RU/user/ChangeOfObjectType.html">Как поменять тип существующего оборудования?</a><span class="new-badge" title="06.12.2019"></span>
 </h4>
 <h4>
+<<<<<<< Updated upstream
 <a href="/docs/FAQ/RU/user/HowToManageGmailIntegration.html">Как настроить интеграцию с Gmail (почта Google)?</a><span class="new-badge" title="29.01.2020"></span>
+=======
+<a href="/docs/FAQ/RU/user/HowToContactSupport.html">Как обратиться в техническую поддержку?</a><span class="new-badge" title="03.03.2020"></span>
+>>>>>>> Stashed changes
 </h4>
 
 ____

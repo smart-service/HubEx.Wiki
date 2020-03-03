@@ -23,6 +23,9 @@
 ### Структура предприятия
 #### [Настройка участков](docs/FAQ/RU/admin/Places.md)
 #### [Типы оборудования](docs/FAQ/RU/admin/ObjectsType.md)
+<h4>
+<a href="/docs/FAQ/RU/admin/ObjectClass.html">Классы оборудования</a><span class="new-badge" title="05.02.2020"></span>
+</h4>
 ### Настройки заявки
 #### [Виды работ](docs/FAQ/RU/admin/WorkType.md)
 #### [Типы заявок](docs/FAQ/RU/admin/TicketType.md)
@@ -43,7 +46,12 @@
 #### [Дополнительные поля](docs/FAQ/RU/admin/TicketAttribute.md)
 ### Интеграция
 #### [Пошаговая интеграция с Битрикс 24](docs/FAQ/RU/admin/Integration.md)
-
+<h4>
+<a href="/docs/FAQ/RU/admin/ServiceUsers.html">Служебные пользователи</a><span class="new-badge" title="18.02.2020"></span>
+</h4>
+<h4>
+<a href="/docs/FAQ/RU/admin/TicketMail.html">Интеграция по эл. почте</a><span class="new-badge" title="23.01.2020"></span>
+</h4>
 
 
 ____

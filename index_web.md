@@ -25,7 +25,9 @@
 #### [Создание заявки](docs/FAQ/RU/user/CreatingTicket.md)
 #### [Создание плановой заявки](docs/FAQ/RU/user/PlannedTickets.md)
 #### [Создание дополнительных полей в заявке](docs/FAQ/RU/user/AdditionalFields.md)
-#### [Использование фильтров для поиска заявок](docs/FAQ/RU/user/Filters.md)
+<h4>
+<a href="/docs/FAQ/RU/user/Filters.html">Использование фильтров для поиска заявок</a><span class="updated-badge" title="18.02.2020"></span>
+</h4>
 #### [Переход заявки по стадиям и удаление заявки](docs/FAQ/RU/user/ChangingStatus.md)
 #### [Прикрепление выполненных работ](docs/FAQ/RU/user/AttachingFiles.md)
 #### [Создание шаблона оборудования и маркировка](docs/FAQ/RU/user/CreatingObjTemplates.md)
@@ -40,7 +42,9 @@
 #### [Геопозиция](docs/FAQ/RU/user/GeoPosition.md)
 #### [Рейтинги](docs/FAQ/RU/user/Ratings.md)
 #### [История изменений](docs/FAQ/RU/user/HistoryOfChanges.md)
-#### [Экспорт](docs/FAQ/RU/user/Export.md)
+<h4>
+<a href="/docs/FAQ/RU/user/Export.html">Экспорт</a><span class="updated-badge" title="20.02.2020"></span>
+</h4>
 #### [Импорт](docs/FAQ/RU/user/Import.md)
 #### [Брэндирование](docs/FAQ/RU/user/Branding.md)
 <h4>

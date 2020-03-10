@@ -37,7 +37,9 @@
 <h4>
 <a href="/docs/FAQ/RU/admin/ElementsOfInterface.html">Поля на форме заявки</a><span class="updated-badge" title="24.09.2019"></span>
 </h4>
-#### [Жизненный цикл заявки](docs/FAQ/RU/admin/TicketLifeCycle.md)
+<h4>
+<a href="/docs/FAQ/RU/admin/docs/FAQ/RU/admin/TicketLifeCycle.html">Жизненный цикл заявки</a><span class="updated-badge" title="10.03.2020"></span>
+</h4>
 ### Настройки оповещений
 <h4>
 <a href="/docs/FAQ/RU/admin/Notifications.html">Настройка оповещений</a><span class="new-badge" title="03.12.2019"></span>

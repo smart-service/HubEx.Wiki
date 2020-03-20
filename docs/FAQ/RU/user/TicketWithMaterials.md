@@ -38,7 +38,7 @@
   <img  style="margin: 0 auto; display: block; max-width: 100%;" src="/attachments/images/FAQ/USER/TicketWithMaterials/twm4.jpg" />
 </div>
 
-Здесь он может указать количество или отказаться от некоторых из предложенных материалов
+Здесь он может указать указать те рекомендованные материалы, которые он использовал в работе
 
 <div>
   <img  style="margin: 0 auto; display: block; max-width: 100%;" src="/attachments/images/FAQ/USER/TicketWithMaterials/twm5.jpg" />

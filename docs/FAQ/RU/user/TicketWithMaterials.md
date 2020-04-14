@@ -42,7 +42,6 @@
   <img  style="margin: 0 auto; display: block; max-width: 100%;" src="/attachments/images/FAQ/USER/TicketWithMaterials/twm5.jpg" />
 </div>
 
-Заполнив данную информацию, пользователь сможет перевести заявку на последующую стадию.
 
 
 ### Следующие шаги:

@@ -53,13 +53,13 @@
 ### Склады
 В системе HubEx появился новый функционал - работа с материалами. Теперь в системе HubEx владельцы бизнеса смогут отслеживать расход материалов, актуальное количество остатков и иметь возможность загружать справочник материалов в систему. А сотрудник может указывать количество тех материалов, которые были использованы по заявке.
 <h4>
-<a href="/docs/FAQ/RU/user/Materials.html">Материалы</a><span class="new-badge" title="01.03.2020"></span>
+<a href="/docs/FAQ/RU/user/Materials.html">Загрузка материалов в HubEx</a><span class="new-badge" title="01.03.2020"></span>
 </h4>
 <h4>
-<a href="/docs/FAQ/RU/user/TicketWithMaterials.html">Подача заявки с указанием материалов</a><span class="new-badge" title="01.03.2020"></span>
+<a href="/docs/FAQ/RU/user/Withdrawals.html">Расходование материалов по заявке и просмотр расходов</a><span class="new-badge" title="01.03.2020"></span>
 </h4>
 <h4>
-<a href="/docs/FAQ/RU/user/Withdrawals.html">Расход</a><span class="new-badge" title="01.03.2020"></span>
+<a href="/docs/FAQ/RU/user/TicketWithMaterials.html">Подача заявки с указанием рекомендованных материалов</a><span class="new-badge" title="01.03.2020"></span>
 </h4>
 
 ____

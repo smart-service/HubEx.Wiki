@@ -61,6 +61,9 @@
 <h4>
 <a href="/docs/FAQ/RU/user/TicketWithMaterials.html">Подача заявки с указанием рекомендованных материалов</a><span class="new-badge" title="01.03.2020"></span>
 </h4>
+<h4>
+<a href="/docs/FAQ/RU/user/SettingsWithMaterials.html">Настройки для работы с материалами</a><span class="new-badge" title="01.03.2020"></span>
+</h4>
 
 ____
 - [Перейти в меню](http://wiki.hubex.ru)

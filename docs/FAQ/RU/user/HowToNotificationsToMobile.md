@@ -11,4 +11,3 @@ Huawei <a href="https://www.lumias.ru/kak-vklyuchit-uvedomleniya-na-ekrane-telef
 Samsung <a href="https://www.samsung.com/ru/support/faqs/kak-otkljuchit-uvedomleniya/">https://www.samsung.com/ru/support/faqs/kak-otkljuchit-uvedomleniya/</a><br>
 
 
-- [Перейти в меню](http://wiki.hubex.ru)

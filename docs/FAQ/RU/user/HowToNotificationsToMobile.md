@@ -7,7 +7,7 @@
 
 <html>
   <body>
-<p>iPhone: https://yablyk.com/548458-kak-otklyuchit-i-nastroit-uvedomleniya-na-iphone-i-ipad/<br>
+<p>iPhone<a href="https://yablyk.com/548458-kak-otklyuchit-i-nastroit-uvedomleniya-na-iphone-i-ipad/">https://yablyk.com/548458-kak-otklyuchit-i-nastroit-uvedomleniya-na-iphone-i-ipad/</a><br>
 Xiaomi: http://infosmartphone.ru/xiaomi/574-nastroika-uvedomlenii-prilozhenii-v-smartfone-xiaomi<br>
 Huawei: https://www.lumias.ru/kak-vklyuchit-uvedomleniya-na-ekrane-telefona-huawei/<br>
 Samsung: https://www.samsung.com/ru/support/faqs/kak-otkljuchit-uvedomleniya/</p>

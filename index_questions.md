@@ -17,6 +17,10 @@
 На этой странице вы можете найти ответы на вопросы, возникающие у пользователей.
 
 <h4>
+<a href="/docs/FAQ/RU/user/HowToNotificationsToMobile.html">Проверка настроек уведомлений на мобильном устройстве</a><span class="new-badge" title="17.10.2019"></span>
+</h4>
+
+<h4>
 <a href="/docs/FAQ/RU/user/HowToMakePassport.html">Создание паспорта объекта с возможностью саморегистрации</a><span class="new-badge" title="17.10.2019"></span>
 </h4>
 <h4>

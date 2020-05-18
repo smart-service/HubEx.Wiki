@@ -7,10 +7,10 @@
 
 <html>
   <body>
-<p>iPhone<a href="https://yablyk.com/548458-kak-otklyuchit-i-nastroit-uvedomleniya-na-iphone-i-ipad/">https://yablyk.com/548458-kak-otklyuchit-i-nastroit-uvedomleniya-na-iphone-i-ipad/</a><br>
-Xiaomi: http://infosmartphone.ru/xiaomi/574-nastroika-uvedomlenii-prilozhenii-v-smartfone-xiaomi<br>
-Huawei: https://www.lumias.ru/kak-vklyuchit-uvedomleniya-na-ekrane-telefona-huawei/<br>
-Samsung: https://www.samsung.com/ru/support/faqs/kak-otkljuchit-uvedomleniya/</p>
+<p>iPhone <a href="https://yablyk.com/548458-kak-otklyuchit-i-nastroit-uvedomleniya-na-iphone-i-ipad/">https://yablyk.com/548458-kak-otklyuchit-i-nastroit-uvedomleniya-na-iphone-i-ipad/</a><br>
+Xiaomi <a href="http://infosmartphone.ru/xiaomi/574-nastroika-uvedomlenii-prilozhenii-v-smartfone-xiaomi">http://infosmartphone.ru/xiaomi/574-nastroika-uvedomlenii-prilozhenii-v-smartfone-xiaomi</a><br>
+Huawei <a href="https://www.lumias.ru/kak-vklyuchit-uvedomleniya-na-ekrane-telefona-huawei/">https://www.lumias.ru/kak-vklyuchit-uvedomleniya-na-ekrane-telefona-huawei/</a><br>
+Samsung <a href="https://www.samsung.com/ru/support/faqs/kak-otkljuchit-uvedomleniya/">https://www.samsung.com/ru/support/faqs/kak-otkljuchit-uvedomleniya/</a><br>
 </body>
 </html>
 ___

@@ -17,7 +17,7 @@
 На этой странице вы можете найти ответы на вопросы, возникающие у пользователей.
 
 <h4>
-<a href="/docs/FAQ/RU/user/HowToNotificationsToMobile.html">Проверка настроек уведомлений на мобильном устройстве</a><span class="new-badge" title="17.10.2019"></span>
+<a href="/docs/FAQ/RU/user/HowToNotificationsToMobile.html">Что делать, если не приходят уведомления?</a><span class="new-badge" title="17.10.2019"></span>
 </h4>
 
 <h4>

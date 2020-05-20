@@ -10,4 +10,5 @@ Xiaomi <a href="http://infosmartphone.ru/xiaomi/574-nastroika-uvedomlenii-priloz
 Huawei <a href="https://www.lumias.ru/kak-vklyuchit-uvedomleniya-na-ekrane-telefona-huawei/">https://www.lumias.ru/kak-vklyuchit-uvedomleniya-na-ekrane-telefona-huawei/</a><br>
 Samsung <a href="https://www.samsung.com/ru/support/faqs/kak-otkljuchit-uvedomleniya/">https://www.samsung.com/ru/support/faqs/kak-otkljuchit-uvedomleniya/</a><br>
 
+В крайнем случае, если настройки в приложении и мобильном устройстве выставлены верно, нужно выйти из приложения (следует нажать на три палочки слева вверху приложения - «Выйти») и полностью закрыть его. После этого снова следует зайти в приложение и залогиниться в нём. 
 

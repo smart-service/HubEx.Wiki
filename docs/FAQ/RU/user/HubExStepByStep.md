@@ -20,14 +20,10 @@
 <html>
 <body>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BJU4AUR2nOU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<p style="padding-left: 60px;"><iframe src="https://www.youtube.com/embed/BJU4AUR2nOU" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
 
 <!-- <p> После того, как вы впервые зашли в свой аккаунт в системе HubEx, вы увидите следующий экран:</p>
-
 <img src="/attachments/images/FAQ/USER/HubExStepByStep/stepbystep1.png"/> -->
-<!--comment-->
-<!--<p>Теперь пошагово рассмотрим, что делать дальше:</p>
-<ol type="1">-->
 
  <h5 id="addcompanies">Создание Компании</h5>
  Компания – верхний уровень системы. Справочник является общим для нашей компании, заказчиков и подрядчиков. К Компании привязываются:
@@ -37,7 +33,7 @@
       <li> Сервисные инженеры, которые обслуживают оборудование;</li>
       <li> Сотрудники компании-заказчика, которые подают заявки.</li>
 </ul>
- Компанией может выступать физическое лицо, индивидуальный предприниматель или юридическое лицо. Эта информация вносится при создании компании. <!--Начинать работу с системой необходимо с заведения компаний, чтобы затем привязать новое оборудование и заказчиков к конкретным компаниям. Это позволит навести порядок в системе и отслеживать актуальный статус заявок от клиентов.-->
+ Компанией может выступать физическое лицо, индивидуальный предприниматель или юридическое лицо. Эта информация вносится при создании компании. 
 
 <!--<img src="/attachments/images/FAQ/USER/HubExStepByStep/stepbystep2.png"/>-->
 
@@ -52,7 +48,7 @@
 
 <img src="/attachments/images/FAQ/USER/HubExStepByStep/stepbystep4.png"/>
 
-<p>Нажав на кнопку <strong>Создать объект<strong>, вы можете внести оборудование. Подробная инструкция по заполнению всех реквизитов оборудования находится в статье <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/CreatingObjects.html"> Ввод обслуживаемого оборудования.</a>  Необязательно вводить все объекты вручную. Для быстроты ввода данных можно использовать функцию <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/Import.html#objects"> импорта оборудования. </a></p>
+<p>Нажав на кнопку <strong>Создать объект</strong>, вы можете внести оборудование. Подробная инструкция по заполнению всех реквизитов оборудования находится в статье <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/CreatingObjects.html"> Ввод обслуживаемого оборудования.</a>  Необязательно вводить все объекты вручную. Для быстроты ввода данных можно использовать функцию <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/Import.html#objects"> импорта оборудования. </a>
 
 <img src="/attachments/images/FAQ/USER/HubExStepByStep/stepbystep5.png"/>
 

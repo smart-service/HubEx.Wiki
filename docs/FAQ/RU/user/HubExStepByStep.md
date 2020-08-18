@@ -71,17 +71,18 @@
 
 <img src="/attachments/images/FAQ/USER/HubExStepByStep/stepbystep7.png"/>
 
-<p>Для подачи Заявки через мобильное приложение необходимо нажать на кнопку в правом нижнем углу.</p>
+<p>Для подачи Заявки через мобильное приложение необходимо нажать на кнопку в правом нижнем углу. Подробнео о создании Заявок в web- и мобильном приложении описано в статье <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/CreatingTicket.html#webticket"> Создание заявок.</a></p>
 
  <div>
    <img  style="margin: 0 auto; display: block; max-width: 100%;" src="/attachments/images/FAQ/USER/HubExStepByStep/stepbystep8.jpg" />
  </div>
 
-<p>Подробнео о создании Заявок в web- и мобильном приложении описано в статье <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/CreatingTicket.html#webticket"> Создание заявок.</a></p>
+
 </li>
 <li>Полуавтоматический режим подразумевает сканирования QR-кода оборудования через мобильное приложение. QR-код - это способ маркировки объекта. Подробнее об этом читайте в статье <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/CreatingTaskTemplates.html"> QR-коды и паспорт объекта</a>.
-</html>
 </body>
+</html>
+
 
 Вы проделали простые шаги по настройке системы. Наполнили ее основными данными. В дальнейшем, на основании этих данных можно выстроить бизнес-процессы, собирать статистику, проводить аналитику и многое другое. Подробнее обо всех функциях читайте в соответствующих разделах [руководства](https://wiki.hubex.ru/).
 

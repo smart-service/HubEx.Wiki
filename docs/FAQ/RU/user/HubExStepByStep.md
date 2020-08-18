@@ -18,7 +18,7 @@
 
   Ознакомьтесь с подробным видеороликом по началу работы с системой HubEx и прочтите пошаговую инструкцию ниже.
 
-<p style="padding-left: 120px;"><iframe src="https://www.youtube.com/embed/BJU4AUR2nOU" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
+<p style="padding-left: 150px;"><iframe src="https://www.youtube.com/embed/BJU4AUR2nOU" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
 
 <!-- <p> После того, как вы впервые зашли в свой аккаунт в системе HubEx, вы увидите следующий экран:</p>
 <img src="/attachments/images/FAQ/USER/HubExStepByStep/stepbystep1.png"/> -->
@@ -58,7 +58,7 @@
 
 Заказчик - пользователь системы, который только создает Заявки. Сотрудник - сервисный специалист или диспетчер. Сотрудники могут и создавать, и выполнять Заявки. Сотрудники являются лицензируемыми пользователями системы.</p>
 
-<img style="margin: 0 auto; display: block; max-width: 100%;" src="/attachments/images/FAQ/USER/HubExStepByStep/stepbystep6.png"/>
+<img src="/attachments/images/FAQ/USER/HubExStepByStep/stepbystep6.png"/>
 
 <p>Подробное создание Заказчиков и сервсиных специалистов описано в соответствующих статьях <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/CreatingCustomer.html"> Создание заказчиков</a> и <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/CreatingUser.html"> Создание сотрудников.</a></p>
 

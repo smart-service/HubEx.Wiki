@@ -77,9 +77,9 @@
    <img  style="margin: 0 auto; display: block; max-width: 100%;" src="/attachments/images/FAQ/USER/HubExStepByStep/stepbystep8.jpg" />
  </div>
 
-
 </li>
-<li>Полуавтоматический режим подразумевает сканирования QR-кода оборудования через мобильное приложение. QR-код - это способ маркировки объекта. Подробнее об этом читайте в статье <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/CreatingTaskTemplates.html"> QR-коды и паспорт объекта</a>.
+<li>Полуавтоматический режим подразумевает сканирования QR-кода оборудования через мобильное приложение. QR-код - это способ маркировки объекта. Подробнее об этом читайте в статье <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/CreatingTaskTemplates.html"> QR-коды и паспорт объекта</a>. </li>
+
 </body>
 </html>
 

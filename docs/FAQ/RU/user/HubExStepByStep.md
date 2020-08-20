@@ -16,9 +16,9 @@
 
   После внесения этих данных можно перейти к <a href="#ticketcreation"> созданию заявок в мобильном и WEB-приложениях.</a>
 
-  Ознакомьтесь с подробным видеороликом по началу работы с системой HubEx и прочтите пошаговую инструкцию ниже.
+  <p>Ознакомьтесь с подробным видеороликом по началу работы с системой HubEx и прочтите пошаговую инструкцию ниже.</p>
 
-<p style="padding-left: 150px;"><iframe src="https://www.youtube.com/embed/BJU4AUR2nOU" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
+<iframe src="https://www.youtube.com/embed/BJU4AUR2nOU" width="100%" height="450px" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
 <!-- <p> После того, как вы впервые зашли в свой аккаунт в системе HubEx, вы увидите следующий экран:</p>
 <img src="/attachments/images/FAQ/USER/HubExStepByStep/stepbystep1.png"/> -->

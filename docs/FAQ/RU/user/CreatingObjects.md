@@ -67,8 +67,10 @@ description: Как добавить обслуживаемые компание
         href="https://wiki.hubex.ru/docs/FAQ/RU/admin/ObjectsType.html"> Типы объектов.</a>
 
 <p>Таким образом будет выглядеть родительский объект.</p>
-
-![obj10.png](/attachments/images/FAQ/USER/CreatingObjects/obj10.png)
+ <div>
+   <img  style="margin: 0 auto; display: block; max-width: 100%;" src="attachments/images/FAQ/USER/CreatingObjects/obj10.png" />
+ </div>
+<!--![obj10.png](/attachments/images/FAQ/USER/CreatingObjects/obj10.png)-->
 
 <p>Созать дочерний объект в системе можно тремя способами:</p>
 <ol>

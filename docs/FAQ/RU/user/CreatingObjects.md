@@ -64,7 +64,7 @@ description: Как добавить обслуживаемые компание
     бизнес-центру.</p>
 
 <p>Добавить новые <strong>Типы объектов</strong> для вашего бизнеса может администратор системы. Подробно об этом написано в статье <a
-        href="https://wiki.hubex.ru/docs/FAQ/RU/admin/ObjectsType.html"> Типы объектов.</a>
+        href="https://wiki.hubex.ru/docs/FAQ/RU/admin/ObjectsType.html"> Типы объектов</a>.</p>
 
 <p>Таким образом будет выглядеть родительский объект.</p>
  <div>
@@ -134,7 +134,7 @@ description: Как добавить обслуживаемые компание
 
 
  <div>
-   <img  src="/attachments/images/FAQ/USER/CreatingObjects/obj3.jpg" />
+   <img  src="/attachments/images/FAQ/USER/CreatingObjects/obj3.JPG" />
  </div>
 
 
@@ -209,8 +209,9 @@ description: Как добавить обслуживаемые компание
 </div>
 
 
-<p> Вы можете ускорить процесс добавления <strong>Объектов</strong> в систему HubEx с помощью функциии <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/Import.html#objects"> Импорта.</a></p>
-<p> Для выгрузки информации по <strong>Объектам</strong> из системы HubEx можно воспользоваться функцией <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/Export.html#objects"> Экспорта.</a></p>
+<p> Вы можете ускорить процесс добавления <strong>Объектов</strong> в систему HubEx с помощью функциии <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/Import.html#objects"> Импорта</a>.</p>
+<p> Для выгрузки информации по <strong>Объектам</strong> из системы HubEx можно воспользоваться функцией <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/Export.html#objects"> Экспорта</a>.</p>
+
 
 ### Следующие шаги:
 - [Создание заказчика](./CreatingCustomer.md)

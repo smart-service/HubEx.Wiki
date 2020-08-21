@@ -70,18 +70,17 @@ description: Как добавить обслуживаемые компание
  <div>
    <img  src="/attachments/images/FAQ/USER/CreatingObjects/obj10.png" />
  </div>
-<!--![obj10.png](/attachments/images/FAQ/USER/CreatingObjects/obj10.png)-->
 
 <p>Созать дочерний объект в системе можно тремя способами:</p>
 <ol>
-    <li>По кнопке <strong>Создать объект</strong> на вкладке <strong>Объекты|Оборудование</strong> с указанием родительского элемента.</li>
+    <li><p>По кнопке <strong>Создать объект</strong> на вкладке <strong>Объекты|Оборудование</strong> с указанием родительского элемента.</p></li>
 
     <div>
         <img style="margin: 0 auto; display: block; max-width: 100%;"
              src="/attachments/images/FAQ/USER/CreatingObjects/obj12.png"/>
     </div>
 
-    <li>Из профиля родительского объекта по кнопке <strong>Контекстного меню</strong> (3 точки) - <strong>Создать дочерний объект|оборудование</strong>.
+    <li><p>Из профиля родительского объекта по кнопке <strong>Контекстного меню</strong> (3 точки) - <strong>Создать дочерний объект|оборудование</strong>.</p>
     </li>
 
     <div>
@@ -89,8 +88,8 @@ description: Как добавить обслуживаемые компание
              src="/attachments/images/FAQ/USER/CreatingObjects/obj13.jpg"/>
     </div>
 
-    <li>Из перечня всех <strong>Объектов</strong>, нажав на кнопку <strong>Контекстного меню</strong> (3 точки) - <strong>Создать дочерний объект|оборудование</strong> на
-        конкретном объекте.
+    <li><p>Из перечня всех <strong>Объектов</strong>, нажав на кнопку <strong>Контекстного меню</strong> (3 точки) - <strong>Создать дочерний объект|оборудование</strong> на
+        конкретном объекте.</p>
     </li>
 
     <div>
@@ -108,7 +107,9 @@ description: Как добавить обслуживаемые компание
     позже. Это позволит оптимизировать список объектов и
     рассматривать как те объекты, которые уже обслуживаются, так и те по которым вы еще не проводите работы.</p>
 
-![obj11.png](/attachments/images/FAQ/USER/CreatingObjects/obj11.png)
+ <div>
+   <img  src="/attachments/images/FAQ/USER/CreatingObjects/obj11.png" />
+ </div>
 
 <h5 id="fillelse">Заполнение остальных полей</h5>
 
@@ -122,32 +123,48 @@ description: Как добавить обслуживаемые компание
 <p>В поле <strong>Компания-владелец</strong> выберите, какой компании принадлежит обслуживаемое оборудование. Выбор
     осуществляется из списка созданных вами компаний.</p>
 
-![obj2.png](/attachments/images/FAQ/USER/CreatingObjects/obj2.png)
+ <div>
+   <img  src="/attachments/images/FAQ/USER/CreatingObjects/obj2.png" />
+ </div>
 
 <p>В поле <strong>Участок</strong> выберите, к какому участку принадлежит оборудование. С помощью <strong>Участков</strong> происходит разделение объектов
     и оборудования на зоны. <strong>Участки</strong> обеспечивают видимость <strong>Объектов</strong> для одних инженеров,
     но не позволяют видеть <strong>Заявки</strong> и <strong>Объекты</strong> другим. Например, Северо-Запад Санкт-Петербурга, Краснодарский
     край и др. <strong>Объект</strong> может принадлежать к нескольким участкам одновременно.</p>
 
-![obj3.JPG](/attachments/images/FAQ/USER/CreatingObjects/obj3.JPG)
+
+ <div>
+   <img  src="/attachments/images/FAQ/USER/CreatingObjects/obj3.jpg" />
+ </div>
+
 
 <p><strong>Адрес</strong> объекта добавляется по кнопке <strong>Добавить адрес</strong>. <strong>Адрес</strong> обязателен для родительских объектов.</p>
 
-![obj6.png](/attachments/images/FAQ/USER/CreatingObjects/obj6.png)
+ <div>
+   <img  src="/attachments/images/FAQ/USER/CreatingObjects/obj6.png" />
+ </div>
+
 
 <p>При создании нового <strong>Объекта</strong> вы можете приложить файлы, которые способны помочь сервисным инженерам в работе с
     оборудованием. Это могут быть фотографии, инструкции в текстовых файлах.</p>
 
-![obj7.png](/attachments/images/FAQ/USER/CreatingObjects/obj7.png)
+ <div>
+   <img  src="/attachments/images/FAQ/USER/CreatingObjects/obj7.png" />
+ </div>
+
 
 <p>На вкладке <strong>Контакты</strong> при создании нового <strong>Объекта</strong> можно указать контактную информацию ответственного по объекту,
     например сервисного инженера.</p>
 
-![obj4.png](/attachments/images/FAQ/USER/CreatingObjects/obj4.png)
+ <div>
+   <img  src="/attachments/images/FAQ/USER/CreatingObjects/obj4.png" />
+ </div>
 
 <p>Также можно ввести дополнительные контакты, например, охранника или вахтёра.</p>
 
-![obj9.png](/attachments/images/FAQ/USER/CreatingObjects/obj9.png)
+ <div>
+   <img  src="/attachments/images/FAQ/USER/CreatingObjects/obj9.png" />
+ </div>
 
 <p>На вкладке <strong>Обслуживание</strong> запоняются следующие поля:</p>
 <ul>
@@ -175,7 +192,11 @@ description: Как добавить обслуживаемые компание
     выполнить или проверить по <strong>Объекту</strong>. Подробнее о создании <strong>Чек-листов</strong> читайте <a
             href="https://wiki.hubex.ru/docs/FAQ/RU/users/Checklists.html"> здесь</a>.</p>
 
-![obj5.png](/attachments/images/FAQ/USER/CreatingObjects/ObjectService.jpg)
+
+ <div>
+   <img  src="/attachments/images/FAQ/USER/CreatingObjects/ObjectService.jpg" />
+ </div>
+
 
 <p>Вкладка <strong>QR-коды</strong> позволит вам промаркировать <strong>Объект</strong> - создать и привязать <strong>Паспорт
     объекта</strong>. С помощью него вы можете просмотреть основную информацию об

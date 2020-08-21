@@ -68,7 +68,7 @@ description: Как добавить обслуживаемые компание
 
 <p>Таким образом будет выглядеть родительский объект.</p>
  <div>
-   <img  style="margin: 0 auto; display: block; max-width: 100%;" src="attachments/images/FAQ/USER/CreatingObjects/obj10.png" />
+   <img  src="/attachments/images/FAQ/USER/CreatingObjects/obj10.png" />
  </div>
 <!--![obj10.png](/attachments/images/FAQ/USER/CreatingObjects/obj10.png)-->
 

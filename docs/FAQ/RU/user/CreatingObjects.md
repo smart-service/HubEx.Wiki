@@ -208,9 +208,16 @@ description: Как добавить обслуживаемые компание
          src="/attachments/images/FAQ/USER/CreatingObjects/obj8.png"/>
 </div>
 
+<p>На вкладке <strong>Доп.поля</strong> вы можете выбрать дополнительные реквизиты для заполнения, например, указать площадь <strong>Объекта</strong>, если это необходимо. Добавить в список другие поля может администратор вашей системы.</p>
+
+ <div>
+   <img  src="/attachments/images/FAQ/USER/CreatingObjects/AdditionalField.jpg" />
+ </div>
 
 <p> Вы можете ускорить процесс добавления <strong>Объектов</strong> в систему HubEx с помощью функциии <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/Import.html#objects"> Импорта</a>.</p>
 <p> Для выгрузки информации по <strong>Объектам</strong> из системы HubEx можно воспользоваться функцией <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/Export.html#objects"> Экспорта</a>.</p>
+
+
 
 
 ### Следующие шаги:

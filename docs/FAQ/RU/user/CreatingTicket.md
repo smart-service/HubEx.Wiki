@@ -164,7 +164,7 @@ description: Как добавить наряды, по которым буду�
     <strong>Объект</strong> (2) или создать новый <strong>Объект</strong> (3).</p>
 
   <div>
-        src="/attachments/images/FAQ/USER/CreatingTicket/tick33.png"/>
+       <img src="/attachments/images/FAQ/USER/CreatingTicket/tick33.png"/>
     </div>
 
 
@@ -173,7 +173,7 @@ description: Как добавить наряды, по которым буду�
 <ol>
     <li>Нажать на кнопку <strong>Подачи заявки</strong> в правом нижнем углу.</li>
     <div>
-        src="/attachments/images/FAQ/USER/CreatingTicket/tick2.png"/>
+        <img src="/attachments/images/FAQ/USER/CreatingTicket/tick2.png"/>
     </div>
 
     <li>Если у <strong>Объекта</strong> есть QR-код, то отсканировать этот QR-код. Далее заполнить все необходимые поля <strong>Заявки</strong>. По кнопке

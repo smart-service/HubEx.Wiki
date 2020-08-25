@@ -27,7 +27,7 @@
     <strong>Исполнитель</strong>, <strong>Плановое создание заявок</strong>.</p>>
 <p>Процесс заполнения полей <strong>Плановой заявки</strong> не сильно отличается от заполнения простой <strong>Заявки</strong>. Поэтому рекомендуем
     сначала ознакомиться со статьей о <a
-            href="https://wiki.hubex.ru/docs/FAQ/RU/user/CreatingTicket.html#webticket">создании Заявок.</a>А далее мы
+            href="https://wiki.hubex.ru/docs/FAQ/RU/user/CreatingTicket.html#webticket">создании Заявок.</a> А далее мы
     рассмотрим различия между ними.</p>
 
 <p><strong>Плановые заявки</strong> можно подавать не только на один <strong>Объект/оборудование</strong>, но и на группу <strong>Объектов</strong> с общими признаками.

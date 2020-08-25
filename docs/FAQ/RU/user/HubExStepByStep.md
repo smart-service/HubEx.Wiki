@@ -37,7 +37,7 @@
 <!--<img src="/attachments/images/FAQ/USER/HubExStepByStep/stepbystep2.png"/>-->
 
 <p>Перед началом работы на вкладке <strong>Компании</strong> вы увидите одну уже созданную компанию - вашу.</p>
-<img src="/attachments/images/FAQ/USER/HubExStepByStep/stepbystep2.png"/>
+<img style="margin: 0 auto; display: block; max-width: 100%;" src="/attachments/images/FAQ/USER/HubExStepByStep/stepbystep2.png"/>
 
 <p>Если ваша компания обслуживает несколько организаций, вы можете добавить каждую из них в справочник по кнопке <strong>Создать компанию</strong>. Подробная инструкция по заполнению реквизитов <strong>Компании</strong> находится в статье <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/CreatingCompany.html"> Создание обслуживаемых компаний. </a></p>
 <img src="/attachments/images/FAQ/USER/HubExStepByStep/Companies.jpg"/>

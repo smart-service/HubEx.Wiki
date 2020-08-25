@@ -31,13 +31,16 @@ description: Как создавать профили пользователей
 </html>
 
 <p>Для создания пользователя необходимо перейти на вкладку <strong>Пользователи</strong> бокового меню, а затем выбрать <strong>Сотрудники</strong>. По нажатию на кнопку <strong>Добавить сотрудника</strong> откроется форма создания пользователя.</p>
-![User1](/attachments/images/FAQ/USER/CreatingUser/user1.png)
+
+<div>
+  <img  style="margin: 0 auto; display: block; max-width: 100%;" src="/attachments/images/FAQ/USER/CreatingUser/user1.png" />
+</div>
 
 В системе HubEx используется понятие <strong>Роль</strong> – это набор прав и полномочий, определяющих доступ к функционалу системы. Созданием и корректировкой <strong>Ролей</strong> занимается администратор вашей системы. Подробно об этом можно прочитать [здесь](https://wiki.hubex.ru/docs/FAQ/RU/admin/Roles.html).
 
-![User9.png](/attachments/images/FAQ/USER/CreatingUser/user9.png)
-
-
+<div>
+  <img  style="margin: 0 auto; display: block; max-width: 100%;" src="/attachments/images/FAQ/USER/CreatingUser/user9.png" />
+</div>
 
 <h5 id="createadm">Создание Сервисного инженера и Начальника сервисной службы</h5>
 

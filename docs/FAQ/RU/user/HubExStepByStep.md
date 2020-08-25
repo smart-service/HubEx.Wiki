@@ -40,12 +40,12 @@
 <img style="margin: 0 auto; display: block; max-width: 100%;" src="/attachments/images/FAQ/USER/HubExStepByStep/stepbystep2.png"/>
 
 <p>Если ваша компания обслуживает несколько организаций, вы можете добавить каждую из них в справочник по кнопке <strong>Создать компанию</strong>. Подробная инструкция по заполнению реквизитов <strong>Компании</strong> находится в статье <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/CreatingCompany.html"> Создание обслуживаемых компаний. </a></p>
-<img src="/attachments/images/FAQ/USER/HubExStepByStep/Companies.jpg"/>
+<img style="margin: 0 auto; display: block; max-width: 100%;" src="/attachments/images/FAQ/USER/HubExStepByStep/Companies.jpg"/>
 
 <h5 id="addobjects">Создание обслуживаемого оборудования</h5>
 <p> Внести необходимое оборудование можно на вкладке бокового меню <strong>Объекты | Оборудование</strong>.</p>
 
-<img src="/attachments/images/FAQ/USER/HubExStepByStep/Objects.jpg"/>
+<img style="margin: 0 auto; display: block; max-width: 100%;" src="/attachments/images/FAQ/USER/HubExStepByStep/Objects.jpg"/>
 
 <p>Нажав на кнопку <strong>Создать объект</strong>, вы можете внести оборудование. Подробная инструкция по заполнению всех реквизитов оборудования находится в статье <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/CreatingObjects.html"> Ввод обслуживаемого оборудования.</a>  Необязательно вводить все объекты вручную. Для быстроты ввода данных можно использовать функцию <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/Import.html#objects"> импорта оборудования. </a></p>
 
@@ -58,7 +58,7 @@
 
 <strong>Заказчик</strong> - пользователь системы, который только создает <strong>Заявки</strong>.</p>
 
-<img src="/attachments/images/FAQ/USER/HubExStepByStep/Customers.jpg"/>
+<img style="margin: 0 auto; display: block; max-width: 100%;" src="/attachments/images/FAQ/USER/HubExStepByStep/Customers.jpg"/>
 
 <p>Подробное создание заказчиков и сервсиных специалистов описано в соответствующих статьях <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/CreatingCustomer.html"> Создание заказчиков</a> и <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/CreatingUser.html"> Создание сотрудников.</a></p>
 

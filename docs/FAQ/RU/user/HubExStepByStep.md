@@ -39,35 +39,35 @@
 <p>Перед началом работы на вкладке <strong>Компании</strong> вы увидите одну уже созданную компанию - вашу.</p>
 <img src="/attachments/images/FAQ/USER/HubExStepByStep/stepbystep2.png"/>
 
-<p>Если ваша компания обслуживает несколько организаций, вы можете добавить каждую из них в справочник по кнопке Создать компанию. Подробная инструкция по заполнению реквизитов Компании находится в статье <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/CreatingCompany.html"> Создание обслуживаемых компаний. </a></p>
-<img src="/attachments/images/FAQ/USER/HubExStepByStep/stepbystep3.png"/>
+<p>Если ваша компания обслуживает несколько организаций, вы можете добавить каждую из них в справочник по кнопке <strong>Создать компанию</strong>. Подробная инструкция по заполнению реквизитов <strong>Компании</strong> находится в статье <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/CreatingCompany.html"> Создание обслуживаемых компаний. </a></p>
+<img src="/attachments/images/FAQ/USER/HubExStepByStep/Companies.jpg"/>
 
 <h5 id="addobjects">Создание обслуживаемого оборудования</h5>
 <p> Внести необходимое оборудование можно на вкладке бокового меню <strong>Объекты | Оборудование</strong>.</p>
 
-<img src="/attachments/images/FAQ/USER/HubExStepByStep/stepbystep4.png"/>
+<img src="/attachments/images/FAQ/USER/HubExStepByStep/Objects.jpg"/>
 
 <p>Нажав на кнопку <strong>Создать объект</strong>, вы можете внести оборудование. Подробная инструкция по заполнению всех реквизитов оборудования находится в статье <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/CreatingObjects.html"> Ввод обслуживаемого оборудования.</a>  Необязательно вводить все объекты вручную. Для быстроты ввода данных можно использовать функцию <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/Import.html#objects"> импорта оборудования. </a></p>
 
-<img src="/attachments/images/FAQ/USER/HubExStepByStep/stepbystep5.png"/>
 
-<h5 id="addusers">Создание исполнителей и заказчиков</h5>
+
+<h5 id="addusers">Создание Сотрудников и Заказчиков</h5>
 <p>В системе HubEx существует два типа пользователей: <strong>Сотрудники</strong> и <strong>Заказчики</strong>.
 
 <strong>Сотрудник</strong> - сервисный специалист или диспетчер. <strong>Сотрудники</strong> могут и создавать, и выполнять Заявки. <strong>Сотрудники</strong> являются лицензируемыми пользователями системы. 
 
 <strong>Заказчик</strong> - пользователь системы, который только создает <strong>Заявки</strong>.</p>
 
-<img src="/attachments/images/FAQ/USER/HubExStepByStep/stepbystep6.png"/>
+<img src="/attachments/images/FAQ/USER/HubExStepByStep/Customers.jpg"/>
 
 <p>Подробное создание заказчиков и сервсиных специалистов описано в соответствующих статьях <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/CreatingCustomer.html"> Создание заказчиков</a> и <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/CreatingUser.html"> Создание сотрудников.</a></p>
 
-<h5 id="ticketcreation">Создание заявок</h5>
-<p> В системе HubEx предусмотрено два способа подачи заявки: вручную и в полуавтоматическом режиме.</p>
+<h5 id="ticketcreation">Создание Заявок</h5>
+<p> В системе HubEx предусмотрено два способа подачи <strong>Заявки</strong>: вручную и в полуавтоматическом режиме.</p>
 <ol>
-<li>Вручную заявку можно создать с помощью web- или мобильного приложения. Web-приложение для подачи заявки используется администратором (или диспетчером), мобильное приложение – заказчиком или сервисным инженером. Создать новую <strong>Заявку</strong> можно на вкладке <strong>Заявки</strong> боковго меню по кнопке <strong>Создать заявку</strong>. На форме <strong>Заявки</strong> обязательно указываются: объект, по которому будет создана заявка, адрес, описание и др. 
+<li>Вручную <strong>Заявку</strong> можно создать с помощью web- или мобильного приложения. Web-приложение для подачи <strong>Заявки</strong> используется администратором (или диспетчером), мобильное приложение – заказчиком или сервисным инженером. Создать новую <strong>Заявку</strong> можно на вкладке <strong>Заявки</strong> боковго меню по кнопке <strong>Создать заявку</strong>. На форме <strong>Заявки</strong> обязательно указываются: объект, по которому будет создана заявка, адрес, описание и др. 
 
-<img src="/attachments/images/FAQ/USER/HubExStepByStep/stepbystep7.png"/>
+<img src="/attachments/images/FAQ/USER/HubExStepByStep/Tickets.jpg"/>
 
 <p>Для подачи <strong>Заявки</strong> через мобильное приложение необходимо нажать на кнопку в правом нижнем углу. Подробнео о создании <strong>Заявок</strong> в web- и мобильном приложении описано в статье <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/CreatingTicket.html#webticket"> Создание заявок.</a></p></li>
 

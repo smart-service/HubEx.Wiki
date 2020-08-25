@@ -67,7 +67,7 @@
 <ol>
 <li>Вручную <strong>Заявку</strong> можно создать с помощью web- или мобильного приложения. Web-приложение для подачи <strong>Заявки</strong> используется администратором (или диспетчером), мобильное приложение – заказчиком или сервисным инженером. Создать новую <strong>Заявку</strong> можно на вкладке <strong>Заявки</strong> боковго меню по кнопке <strong>Создать заявку</strong>. На форме <strong>Заявки</strong> обязательно указываются: объект, по которому будет создана заявка, адрес, описание и др. 
 
-<img src="/attachments/images/FAQ/USER/HubExStepByStep/Tickets.jpg"/>
+<img style="margin: 0 auto; display: block; max-width: 100%;" src="/attachments/images/FAQ/USER/HubExStepByStep/Tickets.jpg"/>
 
 <p>Для подачи <strong>Заявки</strong> через мобильное приложение необходимо нажать на кнопку в правом нижнем углу. Подробнео о создании <strong>Заявок</strong> в web- и мобильном приложении описано в статье <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/CreatingTicket.html#webticket"> Создание заявок.</a></p></li>
 

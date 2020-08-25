@@ -39,7 +39,7 @@ description: Как создавать профили пользователей
 В системе HubEx используется понятие <strong>Роль</strong> – это набор прав и полномочий, определяющих доступ к функционалу системы. Созданием и корректировкой <strong>Ролей</strong> занимается администратор вашей системы. Подробно об этом можно прочитать [здесь](https://wiki.hubex.ru/docs/FAQ/RU/admin/Roles.html).
 
 <div>
-  <img  style="margin: 0 auto; display: block; max-width: 70%;" src="/attachments/images/FAQ/USER/CreatingUser/user9.png" />
+  <img  style="margin: 0 auto; display: block; max-width: 60%;" src="/attachments/images/FAQ/USER/CreatingUser/user9.png" />
 </div>
 
 <h5 id="createadm">Создание Сервисного инженера и Начальника сервисной службы</h5>
@@ -54,13 +54,20 @@ description: Как создавать профили пользователей
 </ul> </p>
  
    <p>Обратите внимание, что одно из полей <strong>Телефон</strong> или <strong>Электронная почта</strong> будет являться логином для входа в систему через web- и мобильное приложение. После заполнения всех вкладок и сохранения карточки <strong>Сотрудника</strong>, на указанный номер телефона или адрес почты придет сообщение о завершении регистрации и создании пароля.</p>
+<div>
+  <img  style="margin: 0 auto; display: block; max-width: 60%;" src="/attachments/images/FAQ/USER/CreatingUser/user4.png" />
+</div>
 
-![User4.png](/attachments/images/FAQ/USER/CreatingUser/user4.png)
 
 <p>Роль <strong>Начальника Сервисной Службы</strong> предоставляет больше прав для работы с системой: по умолчанию для этой роли доступны переходы <strong>Заяввки</strong> по различным стадиям, просмотр абсолютно всех <strong>Заявок</strong> и т.д. <strong>Сервисный специалист</strong> по умолчанию может принимать и выполнять <strong>Заявку</strong>, видеть только назначенные на него <strong>Заявки</strong> и т.д.</p>
 
-![User2.png](/attachments/images/FAQ/USER/CreatingUser/user2.png) 
-![User3.png](/attachments/images/FAQ/USER/CreatingUser/user3.png)
+<div>
+  <img  style="margin: 0 auto; display: block; max-width: 70%;" src="/attachments/images/FAQ/USER/CreatingUser/user2.png" />
+</div>
+<div>
+  <img  style="margin: 0 auto; display: block; max-width: 70%;" src="/attachments/images/FAQ/USER/CreatingUser/user3.png" />
+</div>
+
 
 <p>На вкладке <strong>Квалификация</strong> указываются:
 <p> <ul>

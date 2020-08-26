@@ -179,7 +179,7 @@ description: Как добавить наряды, по которым буду�
 <ol>
     <li>Нажать на кнопку <strong>Подачи заявки</strong> в правом нижнем углу.</li>
     <div>
-        <img style="margin: 0 auto; display: block; max-width: 50%;" src="/attachments/images/FAQ/USER/CreatingTicket/CreateByMobile.jpg"/>
+        <img style="margin: 0 auto; display: block; max-width: 30%;" src="/attachments/images/FAQ/USER/CreatingTicket/CreateByMobile.jpg"/>
     </div>
 
     <li>Если у <strong>Объекта</strong> есть QR-код, то отсканировать этот QR-код. Далее заполнить все необходимые поля <strong>Заявки</strong>. По кнопке

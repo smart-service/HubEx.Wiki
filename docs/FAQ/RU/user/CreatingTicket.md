@@ -150,7 +150,8 @@ description: Как добавить наряды, по которым буду�
     <img style="margin: 0 auto; display: block; max-width: 70%;" src="/attachments/images/FAQ/USER/CreatingTicket/CheckList.jpg"/>
 </div>
 
-<p>На вкладке <strong>Выполнение</strong> будут отражаться работы по <strong>Заявке</strong>, которые внесет исполнитель.</p>
+<p>На вкладке <strong>Выполнение</strong> будут отражаться работы по <strong>Заявке</strong>, которые внесет исполнитель. Подробнее об этом читайте в статье <a
+            href="https://wiki.hubex.ru/docs/FAQ/RU/users/AttachingFiles.html">Прикрепление выполненных работ в web- и мобильном приложении</a>.</p>
 <div>
     <img style="margin: 0 auto; display: block; max-width: 70%;" src="/attachments/images/FAQ/USER/CreatingTicket/Works.jpg"/>
 </div>

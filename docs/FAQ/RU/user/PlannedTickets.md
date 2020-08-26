@@ -20,10 +20,11 @@
     работ</strong>. Здесь вы сможете
     просматривать уже создананные <strong>Плановые заявки</strong> и создать новые по кнопке <strong>Создать
         заявку</strong>.</p>
-         <div>
-        <img style="margin: 0 auto; display: block; max-width: 100%;" src="/attachments/images/FAQ/USER/PlannedTickets/plantick1.png"/>
-    </div>
 
+   
+<div>
+    <img style="margin: 0 auto; display: block; max-width: 100%;"  src="/attachments/images/FAQ/USER/PlannedTickets/plantick1.png"/>
+</div>
 
 
 <p>Форма <strong>Плановой заявки</strong> состоит из нескольких полей и блоков: <strong>Название</strong>, <strong>Тип

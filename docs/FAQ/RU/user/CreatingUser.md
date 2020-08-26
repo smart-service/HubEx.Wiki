@@ -81,7 +81,7 @@ description: Как создавать профили пользователей
   <img  style="margin: 0 auto; display: block; max-width: 70%;" src="/attachments/images/FAQ/USER/CreatingUser/user6.png" />
 </div>
 
-<p>Новые участки и виды работ может добавить администратор вашей системы через специальную <strong>Консоль администрирования</strong>.</p>
+<p>Новые участки и виды работ может добавить администратор вашей системы. Подбронее об этом можно прочитать <a href="https://wiki.hubex.ru/docs/FAQ/RU/admin/Places.html">здесь</a>.</p>
 
 <div>
   <img  style="margin: 0 auto; display: block; max-width: 60%;" src="/attachments/images/FAQ/USER/CreatingUser/user7.png" />

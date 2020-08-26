@@ -46,21 +46,22 @@ description: Как добавить обслуживаемые компание
     бокового меню и нажать кнопку <strong>Создать объект</strong>. Форма <strong>Объекта</strong> состоит из нескольких
     вкладок: <strong>Объект|Оборудование</strong>, <strong>Контакты</strong>, <strong>Обслуживание</strong>, <strong>Доп.поля</strong>.
 </p>
+<div>
+  <img  style="margin: 0 auto; display: block; max-width: 100%;" src="/attachments/images/FAQ/USER/CreatingObjects/obj1.png" />
+</div>
 
-![obj1.png](/attachments/images/FAQ/USER/CreatingObjects/obj1.png)
 
 Рассмотрим определение <strong>Типа объекта</strong> и заполнение остальных полей.
 
 <h5 id="poch">Отличие родительских объектов от дочерних</h5>
 
-<p>Выбор <strong>Типа объекта</strong> позволяет создать иерархию обслуживаемого оборудования, помещений и т.д. Тип <strong>Оборудование</strong> - низший уровень
-    иерархии. Тип <strong>Объект</strong> - недвижимая сущность, которая является родителем для Оборудования. Для типа
+<p>Выбор <strong>Типа объекта</strong> позволяет создать иерархию обслуживаемого оборудования, помещений и т.д. Для типа
     <strong>Объект</strong> обязательным условием является наличие адреса. Обязательным условием создания карточки с типом <strong>Оборудование</strong>
     является выбор родительского <strong>Объекта</strong>.</p>
 
-<p>Разницу между дочерними и родительскими объектами легко понять на примере: в бизнес-центре Авеню, который является
-    родительским объектом, есть офис 514. Офис будет дочерним объектом по отношению к
-    бизнес-центру. В офисе 514 есть кофемашина, которая будет дочерним объектом по отношению и к офису и к самому
+<p>Разницу между дочерними и родительскими объектами легко понять на примере: в бизнес-центре Авеню (тип Объект), который является
+    родительским объектом, есть офис 514 (тип Объект). Офис будет дочерним объектом по отношению к
+    бизнес-центру. В офисе 514 есть кофемашина (тип Оборудование), которая будет дочерним объектом по отношению и к офису и к самому
     бизнес-центру.</p>
 
 <p>Добавить новые <strong>Типы объектов</strong> для вашего бизнеса может администратор системы. Подробно об этом написано в статье <a
@@ -68,7 +69,7 @@ description: Как добавить обслуживаемые компание
 
 <p>Таким образом будет выглядеть родительский объект.</p>
  <div>
-   <img  src="/attachments/images/FAQ/USER/CreatingObjects/obj10.png" />
+   <img style="margin: 0 auto; display: block; max-width: 100%;" src="/attachments/images/FAQ/USER/CreatingObjects/obj10.png" />
  </div>
 
 <p>Созать дочерний объект в системе можно тремя способами:</p>
@@ -76,7 +77,7 @@ description: Как добавить обслуживаемые компание
     <li><p>По кнопке <strong>Создать объект</strong> на вкладке <strong>Объекты|Оборудование</strong> с указанием родительского элемента.</p></li>
 
     <div>
-        <img style="margin: 0 auto; display: block; max-width: 100%;"
+        <img style="margin: 0 auto; display: block; max-width: 60%;"
              src="/attachments/images/FAQ/USER/CreatingObjects/obj12.png"/>
     </div>
 
@@ -93,7 +94,7 @@ description: Как добавить обслуживаемые компание
     </li>
 
     <div>
-        <img style="margin: 0 auto; display: block; max-width: 100%;"
+        <img style="margin: 0 auto; display: block; max-width: 70%;"
              src="/attachments/images/FAQ/USER/CreatingObjects/obj14.jpg"/>
     </div>
 
@@ -108,7 +109,7 @@ description: Как добавить обслуживаемые компание
     рассматривать как те объекты, которые уже обслуживаются, так и те по которым вы еще не проводите работы.</p>
 
  <div>
-   <img  src="/attachments/images/FAQ/USER/CreatingObjects/obj11.png" />
+   <img style="margin: 0 auto; display: block; max-width: 70%;" src="/attachments/images/FAQ/USER/CreatingObjects/obj11.png" />
  </div>
 
 <h5 id="fillelse">Заполнение остальных полей</h5>
@@ -124,7 +125,7 @@ description: Как добавить обслуживаемые компание
     осуществляется из списка созданных вами компаний.</p>
 
  <div>
-   <img  src="/attachments/images/FAQ/USER/CreatingObjects/obj2.png" />
+   <img style="margin: 0 auto; display: block; max-width: 70%;" src="/attachments/images/FAQ/USER/CreatingObjects/obj2.png" />
  </div>
 
 <p>В поле <strong>Участок</strong> выберите, к какому участку принадлежит оборудование. С помощью <strong>Участков</strong> происходит разделение объектов
@@ -134,14 +135,14 @@ description: Как добавить обслуживаемые компание
 
 
  <div>
-   <img  src="/attachments/images/FAQ/USER/CreatingObjects/obj3.JPG" />
+   <img style="margin: 0 auto; display: block; max-width: 60%;" src="/attachments/images/FAQ/USER/CreatingObjects/obj3.JPG" />
  </div>
 
 
 <p><strong>Адрес</strong> объекта добавляется по кнопке <strong>Добавить адрес</strong>. <strong>Адрес</strong> обязателен для родительских объектов.</p>
 
  <div>
-   <img  src="/attachments/images/FAQ/USER/CreatingObjects/obj6.png" />
+   <img style="margin: 0 auto; display: block; max-width: 70%;" src="/attachments/images/FAQ/USER/CreatingObjects/obj6.png" />
  </div>
 
 
@@ -149,7 +150,7 @@ description: Как добавить обслуживаемые компание
     оборудованием. Это могут быть фотографии, инструкции в текстовых файлах.</p>
 
  <div>
-   <img  src="/attachments/images/FAQ/USER/CreatingObjects/obj7.png" />
+   <img style="margin: 0 auto; display: block; max-width: 70%;" src="/attachments/images/FAQ/USER/CreatingObjects/obj7.png" />
  </div>
 
 
@@ -157,14 +158,14 @@ description: Как добавить обслуживаемые компание
     например сервисного инженера.</p>
 
  <div>
-   <img  src="/attachments/images/FAQ/USER/CreatingObjects/obj4.png" />
+   <img style="margin: 0 auto; display: block; max-width: 70%;" src="/attachments/images/FAQ/USER/CreatingObjects/obj4.png" />
  </div>
 
 <p>Также можно ввести дополнительные контакты, например, охранника или вахтёра.</p>
 
- <div>
-   <img  src="/attachments/images/FAQ/USER/CreatingObjects/obj9.png" />
- </div>
+ <!--<div>
+   <img style="margin: 0 auto; display: block; max-width: 70%;" src="/attachments/images/FAQ/USER/CreatingObjects/obj9.png" />
+ </div>-->
 
 <p>На вкладке <strong>Обслуживание</strong> запоняются следующие поля:</p>
 <ul>
@@ -194,7 +195,7 @@ description: Как добавить обслуживаемые компание
 
 
  <div>
-   <img  src="/attachments/images/FAQ/USER/CreatingObjects/ObjectService.jpg" />
+   <img style="margin: 0 auto; display: block; max-width: 70%;" src="/attachments/images/FAQ/USER/CreatingObjects/ObjectService.jpg" />
  </div>
 
 
@@ -211,7 +212,7 @@ description: Как добавить обслуживаемые компание
 <p>На вкладке <strong>Доп.поля</strong> вы можете выбрать дополнительные реквизиты для заполнения, например, указать площадь <strong>Объекта</strong>, если это необходимо. Добавить в список другие поля может администратор вашей системы.</p>
 
  <div>
-   <img  src="/attachments/images/FAQ/USER/CreatingObjects/AdditionalField.jpg" />
+   <img style="margin: 0 auto; display: block; max-width: 70%;" src="/attachments/images/FAQ/USER/CreatingObjects/AdditionalField.jpg" />
  </div>
 
 <p> Вы можете ускорить процесс добавления <strong>Объектов</strong> в систему HubEx с помощью функциии <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/Import.html#objects"> Импорта</a>.</p>

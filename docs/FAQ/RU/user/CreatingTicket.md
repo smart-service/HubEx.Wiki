@@ -86,9 +86,9 @@ description: Как добавить наряды, по которым буду�
         в папки родительских объектов. Чтобы выбрать дочерний объект, нажмите на родительский объект, папка раскроется.
     </li>
 
-    <div>
-        <img style="margin: 0 auto; display: block; max-width: 70%;" src="/attachments/images/FAQ/USER/CreatingTicket/FolderObj.jpg"/>
-    </div>
+  <p>  <div>
+        <img style="margin: 0 auto; display: block; max-width: 50%;" src="/attachments/images/FAQ/USER/CreatingTicket/FolderObj.jpg"/>
+    </div></p>
 
     <li><strong>Адрес</strong> заполняется автоматически по адресу родительского объекта, но вы можете изменить его вручную.</li>
     <li>Выбор <strong>Вида работ</strong> зависит от выбранного <strong>Объекта/оборудования</strong>. Какие <strong>Виды
@@ -147,30 +147,30 @@ description: Как добавить наряды, по которым буду�
     <strong>Чек-листов</strong> читайте <a
             href="https://wiki.hubex.ru/docs/FAQ/RU/users/Checklists.html"> здесь</a>.</p>
 <div>
-    <img style="margin: 0 auto; display: block; max-width: 80%;" src="/attachments/images/FAQ/USER/CreatingTicket/CheckList.jpg"/>
+    <img style="margin: 0 auto; display: block; max-width: 70%;" src="/attachments/images/FAQ/USER/CreatingTicket/CheckList.jpg"/>
 </div>
 
 <p>На вкладке <strong>Выполнение</strong> будут отражаться работы по <strong>Заявке</strong>, которые внесет исполнитель.</p>
 <div>
-    <img style="margin: 0 auto; display: block; max-width: 80%;" src="/attachments/images/FAQ/USER/CreatingTicket/Works.jpg"/>
+    <img style="margin: 0 auto; display: block; max-width: 70%;" src="/attachments/images/FAQ/USER/CreatingTicket/Works.jpg"/>
 </div>
 
 <p>Вкладка <strong>История изменений</strong> хранит все действия над <strong>Заявкой</strong> с момента ее первого сохранения.</p>
 
 <h5 id="webticket2">Создание объектов и заказчиков из формы создания заявки</h5>
-<p>Вы можете создать <strong>Заказчика</strong> (1) и <strong>Объект</strong> (2) напрямую из формы создания <strong>Заявки</strong> без предварительного заполнения в
+<p>Вы можете создать <strong>Заказчика</strong> и <strong>Объект</strong> напрямую из формы создания <strong>Заявки</strong> без предварительного заполнения в
     соответствующих справочниках.</p>
 <div>
-    <img style="margin: 0 auto; display: block; max-width: 70%;" src="/attachments/images/FAQ/USER/CreatingTicket/tick22.png"/>
+    <img style="margin: 0 auto; display: block; max-width: 70%;" src="/attachments/images/FAQ/USER/CreatingTicket/CreateCO.jpg"/>
 </div>
 
 
 <p>Еще один способ создать новый <strong>Объект</strong>: созадть его через форму выбора объекта из списка существующих.
-    Пример: вы вводите значение в поисковую строку (1), вам выдаются результаты поиска (2). Вы можете выбрать найденных
-    <strong>Объект</strong> (2) или создать новый <strong>Объект</strong> (3).</p>
+    Пример: вы вводите значение в поисковую строку, вам выдаются результаты поиска. Вы можете выбрать найденных
+    <strong>Объект</strong> или создать новый <strong>Объект</strong>.</p>
 
   <div>
-       <img style="margin: 0 auto; display: block; max-width: 70%;" src="/attachments/images/FAQ/USER/CreatingTicket/tick33.png"/>
+       <img style="margin: 0 auto; display: block; max-width: 50%;" src="/attachments/images/FAQ/USER/CreatingTicket/SearchObj.jpg"/>
     </div>
 
 
@@ -179,7 +179,7 @@ description: Как добавить наряды, по которым буду�
 <ol>
     <li>Нажать на кнопку <strong>Подачи заявки</strong> в правом нижнем углу.</li>
     <div>
-        <img style="margin: 0 auto; display: block; max-width: 100%;" src="/attachments/images/FAQ/USER/CreatingTicket/CreateByMobile.jpg"/>
+        <img style="margin: 0 auto; display: block; max-width: 50%;" src="/attachments/images/FAQ/USER/CreatingTicket/CreateByMobile.jpg"/>
     </div>
 
     <li>Если у <strong>Объекта</strong> есть QR-код, то отсканировать этот QR-код. Далее заполнить все необходимые поля <strong>Заявки</strong>. По кнопке

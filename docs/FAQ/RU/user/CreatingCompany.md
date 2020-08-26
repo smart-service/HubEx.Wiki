@@ -37,7 +37,7 @@ description: Как создать компанию, по которой буд�
     нажать кнопку <strong>Создать компанию</strong>.</p>
 
 <!--<div>
-  <img  style="margin: 0 auto; display: block; max-width: 100%;" src="/attachments/images/FAQ/USER/CreatingUser/CompanyEmpty.jpg" />
+  <img  style="margin: 0 auto; display: block; max-width: 100%;" src="/attachments/images/FAQ/USER/CreatingCompany/CompanyEmpty.jpg" />
 </div>-->
 
 <p>Заполните необходимые реквизиты <strong>Компании</strong>: </p>
@@ -62,7 +62,7 @@ description: Как создать компанию, по которой буд�
 </ul> </p>
 
 <div>
-  <img  style="margin: 0 auto; display: block; max-width: 100%;" src="/attachments/images/FAQ/USER/CreatingUser/CreateNewCompany.jpg" />
+  <img  style="margin: 0 auto; display: block; max-width: 100%;" src="/attachments/images/FAQ/USER/CreatingCompany/CreateNewCompany.jpg" />
 </div>
 
 Внимательно проверьте введенную информацию и нажмите кнопку <strong>Сохранить</strong> в верхнем правом углу.
@@ -71,7 +71,7 @@ description: Как создать компанию, по которой буд�
 <strong>Сотрудников</strong> и прочих данных в систему карточка <strong>Компании</strong> станет более наполненной.
 
 <div>
-  <img  style="margin: 0 auto; display: block; max-width: 100%;" src="/attachments/images/FAQ/USER/CreatingUser/CompanyInfo.jpg" />
+  <img  style="margin: 0 auto; display: block; max-width: 100%;" src="/attachments/images/FAQ/USER/CreatingCompany/CompanyInfo.jpg" />
 </div>
 
 

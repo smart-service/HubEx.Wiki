@@ -36,7 +36,9 @@ description: Как создать компанию, по которой буд�
     создания новой необходимо перейти на вкладку <strong>Компании</strong> бокового меню и
     нажать кнопку <strong>Создать компанию</strong>.</p>
 
-![1.png](/attachments/images/FAQ/USER/CreatingCompany/CompanyEmpty.jpg)
+<!--<div>
+  <img  style="margin: 0 auto; display: block; max-width: 100%;" src="/attachments/images/FAQ/USER/CreatingUser/CompanyEmpty.jpg" />
+</div>-->
 
 <p>Заполните необходимые реквизиты <strong>Компании</strong>: </p>
 <p>
@@ -59,15 +61,18 @@ description: Как создать компанию, по которой буд�
     </li>
 </ul> </p>
 
-
-![2.png](/attachments/images/FAQ/USER/CreatingCompany/CreateNewCompany.jpg)
+<div>
+  <img  style="margin: 0 auto; display: block; max-width: 100%;" src="/attachments/images/FAQ/USER/CreatingUser/CreateNewCompany.jpg" />
+</div>
 
 Внимательно проверьте введенную информацию и нажмите кнопку <strong>Сохранить</strong> в верхнем правом углу.
 
 После добавления <strong>Объектов</strong> (Оборудования),
 <strong>Сотрудников</strong> и прочих данных в систему карточка <strong>Компании</strong> станет более наполненной.
 
-![3.png](/attachments/images/FAQ/USER/CreatingCompany/CompanyInfo.jpg)
+<div>
+  <img  style="margin: 0 auto; display: block; max-width: 100%;" src="/attachments/images/FAQ/USER/CreatingUser/CompanyInfo.jpg" />
+</div>
 
 
 <p> Вы можете ускорить процесс созданий <strong>Компаний</strong> с помощью функции <a

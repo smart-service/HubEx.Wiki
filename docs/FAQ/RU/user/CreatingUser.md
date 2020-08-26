@@ -77,10 +77,15 @@ description: Как создавать профили пользователей
       </ul></p>
       <p>Добавление <strong>Участков</strong>, <strong>Видов работ</strong> и <strong>Навыков</strong> происходит по кнопке <strong>Добавить</strong>.</p></p>
     
-![User6.png](/attachments/images/FAQ/USER/CreatingUser/user6.png)
+<div>
+  <img  style="margin: 0 auto; display: block; max-width: 70%;" src="/attachments/images/FAQ/USER/CreatingUser/user6.png" />
+</div>
 
 <p>Новые участки и виды работ может добавить администратор вашей системы через специальную <strong>Консоль администрирования</strong>.</p>
-![User7.png](/attachments/images/FAQ/USER/CreatingUser/user7.png)
+
+<div>
+  <img  style="margin: 0 auto; display: block; max-width: 60%;" src="/attachments/images/FAQ/USER/CreatingUser/user7.png" />
+</div>
 
 <p>На вкладке <strong>Трудоустройство</strong> по кнопке <strong>Добавить должность</strong> необходимо внести информацию:</p>
 <p> <ul>
@@ -89,7 +94,10 @@ description: Как создавать профили пользователей
       <li><strong>Компания</strong> - указывается <strong>Компания</strong>, в которой работает <strong>Сотрудник</strong>. </li>
       </ul></p>
 
-![User8.png](/attachments/images/FAQ/USER/CreatingUser/user8.png)   
+<div>
+  <img  style="margin: 0 auto; display: block; max-width: 70%;" src="/attachments/images/FAQ/USER/CreatingUser/user8.png" />
+</div>
+
 
 <p>На вкладке <strong>Прочее</strong> находится всего один ревизит <strong>Бан пользователя</strong>. Он используется в случае увольнения сотрудника, чтобы запретить ему доступ в систему.</p>
 После внесения всей необходимой информации не забудьте сохранить пользователя.
@@ -103,7 +111,9 @@ description: Как создавать профили пользователей
 </div>
 
 <p>Перед началом работы в мобильном приложении пользователю нужно подтвердить использование геолокации, чтобы вы могли отслеживать местоположение своего работника.</p>
-![User5.png](/attachments/images/FAQ/USER/CreatingUser/user5.png)
+<div>
+  <img  style="margin: 0 auto; display: block; max-width: 100%;" src="/attachments/images/FAQ/USER/CreatingUser/user5.png" />
+</div>
 
 
 <h5 id="movetocust">Перевод из Сотрудника в Заказчики</h5>
@@ -111,11 +121,15 @@ description: Как создавать профили пользователей
 
 Откройте карточку <strong>Сотрудника</strong> и нажмите на <strong>Контекстное меню (3 точки)</strong>, которое находится в правом верхнем углу. В этом меню нвыберите пункт <strong>Перевести к заказчикам</strong>.
 
-![User11.png](/attachments/images/FAQ/USER/CreatingUser/user11.png)
+<div>
+  <img  style="margin: 0 auto; display: block; max-width: 100%;" src="/attachments/images/FAQ/USER/CreatingUser/user11.png" />
+</div>
+
 
 Нажмите кнопку <strong>Подтвердить</strong> в появившемся диалоговом окне.
-
-![User12.png](/attachments/images/FAQ/USER/CreatingUser/user12.png)
+<div>
+  <img  style="margin: 0 auto; display: block; max-width: 70%;" src="/attachments/images/FAQ/USER/CreatingUser/user12.png" />
+</div>
 
 При переводе пользователя из <strong>Сотрудников</strong> в <strong>Заказчики</strong> его <strong>Роль</strong> необходимо изменить вручную, если это необходимо.
 

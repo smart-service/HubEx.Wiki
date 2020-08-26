@@ -66,7 +66,12 @@ description: Как добавить клиентов, с которыми со�
     компании.</p>
 
 <p>Выберите одну или несколько <strong>Компаний</strong>, в которых работает <strong>Заказчик</strong>. </p>
-![CreateCustomer.jpg](/attachments/images/FAQ/USER/CreatingCustomer/CreateCustomer.jpg)
+
+<div>
+    <img style="margin: 0 auto; display: block; max-width: 80%;"
+         src="/attachments/images/FAQ/USER/CreatingCustomer/CreateCustomer.jpg"/>
+</div>
+
 
 <p>На вкладке <strong>Квалификация</strong> необходимо указать <strong>Участок</strong>, по которому <strong>Заказчик</strong> может
     подавать <strong>Заявки</strong>. Их может быть несколько. Если разделения на участки нет, то выбрать необходимо
@@ -105,11 +110,18 @@ description: Как добавить клиентов, с которыми со�
 
 <p>Для перевода <strong>Заказчика</strong> в <strong>Сотрудники</strong> нужно зайти в профиль <strong>Заказчика</strong>, нажать на <strong>Контекстное меню</strong>
     (3 точки), выбрать пункт <strong>Перевести к сотрудникам</strong>.</p>
-![cust4.png](/attachments/images/FAQ/USER/CreatingCustomer/cust4.png)
+<div>
+    <img style="margin: 0 auto; display: block; max-width: 100%;"
+         src="/attachments/images/FAQ/USER/CreatingCustomer/cust4.png"/>
+</div>
+    
 
 В диалоговом окне нажмите кнопку <strong>Подтвердить</strong>.
+<div>
+    <img style="margin: 0 auto; display: block; max-width: 80%;"
+         src="/attachments/images/FAQ/USER/CreatingCustomer/cust5.png"/>
+</div>
 
-![cust5.png](/attachments/images/FAQ/USER/CreatingCustomer/cust5.png)
 
 <p>Обратите внимание, что при переводе пользователя из <strong>Заказчиков</strong> в <strong>Сотрудники</strong>, его <strong>Роль</strong> не меняется. <strong>Роль</strong> нужно сменить
     вручную.</p>

@@ -20,7 +20,11 @@
     работ</strong>. Здесь вы сможете
     просматривать уже создананные <strong>Плановые заявки</strong> и создать новые по кнопке <strong>Создать
         заявку</strong>.</p>
-![pltick1.png](/attachments/images/FAQ/USER/PlannedTickets/plantick1.png)
+         <div>
+        <img style="margin: 0 auto; display: block; max-width: 100%;" src="/attachments/images/FAQ/USER/PlannedTickets/plantick1.png"/>
+    </div>
+
+
 
 <p>Форма <strong>Плановой заявки</strong> состоит из нескольких полей и блоков: <strong>Название</strong>, <strong>Тип
     заявки</strong>, <strong>Вид работ</strong>, <strong>Объект/оборудование</strong>,
@@ -35,45 +39,45 @@
     <strong>Плановой заявки</strong> по <strong>Объекту</strong> или группе <strong>Объектов</strong> необходимо сначала заполнить <strong>Тип заявки</strong> и <strong>Вид работ</strong>.</p>
 
 <div>
-    <img src="/attachments/images/FAQ/USER/PlannedTickets/PlannedTicket.jpg"/>
+    <img style="margin: 0 auto; display: block; max-width: 80%;"  src="/attachments/images/FAQ/USER/PlannedTickets/PlannedTicket.jpg"/>
 </div>
 
 <p>После этого в разделе <strong>Объекты/оборудование</strong> вы увидите ссылку на подобранные <strong>Объекты</strong> - <strong>К списку объектов</strong>. Вы можете
     сразу по этой ссылке перейти к выбоору <strong>Объектов</strong> и галочками отметить необходимые.</p>
 
 <div>
-    <img src="/attachments/images/FAQ/USER/PlannedTickets/ListObj.jpg"/>
+    <img style="margin: 0 auto; display: block; max-width: 60%;"  src="/attachments/images/FAQ/USER/PlannedTickets/ListObj.jpg"/>
 </div>
 
 <p>А можете уточнить ваш подбор с помощью фильтров - по кнопке <strong>Подобрать объекты</strong>.</p>
 
 <div>
-    <img src="/attachments/images/FAQ/USER/PlannedTickets/FilterObj.jpg"/>
+    <img style="margin: 0 auto; display: block; max-width: 60%;"  src="/attachments/images/FAQ/USER/PlannedTickets/FilterObj.jpg"/>
 </div>
 
 <p>Настроить частоту создания запланированных заявок можно с помощью блока <strong>Плановое создание заявок</strong>. В выпадающем списке
     выберите один из вариантов: <strong>Ежедневно</strong>, <strong>Еженедельно</strong> и т.д.</p>
 <div>
-    <img src="/attachments/images/FAQ/USER/PlannedTickets/plantick3.png"/>
+    <img style="margin: 0 auto; display: block; max-width: 60%;"  src="/attachments/images/FAQ/USER/PlannedTickets/plantick3.png"/>
 </div>
 
 <p>Для каждого из вариантов будет доступна детальная временная настройка. Например, необходимо в течение года создавать
     Заявку каждые две недели по вторникам в 10 часов утра.</p>
 <div>
-    <img src="/attachments/images/FAQ/USER/PlannedTickets/TimeManager.jpg"/>
+    <img style="margin: 0 auto; display: block; max-width: 70%;" src="/attachments/images/FAQ/USER/PlannedTickets/TimeManager.jpg"/>
 </div>
 
 <p>В поле <strong>Исполнитель</strong> система по умолчанию устанавливает значение <strong>Автоматическое назначение исполнителя</strong>. Если вы хотите
     самостоятельно выбрать определенного специалиста, отключите данную функцию.</p>
 
 <div>
-    <img src="/attachments/images/FAQ/USER/PlannedTickets/SelectEngineer.jpg"/>
+    <img style="margin: 0 auto; display: block; max-width: 80%;" src="/attachments/images/FAQ/USER/PlannedTickets/SelectEngineer.jpg"/>
 </div>
 
 <p>После заполнения всей информации нажмите кнопку <strong>Сохранить</strong>. А после сохранения новой <strong>Плановой заявки</strong> нажмите кнопку
     <strong>Запланировать</strong>. Таким образом вы запустите процесс автоматического создания <strong>Заявок</strong>.</p>
 <div>
-    <img src="/attachments/images/FAQ/USER/PlannedTickets/PlannedTicketDone.jpg"/>
+    <img style="margin: 0 auto; display: block; max-width: 100%;"  src="/attachments/images/FAQ/USER/PlannedTickets/PlannedTicketDone.jpg"/>
 </div>
 
 
@@ -82,7 +86,7 @@
     в <strong>Плановую заявку</strong> и нажмите кнопку <strong>Приостановить</strong>. Теперь вы можете вносить изменения. После внесения изменений не
     забудьте заново нажать кнопку <strong>Запланировать</strong>.</p>
 <div>
-    <img src="/attachments/images/FAQ/USER/PlannedTickets/plantick5.png"/>
+    <img style="margin: 0 auto; display: block; max-width: 90%;"  src="/attachments/images/FAQ/USER/PlannedTickets/plantick5.png"/>
 </div>
 
 

@@ -135,7 +135,7 @@ description: Как добавить обслуживаемые компание
 
 
  <div>
-   <img style="margin: 0 auto; display: block; max-width: 60%;" src="/attachments/images/FAQ/USER/CreatingObjects/obj3.JPG" />
+   <img style="margin: 0 auto; display: block; max-width: 50%;" src="/attachments/images/FAQ/USER/CreatingObjects/obj3.JPG" />
  </div>
 
 
@@ -205,11 +205,11 @@ description: Как добавить обслуживаемые компание
             href="https://wiki.hubex.ru/docs/FAQ/RU/user/CreatingTickTemplates.html">здесь</a>.</p>
 
 <div>
-    <img style="margin: 0 auto; display: block; max-width: 100%;"
+    <img style="margin: 0 auto; display: block; max-width: 80%;"
          src="/attachments/images/FAQ/USER/CreatingObjects/obj8.png"/>
 </div>
 
-<p>На вкладке <strong>Доп.поля</strong> вы можете выбрать дополнительные реквизиты для заполнения, например, указать площадь <strong>Объекта</strong>, если это необходимо. Добавить в список другие поля может администратор вашей системы.</p>
+<p>На вкладке <strong>Доп.поля</strong> вы можете выбрать дополнительные реквизиты для заполнения, например, указать площадь <strong>Объекта</strong>, если это необходимо. Добавить в список другие поля может администратор вашей системы. Подробнее об этом пожно прочитать <a href="https://wiki.hubex.ru/docs/FAQ/RU/admin/TicketAttribute.html">здась</a>.</p>
 
  <div>
    <img style="margin: 0 auto; display: block; max-width: 70%;" src="/attachments/images/FAQ/USER/CreatingObjects/AdditionalField.jpg" />

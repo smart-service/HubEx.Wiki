@@ -86,7 +86,7 @@
     <h5 id="checkmob">Просмотр дополнительных полей в мобильном приложении</h5>
     <p>Созданные вами дополнительные поля так же можно увидеть в <strong>Заявке</strong> в мобильном приложении.</p>
     <div>
-        <img style="margin: 0 auto; display: block; max-width: 60%;"
+        <img style="margin: 0 auto; display: block; max-width: 40%;"
              src="/attachments/images/FAQ/USER/AdditionalFields/ADDFieldMob.PNG"/>
     </div>
 

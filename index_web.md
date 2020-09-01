@@ -13,7 +13,9 @@
 <noscript><div><img src="https://mc.yandex.ru/watch/'{{ site.yandex_metric }}'" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
 <!-- /Yandex.Metrika counter -->
 <link rel="stylesheet" type="text/css" href="/assets/css/styles.css">
-Для успешного начала работы выполните следующие шаги:
+<!--Для успешного начала работы выполните следующие шаги:-->
+### Основные справочники
+
 #### [Создание пользователя вашей системы](docs/FAQ/RU/user/CreatingUser.md)
 <h4>
 <a href="/docs/FAQ/RU/user/CreatingCompany.html">Создание обслуживаемых компаний</a><span class="updated-badge" title="16.09.2019"></span>
@@ -21,11 +23,14 @@
 <h4>
 <a href="/docs/FAQ/RU/user/CreatingObjects.html">Создание обслуживаемого оборудования</a><span class="updated-badge" title="24.09.2019"></span>
 </h4>
+#### [Создание дополнительных полей в объекте](docs/FAQ/RU/user/AdditionalFieldsObject.md)
 #### [Создание заказчика](docs/FAQ/RU/user/CreatingCustomer.html)
+
+### Работа с заявками
 #### [Создание заявки](docs/FAQ/RU/user/CreatingTicket.md)
 #### [Создание плановой заявки](docs/FAQ/RU/user/PlannedTickets.md)
 #### [Создание дополнительных полей в заявке](docs/FAQ/RU/user/AdditionalFields.md)
-#### [Создание дополнительных полей в объекте](docs/FAQ/RU/user/AdditionalFieldsObject.md)
+
 <h4>
 <a href="/docs/FAQ/RU/user/Filters.html">Использование фильтров для поиска заявок</a><span class="updated-badge" title="18.02.2020"></span>
 </h4>
@@ -38,11 +43,13 @@
 #### [Саморегистрация и подача заявок](docs/FAQ/RU/user/SelfRegister.md)
 #### [Ограничение видимости файлов](docs/FAQ/RU/user/ViewRestriction.md)
 #### [Сообщения по заявке и вкладка сообщения](docs/FAQ/RU/user/Messages.md)
+
 #### [Чеклисты](docs/FAQ/RU/user/Checklists.md)
 #### [Аналитика](docs/FAQ/RU/user/Analytics.md)
 #### [Геопозиция](docs/FAQ/RU/user/GeoPosition.md)
 #### [Рейтинги](docs/FAQ/RU/user/Ratings.md)
 #### [История изменений](docs/FAQ/RU/user/HistoryOfChanges.md)
+### Импорт и экспорт данных
 <h4>
 <a href="/docs/FAQ/RU/user/Export.html">Экспорт</a><span class="updated-badge" title="20.02.2020"></span>
 </h4>
@@ -52,7 +59,7 @@
 <a href="/docs/FAQ/RU/user/Calendar.html">Календарь</a><span class="new-badge" title="23.09.2019"></span>
 </h4>
 ### Склады
-В системе HubEx появился новый функционал - работа с материалами. Теперь в системе HubEx владельцы бизнеса смогут отслеживать расход материалов, актуальное количество остатков и иметь возможность загружать справочник материалов в систему. А сотрудник может указывать количество тех материалов, которые были использованы по заявке.
+В системе HubEx владельцы бизнеса могут отслеживать расход материалов и актуальное количество остатков. Сотрудники могут указывать количество тех материалов, которые были использованы по заявке.
 <h4>
 <a href="/docs/FAQ/RU/user/Materials.html">Загрузка материалов в HubEx</a><span class="new-badge" title="01.03.2020"></span>
 </h4>

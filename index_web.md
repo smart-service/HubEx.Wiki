@@ -25,7 +25,7 @@
 #### [Создание заявки](docs/FAQ/RU/user/CreatingTicket.md)
 #### [Создание плановой заявки](docs/FAQ/RU/user/PlannedTickets.md)
 #### [Создание дополнительных полей в заявке](docs/FAQ/RU/user/AdditionalFields.md)
-#### [Добавление дополнительных полей в объект](docs/FAQ/RU/user/AdditionalFieldsObject.md)
+#### [Создание дополнительных полей в объекте](docs/FAQ/RU/user/AdditionalFieldsObject.md)
 <h4>
 <a href="/docs/FAQ/RU/user/Filters.html">Использование фильтров для поиска заявок</a><span class="updated-badge" title="18.02.2020"></span>
 </h4>

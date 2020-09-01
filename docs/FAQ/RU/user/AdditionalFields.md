@@ -26,7 +26,7 @@
         доступа.
     </li>
     <div>
-        <img style="margin: 0 auto; display: block; max-width: 100%;"
+        <img style="margin: 0 auto; display: block; max-width: 80%;"
              src="/attachments/images/FAQ/USER/AdditionalFields/AdmConsole.jpg"/>
     </div>
 
@@ -78,7 +78,7 @@
     <p> Теперь при создании <strong>Заявки</strong> вы можете перейти в блок <strong>Дополнительные поля</strong>, выбрать и заполнить ваши персональные поля. Подробнее о создании <strong>Заявки</strong> читайте <a
                 href="https://wiki.hubex.ru/docs/FAQ/RU/user/CreatingTicket.html"> здесь</a>.</p>
     <div>
-        <img style="margin: 0 auto; display: block; max-width: 100%;"
+        <img style="margin: 0 auto; display: block; max-width: 60%;"
              src="/attachments/images/FAQ/USER/AdditionalFields/ADDFieldTicket.jpg"/>
     </div>
  
@@ -87,7 +87,7 @@
     <p>Созданные вами дополнительные поля так же можно увидеть в <strong>Заявке</strong> в мобильном приложении.</p>
     <div>
         <img style="margin: 0 auto; display: block; max-width: 60%;"
-             src="/attachments/images/FAQ/USER/AdditionalFields/ADDFieldMob.jpg"/>
+             src="/attachments/images/FAQ/USER/AdditionalFields/ADDFieldMob.PNG"/>
     </div>
 
 </ol>

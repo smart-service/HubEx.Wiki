@@ -111,7 +111,7 @@
     <a href="/docs/FAQ/RU/user/HistoryOfChanges.html">История изменений</a>
 </h4>
 
-<!-->
+<!--
 #### [Саморегистрация и подача заявок](docs/FAQ/RU/user/SelfRegister.md)
 #### [Ограничение видимости файлов](docs/FAQ/RU/user/ViewRestriction.md)
 #### [Сообщения по заявке и вкладка сообщения](docs/FAQ/RU/user/Messages.md)

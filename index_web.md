@@ -134,7 +134,7 @@
     <a href="/docs/FAQ/RU/user/Export.html">Экспорт</a>
 </h4>
 <h4 style="padding-left: 20px;">
-    <a href="/docs/FAQ/RU/user/Import.html">Импорт/a>
+    <a href="/docs/FAQ/RU/user/Import.html">Импорт</a>
 </h4>
 
 <!--

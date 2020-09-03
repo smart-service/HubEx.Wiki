@@ -1,66 +1,106 @@
+#### Использование фильтров для поиска заявок
 В этом разделе вы научитесь:
 <html>
-  <meta charset="utf-8">
-  <title>Быстрый переход внутри документа</title>
- <ul>
-       <li><a href="#deltick1">Фильтровать закрытые заявки;</a></li>
-       <li><a href="#deltick2">Фильтровать удаленные заявки;</a></li>
-       <li><a href="#deltick3">Сохранение и использование быстрых фильтров.</a></li>
- </ul>
+<meta charset="utf-8">
+<title>Быстрый переход внутри документа</title>
+<ul>
+    <li><a href="#deltick1">Фильтровать закрытые Заявки;</a></li>
+    <li><a href="#deltick2">Фильтровать удаленные Заявки;</a></li>
+    <li><a href="#deltick3">Сохранять и использовать быстрые фильтры.</a></li>
+</ul>
 </html>
 
-В системе HubEx существует большое количество фильтров, позволяющих вам найти нужную заявку в считанные секунды. В последнем обновлении HubEx появилась новая кнопка фильтрации заявок.
-
-![filter1.jpg](/attachments/images/FAQ/USER/Filters/filter1.jpg)
-
-Нажав на нее, вы увидите окно с множеством фильтров. С их помощью вы можете определить, кто подал заявку, исполнителя по заявке, метод подачи заявки и другое.
-
-<div style="display: flex;">
-  <img  style="margin: 0 auto; display: block; max-width: 100%;" src="/attachments/images/FAQ/USER/Filters/filter2.jpg" /><img style="margin: 0 auto; display: block; max-width: 100%;" src="/attachments/images/FAQ/USER/Filters/filter3.jpg" />
+<p>Для быстрого поиска по <strong>Заявкам</strong> воспользуйтесь кнопкой <strong>Фильтры</strong>. Она находится в правом верхнем углу в меню <strong>Все
+    заявки</strong>.</p>
+<div>
+    <img style="margin: 0 auto; display: block; max-width: 100%;"
+         src="/attachments/images/FAQ/USER/Filters/FiltersButton.jpg"/>
 </div>
 
-Для того чтобы применить фильтр, нажмите на кнопку "галка" в верхней части окна фильтрации, либо нажмите в любое место экрана, за пределами окна фильтрации.
+<p>С помощью фильтров вы можете установить отборы по различным полям <strong>Заявки</strong>.</p>
 
-Для того чтобы сбросить примененные фильтры, нажмите на кнопку сброса фильтров.
+<div style="display: flex;">
+    <img style="margin: 0 auto; display: block; max-width: 100%;"
+         src="/attachments/images/FAQ/USER/Filters/filter2.jpg"/><img
+        style="margin: 0 auto; display: block; max-width: 100%;"
+        src="/attachments/images/FAQ/USER/Filters/filter3.jpg"/>
+</div>
 
-![filter4.jpg](/attachments/images/FAQ/USER/Filters/filter4.jpg)
+<p>Например, вам необходимо найти все <strong>Заявки</strong> по определенному оборудованию. Тогда в окошке фильтров в поле <strong>Объекты</strong>
+    выберите оборудование и нажмите на кнопку <strong>Применить</strong>.</p>
+<div>
+    <img style="margin: 0 auto; display: block; max-width: 100%;"
+         src="/attachments/images/FAQ/USER/Filters/FilterObj.jpg"/>
+</div>
 
-Рассмотрим некоторые из фильтров подробнее в этой статье:
+<p>Для отмены фильтрации нажмите на кнопку сброса фильтров.</p>
+<div>
+    <img style="margin: 0 auto; display: block; max-width: 60%;"
+         src="/attachments/images/FAQ/USER/Filters/ClearFilters.jpg"/>
+</div>
 
-<h5 id="deltick1">Фильтрация закрытых заявок: </h5>
-После того как заявка была переведена на стадию «Закрыта», вы больше не будете видеть эту заявку среди основного списка ваших заявок. Это происходит из-за того, что по умолчанию включен фильтр «Состояние заявки» - «Только открытые».
 
-![filter5.jpg](/attachments/images/FAQ/USER/Filters/filter5.jpg)
+<h5 id="deltick1">Фильтрация закрытых Заявок</h5>
+<p><strong>Заявка</strong> в стадии <strong>Закрыта</strong> не отображается в списке всех заявок, так как в системе по умолчанию настроен фильтр
+    показывать только <strong>Открытые заявки</strong>.</p>
+<div>
+    <img style="margin: 0 auto; display: block; max-width: 80%;"
+         src="/attachments/images/FAQ/USER/Filters/filter5.jpg"/>
+</div>
 
-Для того чтобы увидеть все заявки, вам необходмо нажать кнопку фильтрации, где выбрать в фильтре «Состояние заявки» либо пункт «Только закрытые», чтобы увидеть только закрытые заявки, либо «Все заявки», чтобы увидеть как закрытые, так и открытые заявки.
+<p>Для того чтобы увидеть все <strong>Заявки</strong>, нажмите кнопку <strong>Фильтры</strong>. Выберите в пункте <strong>Состояние заявки</strong> один из вариантов:</p>
+<ul>
+    <li><strong>Только закрытые</strong>: вы увидите в списке только закрытые <strong>Заявки</strong>;</li>
+    <li><strong>Все заявки</strong>: в списке отразятся и открытые, и закрыте <strong>Заявки</strong>.</li>
+</ul>
+<div>
+    <img style="margin: 0 auto; display: block; max-width: 80%;"
+         src="/attachments/images/FAQ/USER/Filters/DeletedTickets.jpg"/>
+</div>
 
-![filter6.jpg](/attachments/images/FAQ/USER/Filters/filter6.jpg)
 
-<h5 id="deltick2">Фильтрация удаленных заявок: </h5>
-Если вы создали заявку по ошибке или же заметили, что это дубликат, то заявку можно удалить и она перестанет отображаться в списке всех заявок (подробнее про это читайте [здесь.](https://wiki.hubex.ru/docs/FAQ/RU/user/ChangingStatus.html#deletetick)) Тем не менее даже такие заявки можно найти в системе, достаточно использовать фильтр «Видимость заявок», где выбрать «Все заявки», либо «Только удаленные», в таком случае вы увидете либо все заявки, то есть как действующие, так и удаленные, либо только удаленные.
+<h5 id="deltick2">Фильтрация удаленных заявок</h5>
+<p>Вы можете удалить <strong>Заявку</strong>, созданную по ошибке. Подробнее об этом можно прочитать <a
+        href="https://wiki.hubex.ru/docs/FAQ/RU/user/ChangingStatus.html#deletetick">здесь</a>. Она перестанет
+    отображаться в списке всех <strong>Заявок</strong>.
+    Но с помощью фильтра <strong>Видимость заявок</strong> ее можно будет найти. Выберите один из вариантов: </p>
+<ul>
+    <li><strong>Только удаленные</strong>: вы увидите в списке только удаленные <strong>Заявки</strong>;</li>
+    <li><strong>Все заявки</strong>: в списке отразятся и удаленные, и действующие <strong>Заявки</strong>.</li>
+</ul>
+<div>
+    <img style="margin: 0 auto; display: block; max-width: 80%;"
+         src="/attachments/images/FAQ/USER/Filters/DeletedTickets.jpg"/>
+</div>
 
-![filter7.jpg](/attachments/images/FAQ/USER/Filters/filter7.jpg)
+<h5 id="deltick3">Сохранение и использование быстрых фильтров</h5>
+<p>Вы можете сохранять настройки фильтрации. Это сэкономит ваше время поиска необходимых <strong>Заявок</strong>. Например, вы часто
+    работаете с <strong>Заявками</strong> определенного <strong>Заказчика</strong>. Настройте необходимые
+    пункты и нажмите на кнопку сохранения фильтра.</p>
+<div>
+    <img style="margin: 0 auto; display: block; max-width: 80%;"
+         src="/attachments/images/FAQ/USER/Filters/SavingFilters.jpg"/>
+</div>
 
-<h5 id="deltick3">Сохранение и использование быстрых фильтров: </h5>
-В системе HubEx есть возможность сохранить использумые фильтры, чтобы иметь к нужной фильтрации быстрый доступ. Для сохранения нового "быстрого фильтра" нажмите на кнопку сохранения фильтра, после применения одного из фильтров.
+<p>Введите название быстрого фильтра.</p>
 
-![filter8.jpg](/attachments/images/FAQ/USER/Filters/filter8.jpg)
+<div>
+    <img style="margin: 0 auto; display: block; max-width: 80%;"
+         src="/attachments/images/FAQ/USER/Filters/FiltersName.jpg"/>
+</div>
 
-Введите название быстрого фильтра.
+<p>Быстрый фильтр отобразится над списком всех <strong>Заявок</strong>.</p>
 
-![filter9.jpg](/attachments/images/FAQ/USER/Filters/filter9.jpg)
-
-После сохранения нового фильтра, он будет доступен вам в графе "быстрые фильтры".
-
-![filter10.png](/attachments/images/FAQ/USER/Filters/filter10.png)
+<div>
+    <img style="margin: 0 auto; display: block; max-width: 100%;"
+         src="/attachments/images/FAQ/USER/Filters/FastFilters.jpg"/>
+</div>
 
 
 ### Следующие шаги:
 - [Переход заявки по стадиям и удаление заявки](./ChangingStatus.md)
 - [Прикрепление выполненных работ](./AttachingFiles.md)
 - [Создание шаблона оборудования и маркировка](./CreatingObjTemplates.md)
-
-
 
 
 ____

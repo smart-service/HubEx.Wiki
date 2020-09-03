@@ -32,10 +32,14 @@
 #### [Создание плановой заявки](docs/FAQ/RU/user/PlannedTickets.md)
 #### [Создание дополнительных полей в заявке](docs/FAQ/RU/user/AdditionalFields.md)
 <h4>
+<a href="/docs/FAQ/RU/user/Calendar.html">Календарь</a><span class="new-badge" title="23.09.2019"></span>
+</h4>
+#### [Чеклисты](docs/FAQ/RU/user/Checklists.md)
+#### [Прикрепление выполненных работ](docs/FAQ/RU/user/AttachingFiles.md)
+#### [Переход заявки по стадиям и удаление заявки](docs/FAQ/RU/user/ChangingStatus.md)
+<h4>
 <a href="/docs/FAQ/RU/user/Filters.html">Использование фильтров для поиска заявок</a><span class="updated-badge" title="18.02.2020"></span>
 </h4>
-#### [Переход заявки по стадиям и удаление заявки](docs/FAQ/RU/user/ChangingStatus.md)
-#### [Прикрепление выполненных работ](docs/FAQ/RU/user/AttachingFiles.md)
 #### [Создание шаблона оборудования и маркировка](docs/FAQ/RU/user/CreatingObjTemplates.md)
 <h4>
 <a href="/docs/FAQ/RU/user/CreatingTaskTemplates.html">Создание QR-кода и паспорта объекта</a><span class="updated-badge" title="16.09.2019"></span>
@@ -43,13 +47,10 @@
 #### [Саморегистрация и подача заявок](docs/FAQ/RU/user/SelfRegister.md)
 #### [Ограничение видимости файлов](docs/FAQ/RU/user/ViewRestriction.md)
 #### [Сообщения по заявке и вкладка сообщения](docs/FAQ/RU/user/Messages.md)
-#### [Чеклисты](docs/FAQ/RU/user/Checklists.md)
 #### [Геопозиция](docs/FAQ/RU/user/GeoPosition.md)
 #### [Рейтинги](docs/FAQ/RU/user/Ratings.md)
 #### [История изменений](docs/FAQ/RU/user/HistoryOfChanges.md)
-<h4>
-<a href="/docs/FAQ/RU/user/Calendar.html">Календарь</a><span class="new-badge" title="23.09.2019"></span>
-</h4>
+
 ### Аналитика
 Анализируйте различную статистику по Заявкам. Наглядные отчеты помогут вам принимать эффективные решения, а также ускорят обнаружение различных проблемных мест.
 #### [Аналитика](docs/FAQ/RU/user/Analytics.md)

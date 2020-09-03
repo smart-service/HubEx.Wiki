@@ -13,10 +13,15 @@
 <noscript><div><img src="https://mc.yandex.ru/watch/'{{ site.yandex_metric }}'" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
 <!-- /Yandex.Metrika counter -->
 <link rel="stylesheet" type="text/css" href="/assets/css/styles.css">
+<style>
+    p {
+    text-indent: 20px; 
+   }
+   </style>
 <!--Для успешного начала работы выполните следующие шаги:-->
 ### Основные справочники
 Создание пользователей и заполнение основных справочников станет быстрым стартом для вашей работы. Вы сможете вести и хранить всю необходимую информацию в системе HubEx.
-#### [Создание пользователя вашей системы](docs/FAQ/RU/user/CreatingUser.md)
+<p>#### [Создание пользователя вашей системы](docs/FAQ/RU/user/CreatingUser.md)</p>
 <h4>
 <a href="/docs/FAQ/RU/user/CreatingCompany.html">Создание обслуживаемых компаний</a><span class="updated-badge" title="16.09.2019"></span>
 </h4>

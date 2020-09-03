@@ -59,7 +59,7 @@
 </div>
 
 
-<h5 id="deltick2">Фильтрация удаленных заявок</h5>
+<h5 id="deltick2">Фильтрация удаленных Заявок</h5>
 <p>Вы можете удалить <strong>Заявку</strong>, созданную по ошибке. Подробнее об этом можно прочитать <a
         href="https://wiki.hubex.ru/docs/FAQ/RU/user/ChangingStatus.html#deletetick">здесь</a>. Она перестанет
     отображаться в списке всех <strong>Заявок</strong>.
@@ -78,14 +78,14 @@
     работаете с <strong>Заявками</strong> определенного <strong>Заказчика</strong>. Настройте необходимые
     пункты и нажмите на кнопку сохранения фильтра.</p>
 <div>
-    <img style="margin: 0 auto; display: block; max-width: 80%;"
+    <img style="margin: 0 auto; display: block; max-width: 60%;"
          src="/attachments/images/FAQ/USER/Filters/SavingFilters.jpg"/>
 </div>
 
 <p>Введите название быстрого фильтра.</p>
 
 <div>
-    <img style="margin: 0 auto; display: block; max-width: 80%;"
+    <img style="margin: 0 auto; display: block; max-width: 60%;"
          src="/attachments/images/FAQ/USER/Filters/FiltersName.jpg"/>
 </div>
 

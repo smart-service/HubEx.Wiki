@@ -121,36 +121,47 @@
 
 ### Аналитика
 Анализируйте различную статистику по Заявкам. Наглядные отчеты помогут вам принимать эффективные решения, а также ускорят обнаружение различных проблемных мест.
-#### [Аналитика](docs/FAQ/RU/user/Analytics.md)
+<h4 style="padding-left: 20px;">
+    <a href="/docs/FAQ/RU/user/Analytics.html">Отчеты и аналитика</a>
+</h4>
+
+<!--
+#### [Аналитика](docs/FAQ/RU/user/Analytics.md)-->
 
 ### Импорт и экспорт данных
 Загружайте Объекты, Сотрудников, Компании и Заявки из внешних источников. Выгружайте необходимые данные для других систем.
-<h4>
-    <a href="/docs/FAQ/RU/user/Export.html">Экспорт</a><span class="updated-badge" title="20.02.2020"></span>
+<h4 style="padding-left: 20px;">
+    <a href="/docs/FAQ/RU/user/Export.html">Экспорт</a>
 </h4>
-#### [Импорт](docs/FAQ/RU/user/Import.md)
+<h4 style="padding-left: 20px;">
+    <a href="/docs/FAQ/RU/user/Import.html">Импорт/a>
+</h4>
+
+<!--
+#### [Импорт](docs/FAQ/RU/user/Import.md)-->
 
 ### Брендирование
 Персонализируйте приложение HubEx с помощью добавления вашего логотипа.
-#### [Брендирование](docs/FAQ/RU/user/Branding.md)
+<h4 style="padding-left: 20px;">
+    <a href="/docs/FAQ/RU/user/Branding.html">Бренд компании</a>
+</h4>
+
+<!--
+#### [Брендирование](docs/FAQ/RU/user/Branding.md)-->
 
 ### Склады
 В системе HubEx вы можете отслеживать расход материалов и актуальное количество остатков. А ваши сотрудники могут указывать количество материалов использованных по Заявке.
-<h4>
-    <a href="/docs/FAQ/RU/user/Materials.html">Загрузка материалов в HubEx</a><span class="new-badge"
-                                                                                    title="01.03.2020"></span>
+<h4 style="padding-left: 20px;">
+    <a href="/docs/FAQ/RU/user/Materials.html">Загрузка материалов в HubEx</a>
 </h4>
-<h4>
-    <a href="/docs/FAQ/RU/user/Withdrawals.html">Расходование материалов по заявке и просмотр расходов</a><span
-        class="new-badge" title="01.03.2020"></span>
+<h4 style="padding-left: 20px;">
+    <a href="/docs/FAQ/RU/user/Withdrawals.html">Расходование материалов по заявке и просмотр расходов</a>
 </h4>
-<h4>
-    <a href="/docs/FAQ/RU/user/TicketWithMaterials.html">Подача заявки с указанием рекомендованных материалов</a><span
-        class="new-badge" title="01.03.2020"></span>
+<h4 style="padding-left: 20px;">
+    <a href="/docs/FAQ/RU/user/TicketWithMaterials.html">Подача заявки с указанием рекомендованных материалов</a>
 </h4>
-<h4>
-    <a href="/docs/FAQ/RU/user/SettingsWithMaterials.html">Настройки для работы с материалами</a><span class="new-badge"
-                                                                                                       title="01.03.2020"></span>
+<h4 style="padding-left: 20px;">
+    <a href="/docs/FAQ/RU/user/SettingsWithMaterials.html">Настройки для работы с материалами</a>
 </h4>
 
 ____

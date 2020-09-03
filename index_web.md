@@ -26,19 +26,19 @@
 ### Основные справочники
 Создание пользователей и заполнение основных справочников станет быстрым стартом для вашей работы. Вы сможете вести и хранить всю необходимую информацию в системе HubEx.
 <!--#### [Создание пользователя вашей системы](docs/FAQ/RU/user/CreatingUser.md)-->
-<h4 style="padding-left: 30px;">
+<h4 style="padding-left: 20px;">
     <a href="/docs/FAQ/RU/user/CreatingUser.html">Создание пользователя вашей системы</a>
 </h4>
-<h4 style="padding-left: 30px;">
+<h4 style="padding-left: 20px;">
     <a href="/docs/FAQ/RU/user/CreatingCompany.html">Создание обслуживаемых компаний</a>
 </h4>
-<h4 style="padding-left: 30px;">
+<h4 style="padding-left: 20px;">
     <a href="/docs/FAQ/RU/user/CreatingObjects.html">Создание обслуживаемого оборудования</a>
 </h4>
-<h4 style="padding-left: 30px;">
+<h4 style="padding-left: 20px;">
     <a href="/docs/FAQ/RU/user/AdditionalFieldsObject.html">Создание дополнительных полей в объекте</a>
 </h4>
-<h4 style="padding-left: 30px;">
+<h4 style="padding-left: 20px;">
     <a href="/docs/FAQ/RU/user/CreatingCustomer.html">Создание заказчика</a>
 </h4>
 <!--#### [Создание дополнительных полей в объекте](docs/FAQ/RU/user/AdditionalFieldsObject.md)
@@ -46,30 +46,78 @@
 
 ### Работа с заявками
 Узнайте, как легко с помощью Календаря распределять Заявки на исполнителей или настроить быструю подачу Заявки с помощью QR-кода. Экономьте время на обучение сотрудников с помощью использования Чек-листов. А также подавайте Заявки без регистрации в системе.
+<h4 style="padding-left: 20px;">
+    <a href="/docs/FAQ/RU/user/CreatingTicket.html">Создание заявки</a>
+</h4>
+<h4 style="padding-left: 20px;">
+    <a href="/docs/FAQ/RU/user/PlannedTickets.html">Создание плановой заявки</a>
+</h4>
+<h4 style="padding-left: 20px;">
+    <a href="/docs/FAQ/RU/user/AdditionalFields.html">Создание дополнительных полей в заявке</a>
+</h4>
+
+<!--
 #### [Создание заявки](docs/FAQ/RU/user/CreatingTicket.md)
 #### [Создание плановой заявки](docs/FAQ/RU/user/PlannedTickets.md)
-#### [Создание дополнительных полей в заявке](docs/FAQ/RU/user/AdditionalFields.md)
-<h4>
-    <a href="/docs/FAQ/RU/user/Calendar.html">Календарь</a><span class="new-badge" title="23.09.2019"></span>
+#### [Создание дополнительных полей в заявке](docs/FAQ/RU/user/AdditionalFields.md)-->
+
+<h4 style="padding-left: 20px;">
+    <a href="/docs/FAQ/RU/user/Calendar.html">Календарь</a>
 </h4>
+<h4 style="padding-left: 20px;">
+    <a href="/docs/FAQ/RU/user/Checklists.html">Чек-листы</a>
+</h4>
+<h4 style="padding-left: 20px;">
+    <a href="/docs/FAQ/RU/user/AttachingFiles.html">Прикрепление выполненных работ</a>
+</h4>
+<h4 style="padding-left: 20px;">
+    <a href="/docs/FAQ/RU/user/ChangingStatus.html">Переход заявки по стадиям и удаление заявки</a>
+</h4>
+
+<!--
 #### [Чеклисты](docs/FAQ/RU/user/Checklists.md)
 #### [Прикрепление выполненных работ](docs/FAQ/RU/user/AttachingFiles.md)
-#### [Переход заявки по стадиям и удаление заявки](docs/FAQ/RU/user/ChangingStatus.md)
-<h4>
-    <a href="/docs/FAQ/RU/user/Filters.html">Использование фильтров для поиска заявок</a><span class="updated-badge"
-                                                                                               title="18.02.2020"></span>
+#### [Переход заявки по стадиям и удаление заявки](docs/FAQ/RU/user/ChangingStatus.md)-->
+
+<h4 style="padding-left: 20px;">
+    <a href="/docs/FAQ/RU/user/Filters.html">Использование фильтров для поиска заявок</a>
 </h4>
-#### [Создание шаблона оборудования и маркировка](docs/FAQ/RU/user/CreatingObjTemplates.md)
-<h4>
-    <a href="/docs/FAQ/RU/user/CreatingTaskTemplates.html">Создание QR-кода и паспорта объекта</a><span
-        class="updated-badge" title="16.09.2019"></span>
+<h4 style="padding-left: 20px;">
+    <a href="/docs/FAQ/RU/user/CreatingObjTemplates.html">Создание шаблона оборудования и маркировка</a>
 </h4>
+
+<!--
+#### [Создание шаблона оборудования и маркировка](docs/FAQ/RU/user/CreatingObjTemplates.md)-->
+
+<h4 style="padding-left: 20px;">
+    <a href="/docs/FAQ/RU/user/CreatingTaskTemplates.html">Создание QR-кода и паспорта объекта</a>
+</h4>
+<h4 style="padding-left: 20px;">
+    <a href="/docs/FAQ/RU/user/SelfRegister.html">Саморегистрация и подача заявок</a>
+</h4>
+<h4 style="padding-left: 20px;">
+    <a href="/docs/FAQ/RU/user/ViewRestriction.html">Ограничение видимости файлов</a>
+</h4>
+<h4 style="padding-left: 20px;">
+    <a href="/docs/FAQ/RU/user/Messages.html">Сообщения по заявке и вкладка сообщения</a>
+</h4>
+<h4 style="padding-left: 20px;">
+    <a href="/docs/FAQ/RU/user/GeoPosition.html">Геопозиция</a>
+</h4>
+<h4 style="padding-left: 20px;">
+    <a href="/docs/FAQ/RU/user/Ratings.html">Рейтинги</a>
+</h4>
+<h4 style="padding-left: 20px;">
+    <a href="/docs/FAQ/RU/user/HistoryOfChanges.html">История изменений</a>
+</h4>
+
+<!-->
 #### [Саморегистрация и подача заявок](docs/FAQ/RU/user/SelfRegister.md)
 #### [Ограничение видимости файлов](docs/FAQ/RU/user/ViewRestriction.md)
 #### [Сообщения по заявке и вкладка сообщения](docs/FAQ/RU/user/Messages.md)
 #### [Геопозиция](docs/FAQ/RU/user/GeoPosition.md)
 #### [Рейтинги](docs/FAQ/RU/user/Ratings.md)
-#### [История изменений](docs/FAQ/RU/user/HistoryOfChanges.md)
+#### [История изменений](docs/FAQ/RU/user/HistoryOfChanges.md)-->
 
 ### Аналитика
 Анализируйте различную статистику по Заявкам. Наглядные отчеты помогут вам принимать эффективные решения, а также ускорят обнаружение различных проблемных мест.

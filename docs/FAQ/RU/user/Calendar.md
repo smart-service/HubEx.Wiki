@@ -37,10 +37,10 @@
 
 <div>
     <img style="margin: 0 auto; display: block; max-width: 100%;"
-         src="/attachments/images/FAQ/USER/Calendar/Calendar2.jpg"/>
+         src="/attachments/images/FAQ/USER/Calendar/Calendar2.png"/>
 </div>
 
-<p>Если на сервисного специалиста назначенно несколько <strong>Заявок<.strong> в один и тот же промежуток времени, то поле с его <strong>Заявками</strong>
+<p>Если на сервисного специалиста назначенно несколько <strong>Заявок</strong> в один и тот же промежуток времени, то поле с его <strong>Заявками</strong>
     будет расширено. Обе заявки будут отображены.</p>
 
 <div>

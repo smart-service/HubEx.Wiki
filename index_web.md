@@ -62,7 +62,7 @@
 #### [Создание дополнительных полей в заявке](docs/FAQ/RU/user/AdditionalFields.md)-->
 
 <h4 style="padding-left: 20px;">
-    <a href="/docs/FAQ/RU/user/Calendar.html">Календарь</a>
+    <a href="/docs/FAQ/RU/user/Calendar.html">Календарь заявок</a>
 </h4>
 <h4 style="padding-left: 20px;">
     <a href="/docs/FAQ/RU/user/Checklists.html">Чек-листы</a>

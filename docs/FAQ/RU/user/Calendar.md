@@ -37,10 +37,10 @@
 
 <div>
     <img style="margin: 0 auto; display: block; max-width: 100%;"
-         src="/attachments/images/FAQ/USER/Calendar/Calendar2.png"/>
+         src="/attachments/images/FAQ/USER/Calendar/Calendar2.jpg"/>
 </div>
 
-<p>Если на сервисного специалиста назначенно несколько <strong>Заявок</strong> в один и тот же промежуток времени, то поле с его <strong>Заявками</strong>
+<p>Если на сервисного специалиста назначенно несколько <strong>Заявок<.strong> в один и тот же промежуток времени, то поле с его <strong>Заявками</strong>
     будет расширено. Обе заявки будут отображены.</p>
 
 <div>
@@ -63,7 +63,7 @@
          src="/attachments/images/FAQ/USER/Calendar/TicketInfo.jpg"/>
 </div>
 
-<p>Из <strong>Расписания заявок</strong> вы можете подать <strong>Заявку</strong> по кнопке + в правом верхнем углу:
+<p>Из <strong>Расписания заявок</strong> вы можете подать <strong>Заявку</strong> по кнопке + в правом верхнем углу:</p>
 
 <div>
     <img style="margin: 0 auto; display: block; max-width: 100%;"
@@ -76,7 +76,7 @@
 <p>Когда вы выбираете исполнителя, <strong>Дата и время выполнения</strong> заполненяются автоматически. В поле <strong>Начало</strong> устанавливается
     текущий день и ближайший час. В поле <strong>Окончание</strong> дата и время может быть рассчитано в двух вариантах: </p>
 <ul>
-    <li>Если у <strong>Вида работ</strong> заполнены <strong>Плановые трудозатраты</strong> в количестве часов (минут или дней), то это значение
+    <li>Если у <strong>Вида работ<s/trong> заполнены <strong>Плановые трудозатраты</strong> в количестве часов (минут или дней), то это значение
         прибавляется к начальной дате и времени;
         <div>
             <img style="margin: 0 auto; display: block; max-width: 100%;"
@@ -109,7 +109,7 @@
     верхнем углу. Либо с помощью бокового меню.</p>
 
 <div>
-    <img style="margin: 0 auto; display: block; max-width: 70%;"
+    <img style="margin: 0 auto; display: block; max-width: 50%;"
          src="/attachments/images/FAQ/USER/Calendar/CalendarMob.jpg"/>
 </div>
 
@@ -139,7 +139,7 @@
     уведомление. Если в течение 5 минут <strong>Заявка</strong> была переназначена на
     другого специалиста, то первому назаченному уведомление не прийдет. Если <strong>Заявка</strong> была снята по просшествии 5 минут, то инженеру придет новое
     push-уведомление с текстом «С вас была снята заявка <span style="color: darkred">номер заявки</span>». Если <strong>Заявка</strong> была перенесена по времени после 5 минут, сотруднику придет новое push-уведомление с текстом
-    «Время выполнения по заявке <span style="color: darkred">номер заявки</span> было изменено».
+    «Время выполнения по заявке <span style="color: darkred">номер заявки</span>> было изменено».
 </p>
 
 

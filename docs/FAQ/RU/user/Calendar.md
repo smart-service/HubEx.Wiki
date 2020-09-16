@@ -109,8 +109,7 @@
     верхнем углу. Либо с помощью бокового меню.</p>
 
 <div>
-    <img style="margin: 0 auto; display: block; max-width: 50%;"
-         src="/attachments/images/FAQ/USER/Calendar/CalendarMob.jpg"/>
+    <img style="margin: 0 auto; display: block; max-width: 30%;" src="/attachments/images/FAQ/USER/Calendar/CalendarMob.jpg"/>
 </div>
 
 <p>Инженер сможет увидеть <strong>Заявки</strong>, которые ему необходимо выполнить в течение дня. Текущее время дня отображается в
@@ -139,7 +138,7 @@
     уведомление. Если в течение 5 минут <strong>Заявка</strong> была переназначена на
     другого специалиста, то первому назаченному уведомление не прийдет. Если <strong>Заявка</strong> была снята по просшествии 5 минут, то инженеру придет новое
     push-уведомление с текстом «С вас была снята заявка <span style="color: darkred">номер заявки</span>». Если <strong>Заявка</strong> была перенесена по времени после 5 минут, сотруднику придет новое push-уведомление с текстом
-    «Время выполнения по заявке <span style="color: darkred">номер заявки</span>> было изменено».
+    «Время выполнения по заявке <span style="color: darkred">номер заявки</span> было изменено».
 </p>
 
 

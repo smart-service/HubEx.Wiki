@@ -30,26 +30,38 @@ description: Как создавать профили пользователей
  </ul>
 </html>
 
-<p>Для создания пользователя необходимо перейти на вкладку <strong>Пользователи</strong> бокового меню, а затем выбрать <strong>Сотрудники</strong>. По нажатию на кнопку <strong>Добавить сотрудника</strong> откроется форма создания пользователя.</p>
+<p><strong>Сотрудники</strong> могут создавать и выполнять <strong>Заявки</strong>. <strong>Сотрудники</strong> являются лицензируемыми пользователями системы. Для них доступно web- и мобильное приложение HubEx для сервисной службы. Скачать мобильное приложение можно AppStore или Google Play.</p>
 
-<div>
+
+<!--<div>
   <img  style="margin: 0 auto; display: block; max-width: 100%;" src="/attachments/images/FAQ/USER/CreatingUser/user1.png" />
-</div>
+</div>-->
 
-В системе HubEx используется понятие <strong>Роль</strong> – это набор прав и полномочий, определяющих доступ к функционалу системы. Созданием и корректировкой <strong>Ролей</strong> занимается администратор вашей системы. Подробно об этом можно прочитать [здесь](https://wiki.hubex.ru/docs/FAQ/RU/admin/Roles.html).
-
-<div>
-  <img  style="margin: 0 auto; display: block; max-width: 60%;" src="/attachments/images/FAQ/USER/CreatingUser/user9.png" />
-</div>
 
 <h5 id="createadm">Создание Сервисного инженера и Начальника сервисной службы</h5>
 
-<p>Форма создания нового сотрудника состоит из нескольких вкладок: <strong>Общее</strong>, <strong>Квалификация</strong>, <strong>Трудоустройство</strong>, <strong>Прочее</strong>. При создании нового пользователя на вкладке <strong>Общее</strong> обязательными для заполнения являются следующие поля:</p>
+<p>Для создания пользователя перейдите на вкладку <strong>Пользователи</strong> бокового меню, выберите пункт <strong>Сотрудники</strong> и нажмите на кнопку <strong>Добавить сотрудника</strong>.</p>
+
+<!-- <p>В системе HubEx используется понятие <strong>Роль</strong> – это набор прав и полномочий, определяющих доступ к функционалу системы. Созданием и корректировкой <strong>Ролей</strong> занимается администратор вашей системы. Подробно об этом можно прочитать <a href="https://wiki.hubex.ru/docs/FAQ/RU/admin/Roles.html">здесь</a>.</p>-->
+
+<!--<div>
+  <img  style="margin: 0 auto; display: block; max-width: 50%;" src="/attachments/images/FAQ/USER/CreatingUser/user9.png" />
+</div>
+-->
+
+<p>Форма создания нового сотрудника состоит из нескольких вкладок: <strong>Общее</strong>, <strong>Квалификация</strong>, <strong>Трудоустройство</strong>. При создании нового пользователя на вкладке <strong>Общее</strong> обязательными для заполнения являются следующие поля:</p>
 <p> <ul>
       <li><strong> Фамилия</strong>;</li>
       <li><strong> Имя</strong>;</li>
       <li><strong> Телефон</strong> или <strong>Электронная почта</strong>;</li>
-      <li> <strong>Роль</strong>: для сервисного инженера роль будет <strong>Сервисный специалист</strong>, для начальника - <strong>Начальник Сервисной Службы</strong>;</li>
+      <li> <strong>Роль</strong>: это набор прав и полномочий, определяющих доступ к функционалу системы. Созданием и корректировкой <strong>Ролей</strong> занимается администратор вашей системы. Подробно об этом можно прочитать <a href="https://wiki.hubex.ru/docs/FAQ/RU/admin/Roles.html">здесь</a>.
+      
+       <div>
+               <img style="margin: 0 auto; display: block; max-width: 50%;"
+             src="/attachments/images/FAQ/USER/USER/CreatingUser/user9.png"/>
+             </div>
+  
+      <p>Для сервисного инженера роль будет <strong>Сервисный специалист</strong>, для начальника - <strong>Начальник Сервисной Службы</strong>;</p></li>
       <li> <strong>Отслеживать местоположение сотрудника</strong>: включать эту функцию необходимо для <strong>Сервисного специалиста</strong>, чтобы отслеживтаь его местоположение. Для остальных ролей это необязательно. </li>
 </ul> </p>
  

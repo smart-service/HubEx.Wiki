@@ -54,7 +54,10 @@ description: Как создавать профили пользователей
 
 <p>Для создания пользователя перейдите на вкладку <strong>Пользователи</strong> бокового меню, выберите пункт <strong>Сотрудники</strong>
     и нажмите на кнопку <strong>Добавить сотрудника</strong>.</p>
-
+<div>
+    <img style="margin: 0 auto; display: block; max-width: 70%;"
+         src="/attachments/images/FAQ/USER/CreatingUser/User1.jpg"/>
+</div>
 <!-- <p>В системе HubEx используется понятие <strong>Роль</strong> – это набор прав и полномочий, определяющих доступ к функционалу системы. Созданием и корректировкой <strong>Ролей</strong> занимается администратор вашей системы. Подробно об этом можно прочитать <a href="https://wiki.hubex.ru/docs/FAQ/RU/admin/Roles.html">здесь</a>.</p>-->
 
 <!--<div>
@@ -100,15 +103,11 @@ description: Как создавать профили пользователей
 
 </ul> </p>
 
-<div>
-    <img style="margin: 0 auto; display: block; max-width: 70%;"
-         src="/attachments/images/FAQ/USER/CreatingUser/User1.jpg"/>
-</div>
-<p>
+
 <div>
     <img style="margin: 0 auto; display: block; max-width: 70%;"
          src="/attachments/images/FAQ/USER/CreatingUser/User2.jpg"/>
-</div> </p>
+</div>
 
 <p>Обратите внимание, что одно из полей <strong>Телефон</strong> или <strong>Электронная почта</strong> будет являться
     логином для входа в систему через web- и мобильное приложение. После заполнения всех вкладок и сохранения карточки
@@ -139,7 +138,7 @@ description: Как создавать профили пользователей
             href="https://wiki.hubex.ru/docs/FAQ/RU/admin/WorkType.html">статье</a>.</p>
 
     <div>
-        <img style="margin: 0 auto; display: block; max-width: 60%;"
+        <img style="margin: 0 auto; display: block; max-width: 50%;"
              src="/attachments/images/FAQ/USER/CreatingUser/user7.png"/>
     </div>
 </li>

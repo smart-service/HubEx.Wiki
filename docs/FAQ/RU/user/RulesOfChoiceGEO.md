@@ -112,7 +112,7 @@
         с совпадающим видом работ в <strong>Заявке</strong> и карточке <strong>Сотрудник</strong>.
     </li>
     <div>
-        <img style="margin: 0 auto; display: block; max-width: 80%;"
+        <img style="margin: 0 auto; display: block; max-width: 60%;"
              src="/attachments/images/FAQ/USER/RulesOfChoiseGEO/StageTicket2.jpg"/>
     </div>
 </ol>

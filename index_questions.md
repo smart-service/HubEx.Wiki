@@ -15,7 +15,7 @@
 <link rel="stylesheet" type="text/css" href="/assets/css/styles.css">
 ## Ответы на часто задаваемые вопросы
 На этой странице вы можете найти ответы на вопросы, возникающие у пользователей.
-#### [Как настроить автоматический выбор исполнителя по геопозиции и виду работ?](docs/FAQ/RU/admin/RulesOfChoiceGEO.md)
+#### [Как настроить автоматический выбор исполнителя по геопозиции и виду работ?](docs/FAQ/RU/user/RulesOfChoiceGEO.md)
 <h4>
 <a href="/docs/FAQ/RU/user/HowToNotificationsToMobile.html">Что делать, если не приходят уведомления?</a><span class="new-badge" title="17.10.2019"></span>
 </h4>

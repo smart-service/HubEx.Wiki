@@ -33,8 +33,7 @@
 #### [Актуальность заявки](docs/FAQ/RU/admin/Actuality.md)
 #### [Критичность заявки](docs/FAQ/RU/admin/Criticality.md)
 #### [Правила выбора исполнителя](docs/FAQ/RU/admin/RulesOfChoice.md)
-<h4>
-<a href="/docs/FAQ/RU/admin/RulesOfChoiceGEO.html">Автоназначение по геопозиции</a></h4>
+#### [Автоназначение по геопозиции](docs/FAQ/RU/admin/RulesOfChoiceGEO.md)
 #### [Стадии заявки](docs/FAQ/RU/admin/StageType.md)
 <h4>
 <a href="/docs/FAQ/RU/admin/ElementsOfInterface.html">Поля на форме заявки</a><span class="updated-badge" title="24.09.2019"></span>

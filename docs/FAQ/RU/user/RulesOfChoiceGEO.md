@@ -57,7 +57,7 @@
             Например, 1 минуту.
             <p>
             <div>
-                <img style="margin: 0 auto; display: block; max-width: 80%;"
+                <img style="margin: 0 auto; display: block; max-width: 90%;"
                      src="/attachments/images/FAQ/USER/RulesOfChoiseGEO/CustomStage.jpg"/>
             </div>
             </p>
@@ -66,17 +66,17 @@
     </ul>
     <p>Создадим <strong>Заявку</strong> на ремонт кофемашины и посмотрим, какого специалиста подберет система спустя одну минуту. </p>
     <div>
-        <img style="margin: 0 auto; display: block; max-width: 80%;"
+        <img style="margin: 0 auto; display: block; max-width: 90%;"
              src="/attachments/images/FAQ/USER/RulesOfChoiseGEO/Ticket.jpg"/>
     </div>
     <p>Система подобрала специалиста, и в <strong>Заявке</strong> на карте отобразилось расстояние исполнителя до <strong>Объекта</strong>. По карте мы можем удостовериться, что наш специалист находится в зоне <strong>Заявки</strong>. </p>
     <div>
-        <img style="margin: 0 auto; display: block; max-width: 80%;"
+        <img style="margin: 0 auto; display: block; max-width: 90%;"
              src="/attachments/images/FAQ/USER/RulesOfChoiseGEO/TicketAssigned.jpg"/>
     </div>
     <p>Карту можно открыть в <strong>Заявке</strong>, в пункте <strong>Исполнитель - Показать исполнителей на карте</strong>.</p>
     <div>
-        <img style="margin: 0 auto; display: block; max-width: 80%;"
+        <img style="margin: 0 auto; display: block; max-width: 90%;"
              src="/attachments/images/FAQ/USER/RulesOfChoiseGEO/Map.jpg"/>
     </div>
     
@@ -100,7 +100,7 @@
     </li>
     <p>
     <div>
-        <img style="margin: 0 auto; display: block; max-width: 80%;"
+        <img style="margin: 0 auto; display: block; max-width: 60%;"
              src="/attachments/images/FAQ/USER/RulesOfChoiseGEO/RulesOfChoise.jpg"/>
     </div>
     </p>

@@ -69,7 +69,7 @@ description: Как использовать график работ?
 <p>Обратите внимание! На форме выбора <strong>Исполнителя</strong> <strong>Дата и время выполнения</strong> устанавливаются автоматически: <strong>Начало</strong> -
     текущая дата и ближайший час, <strong>Окончание</strong> - высчитывается исходя из установленных <strong>Плановых трудозатрат</strong> в настройке <strong>Вида работ</strong>.</p>
 <div>
-    <img style="margin: 0 auto; display: block; max-width: 70%;"
+    <img style="margin: 0 auto; display: block; max-width: 50%;"
          src="/attachments/images/FAQ/USER/Schedule/WorkType.jpg"/>
 </div>
 

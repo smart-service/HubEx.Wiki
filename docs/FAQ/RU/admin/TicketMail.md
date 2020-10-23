@@ -29,11 +29,10 @@
         <p>Например, для Gmail эти настройки будут: <strong>Хост</strong>= imap.gmail.com, <strong>Порт</strong>= 993. Узнать хост и порт можно в
             вашем почтовом ящике или у вашего системного администратора.</p>
     </li>
-    <li></li>
-</ol>
+   </ol>
 
 <div>
-    <img style="margin: 0 auto; display: block; max-width: 80%;"
+    <img style="margin: 0 auto; display: block; max-width: 60%;"
          src="/attachments/images/FAQ/ADMIN/TicketMail/EmailADD.jpg"/>
 </div>
 
@@ -89,7 +88,7 @@
 <p>После отправки письма, в системе будет создана <strong>Заявка</strong>. Наа почту вы получите уведомление о ее создании.</p>
 <div>
     <img style="margin: 0 auto; display: block; max-width: 80%;"
-         src="/attachments/images/FAQ/ADMIN/TicketMail/emailtick6.jpg"/>
+         src="/attachments/images/FAQ/ADMIN/TicketMail/emailtick6.png"/>
 </div>
 
 <p>Вы можете написать ответ на письмо, в таком случае он будет указан в системе, как сообщение по <strong>Заявке</strong>.</p>

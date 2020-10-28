@@ -81,9 +81,9 @@ description: Как прикрепить отчет по выполнению р
     (по порядку) либо по кнопке двойной стрелки вверх (откроется список всех страниц для выбора).</p>
 
 <div style="display: flex;">
-    <img style="margin: 0 auto; display: block; max-width: 50%;"
+    <img style="margin: 0 auto; display: block; max-width: 30%;"
          src="/attachments/images/FAQ/USER/AttachingFiles/FirstPage.jpg"/> <img
-        style="margin: 0 auto; display: block; max-width: 50%;"
+        style="margin: 0 auto; display: block; max-width: 30%;"
         src="/attachments/images/FAQ/USER/AttachingFiles/AllPages.png"/>
 </div>
 <p>Заполните все страницы:</p>
@@ -103,7 +103,7 @@ description: Как прикрепить отчет по выполнению р
 <p>После заполнения всех страниц нажмите кнопку <strong>Сохранить</strong>. Вы можете просматривать и при необходимости внести изменения
     в выполненную работу.</p>
 <div>
-    <img style="margin: 0 auto; display: block; max-width: 50%;"
+    <img style="margin: 0 auto; display: block; max-width: 30%;"
          src="/attachments/images/FAQ/USER/AttachingFiles/MobileWork.png"/>
 </div>
 <p>Все внесенные изменения будут отражаться в web-приложении в <strong>Заявке</strong> на вкладке <strong>История изменений</strong>.</p>

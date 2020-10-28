@@ -70,7 +70,7 @@ description: Как прикрепить отчет по выполнению р
     <li>В качестве <strong>Файлов</strong> вы можете прикрепить, например, фотографию готовой работы.</li>
 </ul>
 <div>
-    <img style="margin: 0 auto; display: block; max-width: 80%;"
+    <img style="margin: 0 auto; display: block; max-width: 100%;"
          src="/attachments/images/FAQ/USER/AttachingFiles/Work.jpg"/>
 </div>
 
@@ -81,10 +81,10 @@ description: Как прикрепить отчет по выполнению р
     (по порядку) либо по кнопке двойной стрелки вверх (откроется список всех страниц для выбора).</p>
 
 <div style="display: flex;">
-    <img style="margin: 0 auto; display: block; max-width: 100%;"
-         src="/attachments/images/FAQ/USER/CreatingTickTemplates/FirstPage.jpg"/><img
-        style="margin: 0 auto; display: block; max-width: 100%;"
-        src="/attachments/images/FAQ/USER/CreatingTickTemplates/AllPages.png"/>
+    <img style="margin: 0 auto; display: block; max-width: 50%;"
+         src="/attachments/images/FAQ/USER/AttachingFiles/FirstPage.jpg"/> <img
+        style="margin: 0 auto; display: block; max-width: 50%;"
+        src="/attachments/images/FAQ/USER/AttachingFiles/AllPages.png"/>
 </div>
 <p>Заполните все страницы:</p>
 <ol>
@@ -103,7 +103,7 @@ description: Как прикрепить отчет по выполнению р
 <p>После заполнения всех страниц нажмите кнопку <strong>Сохранить</strong>. Вы можете просматривать и при необходимости внести изменения
     в выполненную работу.</p>
 <div>
-    <img style="margin: 0 auto; display: block; max-width: 70%;"
+    <img style="margin: 0 auto; display: block; max-width: 50%;"
          src="/attachments/images/FAQ/USER/AttachingFiles/MobileWork.png"/>
 </div>
 <p>Все внесенные изменения будут отражаться в web-приложении в <strong>Заявке</strong> на вкладке <strong>История изменений</strong>.</p>

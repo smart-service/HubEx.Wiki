@@ -95,9 +95,9 @@ description: Как изменить стадию (статус) заявки в
     </li>
 </ol>
 <div style="display: flex;">
-    <img style="margin: 0 auto; display: block; max-width: 30%;"
+    <img style="margin: 0 auto; display: block; max-width: 40%;"
          src="/attachments/images/FAQ/USER/ChangingStatus/Rules.jpg"/> <img
-        style="margin: 0 auto; display: block; max-width: 30%;"
+        style="margin: 0 auto; display: block; max-width: 40%;"
         src="/attachments/images/FAQ/USER/ChangingStatus/Rules2.jpg"/>
 </div>
 

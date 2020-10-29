@@ -96,9 +96,9 @@ description: Как изменить стадию (статус) заявки в
 </ol>
 <div style="display: flex;">
     <img style="margin: 0 auto; display: block; max-width: 30%;"
-         src="/attachments/images/FAQ/USER/AttachingFiles/Rules.jpg"/> <img
+         src="/attachments/images/FAQ/USER/ChangingStatus/Rules.jpg"/> <img
         style="margin: 0 auto; display: block; max-width: 30%;"
-        src="/attachments/images/FAQ/USER/AttachingFiles/Rules2.png"/>
+        src="/attachments/images/FAQ/USER/ChangingStatus/Rules2.jpg"/>
 </div>
 
 <p>Теперь <strong>Заявку</strong> можно будет удалить из списка <strong>Заявок</strong>: нажмите на контекстное меню (три точки) и выберите пункт <strong>Удалить</strong>,

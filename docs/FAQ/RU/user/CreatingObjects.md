@@ -59,9 +59,9 @@ description: Как добавить обслуживаемые компание
 
 <div style="display: flex;">
     <img style="margin: 0 auto; display: block; max-width: 40%;"
-         src="/attachments/images/FAQ/USER/creatingObjects/ObjectEmpty.jpg"/> <img
+         src="/attachments/images/FAQ/USER/CreatingObjects/ObjectEmpty.jpg"/> <img
         style="margin: 0 auto; display: block; max-width: 40%;"
-        src="/attachments/images/FAQ/USER/AttachingFiles/ObjectMain.jpg"/>
+        src="/attachments/images/FAQ/USER/CreatingObjects/ObjectMain.jpg"/>
 </div>
 
 

@@ -58,9 +58,9 @@ description: Как добавить обслуживаемые компание
 </p>
 
 <div style="display: flex;">
-    <img style="margin: 0 auto; display: block; max-width: 40%;"
+    <img style="margin: 0 auto; display: block; max-width: 45%;"
          src="/attachments/images/FAQ/USER/CreatingObjects/ObjectEmpty.jpg"/> <img
-        style="margin: 0 auto; display: block; max-width: 40%;"
+        style="margin: 0 auto; display: block; max-width: 45%;"
         src="/attachments/images/FAQ/USER/CreatingObjects/ObjectMain.jpg"/>
 </div>
 
@@ -101,7 +101,7 @@ description: Как добавить обслуживаемые компание
         создать новый дочерний объект.</p>
     </li>
     <div>
-        <img style="margin: 0 auto; display: block; max-width: 70%;"
+        <img style="margin: 0 auto; display: block; max-width: 80%;"
              src="/attachments/images/FAQ/USER/CreatingObjects/ChildObject3.jpg"/>
     </div>
 
@@ -111,7 +111,7 @@ description: Как добавить обслуживаемые компание
     </li>
 
     <div>
-        <img style="margin: 0 auto; display: block; max-width: 70%;"
+        <img style="margin: 0 auto; display: block; max-width: 80%;"
              src="/attachments/images/FAQ/USER/CreatingObjects/ChildObject2.jpg"/>
     </div>
 
@@ -119,7 +119,7 @@ description: Как добавить обслуживаемые компание
         родительского элемента.</p></li>
 
     <div>
-        <img style="margin: 0 auto; display: block; max-width: 70%;"
+        <img style="margin: 0 auto; display: block; max-width: 80%;"
              src="/attachments/images/FAQ/USER/CreatingObjects/ChildObject.jpg"/>
     </div>
 
@@ -129,7 +129,7 @@ description: Как добавить обслуживаемые компание
     </li>
 
     <div>
-        <img style="margin: 0 auto; display: block; max-width: 70%;"
+        <img style="margin: 0 auto; display: block; max-width: 80%;"
              src="/attachments/images/FAQ/USER/CreatingObjects/ObjectList.jpg"/>
     </div>
 
@@ -147,7 +147,7 @@ description: Как добавить обслуживаемые компание
     объекта.</p>
 
 <div>
-    <img style="margin: 0 auto; display: block; max-width: 70%;"
+    <img style="margin: 0 auto; display: block; max-width: 80%;"
          src="/attachments/images/FAQ/USER/CreatingObjects/AllowsCreateTicket.jpg"/>
 </div>
 
@@ -164,7 +164,7 @@ description: Как добавить обслуживаемые компание
     осуществляется из списка созданных вами компаний.</p>
 
 <div>
-    <img style="margin: 0 auto; display: block; max-width: 70%;"
+    <img style="margin: 0 auto; display: block; max-width: 80%;"
          src="/attachments/images/FAQ/USER/CreatingObjects/Owner.jpg"/>
 </div>
 
@@ -189,7 +189,7 @@ description: Как добавить обслуживаемые компание
     его от родителя.</p>
 
 <div>
-    <img style="margin: 0 auto; display: block; max-width: 70%;"
+    <img style="margin: 0 auto; display: block; max-width: 80%;"
          src="/attachments/images/FAQ/USER/CreatingObjects/obj6.png"/>
 </div>
 
@@ -199,7 +199,7 @@ description: Как добавить обслуживаемые компание
     оборудованием. Это могут быть фотографии, инструкции в текстовых файлах.</p>
 
 <div>
-    <img style="margin: 0 auto; display: block; max-width: 70%;"
+    <img style="margin: 0 auto; display: block; max-width: 80%;"
          src="/attachments/images/FAQ/USER/CreatingObjects/obj7.png"/>
 </div>
 
@@ -208,7 +208,7 @@ description: Как добавить обслуживаемые компание
     ответственного по объекту со стороны заказчика.</p>
 
 <div>
-    <img style="margin: 0 auto; display: block; max-width: 70%;"
+    <img style="margin: 0 auto; display: block; max-width: 80%;"
          src="/attachments/images/FAQ/USER/CreatingObjects/obj4.png"/>
 </div>
 
@@ -254,7 +254,7 @@ description: Как добавить обслуживаемые компание
 
 
 <div>
-    <img style="margin: 0 auto; display: block; max-width: 70%;"
+    <img style="margin: 0 auto; display: block; max-width: 80%;"
          src="/attachments/images/FAQ/USER/CreatingObjects/ObjectService.jpg"/>
 </div>
 
@@ -266,7 +266,7 @@ description: Как добавить обслуживаемые компание
             href="https://wiki.hubex.ru/docs/FAQ/RU/user/CreatingTickTemplates.html">здесь</a>.</p>
 
 <div>
-    <img style="margin: 0 auto; display: block; max-width: 50%;"
+    <img style="margin: 0 auto; display: block; max-width: 40%;"
          src="/attachments/images/FAQ/USER/CreatingObjects/obj8.png"/>
 </div>
 
@@ -277,7 +277,7 @@ description: Как добавить обслуживаемые компание
 </p>
 
 <div>
-    <img style="margin: 0 auto; display: block; max-width: 70%;"
+    <img style="margin: 0 auto; display: block; max-width: 80%;"
          src="/attachments/images/FAQ/USER/CreatingObjects/AdditionalField.jpg"/>
 </div>
 
@@ -288,7 +288,7 @@ description: Как добавить обслуживаемые компание
     вложенными объектами в списке заявок будут отражаться заявки по дочерним объектам
 </p>
 <div>
-    <img style="margin: 0 auto; display: block; max-width: 70%;"
+    <img style="margin: 0 auto; display: block; max-width: 80%;"
          src="/attachments/images/FAQ/USER/CreatingObjects/History.jpg"/>
 </div>
 

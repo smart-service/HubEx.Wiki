@@ -209,7 +209,7 @@ description: Как добавить обслуживаемые компание
 
 <div>
     <img style="margin: 0 auto; display: block; max-width: 80%;"
-         src="/attachments/images/FAQ/USER/CreatingObjects/obj4.png"/>
+         src="/attachments/images/FAQ/USER/CreatingObjects/Contact.jpg"/>
 </div>
 
 <p>Также можно ввести дополнительные контакты, например, директора, диспетчера.</p>

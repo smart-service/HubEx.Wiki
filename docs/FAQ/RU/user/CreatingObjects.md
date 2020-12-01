@@ -208,7 +208,7 @@ description: Как добавить обслуживаемые компание
     ответственного по объекту со стороны заказчика.</p>
 
 <div>
-    <img style="margin: 0 auto; display: block; max-width: 80%;"
+    <img style="margin: 0 auto; display: block; max-width: 100%;"
          src="/attachments/images/FAQ/USER/CreatingObjects/Contact.jpg"/>
 </div>
 

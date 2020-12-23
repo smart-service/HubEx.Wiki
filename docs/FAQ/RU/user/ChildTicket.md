@@ -24,13 +24,13 @@
         Также здесь отображаются уже ранее созданные дочерние заявки.
         <p>
         <div>
-            <img style="margin: 0 auto; display: block; max-width: 60%;"
+            <img style="margin: 0 auto; display: block; max-width: 80%;"
                  src="/attachments/images/FAQ/USER/ChildTicket/ChildTicket.jpg"/>
         </div>
         </p>
 
         <div>
-            <img style="margin: 0 auto; display: block; max-width: 60%;"
+            <img style="margin: 0 auto; display: block; max-width: 80%;"
                  src="/attachments/images/FAQ/USER/ChildTicket/ChildTickets.jpg"/>
         </div>
         <p>По кнопке Создать дочернюю заявку открывается краткая форма полей заявки. Обратите внимание! При
@@ -43,7 +43,7 @@
                 <li>необходимости назначить нескольких специалистов на один выезд - для каждого своя дочерняя заявка.</li>
             </ul>
         <div>
-            <img style="margin: 0 auto; display: block; max-width: 60%;"
+            <img style="margin: 0 auto; display: block; max-width: 80%;"
                  src="/attachments/images/FAQ/USER/ChildTicket/NewChildTicket.jpg"/>
         </div>
     </ol>
@@ -52,7 +52,7 @@
         дочерней заявке.
     </ol>
     <div>
-        <img style="margin: 0 auto; display: block; max-width: 60%;"
+        <img style="margin: 0 auto; display: block; max-width: 80%;"
              src="/attachments/images/FAQ/USER/ChildTicket/ParentTicket.jpg"/>
     </div>
 </ul>

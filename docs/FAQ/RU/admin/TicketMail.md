@@ -47,7 +47,7 @@
 
 <ol>
     <li><strong>Отправитель</strong> - конкретный e-mail адрес, у которого будет право создания <strong>Заявки</strong>. Также вы можете ввести значение
-        "\*@gmail.com" (без кавычек), тогда у всех почтовых ящиков *@gmail.com будет доступ к подаче <strong>Заявок</strong>
+        "*@gmail.com" (без кавычек), тогда у всех почтовых ящиков *@gmail.com будет доступ к подаче <strong>Заявок</strong>
         через e-mail. Подробнее про настройку почты Gmail читайте <a
                 href="https://wiki.hubex.ru/docs/FAQ/RU/user/HowToManageGmailIntegration.html">
             здесь</a>.

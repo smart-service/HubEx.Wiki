@@ -70,11 +70,11 @@
     <li id="ChildTicket2">Любую заявку можно превратить в дочернюю. Для этого в <strong>Заявке</strong> на вкладке <strong>Заявка</strong> для этого нужно заполнить
         поле <strong>Родительская
         заявка</strong> и нажать кнопку <strong>Сохранить</strong>.
-
+<p>
         <div>
             <img style="margin: 0 auto; display: block; max-width: 90%;"
                  src="/attachments/images/FAQ/USER/ChildTicket/ParentTicket.jpg"/>
-        </div>
+        </div> </p>
     </li>
 </ol>
 
@@ -108,7 +108,7 @@
     <img style="margin: 0 auto; display: block; max-width: 90%;"
          src="/attachments/images/FAQ/USER/ChildTicket/Settings.jpg"/>
 </div>
-<p>В настройках полей выберите необходимые, либо установите флажок в пункте Выбрать все - для выбора всех полей. Таким
+<p>В настройках полей выберите необходимые, либо установите флажок в пункте <strong>Выбрать все</strong> для выбора всех полей. Таким
     образом дочерние заявки будут отображаться в стандартном режиме.</p>
 <div>
     <img style="margin: 0 auto; display: block; max-width: 90%;"

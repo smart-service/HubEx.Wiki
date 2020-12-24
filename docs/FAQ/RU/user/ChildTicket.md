@@ -32,12 +32,12 @@
         Также здесь отображаются уже ранее созданные дочерние заявки.
 
         <div>
-            <img style="margin: 0 auto; display: block; max-width: 100%;"
+            <img style="margin: 0 auto; display: block; max-width: 90%;"
                  src="/attachments/images/FAQ/USER/ChildTicket/ChildTicket.jpg"/>
         </div>
 
         <div>
-            <img style="margin: 0 auto; display: block; max-width: 100%;"
+            <img style="margin: 0 auto; display: block; max-width: 90%;"
                  src="/attachments/images/FAQ/USER/ChildTicket/ChildTickets.jpg"/>
         </div>
         <p>По кнопке <strong>Создать дочернюю заявку</strong> открывается краткая форма полей заявки, в которой можно задать отличного от
@@ -50,19 +50,19 @@
             карточку заявки по щелчку мыши. </p>
 
         <div>
-            <img style="margin: 0 auto; display: block; max-width: 100%;"
+            <img style="margin: 0 auto; display: block; max-width: 90%;"
                  src="/attachments/images/FAQ/USER/ChildTicket/NewChildTicket.jpg"/>
         </div>
         <p>Полная форма <strong>Дочерней заявки</strong> выглядит точно также как и простая заявка. Отличительной чертой <strong>Дочерней заявки</strong>
             является заполненное поле <strong>Родительская заявка</strong>. В нем отражается номер <strong>Родительской заявки</strong>. </p>
 
         <div>
-            <img style="margin: 0 auto; display: block; max-width: 100%;"
+            <img style="margin: 0 auto; display: block; max-width: 90%;"
                  src="/attachments/images/FAQ/USER/ChildTicket/SelectChildTicket.jpg"/>
         </div>
         <p>
         <div>
-            <img style="margin: 0 auto; display: block; max-width: 100%;"
+            <img style="margin: 0 auto; display: block; max-width: 90%;"
                  src="/attachments/images/FAQ/USER/ChildTicket/OpenedChildTicket.jpg"/>
         </div>
         </p> </li>
@@ -72,7 +72,7 @@
         заявка</strong> и нажать кнопку <strong>Сохранить</strong>.
 
         <div>
-            <img style="margin: 0 auto; display: block; max-width: 100%;"
+            <img style="margin: 0 auto; display: block; max-width: 90%;"
                  src="/attachments/images/FAQ/USER/ChildTicket/ParentTicket.jpg"/>
         </div>
     </li>
@@ -83,20 +83,20 @@
     гиперссылками: щелчок мыши по ссылке <strong>Родительской заявки</strong> откроет форму родительской заявки; щелчок мыши по ссылке
     <strong>Дочерние заявки</strong> откроет родительскую заявку с вкладкой <strong>Дочерние заявки</strong>.</p>
 <div>
-    <img style="margin: 0 auto; display: block; max-width: 100%;"
+    <img style="margin: 0 auto; display: block; max-width: 90%;"
          src="/attachments/images/FAQ/USER/ChildTicket/ChildParentTickets.jpg"/>
 </div>
 
 <p>В табличном отображении списка заявок также есть ссылки на родительские и дочерние заявки. Настроить отображение
     полей для списка в табличном формате можно по кнопке <strong>Настройка</strong> (синяя шестеренка).</p>
 <div>
-    <img style="margin: 0 auto; display: block; max-width: 100%;"
+    <img style="margin: 0 auto; display: block; max-width: 90%;"
          src="/attachments/images/FAQ/USER/ChildTicket/TableTickets.jpg"/>
 </div>
 <p>Внутри каждой заявки доступна сводная статистика по дочерним заявкам. Статистика позволит оперативно получить
     информацию о ходе работ над дочерними заявками.</p>
 <div>
-    <img style="margin: 0 auto; display: block; max-width: 100%;"
+    <img style="margin: 0 auto; display: block; max-width: 90%;"
          src="/attachments/images/FAQ/USER/ChildTicket/Statistics.jpg"/>
 </div>
 
@@ -105,13 +105,13 @@
     количество видно и в списке заявок и на самой вкладке. Чтобы это исправить нажмите кнопку <strong>Настройки</strong> (синяя
     шестеренка).</p>
 <div>
-    <img style="margin: 0 auto; display: block; max-width: 100%;"
+    <img style="margin: 0 auto; display: block; max-width: 90%;"
          src="/attachments/images/FAQ/USER/ChildTicket/Settings.jpg"/>
 </div>
 <p>В настройках полей выберите необходимые, либо установите флажок в пункте Выбрать все - для выбора всех полей. Таким
     образом дочерние заявки будут отображаться в стандартном режиме.</p>
 <div>
-    <img style="margin: 0 auto; display: block; max-width: 100%;"
+    <img style="margin: 0 auto; display: block; max-width: 90%;"
          src="/attachments/images/FAQ/USER/ChildTicket/Settings2.jpg"/>
 </div>
 

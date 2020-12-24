@@ -86,8 +86,9 @@
     <img style="margin: 0 auto; display: block; max-width: 100%;"
          src="/attachments/images/FAQ/USER/ChildTicket/ChildParentTickets.jpg"/>
 </div>
+
 <p>В табличном отображении списка заявок также есть ссылки на родительские и дочерние заявки. Настроить отображение
-    полей для списка в табличном формате можно по кнопке <strong>Настройка/<strong> (синяя шестеренка).</p>
+    полей для списка в табличном формате можно по кнопке <strong>Настройка</strong> (синяя шестеренка).</p>
 <div>
     <img style="margin: 0 auto; display: block; max-width: 100%;"
          src="/attachments/images/FAQ/USER/ChildTicket/TableTickets.jpg"/>

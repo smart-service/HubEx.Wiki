@@ -85,8 +85,8 @@
                 приложении откройте список всех заявок. Если заявка была назначена на вас, то откройте список своих
                 заявок.</p>
                 <div>
-                    <img style="margin: 0 auto; display: block; max-width: 90%;"
-                         src="/attachments/images/FAQ/USER/MobAllTickets/MobAllTickets.jpg"/>
+                    <img style="margin: 0 auto; display: block; max-width: 50%;"
+                         src="/attachments/images/FAQ/USER/SeveralEngineers/MobAllTickets.jpg"/>
                 </div>
                 <p>Обратите внимание! При
                     настройке ролей сервисным специалистам могут быть ограничены права на просмотр всех заявок (по
@@ -97,23 +97,25 @@
                     настройки доступа.</p>
                 <p>В заявке перейдите на вкладку Выполнение и добаьте выполненную работу.</p>
                 <div>
-                    <img style="margin: 0 auto; display: block; max-width: 90%;"
+                    <img style="margin: 0 auto; display: block; max-width: 50%;"
                          src="/attachments/images/FAQ/USER/SeveralEngineers/MobFile.jpg"/>
                 </div>
                 <p>Укажите несколько специалистов. Далее заполните материалы, если это необходимо. Обратите внимание!
                     Для роли сервисного специалиста могут быть введены ограничения на установление часовой ставки и оценки стоимости работы. </p>
-
-                <div>
-                    <img style="margin: 0 auto; display: block; max-width: 90%;"
-                         src="/attachments/images/FAQ/USER/SeveralEngineers/MobAddEngineer.jpg"/>
+                <div style="display: flex;">
+                    <img style="margin: 0 auto; display: block; max-width: 30%;"
+                         src="/attachments/images/FAQ/USER/SeveralEngineers/MobAddEngineer.jpg"/> <img
+                        style="margin: 0 auto; display: block; max-width: 30%;"
+                        src="/attachments/images/FAQ/USER/SeveralEngineers/MobTwoEngineers.png"/>
                 </div>
-
+              
             </li>
         </ul>
     </li>
-    <li id="childticket">Второй способ - создание дочерних заявок. 
+    <li id="childticket">Второй способ - создание дочерних заявок.
 
     </li>
 </ol>
 ____
 - [Перейти в меню](http://wiki.hubex.ru)
+

@@ -18,6 +18,8 @@
 #### [Как настроить автоматический выбор исполнителя по геопозиции и виду работ?](docs/FAQ/RU/user/RulesOfChoiceGEO.md)
 #### [Как использовать график работ при выборе исполнителя?](docs/FAQ/RU/user/Schedule.md)
 <h4>
+<a href="/docs/FAQ/RU/user/SeveralEngineers.html">Как выбрать нескольких исполнителей в заявке?</a></h4>
+<h4>
 <a href="/docs/FAQ/RU/user/HowToNotificationsToMobile.html">Что делать, если не приходят уведомления?</a><span class="new-badge" title="17.10.2019"></span>
 </h4>
 

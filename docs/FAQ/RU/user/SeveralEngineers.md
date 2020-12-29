@@ -107,7 +107,7 @@
                     <img style="margin: 0 auto; display: block; max-width: 30%;"
                          src="/attachments/images/FAQ/USER/SeveralEngineers/MobAddEngineer.jpg"/> <img
                         style="margin: 0 auto; display: block; max-width: 30%;"
-                        src="/attachments/images/FAQ/USER/SeveralEngineers/MobTwoEngineers.ipg"/>
+                        src="/attachments/images/FAQ/USER/SeveralEngineers/MobTwoEngineers.jpg"/>
                 </div>
 
             </li>
@@ -124,12 +124,12 @@
             Нажмите кнопку <Strong>Создать</Strong> в правом нижнем углу для сохранения дочерней заявки. После чего она отобразится на вкладке <Strong>Дочерние заявки</Strong>
             и появится в общем списке заявок. </p>
         <div>
-            <img style="margin: 0 auto; display: block; max-width: 30%;"
+            <img style="margin: 0 auto; display: block; max-width: 90%;"
                  src="/attachments/images/FAQ/USER/SeveralEngineers/ChildTickets.jpg"/>
         </div>
 <p>Щелкните по дочерней заявке в списке, перед вами откроется полная форма заявки. Отличие дочерней заявки от родительской заключается в заполненном поле <Strong>Родительская заявка</Strong>.</p>
         <div>
-            <img style="margin: 0 auto; display: block; max-width: 30%;"
+            <img style="margin: 0 auto; display: block; max-width: 90%;"
                  src="/attachments/images/FAQ/USER/SeveralEngineers/ParentTicket.jpg"/>
         </div>
 <p>В мобильном приложении инженера дочерние заявки будут отображаться как обычные заявки.</p>

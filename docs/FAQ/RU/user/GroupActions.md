@@ -82,7 +82,7 @@
     <img style="margin: 0 auto; display: block; max-width: 90%;"
          src="/attachments/images/FAQ/USER/GroupActions/ListEmpty.jpg"/>
 </div>
-<p>Проверим, изменился ли владелец. Сделаем новый отбор в фильтрах по <strong>Компании-владельцу = Кофейня Доброе утро</strong>. Теперь все обработанные ранее <strong>Объекты</strong> принадлежат новой компании.</p>
+<p>Проверим, правильно ли изменился владелец. Сделаем новый отбор в фильтрах по <strong>Компании-владельцу = Кофейня Доброе утро</strong>. Теперь все обработанные ранее <strong>Объекты</strong> принадлежат новой компании.</p>
 <div>
     <img style="margin: 0 auto; display: block; max-width: 90%;"
          src="/attachments/images/FAQ/USER/GroupActions/NewFilter.jpg"/>

@@ -115,7 +115,7 @@
 </h4>
 
 <h4 style="padding-left: 20px;">
-    <a href="/docs/FAQ/RU/user/Ratings.html">Рейтинги</a>
+    <a href="/docs/FAQ/RU/user/Rating.html">Оценка заявок и рейтинг сотрудников</a>
 </h4>
 <h4 style="padding-left: 20px;">
     <a href="/docs/FAQ/RU/user/HistoryOfChanges.html">История изменений</a>

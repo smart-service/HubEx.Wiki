@@ -39,6 +39,9 @@
     <a href="/docs/FAQ/RU/user/AdditionalFieldsObject.html">Создание дополнительных полей в объекте</a>
 </h4>
 <h4 style="padding-left: 20px;">
+    <a href="/docs/FAQ/RU/user/GroupActions.html">Массовые действия для списка объектов</a>
+</h4>
+<h4 style="padding-left: 20px;">
     <a href="/docs/FAQ/RU/user/CreatingCustomer.html">Создание заказчика</a>
 </h4>
 <!--#### [Создание дополнительных полей в объекте](docs/FAQ/RU/user/AdditionalFieldsObject.md)

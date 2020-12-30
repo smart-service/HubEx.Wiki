@@ -85,5 +85,12 @@
          src="/attachments/images/FAQ/USER/Rating/RatingInUser.jpg"/>
 </div>
 
+<p>Сотрудник может посмотреть свой рейтинг в мобильном приложении инженера. В приложении нажмите на меню в левом верхнем углу и щелкните по своему ФИО. Откроются настройки аккаунта, где под фотографией будет указан рейтинг сотрудника.</p>
+
+<div>
+    <img style="margin: 0 auto; display: block; max-width: 60%;"
+         src="/attachments/images/FAQ/USER/Rating/RatingUserMob.jpg"/>
+</div>
+
 ____
 - [Перейти в меню](http://wiki.hubex.ru)

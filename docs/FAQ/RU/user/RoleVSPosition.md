@@ -32,7 +32,7 @@
 <p>Подробнее читайте в статьях: <a href="https://wiki.hubex.ru/docs/FAQ/RU/admin/Roles.html">Настройка ролей</a>, <a
         href="https://wiki.hubex.ru/docs/FAQ/RU/admin/ElementsOfInterface.html">Поля на форме заявки</a>.</p>
 
-<p></p>
+
 <p><strong>Должность</strong> - единица штатного расписания вашей компании.</p>
 <p><strong>Должность</strong> заполняется в свободной форме в карточке <strong>Сотрудника</strong> и нужна только для справочного отображения на формах,
     связанных с выбором исполнителей. <strong>Должность</strong> показывает, чем занимаются сотрудники компании, можно ли их назначать на <strong>Заявки</strong>.</p>
@@ -51,6 +51,8 @@
     <img style="margin: 0 auto; display: block; max-width: 90%;"
          src="/attachments/images/FAQ/USER/RoleVSPosition/Calendar.jpg"/>
 </div>
+
+
 
 ____
 - [Перейти в меню](http://wiki.hubex.ru)

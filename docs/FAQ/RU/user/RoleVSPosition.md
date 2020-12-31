@@ -1,4 +1,7 @@
 #### Чем Роль отличается от Должности?
+<html>
+<meta charset="utf-8">
+</html>
 
 <p><strong>Роль</strong> заполняется в карточке <strong>Сотрудника</strong> и <strong>Заказчика</strong>. <strong>Должность</strong> заполняется только в карточке <strong>Сотрудника</strong>. <strong>Роль</strong> и
     <strong>Должность</strong> могут называться одинаково, но всегда будут иметь разное
@@ -32,7 +35,6 @@
 <p>Подробнее читайте в статьях: <a href="https://wiki.hubex.ru/docs/FAQ/RU/admin/Roles.html">Настройка ролей</a>, <a
         href="https://wiki.hubex.ru/docs/FAQ/RU/admin/ElementsOfInterface.html">Поля на форме заявки</a>.</p>
 
-
 <p><strong>Должность</strong> - единица штатного расписания вашей компании.</p>
 <p><strong>Должность</strong> заполняется в свободной форме в карточке <strong>Сотрудника</strong> и нужна только для справочного отображения на формах,
     связанных с выбором исполнителей. <strong>Должность</strong> показывает, чем занимаются сотрудники компании, можно ли их назначать на <strong>Заявки</strong>.</p>
@@ -51,7 +53,6 @@
     <img style="margin: 0 auto; display: block; max-width: 90%;"
          src="/attachments/images/FAQ/USER/RoleVSPosition/Calendar.jpg"/>
 </div></p>
-
 
 
 ____

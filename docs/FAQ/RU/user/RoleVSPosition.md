@@ -47,10 +47,10 @@
          src="/attachments/images/FAQ/USER/RoleVSPosition/Works.jpg"/>
 </div>
 <p>В меню <strong>Заявки - Расписание заявок</strong> в календаре также все ваши сотрудники отображаются с <strong>Должностью</strong>.</p>
-<div>
+<p><div>
     <img style="margin: 0 auto; display: block; max-width: 90%;"
          src="/attachments/images/FAQ/USER/RoleVSPosition/Calendar.jpg"/>
-</div>
+</div></p>
 
 
 

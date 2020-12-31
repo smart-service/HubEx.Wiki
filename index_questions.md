@@ -15,6 +15,9 @@
 <link rel="stylesheet" type="text/css" href="/assets/css/styles.css">
 ## Ответы на часто задаваемые вопросы
 На этой странице вы можете найти ответы на вопросы, возникающие у пользователей.
+<h4>
+<a href="/docs/FAQ/RU/user/RoleVSPosition.html">Чем Роль отличается от Должности?</a></h4>
+<h4>
 #### [Как настроить автоматический выбор исполнителя по геопозиции и виду работ?](docs/FAQ/RU/user/RulesOfChoiceGEO.md)
 #### [Как использовать график работ при выборе исполнителя?](docs/FAQ/RU/user/Schedule.md)
 <h4>

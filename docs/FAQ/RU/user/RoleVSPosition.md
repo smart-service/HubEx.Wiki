@@ -54,7 +54,7 @@
          src="/attachments/images/FAQ/USER/RoleVSPosition/Calendar.jpg"/>
 </div></p>
 
-<!-->
+<!--
 #### 
 ____
-- [Перейти в меню](http://wiki.hubex.ru) <--!>
+- [Перейти в меню](http://wiki.hubex.ru) -->

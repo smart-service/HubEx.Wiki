@@ -48,10 +48,19 @@
          src="/attachments/images/FAQ/ADMIN/ObjectClass/ClassObject.jpg"/>
 </div>
 
+<p>Рассмотрим, как работает фильтр списка <Strong>Объектов</Strong> по классам. Перейдите в меню <Strong>Объекты|Оборудование -
+    Объекты|Оборудование</Strong>. Справа в параметрах фильтров укажите необходимый <Strong>Класс</Strong>.</p>
+
+<div>
+    <img style="margin: 0 auto; display: block; max-width: 90%;"
+         src="/attachments/images/FAQ/ADMIN/ObjectClass/FilterObject.jpg"/>
+</div>
+
 <p>По классам можно отфильтровать не только список объектов, но и заявки, которые были созданы по объектам определенного
     класса.</p>
-<p>Перейдите в меню <Strong> Заявки - Все заявки</Strong> и нажмите кнопку фильтра в правом верхнем углу. В окне выбора
-    параметров найдите <Strong>Класс объекта</Strong> и установите необходимое значение. Нажмите кнопку <Strong>Применить</Strong>.</p>
+<p>Перейдите в меню <Strong>Заявки - Все заявки</Strong> и нажмите кнопку фильтра в правом верхнем углу. В окне выбора
+    параметров найдите <Strong>Класс объекта</Strong> и установите необходимое значение. Нажмите кнопку <Strong>Применить</Strong>.
+</p>
 <div>
     <img style="margin: 0 auto; display: block; max-width: 90%;"
          src="/attachments/images/FAQ/ADMIN/ObjectClass/TicketFilter.jpg"/>

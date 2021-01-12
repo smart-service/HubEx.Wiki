@@ -33,7 +33,7 @@
 
 <div>
     <img style="margin: 0 auto; display: block; max-width: 90%;"
-         src="/attachments/images/FAQ/ADMIN/ObjectClass/NewClass.jpg"/>
+         src="/attachments/images/FAQ/ADMIN/ObjectClass/Newclass.jpg"/>
 </div>
 <p>Флажок <Strong>Назначить классом по умолчанию</Strong> необходимо установить, если вы хотите, чтобы этот класс
     автоматически

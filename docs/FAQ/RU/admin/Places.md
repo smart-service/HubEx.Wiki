@@ -34,7 +34,7 @@
 </p>
 <div>
     <img style="margin: 0 auto; display: block; max-width: 90%;"
-         src="/attachments/images/FAQ/USER/ChildTicket/Places.jpg"/>
+         src="/attachments/images/FAQ/ADMIN/Places/Places.jpg"/>
 </div>
 <p>Новый участок создается по кнопке <Strong>Создать участок</Strong>. В окне создания участка необходимо ввести
     <Strong>Название</Strong>. Поле
@@ -43,13 +43,13 @@
 
 <div>
     <img style="margin: 0 auto; display: block; max-width: 90%;"
-         src="/attachments/images/FAQ/USER/ChildTicket/NewPlace.jpg"/>
+         src="/attachments/images/FAQ/ADMIN/Places/NewPlace.jpg"/>
 </div>
 <p>У каждого участка есть статистика по количеству связей с <Strong>Объектами</Strong>, <Strong>Пользователями</Strong> (<Strong>Сотрудники + Заказчики</Strong>) и <Strong>Типами
     заявок</Strong>. Статистика необходима для принятия решений об удалениии участка, переноса всех элементов, относящихся к участку на другой и т.д.</p>
 <div>
     <img style="margin: 0 auto; display: block; max-width: 90%;"
-         src="/attachments/images/FAQ/USER/ChildTicket/Statistic.jpg"/>
+         src="/attachments/images/FAQ/ADMIN/Places/Statistic.jpg"/>
 </div>
 
 <p>Участками могут быть связаны <Strong>Объекты</Strong>, <Strong>Сотрудники</Strong>, <Strong>Заказчики</Strong> и
@@ -60,21 +60,21 @@
         - Объекты|Оборудование</Strong>).</p>
 <div>
     <img style="margin: 0 auto; display: block; max-width: 90%;"
-         src="/attachments/images/FAQ/USER/ChildTicket/Object.jpg"/>
+         src="/attachments/images/FAQ/ADMIN/Places/Object.jpg"/>
 </div>
 
 <p>У <Strong>Сотрудника</Strong> добавить участок можно на вкладке <Strong>Квалификация</Strong> (меню <Strong>Пользователи
     - Сотрудники</Strong>).</p>
 <div>
     <img style="margin: 0 auto; display: block; max-width: 90%;"
-         src="/attachments/images/FAQ/USER/ChildTicket/Employee.jpg"/>
+         src="/attachments/images/FAQ/ADMIN/Places/Employee.jpg"/>
 </div>
 
 <p>Участок в карточке <Strong>Заказчика</Strong> можно указать на вкладке <Strong>Квалификация</Strong> (меню <Strong>Пользователи
     - Заказчики</Strong>).</p>
 <div>
     <img style="margin: 0 auto; display: block; max-width: 90%;"
-         src="/attachments/images/FAQ/USER/ChildTicket/Customer.jpg"/>
+         src="/attachments/images/FAQ/ADMIN/Places/Customer.jpg"/>
 </div>
 
 <p><Strong>Тип заявки</Strong> - справочник, который находится в консоли администрирования в меню <Strong>Настройки
@@ -83,7 +83,7 @@
     укажите этот участок в карточке <Strong>Типа заявки</Strong>.</p>
 <div>
     <img style="margin: 0 auto; display: block; max-width: 90%;"
-         src="/attachments/images/FAQ/USER/ChildTicket/Type.jpg"/>
+         src="/attachments/images/FAQ/ADMIN/Places/Type.jpg"/>
 </div>
 
 

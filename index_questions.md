@@ -20,6 +20,7 @@
 
 #### [Как настроить автоматический выбор исполнителя по геопозиции и виду работ?](docs/FAQ/RU/user/RulesOfChoiceGEO.md)
 #### [Как использовать график работ при выборе исполнителя?](docs/FAQ/RU/user/Schedule.md)
+
 <h4>
 <a href="/docs/FAQ/RU/user/SeveralEngineers.html">Как выбрать нескольких исполнителей в заявке?</a></h4>
 <h4>
@@ -28,11 +29,9 @@
 <h4>
 <h4>
 <a href="/docs/FAQ/RU/user/DeletedObjects.html">Почему нельзя удалить объекты/сотрудников/заявки и т.д. навсегда?</a></h4>
-
 <h4>
 <a href="/docs/FAQ/RU/user/HowToNotificationsToMobile.html">Что делать, если не приходят уведомления?</a><span class="new-badge" title="17.10.2019"></span>
 </h4>
-
 <h4>
 <a href="/docs/FAQ/RU/user/HowToMakePassport.html">Создание паспорта объекта с возможностью саморегистрации</a><span class="new-badge" title="17.10.2019"></span>
 </h4>
@@ -61,12 +60,11 @@
 <a href="/docs/FAQ/RU/user/ChangeOfObjectType.html">Как поменять тип существующего оборудования?</a><span class="new-badge" title="06.12.2019"></span>
 </h4>
 <h4>
-<a href="/docs/FAQ/RU/user/HowToManageGmailIntegration.html">Как настроить интеграцию с Gmail (почта Google)?</a><span class="new-badge" title="29.01.2020"></span>
+<a href="/docs/FAQ/RU/user/HowToManageGmailIntegration.html">Как настроить интеграцию с Gmail (почта Google)?</a>
 </h4>
 <h4>
-<a href="/docs/FAQ/RU/user/HowToContactSupport.html">Как обратиться в поддержку?</a><span class="new-badge" title="03.03.2020"></span>
+<a href="/docs/FAQ/RU/user/HowToContactSupport.html">Как обратиться в поддержку?</a>
 </h4>
-
 
 ____
 - [Перейти в меню](http://wiki.hubex.ru)

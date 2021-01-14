@@ -63,8 +63,7 @@
 <a href="/docs/FAQ/RU/user/HowToManageGmailIntegration.html">Как настроить интеграцию с Gmail (почта Google)?</a>
 </h4>
 <h4>
-<a href="/docs/FAQ/RU/user/HowToContactSupport.html">Как обратиться в поддержку?</a>
-</h4>
 
+#### [Как обратиться в поддержку?](docs/FAQ/RU/user/HowToContactSupport.md)
 ____
-### - [Перейти в меню](http://wiki.hubex.ru)
+- [Перейти в меню](http://wiki.hubex.ru)

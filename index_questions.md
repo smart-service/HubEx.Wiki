@@ -66,6 +66,6 @@
 <a href="/docs/FAQ/RU/user/HowToContactSupport.html">Как обратиться в поддержку?</a>
 </h4>
 
-####
+
 ____
 #### - [Перейти в меню](http://wiki.hubex.ru)

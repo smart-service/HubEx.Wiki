@@ -62,7 +62,6 @@
 <h4>
 <a href="/docs/FAQ/RU/user/HowToManageGmailIntegration.html">Как настроить интеграцию с Gmail (почта Google)?</a>
 </h4>
-<h4>
 
 #### [Как обратиться в поддержку?](docs/FAQ/RU/user/HowToContactSupport.md)
 ____

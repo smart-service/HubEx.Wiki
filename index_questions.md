@@ -67,4 +67,4 @@
 </h4>
 
 ____
-- [Перейти в меню](http://wiki.hubex.ru)
+### - [Перейти в меню](http://wiki.hubex.ru)

@@ -140,6 +140,9 @@
 <h4 style="padding-left: 20px;">
     <a href="/docs/FAQ/RU/user/GeoPosition.html">Карта</a>
 </h4>
+<h4 style="padding-left: 20px;">
+    <a href="/docs/FAQ/RU/user/Geotracking.html">История перемещений</a>
+</h4>
 <!--<h4 style="padding-left: 20px;">
     <a href="">Карта</a>
 </h4>

@@ -85,7 +85,7 @@
     <Strong>Заявкам</Strong>, исполнителям и т.д. В самом путевом листе также предусмотрен отбор по исполнителям. </p>
 <div>
     <img style="margin: 0 auto; display: block; max-width: 90%;"
-         src="/attachments/images/FAQ/USER/GeoTracking/Waybill.jpg"/>
+         src="/attachments/images/FAQ/USER/GeoTracking/Waybill.png"/>
 </div>
 
 <p>Путевой лист можно выгрузить по кнопке <Strong>Дополнительные параметры (три точки) - Экспортировать данные</Strong>.</p>

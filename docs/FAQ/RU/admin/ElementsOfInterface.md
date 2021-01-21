@@ -6,6 +6,7 @@
 <ul>
     <li><a href="#fieldsaccess">Как настраивать доступ к основным и дополнительным полям на форме заявки</a>;</li>
     <li><a href="#access">Какие бывают уровни доступа к полям на форме заявки</a>;</li>
+    <li><a href="#importantfields">Какие поля нельзя исключать из Заявки</a>;</li>
     <li><a href="#accesscopy">Как копировать настройки доступа в разрезе Ролей и Стадий</a>.</li>
 </ul>
 </html>
@@ -32,6 +33,7 @@
         специалиста</Strong> и вкладка <Strong>Необходимые материалы</Strong>. Подробнее о полях в
     <Strong>Заявке</Strong> читайте в статье <a
             href="https://wiki.hubex.ru/docs/FAQ/RU/user/CreatingTicket.html">Создание заявки</a>.</p>
+
 <p>Под дополнительными полями понимаются те, которые были созданы пользователями для хранения дополнительной учетной
     информации. Например, для ввода показателей наработки оборудования, площади объекта и т.д.
     Дополнительные поля создаются в консоли администратора в меню <Strong>Настройки системы - Дополнительные
@@ -77,7 +79,7 @@
     <li><Strong>Настройка не выбрана</Strong> - это пункт означает, что этого поля не будет видно на форме.</li>
 </ul>
 <div>
-    <img style="margin: 0 auto; display: block; max-width: 90%;"
+    <img style="margin: 0 auto; display: block; max-width: 80%;"
          src="/attachments/images/FAQ/ADMIN/InterfaceElements/Access.jpg"/>
 </div>
 
@@ -107,24 +109,40 @@
     </li>
 </ul>
 <div>
-    <img style="margin: 0 auto; display: block; max-width: 90%;"
+    <img style="margin: 0 auto; display: block; max-width: 80%;"
          src="/attachments/images/FAQ/ADMIN/InterfaceElements/Field2.jpg"/>
 </div>
 
-<p id="accesscopy">Для ускорения процесса настройки доступа к полям заявки для новых <Strong>Стадий заявки</Strong> или <Strong>Ролей</Strong>, можно
+<h5 id="importantfields">Какие поля нельзя исключать из Заявки</h5>
+<p>Нельзя отключать видимость таких полей, как <Strong>Вид работ</Strong>,
+    <Strong>Компания-заказчик</Strong>, <Strong>Объект по заявке</Strong>. Также для этих
+    полей хотя бы для одной <Strong>Роли</Strong> и <Strong>Стадии</Strong> должна быть назначена настройка <Strong>RW
+        (чтение и запись)</Strong>. Так как эти поля являются ключевыми и создание <Strong>Заявки</Strong> без них невозможно.
+</p>
+<div>
+    <img style="margin: 0 auto; display: block; max-width: 80%;"
+         src="/attachments/images/FAQ/ADMIN/InterfaceElements/Field3.jpg"/>
+</div>
+
+<h5 id="accesscopy">Как копировать настройки доступа в разрезе Ролей и Стадий</h5>
+<p>Для ускорения процесса настройки доступа к полям заявки для новых <Strong>Стадий заявки</Strong> или
+    <Strong>Ролей</Strong>, можно
     воспользоваться функцией
     копирования настроек.</p>
 <p>Скопировать можно как целиком настройки <Strong>Роли</Strong>, так и настройки <Strong>Стадии</Strong> отдельно.</p>
-<p>Нажмите на контекстное меню (три точки) рядом с названием <Strong>Роли</Strong> и выберите пункт <Strong>Копировать в...</Strong> Установите флажок у
+<p>Нажмите на контекстное меню (три точки) рядом с названием <Strong>Роли</Strong> и выберите пункт <Strong>Копировать
+    в...</Strong> Установите флажок у
     той <Strong>Роли</Strong>, в которую необходимо перенести настройки.</p>
 <div>
-    <img style="margin: 0 auto; display: block; max-width: 90%;"
+    <img style="margin: 0 auto; display: block; max-width: 70%;"
          src="/attachments/images/FAQ/ADMIN/InterfaceElements/Copy.jpg"/>
 </div>
-<p>Для копирования настроек <Strong>Стадии</Strong> нажмите на контекстное меню (три точки) рядом с названием <Strong>Стадии</Strong> и выберите пункт
-    <Strong>Копировать в...</Strong> Установите флажки для тех <Strong>Стадий</Strong>, в которые необходимо скопировать настройки.</p>
+<p>Для копирования настроек <Strong>Стадии</Strong> нажмите на контекстное меню (три точки) рядом с названием <Strong>Стадии</Strong>
+    и выберите пункт
+    <Strong>Копировать в...</Strong> Установите флажки для тех <Strong>Стадий</Strong>, в которые необходимо скопировать
+    настройки.</p>
 <div>
-    <img style="margin: 0 auto; display: block; max-width: 90%;"
+    <img style="margin: 0 auto; display: block; max-width: 70%;"
          src="/attachments/images/FAQ/ADMIN/InterfaceElements/Copy2.jpg"/>
 </div>
 

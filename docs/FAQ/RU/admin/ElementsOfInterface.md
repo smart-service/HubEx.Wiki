@@ -31,7 +31,7 @@
 <p>К основным полям формы относятся те, которые находятся в <Strong>Заявке</Strong> на вкладке <Strong>Заявка</Strong>,
     блок <Strong>Рейтинг технического
         специалиста</Strong> и вкладка <Strong>Необходимые материалы</Strong>. Подробнее о полях в
-    <Strong>Заявке</Strong> читайте в статье <a
+    <Strong>Заявке</Strong> читайте в статье: <a
             href="https://wiki.hubex.ru/docs/FAQ/RU/user/CreatingTicket.html">Создание заявки</a>.</p>
 
 <p>Под дополнительными полями понимаются те, которые были созданы пользователями для хранения дополнительной учетной
@@ -51,7 +51,7 @@
 <p>Дополнительные поля будут находиться в самом низу таблицы, с отметкой А (Additional Field (англ.) - Дополнительные
     поля).</p>
 <div>
-    <img style="margin: 0 auto; display: block; max-width: 90%;"
+    <img style="margin: 0 auto; display: block; max-width: 70%;"
          src="/attachments/images/FAQ/ADMIN/InterfaceElements/Field.jpg"/>
 </div>
 
@@ -79,7 +79,7 @@
     <li><Strong>Настройка не выбрана</Strong> - это пункт означает, что этого поля не будет видно на форме.</li>
 </ul>
 <div>
-    <img style="margin: 0 auto; display: block; max-width: 80%;"
+    <img style="margin: 0 auto; display: block; max-width: 70%;"
          src="/attachments/images/FAQ/ADMIN/InterfaceElements/Access.jpg"/>
 </div>
 
@@ -109,7 +109,7 @@
     </li>
 </ul>
 <div>
-    <img style="margin: 0 auto; display: block; max-width: 80%;"
+    <img style="margin: 0 auto; display: block; max-width: 70%;"
          src="/attachments/images/FAQ/ADMIN/InterfaceElements/Field2.jpg"/>
 </div>
 

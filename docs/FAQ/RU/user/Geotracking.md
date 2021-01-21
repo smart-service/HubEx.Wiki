@@ -85,7 +85,7 @@
     <Strong>Заявкам</Strong>, исполнителям и т.д. В самом путевом листе также предусмотрен отбор по исполнителям. </p>
 <div>
     <img style="margin: 0 auto; display: block; max-width: 90%;"
-         src="/attachments/images/FAQ/USER/GeoTracking/Waybill.jpg"/>
+         src="/attachments/images/FAQ/USER/GeoTracking/Waybill.png"/>
 </div>
 
 <p>Путевой лист можно выгрузить по кнопке <Strong>Дополнительные параметры (три точки) - Экспортировать данные</Strong>.</p>
@@ -136,7 +136,7 @@
 <p>Если в меню нет пункта <Strong>Карты</Strong>, настроить его отображение можно в
     консоли администратора в меню <Strong>Администрирование - Роли</Strong>. <p>Для этого выберите и откройте роль пользователя, для
     которого недоступны Карты.</p>
-<p>Найдите в разделе <Strong>UI Полномочия</Strong> пункт <Strong>Главное меню - Карта</Strong> и установите для него флажок выбора.</p>
+<p>Найдите в разделе <Strong>Полномочия</Strong> блок <Strong>Карты</Strong> и установите для него флажок выбора.</p>
 
 <div>
     <img style="margin: 0 auto; display: block; max-width: 60%;"
@@ -163,6 +163,7 @@
         style="margin: 0 auto; display: block; max-width: 30%;"
         src="/attachments/images/FAQ/USER/GeoTracking/Mob2.jpg"/>
 </div>
+
 
 ____
 - [Перейти в меню](http://wiki.hubex.ru)

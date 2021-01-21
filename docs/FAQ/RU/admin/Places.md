@@ -46,7 +46,7 @@
          src="/attachments/images/FAQ/ADMIN/Places/NewPlace.jpg"/>
 </div>
 <p>У каждого участка есть статистика по количеству связей с <Strong>Объектами</Strong>, <Strong>Пользователями</Strong> (<Strong>Сотрудники + Заказчики</Strong>) и <Strong>Типами
-    заявок</Strong>. Статистика необходима для принятия решений об удалениии участка, переноса всех элементов, относящихся к участку на другой и т.д.</p>
+    заявок</Strong>. Статистика необходима для принятия решений об удалении участка, переноса всех элементов, относящихся к участку на другой и т.д.</p>
 <div>
     <img style="margin: 0 auto; display: block; max-width: 90%;"
          src="/attachments/images/FAQ/ADMIN/Places/Statistic.jpg"/>

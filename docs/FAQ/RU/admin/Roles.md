@@ -39,7 +39,7 @@
     Роли</Strong>.</p>
 <p>Каждая <Strong>Роль</Strong> в справочнике представлена отдельной плиткой с названием и кратким описанием.</p>
 <div>
-    <img style="margin: 0 auto; display: block; max-width: 90%;"
+    <img style="margin: 0 auto; display: block; max-width: 80%;"
          src="/attachments/images/FAQ/ADMIN/Roles/Role.jpg"/>
 </div>
 <p>Настройка <Strong>Роли</Strong> с нуля - крополтивый процесс. Мы рекомендуем взять за основу уже существующую

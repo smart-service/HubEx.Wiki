@@ -39,7 +39,7 @@
     Роли</Strong>.</p>
 <p>Каждая <Strong>Роль</Strong> в справочнике представлена отдельной плиткой с названием и кратким описанием.</p>
 <div>
-    <img style="margin: 0 auto; display: block; max-width: 70%;"
+    <img style="margin: 0 auto; display: block; max-width: 90%;"
          src="/attachments/images/FAQ/ADMIN/Roles/Role.jpg"/>
 </div>
 <p>Настройка <Strong>Роли</Strong> с нуля - крополтивый процесс. Мы рекомендуем взять за основу уже существующую
@@ -49,7 +49,7 @@
     настройки какой <Strong>Роли</Strong> вам
     необходимо скопировать. Вы можете пропустить этот шаг и назначить все полномочия самостоятельно.</p>
 <div>
-    <img style="margin: 0 auto; display: block; max-width: 70%;"
+    <img style="margin: 0 auto; display: block; max-width: 60%;"
          src="/attachments/images/FAQ/ADMIN/Roles/Role2.jpg"/>
 </div>
 <p>Настройка ролей содержит два раздела:</p>
@@ -74,7 +74,7 @@
                 объектов, которые относятся только к участку пользователя;
             </li>
             <div>
-                <img style="margin: 0 auto; display: block; max-width: 70%;"
+                <img style="margin: 0 auto; display: block; max-width: 80%;"
                      src="/attachments/images/FAQ/ADMIN/Roles/Role3.jpg"/>
             </div>
         </ul>
@@ -97,7 +97,7 @@
                 паспорт
                 объекта</a>.</p>
         <div>
-            <img style="margin: 0 auto; display: block; max-width: 70%;"
+            <img style="margin: 0 auto; display: block; max-width: 80%;"
                  src="/attachments/images/FAQ/ADMIN/Roles/Role4.jpg"/>
         </div>
     </li>

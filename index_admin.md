@@ -36,11 +36,11 @@
 #### [Автоназначение по геопозиции](docs/FAQ/RU/user/RulesOfChoiceGEO.md)
 #### [Стадии заявки](docs/FAQ/RU/admin/StageType.md)
 <h4>
-<a href="/docs/FAQ/RU/admin/ElementsOfInterface.html">Поля на форме заявки</a><span class="updated-badge" title="24.09.2019"></span>
+<a href="/docs/FAQ/RU/admin/ElementsOfInterface.html">Поля на форме заявки: настройка доступа к полям заявки</a><span class="updated-badge" title="21.01.2021"></span>
 </h4>
 <h4>
-<a href="/docs/FAQ/RU/admin/TicketLifeCycle.html">Жизненный цикл заявки</a><span class="updated-badge" title="10.03.2020"></span>
-</h4>
+<a href="/docs/FAQ/RU/admin/TicketLifeCycle.html">Жизненный цикл заявки</a></h4>
+<a href="/docs/FAQ/RU/admin/BusinessProcess.html">Базовый бизнес-процесс для заявки</a></h4>
 ### Настройки оповещений
 <h4>
 <a href="/docs/FAQ/RU/admin/Notifications.html">Настройка оповещений</a><span class="new-badge" title="03.12.2019"></span>

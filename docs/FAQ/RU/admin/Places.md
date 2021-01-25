@@ -1,15 +1,19 @@
+---
+title: Настройка участков
+description: Что такое участок в HubEx, как создать участок?
+---
+
 #### Настройка участков
 В этом разделе вы узнаете:
 <html>
 <meta charset="utf-8">
-<title>Быстрый переход внутри документа</title>
 <ul>
     <li><a href="#place">Что такое участок</a>;</li>
     <li><a href="#newplace">Как создать новый участок</a>.</li>
 
 </ul>
 </html>
-
+<body>
 <p id="place"><Strong>Участок</Strong> – классификация <Strong>Объектов</Strong>, <Strong>Типов заявок</Strong>,
     <Strong>Сотрудников</Strong>, <Strong>Заказчиков</Strong> по различным критериям:
     географическим,
@@ -85,7 +89,7 @@
     <img style="margin: 0 auto; display: block; max-width: 90%;"
          src="/attachments/images/FAQ/ADMIN/Places/Type.jpg"/>
 </div>
-
+</body>
 
 - [Типы оборудования](./ObjectsType.md)
 - [Виды работ](./WorkType.md)

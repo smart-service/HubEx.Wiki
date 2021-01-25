@@ -1,42 +1,17 @@
 ---
-title: График работ.
-description: Как использовать график работ?
+title: Графики работ исполнителей
+description: Как использовать график работ, где указать график работ, как создать график работ?
 ---
 
-<!-- Yandex.Metrika counter -->
-<script type="text/javascript">
-    (function (m, e, t, r, i, k, a) {
-        m[i] = m[i] || function () {
-            (m[i].a = m[i].a || []).push(arguments)
-        };
-        m[i].l = 1 * new Date();
-        k = e.createElement(t), a = e.getElementsByTagName(t)[0], k.async = 1, k.src = r, a.parentNode.insertBefore(k, a)
-    })
-    (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
-    ym('{{ site.yandex_metric }}', "init", {
-        id: '{{ site.yandex_metric }}',
-        clickmap: true,
-        trackLinks: true,
-        accurateTrackBounce: true,
-        webvisor: true
-    });
-</script>
-<noscript>
-    <div><img src="https://mc.yandex.ru/watch/'{{ site.yandex_metric }}'" style="position:absolute; left:-9999px;"
-              alt=""/></div>
-</noscript>
-<!-- /Yandex.Metrika counter -->
 #### Графики работ исполнителей 
 В этом разделе вы научитесь:
 <html>
 <meta charset="utf-8">
-<title>Быстрый переход внутри документа</title>
 <ul>
     <li><a href="#schedule">Использовать График работ при назначении исполнителя в Заявке</a>.</li>
-
-
 </ul>
 </html>
+<body>
 <p><strong>График работ</strong> позволяет учитывать рабочее время специалистов при назначении
     на <strong>Заявки</strong>. Это повышает оперативность вашего бизнеса. Также
     <strong>График работ</strong> можно выбрать при настройке автораспределения сотрудников. Подробно об этом читайте
@@ -73,6 +48,7 @@ description: Как использовать график работ?
     <img style="margin: 0 auto; display: block; max-width: 50%;"
          src="/attachments/images/FAQ/USER/Schedule/WorkType.jpg"/>
 </div>
+</body>
 
 <!--
 

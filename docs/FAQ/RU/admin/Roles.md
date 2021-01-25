@@ -1,8 +1,12 @@
+---
+title: Настройка ролей
+description: Как создать роль, настроить полномочия, настроить доступ в HubEx
+---
+
 #### Настройка Ролей
 В этом разделе вы узнаете:
 <html>
 <meta charset="utf-8">
-<title>Быстрый переход внутри документа</title>
 <ul>
     <li><a href="#role">Что такое Роль</a>;</li>
     <li><a href="#rolecreate">Как создать и настроить Роль</a>;</li>
@@ -11,6 +15,7 @@
 </ul>
 </html>
 
+<body>
 <h5 id="role">Что такое Роль</h5>
 
 <p><Strong>Роль</Strong> – набор прав и полномочий, которые определяют уровень доступа пользователя.</p>
@@ -181,6 +186,7 @@
     <img style="margin: 0 auto; display: block; max-width: 80%;"
          src="/attachments/images/FAQ/ADMIN/Roles/RoleCopy.jpg"/>
 </div>
+</body>
 
 ### Следующие шаги:
 - [Настройка участков](./Places.md)

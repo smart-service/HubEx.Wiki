@@ -197,7 +197,7 @@ description: Как создать роль, настроить полномоч
         компании</strong>, <strong>Удаленные объекты</strong>, <strong>Удаленные пользователи</strong>.</p>
 
 <div>
-    <img style="margin: 0 auto; display: block; max-width: 80%;"
+    <img style="margin: 0 auto; display: block; max-width: 70%;"
          src="/attachments/images/FAQ/ADMIN/Roles/RoleSearch.jpg"/>
 </div>
 <p>В строке поиска старайтесь использовать одно ключевое слово, избегать знаков препинания. Можно писать
@@ -205,7 +205,7 @@ description: Как создать роль, настроить полномоч
     полномочий и сможете найти необходимые. Например, при поиске по части слова "удален" вы увидите полномочия с
     различными окончаниями - удаленный, уделаения, удаление и т.д.</p>
 <div>
-    <img style="margin: 0 auto; display: block; max-width: 80%;"
+    <img style="margin: 0 auto; display: block; max-width: 70%;"
          src="/attachments/images/FAQ/ADMIN/Roles/RoleSearch2.jpg"/>
 </div>
 

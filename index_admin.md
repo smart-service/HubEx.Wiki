@@ -40,7 +40,7 @@
 </h4>
 <h4>
 <a href="/docs/FAQ/RU/admin/TicketLifeCycle.html">Жизненный цикл заявки</a></h4>
-<a href="/docs/FAQ/RU/admin/BusinessProcess.html">Базовый бизнес-процесс для заявки</a></h4>
+<h4><a href="/docs/FAQ/RU/admin/BusinessProcess.html">Базовый бизнес-процесс для заявки</a></h4>
 ### Настройки оповещений
 <h4>
 <a href="/docs/FAQ/RU/admin/Notifications.html">Настройка оповещений</a><span class="new-badge" title="03.12.2019"></span>

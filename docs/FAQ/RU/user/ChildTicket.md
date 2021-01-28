@@ -35,10 +35,10 @@ description: Дочерние заявки в HubEx подчиняются ро�
     <li id="ChildTicket1">На вкладке <strong>Дочерние заявки</strong> в <strong>Заявке</strong>.
         Также здесь отображаются уже ранее созданные дочерние заявки.
 
-        <div>
+       <p> <div>
             <img style="margin: 0 auto; display: block; max-width: 90%;"
                  src="/attachments/images/FAQ/USER/ChildTicket/ChildTicket.jpg"/>
-        </div>
+        </div></p>
 
         <div>
             <img style="margin: 0 auto; display: block; max-width: 90%;"

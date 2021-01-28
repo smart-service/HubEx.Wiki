@@ -3,6 +3,7 @@ https://wiki.hubex.ru/docs/FAQ/RU/user/HubExStepByStep.html
 https://wiki.hubex.ru/docs/FAQ/RU/user/CreatingUser.html
 https://wiki.hubex.ru/docs/FAQ/RU/user/CreatingCompany.html
 https://wiki.hubex.ru/docs/FAQ/RU/user/CreatingObjects.html
+https://wiki.hubex.ru/docs/FAQ/RU/user/GroupActions.html
 https://wiki.hubex.ru/docs/FAQ/RU/user/AdditionalFieldsObject.html
 https://wiki.hubex.ru/docs/FAQ/RU/user/CreatingCustomer.html
 https://wiki.hubex.ru/docs/FAQ/RU/user/CreatingTicket.html

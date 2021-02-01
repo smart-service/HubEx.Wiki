@@ -8,7 +8,8 @@ description: Настройка жизненного цикла заявки в 
 <html>
 <meta charset="utf-8">
 <ul>
-    <li><a href="#lifecycle">Как настроить жизненный цикл</a>;</li>
+    <li><a href="#lifecyclecreate">Как создать и скопировать жизненный цикл</a>;</li>
+      <li><a href="#lifecycle">Как настроить жизненный цикл</a>;</li>
     <li><a href="#lifecyclebrunch">Как использовать разные ветки жизненного цикла</a>.</li>
 </ul>
 </html>
@@ -21,7 +22,7 @@ description: Настройка жизненного цикла заявки в 
     <Strong>Заявки</Strong>. Подробнее
     читайте в статье: <a href="https://wiki.hubex.ru/docs/FAQ/RU/admin/BusinessProcess.html">Пример базового
         бизнес-процесса для Заявки</a>.</p>
-<h5 id="lifecycle">Настройка жизненного цикла</h5>
+<h5 id="lifecyclecreate">Создание и копирование жизненного цикла</h5>
 <p>Создание и настройка жизненного цикла находится в <a
         href="https://wiki.hubex.ru/docs/FAQ/RU/admin/HowToEnterTheAdmin.html">консоли администратора</a> в меню
     <Strong>Настройки
@@ -42,7 +43,7 @@ description: Настройка жизненного цикла заявки в 
             цикла</Strong> и внесите необходимые изменения для созданного <Strong>Типа заявки</Strong>.
     </li>
     <div>
-        <img style="margin: 0 auto; display: block; max-width: 70%;"
+        <img style="margin: 0 auto; display: block; max-width: 65%;"
              src="/attachments/images/FAQ/ADMIN/TicketLifeCycle/TicketType.jpg"/>
     </div>
 
@@ -58,7 +59,7 @@ description: Настройка жизненного цикла заявки в 
         href="https://wiki.hubex.ru/docs/FAQ/RU/admin/TicketType.html">Типы заявок</a>, <a
         href="https://wiki.hubex.ru/docs/FAQ/RU/admin/StageType.html">Стадии заявки</a></p>
 
-
+<h5 id="lifecycle">Создание и копирование жизненного цикла</h5>
 <p>Рассмотрим подробнее настройку жизненного цикла. Для каждого жизненного цикла должна быть задан <Strong>Маршрут
     заявки</Strong>: <Strong>Начальная</Strong> и
     <Strong>Конечная стадии</Strong>. Кликните левой кнопкой мыши на одну из них. Откроется форма настройки
@@ -85,7 +86,7 @@ description: Настройка жизненного цикла заявки в 
     <img style="margin: 0 auto; display: block; max-width: 90%;"
          src="/attachments/images/FAQ/ADMIN/TicketLifeCycle/StageSettings.jpg"/>
 </div>
-<p>Рассмотрим подробнее настройки перехода по стадиям:</p>
+<p>Рассмотрим параметры перехода по стадиям:</p>
 <ul>
     <li><Strong>Переход на стадию</Strong>: здесь вы указываете, на какую стадию совершается переход. Это поле
         скрывается после первого
@@ -117,7 +118,7 @@ description: Настройка жизненного цикла заявки в 
                 заказчика (отображается голубым маркером).
             </li>
         </ul>
-        Ветки жизненного цикла не настраиваются и не изменяются.
+        
     </li>
     <li><Strong>Изменить статус заявки</Strong>: данный флажок устанавливается, если при переходе на стадию необходимо
         изменить <Strong>Статус
@@ -155,7 +156,7 @@ description: Настройка жизненного цикла заявки в 
         <Strong>Назначить</Strong>.
         <p>Удалить роль для особенной настройки можно по кнопке <Strong>Удалить</Strong> (красный значок корзины).</p>
         <div>
-            <img style="margin: 0 auto; display: block; max-width: 80%;"
+            <img style="margin: 0 auto; display: block; max-width: 90%;"
                  src="/attachments/images/FAQ/ADMIN/TicketLifeCycle/SpecialRoleSettings.jpg"/>
         </div>
     </li>

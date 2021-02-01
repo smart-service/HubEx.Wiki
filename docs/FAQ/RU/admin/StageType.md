@@ -26,7 +26,7 @@ description: Стадии заявки определяют состояние �
 </p>
 <div>
     <img style="margin: 0 auto; display: block; max-width: 70%;"
-         src="/attachments/images/FAQ/ADMIN/TicketLifeCycle/StageMain.jpg"/>
+         src="/attachments/images/FAQ/ADMIN/StageType/StageMain.jpg"/>
 </div>
 <p>Расмотрим настройки стадии:</p>
 <ul>
@@ -35,13 +35,13 @@ description: Стадии заявки определяют состояние �
     </li>
     <div>
         <img style="margin: 0 auto; display: block; max-width: 65%;"
-             src="/attachments/images/FAQ/ADMIN/TicketLifeCycle/TicketsStage.jpg"/>
+             src="/attachments/images/FAQ/ADMIN/StageType/TicketsStage.jpg"/>
     </div>
 
     <p>
     <div>
         <img style="margin: 0 auto; display: block; max-width: 65%;"
-             src="/attachments/images/FAQ/ADMIN/TicketLifeCycle/TicketsStages.jpg"/>
+             src="/attachments/images/FAQ/ADMIN/StageType/TicketsStages.jpg"/>
     </div>
     </p>
 
@@ -132,7 +132,7 @@ description: Стадии заявки определяют состояние �
                 href="https://wiki.hubex.ru/docs/FAQ/RU/admin/RulesOfChoice.html">Правила выбора исполнителя</a>.
         <div>
             <img style="margin: 0 auto; display: block; max-width: 65%;"
-                 src="/attachments/images/FAQ/ADMIN/TicketLifeCycle/RulesOfChoise.jpg"/>
+                 src="/attachments/images/FAQ/ADMIN/StageType/RulesOfChoise.jpg"/>
         </div>
     </li>
 </ul>

@@ -59,7 +59,7 @@ description: Настройка жизненного цикла заявки в 
         href="https://wiki.hubex.ru/docs/FAQ/RU/admin/TicketType.html">Типы заявок</a>, <a
         href="https://wiki.hubex.ru/docs/FAQ/RU/admin/StageType.html">Стадии заявки</a></p>
 
-<h5 id="lifecycle">Создание и копирование жизненного цикла</h5>
+<h5 id="lifecycle">Настройка жизненного цикла</h5>
 <p>Рассмотрим подробнее настройку жизненного цикла. Для каждого жизненного цикла должна быть задан <Strong>Маршрут
     заявки</Strong>: <Strong>Начальная</Strong> и
     <Strong>Конечная стадии</Strong>. Кликните левой кнопкой мыши на одну из них. Откроется форма настройки

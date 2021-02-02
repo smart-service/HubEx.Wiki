@@ -77,7 +77,7 @@ description:
         href="https://wiki.hubex.ru/docs/FAQ/RU/user/CreatingObjects.html">Создание обслуживаемого оборудования</a>.</p>
 
 <div>
-    <img style="margin: 0 auto; display: block; max-width: 90%;"
+    <img style="margin: 0 auto; display: block; max-width: 80%;"
          src="/attachments/images/FAQ/USER/CreatingObjTemplates/ObjectTemplate.jpg"/>
 </div>
 <p>Рассмотрим заполнение полей вкладки <strong>Обслуживание</strong>:</p>
@@ -89,8 +89,8 @@ description:
     </li>
 </ul>
 <div>
-    <img style="margin: 0 auto; display: block; max-width: 90%;"
-         src="/attachments/images/FAQ/USER/CreatingObjTemplates/ObjectTemplate.jpg"/>
+    <img style="margin: 0 auto; display: block; max-width: 80%;"
+         src="/attachments/images/FAQ/USER/CreatingObjTemplates/ObjectTemplate2.jpg"/>
 </div>
 <p>На вкладке <strong>Дополнительные поля</strong> вы можете указать и заполнить свои персональные поля. Подробнее
     читайте в статье:
@@ -124,16 +124,16 @@ description:
 <p id="1">Приемка без QR-кода:</p>
 <ol>
     <li>Откройте в мобильном приложении инженера меню <strong>Приемка и маркировка</strong>.</li>
-    <div>
+   <p> <div>
         <img style="margin: 0 auto; display: block; max-width: 70%;"
              src="/attachments/images/FAQ/USER/CreatingObjTemplates/OpenMenu.jpg"/>
-    </div>
+    </div></p>
 
     <li>Нажмите кнопку <strong>Продолжить без маркировки</strong>.</li>
-    <div>
-        <img style="margin: 0 auto; display: block; max-width: 70%;"
+   <p> <div>
+        <img style="margin: 0 auto; display: block; max-width: 50%;"
              src="/attachments/images/FAQ/USER/CreatingObjTemplates/Nomark.jpg"/>
-    </div>
+    </div></p>
     <li id="#p3">Далее выберите способ создания нового объекта: вы увидите все созданные в системе шаблоны и сможете
         выбрать один
         из них, либо выбрать вариант создать без шаблона. Выше мы создавали шаблон объекта, поэтому здесь будем
@@ -143,10 +143,10 @@ description:
         выбранного шаблона, его нужно изменить и ввести название создаваемого оборудования. Если необходимо, вы можете
         внести изменения в предзаполненные поля и после проверки нажать кнопку <strong>Создать</strong>.
     </li>
-    <div>
-        <img style="margin: 0 auto; display: block; max-width: 90%;"
+    <p><div>
+        <img style="margin: 0 auto; display: block; max-width: 100%;"
              src="/attachments/images/FAQ/USER/CreatingObjTemplates/NewObj.jpg"/>
-    </div>
+    </div></p>
 
 </ol>
 
@@ -163,18 +163,18 @@ description:
 <p>Рассмотрим порядок действий по приемке по QR-коду:</p>
 <ol>
     <li>Откройте в мобильном приложении инженера меню <strong>Приемка и маркировка</strong>.</li>
-    <div>
+   <p> <div>
         <img style="margin: 0 auto; display: block; max-width: 70%;"
              src="/attachments/images/FAQ/USER/CreatingObjTemplates/OpenMenu.jpg"/>
-    </div>
+    </div></p>
     <li>Наведите рамку сканера на QR-код и в появившемся окне выберите пункт <strong>Новое оборудование</strong>. Затем выберите шаблон
         и продолжите создание нового объекта по аналогии с инструкцией для <a href="#p3">Приемка без QR-кода (пункт
             3)</a>.
     </li>
-    <div>
-        <img style="margin: 0 auto; display: block; max-width: 70%;"
+   <p> <div>
+        <img style="margin: 0 auto; display: block; max-width: 100%;"
              src="/attachments/images/FAQ/USER/CreatingObjTemplates/NewObjQR.jpg"/>
-    </div>
+    </div></p>
 
 </ol>
 
@@ -182,17 +182,17 @@ description:
     HubEx:</p>
 <ol>
     <li>Откройте в мобильном приложении инженера меню <strong>Приемка и маркировка</strong>.</li>
-    <div>
+   <p> <div>
         <img style="margin: 0 auto; display: block; max-width: 70%;"
              src="/attachments/images/FAQ/USER/CreatingObjTemplates/OpenMenu.jpg"/>
-    </div>
+    </div></p>
     <li>Наведите рамку сканера на QR-код и в появившемся окне выберите пункт <strong>Существующее оборудование</strong> и затем выберите
         к какому из объектов нужно привязать QR-код.
     </li>
-    <div>
-        <img style="margin: 0 auto; display: block; max-width: 70%;"
+   <p> <div>
+        <img style="margin: 0 auto; display: block; max-width: 100%;"
              src="/attachments/images/FAQ/USER/CreatingObjTemplates/MarkQR.jpg"/>
-    </div>
+    </div></p>
 
 </ol>
 

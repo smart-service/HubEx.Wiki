@@ -131,7 +131,7 @@ description:
 
     <li>Нажмите кнопку <strong>Продолжить без маркировки</strong>.</li>
    <p> <div>
-        <img style="margin: 0 auto; display: block; max-width: 50%;"
+        <img style="margin: 0 auto; display: block; max-width: 35%;"
              src="/attachments/images/FAQ/USER/CreatingObjTemplates/Nomark.jpg"/>
     </div></p>
     <li id="#p3">Далее выберите способ создания нового объекта: вы увидите все созданные в системе шаблоны и сможете
@@ -212,7 +212,7 @@ description:
     отмечаются маркером оранжевого цвета.</p>
 <p>В контекстном меню (кнопка "три точки") выберите пункт <strong>Опубликовать</strong>.</p>
 <div>
-    <img style="margin: 0 auto; display: block; max-width: 80%;"
+    <img style="margin: 0 auto; display: block; max-width: 90%;"
          src="/attachments/images/FAQ/USER/CreatingObjTemplates/Public.jpg"/>
 </div>
 </body>

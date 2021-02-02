@@ -25,7 +25,7 @@
 <!--Для успешного начала работы выполните следующие шаги:-->
 ### Основные справочники
 Создание пользователей и заполнение основных справочников станет быстрым стартом для вашей работы. Вы сможете вести и хранить всю необходимую информацию в системе HubEx.
-<!--#### [Создание пользователя вашей системы](docs/FAQ/RU/user/CreatingUser.md)-->
+
 <h4 style="padding-left: 20px;">
     <a href="/docs/FAQ/RU/user/CreatingUser.html">Создание пользователя вашей системы</a>
 </h4>
@@ -44,90 +44,62 @@
 <h4 style="padding-left: 20px;">
     <a href="/docs/FAQ/RU/user/CreatingCustomer.html">Создание заказчика</a>
 </h4>
-<!--#### [Создание дополнительных полей в объекте](docs/FAQ/RU/user/AdditionalFieldsObject.md)
-#### [Создание заказчика](docs/FAQ/RU/user/CreatingCustomer.html)-->
+
 
 ### Работа с заявками
-Узнайте, как легко с помощью Календаря распределять Заявки на исполнителей или настроить быструю подачу Заявки с помощью QR-кода. Экономьте время на обучение сотрудников с помощью использования Чек-листов. А также подавайте Заявки без регистрации в системе.
+Создавайте Заявки и назначайте исполнителей. Формируйте Акты выполненных работ для своих заказчиков. Узнайте, как добавить новые поля в Заявку для внесения дополнительной информации. Экономьте время на обучение и контроль за сотрудниками - используйте Чек-листы.
 <h4 style="padding-left: 20px;">
-    <a href="/docs/FAQ/RU/user/CreatingTicket.html">Создание заявки</a>
-</h4>
+    <a href="/docs/FAQ/RU/user/CreatingTicket.html">Создание заявки</a></h4>
 <h4 style="padding-left: 20px;">
-    <a href="/docs/FAQ/RU/user/ChildTicket.html">Дочерние заявки</a>
-</h4>
+    <a href="/docs/FAQ/RU/user/ChildTicket.html">Дочерние заявки</a></h4>
 <h4 style="padding-left: 20px;">
-    <a href="/docs/FAQ/RU/user/ActOFAcceptance.html">Формирование Акта выполненных работ</a>
-</h4>
+    <a href="/docs/FAQ/RU/user/ActOFAcceptance.html">Формирование Акта выполненных работ</a></h4>
 <h4 style="padding-left: 20px;">
-    <a href="/docs/FAQ/RU/user/Schedule.html">График работы исполнителей</a>
-</h4>
+    <a href="/docs/FAQ/RU/user/Schedule.html">График работы исполнителей</a></h4>
 <h4 style="padding-left: 20px;">
-    <a href="/docs/FAQ/RU/user/PlannedTickets.html">Создание плановой заявки</a>
-</h4>
+    <a href="/docs/FAQ/RU/user/PlannedTickets.html">Создание плановой заявки</a></h4>
 <h4 style="padding-left: 20px;">
-    <a href="/docs/FAQ/RU/user/AdditionalFields.html">Создание дополнительных полей в заявке</a>
-</h4>
-
-<!--
-#### [Создание заявки](docs/FAQ/RU/user/CreatingTicket.md)
-#### [Создание плановой заявки](docs/FAQ/RU/user/PlannedTickets.md)
-#### [Создание дополнительных полей в заявке](docs/FAQ/RU/user/AdditionalFields.md)-->
+    <a href="/docs/FAQ/RU/user/AdditionalFields.html">Создание дополнительных полей в заявке</a></h4>
 
 <h4 style="padding-left: 20px;">
-    <a href="/docs/FAQ/RU/user/Calendar.html">Календарь заявок</a>
-</h4>
+    <a href="/docs/FAQ/RU/user/Calendar.html">Календарь заявок</a></h4>
 <h4 style="padding-left: 20px;">
-    <a href="/docs/FAQ/RU/user/Checklists.html">Чек-листы</a>
-</h4>
+    <a href="/docs/FAQ/RU/user/Checklists.html">Чек-листы</a></h4>
 <h4 style="padding-left: 20px;">
-    <a href="/docs/FAQ/RU/user/AttachingFiles.html">Прикрепление выполненных работ</a>
-</h4>
+    <a href="/docs/FAQ/RU/user/AttachingFiles.html">Прикрепление выполненных работ</a></h4>
 <h4 style="padding-left: 20px;">
-    <a href="/docs/FAQ/RU/user/ChangingStatus.html">Переход заявки по стадиям и удаление заявки</a>
-</h4>
-
-<!--
-#### [Чеклисты](docs/FAQ/RU/user/Checklists.md)
-#### [Прикрепление выполненных работ](docs/FAQ/RU/user/AttachingFiles.md)
-#### [Переход заявки по стадиям и удаление заявки](docs/FAQ/RU/user/ChangingStatus.md)-->
+    <a href="/docs/FAQ/RU/user/ChangingStatus.html">Переход заявки по стадиям и удаление заявки</a></h4>
 
 <h4 style="padding-left: 20px;">
-    <a href="/docs/FAQ/RU/user/Filters.html">Использование фильтров для поиска заявок</a>
-</h4>
-<h4 style="padding-left: 20px;">
-    <a href="/docs/FAQ/RU/user/CreatingObjTemplates.html">Создание шаблона оборудования и маркировка</a>
-</h4>
-
-<!--
-#### [Создание шаблона оборудования и маркировка](docs/FAQ/RU/user/CreatingObjTemplates.md)-->
+    <a href="/docs/FAQ/RU/user/Filters.html">Использование фильтров для поиска заявок</a></h4>
 
 <h4 style="padding-left: 20px;">
-    <a href="/docs/FAQ/RU/user/CreatingTaskTemplates.html">Создание QR-кода и паспорта объекта</a>
-</h4>
+    <a href="/docs/FAQ/RU/user/ViewRestriction.html">Ограничение видимости файлов</a></h4>
 <h4 style="padding-left: 20px;">
-    <a href="/docs/FAQ/RU/user/SelfRegister.html">Саморегистрация и подача заявок</a>
-</h4>
+    <a href="/docs/FAQ/RU/user/Messages.html">Сообщения по заявке и вкладка сообщения</a></h4>
+
 <h4 style="padding-left: 20px;">
-    <a href="/docs/FAQ/RU/user/ViewRestriction.html">Ограничение видимости файлов</a>
-</h4>
+    <a href="/docs/FAQ/RU/user/Rating.html">Оценка заявок и рейтинг сотрудников</a></h4>
 <h4 style="padding-left: 20px;">
-    <a href="/docs/FAQ/RU/user/Messages.html">Сообщения по заявке и вкладка сообщения</a>
+    <a href="/docs/FAQ/RU/user/HistoryOfChanges.html">История изменений</a></h4>
+
+### Маркировка оборудования и подача заявок с помощью QR-кодов
+Узнайте, как быстро создавать новые объекты или оборудование с помощью QR-кодов. Вы знали, что подача Заявки с помощью QR-кода - это удобно? А еще можно подать Заявку без регистрации в HubEx, для этого нужен любой сканер QR-кодов на мобильном телефоне.
+
+<h4 style="padding-left: 20px;">
+    <a href="/docs/FAQ/RU/user/QRcodeMain.html">QR-код в HubEx: основные понятия</a>
 </h4>
 
 <h4 style="padding-left: 20px;">
-    <a href="/docs/FAQ/RU/user/Rating.html">Оценка заявок и рейтинг сотрудников</a>
-</h4>
-<h4 style="padding-left: 20px;">
-    <a href="/docs/FAQ/RU/user/HistoryOfChanges.html">История изменений</a>
+    <a href="/docs/FAQ/RU/user/CreatingObjTemplates.html">Создание шаблона оборудования, приемка и маркировка по QR-коду</a>
 </h4>
 
-<!--
-#### [Саморегистрация и подача заявок](docs/FAQ/RU/user/SelfRegister.md)
-#### [Ограничение видимости файлов](docs/FAQ/RU/user/ViewRestriction.md)
-#### [Сообщения по заявке и вкладка сообщения](docs/FAQ/RU/user/Messages.md)
-#### [Геопозиция](docs/FAQ/RU/user/GeoPosition.md)
-#### [Рейтинги](docs/FAQ/RU/user/Ratings.md)
-#### [История изменений](docs/FAQ/RU/user/HistoryOfChanges.md)-->
+<h4 style="padding-left: 20px;">
+    <a href="/docs/FAQ/RU/user/CreatingTaskTemplates.html">Создание шаблона для подачи заявки по QR-коду</a>
+</h4>
+<h4 style="padding-left: 20px;">
+    <a href="/docs/FAQ/RU/user/SelfRegister.html">Подача заявок с помощью QR-кода без регистрации в HubEx</a>
+</h4>
 
 ### Аналитика
 Анализируйте различную статистику по Заявкам. Наглядные отчеты помогут вам принимать эффективные решения, а также ускорят обнаружение различных проблемных мест.

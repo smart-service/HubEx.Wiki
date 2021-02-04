@@ -25,10 +25,10 @@ description:
     <li>отсканируйте QR-код с помощью сканера или камеры телефона;</li>
     <li>перед вам откроется паспорт объекта (краткая информация об объекте);</li>
     <li>введите необходимую информацию по заявке и нажмите кнопку <strong>Продолжить</strong>;</li>
-    <div>
+   <p> <div>
         <img style="margin: 0 auto; display: block; max-width: 100%;"
              src="/attachments/images/FAQ/USER/SelfRegister/TicketCreate.jpg"/>
-    </div>
+    </div></p>
     <li>перед вами появится форма для указания каналов связи: если вы подаете <strong>Заявку</strong> разово и вам не нужна информация по
         ее выполнению, вы не планируете пользоваться мобильным приложением для подачи <strong>аявок</strong>, нажмите <strong>Не получать
         уведомления</strong>. В таком случае подача <strong>Заявки</strong> завершается;
@@ -38,10 +38,10 @@ description:
         электронной почты вам придет письмо-подтверждение регистрации, с помощью которого вы создадите себе пароль и
         сможете пользоваться приложением HubEx Customer. Нажите кнопку <strong>Завершить создание заявки</strong> и проверьте свою почту;
     </li>
-    <div>
+  <p>  <div>
         <img style="margin: 0 auto; display: block; max-width: 80%;"
              src="/attachments/images/FAQ/USER/SelfRegister/Registrate.jpg"/>
-    </div>
+    </div></p>
     <li>если вы прошли регистрацию в HubEx, скачайте мобильное приложение заказчика HubEx Customer для просмотра
         выполнения <strong>Заявок</strong> и создания новых: <a
                 href="https://play.google.com/store/apps/details?id=ru.hubex.customer">для Android</a> или <a

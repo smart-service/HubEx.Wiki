@@ -95,10 +95,10 @@
 </h4>
 
 <h4 style="padding-left: 20px;">
-    <a href="/docs/FAQ/RU/user/CreatingTaskTemplates.html">Создание шаблона для подачи заявки по QR-коду</a>
+    <a href="/docs/FAQ/RU/user/CreatingTaskTemplates.html">Создание шаблона заявки, подача заявки по QR-коду</a>
 </h4>
 <h4 style="padding-left: 20px;">
-    <a href="/docs/FAQ/RU/user/SelfRegister.html">Подача заявок с помощью QR-кода без регистрации в HubEx</a>
+    <a href="/docs/FAQ/RU/user/SelfRegister.html">Подача заявок по QR-коду без приложения, самостоятельная регистрация нового пользователя</a>
 </h4>
 
 ### Аналитика

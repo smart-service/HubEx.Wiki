@@ -61,8 +61,8 @@ description:
          src="/attachments/images/FAQ/USER/SelfRegister/NewCustomer.jpg"/>
 </div>
 
-<h5 id="account">Настройка сервисной учетной записи для подачи заявок без регистрации</h5>
-<p>Для того, чтобы не</p>
+<!--<h5 id="account">Настройка сервисной учетной записи для подачи заявок без регистрации</h5>
+<p>Для того, чтобы не</p>-->
 
 </body>
 

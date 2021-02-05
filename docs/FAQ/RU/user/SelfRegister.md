@@ -9,7 +9,8 @@ description:
 <meta charset="utf-8">
 <ul>
     <li><a href="#ticketcreate">Как подать заявку по QR-коду без приложения инженера и заказчика;</a></li>
-    <li><a href="#selfregister">Как самостоятельно зарегистрироваться в HubEx</a>.</li>
+    <li><a href="#selfregister">Как самостоятельно зарегистрироваться в HubEx</a>;</li>
+        <li><a href="#account">Как настроить сервисную учетную запись для подачи заявок без регистрации</a>.</li>
 </ul>
 </html>
 <body>
@@ -59,6 +60,9 @@ description:
     <img style="margin: 0 auto; display: block; max-width: 80%;"
          src="/attachments/images/FAQ/USER/SelfRegister/NewCustomer.jpg"/>
 </div>
+
+<h5 id="account">Настройка сервисной учетной записи для подачи заявок без регистрации</h5>
+<p>Для того, чтобы не</p>
 
 </body>
 

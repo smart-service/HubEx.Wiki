@@ -28,7 +28,7 @@ keywords: подача заявок по электронной почте, ин
     <li>Интеграцию по электронной почте можно настроить для любых сервисов, кроме mail.ru.</li>
     <li>Для сервиса Яндекс Почта необходимо установить разрешение доступа к почтовому ящику.</li>
     <div>
-        <img style="margin: 0 auto; display: block; max-width: 60%;"
+        <img style="margin: 0 auto; display: block; max-width: 80%;"
              src="/attachments/images/FAQ/ADMIN/TicketMail/EmailSettings.png"/>
     </div>
 </ol>

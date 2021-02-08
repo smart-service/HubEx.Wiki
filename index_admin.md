@@ -38,9 +38,8 @@
 <h4>
 <a href="/docs/FAQ/RU/admin/ElementsOfInterface.html">Поля на форме заявки: настройка доступа к полям заявки</a><span class="updated-badge" title="21.01.2021"></span>
 </h4>
-<h4>
-<a href="/docs/FAQ/RU/admin/TicketLifeCycle.html">Жизненный цикл заявки</a></h4>
-<a href="/docs/FAQ/RU/admin/CustomerAgreement.html">Согласование с заказчиком в HubEx</a></h4>
+<h4><a href="/docs/FAQ/RU/admin/TicketLifeCycle.html">Жизненный цикл заявки</a></h4>
+<h4><a href="/docs/FAQ/RU/admin/CustomerAgreement.html">Согласование с заказчиком в HubEx</a></h4>
 <h4><a href="/docs/FAQ/RU/admin/BusinessProcess.html">Базовый бизнес-процесс для заявки</a></h4>
 ### Настройки оповещений
 <h4>

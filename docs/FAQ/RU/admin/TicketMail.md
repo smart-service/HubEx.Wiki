@@ -29,7 +29,7 @@ keywords: подача заявок по электронной почте, ин
     <li>Для сервиса Яндекс Почта необходимо установить разрешение доступа к почтовому ящику.</li>
     <div>
         <img style="margin: 0 auto; display: block; max-width: 60%;"
-             src="/attachments/images/FAQ/ADMIN/TicketMail/EmailSettings.jpg"/>
+             src="/attachments/images/FAQ/ADMIN/TicketMail/EmailSettings.png"/>
     </div>
 </ol>
 

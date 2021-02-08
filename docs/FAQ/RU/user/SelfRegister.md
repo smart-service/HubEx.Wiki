@@ -87,7 +87,7 @@ keywords: qr-код, подача заявки по qr-коду, создать 
     <Strong>Заказчик</Strong>. Укажите <Strong>Участки</Strong>, по которым возможно создание <Strong>Заявок</Strong>.
 </p>
 <div>
-    <img style="margin: 0 auto; display: block; max-width: 80%;"
+    <img style="margin: 0 auto; display: block; max-width: 90%;"
          src="/attachments/images/FAQ/USER/SelfRegister/Anonym.jpg"/>
 </div>
 

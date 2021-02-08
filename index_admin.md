@@ -53,7 +53,7 @@
 <a href="/docs/FAQ/RU/admin/ServiceUsers.html">Служебные пользователи</a><span class="new-badge" title="18.02.2020"></span>
 </h4>
 <h4>
-<a href="/docs/FAQ/RU/admin/TicketMail.html">Интеграция по эл. почте</a><span class="new-badge" title="23.01.2020"></span>
+<a href="/docs/FAQ/RU/admin/TicketMail.html">Интеграция по электронной почте, подача заявок по электронной почте</a>
 </h4>
 
 

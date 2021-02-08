@@ -9,7 +9,7 @@ description:
 <meta charset="utf-8">
 <ul>
     <li><a href="#customeragreement">Как настроить жизненный цикл для согласования с заказчиком</a>;</li>
-    <li><a href="#message">Как настроить оповещения в рамках согласования</a>;</li>
+    <li><a href="#message">Как настроить оповещение заказчика</a>;</li>
     <li><a href="#mobile">Как выглядит процесс согласования в мобильном приложении</a>.</li>
 </ul>
 </html>
@@ -32,27 +32,27 @@ description:
         послее ее
         выполнения;
     </li>
-    <div>
-        <img style="margin: 0 auto; display: block; max-width: 70%;"
+  <p>  <div>
+        <img style="margin: 0 auto; display: block; max-width: 60%;"
              src="/attachments/images/FAQ/ADMIN/CustomerAgreement/StageAgreement.jpg"/>
-    </div>
+    </div></p>
     <li><strong>Согласована</strong> - первая из стадий на ветке действий заказчика, если заказчик согласует выполнение
         <strong>Заявки</strong>, он
         переводит заявку на эту стадию. Эта стадия доступна только заказчику;
     </li>
-    <div>
-        <img style="margin: 0 auto; display: block; max-width: 70%;"
+  <p>  <div>
+        <img style="margin: 0 auto; display: block; max-width: 60%;"
              src="/attachments/images/FAQ/ADMIN/CustomerAgreement/StageAgreement2.jpg"/>
-    </div>
+    </div></p>
     <li><strong>Не согласована</strong> - вторая из стадий на ветке действий заказчика, если заказчик отказывается
         подтверждать
         выполнение <strong>Заявки</strong>, он
         переводит <strong>Заявку</strong> на эту стадию. Эта стадия доступна только заказчику.
     </li>
-    <div>
-        <img style="margin: 0 auto; display: block; max-width: 70%;"
+  <p>  <div>
+        <img style="margin: 0 auto; display: block; max-width: 60%;"
              src="/attachments/images/FAQ/ADMIN/CustomerAgreement/StageAgreement3.jpg"/>
-    </div>
+    </div></p>
 </ul>
 <p>В меню <strong>Настройки заявки - Статусы заявки</strong> создайте статус для каждой из стадий, чтобы он отражался в
     мобильном
@@ -60,22 +60,22 @@ description:
 <ul>
     <li><strong>На согласовании</strong> - для стадии <strong>Согласование с заказчиком</strong>;
     </li>
-    <div>
-        <img style="margin: 0 auto; display: block; max-width: 70%;"
+    <p><div>
+        <img style="margin: 0 auto; display: block; max-width: 50%;"
              src="/attachments/images/FAQ/ADMIN/CustomerAgreement/Status.jpg"/>
-    </div>
+    </div></p>
     <li><strong>Согласована</strong> для стадии <strong>Согласована</strong>;
     </li>
-    <div>
-        <img style="margin: 0 auto; display: block; max-width: 70%;"
+   <p> <div>
+        <img style="margin: 0 auto; display: block; max-width: 50%;"
              src="/attachments/images/FAQ/ADMIN/CustomerAgreement/Status2.jpg"/>
-    </div>
+    </div></p>
     <li><strong>Не согласована</strong> для стадии <strong>Не согласована</strong>.
     </li>
-    <div>
-        <img style="margin: 0 auto; display: block; max-width: 70%;"
+ <p>   <div>
+        <img style="margin: 0 auto; display: block; max-width: 50%;"
              src="/attachments/images/FAQ/ADMIN/CustomerAgreement/Status3.jpg"/>
-    </div>
+    </div></p>
 </ul>
 <p>Далее перходим в меню <strong>Настройки заявки - Жизненный цикл заявки</strong>: </p>
 <ul>
@@ -94,7 +94,7 @@ description:
     <li>установите флажок <strong>Изменить статус</strong> и выберите статус - <strong>На согласовании</strong>;</li>
 
     <div>
-        <img style="margin: 0 auto; display: block; max-width: 70%;"
+        <img style="margin: 0 auto; display: block; max-width: 90%;"
              src="/attachments/images/FAQ/ADMIN/CustomerAgreement/LifeCycle.jpg"/>
     </div>
 
@@ -114,7 +114,7 @@ description:
         заполнения настройки перехода нажмите <strong>Сохранить</strong>.
     </li>
     <div>
-        <img style="margin: 0 auto; display: block; max-width: 70%;"
+        <img style="margin: 0 auto; display: block; max-width: 90%;"
              src="/attachments/images/FAQ/ADMIN/CustomerAgreement/LifeCycle2.jpg"/>
     </div>
 
@@ -123,13 +123,13 @@ description:
 <p>Вы можете настроить дальнейшие переходы со стадий <strong>Согласована</strong> на <strong>Закрыта</strong>, со стадии <strong>Не согласована</strong>,
     например, на менеджера по работе с заказчиками и т.д.</p>
 
-<h5 id="message">Настройка оповещения в рамках согласования</h5>
+<h5 id="message">Настройка оповещения заказчика</h5>
 <p>После настройки жизненного цикла необходимо настроить оповещение заказчика по электронной почте или sms о том, что
     <strong>Заявку</strong> необходимо согласовать.</p>
-<p>Перейдите в меню консоли Настройка оповещений - Правила выбора получателя. Создайте новое правило с названием
-    Заказчик. В поле Роль, которая получит уведомление выберите роль Заказчик и сохраните правило.</p>
+<p>Перейдите в меню консоли <strong>Настройка оповещений - Правила выбора получателя</strong>. Создайте новое правило с названием
+    <strong>Заказчик</strong>. В поле <strong>Рол</strong>ь, которая получит уведомление выберите <strong>Заказчик</strong> и сохраните правило.</p>
 <div>
-    <img style="margin: 0 auto; display: block; max-width: 70%;"
+    <img style="margin: 0 auto; display: block; max-width: 60%;"
          src="/attachments/images/FAQ/ADMIN/CustomerAgreement/Rule.jpg"/>
 </div>
 
@@ -163,7 +163,7 @@ description:
     <li>добавьте правило выбора получателя, которое мы создали выше - <strong>Заказчик</strong> и сохраните настройку триггера.</li>
 </ul>
 <div>
-    <img style="margin: 0 auto; display: block; max-width: 70%;"
+    <img style="margin: 0 auto; display: block; max-width: 90%;"
          src="/attachments/images/FAQ/ADMIN/CustomerAgreement/Message.jpg"/>
 </div>
 
@@ -177,7 +177,7 @@ description:
 
 <p>Заказчик при этом получит сообщение на электронную почту в формате, который вы указали в настроках триггера.</p>
 <div>
-    <img style="margin: 0 auto; display: block; max-width: 60%;"
+    <img style="margin: 0 auto; display: block; max-width: 40%;"
          src="/attachments/images/FAQ/ADMIN/CustomerAgreement/Mobile2.jpg"/>
 </div>
 <p>В мобильном приложении заказчика в <strong>Заявке</strong> на стадии <strong>Согласование заказчика</strong> будет две кнопки <strong>Согласована</strong> и <strong>Не

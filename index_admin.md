@@ -13,48 +13,56 @@
 <noscript><div><img src="https://mc.yandex.ru/watch/'{{ site.yandex_metric }}'" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
 <!-- /Yandex.Metrika counter -->
 <link rel="stylesheet" type="text/css" href="/assets/css/styles.css">
-## Консоль администратора в HubEx
-Для того, чтобы сделать использование нашей системы более удобной для Вас, существует вход для администратора, с помощью этого Вы сможете добавить информацию, которую впоследствии смогут использовать Ваши сотрудники.
-<h4>
-<a href="/docs/FAQ/RU/admin/HowToEnterTheAdmin.html">Как войти в консоль администратора?</a>
-</h4>
+
+### Консоль администратора в HubEx
+Консоль администрирования предназначена для настройки работы пользователей: создания ролей, участков, настройки жизненного цикла заявки, добавления дополнительных полей, настройки уведомлений и т.д.
+
+<h4 style="padding-left: 20px;"><a href="/docs/FAQ/RU/admin/HowToEnterTheAdmin.html">Как войти в консоль администратора?</a></h4>
+
 ### Администрирование
-#### [Настройка ролей](docs/FAQ/RU/admin/Roles.md)
+С помощью ролей настраивается видимость различных разделов и данных, возможности взаимодействия с этими данными, а также доступ к приложениям инженера, заказчика и web-версии.
+
+<h4 style="padding-left: 20px;"><a href="/docs/FAQ/RU/admin/Roles.html">Настройка ролей</a></h4>
+
 ### Структура предприятия
-#### [Настройка участков](docs/FAQ/RU/admin/Places.md)
-#### [Типы оборудования](docs/FAQ/RU/admin/ObjectsType.md)
-<h4>
-<a href="/docs/FAQ/RU/admin/ObjectClass.html">Классы оборудования</a><span class="new-badge" title="05.02.2020"></span>
-</h4>
+Участки, Типы объектов (оборудования), Классы оборудования - различные классификаторы, создание и настройка которых позволяет корректно выполнять работу в системе, а также разграничивать доступ пользователей.
+
+<h4 style="padding-left: 20px;"><a href="/docs/FAQ/RU/admin/Places.html">Настройка участков</a></h4>
+<h4 style="padding-left: 20px;"><a href="/docs/FAQ/RU/admin/ObjectsType.html">Типы оборудования</a></h4>
+<h4 style="padding-left: 20px;"><a href="/docs/FAQ/RU/admin/ObjectClass.html">Классы оборудования</a><span class="new-badge" title="05.02.2020"></span></h4>
+
 ### Настройки заявки
-#### [Виды работ](docs/FAQ/RU/admin/WorkType.md)
-#### [Типы заявок](docs/FAQ/RU/admin/TicketType.md)
-#### [Статусы заявок](docs/FAQ/RU/admin/StatusType.md)
-#### [Актуальность заявки](docs/FAQ/RU/admin/Actuality.md)
-#### [Критичность заявки](docs/FAQ/RU/admin/Criticality.md)
-#### [Правила выбора исполнителя](docs/FAQ/RU/admin/RulesOfChoice.md)
-#### [Автоназначение по геопозиции](docs/FAQ/RU/user/RulesOfChoiceGEO.md)
-#### [Стадии заявки](docs/FAQ/RU/admin/StageType.md)
-<h4>
-<a href="/docs/FAQ/RU/admin/ElementsOfInterface.html">Поля на форме заявки: настройка доступа к полям заявки</a><span class="updated-badge" title="21.01.2021"></span>
-</h4>
-<h4><a href="/docs/FAQ/RU/admin/TicketLifeCycle.html">Жизненный цикл заявки</a></h4>
-<h4><a href="/docs/FAQ/RU/admin/CustomerAgreement.html">Согласование с заказчиком: жизненный цикл, стадии согласования, уведомления</a></h4>
-<h4><a href="/docs/FAQ/RU/admin/BusinessProcess.html">Базовый бизнес-процесс для заявки</a></h4>
+В данном разделе собраны основные настройки для работы с заявками: создание и настройка типов заявок, стадий, жизненных циклов, доступ к полям на форме заявки и т.д. 
+
+<h4 style="padding-left: 20px;"><a href="/docs/FAQ/RU/admin/WorkType.html">Виды работ</a></h4>
+<h4 style="padding-left: 20px;"><a href="/docs/FAQ/RU/admin/TicketType.html">Типы заявок</a></h4>
+<h4 style="padding-left: 20px;"><a href="/docs/FAQ/RU/admin/StatusType.html">Статусы заявок</a></h4>
+<h4 style="padding-left: 20px;"><a href="/docs/FAQ/RU/admin/Actuality.html">Актуальность заявки</a></h4>
+<h4 style="padding-left: 20px;"><a href="/docs/FAQ/RU/admin/Criticality.html">Критичность заявки</a></h4>
+<h4 style="padding-left: 20px;"><a href="/docs/FAQ/RU/admin/RulesOfChoice.html">Правила выбора исполнителя</a></h4>
+<h4 style="padding-left: 20px;"><a href="/docs/FAQ/RU/admin/RulesOfChoiceGEO.html">Автоназначение по геопозиции</a></h4>
+<h4 style="padding-left: 20px;"><a href="/docs/FAQ/RU/admin/StageType.html">Стадии заявки</a></h4>
+<h4 style="padding-left: 20px;"><a href="/docs/FAQ/RU/admin/ElementsOfInterface.html">Поля на форме заявки: настройка доступа к полям заявки</a><span class="updated-badge" title="21.01.2021"></span></h4>
+<h4 style="padding-left: 20px;"><a href="/docs/FAQ/RU/admin/TicketLifeCycle.html">Жизненный цикл заявки</a></h4>
+<h4 style="padding-left: 20px;"><a href="/docs/FAQ/RU/admin/CustomerAgreement.html">Согласование с заказчиком: жизненный цикл, стадии согласования, уведомления</a></h4>
+<h4 style="padding-left: 20px;"><a href="/docs/FAQ/RU/admin/BusinessProcess.html">Базовый бизнес-процесс для заявки</a></h4>
+
 ### Настройки оповещений
-<h4>
-<a href="/docs/FAQ/RU/admin/Notifications.html">Настройка оповещений</a>
-</h4>
+Оповещения позволят вам быть в курсе происходящего. Настройте отправку email или push-уведомлений о событиях, происходящих с вашими заявками.
+
+<h4 style="padding-left: 20px;"><a href="/docs/FAQ/RU/admin/Notifications.html">Настройка оповещений</a></h4>
+
 ### Настройки системы
-#### [Дополнительные поля](docs/FAQ/RU/admin/TicketAttribute.md)
+<!--две статьи прот доп поля вынесены в раздел веб приложения подумать как привести их к общему знаменателю - мб добавить все три тут и там-->
+
+<h4 style="padding-left: 20px;"><a href="/docs/FAQ/RU/admin/TicketAttribute.html">Дополнительные поля</a></h4>
+
 ### Интеграция
-#### [Пошаговая интеграция с Битрикс 24](docs/FAQ/RU/admin/Integration.md)
-<h4>
-<a href="/docs/FAQ/RU/admin/ServiceUsers.html">Служебные пользователи</a>
-</h4>
-<h4>
-<a href="/docs/FAQ/RU/admin/TicketMail.html">Интеграция по электронной почте, подача заявок по электронной почте</a>
-</h4>
+Раздел интеграция позволит настроить вам связь с Битрикс 24, с различными почтовыми клиентами. Также здесь вы найдете настройки служебных учетных записей, которые необходимы для интеграции с внешними системами и подачи заявок незарегистрированными пользователями.
+
+<h4 style="padding-left: 20px;"><a href="/docs/FAQ/RU/admin/Integration.html">Пошаговая интеграция с Битрикс 24</a></h4>
+<h4 style="padding-left: 20px;"><a href="/docs/FAQ/RU/admin/ServiceUsers.html">Служебные пользователи</a></h4>
+<h4 style="padding-left: 20px;"><a href="/docs/FAQ/RU/admin/TicketMail.html">Интеграция по электронной почте, подача заявок по электронной почте</a></h4>
 
 
 ____

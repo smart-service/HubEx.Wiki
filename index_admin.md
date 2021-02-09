@@ -16,7 +16,7 @@
 ## Консоль администратора в HubEx
 Для того, чтобы сделать использование нашей системы более удобной для Вас, существует вход для администратора, с помощью этого Вы сможете добавить информацию, которую впоследствии смогут использовать Ваши сотрудники.
 <h4>
-<a href="/docs/FAQ/RU/admin/HowToEnterTheAdmin.html">Как войти в консоль администратора?</a><span class="new-badge" title="23.09.2019"></span>
+<a href="/docs/FAQ/RU/admin/HowToEnterTheAdmin.html">Как войти в консоль администратора?</a>
 </h4>
 ### Администрирование
 #### [Настройка ролей](docs/FAQ/RU/admin/Roles.md)
@@ -43,14 +43,14 @@
 <h4><a href="/docs/FAQ/RU/admin/BusinessProcess.html">Базовый бизнес-процесс для заявки</a></h4>
 ### Настройки оповещений
 <h4>
-<a href="/docs/FAQ/RU/admin/Notifications.html">Настройка оповещений</a><span class="new-badge" title="03.12.2019"></span>
+<a href="/docs/FAQ/RU/admin/Notifications.html">Настройка оповещений</a>
 </h4>
 ### Настройки системы
 #### [Дополнительные поля](docs/FAQ/RU/admin/TicketAttribute.md)
 ### Интеграция
 #### [Пошаговая интеграция с Битрикс 24](docs/FAQ/RU/admin/Integration.md)
 <h4>
-<a href="/docs/FAQ/RU/admin/ServiceUsers.html">Служебные пользователи</a><span class="new-badge" title="18.02.2020"></span>
+<a href="/docs/FAQ/RU/admin/ServiceUsers.html">Служебные пользователи</a>
 </h4>
 <h4>
 <a href="/docs/FAQ/RU/admin/TicketMail.html">Интеграция по электронной почте, подача заявок по электронной почте</a>

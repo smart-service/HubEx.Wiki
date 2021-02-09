@@ -35,7 +35,8 @@ keywords: плановая заявка, hubex, хабекс, хубекс, ха
 
 <p>Процесс заполнения полей <strong>Плановой заявки</strong> основан на заполнении обычной <strong>Заявки</strong>.
     Подробнее читайте в статье: <a
-            href="https://wiki.hubex.ru/docs/FAQ/RU/user/CreatingTicket.html#webticket">Создание заявки</a>. Рассмотрим
+            href="https://wiki.hubex.ru/docs/FAQ/RU/user/CreatingTicket.html#webticket">Создание заявки</a>.</p>
+            <p> Рассмотрим
     заполнение <strong>Плановой заявки</strong>:</p>
 <ul>
     <li><strong>Название</strong> заполняется в свободной форме;</li>
@@ -54,13 +55,10 @@ keywords: плановая заявка, hubex, хабекс, хубекс, ха
         </div>        </p>
 
         Либо уточните выбор <strong>Объектов</strong> с помощью фильтров по кнопке <strong>Подобрать объекты</strong>.
-
-        <p>
-        <div>
+        <p>        <div>
             <img style="margin: 0 auto; display: block; max-width: 90%;"
                  src="/attachments/images/FAQ/USER/PlannedTickets/FilterObj.jpg"/>
-        </div>
-        </p>
+        </div>        </p>
     </li>
     <li>в поле <strong>Описание</strong> можно внести описание заявки в свободной форме;</li>
     <li>в разделе <strong>Плановое создание заявок</strong> настраивается часта создания <strong>Плановых зааявок</strong>. В
@@ -76,7 +74,7 @@ keywords: плановая заявка, hubex, хабекс, хубекс, ха
         вторникам создавать <strong>Плановую заявку</strong> в 10 часов утра.
         <p>
         <div>
-            <img style="margin: 0 auto; display: block; max-width: 50%;"
+            <img style="margin: 0 auto; display: block; max-width: 40%;"
                  src="/attachments/images/FAQ/USER/PlannedTickets/TimeManager.jpg"/>
         </div>
         </p>
@@ -123,7 +121,7 @@ keywords: плановая заявка, hubex, хабекс, хубекс, ха
     <strong>Запланировать</strong>. Таким образом вы запустите процесс автоматического создания <strong>Заявок</strong>.
 </p>
 <div>
-    <img style="margin: 0 auto; display: block; max-width: 100%;"
+    <img style="margin: 0 auto; display: block; max-width: 90%;"
          src="/attachments/images/FAQ/USER/PlannedTickets/PlannedTicketDone.jpg"/>
 </div>
 
@@ -133,7 +131,7 @@ keywords: плановая заявка, hubex, хабекс, хубекс, ха
     в <strong>Плановую заявку</strong> и нажмите кнопку <strong>Приостановить</strong>. Теперь вы можете вносить
     изменения. После внесения изменений необходимо заново нажать кнопку <strong>Запланировать</strong>.</p>
 <div>
-    <img style="margin: 0 auto; display: block; max-width: 100%;"
+    <img style="margin: 0 auto; display: block; max-width: 90%;"
          src="/attachments/images/FAQ/USER/PlannedTickets/plantick5.png"/>
 </div>
 </body>

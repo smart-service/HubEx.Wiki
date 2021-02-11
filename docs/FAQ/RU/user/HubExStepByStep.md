@@ -160,9 +160,9 @@ keywords: знакомство с системой, первые шаги, hubex
         </p></li>
 
    <p> <div>
-        <img style="margin: 0 auto; display: block; max-width: 80%;"
-             src="/attachments/images/FAQ/USER/HubExStepByStep/MobCustomer1.jpg"/>
-    </div></p>
+            <img style="margin: 0 auto; display: block; max-width: 60%;"
+                 src="/attachments/images/FAQ/USER/HubExStepByStep/MobTicket.jpg"/>
+        </div></p>
 
     <li>Полуавтоматический режим подразумевает сканирования QR-кода оборудования через мобильное приложение инженера или заказчика. Подробнее читайте в статье: <a
                 href="https://wiki.hubex.ru/docs/FAQ/RU/user/QRcodeMain.html">QR-код в HubEx: основные понятия</a>.

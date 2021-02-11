@@ -1,38 +1,13 @@
 ---
-title: Прикрепление выполненных работ в WEB и мобильном приложении.
-description: Как прикрепить отчет по выполнению работ по объекту в системе HubEx?
+title: Прикрепление выполненных работ в web и мобильном приложении
+description: Добавить выполненную работу можно Заявке на вкладке Выполнение по кнопке Создать работу. Вы можете добавлять несколько выполненных работ, если Заявка выполнялась в несколько этапов, дней и т.д. Все выполненные работы войдут в итоговую сумму Акта выполненных работ. Поэтому внимательно заполняйте время выполнения.
+keywords: выполненные работы, создать работу, добавить работу, работа,  hubex, хабекс, хубекс, хабикс
 ---
-
-<!-- Yandex.Metrika counter -->
-<script type="text/javascript">
-    (function (m, e, t, r, i, k, a) {
-        m[i] = m[i] || function () {
-            (m[i].a = m[i].a || []).push(arguments)
-        };
-        m[i].l = 1 * new Date();
-        k = e.createElement(t), a = e.getElementsByTagName(t)[0], k.async = 1, k.src = r, a.parentNode.insertBefore(k, a)
-    })
-    (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
-    ym('{{ site.yandex_metric }}', "init", {
-        id: '{{ site.yandex_metric }}',
-        clickmap: true,
-        trackLinks: true,
-        accurateTrackBounce: true,
-        webvisor: true
-    });
-</script>
-<noscript>
-    <div><img src="https://mc.yandex.ru/watch/'{{ site.yandex_metric }}'" style="position:absolute; left:-9999px;"
-              alt=""/></div>
-</noscript>
-<!-- /Yandex.Metrika counter -->
-
 
 ### Прикрепление выполненных работ в web и мобильном приложении
 В этом разделе вы научитесь:
 <html>
 <meta charset="utf-8">
-<title>Быстрый переход внутри документа</title>
 <ul>
     <li><a href="#web">Прикреплять выполненные работы к Заявке в web-приложении</a>;</li>
     <li><a href="#mobile">Прикреплять выполненные работы к Заявке в мобильном приложении исполнителя</a>.</li>
@@ -40,8 +15,8 @@ description: Как прикрепить отчет по выполнению р
 
 </ul>
 </html>
-
-<p>Заполнение выполненных работ в <strong>Заявке</strong> позволяет отслеживать процесс согласования с требованиями заказчика,
+<body>
+<p>Заполнение выполненных работ в <strong>Заявке</strong> позволяет отслеживать выполнение согласно требованиям заказчика,
     контролировать ход выполнения <strong>Заявки</strong>, а также позволяет сформировать <a
             href="https://wiki.hubex.ru/docs/FAQ/RU/user/ActOFAcceptance.html">Акт выполненных работ</a> и т.д. </p>
 
@@ -70,12 +45,16 @@ description: Как прикрепить отчет по выполнению р
     <li>В качестве <strong>Файлов</strong> вы можете прикрепить, например, фотографию готовой работы.</li>
 </ul>
 <div>
-    <img style="margin: 0 auto; display: block; max-width: 100%;"
+    <img style="margin: 0 auto; display: block; max-width: 95%;"
          src="/attachments/images/FAQ/USER/AttachingFiles/Work.jpg"/>
 </div>
 
 <h5 id="mobile">Прикрепление выполненных работ к Заявке в мобильном приложении исполнителя</h5>
-<p>В мобильном приложении HubEx Engineer (скачать можно в App Store или Google Play) откройте <strong>Заявку</strong>, пролистайте вниз и
+<p> Для <strong>Сотрудников</strong> доступно мобильное приложение инженера HubEx Engeneer, которое можно скачать <a
+        href="https://play.google.com/store/apps/details?id=ru.hubex.engineer">для Android</a> или <a
+        href="https://apps.apple.com/ru/app/hubex-%D0%B4%D0%BB%D1%8F-%D1%81%D0%B5%D1%80%D0%B2%D0%B8%D1%81%D0%BD%D0%BE%D0%B9-%D1%81%D0%BB%D1%83%D0%B6%D0%B1%D1%8B/id1386688688">для
+    iOS</a>.</p>
+<p>В мобильном приложении HubEx Engineer откройте <strong>Заявку</strong>, пролистайте вниз и
     выбрерите пункт <strong>Выполнение</strong>. Нажмите кнопку плюса в правом нижнем углу.</p>
 <p>Перед вами откроется форма, состоящая из четырех страниц. Переход между страницами можно осуществлять по кнопке <strong>Далее</strong>
     (по порядку) либо по кнопке двойной стрелки вверх (откроется список всех страниц для выбора).</p>
@@ -107,7 +86,7 @@ description: Как прикрепить отчет по выполнению р
          src="/attachments/images/FAQ/USER/AttachingFiles/MobileWork.png"/>
 </div>
 <p>Все внесенные изменения будут отражаться в web-приложении в <strong>Заявке</strong> на вкладке <strong>История изменений</strong>.</p>
-
+</body>
 ### Следующие шаги:
 - [Создание шаблона оборудования и маркировка](./CreatingObjTemplates.md)
 - [Создание шаблона заявок и паспорт объекта](./CreatingTickTemplates.md)

@@ -53,7 +53,7 @@
 <h4 style="padding-left: 20px;">
     <a href="/docs/FAQ/RU/user/ChildTicket.html">Дочерние заявки</a></h4>
 <h4 style="padding-left: 20px;">
-    <a href="/docs/FAQ/RU/user/ActOFAcceptance.html">Формирование Акта выполненных работ</a></h4>
+    <a href="/docs/FAQ/RU/user/ActOFAcceptance.html">Акт выполненных работ</a></h4>
 <h4 style="padding-left: 20px;">
     <a href="/docs/FAQ/RU/user/Schedule.html">График работы исполнителей</a></h4>
 <h4 style="padding-left: 20px;">

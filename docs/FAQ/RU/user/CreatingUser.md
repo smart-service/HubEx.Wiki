@@ -36,14 +36,7 @@ keywords: создание сотрудника, создание пользов
 <h5 id="createadm">Создание Сервисного инженера и Начальника сервисной службы</h5>
 
 <p>Создать нового пользователя можно в меню <strong>Пользователи - Сотрудники</strong>
-    по кнопке <strong>Добавить сотрудника</strong>.</p>
-<div>
-    <img style="margin: 0 auto; display: block; max-width: 70%;"
-         src="/attachments/images/FAQ/USER/CreatingUser/User1.jpg"/>
-</div>
-
-
-<p>Форма создания нового сотрудника состоит из нескольких вкладок: <strong>Общее</strong>, <strong>Квалификация</strong>,
+    по кнопке <strong>Добавить сотрудника</strong>. Форма создания нового сотрудника состоит из нескольких вкладок: <strong>Общее</strong>, <strong>Квалификация</strong>,
     <strong>Трудоустройство</strong>. На вкладке <strong>Общее</strong> обязательными
     для заполнения являются следующие поля:</p>
 
@@ -167,7 +160,7 @@ keywords: создание сотрудника, создание пользов
     заказчикам</strong>.</p>
 
 <div>
-    <img style="margin: 0 auto; display: block; max-width: 100%;"
+    <img style="margin: 0 auto; display: block; max-width: 95%;"
          src="/attachments/images/FAQ/USER/CreatingUser/ChangeUserToCustomer.jpg"/>
 </div>
 

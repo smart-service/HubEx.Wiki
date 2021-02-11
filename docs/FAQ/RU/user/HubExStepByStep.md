@@ -159,7 +159,7 @@ keywords: знакомство с системой, первые шаги, hubex
                 заявки.</a>
         </p>
          <p>  <div>
-            <img style="margin: 0 auto; display: block; max-width: 70%;"
+            <img style="margin: 0 auto; display: block; max-width: 40%;"
                  src="/attachments/images/FAQ/USER/HubExStepByStep/MobTicket.jpg"/>
         </div></p>
         </li>

@@ -6,18 +6,18 @@ keywords:  hubex, хабекс, хубекс, хабикс
 
 
 #### Создание заявки
-В этом разделе вы научитесь:
+В этом разделе вы узнаете:
 <html>
 <meta charset="utf-8">
 <ul>
-    <li><a href="#webticket">Создавать Заявки в web-приложении;</a></li>
-    <li><a href="#webticket2">Создавать Объекты и Заказчиков из формы создания Заявки;</a></li>
-    <li><a href="#mobticket">Создавать Заявки в мобильном приложении.</a></li>
+    <li><a href="#webticket">Как создать Заявку в web-приложении;</a></li>
+    <li><a href="#webticket2">Как создать Объект и Заказчика из формы создания Заявки;</a></li>
+    <li><a href="#mobticket">Как создать Заявку в мобильном приложении;</a></li>
+    <li><a href="#createticket">Альтернативные способы подачи Заявки</a>.</li>
 </ul>
 </html>
 
 <body>
-
 
 <p>Учет по <strong>Заявкам</strong> позволит вам:</p>
 <ul>
@@ -25,7 +25,8 @@ keywords:  hubex, хабекс, хубекс, хабикс
     <li>сформировать платежные документы и выставить счета на оплату;</li>
     <li>спланировать загрузку сотрудников.</li>
 </ul>
-<p><strong>Заявки</strong> также создаются в разрезе <strong>Объектов</strong>, что позволяет хранить историю всех обращений (<strong>Заявок</strong>) по каждому
+<p><strong>Заявки</strong> также создаются в разрезе <strong>Объектов</strong>, что позволяет хранить историю всех
+    обращений (<strong>Заявок</strong>) по каждому
     <strong>Объекту</strong>.</p>
 
 <p>С помощью настройки различных <strong>Типов заявок</strong> можно реализовать как простые процессы прохождения
@@ -66,6 +67,13 @@ keywords:  hubex, хабекс, хубекс, хабикс
          src="/attachments/images/FAQ/USER/CreatingTicket/TicketSave.jpg"/>
 </div>
 </p>
+<p>Обратите внимание! Состав полей на форме Заявки можно настраивать в разрезе Ролей и Стадий заявки. Например, вы
+    можете
+    запретить мобильному сотруднику изменять исполнителя в Заявке на стадии Назначена. Подробнее читайте в статьях: <a
+            href="https://wiki.hubex.ru/docs/FAQ/RU/admin/ElementsOfInterface.html">Поля на форме заявки: настройка
+        доступа к полям заявки</a>, <a href="https://wiki.hubex.ru/docs/FAQ/RU/admin/Roles.html">Настройка ролей</a>.
+</p>
+
 <p>Для удобства заполнение вкладки <strong>Заявки</strong> разделено на смысловые блоки - <strong>Заявка</strong>,
     <strong>Обслуживание
         заказчика</strong>, <strong>Трудозатраты</strong>. </p>
@@ -158,9 +166,14 @@ keywords:  hubex, хабекс, хубекс, хабикс
         вручную.
     </li>
     <li><strong>Метод подачи заявки</strong> заполняется автоматически и зависит от того, откуда была
-        зарегистрирована
+        подана
         <strong>Заявка</strong> - web- или
-        мобильное приложение.
+        мобильное приложение. Если в данном поле заполнено значение <strong> Электронный паспорт объекта</strong> ,
+        значит <strong>Заявка</strong> была
+        создана незарегистрированным пользователем с помощью сканирования QR-кода. Подробнее читайте в статьях: <a
+                href="https://wiki.hubex.ru/docs/FAQ/RU/user/QRcodeMain.html">QR-код в HubEx: основные понятия</a>, <a
+                href="https://wiki.hubex.ru/docs/FAQ/RU/user/SelfRegister.html">Подача заявок по QR-коду без
+            приложения, самостоятельная регистрация нового пользователя</a>.
     </li>
     <li>Параметр <strong>ERPID</strong> необходимо заполнять, если вы интегрируете HubEx с другими системами,
         например
@@ -194,38 +207,57 @@ keywords:  hubex, хабекс, хубекс, хабикс
 <p>Рассмотрим вкладку <strong>Необходимые материалы</strong>. Она носит рекомендательный характер. Здесь можно отразить
     перечень
     материалов, которые могут понадобиться специалисту для выполнения <strong>Заявки</strong>.</p>
+<div>
+    <img style="margin: 0 auto; display: block; max-width: 80%;"
+         src="/attachments/images/FAQ/USER/CreatingTicket/NoMaterials.jpg"/>
+</div>
 <p>Нажмите на кнопку <strong>Добавить материалы</strong>. Выбор можно осуществлять с отбором по определенному складу или
     всем
     складам. Укажите количество и нажмите кнопку <strong>Выбрать</strong>.</p>
-<p>Обратите внимание: <strong>Материалы</strong> предварительно должны быть внесены в систему. Как это сделать можно
-    прочитать <a
-            href="https://wiki.hubex.ru/docs/FAQ/RU/user/Materials.html"> здесь</a>.</p>
+<p>Обратите внимание! <strong>Материалы</strong> предварительно должны быть внесены в систему. Подробнее читайте в
+    статьях: <a
+            href="https://wiki.hubex.ru/docs/FAQ/RU/user/Materials.html">Загрузка материалов в HubEx</a>, <a
+            href="https://wiki.hubex.ru/docs/FAQ/RU/user/TicketWithMaterials.html">Подача заявки с указанием
+        рекомендованных материалов</a>.</p>
 <div>
     <img style="margin: 0 auto; display: block; max-width: 80%;"
          src="/attachments/images/FAQ/USER/CreatingTicket/Materials.jpg"/>
 </div>
 
 <p>На вкладке <strong>Сообщения</strong> можно вести переписку всем заинтересованным лицам по данной
-    <strong>Заявке</strong>.</p>
-<p>На вкладке Чек-листы вы увидите Чек-лист, если он был привязан к <strong>Объекту</strong>. Подробнее о создании
-    <strong>Чек-листов</strong> читайте <a
-            href="https://wiki.hubex.ru/docs/FAQ/RU/users/Checklists.html"> здесь</a>.</p>
+    <strong>Заявке</strong>. Подробнее читайте в статье: <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/Messages.html">Сообщения
+        по заявке</a>.</p>
+<p>На вкладке Чек-листы вы увидите Чек-лист, если он был привязан к <strong>Объекту</strong>. Подробнее читайте в
+    статье: <a
+            href="https://wiki.hubex.ru/docs/FAQ/RU/users/Checklists.html">Чек-листы</a>.</p>
 <div>
-    <img style="margin: 0 auto; display: block; max-width: 70%;"
+    <img style="margin: 0 auto; display: block; max-width: 80%;"
          src="/attachments/images/FAQ/USER/CreatingTicket/CheckList.jpg"/>
 </div>
+<!--Также для Чек-листов доступны функции добавления и удаления. Вы можете удалить ненужные Чек-листы и добавить необходимый по кнопке Добавить.-->
 
 <p>На вкладке <strong>Выполнение</strong> будут отражаться работы по <strong>Заявке</strong>, которые внесет
-    исполнитель. Подробнее об этом читайте в статье <a
+    исполнитель. Обратите внимание на поля <strong>Стоимость</strong> и <strong>Ставка/час</strong>. Они необходимы для
+    расчета итоговой стоимости работ по <strong>Заявке</strong> и отражаются в <strong>Акте выполненных работ</strong>.
+    Подробнее читайте
+    в статье: <a
             href="https://wiki.hubex.ru/docs/FAQ/RU/users/AttachingFiles.html">Прикрепление выполненных работ в web- и
-        мобильном приложении</a>. Все выполненные работы по Заявке располагаются в списке справа.</p>
+        мобильном приложении</a>. Все выполненные работы по <strong>Заявке</strong> располагаются в списке справа.</p>
 <div>
-    <img style="margin: 0 auto; display: block; max-width: 70%;"
+    <img style="margin: 0 auto; display: block; max-width: 80%;"
          src="/attachments/images/FAQ/USER/CreatingTicket/Works.jpg"/>
 </div>
 
+<p>На вкладке <strong>Акт выполненных работ</strong> автоматически формируется Акт для заказчика. Акт заполняется по
+    данным
+    выполненных работ. В мобильном приложении можно получить подпись заказчика к Акту. Подробнее читайте в статье: <a
+            href="">Акт выполненных работ</a>.</p>
 <p>Вкладка <strong>История изменений</strong> хранит все действия над <strong>Заявкой</strong> с момента ее первого
-    сохранения.</p>
+    сохранения. Подробнее читайте в статье: <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/HistoryOfChanges.html">История
+        изменений заявки</a>.</p>
+
+<p>Для того чтобы выгрузить всю информацию по <strong>Заявкам</strong> из системы HubEx воспользуйтесь функцией <a
+        href="https://wiki.hubex.ru/docs/FAQ/RU/user/Export.html#tickets"> Экспорта.</a></p>
 
 <h5 id="webticket2">Создание объектов и заказчиков из формы создания заявки</h5>
 <p>Вы можете создать <strong>Заказчика</strong> и <strong>Объект</strong> напрямую из формы создания
@@ -272,13 +304,29 @@ keywords:  hubex, хабекс, хубекс, хабикс
     <p>Если у <strong>Объекта</strong> нет QR-кода, то после нажатия кнопки подачи <strong>Заявки</strong> в правом
         нижнем углу, нажмите кнопку <strong>Выбрать из
             списка</strong> на
-        экране сканирования QR-кода. Далее самостоятельно выберите необходимый <strong>Объект</strong>.
+        экране сканирования QR-кода. Далее самостоятельно выберите необходимый <strong>Объект</strong>. Подробнее о
+        создании <strong>Заявок</strong> с помощью QR-кодов читайте в статьях: <a
+                href="https://wiki.hubex.ru/docs/FAQ/RU/user/QRcodeMain.html">QR-код в HubEx: основные понятия</a>, <a
+                href="https://wiki.hubex.ru/docs/FAQ/RU/user/CreatingTaskTemplates.html">Создание шаблона заявки, подача
+            заявки по QR-коду</a>.
     </p>
 </ol>
 
 
-<p>Для того чтобы выгрузить всю информацию по <strong>Заявкам</strong> из системы HubEx воспользуйтесь функцией <a
-        href="https://wiki.hubex.ru/docs/FAQ/RU/user/Export.html#tickets"> Экспорта.</a></p>
+<h5 id="createticket">Альтернативные способы подачи Заявок</h5>
+<p>В данной статье рассмотрен основной вариант подачи Заявок - в ручном режиме. Существует еще несколько вариантов, о
+    которых подробнее будет рассказано в следующих статьях:</p>
+<ul>
+    <li>Полуавтоматический режим подачи Заявки с помощью QR-кода. Полдробнее читайте в статьях: <a
+            href="https://wiki.hubex.ru/docs/FAQ/RU/user/QRcodeMain.html">QR-код в HubEx: основные понятия</a>, <a
+            href="https://wiki.hubex.ru/docs/FAQ/RU/user/CreatingTaskTemplates.html">Создание шаблона заявки, подача
+        заявки по QR-коду</a>.
+    </li>
+    <li>С помощью импорта: вы можете с помощью специального шаблона в формате Excel загрузить до 1000 Заявок за раз.
+        Подробнее читайте в статье: <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/Import.html#tickets">Импорт</a>.
+    </li>
+</ul>
+
 
 </body>
 

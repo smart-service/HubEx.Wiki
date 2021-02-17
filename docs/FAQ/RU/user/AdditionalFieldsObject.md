@@ -56,10 +56,10 @@ keywords: дополнительные поля в объекте, hubex, хаб
         </li>
 
     </ul>
-    <div>
+    <p><div>
         <img style="margin: 0 auto; display: block; max-width: 60%;"
              src="/attachments/images/FAQ/USER/AdditionalFieldsObject/ADDField.jpg"/>
-    </div>
+    </div></p>
 
 
     <li>Теперь созданное поле можно добавить в карточку <strong>Объекта</strong> на вкладку <strong>Дополнительные
@@ -67,10 +67,10 @@ keywords: дополнительные поля в объекте, hubex, хаб
         списке выберите нужное поле, нажмите
         кнопку <strong>Добавить</strong>. Теперь дополнительное поле можно заполнить. Не забудьте сохранить изменения.
     </li>
-    <div>
+    <p><div>
         <img style="margin: 0 auto; display: block; max-width: 95%;"
              src="/attachments/images/FAQ/USER/AdditionalFieldsObject/ADDFieldObj.jpg"/>
-    </div>
+    </div></p>
 
 </ol>
 </body>

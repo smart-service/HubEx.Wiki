@@ -68,7 +68,7 @@ keywords: дополнительные поля в объекте, hubex, хаб
         кнопку <strong>Добавить</strong>. Теперь дополнительное поле можно заполнить. Не забудьте сохранить изменения.
     </li>
     <div>
-        <img style="margin: 0 auto; display: block; max-width: 80%;"
+        <img style="margin: 0 auto; display: block; max-width: 95%;"
              src="/attachments/images/FAQ/USER/AdditionalFieldsObject/ADDFieldObj.jpg"/>
     </div>
 

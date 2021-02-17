@@ -88,7 +88,7 @@ keywords: акт, акт выполненных работ, формирован
 <p><strong>Акт выполненных работ</strong> доступен в мобильном приложении инженера в <strong>Заявке</strong> внизу страницы. Он точно также формируется по
     выполненным работам и полностью идентичен Акту в web-приложении.</p>
 <div>
-    <img style="margin: 0 auto; display: block; max-width: 50%;"
+    <img style="margin: 0 auto; display: block; max-width: 40%;"
          src="/attachments/images/FAQ/USER/ActOFAcceptance/ActMob.jpg"/>
 </div>
 <p>В <strong>Акте выполненных работ</strong> по кнопке <strong>Получить подпись</strong> открывается графическое окно для ввода подписи заказчика. Подпись вводится

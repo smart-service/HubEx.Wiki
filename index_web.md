@@ -74,7 +74,7 @@
     <a href="/docs/FAQ/RU/user/Filters.html">Использование фильтров для поиска заявок</a></h4>
 
 <h4 style="padding-left: 20px;">
-    <a href="/docs/FAQ/RU/user/ViewRestriction.html">Ограничение видимости файлов</a></h4>
+    <a href="/docs/FAQ/RU/user/ViewRestriction.html">Ограничение доступа к файлам в заявке и объекте</a></h4>
 <h4 style="padding-left: 20px;">
     <a href="/docs/FAQ/RU/user/Messages.html">Сообщения по заявке и вкладка сообщения</a></h4>
 

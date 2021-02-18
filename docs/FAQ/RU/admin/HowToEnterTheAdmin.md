@@ -41,7 +41,7 @@ keywords: консоль администратора, консоль админ
     <img style="margin: 0 auto; display: block; max-width: 80%;"
          src="/attachments/images/FAQ/ADMIN/EnterTheAdm/Help.jpg"/>
 </div>
-
+</body>
 ### Следующие шаги:
 - [Настройка ролей](./Roles.md)
 - [Настройка UI полномочий](./UI_Permissions.md)

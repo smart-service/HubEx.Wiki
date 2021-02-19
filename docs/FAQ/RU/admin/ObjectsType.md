@@ -32,12 +32,12 @@ keywords:  тип объекта, тип оборудования, объект,
     типом <strong>Оборудование</strong>.</p>
 <div>
     <img style="margin: 0 auto; display: block; max-width: 80%;"
-         src="/attachments/images/FAQ/ADMIN/ObjectType/Type2.jpg"/>
+         src="/attachments/images/FAQ/ADMIN/ObjectsType/Type2.jpg"/>
 </div>
 <p>
 <div>
     <img style="margin: 0 auto; display: block; max-width: 80%;"
-         src="/attachments/images/FAQ/ADMIN/ObjectType/Type1.jpg"/>
+         src="/attachments/images/FAQ/ADMIN/ObjectsType/Type1.jpg"/>
 </div>
 </p>
 <p>Например, <strong>Объектом</strong> может быть Бизнес-центр с адресом ул. Кирова 53, а <strong>Оборудованием</strong>
@@ -56,7 +56,7 @@ keywords:  тип объекта, тип оборудования, объект,
     <strong>Типа</strong> и установите в ней флажок <strong>Назначить объектом по умолчанию</strong>.</p>
 <div>
     <img style="margin: 0 auto; display: block; max-width: 80%;"
-         src="/attachments/images/FAQ/ADMIN/ObjectType/Type3.jpg"/>
+         src="/attachments/images/FAQ/ADMIN/ObjectsType/Type3.jpg"/>
 </div>
 
 </body>

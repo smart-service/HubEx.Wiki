@@ -8,6 +8,7 @@ keywords: создать участок, настроить участок, до
 В этом разделе вы узнаете:
 <html>
 <meta charset="utf-8">
+<meta name="keywords" content="создать участок, настроить участок, доступ в разрезе участков, hubex, хабекс, хубекс, хабикс"/>
 <!--<meta name="robots" content="nosnippet"> -->
 <ul>
     <li><a href="#place">Что такое участок</a>;</li>

@@ -46,10 +46,6 @@ keywords: геопозиция, местоположение, точка на к
         href="https://play.google.com/store/apps/details?id=ru.hubex.engineer">для Android</a> или <a
         href="https://apps.apple.com/ru/app/hubex-%D0%B4%D0%BB%D1%8F-%D1%81%D0%B5%D1%80%D0%B2%D0%B8%D1%81%D0%BD%D0%BE%D0%B9-%D1%81%D0%BB%D1%83%D0%B6%D0%B1%D1%8B/id1386688688">для
     iOS</a>.</p>
-<div>
-    <img style="margin: 0 auto; display: block; max-width: 95%;"
-         src="/attachments/images/FAQ/USER/GeoPosition/TicketMap.jpg"/>
-</div>
 
 <p>Откройте <strong>Заявку</strong> и нажмите на карту. Карта откроется на местоположении <strong>Объекта</strong>. С помощью бокового меню нажмите на иконку сотрудника, чтобы увидеть его текущую геопозицию.</p>
 

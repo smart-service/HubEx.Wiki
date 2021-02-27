@@ -1,61 +1,101 @@
 ---
-title: Геопозиция.
-description: Как использовать геопозицию, чтобы отслеживать своих сотрудников на карте, в системе HubEx?
+title: Текущая геопозиция сотрудников
+description:
+keywords: геопозиция, местоположение, точка на карте, сотрудник на карте, hubex, хабекс, хубекс, хабикс
 ---
-<!-- Yandex.Metrika counter -->
-<script type="text/javascript" >
-   (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
-   m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
-   (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
-   ym('{{ site.yandex_metric }}', "init", {
-        id:'{{ site.yandex_metric }}',
-        clickmap:true,
-        trackLinks:true,
-        accurateTrackBounce:true,
-        webvisor:true
-   });
-</script>
-<noscript><div><img src="https://mc.yandex.ru/watch/'{{ site.yandex_metric }}'" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
-<!-- /Yandex.Metrika counter -->
 
-#### Отслеживайте своих сотрудников на карте
-В этом разделе вы научитесь:
-- Использовать карту для нахождения геопозиции ваших сотрудников
-- Находить ваших сотрудников по определенным фильтрам
+#### Карта: текущая геопозиция сотрудников
+В этом разделе вы узнаете:
+<html>
+<meta charset="utf-8">
+<ul>
+    <li><a href="#geoposition">Как посмотреть текущее положение сотрудника на карте</a>;</li>
+    <li><a href="#nomap">Что делать, если в меню нет пункта Карты</a>;</li>
+    <li><a href="#noengineer">Что сделать, чтобы мобильные сотрудники отображались на карте</a>.</li>
 
-С помощью функции отслеживания сотрудников вы сможете сохранить много времени, также это поможет сократить количество заявок в сервисный центр! Теперь вам не надо звонить кому-либо, чтобы узнать, где же находится сервисный специалист, вы сможете самостоятельно это проверить с помощью встроенной геопозиции в систему HubEx.
+</ul>
+</html>
+<body>
 
-Для просмотра карты ваших сотрудников необходимо перейти на вкладку «Сотрудники», а затем в раздел «Карта». Перед вами отобразится карта со всеми сотрудниками, использующими мобильное приложение. На карте вы можете нажимать +/- чтобы приблизить/отдалить карту, а также расширить карту на полный экран и вернуться после этого к обычному размеру экрана.
+<p>С помощью отслеживания геопозиции сотрудников на карте вы сэкономите время на поиск сотрудника. Для руководства
+    контроль мобильных сотрудников - это сокращение рисков и сохранение репутации. Для исполнителей -
+    это прозрачность работы и опора для разрешения спорных рабочих ситуаций. </p>
 
-![geo1.png](/attachments/images/FAQ/USER/GeoPosition/geo1.png)
 
- Для того, чтобы найти конкретного сотрудника, вы можете отфильтровать список всех сотрудников по следующим параметрам: ФИО, должность, участок на котором работает сотрудник и вид работ, проводимый сотрудником.
+<h5 id="geoposition">Текущее положение сотрудника на карте</h5>
+<p>Текущая геопозиция сотрудников отображается в меню Карты - Карты. С помощью колесика мыши карту можно приближать и
+    отдалять. Карту можно развернуть для работы в полноэкранном режиме по кнопке Включить полноэкранный режим.</p>
 
- ![geo2.png](/attachments/images/FAQ/USER/GeoPosition/geo2.png)
+<div>
+    <img style="margin: 0 auto; display: block; max-width: 95%;"
+         src="/attachments/images/FAQ/USER/GeoPosition/Map.jpg"/>
+</div>
 
- Чтобы посмотреть информацию о сотруднике, вы можете нажать на иконку сотрудника, в таком случае отобразится всплывающее окошко с информацией о вашем сервисном специалисте.
+<p>С помощью фильтров можно найти необходимого сотрудника в считанные секунды. Используйте поиск по
+    ФИО, должности, участку, на котором работает сотрудник или вид работ, установленный в карточке Сотрудника. Для просмотра детальной информации о Сотруднике
+    нажжмите на его иконку на карте.</p>
 
- <div>
-   <img  style="margin: 0 auto; display: block; max-width: 100%;" src="/attachments/images/FAQ/USER/GeoPosition/geo3.png" />
- </div>
-
-Если вы захотите узнать местоположение сервисного специалиста по конкретной заявке, то в МП для этого вам следует перейти в выбранную вами заявку и нажать на окошко карты, изначально вы увидите местоположение объекта, однако нажав на иконку сотрудника, вы увидите, где находится инженер в данный момент времени.
-
-<div style="display: flex;">
-  <div>
-    <img style="margin: 0 auto; width: 308px;" src="/attachments/images/FAQ/USER/GeoPosition/geo4.png" />
-  </div>
-  <div>
-    <img style="margin: 0 auto; width: 308px;" src="/attachments/images/FAQ/USER/GeoPosition/geo5.png" />
-  </div>
+<div>
+    <img style="margin: 0 auto; display: block; max-width: 95%;"
+         src="/attachments/images/FAQ/USER/GeoPosition/Map2.jpg"/>
 </div>
 
 
+<p>В мобильном приложении инженера можно отследить текущее местоположение сотрудника относительно места заявки. </p>
+<p>Мобильное приложение инженера HubEx Engineer вы можете скачать <a
+        href="https://play.google.com/store/apps/details?id=ru.hubex.engineer">для Android</a> или <a
+        href="https://apps.apple.com/ru/app/hubex-%D0%B4%D0%BB%D1%8F-%D1%81%D0%B5%D1%80%D0%B2%D0%B8%D1%81%D0%BD%D0%BE%D0%B9-%D1%81%D0%BB%D1%83%D0%B6%D0%B1%D1%8B/id1386688688">для
+    iOS</a>.</p>
+<div>
+    <img style="margin: 0 auto; display: block; max-width: 95%;"
+         src="/attachments/images/FAQ/USER/GeoPosition/TicketMap.jpg"/>
+</div>
 
+<p>Откройте Заявку и нажмите на карту. Карта откроется на местоположении Объекта. С помощью бокового можно нажать на сотрудника, чтобы увидеть его текущую геопозицию.</p>
+
+<div>
+    <img style="margin: 0 auto; display: block; max-width: 95%;"
+         src="/attachments/images/FAQ/USER/GeoPosition/TicketMap.jpg"/>
+</div>
+
+<h5 id="nomap">Что делать, если в меню нет пункта Карты</h5>
+<p>Если в меню нет пункта <Strong>Карты</Strong>, настроить его отображение можно в
+    консоли администратора в меню <Strong>Администрирование - Роли</Strong>. Для этого выберите и откройте роль
+    пользователя, для
+    которого недоступны Карты.</p>
+<p>Найдите в разделе <Strong>Полномочия</Strong> блок <Strong>Карты</Strong> и установите для него флажок выбора.</p>
+
+<div>
+    <img style="margin: 0 auto; display: block; max-width: 60%;"
+         src="/attachments/images/FAQ/USER/GeoPosition/Role.jpg"/>
+</div>
+
+<p>Подробнее читайте в статьях: <a
+        href="https://wiki.hubex.ru/docs/FAQ/RU/admin/HowToEnterTheAdmin.html">Вход в колсоль администратора</a> и
+    <a href="https://wiki.hubex.ru/docs/FAQ/RU/admin/Roles.html">Настройка ролей</a>.</p>
+
+<h5 id="noengineer">Что сделать, чтобы мобильные сотрудники отображались на карте</h5>
+<p>Чтобы на карте отображались перемещения исполнителя, необходимо в карточке <Strong>Сотрудника</Strong> установить
+    флажок
+    <Strong>Отслеживание местоположения сотрудника</Strong>.</p>
+<div>
+    <img style="margin: 0 auto; display: block; max-width: 80%;"
+         src="/attachments/images/FAQ/USER/GeoPosition/Engineer.jpg"/>
+</div>
+<p>Сотрудник после установки на свой мобильный телефон приложение HubexEngineer должен разрешить приложению считывать
+    свою геопозицию. Это можно сделать в настройках телефона c операционной системой iOS и Android.</p>
+
+<div style="display: flex;">
+    <img style="margin: 0 auto; display: block; max-width: 30%;"
+         src="/attachments/images/FAQ/USER/GeoPosition/Mob1.jpg"/> <img
+        style="margin: 0 auto; display: block; max-width: 30%;"
+        src="/attachments/images/FAQ/USER/GeoPosition/Mob2.jpg"/>
+</div>
+</body>
 ### Следующие шаги:
- - [Рейтинги](./Ratings.md)
- - [История изменений](./HistoryOfChanges.md)
- - [Экспорт](./Export.md)
+- [Рейтинги](./Ratings.md)
+- [История изменений](./HistoryOfChanges.md)
+- [Экспорт](./Export.md)
 
- ___
- - [Перейти в меню](http://wiki.hubex.ru)
+___
+- [Перейти в меню](http://wiki.hubex.ru)

@@ -110,7 +110,7 @@
 ### Карты
 Просматривайте местоположение мобильных сотрудников на карте. А история перемещений поможет вам оценить эффективность их работы: время в пути, на заявке, остановки, простои.
 <h4 style="padding-left: 20px;">
-    <a href="/docs/FAQ/RU/user/GeoPosition.html">Карта</a>
+    <a href="/docs/FAQ/RU/user/GeoPosition.html">Карта: текущая геопозиция сотрудников</a>
 </h4>
 <h4 style="padding-left: 20px;">
     <a href="/docs/FAQ/RU/user/Geotracking.html">История перемещений</a>

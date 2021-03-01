@@ -39,21 +39,23 @@ keywords: виды работ, вид работ, автораспределен
         статье: <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/Checklists.html">Чек-листы</a>.
     </li>
     <li>значение параметра <Strong>Плановые трудозатраты</Strong> устанавливается, если вы хотите автоматический расчет срока окончания
-        работ на форме выбора исполнителя в <Strong>Заявке</Strong>;
-    <li>
-        <div>
+        работ на форме выбора исполнителя в <Strong>Заявке</Strong>;</li>
+    
+      <p>  <div>
             <img style="margin: 0 auto; display: block; max-width: 80%;"
                  src="/attachments/images/FAQ/ADMIN/WorkType/Engineer.jpg"/>
-        </div>
+        </div></p>
+
     <li>Время закрытия заявки установится автоматически после сохранения <Strong>Заявки</Strong> с выбранным <Strong>Видом работ</Strong>. <Strong>Крайний срок
         закрытия</Strong> также может быть установлен в настройке <Strong>Типа заявки</Strong>.
         При создании заявки система выберет наименьшее значение срока закрытия из установленного в <Strong>Типе заявке</Strong> и <Strong>Виде
         работ</Strong>. Подробнее читайте в статье: <a href="https://wiki.hubex.ru/docs/FAQ/RU/admin/TicketType.html">Типы заявок</a>;
     </li>
-    <div>
+   <p> <div>
         <img style="margin: 0 auto; display: block; max-width: 80%;"
              src="/attachments/images/FAQ/ADMIN/WorkType/Ticket.jpg"/>
-    </div>
+    </div></p>
+
     <li><Strong>Основной вид работ</Strong> будет подставляться по умолчанию при создании нового <Strong>Объекта</Strong>;</li>
     <li><Strong>Не опубликованный вид работ</Strong> не будет доступен пользователям для работы в системе. <Strong>Опубликованный вид работ</Strong> можно
         будет указать у <Strong>Объекта</Strong>, <Strong>Сотрудника</Strong> и выбрать в <Strong>Заявке</Strong>.
@@ -63,10 +65,10 @@ keywords: виды работ, вид работ, автораспределен
         <Strong>Выполнение</Strong>, при необходимости ее можно изменить вручную.
         Подробнее читайте в статье: <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/ActOFAcceptance.html">Акт выполненных работ</a>.
     </li>
-    <div>
+   <p> <div>
         <img style="margin: 0 auto; display: block; max-width: 80%;"
              src="/attachments/images/FAQ/ADMIN/WorkType/Works.jpg"/>
-    </div>
+    </div></p>
 </ul>
 
 <p>Если заполнить <Strong>Виды работ</Strong> в карточке <Strong>Сотрудника</Strong> (исполнителя), то можно настроить правила автораспределения на

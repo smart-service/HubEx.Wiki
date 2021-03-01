@@ -46,7 +46,7 @@ keywords: виды работ, вид работ, автораспределен
                  src="/attachments/images/FAQ/ADMIN/WorkType/Engineer.jpg"/>
         </div>
     <li>Время закрытия заявки установится автоматически после сохранения <Strong>Заявки</Strong> с выбранным <Strong>Видом работ</Strong>. <Strong>Крайний срок
-        закрытия<Strong> также может быть установлен в настройке <Strong>Типа заявки</Strong>.
+        закрытия</Strong> также может быть установлен в настройке <Strong>Типа заявки</Strong>.
         При создании заявки система выберет наименьшее значение срока закрытия из установленного в <Strong>Типе заявке</Strong> и <Strong>Виде
         работ</Strong>. Подробнее читайте в статье: <a href="https://wiki.hubex.ru/docs/FAQ/RU/admin/TicketType.html">Типы заявок</a>;
     </li>

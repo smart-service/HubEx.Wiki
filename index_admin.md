@@ -54,7 +54,7 @@
 
 ### Настройки системы
 В настройках системы можно создать дополнительные поля для Объектов, Заявок, а также атрибуты для Чек-листов. 
-<h4 style="padding-left: 20px;"><a href="/docs/FAQ/RU/user/AdditionalFieldsObject.html">Создание дополнительных полей в объекте</a>
+<h4 style="padding-left: 20px;"><a href="/docs/FAQ/RU/user/AdditionalFieldsObject.html">Создание дополнительных полей в объекте</a></h4>
 <h4 style="padding-left: 20px;"><a href="/docs/FAQ/RU/user/AdditionalFields.html">Создание дополнительных полей в заявке</a></h4>
 <h4 style="padding-left: 20px;"><a href="/docs/FAQ/RU/admin/TicketAttribute.html">Создание атрибутов для чек-листа</a></h4>
 

@@ -20,7 +20,7 @@ keywords: атрибут чек-листа, дополнительные пол�
     поле</Strong>. </p>
 <div>
     <img style="margin: 0 auto; display: block; max-width: 80%;"
-         src="/attachments/images/FAQ/USER/TicketAttribute/AddAtt.jpg"/>
+         src="/attachments/images/FAQ/ADMIN/TicketAttribute/AddAtt.jpg"/>
 </div>
 <p>Заполните параметры нового атрибута:</p>
 <ul>

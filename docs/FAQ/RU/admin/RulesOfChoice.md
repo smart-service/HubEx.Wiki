@@ -80,7 +80,7 @@ keywords: правило выбора исполнителя, правила в�
     <p>В настройках <strong>Стадии заявки</strong>
     задайте параметр <strong>Правило выбора исполнителя</strong> равным созданному правилу и сохраните действия.</p>
 <div>
-    <img style="margin: 0 auto; display: block; max-width: 80%;"
+    <img style="margin: 0 auto; display: block; max-width: 60%;"
          src="/attachments/images/FAQ/ADMIN/RulesOfChoice/StageTicket.jpg"/>
 </div>
 

@@ -64,11 +64,11 @@ keywords: служебные пользователи, сервисные уче
         В настройках Анонимного пользователя укажите,
         какая <Strong>Роль</Strong> будет использована для незарегистрированного пользователя. Например,
         <Strong>Заказчик</Strong>. Укажите <Strong>Участки</Strong>, по которым возможно создание <Strong>Заявок</Strong>.
-        </p>
-        <div>
+      
+       <p> <div>
             <img style="margin: 0 auto; display: block; max-width: 90%;"
                  src="/attachments/images/FAQ/USER/SelfRegister/Anonym.jpg"/>
-        </div>
+        </div></p>
     </li>
 </ol>
 </body>

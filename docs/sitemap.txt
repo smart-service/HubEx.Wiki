@@ -71,6 +71,7 @@ https://wiki.hubex.ru/docs/FAQ/RU/user/HowToMakePassport.html
 https://wiki.hubex.ru/docs/FAQ/RU/user/SelfRegister.html
 https://wiki.hubex.ru/docs/FAQ/RU/user/QRcodeMain.html
 https://wiki.hubex.ru/docs/FAQ/RU/user/CustomerAgreement.html
+https://wiki.hubex.ru/docs/FAQ/RU/admin/Skills.html
 
 
 

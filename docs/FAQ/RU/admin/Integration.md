@@ -1,46 +1,96 @@
+---
+title: Интеграция с Битрикс 24
+description: В системе HubEx предусмотрена интеграция с Битрикс 24. При создании Заявки в HubEx, она также будет появляться в Битрикс 24 на вкладке
+Задачи и проекты (на сайте Битрикс 24). Рассмотрим по шагам настройку интеграции с Битрикс 24.
+keywords: битрикс 24, интеграция, интеграция с битрикс 24, hubex, хабекс, хубекс, хабикс
+---
+
 #### Интеграция с Битрикс 24
-В этом разделе вы научитесь:
-- Пошаговой интеграции с Битрикс 24.
-
-В системе HubEx возможна интеграция с Битрикс 24. Рассмотрим подробнее, как это сделать:
 <html>
+<meta charset="utf-8">
+
+</html>
+
 <body>
-<ol type="1">
-<li> Для начала вам необходимо зайти в консоль администратора, сделать это можно, нажав на иконку пользователя в правом верхнем углу, где затем нажать «Консоль администратора».</li>
-<img src="/attachments/images/FAQ/ADMIN/Integration/integr1.jpg"/>
-<p>После того, как вы зашли в Консоль Администратора, вам потребуется зайти в разделе "Интеграция" на вкладку «Служебные пользователи».</p>
-<img src="/attachments/images/FAQ/ADMIN/Integration/integr2.png"/>
-<li> Теперь вам необходимо активировать Пользователя API. Переключив тумблер, выберите какие роли получат возможность использовать интеграцию со сторонними системами (рекомендуем выдавать такие права только Начальнику сервисной службы, либо Администратору). Также выберите участки, информацию по которым хотите интегрировать. Осталось нажать на кнопку «Сгенерировать» и скачать токен доступа.</li>
-<img src="/attachments/images/FAQ/ADMIN/Integration/integr3.png"/>
+<p>В системе HubEx предусмотрена интеграция с Битрикс 24. При создании <strong>Заявки</strong> в HubEx, она также будет появляться в Битрикс 24 на вкладке
+    <strong>Задачи и проекты</strong> (на сайте Битрикс 24).</p>
+<p> Рассмотрим по шагам настройку интеграции с Битрикс 24:</p>
 
-<p>В скачанном текстовом документе скопируйте ключ.</p>
-<li> Теперь зайдите в разделе «Интеграция» на вкладку «Ключи».
-Создайте 2 ключа: </li>
-<ul>
-<li> С названием «hubex_token», в поле «Значение» которого введите код из скачанного файла;</li>
-<img src="/attachments/images/FAQ/ADMIN/Integration/integr4.png"/>
+<ol>
+    <li>Перейдите в <a href="https://wiki.hubex.ru/docs/FAQ/RU/admin/HowToEnterTheAdmin.html">консоли
+        администратора</a> в меню <strong>Интеграция - Служебные пользователи</strong>.
+    </li>
 
-<li> С названием «request_path», в поле «Значение» которого введите «HubEx.INT.Bitrix24.Api/Api/webhook».</li>
-<img src="/attachments/images/FAQ/ADMIN/Integration/integr5.png"/>
-</ul>
-После создания двух ключей вкладка «Ключи» должна выглядеть так:
-<img src="/attachments/images/FAQ/ADMIN/Integration/integr6.png"/>
+       <li>Активируйте <strong>Пользователя API</strong>. Укажите, какие <strong>Роли</strong> получат
+        возможность интеграции со сторонними системами (рекомендуется выдавать такие права только Начальнику
+        сервисной службы и Администратору). Также выберите <strong>Участки</strong>, информацию по которым хотите интегрировать.
+        Нажмите кнопку <strong>Сгенерировать</strong> и скачайте сформированный токен доступа.
+           <p>В скачанном текстовом документе скопируйте ключ.</p>
+    </li>
+    <p> <div>
+    <img style="margin: 0 auto; display: block; max-width: 80%;"
+         src="/attachments/images/FAQ/ADMIN/Integration/API.jpg"/>
+</div></p>
 
-<li> Теперь перейдите на сайт Битрикс 24, где, например, с помощью поиска перейдите на вкладку «Вебхуки». Нажмите на кнопку «Добавить вебхук», после чего выберите «Входящий вебхук».
-На открывшейся странице с правами доступа, вам необходимо выбрать только пункты «Задачи» и «Задачи(расширенные права)», а затем внизу страницы нажать кнопку сохранить. </li>
-<img src="/attachments/images/FAQ/ADMIN/Integration/integr7.png"/>
+     <li>Перейдите в меню консоли <strong>Интеграция - Ключи</strong> и создайте два ключа:
 
-<p>После того, как вы сохранили новый вебхук, у вас появится ссылка, которую вам необходимо скопировать до «/profile/».</p>
-<img src="/attachments/images/FAQ/ADMIN/Integration/integr8.png"/>
-<li> Осталось зайти обратно в Консоль администратора на вкладку «Webhook'и», где нажать «Добавить webhook».</li>
-Укажите желаемое название для нового Вебхука, а затем в поле «URL webhook'a» введите «http://localhost:19081/${request_path}/${hubex_token}/?bitrix24Url=», где после знака равно (без пробелов) вставьте адрес, скопированный с Битрикс 24. Осталось привязать новый Вебхук к событию или же к определенной стадии заявки. Нажмите кнопку «Активировать», чтобы сразу же использовать новый вебхук. После введения всей информации, не забудьте нажать кнопку «Сохранить».
-<img src="/attachments/images/FAQ/ADMIN/Integration/integr9.png"/>
+    <ul>
+        <li>Первый ключ: с названием <strong>hubex_token</strong>, в поле <strong>Значение</strong> введите код из скачанного файла;</li>
+        <p> <div>
+        <img style="margin: 0 auto; display: block; max-width: 60%;"
+             src="/attachments/images/FAQ/ADMIN/Integration/integr4.png"/>
+    </div></p>
 
-<li> Теперь при создании заявки в HubEx, заявка будет появляться и в Битрикс 24. Чтобы найти её, достаточно зайти на вкладку «Задачи и проекты» на сайте Битрикс 24. Стоит отметить, что если у вас уже были созданы заявки, то новая заявка отобразится в конце списка. Нажав на название заявки, вы сможете увидеть подробную информацию. </li>
-<img src="/attachments/images/FAQ/ADMIN/Integration/integr10.png"/>
+        <li>Второй ключ: с названием <strong>request_path</strong>, в поле Значение введите <strong>HubEx.INT.Bitrix24.Api/Api/webhook</strong>.</li>
+        <p> <div>
+        <img style="margin: 0 auto; display: block; max-width: 60%;"
+             src="/attachments/images/FAQ/ADMIN/Integration/integr5.png"/>
+    </div></p>
+    </ul>
+         <p>После создания двух ключей вкладка <strong>Ключи</strong> должна выглядеть так:</p>
+         <p> <div>
+             <img style="margin: 0 auto; display: block; max-width: 60%;"
+                  src="/attachments/images/FAQ/ADMIN/Integration/Keys.jpg"/>
+         </div></p>
+    </li>
+    <li>Перейдите на сайт Битрикс 24 на вкладку <strong>Вебхуки</strong>. Нажмите на кнопку <strong>Добавить вебхук</strong> и выберите <strong>Входящий вебхук</strong>.
+        На странице с правами доступа выбрерите только следующие пункты: <strong>Задачи</strong> и <strong>Задачи(расширенные
+        права)</strong>. Внизу страницы нажмите кнопку <strong>Сохранить</strong>.
+    </li>
+    <p> <div>
+    <img style="margin: 0 auto; display: block; max-width: 95%;"
+         src="/attachments/images/FAQ/ADMIN/Integration/integr7.png"/>
+</div></p>
+
+    <p>После того, как вы сохранили новый вебхук, у вас появится ссылка, которую вам необходимо скопировать до текста
+        <strong>/profile/</strong>.</p>
+    <p> <div>
+    <img style="margin: 0 auto; display: block; max-width: 95%;"
+         src="/attachments/images/FAQ/ADMIN/Integration/integr8.png"/>
+</div></p>
+
+    <li> Вернитесь в HubEx в меню консоли администратора <strong>Интеграция - Webhook'и</strong>. Нажмите кнопку <strong>Добавить webhook</strong>.
+    Укажите желаемое название для нового вебхука, а затем в поле <strong>URL webhook'a</strong> введите:
+    http://localhost:19081/${request_path}/${hubex_token}/?bitrix24Url=. После знака равно (без пробелов) вставьте
+    адрес, скопированный с Битрикс 24.
+        <p>Привяжите новый вебхук к событию или <strong>Стадии заявки</strong>.
+    Нажмите кнопку <strong>Активировать</strong> и <strong>Сохранить</strong>.</p> </li>
+    <p> <div>
+    <img style="margin: 0 auto; display: block; max-width: 70%;"
+         src="/attachments/images/FAQ/ADMIN/Integration/integr9.png"/>
+</div></p>
+
+    <li> Теперь при создании <strong>Заявки</strong> в HubEx, она будет автоматически создаваться в Битрикс 24. <strong>Заявки</strong> в Битрикс 24 находятся на
+        вкладке <strong>Задачи и проекты</strong> (на сайте Битрикс 24). Если в списке уже есть <strong>Заявки</strong>, то новые
+        будут отображаться в конце списка. По нажатию на название <strong>Заявки</strong> вы сможете увидеть подробную информацию.
+    </li>
+    <p> <div>
+    <img style="margin: 0 auto; display: block; max-width: 95%;"
+         src="/attachments/images/FAQ/ADMIN/Integration/integr10.png"/>
+</div></p>
 
 </ol>
 </body>
-</html>
+
 ____
 - [Перейти в меню](http://wiki.hubex.ru)

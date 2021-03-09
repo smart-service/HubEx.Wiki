@@ -23,7 +23,7 @@ keywords: табличное представление заявок, карто
     <li><strong>Карточное отображение заявок</strong>: представляет список <strong>Заявок</strong> в виде отдельных карточек;</li>
     <p>
     <div>
-        <img style="margin: 0 auto; display: block; max-width: 80%;"
+        <img style="margin: 0 auto; display: block; max-width: 95%;"
              src="/attachments/images/FAQ/USER/Filters/CardList.jpg"/>
     </div>
     </p>
@@ -32,13 +32,13 @@ keywords: табличное представление заявок, карто
     </li>
     <p>
     <div>
-        <img style="margin: 0 auto; display: block; max-width: 80%;"
+        <img style="margin: 0 auto; display: block; max-width: 95%;"
              src="/attachments/images/FAQ/USER/Filters/TableList.jpg"/>
     </div>
     </p>
 
    <p><div>
-        <img style="margin: 0 auto; display: block; max-width: 80%;"
+        <img style="margin: 0 auto; display: block; max-width: 95%;"
              src="/attachments/images/FAQ/USER/Filters/TableList2.jpg"/>
 </div></p>
 </ol>
@@ -50,7 +50,7 @@ keywords: табличное представление заявок, карто
     правом верхнем углу в меню <strong>Все
         заявки</strong>.</p>
 <div>
-    <img style="margin: 0 auto; display: block; max-width: 100%;"
+    <img style="margin: 0 auto; display: block; max-width: 95%;"
          src="/attachments/images/FAQ/USER/Filters/FiltersButton.jpg"/>
 </div>
 
@@ -67,7 +67,7 @@ keywords: табличное представление заявок, карто
     поле <strong>Объекты</strong>
     выберите оборудование и нажмите на кнопку <strong>Применить</strong>.</p>
 <div>
-    <img style="margin: 0 auto; display: block; max-width: 100%;"
+    <img style="margin: 0 auto; display: block; max-width: 95%;"
          src="/attachments/images/FAQ/USER/Filters/FilterObj.jpg"/>
 </div>
 
@@ -95,7 +95,7 @@ keywords: табличное представление заявок, карто
 <p>Быстрый фильтр отобразится над списком всех <strong>Заявок</strong>.</p>
 
 <div>
-    <img style="margin: 0 auto; display: block; max-width: 100%;"
+    <img style="margin: 0 auto; display: block; max-width: 95%;"
          src="/attachments/images/FAQ/USER/Filters/FastFilters.jpg"/>
 </div>
 

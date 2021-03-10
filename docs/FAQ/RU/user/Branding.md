@@ -12,13 +12,13 @@ keywords: брендирование, брэндирование, бренд к�
 
 </html>
 <body>
-<p>Web- и мобильное приложение HubEx вы можете забрендировать с помощью собственного логотипа.<p>
+<p>Web- и мобильное приложение HubEx вы можете забрендировать с помощью собственного логотипа.</p>
  <p> <div>
-             <img style="margin: 0 auto; display: block; max-width: 70%;"
+             <img style="margin: 0 auto; display: block; max-width: 80%;"
                   src="/attachments/images/FAQ/USER/Branding/LogoMain.jpg"/>
          </div></p>
           <p> <div>
-             <img style="margin: 0 auto; display: block; max-width: 50%;"
+             <img style="margin: 0 auto; display: block; max-width: 30%;"
                   src="/attachments/images/FAQ/USER/Branding/LogoMob.jpg"/>
          </div></p>
 

@@ -76,7 +76,7 @@ keywords: расход материалов, отчет по расходу, р�
     <p>
     <div>
         <img style="margin: 0 auto; display: block; max-width: 80%;"
-             src="/attachments/images/FAQ/USER/Materials/MobMaterials.jpg"/>
+             src="/attachments/images/FAQ/USER/Withdrawals/MobMaterials.jpg"/>
     </div>
     </p>
     <li>с помощью переключателя выберите страницу <strong>Материалы</strong>. Вы можете заполнить все страницы выполненной работы по
@@ -86,7 +86,7 @@ keywords: расход материалов, отчет по расходу, р�
     <p>
     <div>
         <img style="margin: 0 auto; display: block; max-width: 80%;"
-             src="/attachments/images/FAQ/USER/Materials/MobMaterials2.jpg"/>
+             src="/attachments/images/FAQ/USER/Withdrawals/MobMaterials2.jpg"/>
     </div>
     </p>
     <li>нажмите кнопку <strong>Добавить материалы</strong> и укажите, какие материалы были израсходованы и в каком количестве, затем
@@ -96,9 +96,9 @@ keywords: расход материалов, отчет по расходу, р�
     </li>
     <div>
         <img style="margin: 0 auto; display: block; max-width: 80%;"
-             src="/attachments/images/FAQ/USER/Materials/MobMaterials3.jpg"/>
+             src="/attachments/images/FAQ/USER/Withdrawals/MobMaterials3.jpg"/>
     </div>
-    </p>
+  
 
 </ul>
 

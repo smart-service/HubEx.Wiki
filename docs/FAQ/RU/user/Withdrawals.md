@@ -22,7 +22,7 @@ keywords: расход материалов, отчет по расходу, р�
     <li>нажмите кнопку <strong>Добавить работу</strong>;</li>
     <p>
     <div>
-        <img style="margin: 0 auto; display: block; max-width: 80%;"
+        <img style="margin: 0 auto; display: block; max-width: 90%;"
              src="/attachments/images/FAQ/USER/Withdrawals/WebMaterials.jpg"/>
     </div>
     </p>
@@ -31,7 +31,7 @@ keywords: расход материалов, отчет по расходу, р�
     </li>
     <p>
     <div>
-        <img style="margin: 0 auto; display: block; max-width: 80%;"
+        <img style="margin: 0 auto; display: block; max-width: 90%;"
              src="/attachments/images/FAQ/USER/Withdrawals/WebMaterials2.jpg"/>
     </div>
     </p>
@@ -44,7 +44,7 @@ keywords: расход материалов, отчет по расходу, р�
     </li>
     <p>
     <div>
-        <img style="margin: 0 auto; display: block; max-width: 80%;"
+        <img style="margin: 0 auto; display: block; max-width: 90%;"
              src="/attachments/images/FAQ/USER/Withdrawals/WebMaterials3.jpg"/>
     </div>
     </p>
@@ -54,7 +54,7 @@ keywords: расход материалов, отчет по расходу, р�
     </li>
     <p>
     <div>
-        <img style="margin: 0 auto; display: block; max-width: 80%;"
+        <img style="margin: 0 auto; display: block; max-width: 90%;"
              src="/attachments/images/FAQ/USER/Withdrawals/WebMaterials4.jpg"/>
     </div>
     </p>
@@ -108,7 +108,7 @@ keywords: расход материалов, отчет по расходу, р�
     <strong>Сотрудником</strong> и на каком <strong>Объекте</strong> они были использованы. Из таблицы расхода вы можете открыть любую <strong>Заявку</strong>, щелкнув
     мышкой по ее номеру.</p>
 <div>
-    <img style="margin: 0 auto; display: block; max-width: 80%;"
+    <img style="margin: 0 auto; display: block; max-width: 95%;"
          src="/attachments/images/FAQ/USER/Withdrawals/Mat.jpg"/>
 </div>
 

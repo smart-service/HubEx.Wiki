@@ -150,10 +150,11 @@
 ### Склады
 В системе HubEx вы можете отслеживать расход материалов и актуальное количество остатков. А ваши сотрудники могут указывать количество материалов использованных по Заявке.
 <h4 style="padding-left: 20px;">
-    <a href="/docs/FAQ/RU/user/Materials.html">Загрузка материалов в HubEx</a>
+    <a href="/docs/FAQ/RU/user/Materials.html">Загрузка материалов и создание складов</a>
 </h4>
 <h4 style="padding-left: 20px;">
-    <a href="/docs/FAQ/RU/user/Withdrawals.html">Расходование материалов по заявке и просмотр расходов</a>
+    <a href="/docs/FAQ/RU/user/Withdrawals.html">Расход материалов по заявке, отчет по
+        расходу</a>
 </h4>
 <h4 style="padding-left: 20px;">
     <a href="/docs/FAQ/RU/user/TicketWithMaterials.html">Подача заявки с указанием рекомендованных материалов</a>

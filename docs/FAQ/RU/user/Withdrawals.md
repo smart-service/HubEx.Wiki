@@ -92,10 +92,10 @@ keywords: расход материалов, отчет по расходу, р�
         выполненную работу нажмите <strong>Далее</strong>. Чтобы сохранить текущие изменения нажмите на значок галочки в верхнем правом
         углу.
     </li>
-    <div>
+  <p>  <div>
         <img style="margin: 0 auto; display: block; max-width: 80%;"
              src="/attachments/images/FAQ/USER/Withdrawals/MobMaterials3.jpg"/>
-    </div>
+    </div></p>
   
 
 </ul>
@@ -109,7 +109,7 @@ keywords: расход материалов, отчет по расходу, р�
     мышкой по ее номеру.</p>
 <div>
     <img style="margin: 0 auto; display: block; max-width: 80%;"
-         src="/attachments/images/FAQ/USER/Materials/Mat.jpg"/>
+         src="/attachments/images/FAQ/USER/Withdrawals/Mat.jpg"/>
 </div>
 
 </body>

@@ -31,7 +31,7 @@ keywords: доступ к складам, доступ к материалам, 
 <p>Также здесь вы можете позволить или запретить экспорт, импорт материалов и т.д.</p>
 <div>
     <img style="margin: 0 auto; display: block; max-width: 90%;"
-         src="/attachments/images/FAQ/ADMIN/SettingsWithMaterials/Role.jpg"/>
+         src="/attachments/images/FAQ/USER/SettingsWithMaterials/Role.jpg"/>
 </div>
 
 
@@ -47,7 +47,7 @@ keywords: доступ к складам, доступ к материалам, 
 
 <div>
     <img style="margin: 0 auto; display: block; max-width: 90%;"
-         src="/attachments/images/FAQ/ADMIN/SettingsWithMaterials/Role2.jpg"/>
+         src="/attachments/images/FAQ/USER/SettingsWithMaterials/Role2.jpg"/>
 </div>
 
 <h5 id="mias">Настрйока доступа ко вкладке Необходимые материалы в Заявке</h5>

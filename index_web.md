@@ -160,7 +160,7 @@
     <a href="/docs/FAQ/RU/user/TicketWithMaterials.html">Подача заявки с указанием рекомендованных материалов</a>
 </h4>
 <h4 style="padding-left: 20px;">
-    <a href="/docs/FAQ/RU/user/SettingsWithMaterials.html">Настройки для работы с материалами</a>
+    <a href="/docs/FAQ/RU/user/SettingsWithMaterials.html">Настройки системы для работы с материалами</a>
 </h4>
 
 ____

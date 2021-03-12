@@ -30,12 +30,12 @@ keywords: необходимые материалы, рекомендованн�
     осуществлять с отбором по определенному
     складу или всем складам. Укажите количество и нажмите кнопку <strong>Выбрать</strong>. </p>
 <div>
-    <img style="margin: 0 auto; display: block; max-width: 80%;"
+    <img style="margin: 0 auto; display: block; max-width: 90%;"
          src="/attachments/images/FAQ/USER/TicketWithMaterials/MaterialsADD.jpg"/>
 </div>
 <p>
 <div>
-    <img style="margin: 0 auto; display: block; max-width: 80%;"
+    <img style="margin: 0 auto; display: block; max-width: 90%;"
          src="/attachments/images/FAQ/USER/TicketWithMaterials/MaterialsADD2.jpg"/>
 </div>
 </p>
@@ -79,14 +79,14 @@ keywords: необходимые материалы, рекомендованн�
             href="https://wiki.hubex.ru/docs/FAQ/RU/admin/ElementsOfInterface.html">Поля на форме заявки: настройка
         доступа к полям заявки</a>.</p>
 <div>
-    <img style="margin: 0 auto; display: block; max-width: 80%;"
+    <img style="margin: 0 auto; display: block; max-width: 90%;"
          src="/attachments/images/FAQ/USER/TicketWithMaterials/Roles.jpg"/>
 </div>
 
 <p>При переходе на стадию <strong>В работе</strong> или <strong>Выехал на объект</strong> для <strong>Роли</strong> сервисного
     специалиста можно установить настройку <strong>RWM (чтение и обязательная запись)</strong>, чтобы исполнитель обязательно просмотрел <strong>Необходимые материалы</strong>.</p>
 <div>
-    <img style="margin: 0 auto; display: block; max-width: 80%;"
+    <img style="margin: 0 auto; display: block; max-width: 90%;"
          src="/attachments/images/FAQ/USER/TicketWithMaterials/Roles2.jpg"/>
 </div>
 </body>

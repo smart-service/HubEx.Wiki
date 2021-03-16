@@ -13,7 +13,7 @@ keywords: необходимо выбрать родительский объе�
 <p>При создании нового <Strong>Объекта</Strong> (оборудования) вы можете столкнуться с проблемой <Strong>Для такого типа оборудования
     необходимо выбрать родительский объект</Strong>.</p>
 <div>
-    <img style="margin: 0 auto; display: block; max-width: 60%;"
+    <img style="margin: 0 auto; display: block; max-width: 90%;"
          src="/attachments/images/FAQ/USER/TheDifferenceBetweenObjectTypes/Problem.jpg"/>
 </div>
 

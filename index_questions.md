@@ -31,7 +31,7 @@
 
 <h4><a href="/docs/FAQ/RU/user/HowToMakePassport.html">Создание паспорта объекта с возможностью саморегистрации</a></h4>
 
-<h4><a href="/docs/FAQ/RU/user/HowToManageNotifications.html">Как настроить уведомление на почту о выполнении заявки</a></h4>
+<h4><a href="/docs/FAQ/RU/user/HowToManageNotifications.html">Как настроить уведомление на почту о выполнении заявки?</a></h4>
 
 <h4><a href="/docs/FAQ/RU/user/HowToDealWithWhiteScreen.html">Что делать, если при создании заявки/на некоторой стадии форма заявки пустая?</a></h4>
 
@@ -39,7 +39,7 @@
 
 <h4><a href="/docs/FAQ/RU/user/HowToSendInvitation.html">Как отправлять приглашение для сотрудника/заказчика?</a></h4>
 
-<h4><a href="/docs/FAQ/RU/user/SuperAndUsualUser.html">Вход под учётной записью "Владельца тенанта" и обычного пользователя тенанта.</a></h4>
+<h4><a href="/docs/FAQ/RU/user/SuperAndUsualUser.html">Вход под учётной записью "Владельца тенанта" и обычного пользователя тенанта</a></h4>
 
 <h4><a href="/docs/FAQ/RU/admin/HowToEnterTheAdmin.html">Как войти в консоль администратора?</a></h4>
 

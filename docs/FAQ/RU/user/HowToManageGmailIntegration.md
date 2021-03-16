@@ -1,49 +1,66 @@
-#### Как настроить интеграцию с Gmail (почта Google):
-В этом разделе вы научитесь:
+---
+title: Как настроить интеграцию с Gmail (почта Google)?
+description: 
+keywords: интеграция google, неразрешенные приложения, доступ к почте, hubex, хабекс, хубекс, хабикс
+---
+
+
+#### Как настроить интеграцию с Gmail (почта Google)?
 <html>
-  <meta charset="utf-8">
-  <title>Быстрый переход внутри документа</title>
- <ul>
-       <li><a href="#gmail">Настраивать интеграцию HubEx с Gmail.</a></li>
- </ul>
+<meta charset="utf-8">
+
 </html>
 
-<ol>
-<li> Настройка интеграции Hubex с почтой</li>
-Для начала Вам необходимо произвести настройку HubEx с почтой, подробнее про это читайте <a href="https://wiki.hubex.ru/docs/FAQ/RU/admin/TicketMail.html"> здесь.</a>
+<body>
+<p>Интеграция с HubEx по электронной почте позволяет создавать <Strong>Заявки</Strong> с помощью получения электронных писем от ваших
+    <Strong>Заказчиков</Strong>. Подробная инструкция по настройке интеграции в HubEx описана в статье <a
+            href="https://wiki.hubex.ru/docs/FAQ/RU/admin/TicketMail.html">Интеграция по электронной почте, подача
+        заявок по электронной почте</a>. </p>
+<p>В рамках данной статьи мы рассмотрим настройки на стороне Google. Ппосле настроек интеграции с почтой Gmail по статье статье <a
+            href="https://wiki.hubex.ru/docs/FAQ/RU/admin/TicketMail.html">Интеграция по электронной почте, подача
+        заявок по электронной почте</a>, на почту вы получите следующее письмо:
 
-<h5 id="gmail">Интеграция HubEx с Gmail.</h5>
+    <div>
+        <img style="margin: 0 auto; display: block; max-width: 95%;"
+             src="/attachments/images/FAQ/USER/HowToManageGmailIntegration/htmgi1.jpg"/>
+    </div>
 
-<li> Выдача доступа к аккаунту "неразрешенным приложениям".</li>
-Практически сразу после того, как Вы настроете интеграцию с почтой Gmail, Вам придет письмо, в котором будет следующая информация:
+    <p>Данное письмо означает, что система Google распознала попыткувхода в ваш аккаунт. Попытку входа осуществляет
+        система HubEx, поэтому вам необходимо разрешить доступ к почте "неразрешенным приложениям". Сделать это можно
+        через настройки аккаунта Google:</p>
 
-<img src="/attachments/images/FAQ/USER/HowToManageGmailIntegration/htmgi1.jpg"/>
+    <ol>
+        <li>нажмите на иконку вашего аватара, и выберите пункт <Strong>Управление аккаунтом Google</Strong>. Откроется
+            главная страница настроек, в меню которой необходимо выбрать пункт <Strong>Безопасность</Strong>;
+        </li>
+        <div>
+            <img style="margin: 0 auto; display: block; max-width: 95%;"
+                 src="/attachments/images/FAQ/USER/HowToManageGmailIntegration/htmgi2.jpg"/>
+        </div>
 
-<p>Это происходит, поскольку система Google распознает, что кто-то пытается войти в Ваш аккаунт. Поскольку это делает система HubEx, Вам необходимо разрешить доступ к почте "неразрешенным приложениям". Сделать это можно через настройки аккаунта Google.</p>
+        <li>найдите внизу раздел <Strong>Ненадежные приложения, у которых есть доступ к аккаунту</Strong>;</li>
+        <div>
+            <img style="margin: 0 auto; display: block; max-width: 95%;"
+                 src="/attachments/images/FAQ/USER/HowToManageGmailIntegration/htmgi3.jpg"/>
+        </div>
 
-<ol>
-<li>Нажмите на иконку Вашего аватара, после чего нажмите "Управление аккаунтом Google". Перед Вами откроется главная страница настроек, после чего в боковом меню, Вам необходимо нажать "Безопасность"</li>
+        <li>нажмите кнопку <Strong>Открыть доступ (не рекомендуется)</Strong>, на следующей странице
+            переведите тумблер в положение <Strong>Включить</Strong>;
+        </li>
+        <div>
+            <img style="margin: 0 auto; display: block; max-width: 95%;"
+                 src="/attachments/images/FAQ/USER/HowToManageGmailIntegration/htmgi4.png"/>
+        </div>
 
-<img src="/attachments/images/FAQ/USER/HowToManageGmailIntegration/htmgi2.jpg"/>
+        <li>в конце вы получите на почту следующее письмо:</li>
+        <div>
+            <img style="margin: 0 auto; display: block; max-width: 95%;"
+                 src="/attachments/images/FAQ/USER/HowToManageGmailIntegration/htmgi5.jpg"/>
+        </div>
 
-<li>Пролистайте вниз до раздела "Ненадежные приложения, у которых есть доступ к аккаунту".</li>
-
-<img src="/attachments/images/FAQ/USER/HowToManageGmailIntegration/htmgi3.png"/>
-
-<li>После чего выдайте доступ, нажав кнопку "Открыть доступ (не рекомендуется)", а на следующей странице, переведите тумблер в положение "Включить".</li>
-
-<img src="/attachments/images/FAQ/USER/HowToManageGmailIntegration/htmgi4.png"/>
-
-<li>Проделав все данные шаги, Вы получить на почту следующее письмо:</li>
-
-<img src="/attachments/images/FAQ/USER/HowToManageGmailIntegration/htmgi5.jpg"/>
-
-</ol>
-</ol>
-
-
-
-
+    </ol>
+<p>Настройка интеграции на стороне Google завршена.</p>
+</body>
 
 ___
 - [Перейти в меню](http://wiki.hubex.ru)

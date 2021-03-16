@@ -33,7 +33,7 @@
 
 <h4><a href="/docs/FAQ/RU/user/HowToManageNotifications.html">Как настроить уведомление на почту о выполнении заявки</a></h4>
 
-<h4><a href="/docs/FAQ/RU/user/HowToDealWithWhiteScreen.html">Что делать, если при создании заявки/на некоторой стадии появился белый экран?</a></h4>
+<h4><a href="/docs/FAQ/RU/user/HowToDealWithWhiteScreen.html">Что делать, если при создании заявки/на некоторой стадии форма заявки пустая?</a></h4>
 
 <h4><a href="/docs/FAQ/RU/user/TheDifferenceBetweenObjectTypes.html">Что делать, если при создании оборудования система просит указать родительский объект?</a></h4>
 

@@ -18,7 +18,7 @@ keywords: интеграция google, неразрешенные приложе
         заявок по электронной почте</a>. </p>
 <p>В рамках данной статьи мы рассмотрим настройки на стороне Google. Ппосле настроек интеграции с почтой Gmail по статье статье <a
             href="https://wiki.hubex.ru/docs/FAQ/RU/admin/TicketMail.html">Интеграция по электронной почте, подача
-        заявок по электронной почте</a>, на почту вы получите следующее письмо:
+        заявок по электронной почте</a>, на почту вы получите следующее письмо:</p>
 
     <div>
         <img style="margin: 0 auto; display: block; max-width: 95%;"
@@ -33,32 +33,32 @@ keywords: интеграция google, неразрешенные приложе
         <li>нажмите на иконку вашего аватара, и выберите пункт <Strong>Управление аккаунтом Google</Strong>. Откроется
             главная страница настроек, в меню которой необходимо выбрать пункт <Strong>Безопасность</Strong>;
         </li>
-        <div>
+       <p> <div>
             <img style="margin: 0 auto; display: block; max-width: 95%;"
                  src="/attachments/images/FAQ/USER/HowToManageGmailIntegration/htmgi2.jpg"/>
-        </div>
+        </div></p>
 
         <li>найдите внизу раздел <Strong>Ненадежные приложения, у которых есть доступ к аккаунту</Strong>;</li>
-        <div>
+        <p><div>
             <img style="margin: 0 auto; display: block; max-width: 95%;"
                  src="/attachments/images/FAQ/USER/HowToManageGmailIntegration/htmgi3.jpg"/>
-        </div>
+        </div></p>
 
         <li>нажмите кнопку <Strong>Открыть доступ (не рекомендуется)</Strong>, на следующей странице
             переведите тумблер в положение <Strong>Включить</Strong>;
         </li>
-        <div>
+        <p><div>
             <img style="margin: 0 auto; display: block; max-width: 95%;"
                  src="/attachments/images/FAQ/USER/HowToManageGmailIntegration/htmgi4.png"/>
-        </div>
+        </div></p>
 
         <li>в конце вы получите на почту следующее письмо:</li>
-        <div>
+        <p><div>
             <img style="margin: 0 auto; display: block; max-width: 95%;"
                  src="/attachments/images/FAQ/USER/HowToManageGmailIntegration/htmgi5.jpg"/>
-        </div>
-
+        </div></p>
     </ol>
+    
 <p>Настройка интеграции на стороне Google завршена.</p>
 </body>
 

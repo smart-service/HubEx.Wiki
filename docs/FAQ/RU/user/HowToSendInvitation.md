@@ -22,7 +22,7 @@ keywords: приглашение сотрудника, приглашение з
 </div>
 <p>Пользователю необходимо перейти по ссылке и завершить процедуру регистрации, задать пароль. После чего пользователь сможет войти в web- или мобильное приложение HubEx.</p>
 <div>
-    <img style="margin: 0 auto; display: block; max-width: 60%;"
+    <img style="margin: 0 auto; display: block; max-width: 40%;"
          src="/attachments/images/FAQ/USER/HowToSendInvitation/invite2.png"/>
 </div>
 <p>Мобильное приложение инженера HubEx Engineer вы можете скачать <a

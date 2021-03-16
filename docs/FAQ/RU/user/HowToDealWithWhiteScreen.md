@@ -74,7 +74,7 @@ keywords:  hubex, хабекс, хубекс, хабикс
     той <Strong>Роли</Strong>, в которую необходимо перенести настройки.</p>
 <div>
     <img style="margin: 0 auto; display: block; max-width: 90%;"
-         src="/attachments/images/FAQ/ADMIN/HowToDealWithWhiteScreen/Copy.jpg"/>
+         src="/attachments/images/FAQ/USER/HowToDealWithWhiteScreen/Copy.jpg"/>
 </div>
 
 

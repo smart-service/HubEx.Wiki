@@ -41,7 +41,7 @@ keywords: интеграция google, неразрешенные приложе
         <li>найдите внизу раздел <Strong>Ненадежные приложения, у которых есть доступ к аккаунту</Strong>;</li>
         <p><div>
             <img style="margin: 0 auto; display: block; max-width: 95%;"
-                 src="/attachments/images/FAQ/USER/HowToManageGmailIntegration/htmgi3.jpg"/>
+                 src="/attachments/images/FAQ/USER/HowToManageGmailIntegration/htmgi3.png"/>
         </div></p>
 
         <li>нажмите кнопку <Strong>Открыть доступ (не рекомендуется)</Strong>, на следующей странице
@@ -58,7 +58,7 @@ keywords: интеграция google, неразрешенные приложе
                  src="/attachments/images/FAQ/USER/HowToManageGmailIntegration/htmgi5.jpg"/>
         </div></p>
     </ol>
-    
+
 <p>Настройка интеграции на стороне Google завршена.</p>
 </body>
 

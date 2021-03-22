@@ -33,7 +33,7 @@ keywords: hubex, хабекс, хубекс, хабикс
 <p>На мобильном телефоне Xiaomi или Samsung (для операционной системы Android) такое уведомление будет выглядет
     следующим образом:</p>
 <div>
-    <img style="margin: 0 auto; display: block; max-width: 50%;"
+    <img style="margin: 0 auto; display: block; max-width: 40%;"
          src="/attachments/images/FAQ/USER/GEOinMob/Samsung.jpg"/>
 </div>
 <p>Настроить доступ к геолокации для Android вы можете в меню Настроки устройства - Приложения. Выберите приложение
@@ -47,7 +47,7 @@ keywords: hubex, хабекс, хубекс, хабикс
 <h5 id="notification">Отключение уведомления "Центр геолокации"</h5>
 <p>Для телефонов Samsung и Xiaomi может появиться нескрываеемое уведомление "Центр геолокации".</p>
 <div>
-    <img style="margin: 0 auto; display: block; max-width: 50%;"
+    <img style="margin: 0 auto; display: block; max-width: 40%;"
          src="/attachments/images/FAQ/USER/GEOinMob/NotCenter.jpg"/>
 </div>
 

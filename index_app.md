@@ -14,17 +14,20 @@
 <noscript><div><img src="https://mc.yandex.ru/watch/'{{ site.yandex_metric }}'" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
 <!-- /Yandex.Metrika counter -->
 <link rel="stylesheet" type="text/css" href="/assets/css/styles.css">
-## Работа в мобильном приложении:
-#### [Создание заявки](docs/FAQ/RU/user/CreatingTicket.md)
-#### [Прикрепление выполненных работ](docs/FAQ/RU/user/AttachingFiles.md)
-<h4>
-<a href="/docs/FAQ/RU/user/CreatingTaskTemplates.html">Создание QR-кода и паспорта объекта</a><span class="updated-badge" title="16.09.2019"></span>
-</h4>
-#### [Саморегистрация и подача заявок](docs/FAQ/RU/user/SelfRegister.md)
-#### [Сообщения по заявке и вкладка сообщения](docs/FAQ/RU/user/Messages.md)
-#### [Чеклисты](docs/FAQ/RU/user/Checklists.md)
-#### [Рейтинги](docs/FAQ/RU/user/Ratings.md)
 
+## Работа в мобильном приложении
+
+<h4 style="padding-left: 20px;"><a href="/docs/FAQ/RU/user/CreatingTicket.html">Создание заявки</a></h4>
+<h4 style="padding-left: 20px;"><a href="/docs/FAQ/RU/user/GEOinMob.html">Создание заявки</a></h4>
+<h4 style="padding-left: 20px;"><a href="/docs/FAQ/RU/user/AttachingFiles.html">Прикрепление выполненных работ</a></h4>
+<h4 style="padding-left: 20px;"><a href="/docs/FAQ/RU/user/Withdrawals.html">Расход материалов по заявке, отчет по расходу</a></h4>
+<h4 style="padding-left: 20px;"><a href="/docs/FAQ/RU/user/ActOFAcceptance.html">Акт выполненных работ</a></h4>
+<h4 style="padding-left: 20px;"><a href="/docs/FAQ/RU/user/CreatingTaskTemplates.html">Создание шаблона заявки, подача заявки по QR-коду</a></h4>
+<h4 style="padding-left: 20px;"><a href="/docs/FAQ/RU/user/SelfRegister.html">Подача заявок по QR-коду без приложения, самостоятельная регистрация нового пользователя</a></h4>
+<h4 style="padding-left: 20px;"><a href="/docs/FAQ/RU/user/Messages.html">Сообщения по заявке</a></h4>
+<h4 style="padding-left: 20px;"><a href="/docs/FAQ/RU/user/Checklists.html">Чек-листы</a></h4>
+<h4 style="padding-left: 20px;"><a href="/docs/FAQ/RU/user/Rating.html">Оценка заявок и рейтинг сотрудников</a></h4>
+<h4 style="padding-left: 20px;"><a href="/docs/FAQ/RU/user/SeveralEngineers.html">Как выбрать нескольких исполнителей в заявке</a></h4>
 
 
 ____

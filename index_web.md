@@ -26,9 +26,8 @@
 ### Основные справочники
 Создание пользователей и заполнение основных справочников станет быстрым стартом для вашей работы. Вы сможете вести и хранить всю необходимую информацию в системе HubEx.
 
-<h4 style="padding-left: 20px;">
-    <a href="/docs/FAQ/RU/user/CreatingUser.html">Создание пользователя вашей системы</a>
-</h4>
+<h4 style="padding-left: 20px;"><a href="/docs/FAQ/RU/user/CreatingUser.html">Создание пользователя вашей системы</a></h4>
+
 <h4 style="padding-left: 20px;">
     <a href="/docs/FAQ/RU/user/CreatingCompany.html">Создание обслуживаемых компаний</a>
 </h4>

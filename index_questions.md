@@ -14,7 +14,9 @@
 <!-- /Yandex.Metrika counter -->
 <link rel="stylesheet" type="text/css" href="/assets/css/styles.css">
 ## Ответы на часто задаваемые вопросы
-На этой странице вы можете найти ответы на вопросы, возникающие у пользователей.
+
+В данном разделе собраны ответы на часто возникающие вопросы по работе с HubEx.
+
 <h4 style="padding-left: 20px;"><a href="/docs/FAQ/RU/user/RoleVSPosition.html">Чем Роль отличается от Должности?</a></h4>
 <h4 style="padding-left: 20px;"><a href="/docs/FAQ/RU/user/RulesOfChoiceGEO.html">Как настроить автоматический выбор исполнителя по геопозиции и виду работ?</a></h4>
 <h4 style="padding-left: 20px;"><a href="/docs/FAQ/RU/user/Schedule.html">Как использовать график работ при выборе исполнителя?</a></h4>
@@ -41,17 +43,17 @@
 
 <h4 style="padding-left: 20px;"><a href="/docs/FAQ/RU/user/HowToSendInvitation.html">Как отправлять приглашение для сотрудника/заказчика?</a></h4>
 
-<h4><a href="/docs/FAQ/RU/user/SuperAndUsualUser.html">Вход под учётной записью "Владельца тенанта" и обычного пользователя тенанта</a></h4>
+<h4 style="padding-left: 20px;"><a href="/docs/FAQ/RU/user/SuperAndUsualUser.html">Вход под учётной записью "Владельца тенанта" и обычного пользователя тенанта</a></h4>
 
-<h4><a href="/docs/FAQ/RU/admin/HowToEnterTheAdmin.html">Как войти в консоль администратора?</a></h4>
+<h4 style="padding-left: 20px;"><a href="/docs/FAQ/RU/admin/HowToEnterTheAdmin.html">Как войти в консоль администратора?</a></h4>
 
-<h4><a href="/docs/FAQ/RU/admin/Integration.html">Пошаговая интеграция с Битрикс 24</a></h4>
+<h4 style="padding-left: 20px;"><a href="/docs/FAQ/RU/admin/Integration.html">Пошаговая интеграция с Битрикс 24</a></h4>
 
-<h4><a href="/docs/FAQ/RU/user/ChangeOfObjectType.html">Как поменять тип существующего оборудования?</a></h4>
+<h4 style="padding-left: 20px;"><a href="/docs/FAQ/RU/user/ChangeOfObjectType.html">Как поменять тип существующего оборудования?</a></h4>
 
-<h4><a href="/docs/FAQ/RU/user/HowToManageGmailIntegration.html">Как настроить интеграцию с Gmail (почта Google)?</a></h4>
+<h4 style="padding-left: 20px;"><a href="/docs/FAQ/RU/user/HowToManageGmailIntegration.html">Как настроить интеграцию с Gmail (почта Google)?</a></h4>
 
-<h4><a href="/docs/FAQ/RU/user/HowToContactSupport.html">Как обратиться в поддержку?</a></h4>
+<h4 style="padding-left: 20px;"><a href="/docs/FAQ/RU/user/HowToContactSupport.html">Как обратиться в поддержку?</a></h4>
 
 ____
 - [Перейти в меню](http://wiki.hubex.ru)

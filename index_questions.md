@@ -15,32 +15,31 @@
 <link rel="stylesheet" type="text/css" href="/assets/css/styles.css">
 ## Ответы на часто задаваемые вопросы
 На этой странице вы можете найти ответы на вопросы, возникающие у пользователей.
-<h4><a href="/docs/FAQ/RU/user/RoleVSPosition.html">Чем Роль отличается от Должности?</a></h4>
+<h4 style="padding-left: 20px;"><a href="/docs/FAQ/RU/user/RoleVSPosition.html">Чем Роль отличается от Должности?</a></h4>
+<h4 style="padding-left: 20px;"><a href="/docs/FAQ/RU/user/RulesOfChoiceGEO.html">Как настроить автоматический выбор исполнителя по геопозиции и виду работ?</a></h4>
+<h4 style="padding-left: 20px;"><a href="/docs/FAQ/RU/user/Schedule.html">Как использовать график работ при выборе исполнителя?</a></h4>
 
-#### [Как настроить автоматический выбор исполнителя по геопозиции и виду работ?](docs/FAQ/RU/user/RulesOfChoiceGEO.md)
-#### [Как использовать график работ при выборе исполнителя?](docs/FAQ/RU/user/Schedule.md)
+<h4 style="padding-left: 20px;"><a href="/docs/FAQ/RU/user/SeveralEngineers.html">Как выбрать нескольких исполнителей в заявке?</a></h4>
 
-<h4><a href="/docs/FAQ/RU/user/SeveralEngineers.html">Как выбрать нескольких исполнителей в заявке?</a></h4>
+<h4 style="padding-left: 20px;"><a href="/docs/FAQ/RU/user/GEOinMob.html">Геолокация в мобильном приложении инженера</a></h4>
 
-<h4><a href="/docs/FAQ/RU/user/GEOinMob.html">Геолокация в мобильном приложении инженера</a></h4>
+<h4 style="padding-left: 20px;"><a href="/docs/FAQ/RU/admin/CustomerAgreement.html">Как настроить согласование с заказчиком: жизненный цикл, стадии согласования, уведомления?</a></h4>
 
-<h4><a href="/docs/FAQ/RU/admin/CustomerAgreement.html">Как настроить согласование с заказчиком: жизненный цикл, стадии согласования, уведомления?</a></h4>
+<h4 style="padding-left: 20px;"><a href="/docs/FAQ/RU/admin/PlacesVSObjectsClass.html">Чем отличаются Классы оборудования от Участков?</a></h4>
 
-<h4><a href="/docs/FAQ/RU/admin/PlacesVSObjectsClass.html">Чем отличаются Классы оборудования от Участков?</a></h4>
+<h4 style="padding-left: 20px;"><a href="/docs/FAQ/RU/user/DeletedObjects.html">Почему нельзя удалить объекты/сотрудников/заявки и т.д. навсегда?</a></h4>
 
-<h4><a href="/docs/FAQ/RU/user/DeletedObjects.html">Почему нельзя удалить объекты/сотрудников/заявки и т.д. навсегда?</a></h4>
+<h4 style="padding-left: 20px;"><a href="/docs/FAQ/RU/user/HowToNotificationsToMobile.html">Что делать, если не приходят уведомления?</a></h4>
 
-<h4><a href="/docs/FAQ/RU/user/HowToNotificationsToMobile.html">Что делать, если не приходят уведомления?</a></h4>
+<h4 style="padding-left: 20px;"><a href="/docs/FAQ/RU/user/HowToMakePassport.html">Создание паспорта объекта с возможностью саморегистрации</a></h4>
 
-<h4><a href="/docs/FAQ/RU/user/HowToMakePassport.html">Создание паспорта объекта с возможностью саморегистрации</a></h4>
+<h4 style="padding-left: 20px;"><a href="/docs/FAQ/RU/user/HowToManageNotifications.html">Как настроить уведомление на почту о выполнении заявки?</a></h4>
 
-<h4><a href="/docs/FAQ/RU/user/HowToManageNotifications.html">Как настроить уведомление на почту о выполнении заявки?</a></h4>
+<h4 style="padding-left: 20px;"><a href="/docs/FAQ/RU/user/HowToDealWithWhiteScreen.html">Что делать, если при создании заявки/на некоторой стадии форма заявки пустая?</a></h4>
 
-<h4><a href="/docs/FAQ/RU/user/HowToDealWithWhiteScreen.html">Что делать, если при создании заявки/на некоторой стадии форма заявки пустая?</a></h4>
+<h4 style="padding-left: 20px;"><a href="/docs/FAQ/RU/user/TheDifferenceBetweenObjectTypes.html">Что делать, если при создании оборудования система просит указать родительский объект?</a></h4>
 
-<h4><a href="/docs/FAQ/RU/user/TheDifferenceBetweenObjectTypes.html">Что делать, если при создании оборудования система просит указать родительский объект?</a></h4>
-
-<h4><a href="/docs/FAQ/RU/user/HowToSendInvitation.html">Как отправлять приглашение для сотрудника/заказчика?</a></h4>
+<h4 style="padding-left: 20px;"><a href="/docs/FAQ/RU/user/HowToSendInvitation.html">Как отправлять приглашение для сотрудника/заказчика?</a></h4>
 
 <h4><a href="/docs/FAQ/RU/user/SuperAndUsualUser.html">Вход под учётной записью "Владельца тенанта" и обычного пользователя тенанта</a></h4>
 

@@ -53,12 +53,12 @@ keywords: геопозиция в мобильном приложении, ге�
 </div>
 <p>Для телефонов Xiaomi перейдите в настройки приложения HubEx Engineer и отключите показ уведомлений.</p>
 <div>
-    <img style="margin: 0 auto; display: block; max-width: 80%;"
+    <img style="margin: 0 auto; display: block; max-width: 70%;"
          src="/attachments/images/FAQ/USER/GEOinMob/SetXiaomi.jpg"/>
 </div>
 <p>Для телефонов Samsung перейдите в настройки уведомлений и установите настройки уведомлений как показано на рисунке.</p>
 <div>
-    <img style="margin: 0 auto; display: block; max-width: 95%;"
+    <img style="margin: 0 auto; display: block; max-width: 85%;"
          src="/attachments/images/FAQ/USER/GEOinMob/SetSamsung.jpg"/>
 </div>
 </body>

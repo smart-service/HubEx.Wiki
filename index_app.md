@@ -29,6 +29,7 @@
 <h4 style="padding-left: 20px;"><a href="/docs/FAQ/RU/user/Checklists.html">Чек-листы</a></h4>
 <h4 style="padding-left: 20px;"><a href="/docs/FAQ/RU/user/Rating.html">Оценка заявок и рейтинг сотрудников</a></h4>
 <h4 style="padding-left: 20px;"><a href="/docs/FAQ/RU/user/SeveralEngineers.html">Как выбрать нескольких исполнителей в заявке</a></h4>
+<h4 style="padding-left: 20px;"><a href="/docs/FAQ/RU/user/AcceptanceTicket.html">Как исполнителю назначить на себя новую Заявку из общего списка?</a></h4>
 
 
 ____

@@ -22,6 +22,7 @@
 <h4 style="padding-left: 20px;"><a href="/docs/FAQ/RU/user/Schedule.html">Как использовать график работ при выборе исполнителя?</a></h4>
 
 <h4 style="padding-left: 20px;"><a href="/docs/FAQ/RU/user/SeveralEngineers.html">Как выбрать нескольких исполнителей в заявке?</a></h4>
+<h4 style="padding-left: 20px;"><a href="/docs/FAQ/RU/user/AcceptanceTicket.html">Как исполнителю назначить на себя новую Заявку из общего списка?</a></h4>
 
 <h4 style="padding-left: 20px;"><a href="/docs/FAQ/RU/user/GEOinMob.html">Геолокация в мобильном приложении инженера</a></h4>
 

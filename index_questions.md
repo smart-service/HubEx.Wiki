@@ -24,6 +24,7 @@
 <h4 style="padding-left: 20px;"><a href="/docs/FAQ/RU/user/RulesOfChoiceGEO.html">Как настроить автоматический выбор исполнителя по геопозиции и виду работ?</a></h4>
 <h4 style="padding-left: 20px;"><a href="/docs/FAQ/RU/user/Schedule.html">Как использовать график работ при выборе исполнителя?</a></h4>
 <h4 style="padding-left: 20px;"><a href="/docs/FAQ/RU/user/ChoiceWorkType.html">Выбор вида работ в заявке</a></h4>
+
 <h4 style="padding-left: 20px;"><a href="/docs/FAQ/RU/user/SeveralEngineers.html">Как выбрать нескольких исполнителей в заявке?</a></h4>
 <h4 style="padding-left: 20px;"><a href="/docs/FAQ/RU/user/AcceptanceTicket.html">Как исполнителю назначить на себя новую Заявку из общего списка?</a></h4>
 <h4 style="padding-left: 20px;"><a href="/docs/FAQ/RU/user/HowToDealWithWhiteScreen.html">Что делать, если при создании заявки/на некоторой стадии форма заявки пустая?</a></h4>
@@ -46,6 +47,7 @@
 
 <h4 style="padding-left: 20px;"><a href="/docs/FAQ/RU/user/SuperAndUsualUser.html">Вход под учётной записью "Владельца тенанта" и обычного пользователя тенанта</a></h4>
 <h4 style="padding-left: 20px;"><a href="/docs/FAQ/RU/user/DeletedObjects.html">Почему нельзя удалить объекты/сотрудников/заявки и т.д. навсегда?</a></h4>
+<h4 style="padding-left: 20px;"><a href="/docs/FAQ/RU/user/UserOnMap.html">Где увидеть местоположение сотрудника (исполнителя)?</a></h4>
 
 ### Классификаторы
 В данном разделе собраны ответы на вопросы о различных классификаторах в системе: участках, классах оборудования и т.д.

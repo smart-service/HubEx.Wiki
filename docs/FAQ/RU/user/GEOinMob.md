@@ -61,6 +61,9 @@ keywords: геопозиция в мобильном приложении, ге�
     <img style="margin: 0 auto; display: block; max-width: 85%;"
          src="/attachments/images/FAQ/USER/GEOinMob/SetSamsung.jpg"/>
 </div>
+
+<p>Также доступ к геопозиции на мобильном телефоне необходим, чтобы <strong>Сотрудник</strong> корректно отображался на картах в web приложении. Подробнее читайте в статьях: <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/GeoPosition.html">Карта: текущая геопозиция сотрудников</a>, <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/TicketsOnMap.html">Заявки
+            и сотрудники на карте</a>, <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/Geotracking.html">История перемещений</a>.</p>
 </body>
 
 ____

@@ -23,6 +23,7 @@
 Здесь вы найдете ответы на вопросы по работе с Заявками и назначением исполнителей: назначение нескольких сотрудников (работа в бригаде), самостоятельный выбор и назначение Заявок на себя в мобильном приложении, настройка правил автораспределения и т.д.
 <h4 style="padding-left: 20px;"><a href="/docs/FAQ/RU/user/RulesOfChoiceGEO.html">Как настроить автоматический выбор исполнителя по геопозиции и виду работ?</a></h4>
 <h4 style="padding-left: 20px;"><a href="/docs/FAQ/RU/user/Schedule.html">Как использовать график работ при выборе исполнителя?</a></h4>
+<h4 style="padding-left: 20px;"><a href="/docs/FAQ/RU/user/ChoiceWorkType.html">Выбор вида работ в заявке</a></h4>
 <h4 style="padding-left: 20px;"><a href="/docs/FAQ/RU/user/SeveralEngineers.html">Как выбрать нескольких исполнителей в заявке?</a></h4>
 <h4 style="padding-left: 20px;"><a href="/docs/FAQ/RU/user/AcceptanceTicket.html">Как исполнителю назначить на себя новую Заявку из общего списка?</a></h4>
 <h4 style="padding-left: 20px;"><a href="/docs/FAQ/RU/user/HowToDealWithWhiteScreen.html">Что делать, если при создании заявки/на некоторой стадии форма заявки пустая?</a></h4>

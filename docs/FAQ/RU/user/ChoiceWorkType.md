@@ -32,14 +32,14 @@ keywords:  hubex, хабекс, хубекс, хабикс
 <p>Итак, в справочнике <Strong>Виды работ</Strong> (в консоли администрирования <Strong>Настройки заявки - Виды работ</Strong>) может быть создано
     множество видов работ, в зависимости от ваших нужд.</p>
 <div>
-    <img style="margin: 0 auto; display: block; max-width: 70%;"
+    <img style="margin: 0 auto; display: block; max-width: 80%;"
          src="/attachments/images/FAQ/USER/ChoiceWorkType/WorkType.jpg"/>
 </div>
 
 <p>В карточке <Strong>Объекта</Strong> на вкладке <Strong>Обслуживание</Strong> вы можете указать подходящие к этому оборудованию (или объекту) <Strong>Виды
     работ</Strong>. </p>
 <div>
-    <img style="margin: 0 auto; display: block; max-width: 70%;"
+    <img style="margin: 0 auto; display: block; max-width: 80%;"
          src="/attachments/images/FAQ/USER/ChoiceWorkType/Object.jpg"/>
 </div>
 
@@ -54,7 +54,7 @@ keywords:  hubex, хабекс, хубекс, хабикс
 
 <p>Поле <Strong>Вид работ</Strong> может отсутствовать на форме <Strong>Заявки</Strong>.</p>
 <div>
-    <img style="margin: 0 auto; display: block; max-width: 80%;"
+    <img style="margin: 0 auto; display: block; max-width: 90%;"
          src="/attachments/images/FAQ/USER/ChoiceWorkType/NoWT.jpg"/>
 </div>
 <p>На форме <Strong>Заявки</Strong> каждое поле может быть заблокировано для ввода информации, и даже может быть скрыто от определенных
@@ -66,14 +66,14 @@ keywords:  hubex, хабекс, хубекс, хабикс
     можно выбрать либо все сразу, чтобы проверить настройку и для них в том числе. В текщем примере мы рассматриваем стадию <Strong>Новая</Strong>. Как мы видим на скриншоте, для поля <Strong>Вид работ</Strong> на стадии <Strong>Новая</Strong> никакой настрйоки не установлено -
     значит поле не отображается на форме. </p>
 <div>
-    <img style="margin: 0 auto; display: block; max-width: 80%;"
+    <img style="margin: 0 auto; display: block; max-width: 90%;"
          src="/attachments/images/FAQ/USER/ChoiceWorkType/Field.jpg"/>
 </div>
 <p>Для того, чтобы поле стало доступным для редактирования необходимо установить настройку <Strong>RW (чтение и запись)</Strong> - она
     позволит пользователю увидеть и выбрать <Strong>Вид работ</Strong> на форме <Strong>Заявки</Strong>.</p>
 
 <div>
-    <img style="margin: 0 auto; display: block; max-width: 80%;"
+    <img style="margin: 0 auto; display: block; max-width: 90%;"
          src="/attachments/images/FAQ/USER/ChoiceWorkType/Field2.jpg"/>
 </div>
 

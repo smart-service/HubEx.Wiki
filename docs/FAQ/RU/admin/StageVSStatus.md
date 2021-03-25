@@ -30,33 +30,33 @@ keywords:  hubex, хабекс, хубекс, хабикс
         заявки</strong>. Подробнее читайте в статьях: <a href="https://wiki.hubex.ru/docs/FAQ/RU/admin/StatusType.html">Статусы
         заявки</a>, <a
             href="https://wiki.hubex.ru/docs/FAQ/RU/admin/TicketLifeCycle.html">Жизненный цикл заявки</a>.</p>
-<p>Например, Заявка после принятия в работу проходит несколько этапов согласования на стороне нашей
+<p>Например, <Strong>Заявка</Strong> после принятия в работу проходит несколько этапов согласования на стороне нашей
     компании-исполнителя: мы согласуем перечень материалов, закупку, и только после этого приступаем к работе. Для наших
-    заказчиков все эти стадии демонстрировать не обязательно. Для заказчика будет достаточно показать состояние Заявки
-    как В работе.</p>
-<p>На примере показано: в настройках жизненного цикла в настройке перехода на стадию Согласование с руководителем в поле
-    Статус указан статус В работе. </p>
+    заказчиков все эти стадии демонстрировать не обязательно. Для заказчика будет достаточно показать состояние <Strong>Заявки</Strong>
+    как <Strong>В работе</Strong>.</p>
+<p>На примере показано: в настройках жизненного цикла в настройке перехода на стадию <Strong>Согласование с руководителем</Strong> в поле
+    <Strong>Статус</Strong> указано <Strong>В работе</Strong>. </p>
 <div>
     <img style="margin: 0 auto; display: block; max-width: 90%;"
          src="/attachments/images/FAQ/ADMIN/StageVSStatus/Cycle.jpg"/>
 </div>
-<p>Как это выглядит в системе? В web приложении для наших сотрудников по Заявке на стадии Согласование с руководителем в
-    списке всех Заявок будет отражаться именно название стадии. </p>
+<p>Как это выглядит в системе? В web приложении для наших сотрудников по <Strong>Заявке</Strong> на стадии <Strong>Согласование с руководителем</Strong> в
+    списке всех <Strong>Заявок</Strong> будет отражаться именно название стадии. </p>
 <div>
     <img style="margin: 0 auto; display: block; max-width: 90%;"
          src="/attachments/images/FAQ/ADMIN/StageVSStatus/WebStage.jpg"/>
 </div>
-<p>В карточке Заявки вы сможете увидеть и стадию и статус.</p>
+<p>В карточке <Strong>Заявки</Strong> вы сможете увидеть и стадию и статус.</p>
 <div>
     <img style="margin: 0 auto; display: block; max-width: 90%;"
          src="/attachments/images/FAQ/ADMIN/StageVSStatus/WebStageStatus.jpg"/>
 </div>
-<p>В мобильном приложении инженера HubEx Engineer также по Заявке отражается ее стадия.</p>
+<p>В мобильном приложении инженера HubEx Engineer также по <Strong>Заявке</Strong> отражается ее стадия - <Strong>Согласование с руководителем</Strong>.</p>
 <div>
     <img style="margin: 0 auto; display: block; max-width: 40%;"
          src="/attachments/images/FAQ/ADMIN/StageVSStatus/EngineerStage.jpg"/>
 </div>
-<p>Но заказчик в приложении для заказчика HubEx Customer уже увидит статус - В работе.</p>
+<p>Но заказчик в приложении для заказчика HubEx Customer увидит статус - <Strong>В работе</Strong>.</p>
 <div>
     <img style="margin: 0 auto; display: block; max-width: 40%;"
          src="/attachments/images/FAQ/ADMIN/StageVSStatus/CustomerStatus.jpg"/>

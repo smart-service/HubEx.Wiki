@@ -30,6 +30,7 @@
 <h4 style="padding-left: 20px;"><a href="/docs/FAQ/RU/user/HowToDealWithWhiteScreen.html">Что делать, если при создании заявки/на некоторой стадии форма заявки пустая?</a></h4>
 <h4 style="padding-left: 20px;"><a href="/docs/FAQ/RU/user/GEOinMob.html">Геолокация в мобильном приложении инженера</a></h4>
 <h4 style="padding-left: 20px;"><a href="/docs/FAQ/RU/user/DeletedObjects.html">Почему нельзя удалить объекты/сотрудников/заявки и т.д. навсегда?</a></h4>
+<h4 style="padding-left: 20px;"><a href="/docs/FAQ/RU/admin/StageVSStatus.html">Чем отличаются Стадии заявки от Статусов заявки?</a></h4>
 
 
 ### Объекты|Оборудование
@@ -61,6 +62,8 @@
 <h4 style="padding-left: 20px;"><a href="/docs/FAQ/RU/admin/HowToEnterTheAdmin.html">Как войти в консоль администратора?</a></h4>
 
 <h4 style="padding-left: 20px;"><a href="/docs/FAQ/RU/admin/Integration.html">Пошаговая интеграция с Битрикс 24</a></h4>
+
+<h4 style="padding-left: 20px;"><a href="/docs/FAQ/RU/admin/StageVSStatus.html">Чем отличаются Стадии заявки от Статусов заявки?</a></h4>
 
 <h4 style="padding-left: 20px;"><a href="/docs/FAQ/RU/user/HowToManageGmailIntegration.html">Как настроить интеграцию с Gmail (почта Google)?</a></h4>
 

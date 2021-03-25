@@ -76,3 +76,5 @@ https://wiki.hubex.ru/docs/FAQ/RU/user/GEOinMob.html
 https://wiki.hubex.ru/docs/FAQ/RU/user/TicketsOnMap.html
 https://wiki.hubex.ru/docs/FAQ/RU/user/ChoiceWorkType.html
 https://wiki.hubex.ru/docs/FAQ/RU/user/UserOnMap.html
+https://wiki.hubex.ru/docs/FAQ/RU/user/EnterToMob.html
+https://wiki.hubex.ru/docs/FAQ/RU/admin/StageVSStatus.html

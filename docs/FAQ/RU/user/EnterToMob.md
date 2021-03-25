@@ -1,18 +1,65 @@
 ---
-title: 
+title: Вход в мобильное приложение Заказчика и Сотрудника
 description:
 keywords:  hubex, хабекс, хубекс, хабикс
 ---
 
-#### 
-В этом разделе вы узнаете:
+#### Вход в мобильное приложение Заказчика и Сотрудника
+
 <html>
 <meta charset="utf-8">
 
 </html>
 
 <body>
+<p>Для того чтобы <Strong>Сотрудники</Strong> и <Strong>Заказчики</Strong> могли пользоваться мобильными приложениями необходимо выполнить три
+    условия:</p>
+<ol>
+    <li>скачать приложение мобильное приложение инженера HubEx Engineer <a
+            href="https://play.google.com/store/apps/details?id=ru.hubex.engineer">для Android</a> или <a
+            href="https://apps.apple.com/ru/app/hubex-%D0%B4%D0%BB%D1%8F-%D1%81%D0%B5%D1%80%D0%B2%D0%B8%D1%81%D0%BD%D0%BE%D0%B9-%D1%81%D0%BB%D1%83%D0%B6%D0%B1%D1%8B/id1386688688">для
+        iOS</a>;
+        <p>скачать приложение мобильное заказчика HubEx Customer <a
+                href="https://play.google.com/store/apps/details?id=ru.hubex.customer">для Android</a> или <a
+                href="https://apps.apple.com/ru/app/hubex-%D0%B4%D0%BB%D1%8F-%D0%B7%D0%B0%D0%BA%D0%B0%D0%B7%D1%87%D0%B8%D0%BA%D0%B0/id1386631658">для
+            iOS</a>. </p>
+    </li>
+    <li>создать учетную запись <Strong>Сотрудника</Strong> и (или) <Strong>Заказчика</Strong> в HubEx: создать учетную запись - тоже самое, что и создать
+        пользователя в меню <Strong>Пользователи</Strong> в справочниках <Strong>Сотрудники</Strong> и (или) <Strong>Заказчики</Strong>. При создании нового пользователя
+        вы
+        указываете мобильный телефон или электронную почту. Один из этих вариантов будет являться логином в системе
+        HubEx. Новый пользователь получит письмо или сообщение на указанное средство связи (письмо на почту или
+        сообщение на телефон) после чего должен будет подтвердить регистрацию и создать пароль.
+        <p>Также при создании нового пользователя вы указываете его <Strong>Роль</Strong> - набор прав и полномочий, которые определяют
+            уровень доступа пользователя. </p>
+        <p>Подробнее читайте в
+            статьях: <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/CreatingUser.html">Создание
+            пользовтаеля вашей системы</a>, <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/CreatingCustomer.html">Создание заказчика</a>, <<a href="https://wiki.hubex.ru/docs/FAQ/RU/admin/Roles.html">>Настройка ролей</a>;</p>
+    </li>
+    <li>в настройках <Strong>Роли</Strong> в разделе <Strong>Приложения</Strong> необходимо указать, к каким приложениям разрешить доступ:
+        <ul>
+            <li><Strong>Веб-приложение</Strong> открывает доступ к использованию приложения с помощью браузера (Chrome, Opera, Mozilla
+                Firefox и т.д.;
+            </li>
+            <li><Strong>Веб-приложение администрирования</Strong> открывает доступ к консоли администрирования;</li>
+            <li><Strong>Доступ только к API</Strong> относится к системному доступу взаимодействия с HubEx (рекомендовано включать для
+                всех);
+            </li>
+            <li><Strong>Мобильное приложение заказчика</Strong> разрешит пользователю входить в HubEx Customer;</li>
+            <li><Strong>Мобильное приложение инженера</Strong> разрешит пользователю входить в HubEx Engineer;</li>
+            <li><Strong>Электронный паспорт оборудования</Strong> разрешит просматривать паспорт Объекта при сканировании QR-кода.
+                Подробнее читайте в статье: <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/CreatingTaskTemplates.html">Создание
+                    шаблона заявки, подача заявки по QR-коду</a>.</li>
 
+
+        </ul>
+    </li>
+    <div>
+        <img style="margin: 0 auto; display: block; max-width: 90%;"
+             src="/attachments/images/FAQ/USER/EnterToMob/Role.jpg"/>
+    </div>
+</ol>
 </body>
 ____
 - [Перейти в меню](http://wiki.hubex.ru)
+

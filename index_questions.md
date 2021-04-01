@@ -31,14 +31,14 @@
 <h4 style="padding-left: 20px;"><a href="/docs/FAQ/RU/user/GEOinMob.html">Геолокация в мобильном приложении инженера</a></h4>
 <h4 style="padding-left: 20px;"><a href="/docs/FAQ/RU/user/DeletedObjects.html">Почему нельзя удалить объекты/сотрудников/заявки и т.д. навсегда?</a></h4>
 <h4 style="padding-left: 20px;"><a href="/docs/FAQ/RU/admin/StageVSStatus.html">Чем отличаются Стадии заявки от Статусов заявки?</a></h4>
-
+<h4 style="padding-left: 20px;"><a href="/docs/FAQ/RU/user/HiddenObjectsTicketsUsers.html">Почему пользователь не видит Заявки/Объекты/Исполнителей?</a></h4>
 
 ### Объекты|Оборудование
 Здесь вы найдете ответы на вопросы по работе с Объектами (Оборудованием): как изменить Тип оборудования, создать паспорт объекта и т.д.
 <h4 style="padding-left: 20px;"><a href="/docs/FAQ/RU/user/HowToMakePassport.html">Создание паспорта объекта с возможностью саморегистрации</a></h4>
 <h4 style="padding-left: 20px;"><a href="/docs/FAQ/RU/user/TheDifferenceBetweenObjectTypes.html">Что делать, если при создании оборудования система просит указать родительский объект?</a></h4>
 <h4 style="padding-left: 20px;"><a href="/docs/FAQ/RU/user/ChangeOfObjectType.html">Как поменять тип существующего оборудования?</a></h4>
-<h4 style="padding-left: 20px;"><a href="/docs/FAQ/RU/user/DeletedObjects.html">Почему нельзя удалить объекты/сотрудников/заявки и т.д. навсегда?</a></h4>
+<h4 style="padding-left: 20px;"><a href="/docs/FAQ/RU/user/DeletedObjects.html">Почему нельзя удалить Объекты/Сотрудников/Заявки и т.д. навсегда?</a></h4>
 
 
 ### Пользователи: Сотрудники и Заказчики

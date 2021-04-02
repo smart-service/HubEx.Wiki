@@ -167,13 +167,13 @@ keywords:  hubex, хабекс, хубекс, хабикс
             Сервисного специалиста в блоке <Strong>Объекты</Strong>, раздел
             <Strong>Справочники</Strong> установим только настройку <Strong>Объекты на участках пользователя</Strong>.</p>
         <div>
-            <img style="margin: 0 auto; display: block; max-width: 95%;"
+            <img style="margin: 0 auto; display: block; max-width: 80%;"
                  src="/attachments/images/FAQ/USER/Hidden/Role.jpg"/>
         </div>
         <p>Теперь посмотрим, что увидит <Strong>Сотрудник</Strong> Кошкин Иван в мобильном приложении инженера при попытке подать <Strong>Заявку</Strong>.
             Он увидит только тот <Strong>Объект</Strong>, у которого установлен такой же <Strong>Участок</Strong>, как и у него.</p>
         <div>
-            <img style="margin: 0 auto; display: block; max-width: 95%;"
+            <img style="margin: 0 auto; display: block; max-width: 80%;"
                  src="/attachments/images/FAQ/USER/Hidden/OneObject.jpg"/>
         </div>
 
@@ -205,14 +205,14 @@ keywords:  hubex, хабекс, хубекс, хабикс
                  src="/attachments/images/FAQ/USER/Hidden/Type2.jpg"/>
         </div>
         <p>Теперь посмотрим, как изменится создание <Strong>Заявки</Strong> в мобильном приложении инженера. Открылась форма <Strong>Заявки</Strong> и
-            есть возможность выбрать один из <Strong>Типов заявки</Strong>, у которых был установлен <Strong>Участок</Strong> = Пишевая промышленность.</p>
+            есть возможность выбрать один из <Strong>Типов заявки</Strong>, у которых был установлен <Strong>Участок</Strong> = Пищевая промышленность.</p>
         <div>
-            <img style="margin: 0 auto; display: block; max-width: 95%;"
+            <img style="margin: 0 auto; display: block; max-width: 80%;"
                  src="/attachments/images/FAQ/USER/Hidden/Mob.jpg"/>
         </div>
         <p>
         <div>
-            <img style="margin: 0 auto; display: block; max-width: 95%;"
+            <img style="margin: 0 auto; display: block; max-width: 80%;"
                  src="/attachments/images/FAQ/USER/Hidden/Mob2.jpg"/>
         </div>
         </p>
@@ -223,7 +223,7 @@ keywords:  hubex, хабекс, хубекс, хабикс
 <h5 id="hiddenusers">Почему пользователь не исполнителей при выборе в Заявку</h5>
 <p>Диспетчер при создании <Strong>Заявки</Strong> не видит нужного исполнителя в списке, хотя точно знает, что он есть. </p>
 <div>
-    <img style="margin: 0 auto; display: block; max-width: 95%;"
+    <img style="margin: 0 auto; display: block; max-width: 80%;"
          src="/attachments/images/FAQ/USER/Hidden/UserPlace.jpg"/>
 </div>
 
@@ -231,21 +231,21 @@ keywords:  hubex, хабекс, хубекс, хабикс
     принадлежать тому же <Strong>Участку</Strong>, что и исполнители, которых он может назначить на <Strong>Заявку</Strong>.</p>
 <p>Например, <Strong>Заявку</Strong> создает диспетчер. В карточке <Strong>Сотрудника</Strong> (диспетчера) следующие настройки:</p>
 <div>
-    <img style="margin: 0 auto; display: block; max-width: 95%;"
+    <img style="margin: 0 auto; display: block; max-width: 80%;"
          src="/attachments/images/FAQ/USER/Hidden/User2.jpg"/>
 </div>
 <p>Диспетчеру необходимо создать <Strong>Заявку</Strong> и назначить на нее специалиста Кошкина Ивана. Но при создании <Strong>Заявки</Strong>, такой
     исполнитель не отображается. Почему? Потому что в карточке <Strong>Сотрудника</Strong> у Кошкина Ивана стоит совсем другой
     <Strong>Участок</Strong>. </p>
 <div>
-    <img style="margin: 0 auto; display: block; max-width: 95%;"
+    <img style="margin: 0 auto; display: block; max-width: 80%;"
          src="/attachments/images/FAQ/USER/Hidden/User.jpg"/>
 </div>
 <p>Добавляем в карточку <Strong>Сотрудника</Strong> (диспетчера) необходимый <Strong>Участок</Strong> и возвращаемся к созданию <Strong>Заявки</Strong>. Как видим, теперь
     диспетчеру стало доступно еще больше исполнителей для выбора. Так как у них в карточках так же стоят <Strong>Участки</Strong>
     совпадающие с <Strong>Участками</Strong> диспетчера.</p>
 <div>
-    <img style="margin: 0 auto; display: block; max-width: 95%;"
+    <img style="margin: 0 auto; display: block; max-width: 80%;"
          src="/attachments/images/FAQ/USER/Hidden/UserPlace2.jpg"/>
 </div>
 </body>

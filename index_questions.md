@@ -39,7 +39,7 @@
 <h4 style="padding-left: 20px;"><a href="/docs/FAQ/RU/user/TheDifferenceBetweenObjectTypes.html">Что делать, если при создании оборудования система просит указать родительский объект?</a></h4>
 <h4 style="padding-left: 20px;"><a href="/docs/FAQ/RU/user/ChangeOfObjectType.html">Как поменять тип существующего оборудования?</a></h4>
 <h4 style="padding-left: 20px;"><a href="/docs/FAQ/RU/user/DeletedObjects.html">Почему нельзя удалить Объекты/Сотрудников/Заявки и т.д. навсегда?</a></h4>
-
+<h4 style="padding-left: 20px;"><a href="/docs/FAQ/RU/user/HiddenObjectsTicketsUsers.html">Почему пользователь не видит Заявки/Объекты/Исполнителей?</a></h4>
 
 ### Пользователи: Сотрудники и Заказчики
 В данном разделе собраны ответы на вопросы о Сотрудниках и Заказчиках: отличие Роли от Должности, как пригласить сотрудника, как войти под учетной записью владельца тенанта.
@@ -50,6 +50,7 @@
 <h4 style="padding-left: 20px;"><a href="/docs/FAQ/RU/user/DeletedObjects.html">Почему нельзя удалить объекты/сотрудников/заявки и т.д. навсегда?</a></h4>
 <h4 style="padding-left: 20px;"><a href="/docs/FAQ/RU/user/UserOnMap.html">Где увидеть местоположение сотрудника (исполнителя)?</a></h4>
 <h4 style="padding-left: 20px;"><a href="/docs/FAQ/RU/user/EnterToMob.html">Вход в мобильное приложение Заказчика и Сотрудника</a></h4>
+<h4 style="padding-left: 20px;"><a href="/docs/FAQ/RU/user/HiddenObjectsTicketsUsers.html">Почему пользователь не видит Заявки/Объекты/Исполнителей?</a></h4>
 
 ### Классификаторы
 В данном разделе собраны ответы на вопросы о различных классификаторах в системе: участках, классах оборудования и т.д.

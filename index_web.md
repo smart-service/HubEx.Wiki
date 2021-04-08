@@ -73,6 +73,9 @@
     <a href="/docs/FAQ/RU/user/Filters.html">Список заявок, поиск заявок с помощью фильтров</a></h4>
 
 <h4 style="padding-left: 20px;">
+    <a href="/docs/FAQ/RU/user/TicketsOnMap.html">Заявки и сотрудники на карте</a></h4>
+
+<h4 style="padding-left: 20px;">
     <a href="/docs/FAQ/RU/user/ViewRestriction.html">Ограничение доступа к файлам в заявке и объекте</a></h4>
 <h4 style="padding-left: 20px;">
     <a href="/docs/FAQ/RU/user/Messages.html">Сообщения по заявке и вкладка сообщения</a></h4>

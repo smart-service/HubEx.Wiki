@@ -38,7 +38,7 @@
 <h4 style="padding-left: 20px;"><a href="/docs/FAQ/RU/admin/WorkType.html">Виды работ</a></h4>
 <h4 style="padding-left: 20px;"><a href="/docs/FAQ/RU/admin/TicketType.html">Типы заявок</a></h4>
 <h4 style="padding-left: 20px;"><a href="/docs/FAQ/RU/admin/StatusType.html">Статусы заявок</a></h4>
-<h4 style="padding-left: 20px;"><a href="/docs/FAQ/RU/admin/Actuality.html">Актуальность заявки</a></h4>
+<!--<h4 style="padding-left: 20px;"><a href="/docs/FAQ/RU/admin/Actuality.html">Актуальность заявки</a></h4> НЕАКТУАЛЬНАЯ СТАТЬЯ коммент от 09.04.2021-->
 <h4 style="padding-left: 20px;"><a href="/docs/FAQ/RU/admin/Criticality.html">Критичность заявки</a></h4>
 <h4 style="padding-left: 20px;"><a href="/docs/FAQ/RU/admin/RulesOfChoice.html">Правила выбора исполнителя</a></h4>
 <h4 style="padding-left: 20px;"><a href="/docs/FAQ/RU/user/RulesOfChoiceGEO.html">Автораспределение на ближайшего исполнителя</a></h4>

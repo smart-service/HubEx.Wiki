@@ -23,9 +23,16 @@ keywords: местоположение сотрудника, текущая ге
     </div>
 
     <li>в меню <strong>Заявки - Все заявки</strong> по кнопке <strong>Заявки на карте</strong>: с помощью данного инструмента вы можете отследить
-        положение <strong>Заявок</strong> и <strong>Сотрудников</strong> на карте - это позволит вам оценить удаленность текущих Заявок от
+        положение <strong>Заявок</strong> и <strong>Сотрудников</strong> на карте - это позволит вам оценить удаленность текущих <strong>Заявок</strong> от
         исполнителей. Подробнее читайте в статье: <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/TicketsOnMap.html">Заявки
             и сотрудники на карте</a>;
+               <p>
+        <div>
+            <img style="margin: 0 auto; display: block; max-width: 80%;"
+                 src="/attachments/images/FAQ/USER/UserOnMap/TicketsOnMap.jpg"/>
+        </div>
+        </p>
+            
     </li>
     <li>в <strong>Заявке</strong> при выборе исполнителя:</li>
     <ul>

@@ -25,7 +25,7 @@ keywords: создание заказчика, создание пользова
 <p>Для Заказчика доступно мобильное приложение заказчика HubEx Customer, которое можно скачать <a
                 href="https://play.google.com/store/apps/details?id=ru.hubex.customer">для Android</a> или <a
                 href="https://apps.apple.com/ru/app/hubex-%D0%B4%D0%BB%D1%8F-%D0%B7%D0%B0%D0%BA%D0%B0%D0%B7%D1%87%D0%B8%D0%BA%D0%B0/id1386631658">для
-            iOS</a></p>
+            iOS</a>.</p>
 
 <p>Создать нового <strong>Заказчика</strong> можно в меню <strong>Пользователи - Заказчики</strong> по кнопке <strong>Создать
     заказчика</strong>. Карточка <strong>Заказчика</strong> сотоит из нескольких вкладок: <strong>Общее</strong>,

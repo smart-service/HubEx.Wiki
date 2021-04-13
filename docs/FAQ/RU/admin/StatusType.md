@@ -31,7 +31,7 @@ keywords: статус заявки, статусы заявок, hubex, хаб�
 <p>Введите наименование статуса и выберите цвет, которым статус будет отображаться в мобильном приложении
     заказчика. Нажмите кнопку <strong>Сохранить</strong>. </p>
 <div>
-    <img style="margin: 0 auto; display: block; max-width: 60%;"
+    <img style="margin: 0 auto; display: block; max-width: 40%;"
          src="/attachments/images/FAQ/ADMIN/StatusType/MobCustomer.jpg"/>
 </div>
 </body>

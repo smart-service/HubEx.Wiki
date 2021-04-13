@@ -43,3 +43,7 @@ keywords: не приходят уведомления, настройка ув�
             href="https://wiki.hubex.ru/docs/FAQ/RU/admin/Notifications.html">Настройка оповещений</a>.</p>
 
 </body>
+
+
+___
+- [Перейти в меню](http://wiki.hubex.ru)

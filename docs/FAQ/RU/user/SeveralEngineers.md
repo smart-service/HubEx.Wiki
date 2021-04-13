@@ -165,7 +165,7 @@ keywords: бригада рабочих, группа специалистов, 
             <img style="margin: 0 auto; display: block; max-width: 90%;"
                  src="/attachments/images/FAQ/USER/SeveralEngineers/ParentTicket.jpg"/>
         </div>
-        <p>В мобильном приложении инженера дочерние заявки будут отображаться как обычные заявки.</p>
+        <p>В мобильном приложении инженера дочерние заявки будут отображаться как обычные <Strong>Заявки</Strong>.</p>
     </li>
 </ol>
 </body>

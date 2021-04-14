@@ -78,7 +78,7 @@
 <h4 style="padding-left: 20px;">
     <a href="/docs/FAQ/RU/user/ViewRestriction.html">Ограничение доступа к файлам в заявке и объекте</a></h4>
 <h4 style="padding-left: 20px;">
-    <a href="/docs/FAQ/RU/user/Messages.html">Сообщения по заявке и вкладка сообщения</a></h4>
+    <a href="/docs/FAQ/RU/user/Messages.html">Сообщения по заявке</a></h4>
 
 <h4 style="padding-left: 20px;">
     <a href="/docs/FAQ/RU/user/Rating.html">Оценка заявок и рейтинг сотрудников</a></h4>

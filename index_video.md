@@ -5,8 +5,8 @@
 <title>Быстрый переход внутри документа</title>
 <ul>
      <li><a href="#hubexhl">Обзор функциональных возможностей;</a></li>
-     <li><a href="#firststeps">C чего начать работу в HubEx? Первые шаги;</a></li>
-     <li><a href="#excelimport">Как импортировать данные через Excel?;</a></li>    
+     <li><a href="#firststeps">Начало работы в HubEx;</a></li>
+     <li><a href="#excelimport">Импорт данных.</a></li>    
 </ul>
 </html>
 <body>

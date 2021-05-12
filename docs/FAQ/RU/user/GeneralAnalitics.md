@@ -206,7 +206,7 @@ keywords:  hubex, хабекс, хубекс, хабикс
          src="/attachments/images/FAQ/USER/GeneralAnalitics/Analitics2.jpg"/>
 </div>
 
-<p>Для сброса харктеристики нажмите кнопку Х у той, которую хотите отменить.</p>
+<p>Для сброса харктеристики нажмите крестик у той, которую хотите отменить.</p>
 <div>
     <img style="margin: 0 auto; display: block; max-width: 95%;"
          src="/attachments/images/FAQ/USER/GeneralAnalitics/Analitics4.jpg"/>

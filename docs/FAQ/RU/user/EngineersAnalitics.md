@@ -58,7 +58,7 @@ keywords:  hubex, хабекс, хубекс, хабикс
 
 <div>
     <img style="margin: 0 auto; display: block; max-width: 95%;"
-         src="/attachments/images/FAQ/USER/ObjectsAnalitics/MainEA3.jpg"/>
+         src="/attachments/images/FAQ/USER/EngineersAnalitics/MainEA3.jpg"/>
 </div>
 
 <p><Strong>Отчет по сотрудникам</Strong> состоит из трех вкладок, разбитых по тематикам и содержащих в себе различные графики,
@@ -95,7 +95,7 @@ keywords:  hubex, хабекс, хубекс, хабикс
     сотрудникам</strong></a>.</p>
 <div>
     <img style="margin: 0 auto; display: block; max-width: 95%;"
-         src="/attachments/images/FAQ/USER/ObjectsAnalitics/MainEA4.jpg"/>
+         src="/attachments/images/FAQ/USER/EngineersAnalitics/MainEA4.jpg"/>
 </div>
 
 <p>Далее представлены две визуализации:</p>
@@ -110,7 +110,7 @@ keywords:  hubex, хабекс, хубекс, хабикс
             стрелки справа на панели настроек.</p>
         <div>
             <img style="margin: 0 auto; display: block; max-width: 95%;"
-                 src="/attachments/images/FAQ/USER/ObjectsAnalitics/XXXXXXXXXXXXXXX.jpg"/> <!--здесь скрин про отчет-карточку по сотруднику с аналитическими разрезами-->
+                 src="/attachments/images/FAQ/USER/EngineersAnalitics/XXXXXXXXXXXXXXX.jpg"/> <!--здесь скрин про отчет-карточку по сотруднику с аналитическими разрезами-->
         </div>
         <p>Перед вами откроется детальный отчет по сотруднику. С помощью расшифровки по аналитическим разрезам можно
             ответить на впоросы: В чем причина закрытия <strong>Заявок</strong> с просрочкой? Например, можно выбрать разрезы - <strong>Закрытые
@@ -168,7 +168,7 @@ keywords:  hubex, хабекс, хубекс, хабикс
     считается корректным.</p>
 <div>
     <img style="margin: 0 auto; display: block; max-width: 95%;"
-         src="/attachments/images/FAQ/USER/ObjectsAnalitics/MainEA5.jpg"/>
+         src="/attachments/images/FAQ/USER/EngineersAnalitics/MainEA5.jpg"/>
 </div>
 <p>С помощью кнопки <strong>Фильтров</strong> вы можете задать отбор по <strong>Должности</strong> исполнителей или <strong>Виду работ</strong>, для получения информации
     по конкретному направлению работ в вашей организации.</p>
@@ -178,7 +178,7 @@ keywords:  hubex, хабекс, хубекс, хабикс
 
 <div>
     <img style="margin: 0 auto; display: block; max-width: 95%;"
-         src="/attachments/images/FAQ/USER/ObjectsAnalitics/MainEA6.jpg"/>
+         src="/attachments/images/FAQ/USER/EngineersAnalitics/MainEA6.jpg"/>
 </div>
 
 <p>Например, с помощью показателя <strong>Переназначенные заявки</strong> вы сможете выявить специалиста, который часто
@@ -193,7 +193,7 @@ keywords:  hubex, хабекс, хубекс, хабикс
     функция выгрузки в Excel: нажмите на всплывающее <strong>контекстное меню (три точки) - Экспортировать данные</strong>.</p>
 <div>
     <img style="margin: 0 auto; display: block; max-width: 75%;"
-         src="/attachments/images/FAQ/USER/ObjectsAnalitics/Table.jpg"/>
+         src="/attachments/images/FAQ/USER/EngineersAnalitics/Table.jpg"/>
 </div>
 
 <p>Таблица <strong>Закрытые и незакрытые заявки по исполнителям</strong> показывает количество закрытых и незакрытых
@@ -201,7 +201,7 @@ keywords:  hubex, хабекс, хубекс, хабикс
     <strong>контекстное меню (три точки) - Экспортировать данные</strong>. </p>
 <div>
     <img style="margin: 0 auto; display: block; max-width: 75%;"
-         src="/attachments/images/FAQ/USER/ObjectsAnalitics/Table.jpg"/>
+         src="/attachments/images/FAQ/USER/EngineersAnalitics/Table.jpg"/>
 </div>
 
 <h5 id="second">Группа отчетов и показателей по отработанному времени</h5>
@@ -229,7 +229,7 @@ keywords:  hubex, хабекс, хубекс, хабикс
 
 <div>
     <img style="margin: 0 auto; display: block; max-width: 95%;"
-         src="/attachments/images/FAQ/USER/ObjectsAnalitics/Second.jpg"/>
+         src="/attachments/images/FAQ/USER/EngineersAnalitics/Second.jpg"/>
 </div>
 
 <p>Далее представлены две визуализации:</p>
@@ -254,7 +254,7 @@ keywords:  hubex, хабекс, хубекс, хабикс
 
     <div>
         <img style="margin: 0 auto; display: block; max-width: 75%;"
-             src="/attachments/images/FAQ/USER/ObjectsAnalitics/Dynamic.jpg"/>
+             src="/attachments/images/FAQ/USER/EngineersAnalitics/Dynamic.jpg"/>
     </div>
 
 </ul>
@@ -270,7 +270,7 @@ keywords:  hubex, хабекс, хубекс, хабикс
 
 <div>
     <img style="margin: 0 auto; display: block; max-width: 95%;"
-         src="/attachments/images/FAQ/USER/ObjectsAnalitics/Second2.jpg"/>
+         src="/attachments/images/FAQ/USER/EngineersAnalitics/Second2.jpg"/>
 </div>
 
 <p id="table2">В таблице <strong>Временные показатели по сотрудникам</strong> находятся основные показатели по
@@ -281,7 +281,7 @@ keywords:  hubex, хабекс, хубекс, хабикс
     функция выгрузки в Excel: нажмите на всплывающее контекстное меню (три точки) - Экспортировать данные.</p>
 <div>
     <img style="margin: 0 auto; display: block; max-width: 75%;"
-         src="/attachments/images/FAQ/USER/ObjectsAnalitics/Table2.jpg"/>
+         src="/attachments/images/FAQ/USER/EngineersAnalitics/Table2.jpg"/>
 </div>
 
 <p>Таблица </strong>Разбивка отработанного времени и переработок</strong> отображает: </p>
@@ -292,7 +292,7 @@ keywords:  hubex, хабекс, хубекс, хабикс
 </ul>
 <div>
     <img style="margin: 0 auto; display: block; max-width: 95%;"
-         src="/attachments/images/FAQ/USER/ObjectsAnalitics/Second3.jpg"/>
+         src="/attachments/images/FAQ/USER/EngineersAnalitics/Second3.jpg"/>
 </div>
 <p>Данная таблица особенно полезна для анализа по каждому <strong>Cотруднику</strong> в отдельности. Для того, чтобы выбрать конкретного
     исполнителя, щелкните на его ФИО в любой таблице или графике на странице.</p> <!--скрин карточки-->
@@ -301,14 +301,16 @@ keywords:  hubex, хабекс, хубекс, хабикс
     функция выгрузки в Excel: нажмите на всплывающее контекстное меню (три точки) - Экспортировать данные.</p>
 <div>
     <img style="margin: 0 auto; display: block; max-width: 75%;"
-         src="/attachments/images/FAQ/USER/ObjectsAnalitics/Table3.jpg"/>
+         src="/attachments/images/FAQ/USER/EngineersAnalitics/Table3.jpg"/>
 </div>
 
 <h5 id="third">Показатели и KPI</h5>
 <p>В верхней части расположены основные показатели:</p>
 <ul>
     <li>количество <strong>Мобильных сотрудников</strong> - количество выездных специалистов. Флажок <strong>Мобильный сотрудник</strong> устанавливается
-        в карточке </strong>Сотрудника</strong>. Подробнее читайте в статье: Создание пользователя вашей системы;
+        в карточке </strong>Сотрудника</strong>. Подробнее читайте в статье: <a
+            href="https://wiki.hubex.ru/docs/FAQ/RU/user/CreatingUser.html">Создание пользователя вашей
+        системы</a>;
     </li>
     <li>количество <strong>Офисных сотрудников</strong> - количество специалистов, у которых не стоит в карточке <strong>Сотрудника</strong> флажок
         <strong>Мобильный сотрудник</strong>;
@@ -325,7 +327,7 @@ keywords:  hubex, хабекс, хубекс, хабикс
 </ul>
 <div>
     <img style="margin: 0 auto; display: block; max-width: 95%;"
-         src="/attachments/images/FAQ/USER/ObjectsAnalitics/Third.jpg"/>
+         src="/attachments/images/FAQ/USER/EngineersAnalitics/Third.jpg"/>
 </div>
 
 <p>Слева представлена визуализация по показателю <Strong>Коэффициент полезной загрузки исполнителей</Strong>
@@ -348,7 +350,7 @@ keywords:  hubex, хабекс, хубекс, хабикс
     линией.</p>
 <div>
     <img style="margin: 0 auto; display: block; max-width: 65%;"
-         src="/attachments/images/FAQ/USER/ObjectsAnalitics/UR.jpg"/>
+         src="/attachments/images/FAQ/USER/EngineersAnalitics/UR.jpg"/>
 </div>
 
 <p>График <Strong>Динамики показателей</Strong> - универсальный график, который покажет динамику, выбранного вами показателя. Выбрать
@@ -358,7 +360,7 @@ keywords:  hubex, хабекс, хубекс, хабикс
 
 <div>
     <img style="margin: 0 auto; display: block; max-width: 75%;"
-         src="/attachments/images/FAQ/USER/ObjectsAnalitics/Dynamic2.jpg"/>
+         src="/attachments/images/FAQ/USER/EngineersAnalitics/Dynamic2.jpg"/>
 </div>
 
 <p>Таблица Базовые показатели по сотрудникам содержит базовые показатели в разрезе сотрудников, а также универсальный
@@ -379,20 +381,21 @@ keywords:  hubex, хабекс, хубекс, хабикс
 <p>Также <Strong>HubEx рейтинг</Strong> может использоваться для введения системы премирования сотрудников.</p>
 <div>
     <img style="margin: 0 auto; display: block; max-width: 75%;"
-         src="/attachments/images/FAQ/USER/ObjectsAnalitics/Table4.jpg"/>
+         src="/attachments/images/FAQ/USER/EngineersAnalitics/Table4.jpg"/>
 </div>
 
 <p>При наведении на ФИО исполнителя в таблице будет всплывать окошко с четырьмя показателями, по которым рассчитывается
     <Strong>HubEx рейтинг</Strong>.</p>
 <div>
     <img style="margin: 0 auto; display: block; max-width: 95%;"
-         src="/attachments/images/FAQ/USER/ObjectsAnalitics/HR.jpg"/>
+         src="/attachments/images/FAQ/USER/EngineersAnalitics/HR.jpg"/>
 </div>
 
 
 <p>Диаграмма <Strong>Закрытые заявки по должностям</Strong> отображает процентное соотношение закрытых <Strong>Заявок</Strong> в разрезе должностей.
-    <Strong>Должность</Strong> устанавливается в карточке <Strong>Сотрудника</Strong>. Подробнее читайте в статье: Создание пользователя вашей
-    системы. </p>
+    <Strong>Должность</Strong> устанавливается в карточке <Strong>Сотрудника</Strong>. Подробнее читайте в статье: <a
+            href="https://wiki.hubex.ru/docs/FAQ/RU/user/CreatingUser.html">Создание пользователя вашей
+        системы</a>. </p>
 
 
 <h5 id="fourth">Отчет-карточка сотрудника</h5>
@@ -413,7 +416,7 @@ keywords:  hubex, хабекс, хубекс, хабикс
 
 <div>
     <img style="margin: 0 auto; display: block; max-width: 95%;"
-         src="/attachments/images/FAQ/USER/ObjectsAnalitics/Card.jpg"/>
+         src="/attachments/images/FAQ/USER/EngineersAnalitics/Card.jpg"/>
 </div>
 <p>Также по <Strong>Cотруднику</Strong> представлен график динамики изменения <Strong>HubEx рейтинга</Strong> за выбранный период времени.</p>
 

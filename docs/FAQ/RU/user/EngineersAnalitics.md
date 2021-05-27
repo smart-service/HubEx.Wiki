@@ -358,7 +358,7 @@ keywords:  hubex, хабекс, хубекс, хабикс
 
 <div>
     <img style="margin: 0 auto; display: block; max-width: 75%;"
-         src="/attachments/images/FAQ/USER/ObjectsAnalitics/Third2.jpg"/>
+         src="/attachments/images/FAQ/USER/ObjectsAnalitics/Dynamic2.jpg"/>
 </div>
 
 <p>Таблица Базовые показатели по сотрудникам содержит базовые показатели в разрезе сотрудников, а также универсальный
@@ -386,7 +386,7 @@ keywords:  hubex, хабекс, хубекс, хабикс
     <Strong>HubEx рейтинг</Strong>.</p>
 <div>
     <img style="margin: 0 auto; display: block; max-width: 95%;"
-         src="/attachments/images/FAQ/USER/ObjectsAnalitics/XXXXXXXXXXXXXXX.jpg"/>
+         src="/attachments/images/FAQ/USER/ObjectsAnalitics/HR.jpg"/>
 </div>
 
 

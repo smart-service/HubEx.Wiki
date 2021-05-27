@@ -263,7 +263,7 @@ keywords:  hubex, хабекс, хубекс, хабикс
 
     <div>
         <img style="margin: 0 auto; display: block; max-width: 75%;"
-             src="/attachments/images/FAQ/USER/EngineersAnalitics/Dynamic.jpg"/>
+             src="/attachments/images/FAQ/USER/EngineersAnalitics/Dynamic.png"/>
     </div>
 
 </ul>

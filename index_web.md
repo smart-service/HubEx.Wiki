@@ -164,9 +164,9 @@
     <a href="/docs/FAQ/RU/user/Withdrawals.html">Расход материалов по заявке, отчет по
         расходу</a>
 </h4>
-<h4 style="padding-left: 20px;">
+<!--<h4 style="padding-left: 20px;">
     <a href="/docs/FAQ/RU/user/TicketWithMaterials.html">Подача заявки с указанием рекомендованных материалов</a>
-</h4>
+</h4>-->
 <h4 style="padding-left: 20px;">
     <a href="/docs/FAQ/RU/user/SettingsWithMaterials.html">Настройки системы для работы с материалами</a>
 </h4>

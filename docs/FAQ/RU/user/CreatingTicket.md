@@ -183,7 +183,7 @@ keywords: создать заявку, подать заявку, заявка �
                     href="https://wiki.hubex.ru/docs/FAQ/RU/admin/StageType.html">Настройка стадий</a>. Срок просрочки
             отображается в общем списке, по каждой <strong>Заявке</strong>.</p>
         <div>
-            <img style="margin: 0 auto; display: block; max-width: 75%;"
+            <img style="margin: 0 auto; display: block; max-width: 85%;"
                  src="/attachments/images/FAQ/USER/CreatingTicket/Deadline.jpg"/>
         </div>
 

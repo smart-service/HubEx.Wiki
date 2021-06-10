@@ -47,6 +47,7 @@
 <h4 style="padding-left: 20px;"><a href="/docs/FAQ/RU/admin/TicketLifeCycle.html">Жизненный цикл заявки</a></h4>
 <h4 style="padding-left: 20px;"><a href="/docs/FAQ/RU/admin/CustomerAgreement.html">Согласование с заказчиком: жизненный цикл, стадии согласования, уведомления</a></h4>
 <h4 style="padding-left: 20px;"><a href="/docs/FAQ/RU/admin/BusinessProcess.html">Базовый бизнес-процесс для заявки</a></h4>
+<h4 style="padding-left: 20px;"><a href="/docs/FAQ/RU/admin/SLA.html">SLA - Правила расчета крайнего срока закрытия заявки</a></h4>
 
 ### Настройки оповещений
 Оповещения позволят вам быть в курсе происходящего. Настройте отправку email или push-уведомлений о событиях, происходящих с вашими заявками.

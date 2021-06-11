@@ -71,7 +71,7 @@ keywords: выполненные работы, создать работу, до
     статье: <a href="https://wiki.hubex.ru/docs/FAQ/RU/admin/ElementsOfInterface.html">Поля на форме заявки: настройка
         доступа к полям заявки</a>.</p>
 <div>
-    <img style="margin: 0 auto; display: block; max-width: 90%;"
+    <img style="margin: 0 auto; display: block; max-width: 80%;"
          src="/attachments/images/FAQ/USER/AttachingFiles/AddWorks.jpg"/>
 </div>
 
@@ -79,7 +79,7 @@ keywords: выполненные работы, создать работу, до
     <strong>Далее</strong>
     (по порядку) либо по кнопке двойной стрелки вверх (откроется список всех страниц для выбора).</p>
 <div>
-    <img style="margin: 0 auto; display: block; max-width: 90%;"
+    <img style="margin: 0 auto; display: block; max-width: 80%;"
          src="/attachments/images/FAQ/USER/AttachingFiles/AddWorks2.jpg"/>
 </div>
 
@@ -117,7 +117,7 @@ keywords: выполненные работы, создать работу, до
         выбрать нескольких исполнителей в заявке</a>.</p>
 
 <div>
-    <img style="margin: 0 auto; display: block; max-width: 65%;"
+    <img style="margin: 0 auto; display: block; max-width: 45%;"
          src="/attachments/images/FAQ/USER/AttachingFiles/AddWorks4.jpg"/>
 </div>
 <p>Все внесенные изменения будут отражаться в web-приложении в <strong>Заявке</strong> на вкладке <strong>История

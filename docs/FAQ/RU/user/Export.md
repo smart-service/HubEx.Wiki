@@ -49,7 +49,7 @@ keywords: экспорт компаний, экспорт объектов, эк
 <p>
 <div>
     <img style="margin: 0 auto; display: block; max-width: 90%;"
-         src="/attachments/images/FAQ/USER/Export/ExportVar.jpg"/>
+         src="/attachments/images/FAQ/USER/Export/ExportVariant.jpg"/>
 </div>
 </p>
 

@@ -183,7 +183,7 @@ keywords: создать заявку, подать заявку, заявка �
                     href="https://wiki.hubex.ru/docs/FAQ/RU/admin/StageType.html">Настройка стадий</a>. Срок просрочки
             отображается в общем списке, по каждой <strong>Заявке</strong>.</p>
         <div>
-            <img style="margin: 0 auto; display: block; max-width: 85%;"
+            <img style="margin: 0 auto; display: block; max-width: 90%;"
                  src="/attachments/images/FAQ/USER/CreatingTicket/Deadline.jpg"/>
         </div>
 
@@ -278,7 +278,7 @@ keywords: создать заявку, подать заявку, заявка �
             дополнительных полей в заявке</a>.
         <p>
         <div>
-            <img style="margin: 0 auto; display: block; max-width: 80%;"
+            <img style="margin: 0 auto; display: block; max-width: 90%;"
                  src="/attachments/images/FAQ/USER/CreatingTicket/AddField.jpg"/>
         </div>
         </p>
@@ -320,7 +320,7 @@ keywords: создать заявку, подать заявку, заявка �
     статье: <a
             href="https://wiki.hubex.ru/docs/FAQ/RU/users/Checklists.html">Чек-листы</a>. </p>
 <div>
-    <img style="margin: 0 auto; display: block; max-width: 80%;"
+    <img style="margin: 0 auto; display: block; max-width: 90%;"
          src="/attachments/images/FAQ/USER/CreatingTicket/CheckList.jpg"/>
 </div>
 
@@ -333,7 +333,7 @@ keywords: создать заявку, подать заявку, заявка �
             href="https://wiki.hubex.ru/docs/FAQ/RU/user/ChildTicket.html">Дочерние
         заявки</a>. </p>
 <div>
-    <img style="margin: 0 auto; display: block; max-width: 80%;"
+    <img style="margin: 0 auto; display: block; max-width: 90%;"
          src="/attachments/images/FAQ/USER/CreatingTicket/ChildTicket.jpg"/>
 </div>
 
@@ -345,7 +345,7 @@ keywords: создать заявку, подать заявку, заявка �
             href="https://wiki.hubex.ru/docs/FAQ/RU/users/AttachingFiles.html">Прикрепление выполненных работ в web- и
         мобильном приложении</a>. Все выполненные работы по <strong>Заявке</strong> располагаются в списке справа.</p>
 <div>
-    <img style="margin: 0 auto; display: block; max-width: 80%;"
+    <img style="margin: 0 auto; display: block; max-width: 90%;"
          src="/attachments/images/FAQ/USER/CreatingTicket/Works.jpg"/>
 </div>
 
@@ -399,7 +399,7 @@ keywords: создать заявку, подать заявку, заявка �
     
     </li>
    <div>
-        <img style="margin: 0 auto; display: block; max-width: 95%;"
+        <img style="margin: 0 auto; display: block; max-width: 90%;"
              src="/attachments/images/FAQ/USER/CreatingTicket/CreateByMobile.jpg"/>
     </div>
 
@@ -409,7 +409,7 @@ keywords: создать заявку, подать заявку, заявка �
         заполнения нажмите
         кнопку <strong>Создать заявку</strong>.</p></li>
       <div>
-        <img style="margin: 0 auto; display: block; max-width: 95%;"
+        <img style="margin: 0 auto; display: block; max-width: 90%;"
              src="/attachments/images/FAQ/USER/CreatingTicket/CreateByMobile2.jpg"/>
     </div>
 </ol>

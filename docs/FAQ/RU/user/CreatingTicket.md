@@ -404,7 +404,7 @@ keywords: создать заявку, подать заявку, заявка �
     </li>
    <div>
         <img style="margin: 0 auto; display: block; max-width: 95%;"
-             src="/attachments/images/FAQ/USER/CreatingTicket/CreateByMobile1.jpg"/>
+             src="/attachments/images/FAQ/USER/CreatingTicket/CreateByMobile.jpg"/>
     </div>
 
     

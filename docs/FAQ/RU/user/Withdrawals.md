@@ -82,7 +82,7 @@ keywords: расход материалов, отчет по расходу, р�
     </li>
     <p>
     <div>
-        <img style="margin: 0 auto; display: block; max-width: 80%;"
+        <img style="margin: 0 auto; display: block; max-width: 75%;"
              src="/attachments/images/FAQ/USER/Withdrawals/MobMaterials.jpg"/>
     </div>
     </p>
@@ -93,7 +93,7 @@ keywords: расход материалов, отчет по расходу, р�
     </li>
     <p>
     <div>
-        <img style="margin: 0 auto; display: block; max-width: 80%;"
+        <img style="margin: 0 auto; display: block; max-width: 75%;"
              src="/attachments/images/FAQ/USER/Withdrawals/MobMaterials2.jpg"/>
     </div>
     </p>
@@ -107,7 +107,7 @@ keywords: расход материалов, отчет по расходу, р�
     </li>
     <p>
     <div>
-        <img style="margin: 0 auto; display: block; max-width: 80%;"
+        <img style="margin: 0 auto; display: block; max-width: 95%;"
              src="/attachments/images/FAQ/USER/Withdrawals/MobMaterials3.jpg"/>
     </div>
     </p>

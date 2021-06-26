@@ -43,10 +43,10 @@ keywords: бригада рабочих, группа специалистов, 
         <ul>
             <li>Для начала добавим участников бригады в общий чат по <Strong>Заявке</Strong>. В web-приложении откройте откройте <Strong>Заявку</Strong>
                 и перейдите во вкладку <Strong>Сообщения</Strong>. По кнопке <Strong>+</Strong> добавьте всех, кто должен поехать на выполнение работ.
-                <div>
+                <p><div>
                     <img style="margin: 0 auto; display: block; max-width: 90%;"
                          src="/attachments/images/FAQ/USER/SeveralEngineers/Chat.jpg"/>
-                </div>
+                </div></p>
                <p> <div>
                     <img style="margin: 0 auto; display: block; max-width: 90%;"
                          src="/attachments/images/FAQ/USER/SeveralEngineers/Chat2.jpg"/>

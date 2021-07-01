@@ -29,7 +29,7 @@ keywords:  hubex, хабекс, хубекс, хабикс
     обновления отображается под наименованием отчета. </p>
 <div>
     <img style="margin: 0 auto; display: block; max-width: 95%;"
-         src="/attachments/images/FAQ/USER/EngineersAnalitics/ClientsAnalitics.png"/>
+         src="/attachments/images/FAQ/USER/ClientsAnalitics/ClientsAnalitics.png"/>
 </div>
 <p>Представление панели отчетов основывается на данных в <Strong>Заявках</Strong>. С помощью параметров фильтрации вы можете выбрать организацию
     (компанию-заказчика) для формирования отчета в разрезе клиента, сделать отбор по одному или нескольким <Strong>Объектам</Strong>, а также по
@@ -51,7 +51,7 @@ keywords:  hubex, хабекс, хубекс, хабикс
 
 <div>
     <img style="margin: 0 auto; display: block; max-width: 75%;"
-         src="/attachments/images/FAQ/USER/EngineersAnalitics/TypeCritical.jpg"/>
+         src="/attachments/images/FAQ/USER/ClientsAnalitics/TypeCritical.jpg"/>
 </div>
 
 <p>Визуализация <Strong>Активные заявки по типу оборудования</Strong> представляет собой количественные показатели акривных <Strong>Заявок</Strong> в разрезе <Strong>Типов
@@ -66,7 +66,7 @@ keywords:  hubex, хабекс, хубекс, хабикс
 <p>В таблице <Strong>Список заявок</Strong> отражаются все открытые <Strong>Заявок</Strong>. Вы можете открыть любую <Strong>Заявку</Strong> по ссылке из крайней колонки справа. </p>
 <div>
     <img style="margin: 0 auto; display: block; max-width: 95%;"
-         src="/attachments/images/FAQ/USER/EngineersAnalitics/list.jpg"/>
+         src="/attachments/images/FAQ/USER/ClientsAnalitics/list.jpg"/>
 </div>
 </body>
 

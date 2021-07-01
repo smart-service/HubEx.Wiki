@@ -74,14 +74,14 @@ keywords: отчет для клиента, клиентская аналити�
     читайте в статьях: <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/CreatingObjects.html">Создание обслуживаемого
         оборудования</a>, <a href="https://wiki.hubex.ru/docs/FAQ/RU/admin/ObjectsType.html">Типы оборудования</a>.</p>
         <div>
-    <img style="margin: 0 auto; display: block; max-width: 70%;"
+    <img style="margin: 0 auto; display: block; max-width: 75%;"
          src="/attachments/images/FAQ/USER/ClientsAnalitics/Diagram.jpg"/>
 </div>
 
 <p>Данные для визуализации <Strong>SLA подрядных организаций за период</Strong> рассчитываются как отношение количества закрытых с
     просрочкой <Strong>Заявок</Strong> к общему количеству закрытых <Strong>Заявок</Strong> за предыдущий месяц.</p>
     <div>
-    <img style="margin: 0 auto; display: block; max-width: 70%;"
+    <img style="margin: 0 auto; display: block; max-width: 75%;"
          src="/attachments/images/FAQ/USER/ClientsAnalitics/Diagram2.jpg"/>
 </div>
 

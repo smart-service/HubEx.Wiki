@@ -63,7 +63,7 @@ keywords: отчет для клиента, клиентская аналити�
     критичности. Вернуться к исходной визуализации можно по щелчку в центр диаграммы.</p>
 
 <div>
-    <img style="margin: 0 auto; display: block; max-width: 75%;"
+    <img style="margin: 0 auto; display: block; max-width: 70%;"
          src="/attachments/images/FAQ/USER/ClientsAnalitics/TypeCritical.jpg"/>
 </div>
 

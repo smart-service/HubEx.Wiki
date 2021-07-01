@@ -112,6 +112,10 @@
     <a href="/docs/FAQ/RU/user/TicketsReport.html">Срез по заявкам</a>
 </h4>
 <h4 style="padding-left: 20px;">
+    <a href="/docs/FAQ/RU/user/ClientsAnalitics.html">Отчет для клиента</a> <span class="new-badge" title="02.06.2021"></span>
+</h4>
+
+<h4 style="padding-left: 20px;">
     <a href="/docs/FAQ/RU/user/EngineersAnalitics.html">Отчет по сотрудникам</a> <span class="new-badge" title="02.06.2021"></span>
 </h4>
 

@@ -299,7 +299,7 @@ keywords:  hubex, хабекс, хубекс, хабикс
 <p> Для карты доступно изменение цветовой разбивки по Заказчику, Типу оборудования, Классу оборудования, Участку. </p>
 <p>Карту можно развернуть на весь экран по кнопке Режим фокусировки. Кнопка появляется при наведении на верхний правый угол.</p>
 <div>
-    <img style="margin: 0 auto; display: block; max-width: 75%;"
+    <img style="margin: 0 auto; display: block; max-width: 65%;"
          src="/attachments/images/FAQ/USER/ObjectsAnalitics/GeoMain.jpg"/>
 </div>
 <p><div>

@@ -99,7 +99,7 @@ keywords:  hubex, хабекс, хубекс, хабикс
         <Strong>Объекте</Strong>. Рассчитывается как среднее время по выполненным работам.
         <p>Для корректного расчета данного показателя необходимо заполнять вкладку <Strong>Выполнение</Strong> в
             <Strong>Заявке</Strong>. Подробнее
-            читайте в статьях: С<a
+            читайте в статьях: <a
                     href="https://wiki.hubex.ru/docs/FAQ/RU/user/CreatingTicket.html">Создание заявки</a>, <a
                     href="https://wiki.hubex.ru/docs/FAQ/RU/user/AttachingFiles.html">Прикрепление выполненных работ</a>.
         </p>

@@ -179,12 +179,7 @@ keywords:  hubex, хабекс, хубекс, хабикс
 <p>Детальный отчет по объекту также можно открыть по кнопке вверху отчета по кнопке <Strong>В
     отчет по объекту</Strong> и на открывшейся странице выбрать <Strong>Объект</Strong>.</p>
 
-<div>
-    <img style="margin: 0 auto; display: block; max-width: 95%;"
-         src="/attachments/images/FAQ/USER/ObjectsAnalitics/ObjectMain2.jpg"/>
-</div> 
-
-<p>Детальный отчет содержит в себе:</p>
+    <p>Детальный отчет содержит в себе:</p>
 <ul>
     <li><a href="mainkpi">основные показатели эффективности</a>;</li>
     <li><a href="maindynamic">визуализация Динамика количества поступивших, закрытых и незакрытых заявок</a>;</li>
@@ -196,12 +191,12 @@ keywords:  hubex, хабекс, хубекс, хабикс
 
 </ul>
 
-   <div>
+<div>
     <img style="margin: 0 auto; display: block; max-width: 95%;"
-         src="/attachments/images/FAQ/USER/ObjectsAnalitics/ObjectMain.jpg"/>
+         src="/attachments/images/FAQ/USER/ObjectsAnalitics/ObjectMain2.jpg"/>
 </div> 
 
-
+   
 <p id="mainkpi">Показатели эффективности: </p>
 <ul>
     <li><Strong>Закрыто заявок за период</Strong> - количество закрытых <Strong>Заявок</Strong> по выбранному <Strong>Объекту</Strong>;</li>
@@ -293,13 +288,13 @@ keywords:  hubex, хабекс, хубекс, хабикс
 <p>При наведении на сектора диаграммы появляется дополнительная визуализация - разбивка <Strong>Заявок</Strong> по выбранному параметру
     в разрезе <Strong>Стадий заявки</Strong>.</p>
 <div>
-    <img style="margin: 0 auto; display: block; max-width: 55%;"
+    <img style="margin: 0 auto; display: block; max-width: 50%;"
          src="/attachments/images/FAQ/USER/ObjectsAnalitics/Piechart.jpg"/>
 </div>
 
 <p>
 <div>
-    <img style="margin: 0 auto; display: block; max-width: 55%;"
+    <img style="margin: 0 auto; display: block; max-width: 50%;"
          src="/attachments/images/FAQ/USER/ObjectsAnalitics/Piechart2.jpg"/>
 </div>
 </p>

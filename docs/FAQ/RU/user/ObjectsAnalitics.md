@@ -104,7 +104,7 @@ keywords:  hubex, хабекс, хубекс, хабикс
                     href="https://wiki.hubex.ru/docs/FAQ/RU/user/AttachingFiles.html">Прикрепление выполненных работ</a>.
         </p>
     </li>
-    <li></li>
+
 </ol>
 <div>
     <img style="margin: 0 auto; display: block; max-width: 95%;"

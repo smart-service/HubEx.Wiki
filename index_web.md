@@ -116,6 +116,10 @@
 </h4>
 
 <h4 style="padding-left: 20px;">
+    <a href="/docs/FAQ/RU/user/ObjectsAnalitics.html">Отчет по объектам</a> <span class="new-badge" title="07.07.2021"></span>
+</h4>
+
+<h4 style="padding-left: 20px;">
     <a href="/docs/FAQ/RU/user/EngineersAnalitics.html">Отчет по сотрудникам</a> <span class="new-badge" title="02.06.2021"></span>
 </h4>
 

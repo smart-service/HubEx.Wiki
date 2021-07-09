@@ -6,7 +6,7 @@
 <ul>
      <li><a href="#hubexhl">Обзор функциональных возможностей;</a></li>
      <li><a href="#firststeps">Начало работы в HubEx;</a></li>
-      <li><a href="#EngineersAnalitics">Аналитика в Отчете по сотрудникам;</a></li>
+      <li><a href="#EngineersAnalitics">Аналитика: Отчет по сотрудникам;</a></li>
      <li><a href="#excelimport">Импорт данных.</a></li>    
 </ul>
 </html>

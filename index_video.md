@@ -16,7 +16,7 @@
 <iframe width="560" height="315" src="https://www.youtube.com/embed/SzaRsb_xRX8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <h5 id="firststeps">Начало работы в HubEx</h5>
-<p>Также окзнакомьтесь со статьей <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/HubExStepByStep.html">Знакомство с системой HubEx</a>, в которой подробно описаны первые шаги для работы в HubEx.</p>
+<p>Дополнительно окзнакомьтесь со статьей <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/HubExStepByStep.html">Знакомство с системой HubEx</a>, в которой подробно описаны первые шаги для работы в HubEx.</p>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/BJU4AUR2nOU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <h5 id="EngineersAnalitics">Аналитика: Отчет по сотрудникам</h5>
@@ -26,7 +26,7 @@
 <li>Отработанное время и переработки в динамике;</li>
 <li>% полезной загрузки и другие ключевые показатели эффективности.</li>
 </ul>
-<p>Также ознакомьтесь со статьей <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/EngineersAnalitics.html">Отчет по сотрудникам</a>, где также подробно описаны все визуализации и показатели.</p>
+<p>Дополнительно ознакомьтесь со статьей <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/EngineersAnalitics.html">Отчет по сотрудникам</a>, где подробно описаны все визуализации и показатели.</p>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7oC98ISShGg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

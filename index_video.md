@@ -26,6 +26,8 @@
 <li>Отработанное время и переработки в динамике;</li>
 <li>% полезной загрузки и другие ключевые показатели эффективности.</li>
 </ul>
+<p>Также ознакомьтесь со статьей <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/EngineersAnalitics.html">Отчет по сотрудникам</a>, где также подробно описаны все визуализации и показатели.</p>
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7oC98ISShGg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
  <h5 id="excelimport">Импорт данных</h5>

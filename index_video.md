@@ -6,6 +6,7 @@
 <ul>
      <li><a href="#hubexhl">Обзор функциональных возможностей;</a></li>
      <li><a href="#firststeps">Начало работы в HubEx;</a></li>
+      <li><a href="#EngineersAnalitics">Аналитика в Отчете по сотрудникам;</a></li>
      <li><a href="#excelimport">Импорт данных.</a></li>    
 </ul>
 </html>
@@ -15,10 +16,17 @@
 <iframe width="560" height="315" src="https://www.youtube.com/embed/SzaRsb_xRX8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <h5 id="firststeps">Начало работы в HubEx</h5>
-
+<p>Также окзнакомьтесь со статьей <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/HubExStepByStep.html">Знакомство с системой HubEx</a>, в которой подробно описаны первые шаги для работы в HubEx.</p>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/BJU4AUR2nOU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<p>Также окзнакомьтесь со статьей <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/HubExStepByStep.html">Знакомство с системой HubEx</a>, в которой подробно описаны первые шаги для работы в HubEx.</p>
+<h5 id="EngineersAnalitics">Аналитика: Отчет по сотрудникам</h5>
+<p>Посмотрите, как работает бизнес-аналитика по выездному обслуживанию в разрезе эффективности персонала:</p>
+<ul>
+<li>Выполнение заявок и SLA;</li>
+<li>Отработанное время и переработки в динамике;</li>
+<li>% полезной загрузки и другие ключевые показатели эффективности.</li>
+</ul>
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=7oC98ISShGg&ab_channel=HubEx" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
  <h5 id="excelimport">Импорт данных</h5>
 

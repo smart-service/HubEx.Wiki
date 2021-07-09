@@ -26,7 +26,7 @@
 <li>Отработанное время и переработки в динамике;</li>
 <li>% полезной загрузки и другие ключевые показатели эффективности.</li>
 </ul>
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=7oC98ISShGg&ab_channel=HubEx" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7oC98ISShGg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
  <h5 id="excelimport">Импорт данных</h5>
 

@@ -1,17 +1,17 @@
 ---
-title: Согласование заявок
+title: Согласование
 description:
 keywords:  hubex, хабекс, хубекс, хабикс
 ---
 
-#### Согласование заявок
+#### Согласование
 В этом разделе вы узнаете:
 <html>
 <meta charset="utf-8">
 <ul>
-    <li><a href="#customeragreement">Как настроить жизненный цикл для согласования</a>;</li>
-    <li><a href="#message">Как настроить оповещения о согласовании</a>;</li>
-    <li><a href="#mobile">Как выглядит процесс согласования в web и мобильном приложении</a>.</li>
+    <li><a href="#customeragreement">Как настроить жизненный цикл для согласования с заказчиком</a>;</li>
+    <li><a href="#message">Как настроить оповещение заказчика</a>;</li>
+    <li><a href="#mobile">Как выглядит процесс согласования в web приложении</a>.</li>
 </ul>
 </html>
 <body>
@@ -41,13 +41,12 @@ keywords:  hubex, хабекс, хубекс, хабикс
 <p>Как работает согласование HubEx?</p>
 <ol>
     <li>вы создаете внутреннюю заявку (на расходование денежных средств, на оплату счета, закупку и т.д.) и переводите
-        ее на стадию Согласование;
+        ее на стадию Согласование с руководителем;
     </li>
-    <li>на стадии Согласование заявка автоматически назначается на ответственного, который принимает решение о
-        подтверждении или возврате заявки;
+    <li>руководитель получает уведомление о необходимости согласовать заявку и принимает решение о
+        подтверждении или возврате заявки инициатору;
     </li>
-    <li>ответственный получает уведомление о необходимости проверки и согласования заявки;</li>
-    <li>далее он либо согласует, либо возвращает заявку назад;</li>
+    <li>далее он либо согласует, либо отклоняет заявку и назначает иницатора;</li>
     <li>инициатор заявки получает уведомление о согласованнии, либо возврате на него заявки.</li>
 </ol>
 <p>В рамках этой процедуры может быть организовано параллельное согласование, когда два или более ответственных лиц со
@@ -69,9 +68,15 @@ keywords:  hubex, хабекс, хубекс, хабикс
 <p>Рассмотрим процесс закупки оборудования для нужд предприятия. Сотрудники подразделения создают Заявки на закупку
     оборудования, но перед непосредственной закупкой такая Заявка должна быть одобрена руководителем
     подразделения.</p>
+<p>Мы будем использовать отдельный Тип заявки для настройки конкретного процесса закупки дорогостоящего
+    оборудования.</p>
 <p> Новый тип можно создать в меню
     консоли администратора <strong>Настройки заявки - Типы заявок</strong>. Назовем его Закупка оборудования. Подробнее
     читайте в стате: <a href="https://wiki.hubex.ru/docs/FAQ/RU/admin/TicketType.html">Типы заявок</a>.</p>
+<div>
+    <img style="margin: 0 auto; display: block; max-width: 60%;"
+         src="/attachments/images/FAQ/ADMIN/TicketsAgreement/Type.jpg"/>
+</div>
 
 <h5 id="customeragreement">Стадии и настройка жизненного цикла</h5>
 <p>Для настройки согласования вам потребуется создать три новые стадии (если они не были созданы ранее) в меню
@@ -85,7 +90,7 @@ keywords:  hubex, хабекс, хубекс, хабикс
     <p>
     <div>
         <img style="margin: 0 auto; display: block; max-width: 60%;"
-             src="/attachments/images/FAQ/ADMIN/CustomerAgreement/StageAgreement.jpg"/>
+             src="/attachments/images/FAQ/ADMIN/TicketsAgreement/Stage1.jpg"/>
     </div>
     </p>
     <li><strong>Согласована</strong> - если руководитель согласует выполнение
@@ -95,7 +100,7 @@ keywords:  hubex, хабекс, хубекс, хабикс
     <p>
     <div>
         <img style="margin: 0 auto; display: block; max-width: 60%;"
-             src="/attachments/images/FAQ/ADMIN/CustomerAgreement/StageAgreement2.jpg"/>
+             src="/attachments/images/FAQ/ADMIN/TicketsAgreement/Stage2.jpg"/>
     </div>
     </p>
     <li><strong>Не согласована</strong> - если руководитель отказывается
@@ -105,7 +110,7 @@ keywords:  hubex, хабекс, хубекс, хабикс
     <p>
     <div>
         <img style="margin: 0 auto; display: block; max-width: 60%;"
-             src="/attachments/images/FAQ/ADMIN/CustomerAgreement/StageAgreement3.jpg"/>
+             src="/attachments/images/FAQ/ADMIN/TicketsAgreement/Stage3.jpg"/>
     </div>
     </p>
 </ul>
@@ -118,19 +123,22 @@ keywords:  hubex, хабекс, хубекс, хабикс
     </li>
     <li>для маршрута укажите начальную стадию Новая, конечную стадию Закрыта. Эти стадии должны быть заранее созданы;
     </li>
-    <li>со стадии Новая в настройках переходов между стадиями по кнопке <strong>+Добавить стадию</strong> добавьте переход на стадию <strong>Согласование с
-        руководителем</strong>;
+    <li>со стадии Новая в настройках переходов между стадиями по кнопке <strong>+Добавить стадию</strong> добавьте
+        переход на стадию <strong>Согласование с
+            руководителем</strong>;
     </li>
     <li>в поле <strong>Название перехода</strong> укажите <strong>Согласование</strong>. <strong>Название
         перехода</strong> - название кнопки в мобильном
         приложении инженера;
     </li>
-    <li>в поле <strong>Ветка жизненного цикла</strong> выберите <strong>Ветка согласования</strong>. Заявки на ветке согласования будут отображаться в отдельно вкладке в мобильном приложении;</li>
+    <li>в поле <strong>Ветка жизненного цикла</strong> выберите <strong>Ветка согласования</strong>. Заявки на ветке
+        согласования будут отображаться в отдельно вкладке в мобильном приложении;
+    </li>
     <li>установите флажок <strong>Изменить статус</strong> и выберите статус - <strong>На согласовании</strong>;</li>
 
     <div>
         <img style="margin: 0 auto; display: block; max-width: 90%;"
-             src="/attachments/images/FAQ/ADMIN/CustomerAgreement/LifeCycle.jpg"/>
+             src="/attachments/images/FAQ/ADMIN/TicketsAgreement/LC1.jpg"/>
     </div>
 
     <li>нажмите кнопку <strong>Сохранить</strong>;</li>
@@ -142,28 +150,34 @@ keywords:  hubex, хабекс, хубекс, хабикс
         Руководитель</strong>, т.к. обе эти стадии должны быть доступны
         только для руководителя подразделения;
     </li>
-      <div>
+    <div>
         <img style="margin: 0 auto; display: block; max-width: 90%;"
-             src="/attachments/images/FAQ/ADMIN/CustomerAgreement/LifeCycle2.jpg"/>
+             src="/attachments/images/FAQ/ADMIN/TicketsAgreement/LC2.jpg"/>
     </div>
 
 
 </ul>
-<p>Вы можете настроить дальнейшие переходы со стадий <strong>Согласована</strong> на <strong>Выполнена</strong> и далее - <strong>Закрыта</strong>, со стадии
+<p>Вы можете настроить дальнейшие переходы со стадий <strong>Согласована</strong> на <strong>Выполнена</strong> и далее
+    - <strong>Закрыта</strong>, со стадии
     <strong>Не согласована</strong>,
     например, можно вернуть Заявку инициатору.</p>
+<div>
+    <img style="margin: 0 auto; display: block; max-width: 90%;"
+         src="/attachments/images/FAQ/ADMIN/TicketsAgreement/LC3.jpg"/>
+</div>
 
 <h5 id="message">Настройка оповещения</h5>
 <p>После настройки жизненного цикла необходимо настроить оповещение для руководителя о том, что
-    <strong>Заявку</strong> необходимо согласовать. Уведомление может прийти по электронной почте или в виде push-уведомление
+    <strong>Заявку</strong> необходимо согласовать. Уведомление может прийти по электронной почте или в виде
+    push-уведомления
     на телефон.</p>
 <p>Перейдите в меню консоли <strong>Настройка оповещений - Правила выбора получателя</strong>. Создайте новое правило с
     названием
     <strong>Согласование для руководителя</strong>. В поле <strong>Роль</strong>, которая получит уведомление выберите
-    <strong>Рководитель</strong> и сохраните правило.</p>
+    <strong>Руководитель</strong> и сохраните правило.</p>
 <div>
     <img style="margin: 0 auto; display: block; max-width: 60%;"
-         src="/attachments/images/FAQ/ADMIN/CustomerAgreement/Rule.jpg"/>
+         src="/attachments/images/FAQ/ADMIN/TicketsAgreement/Rules.jpg"/>
 </div>
 
 <p>После перейдите в меню <strong>Настройки оповещений - Триггеры уведомлений</strong>. Здесь настраивается условия
@@ -185,10 +199,7 @@ keywords:  hubex, хабекс, хубекс, хабикс
         &lt;td&gt; &lt;p&gt;Здравствуйте!&lt;/p&gt;
         &lt;p&gt;Требуется согласование заявки &lt;b&gt;№@Model.TaskNumber&lt;/b&gt; по объекту &lt;b&gt;@Model.AssetFullName&lt;/b&gt;,
         причина обращения:&lt;/p&gt;
-        &lt;p style="font-style:italic;"&gt;@Model.TaskNotes&lt;/p&gt; &lt;br/&gt;Вы будете получать уведомления на
-        текущий
-        адрес электронной почты или в мобильном приложении &lt;a href="https://dlhubex.page.link/wvwq"&gt;HubEx
-        для заказчика&lt;/a&gt;.&lt;br/&gt;
+        &lt;p style="font-style:italic;"&gt;@Model.TaskNotes&lt;/p&gt;.
         &lt;p style="margin-top: 20px; margin-bottom: 7px;"&gt;C уважением, Hubex&lt;/p&gt; &lt;a
         href="https://hubex.ru"&gt; &lt;img src="http://239911.selcdn.com/Public/hubex-logo-white%401x.png"
         alt="HubEx"/&gt; &lt;/a>&lt;/td&gt;
@@ -202,40 +213,55 @@ keywords:  hubex, хабекс, хубекс, хабикс
         уведомление выберите стадию
         <strong>Согласование с руководителем</strong> и установите флажки отправки по времени;
     </li>
-    <li>добавьте правило выбора получателя, которое мы создали выше - <strong>Согласование для руководителя</strong> и сохраните настройку
+    <li>добавьте правило выбора получателя, которое мы создали выше - <strong>Согласование для руководителя</strong> и
+        сохраните настройку
         триггера.
     </li>
 </ul>
 <div>
     <img style="margin: 0 auto; display: block; max-width: 90%;"
-         src="/attachments/images/FAQ/ADMIN/CustomerAgreement/Message.jpg"/>
-</div>
-<!--
-<h5 id="mobile">Процесс согласования в мобильном приложении</h5>
-<p>После перехода на стадию <strong>Выполнена</strong> в мобильном приложении инженера появится кнопка <strong>Согласование
-    заказчика</strong>. Нажмите на
-    нее и <strong>Заявка</strong> перейдет на стадию <strong>Согласование с заказчиком</strong>.</p>
-<div>
-    <img style="margin: 0 auto; display: block; max-width: 80%;"
-         src="/attachments/images/FAQ/ADMIN/CustomerAgreement/Mobile.jpg"/>
+         src="/attachments/images/FAQ/ADMIN/TicketsAgreement/Triggers.jpg"/>
 </div>
 
-<p>Заказчик при этом получит сообщение на электронную почту в формате, который вы указали в настроках триггера.</p>
+<p>Руководитель согласуя или отклоняя Заявку указывает инициатора в поле Исполнитель. Следовательно, создаем новое
+    Правило выбора
+    получателя, которое будет выглядеть следующим образом. </p>
+<div>
+    <img style="margin: 0 auto; display: block; max-width: 90%;"
+         src="/attachments/images/FAQ/ADMIN/TicketsAgreement/Rules2.jpg"/>
+</div>
+
+<p>Также создаем новый Триггер уведомлений, который можно назвать Инициатор заявки (email). Создавайте разные триггеры
+    для стадий Согласована и Не согласована с разным текстом о результатах согласования.</p>
+<div>
+    <img style="margin: 0 auto; display: block; max-width: 90%;"
+         src="/attachments/images/FAQ/ADMIN/TicketsAgreement/Triggers2.jpg"/>
+</div>
+
+<h5 id="mobile">Процесс согласования в web приложении</h5>
+<p>Инициатор создает Заявку с типом Закупка оборудования.</p>
+<div>
+    <img style="margin: 0 auto; display: block; max-width: 90%;"
+         src="/attachments/images/FAQ/ADMIN/TicketsAgreement/Ticket.jpg"/>
+</div>
+<p>Переведите Заявку на стадию <strong>Согласование с руководителем</strong>. </p>
+<div>
+    <img style="margin: 0 auto; display: block; max-width: 90%;"
+         src="/attachments/images/FAQ/ADMIN/TicketsAgreement/Ticket2.jpg"/>
+</div>
+
+<p>Руководитель при этом получит сообщение на электронную почту в формате, который вы указали в настроках триггера.</p>
 <div>
     <img style="margin: 0 auto; display: block; max-width: 40%;"
-         src="/attachments/images/FAQ/ADMIN/CustomerAgreement/Mobile2.jpg"/>
+         src="/attachments/images/FAQ/ADMIN/CustomerAgreement/Email.jpg"/>
 </div>
-<p>В мобильном приложении заказчика в <strong>Заявке</strong> на стадии <strong>Согласование заказчика</strong> будет
-    две кнопки <strong>Согласована</strong> и <strong>Не
-        согласована</strong>. При нажатии на одну из них <strong>Заявка</strong> перейдет в соответствующую стадию. В
-    мобильном приложении заказчика
-    отразится соответствующий статус для этой <strong>Заявки</strong>
-    в общем списке.</p>
+<p>Руководитель заходит под своей учетной записью, находит Заявку и переводит ее либо на стадию Согласована, либо Не
+    согласована. И назначает в качестве исполнителя инициатора Заявки, который так же получит уведомление о
+    результатах согласования.</p>
 <div>
-    <img style="margin: 0 auto; display: block; max-width: 80%;"
-         src="/attachments/images/FAQ/ADMIN/CustomerAgreement/Mobile3.jpg"/>
-</div>-->
-
+    <img style="margin: 0 auto; display: block; max-width: 90%;"
+         src="/attachments/images/FAQ/ADMIN/CustomerAgreement/Ticket3.jpg"/>
+</div>
 </body>
 
 

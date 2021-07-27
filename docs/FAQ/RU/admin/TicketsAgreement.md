@@ -253,14 +253,14 @@ keywords:  hubex, хабекс, хубекс, хабикс
 <p>Руководитель при этом получит сообщение на электронную почту в формате, который вы указали в настроках триггера.</p>
 <div>
     <img style="margin: 0 auto; display: block; max-width: 40%;"
-         src="/attachments/images/FAQ/ADMIN/CustomerAgreement/Email.jpg"/>
+         src="/attachments/images/FAQ/ADMIN/TicketsAgreement/Email.jpg"/>
 </div>
 <p>Руководитель заходит под своей учетной записью, находит Заявку и переводит ее либо на стадию Согласована, либо Не
     согласована. И назначает в качестве исполнителя инициатора Заявки, который так же получит уведомление о
     результатах согласования.</p>
 <div>
     <img style="margin: 0 auto; display: block; max-width: 90%;"
-         src="/attachments/images/FAQ/ADMIN/CustomerAgreement/Ticket3.jpg"/>
+         src="/attachments/images/FAQ/ADMIN/TicketsAgreement/Ticket3.jpg"/>
 </div>
 </body>
 

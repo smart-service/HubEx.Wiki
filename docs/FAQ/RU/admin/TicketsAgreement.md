@@ -252,7 +252,7 @@ keywords:  hubex, хабекс, хубекс, хабикс
 
 <p>Руководитель при этом получит сообщение на электронную почту в формате, который вы указали в настроках триггера.</p>
 <div>
-    <img style="margin: 0 auto; display: block; max-width: 40%;"
+    <img style="margin: 0 auto; display: block; max-width: 60%;"
          src="/attachments/images/FAQ/ADMIN/TicketsAgreement/Email.jpg"/>
 </div>
 <p>Руководитель заходит под своей учетной записью, находит Заявку и переводит ее либо на стадию Согласована, либо Не

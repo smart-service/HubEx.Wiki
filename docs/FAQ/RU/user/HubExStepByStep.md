@@ -74,8 +74,8 @@ keywords: знакомство с системой, первые шаги, hubex
     пользователей. Например, заказчики,
     создавая <strong>Заявки</strong>, будут видеть только <strong>Объекты</strong> принадлежащие к их
     <strong>Компании</strong>.
-    Подробнее читайте в статье: <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/CreatingCompany.html">Создание
-        компаний</a>, Настройка ролей.</p>
+    Подробнее читайте в статьях: <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/CreatingCompany.html">Создание
+        компаний</a>, <a href="https://wiki.hubex.ru/docs/FAQ/RU/admin/Roles.html">Настройка ролей</a>.</p>
 
 <p>Перед началом работы на вкладке <strong>Компании</strong> вы увидите одну уже созданную компанию - вашу.</p>
 <div>

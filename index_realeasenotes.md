@@ -14,7 +14,7 @@
 <noscript><div><img src="https://mc.yandex.ru/watch/'{{ site.yandex_metric }}'" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
 <!-- /Yandex.Metrika counter -->
 <link rel="stylesheet" type="text/css" href="/assets/css/styles.css">
-## Что у нас нового?
+## Новые возможности HubEx
 В данном разделе вы найдете краткие статьи с обзором новых возможностей HubEx. Мы постоянно улучшаемся и добавляем полезные функции, чтобы ваша работа становилась еще комфортнее.
 
 <h4>03.08.2021 <a href="docs/FAQ/RU/RealeaseNotes/AttachingMedia03082021.html">Медиафайлы в сообщениях</a></h4>

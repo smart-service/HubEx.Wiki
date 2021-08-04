@@ -4,10 +4,10 @@
     justify-content: center;
     flex-wrap: wrap;
     align-content:center;
-    max-width: 1200px;
+    max-width: 1560px;  
     margin: 0 auto;
     margin-top: 2%;
-}
+} 
 .block {
     background: #ffffff;
     /* #4688FF */

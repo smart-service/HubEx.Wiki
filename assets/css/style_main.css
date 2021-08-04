@@ -6,7 +6,7 @@
     align-content:center;
     max-width: 1560px;  
     margin: 0 auto;
-    margin-top: 2%;
+   /* margin-top: 2%; делает белую полоску сверху на главное странице*/
 } 
 .block {
     background: #ffffff;
@@ -126,3 +126,6 @@
      box-shadow: none;
      /* margin-left: 100px; */
   }
+
+
+  

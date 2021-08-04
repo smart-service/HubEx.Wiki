@@ -123,6 +123,20 @@
     <a href="/docs/FAQ/RU/user/EngineersAnalitics.html">Отчет по сотрудникам</a> <span class="new-badge" title="02.06.2021"></span>
 </h4>
 
+<!--
+### Печатные формы
+<h4 style="padding-left: 20px;">
+    <a href="/docs/FAQ/RU/user/GeoPosition.html">Печатная форма "Счет на оплату"</a>
+</h4>
+<h4 style="padding-left: 20px;">
+    <a href="/docs/FAQ/RU/user/Geotracking.html">Печатная форма "Акт"</a>
+</h4>
+<h4 style="padding-left: 20px;">
+    <a href="/docs/FAQ/RU/user/Geotracking.html">Печатная форма "Сервисный акт"</a>
+</h4>
+-->
+
+
 ### Карты
 Просматривайте местоположение мобильных сотрудников на карте. А история перемещений поможет вам оценить эффективность их работы: время в пути, на заявке, остановки, простои.
 <h4 style="padding-left: 20px;">

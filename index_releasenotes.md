@@ -18,5 +18,6 @@
 В данном разделе вы найдете краткие статьи с обзором новых возможностей HubEx. Мы постоянно улучшаемся и добавляем полезные функции, чтобы ваша работа становилась еще комфортнее.
 
 
-<h4><a href="docs/FAQ/RU/ReleaseNotes/StageAndRules04082021.html">Новый функционал в Стадиях заявки и Правилах автоназначения</a> <text align=right>04.08.2021</text></h4>
-<h4>03.08.2021 <a href="docs/FAQ/RU/ReleaseNotes/AttachingMedia03082021.html">Медиафайлы в сообщениях</a></h4>
+<h4><a href="docs/FAQ/RU/ReleaseNotes/StageAndRules04082021.html">Новый функционал в Стадиях заявки и Правилах автоназначения: обновление от 04.08.2021</a></h4>
+<h4><a href="docs/FAQ/RU/ReleaseNotes/AttachingMedia03082021.html">Медиафайлы в сообщениях: обновление от 03.08.2021</a></h4>
+<h4><a href="docs/FAQ/RU/ReleaseNotes/EngineersAnalitic19052021.html">Отчет по сотрудникам: обновление от 19.05.2021</a></h4>

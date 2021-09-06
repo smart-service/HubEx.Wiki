@@ -20,7 +20,9 @@
 
 <h4><a href="docs/FAQ/RU/ReleaseNotes/StageAndRules04082021.html">Новый функционал в Стадиях заявки и Правилах автоназначения: обновление от 04.08.2021</a></h4>
 <h4><a href="docs/FAQ/RU/ReleaseNotes/AttachingMedia03082021.html">Медиафайлы в сообщениях: обновление от 03.08.2021</a></h4>
-<h4><a href="docs/FAQ/RU/ReleaseNotes/EngineersAnalitic19052021.html">Отчет по сотрудникам: обновление от 19.05.2021</a></h4>
+<h4><a href="docs/FAQ/RU/ReleaseNotes/EngineersAnalytic19052021.html">Отчет по сотрудникам: обновление от 19.05.2021</a></h4>
 <h4><a href="docs/FAQ/RU/ReleaseNotes/TicketsUpdates19052021.html">Новый функционал по заявкам: обновление от 19.05.2021</a></h4>
+<h4><a href="docs/FAQ/RU/ReleaseNotes/ObjectsAnalytic29032021.html">Отчет по объектам: обновление от 29.03.2021</a></h4>
 <h4><a href="docs/FAQ/RU/ReleaseNotes/TicketsOnMap19032021.html">Заявки на карте: обновление от 19.03.2021</a></h4>
+
 

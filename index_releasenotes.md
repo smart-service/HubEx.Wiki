@@ -31,4 +31,4 @@
 <h4><a href="docs/FAQ/RU/ReleaseNotes/GroupAction24122020.html">Массовые действия для списка объектов: обновление от 24.12.2020</a></h4>
 <h4><a href="docs/FAQ/RU/ReleaseNotes/Act30112020.html">Акт выполненных работ: обновление от 30.11.2020</a></h4>
 <h4><a href="docs/FAQ/RU/ReleaseNotes/Geotracking27112020.html">История перемещений: обновление от 27.11.2020</a></h4>
-<h4><a href="docs/FAQ/RU/ReleaseNotes/HistoryRating03112020.html">История перемещений: обновление от 27.11.2020</a></h4>
+<h4><a href="docs/FAQ/RU/ReleaseNotes/HistoryRating03112020.html">История обслуживания объекта и рейтинг Заявки: обновление от 03.11.2020</a></h4>

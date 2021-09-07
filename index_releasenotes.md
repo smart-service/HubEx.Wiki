@@ -24,5 +24,5 @@
 <h4><a href="docs/FAQ/RU/ReleaseNotes/TicketsUpdates19052021.html">Новый функционал по заявкам: обновление от 19.05.2021</a></h4>
 <h4><a href="docs/FAQ/RU/ReleaseNotes/ObjectsAnalytic29032021.html">Отчет по объектам: обновление от 29.03.2021</a></h4>
 <h4><a href="docs/FAQ/RU/ReleaseNotes/TicketsOnMap19032021.html">Заявки на карте: обновление от 19.03.2021</a></h4>
-
+<h4><a href="docs/FAQ/RU/ReleaseNotes/GeneralUpdate16022021.html">Важные доработки (ифоподсказки, копирование жизненного цикла и др.): обновление от 16.02.2021</a></h4>
 

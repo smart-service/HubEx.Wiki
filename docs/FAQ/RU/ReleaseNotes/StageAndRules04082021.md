@@ -32,7 +32,7 @@ keywords:
 <div><img style="margin: 0 auto; display: block; max-width: 100%;" src="https://content.screencast.com/users/echinaek.val/folders/Capture/media/c7fb097f-702b-48ff-830f-e8d888dd8a54/LWR_Recording.png" width="560" height="auto" /></div>
 
 
-<p>Подробнее читайте в статьях базы знаний <a href="https://wiki.hubex.ru/docs/FAQ/RU/admin/StageType.html">Стадии заявки</a> и <a href="https://wiki.hubex.ru/docs/FAQ/RU/admin/RulesOfChoice.html">Автоназначение исполнителя</a>.</p>
+<p>Подробнее читайте в статьях базы знаний: <a href="https://wiki.hubex.ru/docs/FAQ/RU/admin/StageType.html">Стадии заявки</a> и <a href="https://wiki.hubex.ru/docs/FAQ/RU/admin/RulesOfChoice.html">Автоназначение исполнителя</a>.</p>
 
 <p>Предложения по доработкам в системе и сообщениям об ошибках просим отправлять к нам в "чат с поддержкой" в веб-приложении или на почту <a href="mailto:support@hubex.ru" target="_blank" rel="noopener"> support@hubex.ru </a>.</p>
 

@@ -32,7 +32,7 @@
 <h4><a href="docs/FAQ/RU/ReleaseNotes/Act30112020.html">Акт выполненных работ: обновление от 30.11.2020</a></h4>
 <h4><a href="docs/FAQ/RU/ReleaseNotes/Geotracking27112020.html">История перемещений: обновление от 27.11.2020</a></h4>
 <h4><a href="docs/FAQ/RU/ReleaseNotes/HistoryRating03112020.html">История обслуживания объекта и рейтинг Заявки: обновление от 03.11.2020</a></h4>
-<h4><a href="docs/FAQ/RU/ReleaseNotes/NewTicketForm02102020.html">Новая форма заявки: обновление от 02.10.2020</a></h4>
+<h4><a href="docs/FAQ/RU/ReleaseNotes/NewTicketForm02102020.html">Новая форма Заявки: обновление от 02.10.2020</a></h4>
 <h4><a href="docs/FAQ/RU/ReleaseNotes/MapInTicket04092020.html">Назначение исполнителей из карты в Заявке: обновление от 04.09.2020</a></h4>
-
+<h4><a href="docs/FAQ/RU/ReleaseNotes/NewCompanyForm01082020.html">Новая форма Компании: обновление от 01.08.2020</a></h4>
  

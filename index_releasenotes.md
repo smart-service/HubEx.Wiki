@@ -28,3 +28,4 @@
 <h4><a href="docs/FAQ/RU/ReleaseNotes/Roles20012021.html">Изменение интерфейса Ролей: обновление от 20.01.2021</a></h4>
 <h4><a href="docs/FAQ/RU/ReleaseNotes/Import11012021.html">Доработка импорта: обновление от 11.01.2021</a></h4>
 <h4><a href="docs/FAQ/RU/ReleaseNotes/Analytics25122020.html">Отчет Общая аналитика: обновление от 25.12.2020</a></h4>
+<h4><a href="docs/FAQ/RU/ReleaseNotes/Geotracking27112020.html">История перемещений: обновление от 27.11.2020</a></h4>

@@ -18,6 +18,7 @@
 ## Работа в мобильном приложении
 С помощью мобильного приложения инженера HubEx Engineer выездные сотрудники могут работать с системой из любой точки мира: создавать Заявки, выполнять работы, подписывать Акты у заказчиков. С помощью мобильного приложения заказчика HubEx Customer ваши заказчики тоже могут создавать Заявки, отслеживать их выполнение и оценивать работу исполнителей. 
 
+<h4 style="padding-left: 20px;"><a href="/docs/FAQ/RU/user/MobileDevice.html">Как выбрать мобильное устройство для работы?</a></h4>
 <h4 style="padding-left: 20px;"><a href="/docs/FAQ/RU/user/CreatingTicket.html">Создание заявки</a></h4>
 <h4 style="padding-left: 20px;"><a href="/docs/FAQ/RU/user/ObjectEditing.html">Редактирование данных объекта (оборудования)</a></h4>
 <h4 style="padding-left: 20px;"><a href="/docs/FAQ/RU/user/GEOinMob.html">Геолокация в мобильном приложении инженера</a></h4>

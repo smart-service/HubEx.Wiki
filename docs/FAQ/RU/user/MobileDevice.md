@@ -16,27 +16,27 @@ keywords: мобильный телефон, мобильное устройст
 
 <p>Работать в HubEx можно с помощью мобильных приложений. Для этого мобильный телефон должен соответствовать следующим требованиям:</p>
 <ol>
-    <li>Аккумулятор емкостью от 4 000 мА·ч;    </li>
+    <li><strong>Аккумулятор емкостью от 4 000 мА·ч</strong>;    </li>
     <li>Версия операционной системы:
     <ul>
-    <li>Android, версии от 5.0 и старше;</li>
-    <li>iOS, версии от 10.0 и старше;</li>
+    <li><strong>Android, версии от 5.0 и старше</strong>;</li>
+    <li><strong>iOS, версии от 10.0 и старше</strong>;</li>
     </ul>
     </li>
-    <li>Диагональ экрана от 5 дюймов;</li>
-    <li>Поддержка 3G\4G связи;</li>
-    <li>Камера от 5 МП.</li>
+    <li><strong>Диагональ экрана от 5 дюймов</strong>;</li>
+    <li><strong>Поддержка 3G\4G связи</strong>;</li>
+    <li><strong>Камера от 5 МП</strong>.</li>
 </ol>
 
 
 
 <p>Из смартфонов мы советуем для работы следующие модели:</p>
 <ul>
-<li>Samsung Galaxy A12;</li>
-<li>Samsung Galaxy A4;</li>
-<li>Модели семейства Redmi от фирмы Xiaomi, например, Redmi 9А, Redmi 9С, Redmi 9Т и т.д. (ценовая категория телефонов от 7 000 рублей);</li>
-<li>Телефоны фирмы Apple, модели от 5S и старше;</li>
-Обратите внимание! Мы не рекомендуем использовать телефоны фирмы Huawei, т.к. на новых моделях этих телефонов отсутствует Google Play Market и вы не сможете обновлять мобильное приложение HubEx Enhineer и HubEx Customer. 
+<li><strong>Samsung Galaxy A12</strong>;</li>
+<li><strong>Samsung Galaxy A4</strong>;</li>
+<li>Модели семейства <strong>Redmi</strong> от фирмы <strong>Xiaomi</strong>, например, <strong>Redmi 9А</strong>, <strong>Redmi 9С</strong>, <strong>Redmi 9Т</strong> и т.д. (ценовая категория телефонов от 7 000 рублей);</li>
+<li>Телефоны фирмы <strong>Apple</strong>, модели от <strong>5S</strong> и старше;</li>
+</strong>Обратите внимание!</strong> Мы не рекомендуем использовать телефоны фирмы Huawei, т.к. на новых моделях этих телефонов отсутствует Google Play Market и вы не сможете обновлять мобильное приложение HubEx Enhineer и HubEx Customer. 
 
 </ul>
 

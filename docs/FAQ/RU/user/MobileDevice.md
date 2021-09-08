@@ -54,7 +54,7 @@ keywords: мобильный телефон, мобильное устройст
             iOS</a>. </li>
 </ul>
 
-<p>Начинайте работу с приложениями со статей: </p>
+<p>Начинайте работу в приложениях со статей: </p>
 <ul>
 <li><a href="https://wiki.hubex.ru/docs/FAQ/RU/user/EnterToMob.html">Вход в мобильное приложение Заказчика и Сотрудника</a>;</li>
 <li><a href="https://wiki.hubex.ru/docs/FAQ/RU/user/GEOinMob.html">Геолокация в мобильном приложении инженера</a>;</li>

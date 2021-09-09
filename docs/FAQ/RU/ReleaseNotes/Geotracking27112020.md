@@ -16,7 +16,7 @@ keywords:
 <p>Вы видите перемещения каждого сотрудника, у которого включена функция использования геопозиции, и можете оценить эффективность его работы: время в пути, на заявке, остановки, простои.</p>
 <p>Контролировать мобильных сотрудников - значит сократить риски и сохранить репутацию. Использование данного функционала будет в плюс также для самих мобильных сотрудников: руководству будет представлена прозрачная картина их работы, следовательно, сведены к минимуму конфликтные ситуации.</p>
 <p>Можно выбрать конкретную дату или период для оценки перемещений, просмотреть маршрут определенного сотрудника. При наведении на контрольные точки вы увидите продолжительность движения, либо остановок сотрудника.</p>
-<p><span style="font-weight: @ArticleID00;"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://content.screencast.com/users/echinaek.val/folders/Capture/media/2f99ae98-8e4d-4dc2-9837-6c6a015328ec/LWR_Recording.png" alt="" width="@ArticleID1@ArticleID" height="350" /></span></p>
+<p><span style="font-weight: @ArticleID00;"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://content.screencast.com/users/echinaek.val/folders/Capture/media/2f99ae98-8e4d-4dc2-9837-6c6a015328ec/LWR_Recording.png" alt="" width="700" height="auto" /></span></p>
 
 
 

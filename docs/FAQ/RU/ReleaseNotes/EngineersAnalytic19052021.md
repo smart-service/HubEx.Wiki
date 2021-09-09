@@ -26,15 +26,15 @@ keywords:
 <p>Вы сможете определить, кто из сотрудников работает больше, кто часто перерабатывает, может быть следует изменить график работ и распределить загрузку исполнителей по-другому.</p>
 </li>
 </ul>
-<p><span style="font-weight: @ArticleID00;"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://content.screencast.com/users/echinaek.val/folders/Capture/media/d7c1bf88-d416-47a1-822d-a29f9643a45d/LWR_Recording.png" alt="" width="560" height="auto" /></span></p>
+<p><span style="font-weight: @ArticleID00;"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://content.screencast.com/users/echinaek.val/folders/Capture/media/d7c1bf88-d416-47a1-822d-a29f9643a45d/LWR_Recording.png" alt="" width="700" height="auto" /></span></p>
 <ul>
 <li><strong>Показатели и KPI</strong>: здесь вы сможете оценить полезную загрузку исполнителей. Также в таблице показателей доступен специальный <strong>HubEx рейтинг</strong>, который рассчитывается на основании 4х показателей работы сотрудника. С его помощью, вы сможете оценить самого эффективного сотрудника за период. Эффективным сотрудником будет считаться тот, чей HubEx рейтинг равен 1. Чем больше цифра показателя HubEx рейтинга, тем больше нужно уделить внимания исполнителю и разобраться с возможными трудностями при выполнении Заявок.</li>
 </ul>
-<p><span style="font-weight: @ArticleID00;"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://content.screencast.com/users/echinaek.val/folders/Capture/media/640673a5-dccc-441b-86ab-345bd0f17510/LWR_Recording.png" alt="" width="560" height="auto" /></span></p>
+<p><span style="font-weight: @ArticleID00;"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://content.screencast.com/users/echinaek.val/folders/Capture/media/640673a5-dccc-441b-86ab-345bd0f17510/LWR_Recording.png" alt="" width="700" height="auto" /></span></p>
 <p>На любой из вкладок вы можете открыть подробный отчет по конкретному сотруднику: щелкните на ФИО исполнителя в любой из визуализаций и нажмите стрелку вбок на панели настроек справа.</p>
-<p><span style="font-weight: @ArticleID00;"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://content.screencast.com/users/echinaek.val/folders/Capture/media/583844ed-577a-4fc8-a1bf-29965dbdb2aa/LWR_Recording.png" alt="" width="560" height="auto" /></span></p>
+<p><span style="font-weight: @ArticleID00;"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://content.screencast.com/users/echinaek.val/folders/Capture/media/583844ed-577a-4fc8-a1bf-29965dbdb2aa/LWR_Recording.png" alt="" width="700" height="auto" /></span></p>
 <p>В отчете-карточке по сотруднику вы можете увидеть динамику HubEx рейтинга, посмотреть основные показатели по закрытым Завявкам, отработанному времени, а также посмотреть историю перемещения сотрудника.</p>
-<p><span style="font-weight: @ArticleID00;"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://content.screencast.com/users/echinaek.val/folders/Capture/media/6a42e812-f6ba-45e8-8c6f-b5a7a653fcdb/LWR_Recording.png" alt="" width="560" height="auto" /></span></p>
+<p><span style="font-weight: @ArticleID00;"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://content.screencast.com/users/echinaek.val/folders/Capture/media/6a42e812-f6ba-45e8-8c6f-b5a7a653fcdb/LWR_Recording.png" alt="" width="700" height="auto" /></span></p>
 
 <p>Подробнее об отчете читайте в статье базы знаний <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/EngineersAnalitics.html">Отчет по сотрудникам</a>.</p>
 

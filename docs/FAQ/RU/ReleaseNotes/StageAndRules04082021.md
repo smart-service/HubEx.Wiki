@@ -24,12 +24,12 @@ keywords:
 <li>при создании правила автоназначения из формы <strong>Стадии заявки</strong> доступен параметр <strong>Роль</strong>. При автоназначении система будет определять совпадение указанной <strong>Роли</strong> с <strong>Ролью</strong> в карточке <strong>Сотрудника</strong>;</li>
 <li>при создании правила можно учитывать <strong>Участок</strong>. Система будет определять совпадение <strong>Участка</strong> в карточке <strong>Сотрудника</strong> и в карточке <strong>Объекта</strong>, выбранного в <strong>Заявке</strong>.</li>
 </ul>
-<div><img style="margin: 0 auto; display: block; max-width: 100%;" src="https://content.screencast.com/users/echinaek.val/folders/Capture/media/2631526b-ef85-4369-83c4-7f40d0072560/LWR_Recording.png" width="560" height="auto" /></div>
+<div><img style="margin: 0 auto; display: block; max-width: 100%;" src="https://content.screencast.com/users/echinaek.val/folders/Capture/media/2631526b-ef85-4369-83c4-7f40d0072560/LWR_Recording.png" width="700" height="auto" /></div>
 <h4>Автоназначение исполнителя</h4>
 <p>Пункт меню <strong>Правила выбора исполнителя</strong> теперь называется <strong>Автоназначение исполнителя</strong>.</p>
 <p>При создании правила теперь вы можете использовать параметр <strong>Участок</strong>. При автоназначении система будет определять совпадение <strong>Участка</strong> в карточке <strong>Сотрудника</strong> и в карточке <strong>Объекта</strong>, выбранного в <strong>Заявке</strong>.</p>
 <p>Обратите внимание! Выбор <strong>Роли</strong> доступен только при создании правила из формы <strong>Стадии заявки</strong>.</p>
-<div><img style="margin: 0 auto; display: block; max-width: 100%;" src="https://content.screencast.com/users/echinaek.val/folders/Capture/media/c7fb097f-702b-48ff-830f-e8d888dd8a54/LWR_Recording.png" width="560" height="auto" /></div>
+<div><img style="margin: 0 auto; display: block; max-width: 100%;" src="https://content.screencast.com/users/echinaek.val/folders/Capture/media/c7fb097f-702b-48ff-830f-e8d888dd8a54/LWR_Recording.png" width="700" height="auto" /></div>
 
 
 <p>Подробнее читайте в статьях базы знаний: <a href="https://wiki.hubex.ru/docs/FAQ/RU/admin/StageType.html">Стадии заявки</a> и <a href="https://wiki.hubex.ru/docs/FAQ/RU/admin/RulesOfChoice.html">Автоназначение исполнителя</a>.</p>

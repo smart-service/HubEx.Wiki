@@ -17,7 +17,7 @@ keywords:
 </ul>
 <h4>Стадии заявки</h4>
 <p>В настройки стадии мы добавили новое действие, которое будет выполнено системой при переходе на эту стадию - <strong>Назначить сотрудника</strong>. В этом случае вы можете указать конкретного исполнителя из списка <strong>Сотрудники</strong>.</p>
-<div><img style="margin: 0 auto; display: block; max-width: 100%;" src="https://content.screencast.com/users/echinaek.val/folders/Capture/media/80d8ec02-7aba-4888-8221-62b358bcf26f/LWR_Recording.png" width="560" height="auto" /></div>
+<div><img style="margin: 0 auto; display: block; max-width: 100%;" src="https://content.screencast.com/users/echinaek.val/folders/Capture/media/80d8ec02-7aba-4888-8221-62b358bcf26f/LWR_Recording.png" width="660" height="auto" /></div>
 <p>Также мы обновили действие <strong>Назначить заявку на наиболее подходящего исполнителя</strong>. Теперь оно называется <strong>Автоназначение по правилу</strong>. И правило автоназначения можно создать прямиком на форме стадии.&nbsp;</p>
 <p>Были также расширены существующие настройки для правил автоназначения:</p>
 <ul>

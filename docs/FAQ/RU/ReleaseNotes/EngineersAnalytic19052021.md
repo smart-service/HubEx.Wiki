@@ -20,7 +20,7 @@ keywords:
 <p>Вы сможете определить сотрудников, которые сильно перегружены Заявками и не успевают их закрывать, оценить, кто из сотрудников чаще других переназначает с себя <strong>Заявки</strong> на других исполнителей и т.д.</p>
 </li>
 </ul>
-<p><span style="font-weight: @ArticleID00;"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://content.screencast.com/users/echinaek.val/folders/Capture/media/dce9e26c-efe5-4780-8297-1b3003b42cb9/LWR_Recording.png" alt="" width="560" height="auto" /></span></p>
+<p><span style="font-weight: @ArticleID00;"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://content.screencast.com/users/echinaek.val/folders/Capture/media/dce9e26c-efe5-4780-8297-1b3003b42cb9/LWR_Recording.png" alt="" width="700" height="auto" /></span></p>
 <ul>
 <li><strong>Отработанное время</strong>: на этой странице представлены графики и таблицы с показателями по отработанному и переработанному времени.
 <p>Вы сможете определить, кто из сотрудников работает больше, кто часто перерабатывает, может быть следует изменить график работ и распределить загрузку исполнителей по-другому.</p>

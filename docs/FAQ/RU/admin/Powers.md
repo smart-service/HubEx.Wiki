@@ -13,15 +13,15 @@ keywords: роль, полномочия, hubex, хабекс, хубекс, х�
 
 <body>
 
-  <table width="750" cellpadding="5" cellspacing="0">
+  <table width="900" cellpadding="0" cellspacing="0">
    <tr>
-    <td width="150">
+    <td width="300">
     <p>QR</p>
     <p>Актуальности</p>
     <p>Аналитика</p>
     </td>
-    <td width="400">Колонка 2</td>
-    <td width="200">Колонка 3</td>
+    <td width="300">Колонка 2</td>
+    <td width="300">Колонка 3</td>
    </tr>
   </table>
 

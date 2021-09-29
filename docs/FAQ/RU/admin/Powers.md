@@ -13,7 +13,7 @@ keywords: роль, полномочия, hubex, хабекс, хубекс, х�
 
 <body>
 
-  <table width="900" cellspacing="0" cellpadding="0" border-collapse="collapse" border-style: hidden>
+  <table style="width 900px; border-style: hidden; "cellspacing="0" cellpadding="0"">
    <tr>
     <td width="300">
     <p>QR</p>

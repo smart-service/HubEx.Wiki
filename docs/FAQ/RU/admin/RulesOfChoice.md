@@ -116,7 +116,7 @@ keywords: правило автоназначения исполнителя, а
 <p>В настройках <strong>Стадии заявки</strong> выберите действие <Strong>Автоназначение по правилу</Strong> или <Strong>Автоназначение
     с учетом удаленности от заявки</Strong>, и в поле ниже
     выберите <strong>Правило автоназначения исполнителя</strong>, сохраните действия. Подробнее читайте в статье: <a
-            href="https://wiki.hubex.ru/docs/FAQ/RU/user/RulesOfChoiceGEO.html">Автораспределение на ближайшего
+            href="https://wiki.hubex.ru/docs/FAQ/RU/user/RulesOfChoiceGEO.html">Автоназначение на ближайшего
         исполнителя</a>.</p>
 <div>
     <img style="margin: 0 auto; display: block; max-width: 60%;"

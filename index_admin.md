@@ -40,8 +40,8 @@
 <h4 style="padding-left: 20px;"><a href="/docs/FAQ/RU/admin/StatusType.html">Статусы заявок</a></h4>
 <!--<h4 style="padding-left: 20px;"><a href="/docs/FAQ/RU/admin/Actuality.html">Актуальность заявки</a></h4> НЕАКТУАЛЬНАЯ СТАТЬЯ коммент от 09.04.2021-->
 <h4 style="padding-left: 20px;"><a href="/docs/FAQ/RU/admin/Criticality.html">Критичность заявки</a></h4>
-<h4 style="padding-left: 20px;"><a href="/docs/FAQ/RU/admin/RulesOfChoice.html">Правила выбора исполнителя</a></h4>
-<h4 style="padding-left: 20px;"><a href="/docs/FAQ/RU/user/RulesOfChoiceGEO.html">Автораспределение на ближайшего исполнителя</a></h4>
+<h4 style="padding-left: 20px;"><a href="/docs/FAQ/RU/admin/RulesOfChoice.html">Правила автоназначения исполнителя</a></h4>
+<h4 style="padding-left: 20px;"><a href="/docs/FAQ/RU/user/RulesOfChoiceGEO.html">Автоназначение на ближайшего исполнителя</a></h4>
 <h4 style="padding-left: 20px;"><a href="/docs/FAQ/RU/admin/StageType.html">Стадии заявки</a></h4>
 <h4 style="padding-left: 20px;"><a href="/docs/FAQ/RU/admin/ElementsOfInterface.html">Поля на форме заявки: настройка доступа к полям заявки</a><span class="updated-badge" title="21.01.2021"></span></h4>
 <h4 style="padding-left: 20px;"><a href="/docs/FAQ/RU/admin/TicketLifeCycle.html">Жизненный цикл заявки</a></h4>

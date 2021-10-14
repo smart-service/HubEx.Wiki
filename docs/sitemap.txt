@@ -90,4 +90,22 @@ https://wiki.hubex.ru/docs/FAQ/RU/user/AcceptanceTicket.html
 https://wiki.hubex.ru/docs/FAQ/RU/user/RoleVSPosition.html
 https://wiki.hubex.ru/docs/FAQ/RU/user/MobileDevice.html
 
-
+https://wiki.hubex.ru/docs/FAQ/RU/ReleaseNotes/NewCompanyForm01082020.html
+https://wiki.hubex.ru/docs/FAQ/RU/ReleaseNotes/MapInTicket04092020.html
+https://wiki.hubex.ru/docs/FAQ/RU/ReleaseNotes/Schedule18092020.html
+https://wiki.hubex.ru/docs/FAQ/RU/ReleaseNotes/NewTicketForm02102020.html
+https://wiki.hubex.ru/docs/FAQ/RU/ReleaseNotes/ChildTicket21102020.html
+https://wiki.hubex.ru/docs/FAQ/RU/ReleaseNotes/HistoryRating03112020.html
+https://wiki.hubex.ru/docs/FAQ/RU/ReleaseNotes/Geotracking27112020.html
+https://wiki.hubex.ru/docs/FAQ/RU/ReleaseNotes/Act30112020.html
+https://wiki.hubex.ru/docs/FAQ/RU/ReleaseNotes/GroupAction24122020.html
+https://wiki.hubex.ru/docs/FAQ/RU/ReleaseNotes/Analytics25122020.html
+https://wiki.hubex.ru/docs/FAQ/RU/ReleaseNotes/Import11012021.html
+https://wiki.hubex.ru/docs/FAQ/RU/ReleaseNotes/Roles20012021.html
+https://wiki.hubex.ru/docs/FAQ/RU/ReleaseNotes/GeneralUpdate16022021.html
+https://wiki.hubex.ru/docs/FAQ/RU/ReleaseNotes/TicketsOnMap19032021.html
+https://wiki.hubex.ru/docs/FAQ/RU/ReleaseNotes/ObjectsAnalytic29032021.html
+https://wiki.hubex.ru/docs/FAQ/RU/ReleaseNotes/TicketsUpdates19052021.html
+https://wiki.hubex.ru/docs/FAQ/RU/ReleaseNotes/EngineersAnalytic19052021.html
+https://wiki.hubex.ru/docs/FAQ/RU/ReleaseNotes/AttachingMedia03082021.html
+https://wiki.hubex.ru/docs/FAQ/RU/ReleaseNotes/StageAndRules04082021.html

@@ -64,7 +64,7 @@
 
 <h4 style="padding-left: 20px;"><a href="/docs/FAQ/RU/admin/HowToEnterTheAdmin.html">Как войти в консоль администратора?</a></h4>
 
-<h4 style="padding-left: 20px;"><a href="/docs/FAQ/RU/admin/Integration.html">Пошаговая интеграция с Битрикс 24</a></h4>
+<!--скрыто по просьбе Дмитрия Зырянова 06.09.2021 <h4 style="padding-left: 20px;"><a href="/docs/FAQ/RU/admin/Integration.html">Пошаговая интеграция с Битрикс 24</a></h4>-->
 
 <h4 style="padding-left: 20px;"><a href="/docs/FAQ/RU/admin/StageVSStatus.html">Чем отличаются Стадии заявки от Статусов заявки?</a></h4>
 

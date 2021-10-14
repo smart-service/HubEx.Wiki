@@ -84,4 +84,10 @@ https://wiki.hubex.ru/docs/FAQ/RU/user/HiddenObjectsTicketsUsers.html
 https://wiki.hubex.ru/docs/FAQ/RU/user/ObjectEditing.html
 https://wiki.hubex.ru/docs/FAQ/RU/admin/SLA.html
 https://wiki.hubex.ru/docs/FAQ/RU/user/ClientsAnalitics.html
-https://wiki.hubex.ru/docs/FAQ/RU/user/ObjectsAnalitics.HowToManageGmailIntegration
+https://wiki.hubex.ru/docs/FAQ/RU/user/ObjectsAnalitics.html
+https://wiki.hubex.ru/docs/FAQ/RU/user/SeveralEngineers.html
+https://wiki.hubex.ru/docs/FAQ/RU/user/AcceptanceTicket.html
+https://wiki.hubex.ru/docs/FAQ/RU/user/RoleVSPosition.html
+https://wiki.hubex.ru/docs/FAQ/RU/user/MobileDevice.html
+
+

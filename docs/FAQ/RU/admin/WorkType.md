@@ -100,12 +100,11 @@ keywords: виды работ, вид работ, автораспределен
 </ul>
 
 <p>Если заполнить <Strong>Виды работ</Strong> в карточке <Strong>Сотрудника</Strong> (исполнителя), то можно настроить
-    правила автораспределения на
-    <Strong>Заявки</Strong>. Система будет подбирать исполнителя по совпадению <Strong>Вида работ</Strong> в карточке
+    <Strong>Правила автоназначения исполнителя</Strong>. Система будет подбирать исполнителя по совпадению <Strong>Вида работ</Strong> в карточке
     <Strong>Сотрудника</Strong> и выбранного <Strong>Вида работ</Strong> в
     <Strong>Заявке</Strong>.
-    Подробнее читайте в статьях: <a href="https://wiki.hubex.ru/docs/FAQ/RU/admin/RulesOfChoice.html">Правила выбора
-        исполнителя</a>, <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/RulesOfChoiceGEO.html">Автораспределение на
+    Подробнее читайте в статьях: <a href="https://wiki.hubex.ru/docs/FAQ/RU/admin/RulesOfChoice.html">Правила автоназначения
+        исполнителя</a>, <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/RulesOfChoiceGEO.html">Автоназначение на
         ближайшего исполнителя</a>.
 </p>
 

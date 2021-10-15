@@ -25,7 +25,7 @@ keywords:
 <p><span style="font-weight: @ArticleID00;"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://content.screencast.com/users/echinaek.val/folders/Capture/media/e41eab68-f43c-4deb-aa77-57dce2f3e752/LWR_Recording.png" alt="" width="700" height="auto" /></span></p>
 <p><span style="font-weight: @ArticleID00;">&nbsp;</span></p>
 
-<p>Подробнее об отчете читайте в статье базы знаний <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/ObjectsAnalitics.html">Отчет по объектам</a>.</p>
+<p>Подробнее об отчете читайте в статье базы знаний: <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/ObjectsAnalitics.html">Отчет по объектам</a>.</p>
 
 <p>Предложения по доработкам в системе и сообщениям об ошибках просим отправлять к нам в "чат с поддержкой" в веб-приложении или на почту <a href="mailto:support@hubex.ru" target="_blank" rel="noopener"> support@hubex.ru </a>.</p>
 

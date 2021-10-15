@@ -21,7 +21,7 @@ keywords:
 <p><div><img style="margin: 0 auto; display: block; max-width: 100%;" src="https://content.screencast.com/users/echinaek.val/folders/Capture/media/d02849a8-64fb-4762-96a0-aaa2e111b12d/LWR_Recording.png" width="700" height="auto" /></div></p>
 <p>В форме редактирования можно установить сразу несколько параметров. Для Вида работ, Участка доступны варианты добавления и удаления значений. После установки значений для выбранных параметров нажмите кнопку Применить.</p>
 
-<p>Подробнее читайте в статье базы знаний <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/GroupActions.html">Массовые действия для списка объектов</a>.</p>
+<p>Подробнее читайте в статье базы знаний: <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/GroupActions.html">Массовые действия для списка объектов</a>.</p>
 
 <p>Предложения по доработкам в системе и сообщениям об ошибках просим отправлять к нам в "чат с поддержкой" в веб-приложении или на почту <a href="mailto:support@hubex.ru" target="_blank" rel="noopener"> support@hubex.ru </a>.</p>
 

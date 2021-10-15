@@ -44,3 +44,5 @@
 Информация о версиях приложения обновляется постоянно внутри статей.
 
 <h4><a href="docs/FAQ/RU/ReleaseNotes/EngineerApp.html">Обновления мобильного приложения HubEx для сервисной службы <span class="new-badge"></span> 14.10.2021</a></h4>
+
+<h4><a href="docs/FAQ/RU/ReleaseNotes/CustomerApp.html">Обновления мобильного приложения HubEx для заказчика <span class="new-badge"></span> 14.10.2021</a></h4>

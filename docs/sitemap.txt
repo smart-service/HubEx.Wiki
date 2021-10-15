@@ -109,3 +109,5 @@ https://wiki.hubex.ru/docs/FAQ/RU/ReleaseNotes/TicketsUpdates19052021.html
 https://wiki.hubex.ru/docs/FAQ/RU/ReleaseNotes/EngineersAnalytic19052021.html
 https://wiki.hubex.ru/docs/FAQ/RU/ReleaseNotes/AttachingMedia03082021.html
 https://wiki.hubex.ru/docs/FAQ/RU/ReleaseNotes/StageAndRules04082021.html
+https://wiki.hubex.ru/docs/FAQ/RU/ReleaseNotes/EngineerApp.html
+https://wiki.hubex.ru/docs/FAQ/RU/ReleaseNotes/CustomerApp.html

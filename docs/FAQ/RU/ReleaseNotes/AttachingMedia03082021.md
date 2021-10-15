@@ -22,7 +22,7 @@ keywords:
 <p>В чатах web-версии также доступна возможность прикрепления фото и видео файлов (нужно также нажать на значок скрепки).</p>
 <div><img style="margin: 0 auto; display: block; max-width: 100%;" src="https://content.screencast.com/users/echinaek.val/folders/Capture/media/b4d68e9c-08e9-41ce-8741-6d9eac8781ab/LWR_Recording.png" width="700" height="auto" /></div>
 
-<p>Подробнее о сообщениях и чатах читайте в статье базы знаний <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/Messages.html">Сообщения по заявке</a>.</p>
+<p>Подробнее о сообщениях и чатах читайте в статье базы знаний: <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/Messages.html">Сообщения по заявке</a>.</p>
 <p>Предложения по доработкам в системе и сообщениям об ошибках просим отправлять к нам в "чат с поддержкой" в веб-приложении или на почту <a href="mailto:support@hubex.ru" target="_blank" rel="noopener"> support@hubex.ru </a>.</p>
 
 

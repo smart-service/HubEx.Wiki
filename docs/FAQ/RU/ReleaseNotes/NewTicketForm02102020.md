@@ -25,7 +25,7 @@ keywords:
 <p><span style="font-weight: @ArticleID00;"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://recordit.co/KAneEOB0qk.gif" alt="" width="700" height="auto" /></span></p>
 
 
-<p>Подробнее читайте в статье базы знаний <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/CreatingTicket.html">Создание заявки</a>.</p>
+<p>Подробнее читайте в статье базы знаний: <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/CreatingTicket.html">Создание заявки</a>.</p>
 
 <p>Предложения по доработкам в системе и сообщениям об ошибках просим отправлять к нам в "чат с поддержкой" в веб-приложении или на почту <a href="mailto:support@hubex.ru" target="_blank" rel="noopener"> support@hubex.ru </a>.</p>
 

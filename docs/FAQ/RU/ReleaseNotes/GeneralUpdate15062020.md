@@ -30,7 +30,7 @@ keywords:
 <p>Такое правило позволит выполнять автоназначение на заявки тех исполнителей, которые ранее обслуживали указанный <strong>Объект</strong> и выполняли заданные виды работ на нем.</p>
 
 
-<p>Подробнее читайте в статьях базы знаний: <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/Calendar.html">Календарь заявок</a>, <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/CreatingObjects.html">Создание обслуживаемого оборудования</a>.</p>
+<p>Подробнее читайте в статьях базы знаний: <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/HowToSendInvitation.html">Отправка приглашения для сотрудника/заказчика</a>, <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/CreatingUser.html">Создание пользователя вашей системы</a>.</p>
 
 <p>Предложения по доработкам в системе и сообщениям об ошибках просим отправлять к нам в "чат с поддержкой" в веб-приложении или на почту <a href="mailto:support@hubex.ru" target="_blank" rel="noopener"> support@hubex.ru </a>.</p>
 

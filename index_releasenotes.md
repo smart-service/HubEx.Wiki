@@ -25,6 +25,7 @@
 <h4><a href="docs/FAQ/RU/ReleaseNotes/TicketsUpdates19052021.html">Новый функционал по заявкам: обновление от 19.05.2021</a></h4>
 <h4><a href="docs/FAQ/RU/ReleaseNotes/ObjectsAnalytic29032021.html">Отчет по объектам: обновление от 29.03.2021</a></h4>
 <h4><a href="docs/FAQ/RU/ReleaseNotes/TicketsOnMap19032021.html">Заявки на карте: обновление от 19.03.2021</a></h4>
+<h4><a href="docs/FAQ/RU/ReleaseNotes/Schedule24022021.html">График работы исполнителей в календаре Заявок: обновление от 24.02.2021</a></h4>
 <h4><a href="docs/FAQ/RU/ReleaseNotes/GeneralUpdate16022021.html">Важные доработки (ифоподсказки, копирование жизненного цикла и др.): обновление от 16.02.2021</a></h4>
 <h4><a href="docs/FAQ/RU/ReleaseNotes/Roles20012021.html">Изменение интерфейса Ролей: обновление от 20.01.2021</a></h4>
 <h4><a href="docs/FAQ/RU/ReleaseNotes/Import11012021.html">Доработка импорта: обновление от 11.01.2021</a></h4>

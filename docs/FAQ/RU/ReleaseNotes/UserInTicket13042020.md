@@ -22,17 +22,18 @@ keywords:
 <p>Цвет <strong>Заявок</strong> в календаре соответствует цвету <strong>Критичности</strong>.</p>
 
 <li>Назначить время выполнения <strong>Заявки</strong> можно:
-
+<ul>
 <li>явно задав даты и время в соответствующих полях;</li>
-<li>при назначении свободной <strong>Заявки</strong> на необходимое время  в календаре по кнопке <strong>+</strong> и растягивания <strong>Заявки</strong> во времени.</li></p>
+<li>при назначении свободной <strong>Заявки</strong> на необходимое время  в календаре по кнопке <strong>+</strong> и растягивания <strong>Заявки</strong> во времени.</li>
+</ul>
 
-<div><img style="margin: 0 auto; display: block; max-width: 100%;" src="https://239911.selcdn.ru/Public/_articles/release_13.04.2020/engineer_schedule_2_1.png" width="559" height="auto" /></div>
+<div><img style="margin: 0 auto; display: block; max-width: 80%;" src="https://239911.selcdn.ru/Public/_articles/release_13.04.2020/engineer_schedule_2_1.png" width="559" height="auto" /></div>
 
 </li>
 
 <p>При выборе исполнителя по календарю можно также посмотреть, в какие дни у <strong>Сотрудника</strong> время занято <strong>Заявками</strong> (красный индикатор), а в какие он свободен.
 
-<div><img style="margin: 0 auto; display: block; max-width: 100%;" src="https://239911.selcdn.ru/Public/_articles/release_13.04.2020/engineer_schedule_3.png" width="559" height="auto" /></div>
+<div><img style="margin: 0 auto; display: block; max-width: 120%;" src="https://239911.selcdn.ru/Public/_articles/release_13.04.2020/engineer_schedule_3.png" width="559" height="auto" /></div>
 
 </ol>
 <p>Подробнее читайте в статьях базы знаний: <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/CreatingTicket.html">Создание заявки</a>, <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/Schedule.html">График работы исполнителей</a>.</p>

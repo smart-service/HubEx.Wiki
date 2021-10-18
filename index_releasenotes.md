@@ -40,6 +40,7 @@
 <h4><a href="docs/FAQ/RU/ReleaseNotes/MapInTicket04092020.html">Назначение исполнителей из карты в Заявке: обновление от 04.09.2020</a></h4>
 <h4><a href="docs/FAQ/RU/ReleaseNotes/NewCompanyForm01082020.html">Новая форма Компании: обновление от 01.08.2020</a></h4>
 <h4><a href="docs/FAQ/RU/ReleaseNotes/GeneralUpdate15062020.html">Улучшения и доработки: обновление от 15.06.2020</a></h4>
+<h4><a href="docs/FAQ/RU/ReleaseNotes/Materials27042020.html">Учет материалов в Заявке: обновление от 27.04.2020</a></h4>
  
 
 ### Обновления мобильных приложений HubEx для сервисных специалистов и заказчиков

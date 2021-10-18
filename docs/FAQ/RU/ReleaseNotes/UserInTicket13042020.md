@@ -29,7 +29,7 @@ keywords:
 <li>при назначении свободной <strong>Заявки</strong> на необходимое время  в календаре по кнопке <strong>+</strong> и растягивания <strong>Заявки</strong> во времени.</li>
 </ul>
 
-<div><img style="margin: 0 auto; display: block; max-width: 80%;" src="https://239911.selcdn.ru/Public/_articles/release_13.04.2020/engineer_schedule_2_1.png" width="559" height="auto" /></div>
+<div><img style="margin: 0 auto; display: block; max-width: 60%;" src="https://239911.selcdn.ru/Public/_articles/release_13.04.2020/engineer_schedule_2_1.png" width="559" height="auto" /></div>
 
 </li>
 

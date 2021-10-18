@@ -182,7 +182,7 @@ keywords: создание сотрудника, создание пользов
 <p>Если после ввода телефона/электронной почты при <a href="#newuser">заполнении и сохранении новой карточки <strong>Сотрудника</strong></a>, на указанный телефон/электроный адрес приглашение так и не пришло, то можно отправить его повторно. </p>
 <p>В карточке <strong>Сотрудника</strong> или в общем списке всех <strong>Сотрудников</strong> нажмите на контекстное меню (три точки) и выберите пункт  <strong>Отправить приглашение повторно</strong>. </p>
 <div>
-    <img style="margin: 0 auto; display: block; max-width: 70%;"
+    <img style="margin: 0 auto; display: block; max-width: 95%;"
          src="/attachments/images/FAQ/USER/CreatingUser/Invite.jpg"/>
 </div>
 

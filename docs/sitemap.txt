@@ -90,6 +90,7 @@ https://wiki.hubex.ru/docs/FAQ/RU/user/AcceptanceTicket.html
 https://wiki.hubex.ru/docs/FAQ/RU/user/RoleVSPosition.html
 https://wiki.hubex.ru/docs/FAQ/RU/user/MobileDevice.html
 
+https://wiki.hubex.ru/docs/FAQ/RU/ReleaseNotes/GeneralUpdate15062020.html
 https://wiki.hubex.ru/docs/FAQ/RU/ReleaseNotes/NewCompanyForm01082020.html
 https://wiki.hubex.ru/docs/FAQ/RU/ReleaseNotes/MapInTicket04092020.html
 https://wiki.hubex.ru/docs/FAQ/RU/ReleaseNotes/Schedule18092020.html

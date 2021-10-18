@@ -49,8 +49,8 @@ keywords:
 
 <li>Заполнение данных об израсходованных по заявке материалов.
 
-<p>Сервисный специалист в ходе выполнения заявки заполняет данные об израсходованных материалах в разделе <strong>Выполнение</strong>.</p>
-<div><img style="margin: 0 auto; display: block; max-width: 100%;" src="https://239911.selcdn.ru/Public/_articles/release%2028.04%20Warehouses/4.0.png" width="559" height="auto" /></div>
+<p>Сервисный специалист в ходе выполнения <strong>Заявки</strong> заполняет данные об израсходованных материалах в разделе <strong>Выполнение</strong>.</p>
+<div><img style="margin: 0 auto; display: block; max-width: 60%;" src="https://239911.selcdn.ru/Public/_articles/release%2028.04%20Warehouses/4.0.png" width="559" height="auto" /></div>
 </li>
 
 <li>Контроль фактического расхода материалов.

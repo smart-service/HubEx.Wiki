@@ -61,14 +61,14 @@ keywords: бригада рабочих, группа специалистов, 
                     другого по кнопке <Strong>Добавить исполнителя</Strong>.</p>
 
                 <div>
-                    <img style="margin: 0 auto; display: block; max-width: 90%;"
+                    <img style="margin: 0 auto; display: block; max-width: 95%;"
                          src="/attachments/images/FAQ/USER/SeveralEngineers/AddEngineer.jpg"/>
                 </div>
                 <p>По кнопке <Strong>Добавить исполнителя</Strong> открывается форма выбора, в которой с помощью флажков
                     можно выбрать
                     несколько исполнителей сразу и указать их часовую ставку.</p>
                 <div>
-                    <img style="margin: 0 auto; display: block; max-width: 90%;"
+                    <img style="margin: 0 auto; display: block; max-width: 95%;"
                          src="/attachments/images/FAQ/USER/SeveralEngineers/SelectEngineers.jpg"/>
                 </div>
                 <p>Указать часовую ставку можно также на форме заполнения выполненных работ. Там же заполняется начало и
@@ -83,7 +83,7 @@ keywords: бригада рабочих, группа специалистов, 
                 <p>Таким образом вы получите двух специалистов, которые одновременно выполняли работы по
                     <Strong>Заявке</Strong>.</p>
                 <div>
-                    <img style="margin: 0 auto; display: block; max-width: 90%;"
+                    <img style="margin: 0 auto; display: block; max-width: 95%;"
                          src="/attachments/images/FAQ/USER/SeveralEngineers/TwoEngineers.jpg"/>
                 </div>
                 <p>В результате вы получите <Strong>Акт выполненных работ</Strong> на одну единицу работы и с учетом

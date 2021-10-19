@@ -117,7 +117,7 @@ keywords: бригада рабочих, группа специалистов, 
 
                 <p>Исполнитель, указанный в чате и добавленный в выполненную работу сможет увидеть эту <Strong>Заявку</Strong> у себя в приложении во вкладке <Strong>Все</Strong>.</p>
                 <div>
-                    <img style="margin: 0 auto; display: block; max-width: 30%;"
+                    <img style="margin: 0 auto; display: block; max-width: 40%;"
                          src="/attachments/images/FAQ/USER/SeveralEngineers/MobAllTickets2.jpg"/>
                 </div>
             </li>
@@ -130,7 +130,7 @@ keywords: бригада рабочих, группа специалистов, 
                 приложении откройте список всех заявок. Если заявка была назначена на вас, то откройте список своих
                 заявок.</p>
                 <div>
-                    <img style="margin: 0 auto; display: block; max-width: 30%;"
+                    <img style="margin: 0 auto; display: block; max-width: 40%;"
                          src="/attachments/images/FAQ/USER/SeveralEngineers/MobAllTickets.jpg"/>
                 </div>
                 <p>Обратите внимание! При
@@ -143,16 +143,16 @@ keywords: бригада рабочих, группа специалистов, 
                 <p>В <Strong>Заявке</Strong> перейдите на вкладку <Strong>Выполнение</Strong> и добаьте выполненную
                     работу.</p>
                 <div>
-                    <img style="margin: 0 auto; display: block; max-width: 30%;"
+                    <img style="margin: 0 auto; display: block; max-width: 40%;"
                          src="/attachments/images/FAQ/USER/SeveralEngineers/MobFile.jpg"/>
                 </div>
                 <p>Укажите несколько специалистов. Далее заполните материалы, если это необходимо. Обратите внимание!
                     Для роли сервисного специалиста могут быть введены ограничения на установление часовой ставки и
                     оценки стоимости работы. </p>
                 <div style="display: flex;">
-                    <img style="margin: 0 auto; display: block; max-width: 30%;"
+                    <img style="margin: 0 auto; display: block; max-width: 40%;"
                          src="/attachments/images/FAQ/USER/SeveralEngineers/MobAddEngineer.jpg"/> <img
-                        style="margin: 0 auto; display: block; max-width: 30%;"
+                        style="margin: 0 auto; display: block; max-width: 40%;"
                         src="/attachments/images/FAQ/USER/SeveralEngineers/MobTwoEngineers.jpg"/>
                 </div>
 

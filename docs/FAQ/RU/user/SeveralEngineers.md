@@ -48,7 +48,7 @@ keywords: бригада рабочих, группа специалистов, 
                          src="/attachments/images/FAQ/USER/SeveralEngineers/ChatChat.jpg"/>
                 </div></p>
                <p> <div>
-                    <img style="margin: 0 auto; display: block; max-width: 90%;"
+                    <img style="margin: 0 auto; display: block; max-width: 95%;"
                          src="/attachments/images/FAQ/USER/SeveralEngineers/Chat2.jpg"/>
                 </div></p>
             </li>

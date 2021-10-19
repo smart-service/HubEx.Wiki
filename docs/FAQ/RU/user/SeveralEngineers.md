@@ -173,13 +173,13 @@ keywords: бригада рабочих, группа специалистов, 
             отобразится на вкладке <Strong>Дочерние заявки</Strong>
             и появится в общем списке заявок. </p>
         <div>
-            <img style="margin: 0 auto; display: block; max-width: 90%;"
+            <img style="margin: 0 auto; display: block; max-width: 95%;"
                  src="/attachments/images/FAQ/USER/SeveralEngineers/ChildTickets.jpg"/>
         </div>
         <p>Щелкните по дочерней заявке в списке, перед вами откроется полная форма заявки. Отличие дочерней заявки от
             родительской заключается в заполненном поле <Strong>Родительская заявка</Strong>.</p>
         <div>
-            <img style="margin: 0 auto; display: block; max-width: 90%;"
+            <img style="margin: 0 auto; display: block; max-width: 95%;"
                  src="/attachments/images/FAQ/USER/SeveralEngineers/ParentTicket.jpg"/>
         </div>
         <p>В мобильном приложении инженера дочерние заявки будут отображаться как обычные <Strong>Заявки</Strong>.</p>

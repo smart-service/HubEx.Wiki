@@ -90,7 +90,7 @@ keywords: бригада рабочих, группа специалистов, 
                     работы двух
                     специалистов одновременно.</p>
                 <div>
-                    <img style="margin: 0 auto; display: block; max-width: 90%;"
+                    <img style="margin: 0 auto; display: block; max-width: 95%;"
                          src="/attachments/images/FAQ/USER/SeveralEngineers/Act1.jpg"/>
                 </div>
 

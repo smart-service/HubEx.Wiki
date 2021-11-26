@@ -1049,7 +1049,7 @@ keywords:  hubex, хабекс, хубекс, хабикс
 
 <p id="">По результатам согласования инициатор Заявки получит сообщение на почту.</p>
 <div>
-    <img style="margin: 0 auto; display: block; max-width: 80%;"
+    <img style="margin: 0 auto; display: block; max-width: 85%;"
          src="/attachments/images/FAQ/ADMIN/TicketsAgreement/Email4.jpg"/>
 </div>
 </body>

@@ -475,9 +475,10 @@ keywords:  hubex, хабекс, хубекс, хабикс
     в себя параллельное согласование, представлен на схеме ниже. Данная схема отрисована с учетом настроек в HubEx.
 </p>
 
+
 <div>
-    <img style="align:center; max-width: 120%;"
-         src="/attachments/images/FAQ/ADMIN/TicketsAgreement/Parallel.jpg"/>
+    <img style="margin: 0 auto; display: block; max-width: 100%;"
+         src="/attachments/images/FAQ/ADMIN/TicketsAgreement/Parallel1.jpg"/>
 </div>
 
 <p>Обратите внимание на стадии со звездочкой: <strong>Согласована начальником подразделения</strong> и <strong>Согласована начальником

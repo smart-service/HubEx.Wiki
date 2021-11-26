@@ -10,10 +10,12 @@ keywords:  hubex, хабекс, хубекс, хабикс
 <meta charset="utf-8">
 <ul>
     <li><a href="#simple">Что такое линейное согласование</a>;</li>
+    <li><a href="tickettype1">Как создать тип заявки для линейного согласования</a>;</li>
     <li><a href="#customeragreement1">Как настроить стадии и жизненный цикл для линейного согласования заявок</a>;</li>
     <li><a href="#message1">Как настроить оповещения для линейного согласования</a>;</li>
     <li><a href="#web1">Как выглядит линейное согласование в web-приложении</a>;</li>
     <li><a href="#parallel">Что такое параллельное согласование</a>;</li>
+    <li><a href="tickettype2">Как создать тип заявки для параллельного согласования</a>;</li>
     <li><a href="#customeragreement2">Как настроить стадии и жизненный цикл для параллельного согласования заявок</a>;
     </li>
     <li><a href="#message2">Как настроить оповещения для параллельного согласования</a>;</li>
@@ -75,7 +77,7 @@ keywords:  hubex, хабекс, хубекс, хабикс
         проходят одинаковые этапы, то достаточно будет одного <strong>Типа заявки</strong>, который будет определять их
         жизненный цикл;
     </li>
-    <li>создать необходимые стадии <strong>Заявки</strong> для согласования; <!--, в пару к стадиям также необходимо создать
+    <li>создать необходимые  <strong>Стадии заявки</strong> для согласования; <!--, в пару к стадиям также необходимо создать
         статусы. Стадии отображаются в web-приложении, статусы - в web-приложении и в мобильном приложении заказчика.
         Подробнее читайте в статье: <a href="https://wiki.hubex.ru/docs/FAQ/RU/admin/StageVSStatus.html">Чем отличаются
             Стадии заявки от Статусов заявки?</a>-->
@@ -105,13 +107,13 @@ keywords:  hubex, хабекс, хубекс, хабикс
 
 <p>Отрисовка такой схемы является подготовительным этапом перед <a href="#settings">настройкой процедуры
     согласования</a> - из нее мы четко видим
-    процесс, можем выделить Стадии заявки, понять настройку жизненного цикла и увидеть, на каких Стадиях и кому должны
+    процесс, можем выделить <strong>Стадии заявки</strong>, понять настройку жизненного цикла и увидеть, на каких <strong>Стадиях заявок</strong> и кому должны
     приходить
     уведомления.</p>
 <p>Теперь пройдемся по консоли администратора и настроим согласование в HubEx.</p>
 
 
-<h5 id="tickettype1">1.1. Тип заявки</h5>
+<h5 id="tickettype1">1.1. Тип заявки для линейного согласования</h5>
 
 <p>Мы будем использовать отдельный <strong>Тип заявки</strong> для настройки конкретного процесса - закупки ТМЦ.</p>
 <p>Новый тип можно создать в меню
@@ -128,7 +130,7 @@ keywords:  hubex, хабекс, хубекс, хабикс
     читайте в статях: <a href="https://wiki.hubex.ru/docs/FAQ/RU/admin/Places.html">Настройка участков</a>, <a
             href="https://wiki.hubex.ru/docs/FAQ/RU/admin/TicketType.html">Типы заявок</a>. </p>
 
-<h5 id="customeragreement1">1.2. Стадии заявки и настройка жизненного цикла</h5>
+<h5 id="customeragreement1">1.2. Стадии заявки и настройка жизненного цикла для линейного согласования</h5>
 <p>В рамках данного примера считается, что стадии <strong>Новая</strong>, <strong>Выполнена</strong> и
     <strong>Закрыта</strong> уже были созданы.</p>
 <p>Для настройки согласования вам потребуется создать три новые стадии
@@ -152,7 +154,7 @@ keywords:  hubex, хабекс, хубекс, хабикс
     <li><strong>Согласована</strong> - если <strong>Заявка</strong> отвечает всем требованиям ответственного за
         согласование, то он
         переводит ее на эту стадию. В настройке жизненного цикла переход на эту стадию мы сделаем доступным только для
-        роли, принадлежащей ответственному;
+        <strong>Роли</strong>, принадлежащей ответственному;
 
     </li>
 
@@ -167,7 +169,7 @@ keywords:  hubex, хабекс, хубекс, хабикс
         подтверждать <strong>Заявку</strong>, он
         переводит ее на эту стадию. В настройке жизненного цикла переход на эту стадию мы сделаем доступным также только
         для
-        роли, принадлежащей ответственному.
+        <strong>Роли</strong>, принадлежащей ответственному.
     </li>
     <p>
     <div>
@@ -235,10 +237,10 @@ keywords:  hubex, хабекс, хубекс, хабикс
         Далее при переходе на эту стадию мы также настроим в
         отправку уведомления ответственному лицу о необходимости согласовать <strong>Заявку</strong>;
     </li>
-    <div>
+    <p> <div>
         <img style="margin: 0 auto; display: block; max-width: 90%;"
              src="/attachments/images/FAQ/ADMIN/TicketsAgreement/LC1.jpg"/>
-    </div>
+    </div>  </p>
 
     <li>нажмите кнопку <strong>Сохранить</strong>;</li>
     <li>затем у стадии <strong>Согласование заявки</strong> нажмите кнопку <strong>Далее</strong> и добавьте переходы на
@@ -246,10 +248,10 @@ keywords:  hubex, хабекс, хубекс, хабикс
             Согласована</strong> и <strong>Не согласована</strong> с
         соответствующими названиями переходов;
     </li>
-    <div>
+    <p> <div>
         <img style="margin: 0 auto; display: block; max-width: 90%;"
              src="/attachments/images/FAQ/ADMIN/TicketsAgreement/LC2.jpg"/>
-    </div>
+    </div>  </p>
 
     <li>В поле <strong>Ветка жизненного цикла заявки</strong> для этих стадий можно выбрать значение <strong>Основная
         ветка</strong>. Так как дальше с <strong>Заявкой</strong> будет работать инициатор: выполнять/изменять и т.д.
@@ -269,13 +271,14 @@ keywords:  hubex, хабекс, хубекс, хабикс
         статьях: <a href="https://wiki.hubex.ru/docs/FAQ/RU/admin/Roles.html">Настройка ролей</a>, <a
                 href="https://wiki.hubex.ru/docs/FAQ/RU/user/CreatingUser.html">Создание пользователя вашей системы</a>.
     </li>
-    <div>
-        <img style="margin: 0 auto; display: block; max-width: 90%;"
+    <p> <div>
+        <img style="margin: 0 auto; display: block; max-width: 95%;"
              src="/attachments/images/FAQ/ADMIN/TicketsAgreement/LC3.jpg"/>
-    </div>
+    </div></p>
+
     <p>
     <div>
-        <img style="margin: 0 auto; display: block; max-width: 90%;"
+        <img style="margin: 0 auto; display: block; max-width: 95%;"
              src="/attachments/images/FAQ/ADMIN/TicketsAgreement/LC4.jpg"/>
     </div>
     </p>
@@ -288,11 +291,11 @@ keywords:  hubex, хабекс, хубекс, хабикс
     например, на стадию <strong>Закрыта</strong> или <strong>Согласование заявки</strong> - для повторного согласования,
     после внесения изменений.</p>
 <div>
-    <img style="margin: 0 auto; display: block; max-width: 90%;"
+    <img style="margin: 0 auto; display: block; max-width: 92%;"
          src="/attachments/images/FAQ/ADMIN/TicketsAgreement/LC5.jpg"/>
 </div>
 
-<h5 id="message1">1.3. Настройка оповещений</h5>
+<h5 id="message1">1.3. Настройка оповещений для линейного согласования</h5>
 <p>Для простой схемы согласования можно настроить уведомления на трех стадиях: </p>
 <ul>
     <li><strong>Согласование заявки</strong> - на этой стадии можно отправить уведомление согласующему о том, что ему
@@ -307,7 +310,7 @@ keywords:  hubex, хабекс, хубекс, хабикс
     </li>
 </ul>
 
-<p id="trigger1">Сначала настроим оповещение для ответственного по закупкам о том, что
+<p id="trigger1">Сначала настроим оповещение для ответственного за согласование о том, что
     <strong>Заявку</strong> необходимо согласовать. Уведомление может прийти по электронной почте или в виде
     push-уведомления
     на телефон. </p>
@@ -334,8 +337,7 @@ keywords:  hubex, хабекс, хубекс, хабикс
     </li>
     <li>в <strong>Заголовке сообщения</strong> подставится текст "Заявка №@Model.TaskNumber" (без кавычек);</li>
     <li>в поле <strong>Текст сообщения</strong> вы увидите текст в специальной разметке, в котором текстовые фразы можно
-        изменить на свои - Требуется согласование заявки и т.д. (вы можете скопировать текст сообщения из этого примера
-        без кавычек):
+        изменить на свои - Требуется согласование заявки и т.д. (вы можете скопировать текст сообщения из этого примера):
         <p>&lt;table style="width: 650px; max-height: 300px;"&gt;
             &lt;tbody&gt;
             &lt;tr&gt;
@@ -378,7 +380,7 @@ keywords:  hubex, хабекс, хубекс, хабикс
 <p>Письмо по этому триггеру уведомление придет на почтовый адрес пользователя, чья <strong>Роль</strong> была указана в правиле
     выбора. </p>
 <div>
-    <img style="margin: 0 auto; display: block; max-width: 60%;"
+    <img style="margin: 0 auto; display: block; max-width: 80%;"
          src="/attachments/images/FAQ/ADMIN/TicketsAgreement/Email.jpg"/>
 </div>
 
@@ -393,7 +395,7 @@ keywords:  hubex, хабекс, хубекс, хабикс
             href="https://wiki.hubex.ru/docs/FAQ/RU/admin/ElementsOfInterface.html">Поля на форме заявки: настройка
         доступа к полям заявки</a></p>
 <div>
-    <img style="margin: 0 auto; display: block; max-width: 60%;"
+    <img style="margin: 0 auto; display: block; max-width: 90%;"
          src="/attachments/images/FAQ/ADMIN/TicketsAgreement/Initiator.jpg"/>
 </div>
 
@@ -413,13 +415,13 @@ keywords:  hubex, хабекс, хубекс, хабикс
     <strong>Согласована</strong> и <strong>Не согласована</strong> нужно создать разные триггеры с разным текстом о
     результатах согласования и указать соответствующие стадии в настройках.</p>
 <div>
-    <img style="margin: 0 auto; display: block; max-width: 90%;"
+    <img style="margin: 0 auto; display: block; max-width: 95%;"
          src="/attachments/images/FAQ/ADMIN/TicketsAgreement/Triggers2.jpg"/>
 </div>
 
 <p>
 <div>
-    <img style="margin: 0 auto; display: block; max-width: 90%;"
+    <img style="margin: 0 auto; display: block; max-width: 95%;"
          src="/attachments/images/FAQ/ADMIN/TicketsAgreement/Triggers3.jpg"/>
 </div>
 </p>
@@ -430,7 +432,7 @@ keywords:  hubex, хабекс, хубекс, хабикс
 <h5 id="web1">1.4. Процесс линейного согласования в web-приложении</h5>
 <p>Инициатор создает <strong>Заявку</strong> с типом <strong>Закупка ТМЦ</strong>.</p>
 <div>
-    <img style="margin: 0 auto; display: block; max-width: 90%;"
+    <img style="margin: 0 auto; display: block; max-width: 95%;"
          src="/attachments/images/FAQ/ADMIN/TicketsAgreement/Ticket.jpg"/>
 </div>
 
@@ -438,7 +440,7 @@ keywords:  hubex, хабекс, хубекс, хабикс
     <a href="#auto">настроен в рамках жизненного цикла</a> для стадии <strong>Согласование заявки</strong>). </p>
 
 <div>
-    <img style="margin: 0 auto; display: block; max-width: 90%;"
+    <img style="margin: 0 auto; display: block; max-width: 95%;"
          src="/attachments/images/FAQ/ADMIN/TicketsAgreement/Ticket2.jpg"/>
 </div>
 
@@ -452,7 +454,7 @@ keywords:  hubex, хабекс, хубекс, хабикс
     либо <strong>Не
     согласована</strong>. </p>
 <div>
-    <img style="margin: 0 auto; display: block; max-width: 90%;"
+    <img style="margin: 0 auto; display: block; max-width: 95%;"
          src="/attachments/images/FAQ/ADMIN/TicketsAgreement/Ticket3.jpg"/>
 </div>
 
@@ -474,7 +476,7 @@ keywords:  hubex, хабекс, хубекс, хабикс
 </p>
 
 <div>
-    <img style="margin: 0 auto; display: block; max-width: 95%;"
+    <img style="margin: 0 auto; display: block; max-width: 120%;"
          src="/attachments/images/FAQ/ADMIN/TicketsAgreement/Parallel.jpg"/>
 </div>
 
@@ -498,14 +500,25 @@ keywords:  hubex, хабекс, хубекс, хабикс
 <p>Теперь пройдемся по консоли администратора и настроим паралелльное согласование в HubEx.</p>
 
 
-<h5 id="">2.1. Тип заявки</h5>
-<p>в примере мы будем использовать тот же <strong>Тип заявки</strong>, который использовался для примера <a
+<h5 id="tickettype2">2.1. Тип заявки для параллельного согласования</h5>
+<p>В примере мы будем использовать тот же <strong>Тип заявки</strong>, который использовался для примера <a
         href="#tickettype1">линейного согласования</a> - <strong>Закупка ТМЦ</strong>.</p>
 <p>Но настройка <strong>Жизненного цикла</strong> будет отличаться. Для одного <strong>Типа заявки</strong> может быть настроен только один<strong> Жизненный
     цикл</strong>.</p>
+<p>Подробнее
+читайте в стате: <a href="https://wiki.hubex.ru/docs/FAQ/RU/admin/TicketType.html">Типы заявок</a>.</p>
+<div>
+    <img style="margin: 0 auto; display: block; max-width: 60%;"
+         src="/attachments/images/FAQ/ADMIN/TicketsAgreement/Type.jpg"/>
+</div>
+
+<p>Обратите внимание! Если вы используете <strong>Участки</strong>, их необходимо указывать в карточке <strong>Типа
+    заявки</strong>. Подробнее
+    читайте в статях: <a href="https://wiki.hubex.ru/docs/FAQ/RU/admin/Places.html">Настройка участков</a>, <a
+            href="https://wiki.hubex.ru/docs/FAQ/RU/admin/TicketType.html">Типы заявок</a>. </p>
 
 
-<h5 id="customeragreement2">2.2. Стадии заявки и настройка жизненного цикла</h5>
+<h5 id="customeragreement2">2.2. Стадии заявки и настройка жизненного цикла для параллельного согласования</h5>
 <p>В рамках данного примера считаем, что стадии <strong>Новая</strong>, <strong>Выполнена</strong> и
     <strong>Закрыта</strong> уже были созданы.</p>
 <p>Для настройки параллельного согласования вам потребуется создать шесть новых стадий
@@ -519,6 +532,7 @@ keywords:  hubex, хабекс, хубекс, хабикс
         настроим в
         отправку уведомлений двум ответственным о необходимости согласовать <strong>Заявку</strong>;
     </li>
+
     <p>
     <div>
         <img style="margin: 0 auto; display: block; max-width: 60%;"
@@ -526,15 +540,16 @@ keywords:  hubex, хабекс, хубекс, хабикс
     </div>
     </p>
 
+
     <li><strong>Согласована начальником подразделения</strong> - на эту стадию может перейти только начальник
         подразделения и только со
         стадии <strong>Согласование заявки</strong>, а также при переводе <strong>Заявки</strong> на эту стадию второй ответственный за согласование
         должен получить уведомление о том, что первое согласующее лицо <strong>Заявку</strong> одобрило;
     </li>
-    <div>
+    <p> <div>
         <img style="margin: 0 auto; display: block; max-width: 60%;"
              src="/attachments/images/FAQ/ADMIN/TicketsAgreement/Stage4.jpg"/>
-    </div>
+    </div>  </p>
 
     <li><strong>Согласована ответственным по закупкам</strong> - на эту стадию может перейти только ответственный по
         закупкам и только со
@@ -542,10 +557,10 @@ keywords:  hubex, хабекс, хубекс, хабикс
         должен получить уведомление о том, что первое согласующее лицо <strong>Заявку</strong> одобрило;
     </li>
 
-    <div>
+    <p> <div>
         <img style="margin: 0 auto; display: block; max-width: 60%;"
              src="/attachments/images/FAQ/ADMIN/TicketsAgreement/Stage6.jpg"/>
-    </div>
+    </div>  </p>
 
     <li><strong>Согласована ответственным по закупкам*</strong> - на эту стадию может перейти только ответственный по
         закупкам и только со
@@ -562,11 +577,11 @@ keywords:  hubex, хабекс, хубекс, хабикс
         стадии <strong>Согласована ответственным по закупкам</strong>, а также при переводе <strong>Заявки</strong> на эту стадию инициатор <strong>Заявки</strong>
         получает уведомление, что оба ответственных лица согласовали <strong>Заявку</strong>;
     </li>
-    <div>
+    <p> <div>
         <img style="margin: 0 auto; display: block; max-width: 60%;"
              src="/attachments/images/FAQ/ADMIN/TicketsAgreement/Stage5.jpg"/>
     </div>
-
+    </p>
     <li><strong>Не согласована</strong> - если ответственные отказываются
         подтверждать <strong>Заявку</strong>, то ее переводят на стадию <strong>Не согласована</strong> с любой из предыдущих пяти
         стадий. В настройке жизненного цикла переход на эту стадию мы сделаем доступным только
@@ -611,10 +626,10 @@ keywords:  hubex, хабекс, хубекс, хабикс
         Далее при переходе на эту стадию мы также настроим в
         отправку уведомления ответственному лицу о необходимости согласовать <strong>Заявку</strong>;
     </li>
-    <div>
-        <img style="margin: 0 auto; display: block; max-width: 90%;"
+    <p><div>
+        <img style="margin: 0 auto; display: block; max-width: 95%;"
              src="/attachments/images/FAQ/ADMIN/TicketsAgreement/LC1.jpg"/>
-    </div>
+    </div>  </p>
 
     <li>нажмите кнопку <strong>Сохранить</strong>;</li>
     <li>затем у стадии <strong>Согласование заявки</strong> нажмите кнопку <strong>Далее</strong> и добавьте переходы на
@@ -623,10 +638,10 @@ keywords:  hubex, хабекс, хубекс, хабикс
         <strong>Не согласована</strong> с
         соответствующими названиями переходов;
     </li>
-    <div>
-        <img style="margin: 0 auto; display: block; max-width: 90%;"
+    <p><div>
+        <img style="margin: 0 auto; display: block; max-width: 95%;"
              src="/attachments/images/FAQ/ADMIN/TicketsAgreement/LC2.jpg"/>
-    </div>
+    </div>  </p>
 
     <li>В поле <strong>Ветка жизненного цикла заявки</strong> для стадий <strong>
         Согласована начальником подразделения</strong>, <strong>Согласована ответственным по закупкам</strong> можно
@@ -652,10 +667,10 @@ keywords:  hubex, хабекс, хубекс, хабикс
                     href="https://wiki.hubex.ru/docs/FAQ/RU/user/CreatingUser.html">Создание пользователя вашей
                 системы</a>.</p>
     </li>
-    <div>
-        <img style="margin: 0 auto; display: block; max-width: 90%;"
+    <p><div>
+        <img style="margin: 0 auto; display: block; max-width: 95%;"
              src="/attachments/images/FAQ/ADMIN/TicketsAgreement/LC3-1.jpg"/>
-    </div>
+    </div>  </p>
     <p>
     <div>
         <img style="margin: 0 auto; display: block; max-width: 90%;"
@@ -693,10 +708,10 @@ keywords:  hubex, хабекс, хубекс, хабикс
                     href="https://wiki.hubex.ru/docs/FAQ/RU/user/CreatingUser.html">Создание пользователя вашей
                 системы</a>.</p>
     </li>
-    <div>
+    <p> <div>
         <img style="margin: 0 auto; display: block; max-width: 90%;"
              src="/attachments/images/FAQ/ADMIN/TicketsAgreement/LC4-2.jpg"/>
-    </div>
+    </div>  </p>
 
     <p>
     <div>
@@ -705,7 +720,7 @@ keywords:  hubex, хабекс, хубекс, хабикс
     </div>
     </p>
 
-</ul>
+
 
 <li>со стадии <strong>Согласована
     ответственным по закупкам</strong> настройте переход на стадию <strong>Согласована начальником
@@ -730,16 +745,17 @@ keywords:  hubex, хабекс, хубекс, хабикс
                 href="https://wiki.hubex.ru/docs/FAQ/RU/user/CreatingUser.html">Создание пользователя вашей
             системы</a>.</p>
 </li>
-<div>
+<p><div>
     <img style="margin: 0 auto; display: block; max-width: 90%;"
          src="/attachments/images/FAQ/ADMIN/TicketsAgreement/LC4-4.jpg"/>
-</div>
+</div>  </p>
 <p>
 <div>
     <img style="margin: 0 auto; display: block; max-width: 90%;"
          src="/attachments/images/FAQ/ADMIN/TicketsAgreement/LC4-5.jpg"/>
 </div>
 </p>
+
 </ul>
 
 
@@ -756,7 +772,7 @@ keywords:  hubex, хабекс, хубекс, хабикс
          src="/attachments/images/FAQ/ADMIN/TicketsAgreement/LC5-1.jpg"/>
 </div>
 
-<h5 id="message2">2.3. Настройка оповещений</h5>
+<h5 id="message2">2.3. Настройка оповещений для параллельного согласования</h5>
 <p>Для простой схемы согласования можно настроить уведомления на пяти стадиях: </p>
 <ul>
     <li><strong>Согласование заявки</strong> - на этой стадии можно отправить уведомление двум согласующим о том, что им необходимо
@@ -817,8 +833,7 @@ keywords:  hubex, хабекс, хубекс, хабикс
     </li>
     <li>в <strong>Заголовке сообщения</strong> подставится текст "Заявка №@Model.TaskNumber" (без кавычек);</li>
     <li>в поле <strong>Текст сообщения</strong> вы увидите текст в специальной разметке, в котором текстовые фразы можно
-        изменить на свои - Требуется согласование заявки и т.д. (вы можете скопировать текст сообщения из этого примера
-        без кавычек):
+        изменить на свои - Требуется согласование заявки и т.д. (вы можете скопировать текст сообщения из этого примера):
         <p>&lt;table style="width: 650px; max-height: 300px;"&gt;
             &lt;tbody&gt;
             &lt;tr&gt;
@@ -850,7 +865,7 @@ keywords:  hubex, хабекс, хубекс, хабикс
     </li>
 </ul>
 <div>
-    <img style="margin: 0 auto; display: block; max-width: 90%;"
+    <img style="margin: 0 auto; display: block; max-width: 95%;"
          src="/attachments/images/FAQ/ADMIN/TicketsAgreement/Triggers4.jpg"/>
 </div>
 
@@ -883,8 +898,7 @@ keywords:  hubex, хабекс, хубекс, хабикс
     </li>
     <li>в <strong>Заголовке сообщения</strong> подставится текст "Заявка №@Model.TaskNumber" (без кавычек);</li>
     <li>в поле <strong>Текст сообщения</strong> вы увидите текст в специальной разметке, в котором текстовые фразы можно
-        изменить на свои - Требуется согласование заявки и т.д. (вы можете скопировать текст сообщения из этого примера
-        без кавычек):
+        изменить на свои - Требуется согласование заявки и т.д. (вы можете скопировать текст сообщения из этого примера):
         <p>&lt;table style="width: 650px; max-height: 300px;"&gt;
             &lt;tbody&gt;
             &lt;tr&gt;
@@ -923,7 +937,7 @@ keywords:  hubex, хабекс, хубекс, хабикс
 
 <p>Письмо по этому триггеру уведомление придет на почтовый адреса Ответственного по закупкам. </p>
 <div>
-    <img style="margin: 0 auto; display: block; max-width: 60%;"
+    <img style="margin: 0 auto; display: block; max-width: 80%;"
          src="/attachments/images/FAQ/ADMIN/TicketsAgreement/Email2.jpg"/>
 </div>
 
@@ -946,7 +960,7 @@ keywords:  hubex, хабекс, хубекс, хабикс
             href="https://wiki.hubex.ru/docs/FAQ/RU/admin/ElementsOfInterface.html">Поля на форме заявки: настройка
         доступа к полям заявки</a>.</p>
 <div>
-    <img style="margin: 0 auto; display: block; max-width: 60%;"
+    <img style="margin: 0 auto; display: block; max-width: 90%;"
          src="/attachments/images/FAQ/ADMIN/TicketsAgreement/Initiator2.jpg"/>
 </div>
 
@@ -968,20 +982,20 @@ keywords:  hubex, хабекс, хубекс, хабикс
     текст об итогах
     согласования и указать соответствующие стадии в настройках.</p>
 <div>
-    <img style="margin: 0 auto; display: block; max-width: 90%;"
+    <img style="margin: 0 auto; display: block; max-width: 95%;"
          src="/attachments/images/FAQ/ADMIN/TicketsAgreement/Triggers6.jpg"/>
 </div>
 
 <p>
 <div>
-    <img style="margin: 0 auto; display: block; max-width: 90%;"
+    <img style="margin: 0 auto; display: block; max-width: 95%;"
          src="/attachments/images/FAQ/ADMIN/TicketsAgreement/Triggers7.jpg"/>
 </div>
 </p>
 <p>Письмо по этим триггерам уведомлениий придет на почтовый адрес <strong>Ответственного по закупкам</strong>. Например, об удачном
     согласовании письмо будет выглядеть следуюим образом. </p>
 <div>
-    <img style="margin: 0 auto; display: block; max-width: 60%;"
+    <img style="margin: 0 auto; display: block; max-width: 80%;"
          src="/attachments/images/FAQ/ADMIN/TicketsAgreement/Email2.jpg"/>
 </div>
 
@@ -995,7 +1009,7 @@ keywords:  hubex, хабекс, хубекс, хабикс
 
 
 <div>
-    <img style="margin: 0 auto; display: block; max-width: 90%;"
+    <img style="margin: 0 auto; display: block; max-width: 95%;"
          src="/attachments/images/FAQ/ADMIN/TicketsAgreement/Ticket4.jpg"/>
 </div>
 
@@ -1012,7 +1026,7 @@ keywords:  hubex, хабекс, хубекс, хабикс
     либо <strong>Не
     согласована</strong>. </p>
 <div>
-    <img style="margin: 0 auto; display: block; max-width: 90%;"
+    <img style="margin: 0 auto; display: block; max-width: 95%;"
          src="/attachments/images/FAQ/ADMIN/TicketsAgreement/Ticket5.jpg"/>
 </div>
 
@@ -1020,7 +1034,7 @@ keywords:  hubex, хабекс, хубекс, хабикс
     том, что первый ответственный уже согласовал <strong>Заявку</strong> и требуется решение второго. </p>
 
 <div>
-    <img style="margin: 0 auto; display: block; max-width: 90%;"
+    <img style="margin: 0 auto; display: block; max-width: 80%;"
          src="/attachments/images/FAQ/ADMIN/TicketsAgreement/Email3.jpg"/>
 </div>
 
@@ -1029,7 +1043,7 @@ keywords:  hubex, хабекс, хубекс, хабикс
     либо <strong>Не
     согласована</strong>.</p>
 <div>
-    <img style="margin: 0 auto; display: block; max-width: 90%;"
+    <img style="margin: 0 auto; display: block; max-width: 95%;"
          src="/attachments/images/FAQ/ADMIN/TicketsAgreement/Ticket6.jpg"/>
 </div>
 

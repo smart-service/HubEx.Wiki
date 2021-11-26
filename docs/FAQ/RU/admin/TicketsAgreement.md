@@ -476,7 +476,7 @@ keywords:  hubex, хабекс, хубекс, хабикс
 </p>
 
 <div>
-    <img style="margin: 0 auto; max-width: 120%;"
+    <img style=" max-width: 120%;"
          src="/attachments/images/FAQ/ADMIN/TicketsAgreement/Parallel.jpg"/>
 </div>
 

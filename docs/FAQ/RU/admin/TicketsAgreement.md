@@ -475,7 +475,6 @@ keywords:  hubex, хабекс, хубекс, хабикс
     в себя параллельное согласование, представлен на схеме ниже. Данная схема отрисована с учетом настроек в HubEx.
 </p>
 
-
 <div>
     <img style="margin: 0 auto; display: block; max-width: 100%;"
          src="/attachments/images/FAQ/ADMIN/TicketsAgreement/Parallel1.jpg"/>
@@ -568,10 +567,10 @@ keywords:  hubex, хабекс, хубекс, хабикс
         стадии <strong>Согласована начальником подразделения</strong>, а также при переводе <strong>Заявки</strong> на эту стадию инициатор <strong>Заявки</strong>
         получает уведомление, что оба ответственных лица согласовали <strong>Заявку</strong>;
     </li>
-    <div>
+    <p> <div>
         <img style="margin: 0 auto; display: block; max-width: 60%;"
              src="/attachments/images/FAQ/ADMIN/TicketsAgreement/Stage7.jpg"/>
-    </div>
+    </div> </p>
 
     <li><strong>Согласована начальником подразделения*</strong> - на эту стадию может перейти только начальник
         подразделения и только со
@@ -674,14 +673,14 @@ keywords:  hubex, хабекс, хубекс, хабикс
     </div>  </p>
     <p>
     <div>
-        <img style="margin: 0 auto; display: block; max-width: 90%;"
+        <img style="margin: 0 auto; display: block; max-width: 95%;"
              src="/attachments/images/FAQ/ADMIN/TicketsAgreement/LC3-2.jpg"/>
     </div>
     </p>
 
     <p>
     <div>
-        <img style="margin: 0 auto; display: block; max-width: 90%;"
+        <img style="margin: 0 auto; display: block; max-width: 95%;"
              src="/attachments/images/FAQ/ADMIN/TicketsAgreement/LC4-1.jpg"/>
     </div>
     </p>
@@ -710,13 +709,13 @@ keywords:  hubex, хабекс, хубекс, хабикс
                 системы</a>.</p>
     </li>
     <p> <div>
-        <img style="margin: 0 auto; display: block; max-width: 90%;"
+        <img style="margin: 0 auto; display: block; max-width: 95%;"
              src="/attachments/images/FAQ/ADMIN/TicketsAgreement/LC4-2.jpg"/>
     </div>  </p>
 
     <p>
     <div>
-        <img style="margin: 0 auto; display: block; max-width: 90%;"
+        <img style="margin: 0 auto; display: block; max-width: 95%;"
              src="/attachments/images/FAQ/ADMIN/TicketsAgreement/LC4-3.jpg"/>
     </div>
     </p>
@@ -747,12 +746,12 @@ keywords:  hubex, хабекс, хубекс, хабикс
             системы</a>.</p>
 </li>
 <p><div>
-    <img style="margin: 0 auto; display: block; max-width: 90%;"
+    <img style="margin: 0 auto; display: block; max-width: 95%;"
          src="/attachments/images/FAQ/ADMIN/TicketsAgreement/LC4-4.jpg"/>
 </div>  </p>
 <p>
 <div>
-    <img style="margin: 0 auto; display: block; max-width: 90%;"
+    <img style="margin: 0 auto; display: block; max-width: 95%;"
          src="/attachments/images/FAQ/ADMIN/TicketsAgreement/LC4-5.jpg"/>
 </div>
 </p>
@@ -769,7 +768,7 @@ keywords:  hubex, хабекс, хубекс, хабикс
     после внесения изменений.</p>
 
 <div>
-    <img style="margin: 0 auto; display: block; max-width: 90%;"
+    <img style="margin: 0 auto; display: block; max-width: 95%;"
          src="/attachments/images/FAQ/ADMIN/TicketsAgreement/LC5-1.jpg"/>
 </div>
 

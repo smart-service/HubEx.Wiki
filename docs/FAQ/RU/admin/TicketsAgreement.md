@@ -238,7 +238,7 @@ keywords:  hubex, хабекс, хубекс, хабикс
         отправку уведомления ответственному лицу о необходимости согласовать <strong>Заявку</strong>;
     </li>
     <p> <div>
-        <img style="margin: 0 auto; display: block; max-width: 90%;"
+        <img style="margin: 0 auto; display: block; max-width: 95%;"
              src="/attachments/images/FAQ/ADMIN/TicketsAgreement/LC1.jpg"/>
     </div>  </p>
 
@@ -249,7 +249,7 @@ keywords:  hubex, хабекс, хубекс, хабикс
         соответствующими названиями переходов;
     </li>
     <p> <div>
-        <img style="margin: 0 auto; display: block; max-width: 90%;"
+        <img style="margin: 0 auto; display: block; max-width: 95%;"
              src="/attachments/images/FAQ/ADMIN/TicketsAgreement/LC2.jpg"/>
     </div>  </p>
 
@@ -291,7 +291,7 @@ keywords:  hubex, хабекс, хубекс, хабикс
     например, на стадию <strong>Закрыта</strong> или <strong>Согласование заявки</strong> - для повторного согласования,
     после внесения изменений.</p>
 <div>
-    <img style="margin: 0 auto; display: block; max-width: 92%;"
+    <img style="margin: 0 auto; display: block; max-width: 91%;"
          src="/attachments/images/FAQ/ADMIN/TicketsAgreement/LC5.jpg"/>
 </div>
 
@@ -476,7 +476,7 @@ keywords:  hubex, хабекс, хубекс, хабикс
 </p>
 
 <div>
-    <img style="margin: 0 auto; display: block; max-width: 120%;"
+    <img style="margin: 0 auto; max-width: 120%;"
          src="/attachments/images/FAQ/ADMIN/TicketsAgreement/Parallel.jpg"/>
 </div>
 

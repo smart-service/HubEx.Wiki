@@ -1,7 +1,7 @@
 ---
 title: Создание обслуживаемых компаний
 description: Компании – это юридические или физические лица, которые выступают заказчиками и (или) подрядчиками. Также в справочник Компании вносятся данные по организации, от лица которой ведется учет в системе (наша компания). Создать новую Компанию можно в меню Компании по кнопке Создать компанию.
-keywords: создание компании, создать компанию, заказчик, подрядчик, наша компания, банковские реквизиты, вид клиента, тип контрагента, hubex, хабекс, хубекс, хабикс
+keywords: создание компании, создать компанию, заказчик, подрядчик, наша компания, договор, договор с заказчиком, банковские реквизиты, вид клиента, тип контрагента, hubex, хабекс, хубекс, хабикс
 ---
 
 #### Создание обслуживаемых компаний
@@ -90,7 +90,7 @@ keywords: создание компании, создать компанию, з
 
 
     <div>
-        <img style="margin: 0 auto; display: block; max-width: 95%;"
+        <img style="margin: 0 auto; display: block; max-width: 100%;"
              src="/attachments/images/FAQ/USER/CreatingCompany/CreateCompany.jpg"/>
     </div>
 
@@ -99,7 +99,7 @@ keywords: создание компании, создать компанию, з
 <p>На вкладке Объекты|Оборудование будут отображаться все Объекты, принадлежащие компании. Также на этой вкладке вы можете создать новый Объект или Оборудование для текущей Компании. </p>
 
     <div>
-        <img style="margin: 0 auto; display: block; max-width: 95%;"
+        <img style="margin: 0 auto; display: block; max-width: 100%;"
              src="/attachments/images/FAQ/USER/CreatingCompany/Object.jpg"/>
     </div>
 
@@ -109,7 +109,7 @@ keywords: создание компании, создать компанию, з
     </p>
 
     <div>
-        <img style="margin: 0 auto; display: block; max-width: 95%;"
+        <img style="margin: 0 auto; display: block; max-width: 100%;"
              src="/attachments/images/FAQ/USER/CreatingCompany/FullCompany.jpg"/>
     </div>
 

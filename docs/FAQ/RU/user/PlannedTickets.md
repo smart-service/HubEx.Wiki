@@ -23,7 +23,7 @@ keywords: плановая заявка, планировщик работ, hube
     
 <p>Ознакомьтесь с видеороликом <strong>Как создавать плановые заявки в системе</strong> и прочтите пошаговую инструкцию ниже.</p>
 
-<iframe src="https://youtu.be/S9YxwQzZ2o4" width="100%" height="450px" frameborder="0"
+<iframe src="https://www.youtube.com/embed/S9YxwQzZ2o4" width="100%" height="450px" frameborder="0"
         allowfullscreen="allowfullscreen"></iframe>
 
 <h5 id="planticket">Создание Плановой заявки в web-приложении</h5>

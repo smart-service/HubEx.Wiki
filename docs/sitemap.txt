@@ -115,5 +115,6 @@ https://wiki.hubex.ru/docs/FAQ/RU/ReleaseNotes/EngineersAnalytic19052021.html
 https://wiki.hubex.ru/docs/FAQ/RU/ReleaseNotes/SLA25062021.html
 https://wiki.hubex.ru/docs/FAQ/RU/ReleaseNotes/AttachingMedia03082021.html
 https://wiki.hubex.ru/docs/FAQ/RU/ReleaseNotes/StageAndRules04082021.html
+https://wiki.hubex.ru/docs/FAQ/RU/ReleaseNotes/CalendarInMap17112021.html
 https://wiki.hubex.ru/docs/FAQ/RU/ReleaseNotes/EngineerApp.html
 https://wiki.hubex.ru/docs/FAQ/RU/ReleaseNotes/CustomerApp.html

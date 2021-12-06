@@ -8,6 +8,7 @@
      <li><a href="#firststeps">Начало работы в HubEx;</a></li>
      <li><a href="#plannedticket">Как создавать плановые заявки в системе;</a></li>
      <li><a href="#addfields">Как создавать дополнительные поля в HubEx;</a></li>
+        <li><a href="#checklists">Чек-листы в HubEx: контролируйте качество работ, обучайте новых сотрудников;</a></li>
       <li><a href="#EngineersAnalitics">Аналитика: Отчет по сотрудникам;</a></li>
       <li><a href="#objectimport">Как использовать импорт объектов для быстрого старта работы в Hubex.</a></li>
      <!--<li><a href="#excelimport">Импорт данных.</a></li>-->
@@ -32,6 +33,9 @@
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1hRsaFz_sEQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
+<h5 id="checklists">Чек-листы в HubEx: контролируйте качество работ, обучайте новых сотрудников</h5>
+<p>Подробно о создании и настройке Чек-листов читайте в статье </a> и <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/Checklists.html">Чек-листы</a>.</p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FBFe4tBnZVE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <h5 id="EngineersAnalitics">Аналитика: Отчет по сотрудникам</h5>
 <p>Посмотрите, как работает бизнес-аналитика по выездному обслуживанию в разрезе эффективности персонала:</p>

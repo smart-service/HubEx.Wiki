@@ -9,7 +9,8 @@
      <li><a href="#plannedticket">Как создавать плановые заявки в системе;</a></li>
      <li><a href="#addfields">Как создавать дополнительные поля в HubEx;</a></li>
       <li><a href="#EngineersAnalitics">Аналитика: Отчет по сотрудникам;</a></li>
-     <li><a href="#excelimport">Импорт данных.</a></li>
+      <li><a href="#objectimport">Как использовать импорт объектов для быстрого старта работы в Hubex.</a></li>
+     <!--<li><a href="#excelimport">Импорт данных.</a></li>-->
 </ul>
 </html>
 <body>
@@ -43,9 +44,14 @@
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7oC98ISShGg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+ <h5 id="objectimport">Как использовать импорт объектов для быстрого старта работы в Hubex</h5>
+<p>Подробно об импорте <strong>Объектов</strong>, <strong>Заявок</strong>, <strong>Пользователей</strong> и <strong>Компаний</strong> читайте в статье <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/Import.html">Импорт</a>.</p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tzXlekvaftY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<!--
  <h5 id="excelimport">Импорт данных</h5>
 <p>Дополнительно ознакомьтесь со статьями <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/Export.html">Экспорт</a> и <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/Import.html">Импорт</a>.</p>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PO71TKcqGBw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PO71TKcqGBw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>-->
 
 
 </body>

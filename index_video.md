@@ -13,7 +13,7 @@
 </html>
 <body>
 <h5 id="hubexhl">Обзор функциональных возможностей</h5>
-
+<p>В данном ролике представлен краткий обзор функций HubEx.</p>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/SzaRsb_xRX8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <h5 id="firststeps">Начало работы в HubEx</h5>
@@ -37,10 +37,9 @@
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7oC98ISShGg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
  <h5 id="excelimport">Импорт данных</h5>
-
+<p>Дополнительно ознакомьтесь со статьями <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/Export.html">Экспорт</a> и <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/Import.html">Импорт</a>.</p>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/PO71TKcqGBw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<p>Подробнее читайте в статьях: <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/Export.html">Экспорт</a>, <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/Import.html">Импорт</a>.</p>
 
 </body>
 ____

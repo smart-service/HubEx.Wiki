@@ -74,6 +74,12 @@ keywords: дополнительные поля в объекте, дополн�
     </div></p>
 
 </ol>
+
+
+<p>Дополнительно вы можете ознакомиться с обучающим видеороликом <strong>Как создать дополнительные поля в Hubex?</strong>.</p>
+
+<iframe src="https://www.youtube.com/embed/1hRsaFz_sEQ" width="100%" height="450px" frameborder="0"
+        allowfullscreen="allowfullscreen"></iframe>
 </body>
 
 

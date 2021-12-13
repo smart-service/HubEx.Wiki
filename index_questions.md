@@ -13,7 +13,7 @@
 <noscript><div><img src="https://mc.yandex.ru/watch/'{{ site.yandex_metric }}'" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
 <!-- /Yandex.Metrika counter -->
 <link rel="stylesheet" type="text/css" href="/assets/css/styles.css">
-#№# Ответы на часто задаваемые вопросы
+### Ответы на часто задаваемые вопросы
 
 В данном разделе собраны ответы на часто возникающие вопросы по работе с HubEx. Если вы не нашли ответы на свои вопросы, обратитесь за помощью в поддержку.
 

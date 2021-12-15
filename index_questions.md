@@ -32,6 +32,8 @@
 <h4 style="padding-left: 20px;"><a href="/docs/FAQ/RU/user/DeletedObjects.html">Почему нельзя удалить объекты/сотрудников/заявки и т.д. навсегда?</a></h4>
 <h4 style="padding-left: 20px;"><a href="/docs/FAQ/RU/admin/StageVSStatus.html">Чем отличаются Стадии заявки от Статусов заявки?</a></h4>
 <h4 style="padding-left: 20px;"><a href="/docs/FAQ/RU/user/HiddenObjectsTicketsUsers.html">Почему пользователь не видит Заявки/Объекты/Исполнителей?</a></h4>
+<h4 style="padding-left: 20px;"><a href="/docs/FAQ/RU/admin/TicketsAgreement.html">Как настроить линейное и параллельное согласование заявок?</a><span class="updated-badge" title="15.12.2021"></span></h4>
+<h4 style="padding-left: 20px;"><a href="/docs/FAQ/RU/admin/CustomerAgreement.html">Как настроить согласование с заказчиком: жизненный цикл, стадии согласования, уведомления?</a></h4>
 
 ### Объекты|Оборудование
 Здесь вы найдете ответы на вопросы по работе с Объектами (Оборудованием): как изменить Тип оборудования, создать паспорт объекта и т.д.
@@ -69,6 +71,8 @@
 <h4 style="padding-left: 20px;"><a href="/docs/FAQ/RU/admin/StageVSStatus.html">Чем отличаются Стадии заявки от Статусов заявки?</a></h4>
 
 <h4 style="padding-left: 20px;"><a href="/docs/FAQ/RU/user/HowToManageGmailIntegration.html">Как настроить интеграцию с Gmail (почта Google)?</a></h4>
+
+<h4 style="padding-left: 20px;"><a href="/docs/FAQ/RU/admin/TicketsAgreement.html">Как настроить линейное и параллельное согласование заявок?</a><span class="updated-badge" title="15.12.2021"></span></h4>
 
 <h4 style="padding-left: 20px;"><a href="/docs/FAQ/RU/admin/CustomerAgreement.html">Как настроить согласование с заказчиком: жизненный цикл, стадии согласования, уведомления?</a></h4>
 <h4 style="padding-left: 20px;"><a href="/docs/FAQ/RU/user/HowToNotificationsToMobile.html">Что делать, если не приходят уведомления?</a></h4>

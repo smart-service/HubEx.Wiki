@@ -45,6 +45,7 @@
 <h4 style="padding-left: 20px;"><a href="/docs/FAQ/RU/admin/StageType.html">Стадии заявки</a></h4>
 <h4 style="padding-left: 20px;"><a href="/docs/FAQ/RU/admin/ElementsOfInterface.html">Поля на форме заявки: настройка доступа к полям заявки</a><span class="updated-badge" title="21.01.2021"></span></h4>
 <h4 style="padding-left: 20px;"><a href="/docs/FAQ/RU/admin/TicketLifeCycle.html">Жизненный цикл заявки</a></h4>
+<h4 style="padding-left: 20px;"><a href="/docs/FAQ/RU/admin/TicketsAgreement.html">Согласование заявок: линейное и параллельное согласование</a><span class="updated-badge" title="15.12.2021"></span></h4>
 <h4 style="padding-left: 20px;"><a href="/docs/FAQ/RU/admin/CustomerAgreement.html">Согласование с заказчиком: жизненный цикл, стадии согласования, уведомления</a></h4>
 <h4 style="padding-left: 20px;"><a href="/docs/FAQ/RU/admin/BusinessProcess.html">Базовый бизнес-процесс для заявки</a></h4>
 <h4 style="padding-left: 20px;"><a href="/docs/FAQ/RU/admin/SLA.html">SLA - Правила расчета крайнего срока закрытия заявки</a></h4>

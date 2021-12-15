@@ -89,6 +89,7 @@ https://wiki.hubex.ru/docs/FAQ/RU/user/SeveralEngineers.html
 https://wiki.hubex.ru/docs/FAQ/RU/user/AcceptanceTicket.html
 https://wiki.hubex.ru/docs/FAQ/RU/user/RoleVSPosition.html
 https://wiki.hubex.ru/docs/FAQ/RU/user/MobileDevice.html
+https://wiki.hubex.ru/docs/FAQ/RU/admin/TicketsAgreement
 
 https://wiki.hubex.ru/docs/FAQ/RU/ReleaseNotes/TicketArchives08042020.html
 https://wiki.hubex.ru/docs/FAQ/RU/ReleaseNotes/UserInTicket13042020.html

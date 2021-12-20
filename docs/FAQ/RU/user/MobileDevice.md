@@ -36,7 +36,7 @@ keywords: мобильный телефон, мобильное устройст
 <li><strong>Samsung Galaxy A4</strong>;</li>
 <li>Модели семейства <strong>Redmi</strong> от фирмы <strong>Xiaomi</strong>, например, <strong>Redmi 9А</strong>, <strong>Redmi 9С</strong>, <strong>Redmi 9Т</strong> и т.д. (ценовая категория телефонов от 7 000 рублей);</li>
 <li>Телефоны фирмы <strong>Apple</strong>, модели от <strong>5S</strong> и старше;</li>
-<strong>Обратите внимание!</strong> Мы НЕ рекомендуем использовать телефоны фирмы Huawei, т.к. на новых моделях этих телефонов отсутствует Google Play Market и вы не сможете обновлять мобильное приложение HubEx Enhineer и HubEx Customer. 
+<strong>Обратите внимание!</strong> Мы НЕ рекомендуем использовать телефоны фирмы Huawei, т.к. на новых моделях этих телефонов отсутствует Google Play Market и вы не сможете обновлять мобильное приложение HubEx Engineer и HubEx Customer. 
 
 </ul>
 

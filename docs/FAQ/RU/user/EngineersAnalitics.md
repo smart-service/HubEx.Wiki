@@ -42,7 +42,7 @@ keywords: отчет по сотрудникам, sla, показатели по
     обновления</Strong> отображается слева от наименования отчета. </p>
     
 <div>
-    <img style="margin: 0 auto; display: block; max-width: 95%;"
+    <img style="margin: 0 auto; display: block; max-width: 100%;"
          src="/attachments/images/FAQ/USER/EngineersAnalitics/MainEA.jpg"/>
 </div>
 <p>Представление панели отчетов основывается на данных, собранных по <Strong>Заявках</Strong> в разрезе <Strong>Сотрудников</Strong>.
@@ -63,7 +63,7 @@ keywords: отчет по сотрудникам, sla, показатели по
 
 
 <div>
-    <img style="margin: 0 auto; display: block; max-width: 95%;"
+    <img style="margin: 0 auto; display: block; max-width: 100%;"
          src="/attachments/images/FAQ/USER/EngineersAnalitics/MainEA3.jpg"/>
 </div>
 
@@ -100,7 +100,7 @@ keywords: отчет по сотрудникам, sla, показатели по
     по
     сотрудникам</strong></a>.</p>
 <div>
-    <img style="margin: 0 auto; display: block; max-width: 95%;"
+    <img style="margin: 0 auto; display: block; max-width: 100%;"
          src="/attachments/images/FAQ/USER/EngineersAnalitics/MainEA4.jpg"/>
 </div>
 
@@ -178,7 +178,7 @@ keywords: отчет по сотрудникам, sla, показатели по
     распределения <strong>Заявок</strong>
     выстроен эффективно.</p>
 <div>
-    <img style="margin: 0 auto; display: block; max-width: 95%;"
+    <img style="margin: 0 auto; display: block; max-width: 100%;"
          src="/attachments/images/FAQ/USER/EngineersAnalitics/MainEA5.jpg"/>
 </div>
 <p>С помощью кнопки <strong>Фильтров</strong> вы можете задать отбор по <strong>Должности</strong> исполнителей или <strong>Виду работ</strong>, для получения информации
@@ -186,18 +186,18 @@ keywords: отчет по сотрудникам, sla, показатели по
 
 <p>Рассмотрим пример: по таблице <strong>Среднее количество выполненных заявок по дням недели</strong> видим, что один из сотрудников загружен больше остальных, он выполняет больше всех <strong>Заявок</strong> - 70 за период, из которых 20 закрыто с просрочкой. Данный сотрудник занимается ремонтом мелкой бытовой техники, не ремонтирует технику на пищевых производствах, ресторанах и т.д. Выберем его в таблице с помощью щелчка мыши и посмотрим детализацию по <strong>Заявкам</strong>. </p>
 <div>
-    <img style="margin: 0 auto; display: block; max-width: 95%;"
+    <img style="margin: 0 auto; display: block; max-width: 100%;"
          src="/attachments/images/FAQ/USER/EngineersAnalitics/MainEAexample2.jpg"/>
 </div>
 <p>Детализацию можно посмотреть с помощью кнопки <strong>Включить аналитические разрезы</strong> на боковой панели. Откроется дополнительный отчет <strong>Аналитические разрезы</strong>, в котором по кнопке <strong>+</strong> можно углубляться в данные для детального анализа. В примере нужно понять, какие <strong>Заявки</strong> специлист выполняет, может его нужно разгрузить от лишней работы. Мы видим, что у специалиста были закрыты 4 <strong>Заявки</strong> из Кофейни Ривьера, но этот специалист не должен ездить на <strong>Заявки</strong> от ресторанов, кофеен. Он может их выполнять, но это занимает гораздо больше времени,чем если бы этим занимался другой работник. Таким образом, мы можем определить проблемные места, с которыми можно работать, например, при распределении <strong>Заявок</strong> на сотрудников. </p>
 <div>
-    <img style="margin: 0 auto; display: block; max-width: 95%;"
+    <img style="margin: 0 auto; display: block; max-width: 100%;"
          src="/attachments/images/FAQ/USER/EngineersAnalitics/MainEAexample3.jpg"/>
 </div>
 
 <p>С помощью выбора показателя для <strong>Аналитических разрезов</strong> можно выводить <strong>Закрытые заявки</strong>, <strong>Открытые заявки</strong> и <strong>Переназначенные заявки</strong>. </p>
 <div>
-    <img style="margin: 0 auto; display: block; max-width: 95%;"
+    <img style="margin: 0 auto; display: block; max-width: 100%;"
          src="/attachments/images/FAQ/USER/EngineersAnalitics/MainEAexample4.jpg"/>
 </div>
 
@@ -205,7 +205,7 @@ keywords: отчет по сотрудникам, sla, показатели по
     исполнителей. Таблицу можно отсортировать, кликнув по наименованию показателя в шапке таблицы.</p>
 
 <div>
-    <img style="margin: 0 auto; display: block; max-width: 95%;"
+    <img style="margin: 0 auto; display: block; max-width: 100%;"
          src="/attachments/images/FAQ/USER/EngineersAnalitics/MainEA6.jpg"/>
 </div>
 
@@ -222,7 +222,7 @@ keywords: отчет по сотрудникам, sla, показатели по
     доступна
     функция выгрузки в Excel: нажмите на всплывающее <strong>контекстное меню (три точки) - Экспортировать данные</strong>.</p>
 <div>
-    <img style="margin: 0 auto; display: block; max-width: 75%;"
+    <img style="margin: 0 auto; display: block; max-width: 85%;"
          src="/attachments/images/FAQ/USER/EngineersAnalitics/Table.jpg"/>
 </div>
 
@@ -230,7 +230,7 @@ keywords: отчет по сотрудникам, sla, показатели по
     <strong>Заявок</strong> за выбранный период с детализацией по дням. Также доступна для выгрузки в Excel: нажмите на всплывающее
     <strong>контекстное меню (три точки) - Экспортировать данные</strong>. </p>
 <div>
-    <img style="margin: 0 auto; display: block; max-width: 75%;"
+    <img style="margin: 0 auto; display: block; max-width: 85%;"
          src="/attachments/images/FAQ/USER/EngineersAnalitics/Table.jpg"/>
 </div>
 
@@ -258,7 +258,7 @@ keywords: отчет по сотрудникам, sla, показатели по
     сотрудникам</strong></a>.</p>
 
 <div>
-    <img style="margin: 0 auto; display: block; max-width: 95%;"
+    <img style="margin: 0 auto; display: block; max-width: 100%;"
          src="/attachments/images/FAQ/USER/EngineersAnalitics/Second.jpg"/>
 </div>
 
@@ -298,25 +298,25 @@ keywords: отчет по сотрудникам, sla, показатели по
     (все понедельники, все вторники и тд). </p>
 
 <div>
-    <img style="margin: 0 auto; display: block; max-width: 95%;"
+    <img style="margin: 0 auto; display: block; max-width: 100%;"
          src="/attachments/images/FAQ/USER/EngineersAnalitics/Second2.jpg"/>
 </div>
 
 <p>С помощью кнопки <strong>Включить аналитические разрезы</strong> на боковой панели вы можете открыть дополнительный отчет <strong>Аналитические разрезы</strong>, который позволяетт детализировать данные. Например, рассмотрим таблицу <strong>Среднее количество переработок по дням недели</strong>, в которой у одного из специалистов очень высокие показатели по переработке. Также можем это видеть на визуализации <strong>Отработанные часы и переработки</strong>. </p>
 
 <div>
-    <img style="margin: 0 auto; display: block; max-width: 95%;"
+    <img style="margin: 0 auto; display: block; max-width: 100%;"
          src="/attachments/images/FAQ/USER/EngineersAnalitics/SecondEAexample.jpg"/>
 </div>
 
 <p>Выбираем щелчком мыши в таблице специалиста и нажимаем кнопку <strong>Включить аналитические разрезы</strong>. По кнопке <strong>+</strong> детализируем отчет по клиентам и дням недели, чтобы оценить показатели переработки. Дальше вы можете смотреть Заявки по дням недели и искать причину переработок.  </p>
 <div>
-    <img style="margin: 0 auto; display: block; max-width: 95%;"
+    <img style="margin: 0 auto; display: block; max-width: 100%;"
          src="/attachments/images/FAQ/USER/EngineersAnalitics/SecondEAexample2.jpg"/>
 </div>
 <p>С помощью выбора показателя вы можете отобразить в аналитике <strong>Отработанное время</strong> или <strong>Переработки</strong>.  </p>
 <div>
-    <img style="margin: 0 auto; display: block; max-width: 95%;"
+    <img style="margin: 0 auto; display: block; max-width: 100%;"
          src="/attachments/images/FAQ/USER/EngineersAnalitics/SecondEAexample3.jpg"/>
 </div>
 
@@ -327,7 +327,7 @@ keywords: отчет по сотрудникам, sla, показатели по
     доступна
     функция выгрузки в Excel: нажмите на всплывающее <strong>контекстное меню (три точки) - Экспортировать данные</strong>.</p>
 <div>
-    <img style="margin: 0 auto; display: block; max-width: 75%;"
+    <img style="margin: 0 auto; display: block; max-width: 85%;"
          src="/attachments/images/FAQ/USER/EngineersAnalitics/Table2.jpg"/>
 </div>
 
@@ -338,7 +338,7 @@ keywords: отчет по сотрудникам, sla, показатели по
     <li>количество часов переработки.</li>
 </ul>
 <div>
-    <img style="margin: 0 auto; display: block; max-width: 95%;"
+    <img style="margin: 0 auto; display: block; max-width: 100%;"
          src="/attachments/images/FAQ/USER/EngineersAnalitics/Second3.jpg"/>
 </div>
 <p>Данная таблица особенно полезна для анализа по каждому <strong>Cотруднику</strong> в отдельности. Для того, чтобы выбрать конкретного
@@ -373,7 +373,7 @@ keywords: отчет по сотрудникам, sla, показатели по
     </li>
 </ul>
 <div>
-    <img style="margin: 0 auto; display: block; max-width: 95%;"
+    <img style="margin: 0 auto; display: block; max-width: 100%;"
          src="/attachments/images/FAQ/USER/EngineersAnalitics/Third.jpg"/>
 </div>
 
@@ -396,7 +396,7 @@ keywords: отчет по сотрудникам, sla, показатели по
     каждому исполнителю в отдельности. Межотраслевым стандартом считается значение 80%. Оно отмечено на графике черной
     линией.</p>
 <div>
-    <img style="margin: 0 auto; display: block; max-width: 65%;"
+    <img style="margin: 0 auto; display: block; max-width: 60%;"
          src="/attachments/images/FAQ/USER/EngineersAnalitics/UR.jpg"/>
 </div>
 
@@ -406,7 +406,7 @@ keywords: отчет по сотрудникам, sla, показатели по
     количества закрытых <Strong>Заявок</Strong> за выбранный период в разбивке по дням (неделям или месяцам). </p>
 
 <div>
-    <img style="margin: 0 auto; display: block; max-width: 75%;"
+    <img style="margin: 0 auto; display: block; max-width: 100%;"
          src="/attachments/images/FAQ/USER/EngineersAnalitics/Dynamic2.jpg"/>
 </div>
 
@@ -434,7 +434,7 @@ keywords: отчет по сотрудникам, sla, показатели по
 <p>При наведении на ФИО исполнителя в таблице будет всплывать окошко с четырьмя показателями, по которым рассчитывается
     <Strong>HubEx Рейтинг</Strong>.</p>
 <div>
-    <img style="margin: 0 auto; display: block; max-width: 95%;"
+    <img style="margin: 0 auto; display: block; max-width: 100%;"
          src="/attachments/images/FAQ/USER/EngineersAnalitics/HR.jpg"/>
 </div>
 
@@ -462,7 +462,7 @@ keywords: отчет по сотрудникам, sla, показатели по
 </uL>
 
 <div>
-    <img style="margin: 0 auto; display: block; max-width: 95%;"
+    <img style="margin: 0 auto; display: block; max-width: 100%;"
          src="/attachments/images/FAQ/USER/EngineersAnalitics/Card.jpg"/>
 </div>
 <p>Также по <Strong>Cотруднику</Strong> представлен график динамики изменения <Strong>HubEx рейтинга</Strong> за выбранный период времени.</p>

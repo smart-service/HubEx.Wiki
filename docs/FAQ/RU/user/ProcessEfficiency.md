@@ -18,9 +18,7 @@ keywords: hubex, хабекс, хубекс, хабикс
 </ul>
 </html>
 
-<p>
 
-<p></p>
 <p>HubEx предназначен для улучшения бизнес-процессов. Внедрение системы управления заявками, мобильными сотрудниками
     способствует как улучшению качества предоставляемых услуг, так и повышению эффективности внутренних взаимодействий.
     С помощью аналитических отчетов вы можете оценить показатели сотрудников, проанализировать время выполнения Завок и
@@ -128,7 +126,7 @@ keywords: hubex, хабекс, хубекс, хабикс
         фокусировки</strong>.</p>
 
 <div>
-    <img style="margin: 0 auto; display: block; max-width: 75%;"
+    <img style="margin: 0 auto; display: block; max-width: 100%;"
          src="/attachments/images/FAQ/USER/ProcessEfficiency/Diagram5.jpg"/>
 </div>
 
@@ -174,7 +172,7 @@ keywords: hubex, хабекс, хубекс, хабикс
 </div>
 <p>
 <div>
-    <img style="margin: 0 auto; display: block; max-width: 95%;"
+    <img style="margin: 0 auto; display: block; max-width: 100%;"
          src="/attachments/images/FAQ/USER/ProcessEfficiency/Tickets.jpg"/>
 </div></p>
 

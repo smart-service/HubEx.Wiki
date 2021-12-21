@@ -18,7 +18,7 @@ keywords: hubex, хабекс, хубекс, хабикс
 </ul>
 </html>
 
-<body>
+<p>
 
 <p></p>
 <p>HubEx предназначен для улучшения бизнес-процессов. Внедрение системы управления заявками, мобильными сотрудниками
@@ -43,6 +43,9 @@ keywords: hubex, хабекс, хубекс, хабикс
 
 
 <p>Рассмотрим подробнее каждую вкладку с отчетами и показателями.</p>
+
+<p>Отчет по анализу эффективности находится в меню <strong>Аналитика - Анализ эффективности процессов</strong>. Данные в
+    отчете обновляются один раз в сутки. Дата обновления отображается слева от наименования отчета (под периодом).</p>
 
 
 <h5 id="first">Группа отчетов и показателей по выявлению проблемм в бизнес-процессах</h5>
@@ -74,7 +77,8 @@ keywords: hubex, хабекс, хубекс, хабикс
 
 <p>Далее представлено несоклько диаграмм и визуализаций.</p>
 <p>В диаграмме <strong>Выявление неоптимальных вариантов процесса прохождения заявок по стадиям</strong> находится
-    список всех процессов. Синими столбцами диаграммы представлено количество Заявок, красными - среднее время
+    список всех процессов. Синими столбцами диаграммы представлено количество <strong>Заявок</strong>, красными -
+    среднее время
     выполнения в
     часах.
     Первыми в списке стоят те процессы, на которые необходимо обратить особое внимание - время выполнения
@@ -82,107 +86,152 @@ keywords: hubex, хабекс, хубекс, хабикс
     рамках этих
     процессов превышает среднее время выполнения <strong>Заявок</strong> по организации.</p>
 
+
 <div>
-    <img style="margin: 0 auto; display: block; max-width: 75%;"
-         src="/attachments/images/FAQ/USER/ProcessEfficiency/!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!.jpg"/>
+    <img style="margin: 0 auto; display: block; max-width: 100%;"
+         src="/attachments/images/FAQ/USER/ProcessEfficiency/Diagram1.jpg"/>
 </div>
 
+<p>Выберем процесс с наибольшим временем выполнения и с большим количеством <strong>Заявок</strong> для дальнейшего
+    анализа.</p>
+<p>Например, <strong>Процесс №1</strong> включает в себя 7 <strong>Заявок</strong>, каждая из которых выполнялась в
+    среднем 49 дней 13 часов,
+    что первышает показатель <strong>Среднего времени выполнения заявок</strong> по организации (8 дней 20 часов). </p>
 
-<p>По нажатию на один из процессов отображение всех визуализаций фильтруется с учетом выбранного процесса, чтобы вы
-    могли посмотреть подробные данные только по нему. </p>
+<p>По нажатию на один из процессов отображение всех показателей и визуализаций фильтруется с учетом выбранного процесса,
+    чтобы вы
+    могли посмотреть подробные данные только по нему.</p>
 
 <div>
-    <img style="margin: 0 auto; display: block; max-width: 75%;"
-         src="/attachments/images/FAQ/USER/ProcessEfficiency/!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!.jpg"/>
+    <img style="margin: 0 auto; display: block; max-width: 100%;"
+         src="/attachments/images/FAQ/USER/ProcessEfficiency/Diagram2.jpg"/>
 </div>
 
 <p>Если вы хотите сбросить фильтрацию по выбранному процессу, нажмите кнопку <strong>Сбросить выделение</strong>.</p>
 
+<div>
+    <img style="margin: 0 auto; display: block; max-width: 100%;"
+         src="/attachments/images/FAQ/USER/ProcessEfficiency/Diagram3.jpg"/>
+</div>
+
 <p>На визуализации <strong>Скорость выполнения заявок</strong> вы увидите разбивку <strong>Заявок</strong> по выбранному
     процессу на
     группы по времени выполнения.</p>
+<div>
+    <img style="margin: 0 auto; display: block; max-width: 100%;"
+         src="/attachments/images/FAQ/USER/ProcessEfficiency/Diagram4.jpg"/>
+</div>
 
-<p>Выберите группу Заявок с наибольшим временем выполнения для дальнейшего анализа.</p>
-<p>Далее можно перейти к анализу <strong>Схемы прохождения заявок по стадиям</strong>. Разверните схему по кнопке Режим
-    фокусировки. Здесь вы сможете увидеть, по каким стадиям проходили те самые <strong>Заявки</strong>, время выполнения
+
+<p>Далее можно перейти к анализу <strong>Схемы прохождения заявок по стадиям</strong>. Разверните схему по кнопке
+    <strong>Режим
+        фокусировки</strong>.</p>
+
+<div>
+    <img style="margin: 0 auto; display: block; max-width: 75%;"
+         src="/attachments/images/FAQ/USER/ProcessEfficiency/Diagram5.jpg"/>
+</div>
+
+<p>Здесь вы сможете увидеть, по каким стадиям проходили те самые <strong>Заявки</strong>, время выполнения
     которых сильно
     превышало среднее время по организации. Также здесь отображается время переходов от одной стадии к другой, а
     следовательно, мы можем увидеть, какая стадия является наиболее долгой в процессе закрытия этих
     <strong>Заявок</strong>. </p>
 
-<div>
-    <img style="margin: 0 auto; display: block; max-width: 75%;"
-         src="/attachments/images/FAQ/USER/ProcessEfficiency/!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!.jpg"/>
-</div>
 
 <div>
-    <img style="margin: 0 auto; display: block; max-width: 75%;"
-         src="/attachments/images/FAQ/USER/ProcessEfficiency/!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!.jpg"/>
+    <img style="margin: 0 auto; display: block; max-width: 100%;"
+         src="/attachments/images/FAQ/USER/ProcessEfficiency/Stage.jpg"/>
 </div>
 
-<p>!!!!ЗДЕСЬ НУЖЕН ПРИМЕР ДОЛГОГО ОЖИДАНИЯ НА СТАДИИ В КАРТИНКАХ И Я ОПИШУ.</p>
 <p>В примере видим стадию <strong>Ожидает ТМЦ</strong> переход с которой занял 2 месяца. Возможно, нужных запчастей не
     оказалось на
     складе, их заказали, ожидали и только после этого смогли выполнить <strong>Заявку</strong>.</p>
 
 <p>Если в вашем процессе много стадий, то быстро найти стадию, на которой задерживаются <strong>Заявки</strong>, можно
     также с помощью визуализации <strong>Среднее время нахождения заявок на стадиях</strong>.</p>
-<p>!!!!! - согласовать с примером из схемы Здесь мы также видим, что стадия <strong>Ожидает ТМЦ</strong> заняла много
+<div>
+    <img style="margin: 0 auto; display: block; max-width: 100%;"
+         src="/attachments/images/FAQ/USER/ProcessEfficiency/Diagram6.jpg"/>
+</div>
+
+<p> Здесь мы также видим, что стадия <strong>Ожидает ТМЦ</strong> заняла много
     времени в процессе
     выполнения <strong>Заявок</strong>. </p>
 
-<p>Обратите внимание! В данной диаграмме есть раздел под названием <strong>Требуется продолжение работ</strong>. Здесь
+<!--<p>Обратите внимание! В данной диаграмме есть раздел под названием <strong>Требуется продолжение работ</strong>. Здесь
     группируются те <strong>Заявки</strong>, которые не были выполнены с первого визита. С помощью этого раздела вы
     сможете узнать, почему сотрудник не смог провести работы по <strong>Заявке</strong>. Для дальнейшего анализа
-    воспользуйтесь инструментами, которые будут описываться ниже. </p>
+    воспользуйтесь инструментами, которые будут описываться ниже. </p>-->
 
-<div>
-    <img style="margin: 0 auto; display: block; max-width: 75%;"
-         src="/attachments/images/FAQ/USER/ProcessEfficiency/!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!.jpg"/>
-</div>
 
 <p>С помощью кнопки <strong>Открыть список заявок</strong> на панели навигации вы можете открыть список "проблемных"
     <strong>Завок </strong>и зайти в
     каждую из них.</p>
 <div>
-    <img style="margin: 0 auto; display: block; max-width: 75%;"
-         src="/attachments/images/FAQ/USER/ProcessEfficiency/!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!.jpg"/>
+    <img style="margin: 0 auto; display: block; max-width: 100%;"
+         src="/attachments/images/FAQ/USER/ProcessEfficiency/Diagram7.jpg"/>
 </div>
+<p>
 <div>
-    <img style="margin: 0 auto; display: block; max-width: 75%;"
-         src="/attachments/images/FAQ/USER/ProcessEfficiency/!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!.jpg"/>
-</div>
+    <img style="margin: 0 auto; display: block; max-width: 95%;"
+         src="/attachments/images/FAQ/USER/ProcessEfficiency/Tickets.jpg"/>
+</div></p>
 
 <p>В списке <strong>Заявок</strong> вы можете проанализировать их общие черты. Например, для ремонта каких объектов
     потребовалась ждать
     запчасти или какие именно запчасти пришлось так долго ждать.</p>
 
 <p>Если в вашей выборке слишком много <strong>Заявок</strong>, то с помощью кнопки <strong>Открыть аналитические
-    разрезы</strong>, вы сможете разбить эту
-    выборку по различным характеристикам - <strong>Тип объекта</strong>,<strong> Объект</strong>,
-    <strong>Заказчик</strong> и т.д.</p>
+    разрезы</strong>.</p>
 
 <div>
-    <img style="margin: 0 auto; display: block; max-width: 75%;"
-         src="/attachments/images/FAQ/USER/ProcessEfficiency/!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!.jpg"/>
+    <img style="margin: 0 auto; display: block; max-width: 100%;"
+         src="/attachments/images/FAQ/USER/ProcessEfficiency/Diagram8.jpg"/>
 </div>
-<p>Таким образом, в данном примере можно рассмотреть, например, вариант оптимизации складских запасов или ускоренной
-    поставкой ТМЦ, чтобы избежать ситуации с долгим ожиданием.</p>
 
-<p>Диаграмма <strong>Заявки с циклом в процессе</strong> пкоазывает соотношение <strong>Заявок</strong>, в маршруте
+<p>С помощью аналитических разрезов можно уточнить выборку по различным характеристикам - <strong>Вид работ</strong>,
+    <strong>Тип объекта</strong>,<strong> Объект</strong>,
+    <strong>Заказчик</strong> и т.д. Нажмите кнопку <strong>+</strong> для выбора разреза. Таким образом вы сможете
+    найти связующие элементы и принимать дальнейшие решения. Например, вариант оптимизации складских запасов или
+    ускоренной
+    поставкой ТМЦ для холодильного оборудования или регулярного пополнения запасов, чтобы избежать ситуации с долгим
+    ожиданием.</p>
+
+<div>
+    <img style="margin: 0 auto; display: block; max-width: 100%;"
+         src="/attachments/images/FAQ/USER/ProcessEfficiency/Analytic1.jpg"/>
+</div>
+
+<p>Чтобы сбросить характеристику нажмите <strong>Х</strong> рядом с ее названием. </p>
+<div>
+    <img style="margin: 0 auto; display: block; max-width: 100%;"
+         src="/attachments/images/FAQ/USER/ProcessEfficiency/Analytic2.jpg"/>
+</div>
+
+
+<p>Рассмотри диаграмму <strong>Заявки с циклом в процессе</strong>. Она показывает соотношение <strong>Заявок</strong>,
+    в маршруте
     прохождения которых
     была зацикленность по стадиям. Цикл означает прохождение <strong>Заявки</strong> через одну/несколько оинаковых
     стадий более, чем
-    один раз. В текущем примере <strong>Заявка</strong> прошла через стадию В работе 2 раза из-за ожидания ТМЦ.</p>
+    один раз. В текущем примере все <strong>Заявки</strong> процесса прошли через стадию <strong>В работе</strong> 2
+    раза из-за ожидания ТМЦ.</p>
 
 
 <div>
-    <img style="margin: 0 auto; display: block; max-width: 75%;"
-         src="/attachments/images/FAQ/USER/ProcessEfficiency/!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!.jpg"/>
+    <img style="margin: 0 auto; display: block; max-width: 100%;"
+         src="/attachments/images/FAQ/USER/ProcessEfficiency/Diagram9.jpg"/>
 </div>
 
 <p>Для группы отчетов на этой странице также доступна стандартная фильтрация, которая настраивается по кнопке <strong>Открыть
-    панель фильтров</strong></p>
+    панель фильтров</strong>. Здесь вы можете указать <strong>Тип заявки</strong> и сравнивать процессы, относящиеся к
+    одному типа и т.д.</p>
+
+<div>
+    <img style="margin: 0 auto; display: block; max-width: 100%;"
+         src="/attachments/images/FAQ/USER/ProcessEfficiency/Diagram10.jpg"/>
+</div>
 
 <h5 id="second">Отчет по сравнению эффективности бизнес-процессов</h5>
 <p>На второй вкладке находится отчет для сравнения двух вариантов процесса выполнения <strong>Заявок</strong>, их
@@ -193,11 +242,6 @@ keywords: hubex, хабекс, хубекс, хабикс
     фильтров</strong> вы сможете настроить отбор для каждого из вариантов. </p>
 
 
-<div>
-    <img style="margin: 0 auto; display: block; max-width: 75%;"
-         src="/attachments/images/FAQ/USER/ProcessEfficiency/!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!.jpg"/>
-</div>
-
 <p>Например, с помощью этого отчета можно сравнить чем отлитчается процесс выполнения срочных <strong>Заявок</strong> от
     обычных. В таком
     случае можем выбрать значение <strong>Критичности</strong> для первого варианта - <strong>Срочная</strong>, для
@@ -206,9 +250,10 @@ keywords: hubex, хабекс, хубекс, хабикс
 
 <p>На примере видим, что срочные <strong>Заявки</strong> выполняются на 5 дней быстрее обычных. </p>
 
+
 <div>
-    <img style="margin: 0 auto; display: block; max-width: 75%;"
-         src="/attachments/images/FAQ/USER/ProcessEfficiency/!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!.jpg"/>
+    <img style="margin: 0 auto; display: block; max-width: 100%;"
+         src="/attachments/images/FAQ/USER/ProcessEfficiency/Diagram11.jpg"/>
 </div>
 
 
@@ -220,20 +265,29 @@ keywords: hubex, хабекс, хубекс, хабикс
 
 <p>Обратите внимание на процессы, на которые тратится времени больше, чем на остальные. </p>
 <div>
-    <img style="margin: 0 auto; display: block; max-width: 75%;"
-         src="/attachments/images/FAQ/USER/ProcessEfficiency/!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!.jpg"/>
+    <img style="margin: 0 auto; display: block; max-width: 100%;"
+         src="/attachments/images/FAQ/USER/ProcessEfficiency/Diagram12.jpg"/>
 </div>
 
 <p>Еще один из популярных запросов для сравнения - узнать, как наша компания справлялась с выполнением определенных
-    Типов заявок или Видов работ в разные периоды. Например, в предыдущий месяц и текущий, после внесения каких-либо
+    <strong>Типов заявок</strong> или <strong>Видов работ</strong> в разные периоды. Например, в предыдущий месяц и
+    текущий, после внесения каких-либо
     изменений в процессы.</p>
-<p>Настроим необходимые фильтры и для варианта А выберем ноябрь 2021, для варианта В – октябрь 2021.</p>
-
-<p>ВЫВОД?????????? видим что время выполнения сократилось блабла</p>
+<p>Настроим необходимые фильтры и для варианта А выберем октябрь 2021, для варианта В – ноябрь 2021.</p>
 <div>
-    <img style="margin: 0 auto; display: block; max-width: 75%;"
-         src="/attachments/images/FAQ/USER/ProcessEfficiency/!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!.jpg"/>
+    <img style="margin: 0 auto; display: block; max-width: 100%;"
+         src="/attachments/images/FAQ/USER/ProcessEfficiency/Diagram14.jpg"/>
 </div>
+
+<p>
+<div>
+    <img style="margin: 0 auto; display: block; max-width: 100%;"
+         src="/attachments/images/FAQ/USER/ProcessEfficiency/Diagram13.jpg"/>
+</div></p>
+
+<p>Мы видим, что сократилось среднее время выполнения <strong>Заявок</strong>, снизилось количество
+    <strong>Заявок</strong>, на которые тратится очень много времени. Значит оптимизация процесса дает положительный
+    результат. </p>
 
 <p>Также здесь вы можете использовать кнопку <strong>Открыть аналитические
     разрезы</strong>. С ее помощью вы сможете разбить открыть Заявки по процессам и развернуть их по различным
@@ -250,20 +304,19 @@ keywords: hubex, хабекс, хубекс, хабикс
 <p>В поле <strong>Со стадии 1</strong> выберите стадию <strong>Назначена</strong>. Обратите внимание, что верхний график
     <strong>Среднее время нахождения заявок на стадии</strong>
     будет отображать динамику изменения средней продолжительности этой стадии за выбранный период. Вы наглядно сможете
-    оценить, сколько времени Заявки проводят на этой стадии прежде чем отправиться на следующую.</p>
+    оценить, сколько времени <strong>Заявки</strong> проводят на этой стадии прежде чем отправиться на следующую.</p>
 
 <div>
-    <img style="margin: 0 auto; display: block; max-width: 75%;"
-         src="/attachments/images/FAQ/USER/ProcessEfficiency/!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!.jpg"/>
+    <img style="margin: 0 auto; display: block; max-width: 100%;"
+         src="/attachments/images/FAQ/USER/ProcessEfficiency/Diagram15.jpg"/>
 </div>
 
-<p>Далее в поле <strong>На стадию 2</strong> выберем - <strong>Выполнена</strong></p>
+<p>Далее в поле <strong>На стадию 2</strong> выберем - <strong>Выполнена</strong>.</p>
 
-<p>Теперь график будет отображать среднее время перехода от стадии <strong>Назначена</strong> до стадии <strong>Выполнена</strong>.
-</p>
+<p>Теперь график будет отображать среднее время перехода от стадии <strong>Назначена</strong> до стадии <strong>Выполнена</strong>.</p>
 <div>
-    <img style="margin: 0 auto; display: block; max-width: 75%;"
-         src="/attachments/images/FAQ/USER/ProcessEfficiency/!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!.jpg"/>
+    <img style="margin: 0 auto; display: block; max-width: 100%;"
+         src="/attachments/images/FAQ/USER/ProcessEfficiency/Diagram16.jpg"/>
 </div>
 
 <p>Ниже находится диаграмма <strong>Динамика соотношений средней прожолжительности стадий</strong>, которая отображает
@@ -273,8 +326,8 @@ keywords: hubex, хабекс, хубекс, хабикс
     нахождения заявок на стадиях.</p>
 
 <div>
-    <img style="margin: 0 auto; display: block; max-width: 75%;"
-         src="/attachments/images/FAQ/USER/ProcessEfficiency/!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!.jpg"/>
+    <img style="margin: 0 auto; display: block; max-width: 100%;"
+         src="/attachments/images/FAQ/USER/ProcessEfficiency/Diagram17.jpg"/>
 </div>
 
 </body>

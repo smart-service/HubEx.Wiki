@@ -270,7 +270,10 @@ keywords: заявки на карте, назначить заявку на к�
 
 
 </ol>
+<p>Дополнительно ознакомьтесь с видеороликом <strong>Распределение заявок в Hubex с помощью календаря и карты</strong>.</p>
 
+<iframe src="https://www.youtube.com/embed/E1H9pTZi0vA" width="100%" height="450px" frameborder="0"
+        allowfullscreen="allowfullscreen"></iframe>
 
 </body>
 

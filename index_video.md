@@ -10,7 +10,8 @@
      <li><a href="#addfields">Как создавать дополнительные поля в HubEx;</a></li>
         <li><a href="#checklists">Чек-листы в HubEx: контролируйте качество работ, обучайте новых сотрудников;</a></li>
       <li><a href="#EngineersAnalitics">Аналитика: Отчет по сотрудникам;</a></li>
-      <li><a href="#objectimport">Как использовать импорт объектов для быстрого старта работы в Hubex.</a></li>
+      <li><a href="#objectimport">Как использовать импорт объектов для быстрого старта работы в Hubex;</a></li>
+        <li><a href="#ticketonmap">Распределение заявок в Hubex с помощью календаря и карты.</a></li>
      <!--<li><a href="#excelimport">Импорт данных.</a></li>-->
 </ul>
 </html>
@@ -51,6 +52,10 @@
  <h5 id="objectimport">Как использовать импорт объектов для быстрого старта работы в Hubex</h5>
 <p>Подробно об импорте <strong>Объектов</strong>, <strong>Заявок</strong>, <strong>Пользователей</strong> и <strong>Компаний</strong> читайте в статье <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/Import.html">Импорт</a>.</p>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tzXlekvaftY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<h5 id="ticketonmap">Распределение заявок в Hubex с помощью календаря и карты</h5>
+<p>Местонахождение <strong>Заявок</strong> и <strong>Сотрудников</strong> доступно в режиме карты. Вы можете видеть свободные часы ваших специалистов благодаря календарю и оперативно назначать <strong>Заявки</strong>. Подробнее читайте в статье <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/TicketsOnMap.htmll">Заявки и сотрудники на карте</a>.</p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1H9pTZi0vA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <!--
  <h5 id="excelimport">Импорт данных</h5>

@@ -138,7 +138,7 @@ keywords: эффективность процессов, анализ эффек
     групп удерживайте зажатой клавишу Ctrl и нажимайте на группы по очереди.</p>
 
 <div>
-    <img style="margin: 0 auto; display: block; max-width: 60%;"
+    <img style="margin: 0 auto; display: block; max-width: 70%;"
          src="/attachments/images/FAQ/USER/ProcessEfficiency/Diagram4-1.jpg"/>
 </div>
 

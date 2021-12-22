@@ -123,6 +123,10 @@
     <a href="/docs/FAQ/RU/user/EngineersAnalitics.html">Отчет по сотрудникам</a> <span class="new-badge" title="02.06.2021"></span>
 </h4>
 
+<h4 style="padding-left: 20px;">
+    <a href="/docs/FAQ/RU/user/ProcessEfficiency.html">Анализ эффективности процессов</a> <span class="new-badge" title="22.12.2021"></span>
+</h4>
+
 <!--
 ### Печатные формы
 <h4 style="padding-left: 20px;">

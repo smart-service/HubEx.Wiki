@@ -12,7 +12,8 @@
       <li><a href="#EngineersAnalitics">Аналитика: Отчет по сотрудникам;</a></li>
       <li><a href="#objectimport">Как использовать импорт объектов для быстрого старта работы в Hubex;</a></li>
         <li><a href="#ticketonmap">Распределение заявок в Hubex с помощью календаря и карты;</a></li>
-        <li><a href="#engineersanalytics">Бизнес-аналитика: Отчет по сотрудникам</a>.</li>
+        <li><a href="#engineersanalytics">Бизнес-аналитика: Отчет по сотрудникам</a>;</li>
+         <li><a href="#notification">Как настроить push-уведомление на телефон мобильного инженера</a>.</li>
         
      <!--<li><a href="#excelimport">Импорт данных.</a></li>-->
 </ul>
@@ -66,6 +67,11 @@
     нарушением срока? Кто из
     сотрудников и в какие дни перерабатывает сверх своего графика? Кто из исполнителей считается самым эффективным в
     выбранном периоде? и т.д. Подробнее читайте в статье <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/EngineersAnalitics.html">Отчет по сотрудникам</a>.</p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7oC98ISShGg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+<h5 id="notification">Как настроить push-уведомление на телефон мобильного инженера</h5>
+<p>Отправка уведомлений на мобильный телефон позволяет держать в курсе происходящих событий - поступления новых <Strong>Заявок</Strong>, переходов по стадиям, смены исполнителя. Вы самостоятельно можете гибко настраивать условия отправки оповещений, получателей, а также вносить свой текст для уведомления. Подробнее читайте в статье <a href="https://wiki.hubex.ru/docs/FAQ/RU/admin/Notifications.html">Настройка оповещени</a>.</p>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7oC98ISShGg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 

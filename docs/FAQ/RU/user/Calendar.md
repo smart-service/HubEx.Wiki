@@ -300,8 +300,8 @@ keywords: календарь заявок, расписание заявок, hu
     верхнем углу. Либо с помощью бокового меню.</p>
 
 <div>
-    <img style="margin: 0 auto; display: block; max-width: 30%;"
-         src="/attachments/images/FAQ/USER/Calendar/CalendarMob.jpg"/>
+    <img style="margin: 0 auto; display: block; max-width: 35%;"
+         src="/attachments/images/FAQ/USER/Calendar/Mob2.jpg"/>
 </div>
 
 <p>Инженер сможет увидеть <strong>Заявки</strong>, которые ему необходимо выполнить в течение дня. Текущее время дня
@@ -310,15 +310,15 @@ keywords: календарь заявок, расписание заявок, hu
     срок.</p>
 
 <div>
-    <img style="margin: 0 auto; display: block; max-width: 95%;" src="/attachments/images/FAQ/USER/Calendar/cal9.png"/>
+    <img style="margin: 0 auto; display: block; max-width: 95%;" src="/attachments/images/FAQ/USER/Calendar/Mob3.jpg"/>
 </div>
 
 <p>Вы можете просмотреть расписание на любой день месяца. Нажмите на наименование месяца вверху, например, у вас выбран
     Август.</p>
 
 <div>
-    <img style="margin: 0 auto; display: block; max-width: 95%;"
-         src="/attachments/images/FAQ/USER/Calendar/cal10.jpg"/>
+    <img style="margin: 0 auto; display: block; max-width: 35%;"
+         src="/attachments/images/FAQ/USER/Calendar/Mob4.jpg"/>
 </div>
 
 <p>Можно открыть любую <strong>Заявку</strong> из календаря, нажав на нее.

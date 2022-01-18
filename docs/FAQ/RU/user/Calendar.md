@@ -310,7 +310,7 @@ keywords: календарь заявок, расписание заявок, hu
     срок.</p>
 
 <div>
-    <img style="margin: 0 auto; display: block; max-width: 40%;" src="/attachments/images/FAQ/USER/Calendar/Mob3.jpg"/>
+    <img style="margin: 0 auto; display: block; max-width: 35%;" src="/attachments/images/FAQ/USER/Calendar/Mob3.jpg"/>
 </div>
 
 <p>Вы можете просмотреть расписание на любой день месяца. Нажмите на наименование месяца вверху, например, у вас выбран

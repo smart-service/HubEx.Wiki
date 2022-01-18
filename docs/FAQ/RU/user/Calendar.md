@@ -293,7 +293,7 @@ keywords: календарь заявок, расписание заявок, hu
     исполнителя. Таким образом <strong>Заявка</strong> отобразится у исполнителя в календаре на указанную дату и время.</p>
 
 <div>
-    <img style="margin: 0 auto; display: block; max-width: 45%;" src="/attachments/images/FAQ/USER/Calendar/Mob1.jpg"/>
+    <img style="margin: 0 auto; display: block; max-width: 35%;" src="/attachments/images/FAQ/USER/Calendar/Mob1.jpg"/>
 </div>
 
 <p>В мобильном приложении календарь можно открыть по кнопке в правом

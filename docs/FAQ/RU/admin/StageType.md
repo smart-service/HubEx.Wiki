@@ -36,7 +36,7 @@ keywords: стадии заявки, стадия, действие на ста�
     Нажмите кнопку <Strong>Создать стадию заявки</Strong>. Или выберите существующую стадию, чтоб изменить ее настройки.
 </p>
 <div>
-    <img style="margin: 0 auto; display: block; max-width: 80%;"
+    <img style="margin: 0 auto; display: block; max-width: 90%;"
          src="/attachments/images/FAQ/ADMIN/StageType/StageMain.jpg"/>
 </div>
 <p>Расмотрим настройки стадии:</p>
@@ -52,7 +52,7 @@ keywords: стадии заявки, стадия, действие на ста�
 
     <p>
     <div>
-        <img style="margin: 0 auto; display: block; max-width: 80%;"
+        <img style="margin: 0 auto; display: block; max-width: 90%;"
              src="/attachments/images/FAQ/ADMIN/StageType/TicketsStages.jpg"/>
     </div>
     </p>

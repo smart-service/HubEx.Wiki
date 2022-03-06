@@ -46,7 +46,7 @@ keywords: стадии заявки, стадия, действие на ста�
         <Strong>Заявки</Strong>;
     </li>
     <div>
-        <img style="margin: 0 auto; display: block; max-width: 80%;"
+        <img style="margin: 0 auto; display: block; max-width: 90%;"
              src="/attachments/images/FAQ/ADMIN/StageType/TicketsStage.jpg"/>
     </div>
 

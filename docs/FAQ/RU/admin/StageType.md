@@ -47,13 +47,13 @@ keywords: стадии заявки, стадия, действие на ста�
     </li>
     <div>
         <img style="margin: 0 auto; display: block; max-width: 100%;"
-             src="/attachments/images/FAQ/ADMIN/StageType/TicketsStage.jpg"/>
+             src="/attachments/images/FAQ/ADMIN/StageType/TicketsStage2.jpg"/>
     </div>
 
     <p>
     <div>
         <img style="margin: 0 auto; display: block; max-width: 100%;"
-             src="/attachments/images/FAQ/ADMIN/StageType/TicketsStages.jpg"/>
+             src="/attachments/images/FAQ/ADMIN/StageType/TicketsStages2.jpg"/>
     </div>
     </p>
 

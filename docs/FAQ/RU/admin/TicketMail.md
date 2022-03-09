@@ -29,6 +29,12 @@ keywords: заявки по почте, заявки из почты, подач
         <img style="margin: 0 auto; display: block; max-width: 80%;"
              src="/attachments/images/FAQ/ADMIN/TicketMail/EmailSettings.png"/>
     </div>
+     <li> Для почтового ящика должна быть отключена двухфакторная аутентификация или безопасный вход. Например, для отключения двухфакторной аутентификации Яндекс почты перейдите в настройки аккаунта Яндекс и в разделе <strong>Пароли и авторизация</strong> выберите <strong>Способ входа - Вход с паролем</strong>.
+    </li>
+      <div>
+        <img style="margin: 0 auto; display: block; max-width: 80%;"
+             src="/attachments/images/FAQ/ADMIN/TicketMail/Autorazation.jpg"/>
+    </div>
 </ol>
 
 <p>Настройка интеграции находится в консоли администратора, в разделе <strong>Интеграция - Интеграция по электронной

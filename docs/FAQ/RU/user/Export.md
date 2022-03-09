@@ -100,13 +100,43 @@ keywords: экспорт компаний, экспорт объектов, эк
 
 <h5 id="objects">Экспорт объектов</h5>
 
-<p>Экспорт объектов находится в меню <strong>Объекты|Оборудование - Объекты|Оборудование</strong>. По нажатию на кнопку
-    <strong>Экспорт объектов</strong>
-    и оборудования автоматически начнется выгрузка данных по <strong>Объектам</strong> в таблицу Excel.</p>
+<p>Экспорт объектов находится в меню <strong>Объекты|Оборудование - Объекты|Оборудование</strong>. Чтобы начать экспорт, нажмите кнопку <strong>Экспорт
+    объектов и оборудования</strong></p>
 
+<p>В появившемся окне вы можете выбраь один из вариантов экспорта:</p>
+<p>
 <div>
     <img style="margin: 0 auto; display: block; max-width: 90%;"
-         src="/attachments/images/FAQ/USER/Export/ExportObj.jpg"/>
+         src="/attachments/images/FAQ/USER/Export/ExportObject.jpg"/>
+</div>
+</p>
+
+<ol>
+    <li><strong>Обычный экспорт</strong> позволяет выгрузить минимальный набор основных данных по
+        <strong>Объектам</strong>: <strong>Название</strong>, <strong>Компания</strong>, <strong>Тип</strong>,
+        <strong>Участок</strong>, <strong>Вид работ</strong>, <strong>Родительский элемент</strong>, <strong>Адрес</strong> и т.п. По нажатию на кнопку <strong>Экспорт</strong> начнется
+        автоматическая выгрузка данных полей в таблицу
+        Excel.
+    </li>
+    <li><strong>Расширенный экспорт</strong> позволяет пользователю самостоятельно выбрать набор выгружаемых полей.
+        После выбора
+        необходимых для выгрузки полей нажмите кнопку <strong>Экспорт</strong> для автоматической выгрузки в таблицу
+        Excel. Выбранные в
+        расширенном экспорте поля локально сохраняются на вашем компьютере. То есть при повторном экспорте
+        у вас будут выбраны те поля, которые были выбраны при предыдущем экспорте <strong>Заявок</strong>.
+    </li>
+    <p>
+    <div>
+        <img style="margin: 0 auto; display: block; max-width: 90%;"
+             src="/attachments/images/FAQ/USER/Export/ExportObject2.jpg"/>
+    </div>
+    </p>
+</ol>
+
+<p>По нажатию на кнопку экспорт автоматически начнется выгрузка списка объектов в формате Excel в папку загрузок на вашем локальном компьютере.</p>
+<div>
+    <img style="margin: 0 auto; display: block; max-width: 90%;"
+         src="/attachments/images/FAQ/USER/Export/ExportObject3.jpg"/>
 </div>
 
 

@@ -120,5 +120,6 @@ https://wiki.hubex.ru/docs/FAQ/RU/ReleaseNotes/StageAndRules04082021.html
 https://wiki.hubex.ru/docs/FAQ/RU/ReleaseNotes/CalendarInMap17112021.html
 https://wiki.hubex.ru/docs/FAQ/RU/ReleaseNotes/Contract22112021.html
 https://wiki.hubex.ru/docs/FAQ/RU/ReleaseNotes/SelfEmployed21022022.html
+https://wiki.hubex.ru/docs/FAQ/RU/ReleaseNotes/ObjectsExport17012022.html
 https://wiki.hubex.ru/docs/FAQ/RU/ReleaseNotes/EngineerApp.html
 https://wiki.hubex.ru/docs/FAQ/RU/ReleaseNotes/CustomerApp.html

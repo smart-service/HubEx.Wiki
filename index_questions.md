@@ -70,7 +70,7 @@
 
 <h4 style="padding-left: 20px;"><a href="/docs/FAQ/RU/admin/StageVSStatus.html">Чем отличаются Стадии заявки от Статусов заявки?</a></h4>
 
-<h4 style="padding-left: 20px;"><a href="/docs/FAQ/RU/user/HowToManageGmailIntegration.html">Как настроить интеграцию с Gmail (почта Google)?</a></h4>
+<!--<h4 style="padding-left: 20px;"><a href="/docs/FAQ/RU/user/HowToManageGmailIntegration.html">Как настроить интеграцию с Gmail (почта Google)?</a></h4>-->
 
 <h4 style="padding-left: 20px;"><a href="/docs/FAQ/RU/admin/TicketsAgreement.html">Как настроить линейное и параллельное согласование заявок?</a><span class="updated-badge" title="15.12.2021"></span></h4>
 

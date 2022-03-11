@@ -101,7 +101,7 @@ keywords: массовые действия, выбрать несколько �
         все объекты с <strong>Коммпание-владельцем = Кофейня Новый день</strong>. Таким образом получим отфильтрованный список объектов.
         <p>
         <div>
-            <img style="margin: 0 auto; display: block; max-width: 90%;"
+            <img style="margin: 0 auto; display: block; max-width: 95%;"
                  src="/attachments/images/FAQ/USER/GroupActions/Objects.jpg"/>
         </div>
         </p>
@@ -112,7 +112,7 @@ keywords: массовые действия, выбрать несколько �
         любого объекта из отфильтрованного списка. Вы увидите, как появится окошко для установки флажка выбора.
         <p>
         <div>
-            <img style="margin: 0 auto; display: block; max-width: 90%;"
+            <img style="margin: 0 auto; display: block; max-width: 95%;"
                  src="/attachments/images/FAQ/USER/GroupActions/SelectEmpty.jpg"/>
         </div>
         </p>
@@ -120,7 +120,7 @@ keywords: массовые действия, выбрать несколько �
         установки флажка в панели редактирования.
         <p>
         <div>
-            <img style="margin: 0 auto; display: block; max-width: 90%;"
+            <img style="margin: 0 auto; display: block; max-width: 95%;"
                  src="/attachments/images/FAQ/USER/GroupActions/SelectAll.jpg"/>
         </div>
         </p>
@@ -130,7 +130,7 @@ keywords: массовые действия, выбрать несколько �
         <strong>+</strong>.
         <p>
         <div>
-            <img style="margin: 0 auto; display: block; max-width: 90%;"
+            <img style="margin: 0 auto; display: block; max-width: 95%;"
                  src="/attachments/images/FAQ/USER/GroupActions/Edit.jpg"/>
         </div>
         </p>
@@ -140,7 +140,7 @@ keywords: массовые действия, выбрать несколько �
         <p>Обратите внимание! Список <strong>Видов работ</strong> и <strong>Участков</strong> выводится полностью (выводятся все значения введенные в справочник <strong>Виды работ</strong> и <strong>Участки</strong>). </p>
         <p>
         <div>
-            <img style="margin: 0 auto; display: block; max-width: 90%;"
+            <img style="margin: 0 auto; display: block; max-width: 95%;"
                  src="/attachments/images/FAQ/USER/GroupActions/ParamsSelect.jpg"/>
         </div>
         </p>
@@ -149,12 +149,12 @@ keywords: массовые действия, выбрать несколько �
 </ol>
 <p>При работе с отфильтрованным по старому параметру <strong>Компании-владельца</strong> списком объектов после изменения владельца список объектов станет пуст.</p>
 <div>
-    <img style="margin: 0 auto; display: block; max-width: 90%;"
+    <img style="margin: 0 auto; display: block; max-width: 95%;"
          src="/attachments/images/FAQ/USER/GroupActions/ListEmpty.jpg"/>
 </div>
 <p>Проверим, правильно ли изменился владелец. Сделаем новый отбор в фильтрах по <strong>Компании-владельцу = Кофейня Доброе утро</strong>. Теперь все обработанные ранее <strong>Объекты</strong> принадлежат новой компании.</p>
 <div>
-    <img style="margin: 0 auto; display: block; max-width: 90%;"
+    <img style="margin: 0 auto; display: block; max-width: 95%;"
          src="/attachments/images/FAQ/USER/GroupActions/NewFilter.jpg"/>
 </div>
 </body>

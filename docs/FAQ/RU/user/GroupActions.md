@@ -55,7 +55,7 @@ keywords: массовые действия, выбрать несколько �
    </p>
 <div>
     <img style="margin: 0 auto; display: block; max-width: 95%;"
-         src="/attachments/images/FAQ/USER/GroupActions/SavingFilters.jpg"/>
+         src="/attachments/images/FAQ/USER/GroupActions/Filters.jpg"/>
 </div>
 
 <p>Введите название быстрого фильтра.</p>

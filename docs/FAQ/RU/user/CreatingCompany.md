@@ -148,6 +148,10 @@ keywords: создание компании, создать компанию, з
              src="/attachments/images/FAQ/USER/CreatingCompany/Ticket.jpg"/>
     </div>
 
+<p>Дополнительно ознакомьтесь с обучающим видео <strong>Договор в HubEx: как создать договор на объект/оборудование</strong>.</p>
+<iframe src="https://www.youtube.com/embed/uVLKXbTjuik" width="100%" height="450px" frameborder="0"
+        allowfullscreen="allowfullscreen"></iframe>
+
     
     <p> Вы можете ускорить процесс созданий <strong>Компаний</strong> с помощью функции <a
             href="https://wiki.hubex.ru/docs/FAQ/RU/user/Import.html#companies">Импорта</a>.</p>

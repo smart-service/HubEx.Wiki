@@ -74,6 +74,10 @@
 <p>Отправка уведомлений на мобильный телефон позволяет держать в курсе происходящих событий - поступления новых <Strong>Заявок</Strong>, переходов по стадиям, смены исполнителя. Вы можете гибко настраивать условия отправки оповещений, получателей, а также вносить свой текст для уведомления. Подробнее читайте в статье <a href="https://wiki.hubex.ru/docs/FAQ/RU/admin/Notifications.html">Настройка оповещений</a>.</p>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7oC98ISShGg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
  
+<h5 id="contract">Как создать договор</h5>
+<p>Договор необходим для фиксации взаимоотношений с клиентом. С его помощью можно отслеживать сроки действия и классифицировать Заявки. Подробнее читайте в статье <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/CreatingCompany.html#contract">Создание обслуживаемых компаний: Договор с клиентом</a>.</p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uVLKXbTjuik" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 <!--
  <h5 id="excelimport">Импорт данных</h5>

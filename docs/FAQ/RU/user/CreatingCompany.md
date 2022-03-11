@@ -113,7 +113,11 @@ keywords: создание компании, создать компанию, з
              src="/attachments/images/FAQ/USER/CreatingCompany/FullCompany.jpg"/>
     </div>
 
-
+    
+    <p> Вы можете ускорить процесс созданий <strong>Компаний</strong> с помощью функции <a
+            href="https://wiki.hubex.ru/docs/FAQ/RU/user/Import.html#companies">Импорта</a>.</p>
+    <p> Выгрузить информацию по <strong>Компаниям</strong> из системы HubEx можно с помощью функции <a
+            href="https://wiki.hubex.ru/docs/FAQ/RU/user/Export.html#companies">Экспорта</a>.</p>
 
 
     <h5 id="contract">Договор с клиентом</h5>
@@ -152,11 +156,7 @@ keywords: создание компании, создать компанию, з
 <iframe src="https://www.youtube.com/embed/uVLKXbTjuik" width="100%" height="450px" frameborder="0"
         allowfullscreen="allowfullscreen"></iframe>
 
-    
-    <p> Вы можете ускорить процесс созданий <strong>Компаний</strong> с помощью функции <a
-            href="https://wiki.hubex.ru/docs/FAQ/RU/user/Import.html#companies">Импорта</a>.</p>
-    <p> Выгрузить информацию по <strong>Компаниям</strong> из системы HubEx можно с помощью функции <a
-            href="https://wiki.hubex.ru/docs/FAQ/RU/user/Export.html#companies">Экспорта</a>.</p>
+
 
 </body>
 

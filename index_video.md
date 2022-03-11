@@ -72,7 +72,6 @@
     выбранном периоде? и т.д. Подробнее читайте в статье <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/EngineersAnalitics.html">Отчет по сотрудникам</a>.</p>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7oC98ISShGg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
- <li><a href="#processefficiency">Бизнес-аналитика: Анализ эффективности процессов</a>;</li>
 
 <h5 id="processefficiency">Бизнес-аналитика:  Анализ эффективности процессов</h5>
 <p>Отчет <Strong>Анализ эффективности процессов</Strong> в HubEx позволяет найти проблемные места в бизнес-процессах сервисной организации, а также позволяет оценить эффективность внесенных в процессы изменений после обнаружения проблем. Подробнее читайте в статье <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/ProcessEfficiency.html">Анализ эффективности процессов</a>.</p>

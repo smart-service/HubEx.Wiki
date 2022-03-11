@@ -13,7 +13,10 @@
       <li><a href="#objectimport">Как использовать импорт объектов для быстрого старта работы в Hubex;</a></li>
         <li><a href="#ticketonmap">Распределение заявок в Hubex с помощью календаря и карты;</a></li>
         <li><a href="#engineersanalytics">Бизнес-аналитика: Отчет по сотрудникам</a>;</li>
-         <li><a href="#notification">Как настроить push-уведомление на телефон мобильного инженера</a>.</li>
+         <li><a href="#processefficiency">Бизнес-аналитика: Анализ эффективности процессов</a>;</li>
+         <li><a href="#notification">Как настроить push-уведомление на телефон мобильного инженера</a>;</li>
+           <li><a href="#contract">Как создать договор</a>.</li>
+
         
      <!--<li><a href="#excelimport">Импорт данных.</a></li>-->
 </ul>
@@ -69,10 +72,17 @@
     выбранном периоде? и т.д. Подробнее читайте в статье <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/EngineersAnalitics.html">Отчет по сотрудникам</a>.</p>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7oC98ISShGg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+ <li><a href="#processefficiency">Бизнес-аналитика: Анализ эффективности процессов</a>;</li>
+
+<h5 id="processefficiency">Бизнес-аналитика:  Анализ эффективности процессов</h5>
+<p>Отчет <Strong>Анализ эффективности процессов</Strong> в HubEx позволяет найти проблемные места в бизнес-процессах сервисной организации, а также позволяет оценить эффективность внесенных в процессы изменений после обнаружения проблем. Подробнее читайте в статье <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/ProcessEfficiency.html">Анализ эффективности процессов</a>.</p>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C7N6KPA_jhA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15ER2EWoqvI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <h5 id="notification">Как настроить push-уведомление на телефон мобильного инженера</h5>
 <p>Отправка уведомлений на мобильный телефон позволяет держать в курсе происходящих событий - поступления новых <Strong>Заявок</Strong>, переходов по стадиям, смены исполнителя. Вы можете гибко настраивать условия отправки оповещений, получателей, а также вносить свой текст для уведомления. Подробнее читайте в статье <a href="https://wiki.hubex.ru/docs/FAQ/RU/admin/Notifications.html">Настройка оповещений</a>.</p>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7oC98ISShGg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/93iMHUnSK94" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
  
 <h5 id="contract">Как создать договор</h5>
 <p>Договор необходим для фиксации взаимоотношений с клиентом. С его помощью можно отслеживать сроки действия и классифицировать Заявки. Подробнее читайте в статье <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/CreatingCompany.html#contract">Создание обслуживаемых компаний: Договор с клиентом</a>.</p>

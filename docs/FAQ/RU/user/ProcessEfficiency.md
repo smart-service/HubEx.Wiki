@@ -354,6 +354,13 @@ keywords: эффективность процессов, анализ эффек
          src="/attachments/images/FAQ/USER/ProcessEfficiency/Diagram17.jpg"/>
 </div>
 
+
+<p>Дополнительно ознакомьтесь с обучающим видеороликами <strong>HubEx: Анализ эффективности процессов (часть 1)</strong>.</p>
+<iframe src="https://www.youtube.com/embed/C7N6KPA_jhA" width="100%" height="450px" frameborder="0"
+        allowfullscreen="allowfullscreen"></iframe>
+<p>А также  <strong>HubEx: Анализ эффективности процессов (часть 2)</strong>.</p>
+<iframe src="https://www.youtube.com/embed/15ER2EWoqvI" width="100%" height="450px" frameborder="0"
+        allowfullscreen="allowfullscreen"></iframe>
 </body>
 
 ### Следующие шаги:

@@ -25,7 +25,7 @@ keywords: массовые действия, выбрать несколько �
 <p>Для быстрого поиска по <strong>Объектам</strong> воспользуйтесь панелью <strong>Фильтры</strong>. Она находитсяв справа в меню <strong>Объекты|Оборудование - Объекты|Оборудование</strong>.</p>
 <div>
     <img style="margin: 0 auto; display: block; max-width: 95%;"
-         src="/attachments/images/FAQ/USER/Filters/FiltersButton.jpg"/>
+         src="/attachments/images/FAQ/USER/GroupActions/FilterObj.jpg"/>
 </div>
 
 <p>С помощью фильтров вы можете установить отборы по различным полям <strong>Объекта</strong>.</p>
@@ -37,45 +37,45 @@ keywords: массовые действия, выбрать несколько �
    
 <div>
     <img style="margin: 0 auto; display: block; max-width: 95%;"
-         src="/attachments/images/FAQ/USER/Filters/Customer.jpg"/>
+         src="/attachments/images/FAQ/USER/GroupActions/Customer.jpg"/>
 </div>
  <p>Список объектов автоматически отфильтруется по выбранному заказчику.</p>
 <div>
     <img style="margin: 0 auto; display: block; max-width: 95%;"
-         src="/attachments/images/FAQ/USER/Filters/Customer2.jpg"/>
+         src="/attachments/images/FAQ/USER/GroupActions/Customer2.jpg"/>
 </div>
 
 <p>Для отмены фильтрации нажмите на кнопку сброса фильтров.</p>
 <div>
     <img style="margin: 0 auto; display: block; max-width: 95%;"
-         src="/attachments/images/FAQ/USER/Filters/Customer3.jpg"/>
+         src="/attachments/images/FAQ/USER/GroupActions/Customer3.jpg"/>
 </div>
 <p>Вы можете сохранять настройки фильтрации. Это сэкономит ваше время на поиск необходимых <strong>Объектов</strong>.
     Например, сохраним фильтрацию по <strong>Компании-владельцу</strong> и <strong>Участку</strong>.
    </p>
 <div>
     <img style="margin: 0 auto; display: block; max-width: 95%;"
-         src="/attachments/images/FAQ/USER/Filters/SavingFilters.jpg"/>
+         src="/attachments/images/FAQ/USER/GroupActions/SavingFilters.jpg"/>
 </div>
 
 <p>Введите название быстрого фильтра.</p>
 
 <div>
     <img style="margin: 0 auto; display: block; max-width: 80%;"
-         src="/attachments/images/FAQ/USER/Filters/FiltersName.jpg"/>
+         src="/attachments/images/FAQ/USER/GroupActions/FiltersName.jpg"/>
 </div>
 
 <p>Быстрый фильтр отобразится над списком всех <strong>Объектов</strong>.</p>
 
 <div>
     <img style="margin: 0 auto; display: block; max-width: 95%;"
-         src="/attachments/images/FAQ/USER/Filters/FastFilters.jpg"/>
+         src="/attachments/images/FAQ/USER/GroupActions/FastFilters.jpg"/>
 </div>
 
 <p>По кнопке <strong>Все быстрые фильтры</strong> откроется дополнительная панель со списком всех быстрых фильтров. Здесь вы можете удалять неиспользуемые сохраненные фильтры.</p>
 <div>
     <img style="margin: 0 auto; display: block; max-width: 95%;"
-         src="/attachments/images/FAQ/USER/Filters/FilterDel.jpg"/>
+         src="/attachments/images/FAQ/USER/GroupActions/FilterDel.jpg"/>
 </div>
 
 <h5 id="group">Массовые действия для списка объектов</h5>

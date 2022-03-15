@@ -10,7 +10,7 @@ keywords:  hubex, хабекс, хубекс, хабикс
 <html>
 <meta charset="utf-8">
 <ul>
-    <!-- <li><a href="#scheduleweb">Как изменить график сотрудника в web-приложении;</a></li>-->
+    <li><a href="#scheduleweb">Как изменить график сотрудника в web-приложении;</a></li>
     <li><a href="#schedulemob">Как изменить свой график работы в мобильном приложении исполнителя;</a></li>
     <li><a href="#ondutty">Как работает функционал "На смене".</a></li>
 </ul>
@@ -44,89 +44,145 @@ keywords:  hubex, хабекс, хубекс, хабикс
     <strong>Сотрудника</strong>, когда
     он на смене. </p>
 
-<!--Отредактировать смены можно как в web-приложении, так и в мобилньом приложении исполнителя. -->
-<!--<h5 id="scheduleweb">Изменение графика работы в мобильном приложении исполнителя</h5>-->
+<p>Отредактировать смены можно как в web-приложении, так и в мобильном приложении исполнителя.</p>
+
+<h5 id="scheduleweb">Изменение графика работы в web-приложении</h5>
+<p>В web-приложении можно отредактировать смены в карточке <strong>Сотрудника</strong> (меню <strong>Пользователи -
+    Сотрудники</strong>) на вкладке <strong>Трудоустройство</strong>. На вкладке <strong>Трудоустройство</strong> вы увидите уже заданный график работ. Подробнее
+    читайте в
+    статье: <a
+            href="https://wiki.hubex.ru/docs/FAQ/RU/user/Schedule.html">График работы исполнителей</a>.</p>
+<div>
+    <img style="margin: 0 auto; display: block; max-width: 95%;"
+         src="/attachments/images/FAQ/USER/OnDutty/Schedule.jpg"/>
+</div>
+
+<p>Нажмите кнопку <strong>Редактировать смену</strong> и выберите необходимую дату для детальной настройки:</p>
+
+
+<ul>
+    <li>если вы выбрали рабочий день, то вы можете отредактировать время выхода на смену, либо сделать день
+        нерабочим, выбрав вариант <strong>Не на смене</strong>.
+        <p>После внесения изменений нажмите кнопку <strong>Сохранить</strong>;</p>
+
+        <p>
+        <div>
+            <img style="margin: 0 auto; display: block; max-width: 95%;"
+                 src="/attachments/images/FAQ/USER/OnDutty/EdittingSchedule.jpg"/>
+        </div>
+        </p>
+
+    </li>
+    <li>если вы выбрали выходной день, то вы можете сделать день рабочим, выбрав вариант <strong>На смене</strong> и
+        указать время
+        смены;
+        <p>После внесения изменений нажмите кнопку <strong>Сохранить</strong>.</p>
+
+        <p>
+        <div>
+            <img style="margin: 0 auto; display: block; max-width: 95%;"
+                 src="/attachments/images/FAQ/USER/OnDutty/EdittingSchedule2.jpg"/>
+        </div>
+        </p>
+
+    </li>
+</ul>
+
 
 <h5 id="schedulemob">Изменение графика работы в мобильном приложении исполнителя</h5>
 
 <p>Отредактировать заданный график работы исполнитель может самостоятельно в мобильном приложении HubEx Engineer. </p>
 <p>Скачать мобильное приложение можно по ссылкам <a
-            href="https://play.google.com/store/apps/details?id=ru.hubex.engineer">для Android</a> или <a
-            href="https://apps.apple.com/ru/app/hubex-%D0%B4%D0%BB%D1%8F-%D1%81%D0%B5%D1%80%D0%B2%D0%B8%D1%81%D0%BD%D0%BE%D0%B9-%D1%81%D0%BB%D1%83%D0%B6%D0%B1%D1%8B/id1386688688">для
+        href="https://play.google.com/store/apps/details?id=ru.hubex.engineer">для Android</a> или <a
+        href="https://apps.apple.com/ru/app/hubex-%D0%B4%D0%BB%D1%8F-%D1%81%D0%B5%D1%80%D0%B2%D0%B8%D1%81%D0%BD%D0%BE%D0%B9-%D1%81%D0%BB%D1%83%D0%B6%D0%B1%D1%8B/id1386688688">для
     iOS</a>.</p>
- 
-
-    <p>Откройте боковое меню и нажмите на кнопку редактирования. Перед вами откроется заданный график работы.
-        Напоминаем, что
-        график работы устанавливается в web-приложении в карточке <strong>Сотрудника</strong> на вкладке <strong>Трудоустройство</strong>.
-        Подробнее читайте в
-        статье: <a
-                href="https://wiki.hubex.ru/docs/FAQ/RU/user/Schedule.html">График работы исполнителей</a>. </p>
-
-    <div>
-        <img style="margin: 0 auto; display: block; max-width: 95%;"
-             src="/attachments/images/FAQ/USER/OnDutty/!!!!!!!!!!!!!.jpg"/>
-    </div>
 
 
-    <p>Выберите необходимую дату для детальной настройки:</p>
+<p>Откройте боковое меню и нажмите на иконку исполнителя. </p>
+<div>
+    <img style="margin: 0 auto; display: block; max-width: 95%;"
+         src="/attachments/images/FAQ/USER/OnDutty/ScheduleMob.jpg"/>
+</div>
+
+<p>Перед вами откроется заданный график работы.
+    Напоминаем, что
+    график работы устанавливается в web-приложении в карточке <strong>Сотрудника</strong> на вкладке <strong>Трудоустройство</strong>.
+    Подробнее читайте в
+    статье: <a
+            href="https://wiki.hubex.ru/docs/FAQ/RU/user/Schedule.html">График работы исполнителей</a>. </p>
+
+<div>
+    <img style="margin: 0 auto; display: block; max-width: 75%;"
+         src="/attachments/images/FAQ/USER/OnDutty/ScheduleMob2.jpg"/>
+</div>
 
 
-    <ul>
-        <li>если вы выбрали рабочий день, то вы можете отредактировать время выхода на смену, либо сделать день
-            нерабочим, выбрав вариант <strong>Не на смене</strong>. В поле <strong>Причина</strong> укажите, по какой
-            причине вы решили сделать день нерабочим - отпуск, болезнь и т.д.
-            <p>После внесения изменений нажмите кнопку <strong>Сохранить</strong>;</p>
-
-            <p>
-            <div>
-                <img style="margin: 0 auto; display: block; max-width: 95%;"
-                     src="/attachments/images/FAQ/USER/OnDutty/!!!!!!!!!!!!!.jpg"/>
-            </div>
-            </p>
-
-        </li>
-        <li>если вы выбрали выходной день, то вы можете сделать день рабочим, выбрав вариант <strong>На смене</strong> и
-            указать время
-            смены;
-            <p>После внесения изменений нажмите кнопку <strong>Сохранить</strong>.</p>
-
-            <p>
-            <div>
-                <img style="margin: 0 auto; display: block; max-width: 95%;"
-                     src="/attachments/images/FAQ/USER/OnDutty/!!!!!!!!!!!!!.jpg"/>
-            </div>
-            </p>
-
-        </li>
-    </ul>
+<p>Выберите необходимую дату для детальной настройки:</p>
 
 
-    <h5 id="pushdelay">Функционал "На смене"</h5>
+<ul>
+    <li>если вы выбрали рабочий день, то вы можете отредактировать время выхода на смену, либо сделать день
+        нерабочим, выбрав вариант <strong>Не на смене</strong>.
+        <p>После внесения изменений нажмите кнопку <strong>Сохранить</strong>;</p>
 
-    <p>Диспетчеру сервисной службы или начальнику сервиса удобно видеть сотрудников, которые работают в данный момент
-        времени, чтобы оперативно назначать на них <strong>Заявки</strong>.</p>
-    <p>Сервисному специалисту также важно предупреждать работодателя о том, что он приступил к работе, чтобы получать
-        <strong>Заявки</strong>, либо закончил смену и не может больше брать <strong>Заявки</strong>.</p>
+        <p>
+        <div>
+            <img style="margin: 0 auto; display: block; max-width: 75%;"
+                 src="/attachments/images/FAQ/USER/OnDutty/ScheduleMob3.jpg"/>
+        </div>
+        </p>
 
-    <p>В мобильном приложении HubEx Engineer перейдите в боковое меню. Для того, чтобы начать смену нажмите кнопку
-        <strong>Начать смену</strong> и отредактируйте время выхода на смену, если это необходимо.</p>
-    <p>Обратите внимание! Вы НЕ можете указать
-        время раньше текущего, но можете указать время позже. Например, вы вошли в приложение в 11:30, а смену хотите
-        начать в 13.00, укажите в поле <strong>Время с</strong> 13:00. Поле
-        <strong>Время по</strong> заполняется автоматически, исходя из настроек графика.</p>
+    </li>
+    <li>если вы выбрали выходной день, то вы можете сделать день рабочим, выбрав вариант <strong>На смене</strong> и
+        указать время
+        смены;
+        <p>После внесения изменений нажмите кнопку <strong>Сохранить</strong>.</p>
 
-    <div>
-        <img style="margin: 0 auto; display: block; max-width: 95%;"
-             src="/attachments/images/FAQ/USER/OnDutty/!!!!!!!!!!!!!.jpg"/>
-    </div>
+        <p>
+        <div>
+            <img style="margin: 0 auto; display: block; max-width: 75%;"
+                 src="/attachments/images/FAQ/USER/OnDutty/ScheduleMob4.jpg"/>
+        </div>
+        </p>
 
-    <p>Если вы хотите уменьшить или
-        увеличить количество часов в смене, то сначала измените ее, и только потом нажимайте кнопку <strong>Начать
-            смену</strong>. Как изменить настройки смены на любой день, описано <a href="#schedulemob">выше</a>. </p>
+    </li>
+</ul>
 
-    <p>По завершению рабочего дня перейдите также в боковое меню и нажмите кнопку <strong>Завершить
-        смену</strong>.</p>
+
+<h5 id="pushdelay">Функционал "На смене"</h5>
+
+<p>Диспетчеру сервисной службы или начальнику сервиса удобно видеть сотрудников, которые работают в данный момент
+    времени, чтобы оперативно назначать на них <strong>Заявки</strong>.</p>
+<p>Сервисному специалисту также важно предупреждать работодателя о том, что он приступил к работе, чтобы получать
+    <strong>Заявки</strong>, либо закончил смену и не может больше брать <strong>Заявки</strong>.</p>
+
+<p>В мобильном приложении HubEx Engineer перейдите в боковое меню. Для того, чтобы начать смену нажмите кнопку
+    <strong>Начать смену</strong>.</p>
+<p>Обратите внимание! Вы НЕ можете указать
+    другое время начала смены. Поле
+    <strong>Время по</strong> заполняется автоматически, исходя из настроек графика.</p>
+
+<div>
+    <img style="margin: 0 auto; display: block; max-width: 95%;"
+         src="/attachments/images/FAQ/USER/OnDutty/ScheduleMob5.jpg"/>
+</div>
+
+<p>Если вы хотите уменьшить или
+    увеличить количество часов в смене, то сначала измените ее, и только потом нажимайте кнопку <strong>Начать
+        смену</strong>. Как изменить настройки смены на любой день, описано <a href="#schedulemob">выше</a>. </p>
+
+<p>По завершению рабочего дня перейдите также в боковое меню и нажмите кнопку <strong>Завершить
+    смену</strong>.</p>
+<div>
+    <img style="margin: 0 auto; display: block; max-width: 95%;"
+         src="/attachments/images/FAQ/USER/OnDutty/ScheduleMob6.jpg"/>
+</div>
+
+<p>По завершению смены вы увидите расчет времени смены и нажмите кнопку <strong>Сохранить</strong>.</p>
+<div>
+    <img style="margin: 0 auto; display: block; max-width: 95%;"
+         src="/attachments/images/FAQ/USER/OnDutty/ScheduleMob7.jpg"/>
+</div>
 
 </body>
 

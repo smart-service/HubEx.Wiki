@@ -54,7 +54,7 @@ keywords:  hubex, хабекс, хубекс, хабикс
             href="https://wiki.hubex.ru/docs/FAQ/RU/user/Schedule.html">График работы исполнителей</a>.</p>
 <div>
     <img style="margin: 0 auto; display: block; max-width: 95%;"
-         src="/attachments/images/FAQ/USER/OnDutty/Schedule.jpg"/>
+         src="/attachments/images/FAQ/USER/OnDuty/Schedule.jpg"/>
 </div>
 
 <p>Нажмите кнопку <strong>Редактировать смену</strong> и выберите необходимую дату для детальной настройки:</p>
@@ -68,7 +68,7 @@ keywords:  hubex, хабекс, хубекс, хабикс
         <p>
         <div>
             <img style="margin: 0 auto; display: block; max-width: 95%;"
-                 src="/attachments/images/FAQ/USER/OnDutty/EdittingSchedule.jpg"/>
+                 src="/attachments/images/FAQ/USER/OnDuty/EdittingSchedule.jpg"/>
         </div>
         </p>
 
@@ -81,7 +81,7 @@ keywords:  hubex, хабекс, хубекс, хабикс
         <p>
         <div>
             <img style="margin: 0 auto; display: block; max-width: 95%;"
-                 src="/attachments/images/FAQ/USER/OnDutty/EdittingSchedule2.jpg"/>
+                 src="/attachments/images/FAQ/USER/OnDuty/EdittingSchedule2.jpg"/>
         </div>
         </p>
 
@@ -101,7 +101,7 @@ keywords:  hubex, хабекс, хубекс, хабикс
 <p>Откройте боковое меню и нажмите на иконку исполнителя. </p>
 <div>
     <img style="margin: 0 auto; display: block; max-width: 95%;"
-         src="/attachments/images/FAQ/USER/OnDutty/ScheduleMob.jpg"/>
+         src="/attachments/images/FAQ/USER/OnDuty/ScheduleMob.jpg"/>
 </div>
 
 <p>Перед вами откроется заданный график работы.
@@ -113,7 +113,7 @@ keywords:  hubex, хабекс, хубекс, хабикс
 
 <div>
     <img style="margin: 0 auto; display: block; max-width: 75%;"
-         src="/attachments/images/FAQ/USER/OnDutty/ScheduleMob2.jpg"/>
+         src="/attachments/images/FAQ/USER/OnDuty/ScheduleMob2.jpg"/>
 </div>
 
 
@@ -128,7 +128,7 @@ keywords:  hubex, хабекс, хубекс, хабикс
         <p>
         <div>
             <img style="margin: 0 auto; display: block; max-width: 75%;"
-                 src="/attachments/images/FAQ/USER/OnDutty/ScheduleMob3.jpg"/>
+                 src="/attachments/images/FAQ/USER/OnDuty/ScheduleMob3.jpg"/>
         </div>
         </p>
 
@@ -141,7 +141,7 @@ keywords:  hubex, хабекс, хубекс, хабикс
         <p>
         <div>
             <img style="margin: 0 auto; display: block; max-width: 75%;"
-                 src="/attachments/images/FAQ/USER/OnDutty/ScheduleMob4.jpg"/>
+                 src="/attachments/images/FAQ/USER/OnDuty/ScheduleMob4.jpg"/>
         </div>
         </p>
 
@@ -164,7 +164,7 @@ keywords:  hubex, хабекс, хубекс, хабикс
 
 <div>
     <img style="margin: 0 auto; display: block; max-width: 75%;"
-         src="/attachments/images/FAQ/USER/OnDutty/ScheduleMob5.jpg"/>
+         src="/attachments/images/FAQ/USER/OnDuty/ScheduleMob5.jpg"/>
 </div>
 
 <p>Если вы хотите уменьшить или
@@ -175,13 +175,13 @@ keywords:  hubex, хабекс, хубекс, хабикс
     смену</strong>.</p>
 <div>
     <img style="margin: 0 auto; display: block; max-width: 75%;"
-         src="/attachments/images/FAQ/USER/OnDutty/ScheduleMob6.jpg"/>
+         src="/attachments/images/FAQ/USER/OnDuty/ScheduleMob6.jpg"/>
 </div>
 
 <p>По завершению смены вы увидите расчет времени смены и нажмите кнопку <strong>Сохранить</strong>.</p>
 <div>
     <img style="margin: 0 auto; display: block; max-width: 75%;"
-         src="/attachments/images/FAQ/USER/OnDutty/ScheduleMob7.jpg"/>
+         src="/attachments/images/FAQ/USER/OnDuty/ScheduleMob7.jpg"/>
 </div>
 
 </body>

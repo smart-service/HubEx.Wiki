@@ -163,7 +163,7 @@ keywords:  hubex, хабекс, хубекс, хабикс
     <strong>Время по</strong> заполняется автоматически, исходя из настроек графика.</p>
 
 <div>
-    <img style="margin: 0 auto; display: block; max-width: 95%;"
+    <img style="margin: 0 auto; display: block; max-width: 75%;"
          src="/attachments/images/FAQ/USER/OnDutty/ScheduleMob5.jpg"/>
 </div>
 
@@ -174,13 +174,13 @@ keywords:  hubex, хабекс, хубекс, хабикс
 <p>По завершению рабочего дня перейдите также в боковое меню и нажмите кнопку <strong>Завершить
     смену</strong>.</p>
 <div>
-    <img style="margin: 0 auto; display: block; max-width: 95%;"
+    <img style="margin: 0 auto; display: block; max-width: 75%;"
          src="/attachments/images/FAQ/USER/OnDutty/ScheduleMob6.jpg"/>
 </div>
 
 <p>По завершению смены вы увидите расчет времени смены и нажмите кнопку <strong>Сохранить</strong>.</p>
 <div>
-    <img style="margin: 0 auto; display: block; max-width: 95%;"
+    <img style="margin: 0 auto; display: block; max-width: 75%;"
          src="/attachments/images/FAQ/USER/OnDutty/ScheduleMob7.jpg"/>
 </div>
 

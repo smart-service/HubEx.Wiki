@@ -112,7 +112,7 @@ keywords:  hubex, хабекс, хубекс, хабикс
             href="https://wiki.hubex.ru/docs/FAQ/RU/user/Schedule.html">График работы исполнителей</a>. </p>
 
 <div>
-    <img style="margin: 0 auto; display: block; max-width: 75%;"
+    <img style="margin: 0 auto; display: block; max-width: 65%;"
          src="/attachments/images/FAQ/USER/OnDuty/ScheduleMob2.jpg"/>
 </div>
 
@@ -127,7 +127,7 @@ keywords:  hubex, хабекс, хубекс, хабикс
 
         <p>
         <div>
-            <img style="margin: 0 auto; display: block; max-width: 75%;"
+            <img style="margin: 0 auto; display: block; max-width: 65%;"
                  src="/attachments/images/FAQ/USER/OnDuty/ScheduleMob3.jpg"/>
         </div>
         </p>
@@ -140,7 +140,7 @@ keywords:  hubex, хабекс, хубекс, хабикс
 
         <p>
         <div>
-            <img style="margin: 0 auto; display: block; max-width: 75%;"
+            <img style="margin: 0 auto; display: block; max-width: 65%;"
                  src="/attachments/images/FAQ/USER/OnDuty/ScheduleMob4.jpg"/>
         </div>
         </p>
@@ -163,7 +163,7 @@ keywords:  hubex, хабекс, хубекс, хабикс
     <strong>Время по</strong> заполняется автоматически, исходя из настроек графика.</p>
 
 <div>
-    <img style="margin: 0 auto; display: block; max-width: 75%;"
+    <img style="margin: 0 auto; display: block; max-width: 65%;"
          src="/attachments/images/FAQ/USER/OnDuty/ScheduleMob5.jpg"/>
 </div>
 
@@ -174,13 +174,13 @@ keywords:  hubex, хабекс, хубекс, хабикс
 <p>По завершению рабочего дня перейдите также в боковое меню и нажмите кнопку <strong>Завершить
     смену</strong>.</p>
 <div>
-    <img style="margin: 0 auto; display: block; max-width: 75%;"
+    <img style="margin: 0 auto; display: block; max-width: 65%;"
          src="/attachments/images/FAQ/USER/OnDuty/ScheduleMob6.jpg"/>
 </div>
 
 <p>По завершению смены вы увидите расчет времени смены и нажмите кнопку <strong>Сохранить</strong>.</p>
 <div>
-    <img style="margin: 0 auto; display: block; max-width: 75%;"
+    <img style="margin: 0 auto; display: block; max-width: 65%;"
          src="/attachments/images/FAQ/USER/OnDuty/ScheduleMob7.jpg"/>
 </div>
 

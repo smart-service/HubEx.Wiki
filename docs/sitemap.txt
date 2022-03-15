@@ -10,6 +10,7 @@ https://wiki.hubex.ru/docs/FAQ/RU/user/CreatingTicket.html
 https://wiki.hubex.ru/docs/FAQ/RU/user/ChildTicket.html
 https://wiki.hubex.ru/docs/FAQ/RU/user/ActOFAcceptance.html
 https://wiki.hubex.ru/docs/FAQ/RU/user/Schedule.html
+https://wiki.hubex.ru/docs/FAQ/RU/user/OnDuty.html
 https://wiki.hubex.ru/docs/FAQ/RU/user/PlannedTickets.html
 https://wiki.hubex.ru/docs/FAQ/RU/user/AdditionalFields.html
 https://wiki.hubex.ru/docs/FAQ/RU/user/ChangingStatus.html

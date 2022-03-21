@@ -8,14 +8,15 @@
      <li><a href="#firststeps">Начало работы в HubEx;</a></li>
      <li><a href="#plannedticket">Как создавать плановые заявки в системе;</a></li>
      <li><a href="#addfields">Как создавать дополнительные поля в HubEx;</a></li>
-        <li><a href="#checklists">Чек-листы в HubEx: контролируйте качество работ, обучайте новых сотрудников;</a></li>
-      <li><a href="#EngineersAnalitics">Аналитика: Отчет по сотрудникам;</a></li>
-      <li><a href="#objectimport">Как использовать импорт объектов для быстрого старта работы в Hubex;</a></li>
-        <li><a href="#ticketonmap">Распределение заявок в Hubex с помощью календаря и карты;</a></li>
-        <li><a href="#engineersanalytics">Бизнес-аналитика: Отчет по сотрудникам</a>;</li>
-         <li><a href="#processefficiency">Бизнес-аналитика: Анализ эффективности процессов</a>;</li>
-         <li><a href="#notification">Как настроить push-уведомление на телефон мобильного инженера</a>;</li>
-           <li><a href="#contract">Как создать договор</a>.</li>
+     <li><a href="#checklists">Чек-листы в HubEx: контролируйте качество работ, обучайте новых сотрудников;</a></li>
+     <li><a href="#EngineersAnalitics">Аналитика: Отчет по сотрудникам;</a></li>
+     <li><a href="#objectimport">Как использовать импорт объектов для быстрого старта работы в Hubex;</a></li>
+     <li><a href="#ticketonmap">Распределение заявок в Hubex с помощью календаря и карты;</a></li>
+     <li><a href="#engineersanalytics">Бизнес-аналитика: Отчет по сотрудникам</a>;</li>
+     <li><a href="#processefficiency">Бизнес-аналитика: Анализ эффективности процессов</a>;</li>
+     <li><a href="#notification">Как настроить push-уведомление на телефон мобильного инженера</a></li>
+     <li><a href="#contract">Как создать договор</a>;</li>
+     <li><a href="#attachingfiles">Как заполнить выполненные работы и оценить показатели KPI</a>.</li>
 
         
      <!--<li><a href="#excelimport">Импорт данных.</a></li>-->
@@ -87,6 +88,10 @@
 <p>Договор необходим для фиксации взаимоотношений с клиентом. С его помощью можно отслеживать сроки действия и классифицировать Заявки. Подробнее читайте в статье <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/CreatingCompany.html#contract">Создание обслуживаемых компаний: Договор с клиентом</a>.</p>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/uVLKXbTjuik" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+
+<h5 id="attachingfiles">Как заполнить выполненные работы и оценить показатели KPI</h5>
+<p>Заполнение выполненных работ позволяет формировать Акты выполненных работ, Сервисные акты для заказчиков. Подробнее читайте в статье <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/AttachingFiles.html">Прикрепление выполненных работ в web и мобильном приложении</a>, <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/ActOFAcceptance.html">Акт выполненных работ</a>.</p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4BK9PCQ60N0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <!--
  <h5 id="excelimport">Импорт данных</h5>

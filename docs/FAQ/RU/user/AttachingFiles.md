@@ -144,6 +144,11 @@ keywords: выполненные работы, офлайн, нет интерн
 <p></p>
 <p>Все внесенные изменения будут отражаться в web-приложении в <strong>Заявке</strong> на вкладке <strong>История
     изменений</strong>.</p>
+
+    
+<p>Дополнительно ознакомьтесь с обучающим видео <strong>Заполнение выполненных работ и их помощь в оцифровке ваших показателей и KPI</strong>.</p>
+<iframe src="https://www.youtube.com/embed/4BK9PCQ60N0" width="100%" height="450px" frameborder="0"
+        allowfullscreen="allowfullscreen"></iframe>
 </body>
 ### Следующие шаги:
 - [Создание шаблона оборудования и маркировка](./CreatingObjTemplates.md)

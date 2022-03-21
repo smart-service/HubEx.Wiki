@@ -532,6 +532,10 @@ keywords: отчет по сотрудникам, sla, показатели по
             href="https://wiki.hubex.ru/docs/FAQ/RU/user/CreatingUser.html">Создание пользователя вашей
         системы</a>. </p>
 
+ <p>Дополнительно ознакомьтесь с обучающим видео <strong>Заполнение выполненных работ и их помощь в оцифровке ваших показателей и KPI</strong>.</p>
+<iframe src="https://www.youtube.com/embed/4BK9PCQ60N0" width="100%" height="450px" frameborder="0"
+        allowfullscreen="allowfullscreen"></iframe>       
+
 
 <h5 id="fourth">Отчет-карточка сотрудника</h5>
 <p>В отчет-карточку по сотруднику можно перейти из любой вкладки <Strong>Отчета по сотруднику</Strong>, щелкнув на его

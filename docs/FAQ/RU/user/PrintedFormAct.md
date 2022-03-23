@@ -72,7 +72,7 @@ keywords: , hubex, хабекс, хубекс, хабикс
 
 <div>
     <img style="margin: 0 auto; display: block; max-width: 80%;"
-         src="/attachments/images/FAQ/USER/AcceptanceTicket/Field.jpg"/>
+         src="/attachments/images/FAQ/USER/AcceptanceTicket/чччччч.jpg"/>
 </div>
 
 </body>

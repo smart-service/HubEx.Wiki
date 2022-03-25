@@ -127,5 +127,14 @@ keywords: рейтинг исполнителя, рейтинг сотрудни
          src="/attachments/images/FAQ/USER/Rating/TaskField.jpg"/>
 </div>
 </body>
+
+
+___
+### Следующие шаги:
+- [История изменений заявки](./HistoryOfChanges.md)
+- [QR-код в HubEx: основные понятия](./QRcodeMain.md)
+- [Создание шаблона оборудования, приемка и маркировка по QR-коду](./CreatingObjTemplates.md)
+
+
 ____
 - [Перейти в меню](http://wiki.hubex.ru)

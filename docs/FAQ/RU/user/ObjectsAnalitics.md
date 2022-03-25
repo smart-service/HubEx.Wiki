@@ -318,9 +318,12 @@ keywords:  hubex, хабекс, хубекс, хабикс
 </div></p>
 </body>
 
+
+___
 ### Следующие шаги:
-- [Карта: текущая геопозиция сотрудников](./GeoPosition.md)
-- [История перемещений](./Geotracking.md)
+- [Отчет по сотрудникам](./EngineersAnalytics.md)
+- [Анализ эффективности процессов](./ProcessEfficiency.md)
+- [Сервисный акт](./PrintedFormAct.md)
 
 ___
 - [Перейти в меню](http://wiki.hubex.ru)

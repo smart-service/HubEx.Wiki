@@ -94,5 +94,12 @@ keywords: qr-код, подача заявки по qr-коду, создать 
 
 </body>
 
+
+___
+### Следующие шаги:
+- [Общая аналитика](./GeneralAnalitics.md)
+- [Срез по заявкам](./TicketsReport.md)
+- [Отчет для клиента](./ClientsAnalitics.md)
+
 ___
 - [Перейти в меню](http://wiki.hubex.ru)

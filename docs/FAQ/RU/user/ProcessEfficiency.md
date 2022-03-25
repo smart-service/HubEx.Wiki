@@ -363,7 +363,9 @@ keywords: эффективность процессов, анализ эффек
         allowfullscreen="allowfullscreen"></iframe>
 </body>
 
+___
 ### Следующие шаги:
+- [Сервисный акт](./PrintedFormAct.md)
 - [Карта: текущая геопозиция сотрудников](./GeoPosition.md)
 - [История перемещений](./Geotracking.md)
 

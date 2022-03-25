@@ -90,9 +90,13 @@ keywords: геопозиция, местоположение, точка на к
         src="/attachments/images/FAQ/USER/GeoPosition/Mob2.jpg"/>
 </div>
 </body>
+
+
+___
 ### Следующие шаги:
-- [История изменений заявки](./HistoryOfChanges.md)
+- [История перемещений](./Geotracking.md)
 - [Экспорт](./Export.md)
+- [Импорт](./Import.md)
 
 ___
 - [Перейти в меню](http://wiki.hubex.ru)

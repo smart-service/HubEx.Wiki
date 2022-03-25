@@ -111,5 +111,13 @@ keywords: принять заявку из общего списка, назна
     поддержкой в web-приложении или на почту <a href="mailto:support@hubex.ru" target="_blank" rel="noopener">
         support@hubex.ru</a>.</p>
 </body>
+
+
+___
+### Следующие шаги:
+- [Создание заявки](./CreatingTicket.md)
+- [Индивидуальный график работы: функционал “На смене”](./OnDuty.md)
+- [Как выбрать нескольких исполнителей в заявке](./SeveralEngineers.md)
+
 ____
 - [Перейти в меню](http://wiki.hubex.ru)

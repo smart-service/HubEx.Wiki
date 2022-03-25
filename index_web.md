@@ -129,18 +129,18 @@
     <a href="/docs/FAQ/RU/user/ProcessEfficiency.html">Анализ эффективности процессов</a> <span class="new-badge" title="22.12.2021"></span>
 </h4>
 
-<!--
-### Печатные формы
-<h4 style="padding-left: 20px;">
+
+### Мои отчеты
+Формируйте отчеты в виде печатных форм. Данные о трудозатратах, выполненных работах и использованных материалах можно собирать по конкретным заказчикам. Такие формы можно выгружать в сторонние системы или сразу отправлять на печать. 
+<!--<h4 style="padding-left: 20px;">
     <a href="/docs/FAQ/RU/user/GeoPosition.html">Печатная форма "Счет на оплату"</a>
 </h4>
 <h4 style="padding-left: 20px;">
     <a href="/docs/FAQ/RU/user/Geotracking.html">Печатная форма "Акт"</a>
+</h4>-->
+<h4 style="padding-left: 20px;"><a href="/docs/FAQ/RU/user/PrintedFormAct.html">Сервисный акт</a>
 </h4>
-<h4 style="padding-left: 20px;">
-    <a href="/docs/FAQ/RU/user/Geotracking.html">Печатная форма "Сервисный акт"</a>
-</h4>
--->
+
 
 
 ### Карты

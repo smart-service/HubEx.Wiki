@@ -150,10 +150,13 @@ keywords: выполненные работы, офлайн, нет интерн
 <iframe src="https://www.youtube.com/embed/4BK9PCQ60N0" width="100%" height="450px" frameborder="0"
         allowfullscreen="allowfullscreen"></iframe>
 </body>
+
+___
 ### Следующие шаги:
-- [Создание шаблона оборудования и маркировка](./CreatingObjTemplates.md)
-- [Создание шаблона заявок и паспорт объекта](./CreatingTickTemplates.md)
-- [Создание паспорта объекта с возможностью саморегистрации](./HowToMakePassport.md)
+- [Переход заявки по стадиям и удаление заявки](./ChangingStatus.md)
+- [Список заявок, поиск заявок с помощью фильтров](./Filters.md)
+- [Заявки и сотрудники на карте](./TicketsOnMap.md)
+
 
 
 ___

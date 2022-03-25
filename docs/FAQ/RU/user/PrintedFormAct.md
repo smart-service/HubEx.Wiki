@@ -1,7 +1,7 @@
 ---
-title:
-description:
-keywords: , hubex, хабекс, хубекс, хабикс
+title: Мои отчеты\:\ Сервисный акт
+description: Сервисный акт представляет собой подробную информацию о проделанных работах, трудозатратах исполнителей и израсходованных материалах. Такой акт можно выгружать в различных форматах (.xml, .csv, .excel и др.), что позволяет при необходимости отредактировать его вручную, загружать его в другие системы (например, 1С) и избегать повторного ввода данных вручную. Также доступна функция печати напрямую из HubEx. 
+keywords: сервисный акт, мои отчеты, печатная форма, акт, акт выполненных работ, акт для заказчика, hubex, хабекс, хубекс, хабикс
 ---
 
 #### Мои отчеты: Сервисный акт
@@ -35,7 +35,12 @@ keywords: , hubex, хабекс, хубекс, хабикс
         в карточке которых выбран тип <strong>Заказчик</strong>
         или <strong>Наша компания</strong>;
     </li>
-    <li><strong>Объект</strong>: вы можете выбрать один или несколько Объектов компании-заказчика, по которым хотите
+<div>
+    <img style="margin: 0 auto; display: block; max-width: 80%;"
+         src="/attachments/images/FAQ/USER/PrintedForm/Customer.jpg"/>
+</div>
+
+    <li><strong>Объект</strong>: вы можете выбрать один или несколько <strong>Объектов</strong> компании-заказчика, по которым хотите
         подготовить
         сервисный акт;
     </li>
@@ -46,6 +51,11 @@ keywords: , hubex, хабекс, хубекс, хабикс
         которое находится ниже;
     </li>
     <li>в поле <strong>Стадия</strong> можно уточнить выбор <strong>Заявок</strong>, коорые назодятся на определенных стадиях;</li>
+<div>
+    <img style="margin: 0 auto; display: block; max-width: 80%;"
+         src="/attachments/images/FAQ/USER/PrintedForm/Stage.jpg"/>
+</div>
+
     <li>в поле <strong>Тип заявки</strong>, <strong>Критичность</strong> и <strong>Вид работ</strong> выберите одно или несколько значений параметров;</li>
     <li>задайте начальную и конечную дату в полях <strong>С</strong> и <strong>По</strong>: система подберет все <strong>Заявки</strong>, по которым был совершен переход
         на выбранные стадии в указанный диапазон;
@@ -53,6 +63,12 @@ keywords: , hubex, хабекс, хубекс, хабикс
     <li>в поле <strong>Заявка</strong> будет отображаться список <strong>Заявок</strong>, подходящих по всем вышеперечисленным параметрам. Здесь вы можете
         самостоятельно выбрать <strong>Заявки</strong> для формирования акта;
     </li>
+
+<div>
+    <img style="margin: 0 auto; display: block; max-width: 80%;"
+         src="/attachments/images/FAQ/USER/PrintedForm/Tickets.jpg"/>
+</div>
+
     <li>в поле <strong>НДС</strong> можно выбрать один из вариантов: <strong>С НДС 20%</strong> либо <strong>Без НДС</strong>. При выборе варианта <strong>С НДС 20%</strong> будет
         произведен расчет НДС по итоговой сумме;
     </li>
@@ -69,15 +85,29 @@ keywords: , hubex, хабекс, хубекс, хабикс
 
 </ul>
 <p>Для формирования <strong>Сервисного акта</strong> после заполнения всех параметров необходимо нажать кнопку <strong>Просмотр отчета</strong>. </p>
+<div>
+    <img style="margin: 0 auto; display: block; max-width: 95%;"
+         src="/attachments/images/FAQ/USER/PrintedForm/PrintedForm.jpg"/>
+</div>
 
-<p>Готовый отчет можно распечатать с помощью меню <strong>Файл - Печать</strong>. </p>
+<p>Готовый отчет можно распечатать с помощью меню <strong>Файл - Печать</strong> или кнопку <strong>Печатать</strong>. </p>
+
+<div>
+    <img style="margin: 0 auto; display: block; max-width: 95%;"
+         src="/attachments/images/FAQ/USER/PrintedForm/Print.jpg"/>
+</div>
 
 <p>Также готовый отчет можно экспортировать в различные форматы - pdf, excel, docx, xml и другие.</p>
 
-
 <div>
-    <img style="margin: 0 auto; display: block; max-width: 80%;"
-         src="/attachments/images/FAQ/USER/AcceptanceTicket/чччччч.jpg"/>
+    <img style="margin: 0 auto; display: block; max-width: 95%;"
+         src="/attachments/images/FAQ/USER/PrintedForm/Export.jpg"/>
+</div>
+
+<p>Если вы выбрали несколько <strong>Заявок</strong> для формирования акта, то каждой <strong>Заявке</strong> будет соответствовать своя страница акта. Переключаться между страницами можно на панели <strong>Параметров</strong>. </p>
+<div>
+    <img style="margin: 0 auto; display: block; max-width: 95%;"
+         src="/attachments/images/FAQ/USER/PrintedForm/PrintedForm.jpg"/>
 </div>
 
 </body>

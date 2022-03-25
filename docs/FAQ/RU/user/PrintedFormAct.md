@@ -36,7 +36,7 @@ keywords: сервисный акт, мои отчеты, печатная фо�
         или <strong>Наша компания</strong>;
     </li>
 <div>
-    <img style="margin: 0 auto; display: block; max-width: 80%;"
+    <img style="margin: 0 auto; display: block; max-width: 70%;"
          src="/attachments/images/FAQ/USER/PrintedForm/Customer.jpg"/>
 </div>
 
@@ -52,7 +52,7 @@ keywords: сервисный акт, мои отчеты, печатная фо�
     </li>
     <li>в поле <strong>Стадия</strong> можно уточнить выбор <strong>Заявок</strong>, коорые назодятся на определенных стадиях;</li>
 <div>
-    <img style="margin: 0 auto; display: block; max-width: 80%;"
+    <img style="margin: 0 auto; display: block; max-width: 70%;"
          src="/attachments/images/FAQ/USER/PrintedForm/Stage.jpg"/>
 </div>
 
@@ -65,7 +65,7 @@ keywords: сервисный акт, мои отчеты, печатная фо�
     </li>
 
 <div>
-    <img style="margin: 0 auto; display: block; max-width: 80%;"
+    <img style="margin: 0 auto; display: block; max-width: 95%;"
          src="/attachments/images/FAQ/USER/PrintedForm/Tickets.jpg"/>
 </div>
 
@@ -107,7 +107,7 @@ keywords: сервисный акт, мои отчеты, печатная фо�
 <p>Если вы выбрали несколько <strong>Заявок</strong> для формирования акта, то каждой <strong>Заявке</strong> будет соответствовать своя страница акта. Переключаться между страницами можно на панели <strong>Параметров</strong>. </p>
 <div>
     <img style="margin: 0 auto; display: block; max-width: 95%;"
-         src="/attachments/images/FAQ/USER/PrintedForm/PrintedForm.jpg"/>
+         src="/attachments/images/FAQ/USER/PrintedForm/PrintedForm2.jpg"/>
 </div>
 
 </body>

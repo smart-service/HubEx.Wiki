@@ -43,10 +43,13 @@ keywords: консоль администратора, консоль админ
          src="/attachments/images/FAQ/ADMIN/EnterTheAdm/Help.jpg"/>
 </div>
 </body>
+
+
+___
 ### Следующие шаги:
 - [Настройка ролей](./Roles.md)
-- [Настройка UI полномочий](./UI_Permissions.md)
 - [Настройка участков](./Places.md)
+- [Типы оборудования](./ObjectsType.md)
 
 
 ____

@@ -233,6 +233,9 @@ keywords: qr-код, шаблон заявки, скачать QR-код, пас
          src="/attachments/images/FAQ/USER/CreatingTickTemplates/Export2.jpg"/>
 </div>
 
+<p>Пример создания QR-кода и подачи <strong>Заявки</strong> через приложение вы можете посмотреть в нашем обучающем видеоролике.</p>
+<iframe src="https://www.youtube.com/embed/yPugQerNlvo" width="100%" height="450px" frameborder="0"
+        allowfullscreen="allowfullscreen"></iframe>
 
 </body>
 

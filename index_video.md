@@ -16,6 +16,7 @@
      <li><a href="#processefficiency">Бизнес-аналитика: Анализ эффективности процессов</a>;</li>
      <li><a href="#notification">Как настроить push-уведомление на телефон мобильного инженера</a></li>
      <li><a href="#contract">Как создать договор</a>;</li>
+     <li><a href="#qrcode">Как подать заявку по QR-коду</a>;</li>
      <li><a href="#attachingfiles">Как заполнить выполненные работы и оценить показатели KPI</a>.</li>
 
         
@@ -87,6 +88,10 @@
 <h5 id="contract">Как создать договор</h5>
 <p>Договор необходим для фиксации взаимоотношений с клиентом. С его помощью можно отслеживать сроки действия и классифицировать Заявки. Подробнее читайте в статье <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/CreatingCompany.html#contract">Создание обслуживаемых компаний: Договор с клиентом</a>.</p>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/uVLKXbTjuik" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<h5 id="qrcode">Как подать заявку по QR-коду</h5>
+<p>QR-код можно создать для любого объекта или оборудования в HubEx. При помощи QR-кодов можно оперативно создавать Заявки по определенному оборудованию. Подробнее читайте в статье <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/CreatingTaskTemplates">Создание шаблона заявки, подача заявки по QR-коду</a>.</p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yPugQerNlvo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 <h5 id="attachingfiles">Как заполнить выполненные работы и оценить показатели KPI</h5>

@@ -77,5 +77,12 @@ keywords: класс оборудования, класс объекта, кла
          src="/attachments/images/FAQ/ADMIN/ObjectClass/Ticket.jpg"/>
 </div>
 </body>
+
+___
+### Следующие шаги:
+- [Виды работ](./WorkType.md)
+- [Типы заявок](./TicketType.md)
+- [Статусы заявок](./StatusType.md)
+
 ____
 - [Перейти в меню](http://wiki.hubex.ru)

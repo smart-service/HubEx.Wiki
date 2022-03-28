@@ -56,5 +56,6 @@ ___
 - [Классы оборудования](./ObjectClass.md)
 - [Виды работ](./WorkType.md)
 - [Типы заявок](./TicketType.md)
+
 ____
 - [Перейти в меню](http://wiki.hubex.ru)

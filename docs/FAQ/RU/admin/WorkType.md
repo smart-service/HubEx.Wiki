@@ -117,5 +117,6 @@ ___
 - [Типы заявок](./TicketType.md)
 - [Статусы заявок](./StatusType.md)
 - [Критичность заявки](./Criticality.md)
+
 ____
 - [Перейти в меню](http://wiki.hubex.ru)

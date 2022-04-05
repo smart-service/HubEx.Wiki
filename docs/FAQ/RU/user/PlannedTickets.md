@@ -10,9 +10,11 @@ keywords: плановая заявка, планировщик работ, hube
 <meta charset="utf-8">
 <ul>
     <li><a href="#planticket">Создавать Плановые заявки в web-приложении;</a></li>
-    <li><a href="#editticket">Просматривать и редактировать Плановые заявки.</a></li>
+    <li><a href="#editticket">Просматривать и редактировать Плановые заявки;</a></li>
+     <li><a href="#plantick">Просматривать плановые заявки в календаре.</a></li>
 </ul>
 </html>
+
 <body>
 <p>Создание <strong>Плановой заявки</strong> необходимо для автоматизации подачи <strong>Заявок</strong> в случаях регулярного
     ремонта или обслуживания объектов (оборудования). По заданным настройкам система самостоятельно будет создавать
@@ -140,6 +142,31 @@ keywords: плановая заявка, планировщик работ, hube
     <img style="margin: 0 auto; display: block; max-width: 90%;"
          src="/attachments/images/FAQ/USER/PlannedTickets/plantick5.png"/>
 </div>
+
+<h5 id="plantick">Плановые заявки в календаре</h5>
+<p>В web-приложении для календаря на месяц доступно отображение плановых заявок. Подробнее читайте в статье: <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/Calendar.html">Календарь заявок</a>.</p>
+<p>Плановые заявки будут располагаться как в самом календаре на запланированную дату, так и на отдельной вкладке <strong>Планировщик</strong>.</p>
+
+<p>Например, если у вас запланирована <strong>Заявка</strong> на 19 апреля, то вы увидите ее в календаре отметку <strong>Планировщик 1</strong> на дату 19 апреля, где 1 - это количество плановых заявок.</p>
+
+<div>
+    <img style="margin: 0 auto; display: block; max-width: 95%;"
+         src="/attachments/images/FAQ/USER/Calendar/PlanTicket.jpg"/>
+</div>
+
+<p>Если в настройках плановой заявки не указан исполнитель, то по кнопке <strong>+</strong>на вкладке <strong>Планировщик</strong> вы можете выбрать подходящего сотрудника и назначить его на выполнение плановой заявки.</p>
+
+<div>
+    <img style="margin: 0 auto; display: block; max-width: 95%;"
+         src="/attachments/images/FAQ/USER/Calendar/ChoiceUser.jpg"/>
+</div>
+
+<p><div>
+    <img style="margin: 0 auto; display: block; max-width: 95%;"
+         src="/attachments/images/FAQ/USER/Calendar/ChoiceUser2.jpg"/>
+</div></p>
+
+
 </body>
 
 ___

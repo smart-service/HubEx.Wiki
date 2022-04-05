@@ -19,7 +19,7 @@ keywords:
 
 <p>Например, если у вас запланирована <strong>Заявка</strong> на 29 марта, то вы увидите ее в календаре отметку <strong>Планировщик 1</strong> на дату 29 марта, где 1 - это количество плановых заявок.</p>
 
-<div><img style="margin: 0 auto; display: block; max-width: 100%;" src="https://content.screencast.com/users/echinaek.val/folders/Capture/media/2e95b647-5a1d-4829-9a8f-b6e380d9729f/LWR_Recording.png" width="700" height="auto" /></div>
+<div><img style="margin: 0 auto; display: block; max-width: 100%;" src="https://content.screencast.com/users/echinaek.val/folders/Capture/media/2e95b647-5a1d-4829-9a8f-b6e380d9729f/LWR_Recording.png" width="900" height="auto" /></div>
 
 <p>По кнопке <strong>+</strong>на вкладке <strong>Планировщик</strong> вы можете выбрать подходящего исполнителя и назначить его на выполнение плановой заявки.</p>
 <div><img style="margin: 0 auto; display: block; max-width: 100%;" src="https://content.screencast.com/users/echinaek.val/folders/Capture/media/7c7ce6d0-f678-4691-ab46-4e8d46fbd014/LWR_Recording.png" width="700" height="auto" /></div>

@@ -68,7 +68,7 @@ keywords: календарь заявок, расписание заявок, hu
 
         <div>
             <img style="margin: 0 auto; display: block; max-width: 95%;"
-                 src="/attachments/images/FAQ/USER/Calendar/Calendar2.png"/>
+                 src="/attachments/images/FAQ/USER/Calendar/Calendar2.jpg"/>
         </div>
 
         <p>Если на сервисного специалиста назначено несколько <strong>Заявок</strong> в один и тот же промежуток

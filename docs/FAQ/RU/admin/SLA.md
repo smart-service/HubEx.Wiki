@@ -127,6 +127,11 @@ keywords: сла, sla, правило расчета крайнего срока
     будет, то, которое по <strong>Графику обслуживания</strong> попадает на текущее время. Если совпадают <strong>Графики обслуживания</strong>, то
     выбрано будет правило с наименьшим сроком закрытия.</p>
 
+<p>Вы можете дополнительно ознакомиться с обучающим видеороликом <strong>Настройка SLA: расчет крайнего срока закрытия заявки</strong>.</p>
+
+<iframe src="https://www.youtube.com/embed/kSNXDTwOQuo" width="100%" height="450px" frameborder="0"
+        allowfullscreen="allowfullscreen"></iframe>
+
 </body>
 
 

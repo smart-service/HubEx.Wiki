@@ -17,7 +17,8 @@
      <li><a href="#notification">Как настроить push-уведомление на телефон мобильного инженера</a></li>
      <li><a href="#contract">Как создать договор</a>;</li>
      <li><a href="#qrcode">Как подать заявку по QR-коду</a>;</li>
-     <li><a href="#attachingfiles">Как заполнить выполненные работы и оценить показатели KPI</a>.</li>
+     <li><a href="#attachingfiles">Как заполнить выполненные работы и оценить показатели KPI</a>;</li>
+     <li><a href="#sla">Настройка SLA: расчет крайнего срока закрытия заявки</a>.</li>
 
         
      <!--<li><a href="#excelimport">Импорт данных.</a></li>-->
@@ -96,6 +97,10 @@
 
 <h5 id="attachingfiles">Как заполнить выполненные работы и оценить показатели KPI</h5>
 <p>Заполнение выполненных работ позволяет формировать Акты выполненных работ, Сервисные акты для заказчиков. Подробнее читайте в статье <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/AttachingFiles.html">Прикрепление выполненных работ в web и мобильном приложении</a>, <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/ActOFAcceptance.html">Акт выполненных работ</a>.</p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4BK9PCQ60N0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<h5 id="sla">Настройка SLA: расчет крайнего срока закрытия заявки</h5>
+<p>С помощью SLA в HubEx можно настраивать гибкие правила автоматического расчета крайнего срока закрытия заявки. Подробнее читайте в статье <a href="https://wiki.hubex.ru/docs/FAQ/RU/admin/SLA.html">SLA - Правила расчета крайнего срока закрытия заявки</a>.</p>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4BK9PCQ60N0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <!--

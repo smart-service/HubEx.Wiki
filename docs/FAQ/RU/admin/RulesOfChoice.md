@@ -145,7 +145,7 @@ keywords: правило автоназначения исполнителя, а
          src="/attachments/images/FAQ/ADMIN/RulesOfChoice/Engineer.jpg"/>
 </div>
 
-<p>Дополнительно ознакомьтесь с видеороликом <strong>Как работает автоназначение исполнителей на заявки</strong>.</p>
+<p>Дополнительно ознакомьтесь с видеороликом <strong>Автоназначение исполнителей на заявки</strong>.</p>
 
 <iframe src="https://www.youtube.com/embed/IEsB3xWJVRQ" width="100%" height="450px" frameborder="0"
         allowfullscreen="allowfullscreen"></iframe>

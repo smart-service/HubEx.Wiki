@@ -103,7 +103,7 @@ keywords: дочерние заявки, дочерняя заявка, роди
     информацию о ходе работ над дочерними заявками.</p>
 <div>
     <img style="margin: 0 auto; display: block; max-width: 90%;"
-         src="/attachments/images/FAQ/USER/ChildTicket/Statistics.jpg"/>
+         src="/attachments/images/FAQ/USER/ChildTicket/Statistics.jpg"/> 
 </div>
 
 <h5 id="ChildTicket4">Дочерние заявки не отражаются внутри родительской</h5>

@@ -102,21 +102,21 @@ keywords: заявки по почте, заявки из почты, подач
         <ul>
         <li>на первом шаге выполняем настройки интеграции по данной статье;</li>
 
-    <div>
+    <p><div>
     <img style="margin: 0 auto; display: block; max-width: 70%;"
          src="/attachments/images/FAQ/ADMIN/TicketMail/Settings.jpg"/>
-    </div>
+    </div></p>
 
-        <li>Заказчик отправляет письмо с описанием Заявки;</li>
-        <div>
+        <li>Заказчик отправляет письмо с описанием <strong>Заявки</strong>;</li>
+       <p> <div>
     <img style="margin: 0 auto; display: block; max-width: 60%;"
          src="/attachments/images/FAQ/ADMIN/TicketMail/Mail.jpg"/>
-    </div>
-         <li>в HubEx создается Заявка;</li>
-      <div>
+    </div></p>
+         <li>в HubEx создается <strong>Заявка</strong>;</li>
+     <p> <div>
     <img style="margin: 0 auto; display: block; max-width: 80%;"
          src="/attachments/images/FAQ/ADMIN/TicketMail/Ticket.jpg"/>
-    </div>
+    </div></p>
 
           <li>в данной Заявке во вкладке <strong>Сообщения</strong> в чате с заказчиком можно вести переписку (задавать уточняющие вопросы, просить прислать фото, видео и т.д.) и каждое сообщение для <strong>Заказчика</strong> будет отправлено не только в чат, но и сформировано как ответное письмо на адрес, с которого была отправлена <strong>Заявка</strong>.</li>
            

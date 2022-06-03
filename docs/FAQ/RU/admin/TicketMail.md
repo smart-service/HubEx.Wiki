@@ -10,14 +10,14 @@ keywords: заявки по почте, заявки из почты, подач
 <meta charset="utf-8">
 <ul>
     <li><a href="#setemailtick">Настраивать интеграцию с HubEx по электронной почте</a>;</li>
-    <li><a href="#createemailtick">Подавать Заявки через электронную почту</a></li>
+    <li><a href="#createemailtick">Подавать Заявки через электронную почту</a>.</li>
 </ul>
 </html>
 <body>
 <h5 id="setemailtick">Настройка интеграции по электронной почте</h5>
 
 <p>Интеграция с HubEx по электронной почте позволяет создавать <strong>Заявки</strong> с помощью
-    получения электронных писем от ваших <strong>Заказчиков</strong>.</p>
+    получения электронных писем от ваших <strong>Заказчиков</strong>. Также вы можетенастроить двустороннюю интеграцию и получать письма из HubEx на электронную почту. </p>
 
 <p>Обратите внимание: </p>
 <ol>
@@ -95,6 +95,41 @@ keywords: заявки по почте, заявки из почты, подач
         <p>Обратите внимание! У <strong>Шаблона заявки</strong> должны быть заполнены поля <strong>Объект</strong> и
             <strong>Вид работ</strong>, иначе он не отобразится в
             списке.</p>
+    </li>
+    <li>для получения писем с указанного адреса установите переключатель <strong>Разрешить получение писем</strong> вправо;</li>
+    <li>дополнительно можно подключить двустороннюю интеграцию и отправлять сообщения <strong>Заказчику</strong> на почту из чатов по <strong>Заявкам</strong>, для этого переведите переключатель <strong>Уведомлять о статусе отправки</strong> вправо <!--название переключателя будет изменено! поправить потом!-->;
+    <p>Как работает двусторонняя интеграция?</p>
+        <ul>
+        <li>на первом шаге выполняем настройки интеграции по данной статье;</li>
+
+    <div>
+    <img style="margin: 0 auto; display: block; max-width: 80%;"
+         src="/attachments/images/FAQ/ADMIN/TicketMail/Settings.jpg"/>
+    </div>
+
+        <li>Заказчик отправляет письмо с описанием Заявки;</li>
+        <div>
+    <img style="margin: 0 auto; display: block; max-width: 80%;"
+         src="/attachments/images/FAQ/ADMIN/TicketMail/Mail.jpg"/>
+    </div>
+         <li>в HubEx создается Заявка;</li>
+      <div>
+    <img style="margin: 0 auto; display: block; max-width: 80%;"
+         src="/attachments/images/FAQ/ADMIN/TicketMail/Ticket.jpg"/>
+    </div>
+
+          <li>в данной Заявке во вкладке <strong>Сообщения</strong> в чате с заказчиком можно вести переписку (задавать уточняющие вопросы, просить прислать фото, видео и т.д.) и каждое сообщение для <strong>Заказчика</strong> будет отправлено не только в чат, но и сформировано как ответное письмо на адрес, с которого была отправлена <strong>Заявка</strong>.</li>
+           
+           <div>
+    <img style="margin: 0 auto; display: block; max-width: 80%;"
+         src="/attachments/images/FAQ/ADMIN/TicketMail/Chat.jpg"/>
+    </div>
+            <p> <div>
+    <img style="margin: 0 auto; display: block; max-width: 80%;"
+         src="/attachments/images/FAQ/ADMIN/TicketMail/Email2.jpg"/>
+    </div></p>
+        </ul>
+
     </li>
     <li><strong>Настройка регулярных выражений</strong>: данный блок настроек необходим для создания правил заполнения
         <strong>Заявки</strong> по тексту

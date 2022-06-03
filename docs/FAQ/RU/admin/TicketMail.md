@@ -126,7 +126,7 @@ keywords: заявки по почте, заявки из почты, подач
     </div>
             <p> <div>
     <img style="margin: 0 auto; display: block; max-width: 80%;"
-         src="/attachments/images/FAQ/ADMIN/TicketMail/Email2.jpg"/>
+         src="/attachments/images/FAQ/ADMIN/TicketMail/Mail2.jpg"/>
     </div></p>
         </ul>
 

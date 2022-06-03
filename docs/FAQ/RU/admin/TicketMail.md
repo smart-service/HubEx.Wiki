@@ -103,13 +103,13 @@ keywords: заявки по почте, заявки из почты, подач
         <li>на первом шаге выполняем настройки интеграции по данной статье;</li>
 
     <div>
-    <img style="margin: 0 auto; display: block; max-width: 80%;"
+    <img style="margin: 0 auto; display: block; max-width: 70%;"
          src="/attachments/images/FAQ/ADMIN/TicketMail/Settings.jpg"/>
     </div>
 
         <li>Заказчик отправляет письмо с описанием Заявки;</li>
         <div>
-    <img style="margin: 0 auto; display: block; max-width: 80%;"
+    <img style="margin: 0 auto; display: block; max-width: 60%;"
          src="/attachments/images/FAQ/ADMIN/TicketMail/Mail.jpg"/>
     </div>
          <li>в HubEx создается Заявка;</li>

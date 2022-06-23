@@ -19,6 +19,7 @@
      <li><a href="#qrcode">Как подать заявку по QR-коду</a>;</li>
      <li><a href="#attachingfiles">Как заполнить выполненные работы и оценить показатели KPI</a>;</li>
      <li><a href="#rulesofchoice">Как работает автоназначение исполнителей на заявки</a>;</li>
+     <li><a href="#geotracking">Как работает геотрекинг в HubEx</a>;</li>
      <li><a href="#sla">Настройка SLA: расчет крайнего срока закрытия заявки</a>.</li>
 
         
@@ -105,6 +106,11 @@
 <h5 id="rulesofchoice">Как работает автоназначение исполнителей на заявки</h5>
 <p>Правила автоназначения исполнителя используются для автоматического подбора исполнителей на Заявки. Правила автоназначения позволяют настроить параметры для подбора подходящих Сотрудников (исполнителей). Использование системы автоназначения на Заявки значительно экономит время диспетчеров при ручном выборе исполнителей, а также позволяет настроить автоматический переход Заявки на ответственных менеджеров и т.д. Подробнее читайте в статьях <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/RulesOfChoice.html">Правила автоназначения исполнителя</a>, <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/RulesOfChoiceGEO.html">Автоназначение на ближайшего исполнителя</a>.</p>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/IEsB3xWJVRQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<h5 id="geotracking">Как работает геотрекинг в HubEx</h5>
+<p>История перемещений (или геотрекинг) отображает перемещения каждого выездного сотрудника, у которого включена функция использования геопозиции. С помощью геотрекинга можно оценить эффективность работы мобильных исполнителей: время в пути, на заявке, остановки, простои. Подробнее читайте в статье <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/Geotracking.html">История перемещений</a>.</p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gZjA_Vp7gh8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 <h5 id="sla">Настройка SLA: расчет крайнего срока закрытия заявки</h5>
 <p>С помощью SLA в HubEx можно настраивать гибкие правила автоматического расчета крайнего срока закрытия заявки. Подробнее читайте в статье <a href="https://wiki.hubex.ru/docs/FAQ/RU/admin/SLA.html">SLA - Правила расчета крайнего срока закрытия заявки</a>.</p>

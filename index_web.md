@@ -51,6 +51,8 @@
     <a href="/docs/FAQ/RU/user/CreatingTicket.html">Создание заявки</a></h4>
 <h4 style="padding-left: 20px;">
     <a href="/docs/FAQ/RU/user/ChildTicket.html">Дочерние заявки</a></h4>
+    <h4 style="padding-left: 20px;">
+    <a href="/docs/FAQ/RU/user/FloorPlan.html">Планы помещений</a></h4>
 <h4 style="padding-left: 20px;">
     <a href="/docs/FAQ/RU/user/ActOFAcceptance.html">Акт выполненных работ</a></h4>
 <h4 style="padding-left: 20px;">

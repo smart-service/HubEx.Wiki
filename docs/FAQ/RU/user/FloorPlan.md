@@ -86,7 +86,7 @@ keywords:  hubex, хабекс, хубекс, хабикс
     область с планом и установить метку.</p>
 
 <div>
-    <img style="margin: 0 auto; display: block; max-width: 80%;"
+    <img style="margin: 0 auto; display: block; max-width: 65%;"
          src="/attachments/images/FAQ/USER/FloorPlan/Mob.jpg"/>
 </div>
 
@@ -96,11 +96,11 @@ keywords:  hubex, хабекс, хубекс, хабикс
     <li>красный крестик: включается режим редактирования и можно выбрать новое расположение Объекта.</li>
 </ul>
 <div>
-    <img style="margin: 0 auto; display: block; max-width: 50%;"
+    <img style="margin: 0 auto; display: block; max-width: 30%;"
          src="/attachments/images/FAQ/USER/FloorPlan/Mob2.jpg"/>
 </div>
 <p><div>
-    <img style="margin: 0 auto; display: block; max-width: 50%;"
+    <img style="margin: 0 auto; display: block; max-width: 30%;"
          src="/attachments/images/FAQ/USER/FloorPlan/Mob3.jpg"/>
 </div></p>
 

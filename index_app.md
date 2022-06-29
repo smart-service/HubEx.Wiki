@@ -21,7 +21,7 @@
 <h4 style="padding-left: 20px;"><a href="/docs/FAQ/RU/user/MobileDevice.html">Как выбрать мобильное устройство для работы?</a></h4>
 <h4 style="padding-left: 20px;"><a href="/docs/FAQ/RU/user/CreatingTicket.html">Создание заявки</a></h4>
 <h4 style="padding-left: 20px;"><a href="/docs/FAQ/RU/user/ObjectEditing.html">Редактирование данных объекта (оборудования)</a></h4>
-<h4 style="padding-left: 20px;"><a href="/docs/FAQ/RU/user/FloorPlan.html">Планы помещений</a></h4>
+<!--<h4 style="padding-left: 20px;"><a href="/docs/FAQ/RU/user/FloorPlan.html">Планы помещений</a></h4>-->
 <h4 style="padding-left: 20px;"><a href="/docs/FAQ/RU/user/GEOinMob.html">Геолокация в мобильном приложении инженера</a></h4>
 <h4 style="padding-left: 20px;">
     <a href="/docs/FAQ/RU/user/OnDuty.html">Индивидуальный график работы: функционал "На смене"</a><span class="new-badge" title="01.03.2022"></span></h4>

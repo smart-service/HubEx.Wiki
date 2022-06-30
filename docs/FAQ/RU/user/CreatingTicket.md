@@ -388,13 +388,13 @@ keywords: создать заявку, подать заявку, заявка �
         заявки: настройка доступа к полям заявки</a>.</p>
 <p>Например, ниже представлена настройка для отключения выбора <strong>Объекта</strong>.</p>
 <div>
-    <img style="margin: 0 auto; display: block; max-width: 85%;"
+    <img style="margin: 0 auto; display: block; max-width: 95%;"
          src="/attachments/images/FAQ/USER/CreatingTicket/Role.png"/>
 </div>
 
 <p>Итоговая <strong>Заявка</strong> с отключением всех необязательных полей может выглядеть следующим образом:</p>
 <div>
-    <img style="margin: 0 auto; display: block; max-width: 85%;"
+    <img style="margin: 0 auto; display: block; max-width: 95%;"
          src="/attachments/images/FAQ/USER/CreatingTicket/Ticket.png"/>
 </div>
 

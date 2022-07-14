@@ -156,7 +156,7 @@ keywords: жизненный цикл заявки, жизненный цикл,
         <Strong>Назначить</Strong>.
         <p>Удалить роль для особенной настройки можно по кнопке <Strong>Удалить</Strong> (красный значок корзины).</p>
         <div>
-            <img style="margin: 0 auto; display: block; max-width: 90%;"
+            <img style="margin: 0 auto; display: block; max-width: 80%;"
                  src="/attachments/images/FAQ/ADMIN/TicketLifeCycle/SpecialRoleSettings.jpg"/>
         </div>
     </li>

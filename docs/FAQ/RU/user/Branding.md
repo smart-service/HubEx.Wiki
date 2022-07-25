@@ -45,6 +45,23 @@ keywords: брендирование, брэндирование, бренд к�
         заявленный ранее формат размеров.</li>
 </ul>
 
+<p>Логотип компании будет отображаться в web-приложении, в Сервисном акте, в Отчете для клиента, в Акте выполненных работ. </p>
+    <p> <div>
+             <img style="margin: 0 auto; display: block; max-width: 100%;"
+                  src="/attachments/images/FAQ/USER/Branding/Tickets.jpg"/>
+         </div></p>
+    <p> <div>
+             <img style="margin: 0 auto; display: block; max-width: 100%;"
+                  src="/attachments/images/FAQ/USER/Branding/Act.jpg"/>
+         </div></p>
+             <p> <div>
+             <img style="margin: 0 auto; display: block; max-width: 100%;"
+                  src="/attachments/images/FAQ/USER/Branding/Analytics.jpg"/>
+         </div></p>
+             <p> <div>
+             <img style="margin: 0 auto; display: block; max-width: 100%;"
+                  src="/attachments/images/FAQ/USER/Branding/Check.jpg"/>
+         </div></p>
 
 </body>
 

@@ -53,8 +53,16 @@ keywords: табличное представление заявок, карто
     </div>
     </p>
 </ol>
-<!--<p>Также в табличное представление <strong>Заявок</strong> можно добавить отображение дополнительных полей. Дополнительные поля могут быть настроены для формы <strong>Заявки</strong> в консоли администратора. Подробнее читайте в статье: <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/AdditionalFields.html">Создание дополнительных полей в заявке</a>.</p>
-<p>Это позволит сразу видеть всю необходимую информацию в таблице, не проваливаясь внутрь <strong>Заявки</strong>.</p> МОЖНО ВСТАВИТЬ КАРТИНКУ!!-->
+<p>Также в табличное представление <strong>Заявок</strong> можно добавить отображение дополнительных полей. Дополнительные поля могут быть настроены для формы <strong>Заявки</strong> в консоли администратора. Подробнее читайте в статье: <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/AdditionalFields.html">Создание дополнительных полей в заявке</a>.</p>
+<p>Это позволит сразу видеть всю необходимую информацию в таблице, не проваливаясь внутрь <strong>Заявки</strong>.</p> 
+<div>
+    <img style="margin: 0 auto; display: block; max-width: 95%;"
+         src="/attachments/images/FAQ/USER/Filters/AddField.jpg"/>
+</div>
+<div>
+    <img style="margin: 0 auto; display: block; max-width: 95%;"
+         src="/attachments/images/FAQ/USER/Filters/AddField.jpg"/>
+</div>
 
 <p>В табличном отображении <strong>Заявок</strong> доступно для отображения поле <strong>Дата изменения</strong> - это дата последних внесенных в <strong>Заявку</strong> изменений. </p>
 <div>

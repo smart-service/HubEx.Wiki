@@ -59,10 +59,7 @@ keywords: табличное представление заявок, карто
     <img style="margin: 0 auto; display: block; max-width: 95%;"
          src="/attachments/images/FAQ/USER/Filters/AddField.jpg"/>
 </div>
-<div>
-    <img style="margin: 0 auto; display: block; max-width: 95%;"
-         src="/attachments/images/FAQ/USER/Filters/AddField.jpg"/>
-</div>
+
 
 <p>В табличном отображении <strong>Заявок</strong> доступно для отображения поле <strong>Дата изменения</strong> - это дата последних внесенных в <strong>Заявку</strong> изменений. </p>
 <div>
@@ -76,11 +73,21 @@ keywords: табличное представление заявок, карто
 </div>
 
 
+<p>Также в табличном отображении списка вы можете настраивать очередность полей. Для этого зажмите и удерживайте правую кнопку мышки на наименовании колонки и перенести ее в нужное место. </p>
+<div>
+    <img style="margin: 0 auto; display: block; max-width: 95%;"
+         src="/attachments/images/FAQ/USER/Filters/List.jpg"/>
+</div>
+
+
+
 <p>Обратите внимание! Список заявок для каждого пользователя может отличаться. Это связано с настройкой <strong>Ролей</strong>. Для
     разных <strong>Ролей</strong> пользователей могут быть настроены ограничения, например по работе с <strong>Участками</strong>. То есть пользователь
     будет видеть только <strong>Заявки</strong>, находящиеся на его участке. Подробнее читайте в статье: <a
             href="https://wiki.hubex.ru/docs/FAQ/RU/admin/Roles.html#exrole">Настройка ролей: как настроить доступ
         пользователей в разрезе участков</a>.</p>
+
+
 
 <h5 id="deltick3">Сохранение и использование быстрых фильтров</h5>
 <p>Для быстрого поиска по <strong>Заявкам</strong> воспользуйтесь кнопкой <strong>Фильтры</strong>. Она находится в

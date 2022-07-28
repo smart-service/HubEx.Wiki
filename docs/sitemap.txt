@@ -93,7 +93,9 @@ https://wiki.hubex.ru/docs/FAQ/RU/user/SeveralEngineers.html
 https://wiki.hubex.ru/docs/FAQ/RU/user/AcceptanceTicket.html
 https://wiki.hubex.ru/docs/FAQ/RU/user/RoleVSPosition.html
 https://wiki.hubex.ru/docs/FAQ/RU/user/MobileDevice.html
-https://wiki.hubex.ru/docs/FAQ/RU/admin/TicketsAgreement
+https://wiki.hubex.ru/docs/FAQ/RU/admin/TicketsAgreement.html
+https://wiki.hubex.ru/docs/FAQ/RU/user/OfflineMode.html
+
 
 https://wiki.hubex.ru/docs/FAQ/RU/ReleaseNotes/TicketArchives08042020.html
 https://wiki.hubex.ru/docs/FAQ/RU/ReleaseNotes/UserInTicket13042020.html
@@ -128,5 +130,7 @@ https://wiki.hubex.ru/docs/FAQ/RU/ReleaseNotes/Video23032022.html
 https://wiki.hubex.ru/docs/FAQ/RU/ReleaseNotes/PlanTicket28032022.html
 https://wiki.hubex.ru/docs/FAQ/RU/ReleaseNotes/Chat31052022.html
 https://wiki.hubex.ru/docs/FAQ/RU/ReleaseNotes/Ticket23062022.html
+https://wiki.hubex.ru/docs/FAQ/RU/ReleaseNotes/FloorPlan14072022.html
+https://wiki.hubex.ru/docs/FAQ/RU/ReleaseNotes/AddFields26072022.html
 https://wiki.hubex.ru/docs/FAQ/RU/ReleaseNotes/EngineerApp.html
 https://wiki.hubex.ru/docs/FAQ/RU/ReleaseNotes/CustomerApp.html

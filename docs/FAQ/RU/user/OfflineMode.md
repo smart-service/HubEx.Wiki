@@ -62,14 +62,11 @@ keywords: офлайн, оффлайн, без доступа к сети, ра�
     <li>Добавление выполненных работ: в <strong>Заявке</strong> в разделе <strong>Выполнение</strong> можно добавить и заполнить выполненную работу,
         включая материалы и прикрепление фотографий.
     </li>
-    <div>
-        <img style="margin: 0 auto; display: block; max-width: 40%;"
-             src="/attachments/images/FAQ/USER/Offline/AddWorks.jpg"/>
-    </div>
-   <p> <div>
+  
+   <div>
         <img style="margin: 0 auto; display: block; max-width: 70%;"
-             src="/attachments/images/FAQ/USER/Offline/AddWorks2.jpg"/>
-    </div></p>
+             src="/attachments/images/FAQ/USER/Offline/AdditionalWorks.jpg"/>
+    </div>
 
     <li>Заполнение чек-листов: на вкладке <strong>Чек-листы</strong> в <strong>Заявке</strong> можно заполнять все пункты, кроме прикрепления фотографий.
         Подробнее читайте в разделе статьи: <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/Checklists.html#offline">Заполнение

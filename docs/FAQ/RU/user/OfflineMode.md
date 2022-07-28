@@ -55,7 +55,7 @@ keywords: офлайн, оффлайн, без доступа к сети, ра�
         вкладке <strong>Мои</strong>.
     </li>
     <div>
-        <img style="margin: 0 auto; display: block; max-width: 50%;"
+        <img style="margin: 0 auto; display: block; max-width: 40%;"
              src="/attachments/images/FAQ/USER/Offline/TicketsList.jpg"/>
     </div>
 
@@ -63,7 +63,7 @@ keywords: офлайн, оффлайн, без доступа к сети, ра�
         включая материалы и прикрепление фотографий.
     </li>
     <div>
-        <img style="margin: 0 auto; display: block; max-width: 50%;"
+        <img style="margin: 0 auto; display: block; max-width: 40%;"
              src="/attachments/images/FAQ/USER/Offline/AddWorks.jpg"/>
     </div>
    <p> <div>
@@ -77,7 +77,7 @@ keywords: офлайн, оффлайн, без доступа к сети, ра�
 
 
         <div>
-            <img style="margin: 0 auto; display: block; max-width: 50%;"
+            <img style="margin: 0 auto; display: block; max-width: 40%;"
                  src="/attachments/images/FAQ/USER/Offline/TicketsList.jpg"/>
         </div>
         <p>После сохранения чек-листа без подключения к сотовой сети будет отображаться иконка загрузки.</p>
@@ -97,7 +97,7 @@ keywords: офлайн, оффлайн, без доступа к сети, ра�
         <p>Переход также будет синхронизирован при подключении к сотовой сети. </p>
     </li>
     <div>
-        <img style="margin: 0 auto; display: block; max-width: 50%;"
+        <img style="margin: 0 auto; display: block; max-width:40%;"
              src="/attachments/images/FAQ/USER/Offline/GoToNextStage.jpg"/>
     </div>
     

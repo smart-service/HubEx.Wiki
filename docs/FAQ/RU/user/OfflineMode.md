@@ -64,7 +64,7 @@ keywords: офлайн, оффлайн, без доступа к сети, ра�
     </li>
   
    <div>
-        <img style="margin: 0 auto; display: block; max-width: 70%;"
+        <img style="margin: 0 auto; display: block; max-width: 90%;"
              src="/attachments/images/FAQ/USER/Offline/AdditionalWorks.jpg"/>
     </div>
 

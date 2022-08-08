@@ -180,6 +180,10 @@ keywords: заявки по почте, заявки из почты, подач
     системе, то
     пользователю, создавшему <strong>Заявку</strong>, придет письмо с ссылкой для регистрации в системе.</p>
 
+    <p>Дополнительно ознакомьтесь с кратким видеороликом <strong>Как подавать заявки с электронной почты в HubEx?</strong> о настройке интеграции по электронной почте.</p>
+<iframe src="https://www.youtube.com/embed/w9x3r65YbAo" width="100%" height="450px" frameborder="0"
+        allowfullscreen="allowfullscreen"></iframe>
+
 </body>
 ____
 - [Перейти в меню](http://wiki.hubex.ru)

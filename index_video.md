@@ -6,6 +6,7 @@
 <ul>
      <li><a href="#hubexhl">Обзор функциональных возможностей;</a></li>
      <li><a href="#firststeps">Начало работы в HubEx;</a></li>
+     <li><a href="#engineermob">Мобильное приложение инженера: работа специалиста с мобильного телефона;</a></li>
      <li><a href="#plannedticket">Как создавать плановые заявки в системе;</a></li>
      <li><a href="#addfields">Как создавать дополнительные поля в HubEx;</a></li>
      <li><a href="#checklists">Чек-листы в HubEx: контролируйте качество работ, обучайте новых сотрудников;</a></li>
@@ -23,6 +24,7 @@
      <li><a href="#sla">Настройка SLA: расчет крайнего срока закрытия заявки</a>;</li>
      <li><a href="#ticketmail">Как подавать заявки с электронной почты в HubEx?</li>
      <li><a href="#floorplan">Как подавать заявки с использованием планов помещений?</li>
+     <li><a href="#ondutty">Как работать с функционалом На смене, работа с самозанятыми.</li>
 
         
      <!--<li><a href="#excelimport">Импорт данных.</a></li>-->
@@ -36,6 +38,10 @@
 <h5 id="firststeps">Начало работы в HubEx</h5>
 <p>Дополнительно окзнакомьтесь со статьей <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/HubExStepByStep.html">Знакомство с системой HubEx</a>, в которой подробно описаны первые шаги для работы в HubEx.</p>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/BJU4AUR2nOU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<h5 id="engineermob">Мобильное приложение инженера: работа специалиста с мобильного телефона</h5>
+<p>В обучающем видео показан весь функционал работы с мобильным приложением инженера: авторизация в приложении, получение уведомлений, работа с <Strong>Заявками</Strong>, с чек-листами, выполненными работами, общение в чатах, работа с календарем и функционалом "на смене".</p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JmMZzkI6o-c" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 <h5 id="plannedticket">Как создавать плановые заявки в системе</h5>
@@ -127,6 +133,13 @@
 <h5 id="floorplan">Как подавать заявки с использованием планов помещений в HubEx?</h5>
 <p>Использование планов помещений позволяет сократить затраты времени на поиск и устранение неисправностей: при подаче <strong>Заявки</strong> можно указать точное местоположение проблемы на карте бизнес-центра. Подробнее читайте в статье <a href="https://wiki.hubex.ru/docs/FAQ/RU/admin/FloorPlan.html">Планы помещений</a>.</p>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8mUe-ejqDGQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<h5 id="ondutty">Как работать с функционалом На смене, работа с самозанятыми</h5>
+<p>Диспетчеру сервисной службы или начальнику сервиса удобно видеть сотрудников, которые работают в данный момент
+    времени, чтобы оперативно назначать на них <strong>Заявки</strong>.</p>
+<p>Сервисному специалисту также важно предупреждать работодателя о том, что он приступил к работе, чтобы получать
+    <strong>Заявки</strong>, либо закончил смену и не может больше брать <strong>Заявки</strong>.</p> Подробнее читайте в статье <a href="https://wiki.hubex.ru/docs/FAQ/RU/admin/OnDutty.html">Индивидуальный график работы: функционал На смене</a>.</p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/x_5VAaPvYH0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <!--
  <h5 id="excelimport">Импорт данных</h5>

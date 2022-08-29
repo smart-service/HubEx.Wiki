@@ -186,6 +186,14 @@ keywords: на смене, редактировать смену, индивид
          src="/attachments/images/FAQ/USER/OnDuty/ScheduleMob7.jpg"/>
 </div>
 
+<p>Дополнительно ознакомьтесь с кратким видеороликом <strong>Как работать с функционалом На смене, работа с самозанятыми.</strong>.</p>
+<iframe src="https://www.youtube.com/embed/x_5VAaPvYH0" width="100%" height="450px" frameborder="0"
+        allowfullscreen="allowfullscreen"></iframe>
+
+<p>А также описание работы с фунционалом на смене представлено в обучающем видео <strong>Мобильное приложение инженера. Как работать сервисному специалисту на телефоне?</strong>. В нем вы найдете широкий обзор функциональных возможностей мобильного приложения для выездных сотрудников: авторизация в приложении, получение уведомлений, работа с <Strong>Заявками</Strong>, с чек-листами, выполненными работами, общение в чатах, работа с календарем и функционалом На смене. </p>
+<iframe src="https://www.youtube.com/embed/JmMZzkI6o-c" width="100%" height="450px" frameborder="0"
+        allowfullscreen="allowfullscreen"></iframe>
+
 </body>
 
 ___

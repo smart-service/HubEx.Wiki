@@ -50,6 +50,10 @@ keywords: знакомство с системой, первые шаги, hubex
         href="https://apps.apple.com/ru/app/hubex-%D0%B4%D0%BB%D1%8F-%D1%81%D0%B5%D1%80%D0%B2%D0%B8%D1%81%D0%BD%D0%BE%D0%B9-%D1%81%D0%BB%D1%83%D0%B6%D0%B1%D1%8B/id1386688688">для
     iOS</a>.</p>
 
+    <p>Дополнительно ознакомьтесь с обучающим видеороликом <strong>Мобильное приложение инженера. Как работать сервисному специалисту на телефоне?</strong>. В нем представлен широкий обзор функциональных возможностей мобильного приложения для выездных сотрудников: авторизация в приложении, получение уведомлений, работа с <Strong>Заявками</Strong>, с чек-листами, выполненными работами, общение в чатах, работа с календарем и функционалом На смене. </p>
+<iframe src="https://www.youtube.com/embed/JmMZzkI6o-c" width="100%" height="450px" frameborder="0"
+        allowfullscreen="allowfullscreen"></iframe>
+
 <p>Мобильное приложение заказчика HubEx Customer вы можете скачать также <a
         href="https://play.google.com/store/apps/details?id=ru.hubex.customer">для Android</a> или <a
         href="https://apps.apple.com/ru/app/hubex-%D0%B4%D0%BB%D1%8F-%D0%B7%D0%B0%D0%BA%D0%B0%D0%B7%D1%87%D0%B8%D0%BA%D0%B0/id1386631658">для

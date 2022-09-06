@@ -24,6 +24,7 @@ https://wiki.hubex.ru/docs/FAQ/RU/user/ViewRestriction.html
 https://wiki.hubex.ru/docs/FAQ/RU/user/Messages.html
 https://wiki.hubex.ru/docs/FAQ/RU/user/Checklists.html
 https://wiki.hubex.ru/docs/FAQ/RU/user/PrintedFormAct.html
+https://wiki.hubex.ru/docs/FAQ/RU/user/PrintedFormActOfAccounting.html
 https://wiki.hubex.ru/docs/FAQ/RU/user/TicketsReport.html
 https://wiki.hubex.ru/docs/FAQ/RU/user/GeneralAnalitics.html
 https://wiki.hubex.ru/docs/FAQ/RU/user/EngineersAnalytics.html

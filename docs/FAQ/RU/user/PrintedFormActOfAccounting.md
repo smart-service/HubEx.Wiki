@@ -43,7 +43,7 @@ keywords: бухгалтерский акт, мои отчеты, печатна
     </li>
 <p><div>
     <img style="margin: 0 auto; display: block; max-width: 70%;"
-         src="/attachments/images/FAQ/USER/PrintedFormActOfAccounting/.jpg"/>
+         src="/attachments/images/FAQ/USER/PrintedFormActOfAccounting/Customer.jpg"/>
 </div></p>
 
     <li><strong>Объект</strong>: вы можете выбрать один или несколько <strong>Объектов</strong> компании-заказчика, по которым хотите
@@ -52,7 +52,7 @@ keywords: бухгалтерский акт, мои отчеты, печатна
     <li>в поле <strong>Стадия</strong> можно уточнить выбор <strong>Заявок</strong>, которые находятся на определенных стадиях, по умолчанию устанавливается стадия <strong>Выполнена</strong> (стадия, в настройках которой установлено действие <strong>Завершить работу по заявке</strong>);</li>
 <p><div>
     <img style="margin: 0 auto; display: block; max-width: 70%;"
-         src="/attachments/images/FAQ/USER/PrintedFormActOfAccounting/.jpg"/>
+         src="/attachments/images/FAQ/USER/PrintedFormActOfAccounting/Stage.jpg"/>
 </div></p>
 
 <li>дату отбора <strong>Заявок</strong> необходимо указать в полях <strong>С - По</strong>;</li>
@@ -63,14 +63,14 @@ keywords: бухгалтерский акт, мои отчеты, печатна
 
 <p><div>
     <img style="margin: 0 auto; display: block; max-width: 95%;"
-         src="/attachments/images/FAQ/USER/PrintedFormActOfAccounting/.jpg"/>
+         src="/attachments/images/FAQ/USER/PrintedFormActOfAccounting/Tickets.jpg"/>
 </div> </p>
 
     <li><strong>Тип акта</strong> необходимо выбрать один из двух: <strong>Сводный акт</strong> - общий акт на все выбранные <strong>Заявки</strong> либо <strong>По каждой заявке</strong> - на каждую выбранную <strong>Заявку</strong> будет сформирован свой акт;
     </li>
 
     <li><strong>№ акта</strong> можно задать в свободной форме. По умолчанию номер акта формируется по номеру <strong>Заявки</strong>. Если заполнить
-        поле № акта, он будет использован вместо номера <strong>Заявки</strong>;
+        поле № акта, он будет отображаться перед номером <strong>Заявки</strong>;
     </li>
    
     
@@ -80,27 +80,29 @@ keywords: бухгалтерский акт, мои отчеты, печатна
 <p>Для формирования <strong>Бухгалтерского акта</strong> после заполнения всех параметров необходимо нажать кнопку <strong>Просмотр отчета</strong>. При изменении любых настроек отчета кнопку <strong>Просмотр отчета</strong> нужно нажимать повторно.</p>
 <div>
     <img style="margin: 0 auto; display: block; max-width: 95%;"
-         src="/attachments/images/FAQ/USER/PrintedFormActOfAccounting/.jpg"/>
+         src="/attachments/images/FAQ/USER/PrintedFormActOfAccounting/PrintedForm.jpg"/>
 </div>
 
 <p>Готовую форму можно распечатать с помощью меню <strong>Файл - Печать</strong> или кнопку <strong>Печатать</strong>. </p>
 
 <div>
     <img style="margin: 0 auto; display: block; max-width: 95%;"
-         src="/attachments/images/FAQ/USER/PrintedFormActOfAccounting/.jpg"/>
+         src="/attachments/images/FAQ/USER/PrintedFormActOfAccounting/Print.jpg"/>
 </div>
 
 <p>Также готовую форму можно экспортировать в различные форматы - pdf, xlsx, docx, xml и другие. Для последующего редактирования файла рекомендуется выбирать формат docx.</p>
 
 <div>
     <img style="margin: 0 auto; display: block; max-width: 95%;"
-         src="/attachments/images/FAQ/USER/PrintedFormActOfAccounting/.jpg"/>
+         src="/attachments/images/FAQ/USER/PrintedFormActOfAccounting/Export.jpg"/>
 </div>
 
-<p>Если вы выбрали несколько <strong>Заявок</strong> для формирования акта, то данные по каждой из них будут располагаться на страницах акта по порядку. Переключаться между страницами можно на панели <strong>Параметров</strong>. </p>
+<p>Если вы выбрали несколько <strong>Заявок</strong> для формирования акта и установили параметр <strong>Тип акта = По каждой заявке</strong>, то данные по каждой из <strong>Заявок</strong> будут располагаться на страницах акта по порядку. Переключаться между страницами можно на панели <strong>Параметров</strong>. </p>
+
+
 <div>
     <img style="margin: 0 auto; display: block; max-width: 95%;"
-         src="/attachments/images/FAQ/USER/PrintedFormActOfAccounting/.jpg"/>
+         src="/attachments/images/FAQ/USER/PrintedFormActOfAccounting/Pages.jpg"/>
 </div>
 
 </body>

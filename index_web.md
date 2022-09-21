@@ -139,6 +139,8 @@
 </h4>
 <h4 style="padding-left: 20px;"><a href="/docs/FAQ/RU/user/PrintedFormActOfAccounting.html">Бухгалтерский акт</a>
 </h4>
+<h4 style="padding-left: 20px;"><a href="/docs/FAQ/RU/user/PaymentInvoice.html">Счет на оплату</a>
+</h4>
 
 
 ### Карты

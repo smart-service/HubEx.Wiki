@@ -34,81 +34,67 @@ keywords: счет на оплату, инвойс, печатная форма,
     </li>
 <p><div>
     <img style="margin: 0 auto; display: block; max-width: 70%;"
-         src="/attachments/images/FAQ/USER/PrintedForm/.jpg"/>
+         src="/attachments/images/FAQ/USER/PaymentInvoice/Customer.jpg"/>
 </div></p>
 
     <li><strong>Объект</strong>: вы можете выбрать один или несколько <strong>Объектов</strong> компании-заказчика, по которым хотите
         подготовить счет. Обратите внимание, выбрать можно только родительский объект. При выборе родительского объекта автоматически будут выбраны все его дочерние объекты;
     </li>
-    <li>в поле <strong>Выполненные заявки</strong> выберите один из вариантов: <strong>Активные</strong> - <strong>Заявки</strong>
-        на тех стадиях, на которых они считаются активными,
-        <strong>Выполненные</strong> - <strong>Заявки</strong> на тех стадиях, на которых они считаются выполненными.
-        <strong>Активные</strong> или <strong>Выполненные</strong> стадии можно выбрать в поле <strong>Стадии</strong>,
-        которое находится ниже;
-    </li>
-    <li>в поле <strong>Стадия</strong> можно уточнить выбор <strong>Заявок</strong>, которые находятся на определенных стадиях;</li>
+   
+   <li>в поле <strong>Стадия</strong> можно уточнить <strong>Стадии заявки</strong>, на которые был совершен переход <strong>Заявок</strong> за выбранный период времени, по умолчанию устанавливается стадия <strong>Выполнена</strong> (стадия, в настройках которой установлено действие <strong>Завершить работу по заявке</strong>);</li>
+
 <p><div>
     <img style="margin: 0 auto; display: block; max-width: 70%;"
-         src="/attachments/images/FAQ/USER/PrintedForm/Stage.jpg"/>
+         src="/attachments/images/FAQ/USER/PaymentInvoice/Stage.jpg"/>
 </div></p>
 
-    <li>в поле <strong>Тип заявки</strong>, <strong>Критичность</strong> и <strong>Вид работ</strong> выберите одно или несколько значений параметров;</li>
-    <li>задайте начальную и конечную дату в полях <strong>С</strong> и <strong>По</strong>: система подберет все <strong>Заявки</strong>, по которым был совершен переход
-        на выбранные стадии в указанный диапазон;
-    </li>
-    <li>в поле <strong>Заявка</strong> будет отображаться список <strong>Заявок</strong>, подходящих по всем вышеперечисленным параметрам. Здесь вы можете
+    <li>дату перехода на выбранную <strong>Стадию заявки</strong> необходимо указать в полях <strong>С - По</strong>;</li>
+
+  <li>в поле <strong>Заявка</strong> будет отображаться список <strong>Заявок</strong>, подходящих по всем вышеперечисленным параметрам. Здесь вы можете
         самостоятельно выбрать <strong>Заявки</strong> для формирования акта;
     </li>
 
 <p><div>
     <img style="margin: 0 auto; display: block; max-width: 95%;"
-         src="/attachments/images/FAQ/USER/PrintedForm/Tickets.jpg"/>
+         src="/attachments/images/FAQ/USER/PaymentInvoice/Tickets.jpg"/>
 </div> </p>
 
-    <li>в поле <strong>НДС</strong> можно выбрать один из вариантов: <strong>С НДС 20%</strong> либо <strong>Без НДС</strong>. При выборе варианта <strong>С НДС 20%</strong> будет
-        произведен расчет НДС по итоговой сумме;
+    <li><strong>Тип счета</strong> необходимо выбрать один из двух: <strong>Сводный счет</strong> - общий счет на все выбранные <strong>Заявки</strong> либо <strong>По каждой заявке</strong> - на каждую выбранную <strong>Заявку</strong> будет сформирован свой счет;
     </li>
-    <li><strong>№ акта</strong> можно задать в свободной форме. По умолчанию номер акта формируется по номеру <strong>Заявки</strong>. Если заполнить
-        поле № акта, он будет использован вместо номера <strong>Заявки</strong>;
-    </li>
-    <li>в поле <strong>Акт от</strong> можно указать дату, которая отобразится в шапке документа. Если поле не заполнить, то по умолчанию будет указана дата формирования акта;</li>
-    <li>в поле <strong>Работы без стоимости</strong> можно выбрать один из вариантов: <strong>Да</strong> - означает, что в акт попадут работы, у которых
-        не была установлена стоимость при заполнении выполненных работ, <strong>Нет</strong> - означает, что в акт попадут только те
-        работы, стоимость которых была заполнена при заполнении выполненных работ;
-    </li>
-    <li>в поле <strong>Компания</strong> необходимо выбрать нашу компанию, реквизиты которой будут отображаться в шапке акта;</li>
-    <li>в поле <strong>Подписант</strong> и <strong>Должность</strong> можно указать ФИО и должность ответственного за акт со стороны нашей компании.</li>
 
+    <li><strong>№ счета</strong> можно задать в свободной форме. По умолчанию номер счета формируется по номеру <strong>Заявки</strong>. Если заполнить
+        поле № счета, он будет отображаться перед номером <strong>Заявки</strong>;
+    </li>
+   
+    
+    <li>в поле <strong>Компания</strong> необходимо выбрать нашу компанию, реквизиты которой будут отображаться в шапке счета.</li>
 </ul>
-<p>Для формирования <strong>Сервисного акта</strong> после заполнения всех параметров необходимо нажать кнопку <strong>Просмотр отчета</strong>. При изменении любых настроек отчета кнопку <strong>Просмотр отчета</strong> нужно нажимать повторно.</p>
 
-<p>Обратите внимание! Для <strong>Сервисного акта</strong> доступно отображение логотипа вашей компании в левом верхнем углу. Если для вашей компании не загружен логотип, то будет отображаться стандартный логотип HubEx. Подробнее читайте в статье: <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/Branding.html">Бренд компании</a>.</p>
+<p>Для формирования <strong>Счета на оплату</strong> после заполнения всех параметров необходимо нажать кнопку <strong>Просмотр отчета</strong>. При изменении любых настроек отчета кнопку <strong>Просмотр отчета</strong> нужно нажимать повторно.</p>
 
 <div>
     <img style="margin: 0 auto; display: block; max-width: 95%;"
-         src="/attachments/images/FAQ/USER/PrintedForm/PrintedForm.jpg"/>
+         src="/attachments/images/FAQ/USER/PaymentInvoice/Form.jpg"/>
 </div>
 
-<p>Печатная форма акта по унифицированной форме доступна в меню <strong>Печатные формы - Бухгалтерский акт</strong>. Подробнее читайте в статье: <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/PrintedFormActOfAccounting.html">Бухгалтерский акт</a>.</p>
-
-<p>Готовую форму можно распечатать с помощью меню <strong>Файл - Печать</strong> или кнопку <strong>Печатать</strong>. </p>
+<p>Готовую форму можно распечатать с помощью меню <strong>Файл - Печать</strong>. </p>
 
 <div>
     <img style="margin: 0 auto; display: block; max-width: 95%;"
-         src="/attachments/images/FAQ/USER/PrintedForm/Print.jpg"/>
+         src="/attachments/images/FAQ/USER/PaymentInvoice/Print.jpg"/>
 </div>
 
 <p>Также печатную форму можно экспортировать в различные форматы - pdf, xlsx, docx, xml и другие. Для последующего редактирования файла рекомендуется выбирать формат docx.</p>
 
 <div>
     <img style="margin: 0 auto; display: block; max-width: 95%;"
-         src="/attachments/images/FAQ/USER/PrintedForm/Export.jpg"/>
+         src="/attachments/images/FAQ/USER/PaymentInvoice/Export.jpg"/>
 </div>
 
 <p>Если вы выбрали несколько <strong>Заявок</strong> для формирования акта, то данные по каждой из них будут располагаться на страницах акта по порядку. Переключаться между страницами можно на панели <strong>Параметров</strong>. </p>
 <div>
     <img style="margin: 0 auto; display: block; max-width: 95%;"
-         src="/attachments/images/FAQ/USER/PrintedForm/PrintedForm2.jpg"/>
+         src="/attachments/images/FAQ/USER/PrintedForm/PaymentInvoice/List.jpg"/>
 </div>
 
 </body>

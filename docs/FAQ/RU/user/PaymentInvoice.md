@@ -94,7 +94,7 @@ keywords: счет на оплату, инвойс, печатная форма,
 <p>Если вы выбрали несколько <strong>Заявок</strong> для формирования акта, то данные по каждой из них будут располагаться на страницах акта по порядку. Переключаться между страницами можно на панели <strong>Параметров</strong>. </p>
 <div>
     <img style="margin: 0 auto; display: block; max-width: 95%;"
-         src="/attachments/images/FAQ/USER/PrintedForm/PaymentInvoice/List.jpg"/>
+         src="/attachments/images/FAQ/USER/PaymentInvoice/List.jpg"/>
 </div>
 
 </body>

@@ -135,5 +135,6 @@ https://wiki.hubex.ru/docs/FAQ/RU/ReleaseNotes/Chat31052022.html
 https://wiki.hubex.ru/docs/FAQ/RU/ReleaseNotes/Ticket23062022.html
 https://wiki.hubex.ru/docs/FAQ/RU/ReleaseNotes/FloorPlan14072022.html
 https://wiki.hubex.ru/docs/FAQ/RU/ReleaseNotes/AddFields26072022.html
+https://wiki.hubex.ru/docs/FAQ/RU/ReleaseNotes/PhotoCheckList31082022.html
 https://wiki.hubex.ru/docs/FAQ/RU/ReleaseNotes/EngineerApp.html
 https://wiki.hubex.ru/docs/FAQ/RU/ReleaseNotes/CustomerApp.html

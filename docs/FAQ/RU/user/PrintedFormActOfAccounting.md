@@ -79,7 +79,7 @@ keywords: бухгалтерский акт, мои отчеты, печатна
          src="/attachments/images/FAQ/USER/PrintedFormActOfAccounting/PrintedForm.jpg"/>
 </div>
 
-<p>Готовую форму можно распечатать с помощью меню <strong>Файл - Печать</strong> или кнопку <strong>Печатать</strong>. </p>
+<p>Готовую форму можно распечатать с помощью меню <strong>Файл - Печать</strong>. </p>
 
 <div>
     <img style="margin: 0 auto; display: block; max-width: 95%;"

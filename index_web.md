@@ -62,6 +62,8 @@
 <h4 style="padding-left: 20px;">
     <a href="/docs/FAQ/RU/user/PlannedTickets.html">Создание плановой заявки</a></h4>
 <h4 style="padding-left: 20px;">
+    <a href="/docs/FAQ/RU/user/PlannedTicketsSchedule.html">График обслуживания объектов</a></h4>
+<h4 style="padding-left: 20px;">
     <a href="/docs/FAQ/RU/user/AdditionalFields.html">Создание дополнительных полей в заявке</a></h4>
 
 <h4 style="padding-left: 20px;">

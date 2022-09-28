@@ -19,7 +19,7 @@ keywords:
 <div><img style="margin: 0 auto; display: block; max-width: 100%;" src="https://i.ibb.co/RcgHG6f/Screenshot-16.png" width="900" height="auto" /></div>
 <p>Подробнее о создании и настройке чек-листов читайте в статье нашей базы знаний: <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/Checklists.html" target="_blank">Чек-листы</a>.</p>
 <p>В мобильном приложении при заполнении чек-листа также можно приложить несколько файлов к одному пункту, чтобы более полно отразить выполнение пункта. Теперь не нужно создавать разные пункты чек-листа для прикрепления нескольких файлов.</p>
-<div><img style="margin: 0 auto; display: block; max-width: 100%;" src="https://i.ibb.co/XbFGpg2/Microsoft-Teams-image-14.jpg" width="400" height="auto" /></div>
+<div><img style="margin: 0 auto; display: block; max-width: 100%;" src="https://i.ibb.co/XbFGpg2/Microsoft-Teams-image-14.jpg" width="300" height="auto" /></div>
 <p>Предложения по доработкам в системе и сообщениям об ошибках просим отправлять к нам в "чат с поддержкой" в веб-приложении или на почту <a href="mailto:support@hubex.ru" target="_blank" rel="noopener"> support@hubex.ru </a>.</p>
 
 </body>

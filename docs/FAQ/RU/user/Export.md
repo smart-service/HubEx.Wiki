@@ -74,13 +74,13 @@ keywords: экспорт компаний, экспорт объектов, эк
 
 
 <h5 id="media">Экпорт медиафайлов из заявок</h5>
-<p>Экспорт медиафайлов предполагает выгрузку всех файлов (текстовых, фото и др.), которые были приложены к <strong>Заявкам</strong>. Нажмите кнопку экспорта и выберите вариант <strong>Экспортировать медиафайлы</strong>. Затем нажмите кнопку <strong>Экспорт</strong>. </p>
+<p>Экспорт медиафайлов предполагает выгрузку всех файлов (текстовых, фото и др.) из <strong>Заявок</strong>, а также чек-листов и выполненных работ (вкладки <strong>Заявка</strong>, <strong>Чек-листы</strong>, <strong>Выполнение</strong>). Нажмите кнопку экспорта и выберите вариант <strong>Экспорт вложений</strong>. Затем нажмите кнопку <strong>Экспорт</strong>. </p>
    <div>
         <img style="margin: 0 auto; display: block; max-width: 90%;"
              src="/attachments/images/FAQ/USER/Export/MediaExport.jpg"/>
     </div>
 
-<p>Выгрузка осуществляется в отдельный архив, внутри которого находятся отдельные папки по каждой <strong>Заявке</strong> с номером и наименование оборудования. </p>
+<p>Выгрузка осуществляется в отдельный архив, внутри которого находятся отдельные папки по каждой <strong>Заявке</strong> с номером и наименование оборудования.</p>
   <div>
         <img style="margin: 0 auto; display: block; max-width: 90%;"
              src="/attachments/images/FAQ/USER/Export/MediaExport2.jpg"/>
@@ -89,6 +89,12 @@ keywords: экспорт компаний, экспорт объектов, эк
         <img style="margin: 0 auto; display: block; max-width: 80%;"
              src="/attachments/images/FAQ/USER/Export/MediaExport3.jpg"/>
     </div></p>
+
+    <p>Внутри каждой папки будут находиться папки с файлами из самой <strong>Заявки</strong> (вкладка <strong>Заявка</strong>), <strong>Чек-листов</strong> и (или) <strong>Выполненных работ</strong>.</p>
+     <div>
+        <img style="margin: 0 auto; display: block; max-width: 80%;"
+             src="/attachments/images/FAQ/USER/Export/MediaExport4.jpg"/>
+    </div>
 <p>Обратите внимание! Для экспорта меиафайлов также действуют настройки фильтров.
 Вы можете отобрать определенные <strong>Заявки</strong> и выгрузить медиафайлы только по ним. </p>
 

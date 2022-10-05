@@ -138,5 +138,6 @@ https://wiki.hubex.ru/docs/FAQ/RU/ReleaseNotes/AddFields26072022.html
 https://wiki.hubex.ru/docs/FAQ/RU/ReleaseNotes/PhotoCheckList31082022.html
 https://wiki.hubex.ru/docs/FAQ/RU/ReleaseNotes/ExportFiles21092022.html
 https://wiki.hubex.ru/docs/FAQ/RU/ReleaseNotes/TicketsFilter23092022.html
+https://wiki.hubex.ru/docs/FAQ/RU/ReleaseNotes/PrintedForms04102022.html
 https://wiki.hubex.ru/docs/FAQ/RU/ReleaseNotes/EngineerApp.html
 https://wiki.hubex.ru/docs/FAQ/RU/ReleaseNotes/CustomerApp.html

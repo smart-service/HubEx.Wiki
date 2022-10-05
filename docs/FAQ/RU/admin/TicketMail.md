@@ -66,13 +66,26 @@ keywords: заявки по почте, заявки из почты, подач
         <p>Например, для Yandex эти настройки будут: <strong>Хост</strong>= imap.yandex.ru, <strong>Порт</strong>= 993.
             Узнать хост и порт можно в
             вашем почтовом ящике или у вашего системного администратора.</p>
-    </li>
-</ol>
 
 <div>
     <img style="margin: 0 auto; display: block; max-width: 60%;"
          src="/attachments/images/FAQ/ADMIN/TicketMail/Email.jpg"/>
 </div>
+
+
+             <p>Для почтовых адресов на своем домене в Outlook эти настройки будут: <strong>Хост</strong>= outlook.office365.com, <strong>Порт</strong>= 993.
+            Узнать хост и порт можно в
+            вашем почтовом ящике или у вашего системного администратора.</p>
+
+            <div>
+    <img style="margin: 0 auto; display: block; max-width: 60%;"
+         src="/attachments/images/FAQ/ADMIN/TicketMail/Email2.jpg"/>
+</div>
+
+    </li>
+</ol>
+
+
 
 
 <p>Далее нажмите кнопку <strong>Добавить адрес</strong>. Введите адрес электронной почты, с которого можно будет
@@ -84,7 +97,7 @@ keywords: заявки по почте, заявки из почты, подач
         Также вы можете ввести значение
         "*@yandex.ru" (без кавычек), тогда у всех почтовых ящиков *@yandex.ru будет доступ к подаче
         <strong>Заявок</strong>
-        через e-mail. <!--Подробнее читайте в статье: <a
+        через e-mail. Или ввести "*@*" (без кавычек) для получения писем с любых адресов любых доменов. <!--Подробнее читайте в статье: <a
                 href="https://wiki.hubex.ru/docs/FAQ/RU/user/HowToManageGmailIntegration.html">
             Как настроить интеграцию с Gmail (почта Google)?</a>.-->
     </li>

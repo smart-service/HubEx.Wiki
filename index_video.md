@@ -10,7 +10,6 @@
      <li><a href="#plannedticket">Как создавать плановые заявки в системе;</a></li>
      <li><a href="#addfields">Как создавать дополнительные поля в HubEx;</a></li>
      <li><a href="#checklists">Чек-листы в HubEx: контролируйте качество работ, обучайте новых сотрудников;</a></li>
-     <li><a href="#EngineersAnalitics">Аналитика: Отчет по сотрудникам;</a></li>
      <li><a href="#objectimport">Как использовать импорт объектов для быстрого старта работы в Hubex;</a></li>
      <li><a href="#ticketonmap">Распределение заявок в Hubex с помощью календаря и карты;</a></li>
      <li><a href="#engineersanalytics">Бизнес-аналитика: Отчет по сотрудникам</a>;</li>
@@ -57,6 +56,14 @@
 <p>Подробно о создании и настройке чек-листов читайте в статье <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/Checklists.html">Чек-листы</a>.</p>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/FBFe4tBnZVE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+ <h5 id="objectimport">Как использовать импорт объектов для быстрого старта работы в Hubex</h5>
+<p>Подробно об импорте <strong>Объектов</strong>, <strong>Заявок</strong>, <strong>Пользователей</strong> и <strong>Компаний</strong> читайте в статье <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/Import.html">Импорт</a>.</p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tzXlekvaftY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<h5 id="ticketonmap">Распределение заявок в Hubex с помощью календаря и карты</h5>
+<p>Местонахождение <strong>Заявок</strong> и <strong>Сотрудников</strong> доступно в режиме карты. Вы можете видеть свободные часы ваших специалистов благодаря календарю и оперативно назначать <strong>Заявки</strong>. Подробнее читайте в статье <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/TicketsOnMap.htmll">Заявки и сотрудники на карте</a>.</p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1H9pTZi0vA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 <h5 id="EngineersAnalitics">Аналитика: Отчет по сотрудникам</h5>
 <p>Посмотрите, как работает бизнес-аналитика по выездному обслуживанию в разрезе эффективности персонала:</p>
 <ul>
@@ -66,23 +73,6 @@
 </ul>
 <p>Дополнительно ознакомьтесь со статьей <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/EngineersAnalitics.html">Отчет по сотрудникам</a>, где подробно описаны все визуализации и показатели.</p>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7oC98ISShGg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
- <h5 id="objectimport">Как использовать импорт объектов для быстрого старта работы в Hubex</h5>
-<p>Подробно об импорте <strong>Объектов</strong>, <strong>Заявок</strong>, <strong>Пользователей</strong> и <strong>Компаний</strong> читайте в статье <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/Import.html">Импорт</a>.</p>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tzXlekvaftY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-<h5 id="ticketonmap">Распределение заявок в Hubex с помощью календаря и карты</h5>
-<p>Местонахождение <strong>Заявок</strong> и <strong>Сотрудников</strong> доступно в режиме карты. Вы можете видеть свободные часы ваших специалистов благодаря календарю и оперативно назначать <strong>Заявки</strong>. Подробнее читайте в статье <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/TicketsOnMap.htmll">Заявки и сотрудники на карте</a>.</p>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1H9pTZi0vA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-
-<h5 id="engineersanalytics">Бизнес-аналитика: Отчет по сотрудникам</h5>
-<p><Strong>Отчет по сотрудникам</Strong> в HubEx дает возможность проанализировать данные, собранные по
-    <Strong>Сотрудникам</Strong> и <Strong>Заявкам</Strong>. Благодаря этому отчету вы сможете ответить на вопросы - Как загружены ваши сотрудники? Кто из исполнителей чаще других закрывает <Strong>Заявки</Strong> с
-    нарушением срока? Кто из
-    сотрудников и в какие дни перерабатывает сверх своего графика? Кто из исполнителей считается самым эффективным в
-    выбранном периоде? и т.д. Подробнее читайте в статье <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/EngineersAnalitics.html">Отчет по сотрудникам</a>.</p>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7oC98ISShGg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 

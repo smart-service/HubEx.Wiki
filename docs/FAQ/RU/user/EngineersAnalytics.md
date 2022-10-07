@@ -33,6 +33,11 @@ keywords: отчет по сотрудникам, sla, показатели по
     сотрудников и в какие дни перерабатывает сверх своего графика? Кто из исполнителей считается самым эффективным в
     выбранном периоде? и т.д. </p>
 
+    
+<p>Прочтите подробную статью ниже или начните знакомство с темой с обучающего видеоролика <strong>HubEx: как работает бизнес-аналитика по выездным сотрудникам</strong>.</p>
+<iframe src="https://www.youtube.com/embed/7oC98ISShGg" width="100%" height="450px" frameborder="0"
+        allowfullscreen="allowfullscreen"></iframe>
+
 
 <p><Strong>Отчет по сотрудникам</Strong> находится в меню <Strong>Аналитика - Отчет по сотрудникам</Strong>. Данные
     в отчете обновляются один раз в
@@ -570,9 +575,6 @@ keywords: отчет по сотрудникам, sla, показатели по
     заявки</Strong>, по <Strong>Критичности</Strong> и по <Strong>Видам
     работ</Strong>. </p>
 
-<p>Дополнительно ознакомьтесь с обучающим видео <strong>HubEx: как работает бизнес-аналитика по выездным сотрудникам</strong>.</p>
-<iframe src="https://www.youtube.com/embed/7oC98ISShGg" width="100%" height="450px" frameborder="0"
-        allowfullscreen="allowfullscreen"></iframe>
 
 </body>
 

@@ -40,6 +40,13 @@ keywords: эффективность процессов, анализ эффек
     машине
     специалиста. После внесенных изменений, можно будет оценить, станет ли новый процесс более эффективным или нет.</p>
 
+    <p>Прочтите подробную статью ниже или начните знакомство с темой с обучающих видеороликов <strong>HubEx: Анализ эффективности процессов</strong>.</p>
+<iframe src="https://www.youtube.com/embed/C7N6KPA_jhA" width="100%" height="450px" frameborder="0"
+        allowfullscreen="allowfullscreen"></iframe>
+
+<iframe src="https://www.youtube.com/embed/15ER2EWoqvI" width="100%" height="450px" frameborder="0"
+        allowfullscreen="allowfullscreen"></iframe>
+
 
 <p>Отчет по анализу эффективности находится в меню <strong>Аналитика - Анализ эффективности процессов</strong>. Данные в
     отчете обновляются один раз в сутки. Дата обновления отображается слева от наименования отчета (под периодом).</p>
@@ -354,12 +361,7 @@ keywords: эффективность процессов, анализ эффек
 </div>
 
 
-<p>Дополнительно ознакомьтесь с двумя обучающим видеороликами <strong>HubEx: Анализ эффективности процессов</strong>.</p>
-<iframe src="https://www.youtube.com/embed/C7N6KPA_jhA" width="100%" height="450px" frameborder="0"
-        allowfullscreen="allowfullscreen"></iframe>
 
-<iframe src="https://www.youtube.com/embed/15ER2EWoqvI" width="100%" height="450px" frameborder="0"
-        allowfullscreen="allowfullscreen"></iframe>
 </body>
 
 ___

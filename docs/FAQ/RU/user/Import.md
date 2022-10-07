@@ -47,7 +47,7 @@ keywords: импорт заявок, импорт объектов, импорт
 
 <h5 id="objects">Импорт объектов</h5>
 
-<p>Ознакомьтесь с видеороликом <strong>Как использовать импорт объектов для быстрого старта работы в Hubex?</strong> и прочтите текущую статью.</p>
+<p>Ознакомьтесь с видеороликом <strong>Как использовать импорт объектов для быстрого старта работы в Hubex?</strong> или прочтите статью ниже.</p>
 
 <iframe src="https://www.youtube.com/embed/tzXlekvaftY" width="100%" height="450px" frameborder="0"
         allowfullscreen="allowfullscreen"></iframe>

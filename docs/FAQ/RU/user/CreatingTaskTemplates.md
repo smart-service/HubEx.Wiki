@@ -50,6 +50,10 @@ keywords: qr-код, шаблон заявки, скачать QR-код, пас
         href="https://apps.apple.com/ru/app/hubex-%D0%B4%D0%BB%D1%8F-%D0%B7%D0%B0%D0%BA%D0%B0%D0%B7%D1%87%D0%B8%D0%BA%D0%B0/id1386631658">для
     iOS</a>. </p>
 
+<p>Пример создания QR-кода и подачи <strong>Заявки</strong> через приложение вы можете посмотреть в нашем обучающем видеоролике.</p>
+<iframe src="https://www.youtube.com/embed/yPugQerNlvo" width="100%" height="450px" frameborder="0"
+        allowfullscreen="allowfullscreen"></iframe>
+
 <h5 id="ticktempl">Cоздание шаблона заявки и QR-кода</h5>
 <p>Создать QR-код и шаблон заявки можно в web-приложении двумя способами:
     <ol>
@@ -233,9 +237,7 @@ keywords: qr-код, шаблон заявки, скачать QR-код, пас
          src="/attachments/images/FAQ/USER/CreatingTickTemplates/Export2.jpg"/>
 </div>
 
-<p>Пример создания QR-кода и подачи <strong>Заявки</strong> через приложение вы можете посмотреть в нашем обучающем видеоролике.</p>
-<iframe src="https://www.youtube.com/embed/yPugQerNlvo" width="100%" height="450px" frameborder="0"
-        allowfullscreen="allowfullscreen"></iframe>
+
 
 </body>
 

@@ -123,6 +123,11 @@ keywords: создание компании, создать компанию, з
     <h5 id="contract">Договор с клиентом</h5>
 
 <p>Договор (или контракт) необходим для фиксации взаимоотношений с клиентом. С его помощью можно отслеживать сроки действия и классифицировать <strong>Заявки</strong>. </p>
+
+<p>Прочтите инструкцию ниже или ознакомьтесь с обучающим видеороликом <strong>Договор в HubEx: как создать договор на объект/оборудование</strong>.</p>
+<iframe src="https://www.youtube.com/embed/uVLKXbTjuik" width="100%" height="450px" frameborder="0"
+        allowfullscreen="allowfullscreen"></iframe>
+
     <p>Создать новый договор можно на вкладке <strong>Договоры</strong> в карточке <strong>Компании</strong>.</p>
 
     <div>
@@ -152,9 +157,7 @@ keywords: создание компании, создать компанию, з
              src="/attachments/images/FAQ/USER/CreatingCompany/Ticket.jpg"/>
     </div>
 
-<p>Дополнительно ознакомьтесь с обучающим видео <strong>Договор в HubEx: как создать договор на объект/оборудование</strong>.</p>
-<iframe src="https://www.youtube.com/embed/uVLKXbTjuik" width="100%" height="450px" frameborder="0"
-        allowfullscreen="allowfullscreen"></iframe>
+
 
 
 

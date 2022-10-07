@@ -24,6 +24,11 @@ keywords: правило автоназначения исполнителя, а
     исполнителей, а также
     позволяет настроить автоматический переход <strong>Заявки</strong> на ответственных менеджеров и т.д. </p>
 
+<p>Прочтите инструкцию ниже или ознакомьтесь с видеороликом <strong>Автоназначение исполнителей на заявки</strong>.</p>
+
+<iframe src="https://www.youtube.com/embed/IEsB3xWJVRQ" width="100%" height="450px" frameborder="0"
+        allowfullscreen="allowfullscreen"></iframe>
+
 <h5 id="createrule">Создание правила автоназначения исполнителя</h5>
 <p>Создать и настроить новое правило автоназначения исполнителя можно в <a
         href="https://wiki.hubex.ru/docs/FAQ/RU/admin/HowToEnterTheAdmin.html">консоли
@@ -143,10 +148,6 @@ keywords: правило автоназначения исполнителя, а
          src="/attachments/images/FAQ/ADMIN/RulesOfChoice/Engineer.jpg"/>
 </div>
 
-<p>Дополнительно ознакомьтесь с видеороликом <strong>Автоназначение исполнителей на заявки</strong>.</p>
-
-<iframe src="https://www.youtube.com/embed/IEsB3xWJVRQ" width="100%" height="450px" frameborder="0"
-        allowfullscreen="allowfullscreen"></iframe>
         
 </body>
 

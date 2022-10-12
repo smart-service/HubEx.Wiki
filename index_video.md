@@ -23,7 +23,8 @@
      <li><a href="#sla">Настройка SLA: расчет крайнего срока закрытия заявки</a>;</li>
      <li><a href="#ticketmail">Как подавать заявки с электронной почты в HubEx?</a></li>
      <li><a href="#floorplan">Как подавать заявки с использованием планов помещений?</a></li>
-     <li><a href="#ondutty">Как работать с функционалом На смене, работа с самозанятыми</a>.</li>
+     <li><a href="#ondutty">Как работать с функционалом На смене, работа с самозанятыми?</a></li>
+    <li><a href="#elementsofinterface">Поля на форме заявки: настройка доступа к полям заявки</a>.</li>
 
         
      <!--<li><a href="#excelimport">Импорт данных.</a></li>-->
@@ -130,6 +131,20 @@
 <p>Сервисному специалисту также важно предупреждать работодателя о том, что он приступил к работе, чтобы получать
     <strong>Заявки</strong>, либо закончил смену и не может больше брать <strong>Заявки</strong>.</p> Подробнее читайте в статье <a href="https://wiki.hubex.ru/docs/FAQ/RU/admin/OnDutty.html">Индивидуальный график работы: функционал На смене</a>.</p>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/x_5VAaPvYH0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<h5 id="elementsofinterface">Поля на форме заявки: настройка доступа к полям заявки</h5>
+<p><Strong>Заявка</Strong> - ключевой элемент системы HubEx. С <Strong>Заявками</Strong> работают
+    разные группы пользователей: мобильные
+    сотрудники, диспетчера, администраторы, менеджеры, заказчики услуг и т.д.</p>
+<p>Для каждой группы таких пользователей в системе создаются <Strong>Роли</Strong>, которые ограничивают функциональные
+    возможности
+    работы с системой и видимость некоторых данных в справочниках. Подробнее читайте в статье: <a
+            href="https://wiki.hubex.ru/docs/FAQ/RU/admin/Roles.html">Настройка ролей</a>. Но
+    именно для <Strong>Заявки</Strong> существует тонкая настройка видимости и редактирования полей. Например, вы можете
+    запретить
+    мобильному сотруднику
+    изменять исполнителя в <Strong>Заявке</Strong> на стадии <Strong>Назначена</Strong>. Подробнее читайте в статье <a href="https://wiki.hubex.ru/docs/FAQ/RU/admin/ElementsOfInterface.html">Поля на форме заявки: настройка доступа к полям заявки</a>.</p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/EVPSTI7zQ58" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <!--
  <h5 id="excelimport">Импорт данных</h5>

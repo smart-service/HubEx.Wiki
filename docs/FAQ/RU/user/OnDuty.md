@@ -60,7 +60,7 @@ keywords: на смене, редактировать смену, индивид
         увидите уже заданный график работ. Подробнее
         читайте в
         статье: <a
-                href="https://wiki.hubex.ru/docs/FAQ/RU/user/Schedule.html">График работы исполнителей</a>.</p>
+                href="https://wiki.hubex.ru/docs/FAQ/RU/user/Schedule.html">График работы исполнителей</a>.
         <div>
             <img style="margin: 0 auto; display: block; max-width: 95%;"
                  src="/attachments/images/FAQ/USER/OnDuty/Schedule.jpg"/>

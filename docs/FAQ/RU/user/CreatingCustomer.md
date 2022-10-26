@@ -27,6 +27,10 @@ keywords: создание заказчика, создание пользова
                 href="https://apps.apple.com/ru/app/hubex-%D0%B4%D0%BB%D1%8F-%D0%B7%D0%B0%D0%BA%D0%B0%D0%B7%D1%87%D0%B8%D0%BA%D0%B0/id1386631658">для
             iOS</a>.</p>
 
+             <p>Прочтите подробную статью ниже или начните знакомство с темой с обучающего видеоролика <strong>Как создать нового пользователя в Hubex</strong>.</p>
+<iframe src="https://www.youtube.com/embed/wuEMTcEQeCY" width="100%" height="450px" frameborder="0"
+        allowfullscreen="allowfullscreen"></iframe>
+
 <p>Создать нового <strong>Заказчика</strong> можно в меню <strong>Пользователи - Заказчики</strong> по кнопке <strong>Создать
     заказчика</strong>. Карточка <strong>Заказчика</strong> сотоит из нескольких вкладок: <strong>Общее</strong>,
     <strong>Квалификация</strong>,

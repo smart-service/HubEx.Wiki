@@ -6,6 +6,7 @@
 <ul>
      <li><a href="#hubexhl">Обзор функциональных возможностей;</a></li>
      <li><a href="#firststeps">Начало работы в HubEx;</a></li>
+     <li><a href="#creatinguser">Как создать пользователя в Hubex;</a></li>
      <li><a href="#engineermob">Мобильное приложение инженера: работа специалиста с мобильного телефона;</a></li>
      <li><a href="#plannedticket">Как создавать плановые заявки в системе;</a></li>
      <li><a href="#addfields">Как создавать дополнительные поля в HubEx;</a></li>
@@ -39,6 +40,14 @@
 <h5 id="firststeps">Начало работы в HubEx</h5>
 <p>Дополнительно окзнакомьтесь со статьей <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/HubExStepByStep.html">Знакомство с системой HubEx</a>, в которой подробно описаны первые шаги для работы в HubEx.</p>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/BJU4AUR2nOU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<h5 id="creatinguser">Как создать пользователя в HubEx</h5>
+<p>В системе HubEx существует два типа пользователей: <strong>Сотрудники</strong> и <strong>Заказчики</strong>.</p>
+<p><strong>Сотрудники</strong> – пользователи, которые могут создавать и выполнять <strong>Заявки</strong>. Подробнее читайте в статье: <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/CreatingUser.html">Создание пользователя вашей системы</a>.</p>
+
+<p><strong>Заказчик</strong> - пользователь, который может создавать <strong>Заявки</strong> в мобильном приложении заказчика.
+    <strong>Заказчик</strong> привязывается к компании-заказчику. Подробнее читайте в статье: <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/CreatingCustomer.html">Создание заказчика</a>.</p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wuEMTcEQeCY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <h5 id="engineermob">Мобильное приложение инженера: работа специалиста с мобильного телефона</h5>
 <p>В обучающем видео показан весь функционал работы с мобильным приложением инженера: авторизация в приложении, получение уведомлений, работа с <Strong>Заявками</Strong>, с чек-листами, выполненными работами, общение в чатах, работа с календарем и функционалом "на смене".</p>

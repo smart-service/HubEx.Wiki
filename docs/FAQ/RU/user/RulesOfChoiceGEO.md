@@ -152,9 +152,9 @@ keywords: автораспределение на ближайшего, авто
 
 ___
 ### Следующие шаги:
-- [Стадии заявки](./StageType.md)
-- [Поля на форме заявки: настройка доступа к полям заявки](./ElementsOfInterface.md)
-- [Жизненный цикл заявки](./TicketLifeCycle.md)
+- [Стадии заявки](/docs/FAQ/RU/admin/StageType.md)
+- [Поля на форме заявки: настройка доступа к полям заявки](/docs/FAQ/RU/admin/ElementsOfInterface.md)
+- [Жизненный цикл заявки](/docs/FAQ/RU/admin/TicketLifeCycle.md)
 
 ____
 - [Перейти в меню](http://wiki.hubex.ru)

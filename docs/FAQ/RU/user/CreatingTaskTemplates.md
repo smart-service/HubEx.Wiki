@@ -191,11 +191,11 @@ keywords: qr-код, шаблон заявки, скачать QR-код, пас
     </li>
 </ul>
 <div>
-    <img style="margin: 0 auto; display: block; max-width: 80%;"
+    <img style="margin: 0 auto; display: block; max-width: 70%;"
          src="/attachments/images/FAQ/USER/CreatingTickTemplates/MobEngineer.jpg"/>
 </div>
 <p><div>
-    <img style="margin: 0 auto; display: block; max-width: 80%;"
+    <img style="margin: 0 auto; display: block; max-width: 70%;"
          src="/attachments/images/FAQ/USER/CreatingTickTemplates/MobEngineer2.jpg"/>
 </div></p>
 

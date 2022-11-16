@@ -191,9 +191,13 @@ keywords: qr-код, шаблон заявки, скачать QR-код, пас
     </li>
 </ul>
 <div>
-    <img style="margin: 0 auto; display: block; max-width: 100%;"
+    <img style="margin: 0 auto; display: block; max-width: 80%;"
          src="/attachments/images/FAQ/USER/CreatingTickTemplates/MobEngineer.jpg"/>
 </div>
+<p><div>
+    <img style="margin: 0 auto; display: block; max-width: 80%;"
+         src="/attachments/images/FAQ/USER/CreatingTickTemplates/MobEngineer2.jpg"/>
+</div></p>
 
 <p>Зайдите в мобильное приложение заказчика HubEx Customer:</p>
 <ul>

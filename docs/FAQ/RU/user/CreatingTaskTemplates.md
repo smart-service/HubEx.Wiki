@@ -203,6 +203,12 @@ keywords: qr-код, шаблон заявки, скачать QR-код, пас
 <p>Зайдите в мобильное приложение заказчика HubEx Customer:</p>
 <ul>
     <li>Нажмите кнопку подачи заявки;</li>
+    <li>Перед вами откроется список <strong>Объектов</strong>, нажмите кнопку подачи заявки по QR-коду в правом нижнем углу;</li>
+
+<div>
+    <img style="margin: 0 auto; display: block; max-width: 70%;"
+         src="/attachments/images/FAQ/USER/CreatingTickTemplates/MobCustomer.jpg"/>
+</div>
 
     <li>Отсканируйте QR-код: для приложения заказчика просмотр паспорта объекта не доступен по умолчанию;
     </li>
@@ -213,10 +219,10 @@ keywords: qr-код, шаблон заявки, скачать QR-код, пас
                 href="https://wiki.hubex.ru/docs/FAQ/RU/user/CreatingTicket.html#mobticket">Создание заявки</a>.
     </li>
 </ul>
-<div>
-    <img style="margin: 0 auto; display: block; max-width: 80%;"
-         src="/attachments/images/FAQ/USER/CreatingTickTemplates/MobCustomer.jpg"/>
-</div>
+<p><div>
+    <img style="margin: 0 auto; display: block; max-width: 70%;"
+         src="/attachments/images/FAQ/USER/CreatingTickTemplates/MobEngineer2.jpg"/>
+</div></p>
 
 <h5 id="role">Настройка Роли для доступа к паспорту объекта</h5>
 <p>Для того, чтобы паспорт объекта был доступен при сканировании QR-кода необходимо в настройке <strong>Роли</strong> в разделе

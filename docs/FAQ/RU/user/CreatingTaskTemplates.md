@@ -178,22 +178,23 @@ keywords: qr-код, шаблон заявки, скачать QR-код, пас
 <p>Зайдите в мобильное приложение инженера HubEx Engineer:</p>
 <ul>
     <li>Нажмите кнопку подачи заявки;</li>
-
+ <li>Перед вами откроется список <strong>Объектов</strong>, нажмите кнопку подачи заявки по QR-коду в правом нижнем углу;</li>
+ <div>
+    <img style="margin: 0 auto; display: block; max-width: 70%;"
+         src="/attachments/images/FAQ/USER/CreatingTickTemplates/MobEngineer.jpg"/>
+</div>
     <li>Отсканируйте QR-код: перед вами откроется паспорт объекта. В нем вы можете просмотреть <strong>Историю
         обслуживания</strong> -
         это перечень всех заявок по объекту. История доступна только в приложении инженера;
     </li>
 
-    <li>Для подачи заявки нажмите кнопку <strong>Подать заявку</strong> и заполните необходимые поля, нажмите кнопку
+    <li>Для подачи заявки нажмите кнопку <strong>Подать заявку</strong> и заполните необходимые поля, описание заявки и нажмите кнопку
         <strong>Создать заявку</strong>.
         Подробнее о заполнении полей заявки в мобильном приложении читайте в статье: <a
                 href="https://wiki.hubex.ru/docs/FAQ/RU/user/CreatingTicket.html#mobticket">Создание заявки</a>.
     </li>
 </ul>
-<div>
-    <img style="margin: 0 auto; display: block; max-width: 70%;"
-         src="/attachments/images/FAQ/USER/CreatingTickTemplates/MobEngineer.jpg"/>
-</div>
+
 <p><div>
     <img style="margin: 0 auto; display: block; max-width: 70%;"
          src="/attachments/images/FAQ/USER/CreatingTickTemplates/MobEngineer2.jpg"/>

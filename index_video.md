@@ -7,6 +7,7 @@
      <li><a href="#hubexhl">Обзор функциональных возможностей;</a></li>
      <li><a href="#firststeps">Начало работы в HubEx;</a></li>
      <li><a href="#creatinguser">Как создать пользователя в Hubex;</a></li>
+     <li><a href="#tickets">Способы подачи заявки в HubEx;</a></li>
      <li><a href="#engineermob">Мобильное приложение инженера: работа специалиста с мобильного телефона;</a></li>
      <li><a href="#plannedticket">Как создавать плановые заявки в системе;</a></li>
      <li><a href="#addfields">Как создавать дополнительные поля в HubEx;</a></li>
@@ -48,6 +49,10 @@
 <p><strong>Заказчик</strong> - пользователь, который может создавать <strong>Заявки</strong> в мобильном приложении заказчика.
     <strong>Заказчик</strong> привязывается к компании-заказчику. Подробнее читайте в статье: <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/CreatingCustomer.html">Создание заказчика</a>.</p>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/wuEMTcEQeCY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<h5 id="tickets">Способы подачи заявки в HubEx</h5>
+<p>В системе HubEx есть несколько способов подачи Заявок - через web и мобильные приложения, с помощью QR-кодов и планировщика работ. Подробнее читайте в статьях: <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/CreatingTicket.html">Создание заявки</a>, <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/CreatingTaskTemplates.html">Создание шаблона заявки, подача заявки по QR-коду</a>, <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/Calendar.html">Календарь заявок</a>.</p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C0pgCMtmtyo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <h5 id="engineermob">Мобильное приложение инженера: работа специалиста с мобильного телефона</h5>
 <p>В обучающем видео показан весь функционал работы с мобильным приложением инженера: авторизация в приложении, получение уведомлений, работа с <Strong>Заявками</Strong>, с чек-листами, выполненными работами, общение в чатах, работа с календарем и функционалом "на смене".</p>

@@ -144,7 +144,7 @@ keywords: знакомство с системой, первые шаги, hubex
 <h5 id="ticketcreation">Создание Заявок</h5>
 
 <p>Все варианты создания <strong>Заявок</strong> представлены в обучающем видеоролике <strong>Способы подачи заявки в HubEx</strong>.</p>
-<iframe src="https://www.youtube.com/embed/C0pgCMtmtyo" width="100%" height="450px" frameborder="0"
+<iframe src="https://www.youtube.com/embed/RtMhubKi7Jc" width="100%" height="450px" frameborder="0"
         allowfullscreen="allowfullscreen"></iframe>
 <p> В системе HubEx предусмотрено два способа подачи <strong>Заявки</strong>: вручную и в полуавтоматическом режиме. Рассмотрим подробнее:
 </p>

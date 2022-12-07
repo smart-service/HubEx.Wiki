@@ -29,13 +29,13 @@ keywords: инструкция для заказчика, клиентский �
 <ol>
     <li>При регистрации по электронной почте в полученном письме нажмите кнопку <strong>Подтвердить</strong>.
         <div>
-            <img style="margin: 0 auto; display: block; max-width: 90%;"
+            <img style="margin: 0 auto; display: block; max-width: 100%;"
                  src="/attachments/images/FAQ/USER/CustomerWeb/Mail.jpg"/>
         </div>
         <p>Затем в открывшемся окне браузера создайте пароль и войдите в клиентский портал HubEx по кнопке <strong>Продолжить</strong>.
         </p>
         <div>
-            <img style="margin: 0 auto; display: block; max-width: 90%;"
+            <img style="margin: 0 auto; display: block; max-width: 100%;"
                  src="/attachments/images/FAQ/USER/CustomerWeb/Password.jpg"/>
         </div>
 
@@ -44,7 +44,7 @@ keywords: инструкция для заказчика, клиентский �
         Затем в открывшемся окне браузера создайте пароль и войдите в клиентский портал HubEx по кнопке <strong>Продолжить</strong>.
 
         <div>
-            <img style="margin: 0 auto; display: block; max-width: 90%;"
+            <img style="margin: 0 auto; display: block; max-width: 70%;"
                  src="/attachments/images/FAQ/USER/CustomerWeb/Mob.jpg"/>
         </div>
 
@@ -55,7 +55,7 @@ keywords: инструкция для заказчика, клиентский �
     появляется по щелчку на значок и скрывается по щелчку в любом месте экрана.</p>
 
 <div>
-    <img style="margin: 0 auto; display: block; max-width: 90%;"
+    <img style="margin: 0 auto; display: block; max-width: 100%;"
          src="/attachments/images/FAQ/USER/CustomerWeb/Info.jpg"/>
 </div>
 
@@ -66,7 +66,7 @@ keywords: инструкция для заказчика, клиентский �
 <p>Чтобы создать новую заявку, нажмите кнопку <strong>Создать заявку</strong>.</p>
 
 <div>
-    <img style="margin: 0 auto; display: block; max-width: 90%;"
+    <img style="margin: 0 auto; display: block; max-width: 100%;"
          src="/attachments/images/FAQ/USER/CustomerWeb/NewTicket.jpg"/>
 </div>
 
@@ -94,7 +94,7 @@ keywords: инструкция для заказчика, клиентский �
 <p>После заполнения всех данных нажмите кнопку <strong>Сохранить</strong>.</p>
 
 <div>
-    <img style="margin: 0 auto; display: block; max-width: 90%;"
+    <img style="margin: 0 auto; display: block; max-width: 100%;"
          src="/attachments/images/FAQ/USER/CustomerWeb/Ticket.jpg"/>
 </div>
 
@@ -102,14 +102,14 @@ keywords: инструкция для заказчика, клиентский �
 <p>По каждой заявке можно вести отдельную переписку на вкладке <strong>Сообщения</strong>. Таким образом, вы оперативно можете узнать у
     исполнителя, на каком этапе выполнения находится заявка и задать любые вопросы.</p>
 <div>
-    <img style="margin: 0 auto; display: block; max-width: 90%;"
+    <img style="margin: 0 auto; display: block; max-width: 100%;"
          src="/attachments/images/FAQ/USER/CustomerWeb/Chat.jpg"/>
 </div>
 
 <p>Также все сообщения по всем заявкам отображаются в меню <strong>Сообщения</strong>. Когда приходит новое сообщение по какой-либо
     заявке, появляется значок с уведомлением о непрочитанном сообщении.</p>
 <div>
-    <img style="margin: 0 auto; display: block; max-width: 90%;"
+    <img style="margin: 0 auto; display: block; max-width: 100%;"
          src="/attachments/images/FAQ/USER/CustomerWeb/Chat2.jpg"/>
 </div>
 
@@ -121,7 +121,7 @@ keywords: инструкция для заказчика, клиентский �
 <p>В клиентском портале HubEx можно распечатать акт выполненных работ.</p>
 
 <div>
-    <img style="margin: 0 auto; display: block; max-width: 90%;"
+    <img style="margin: 0 auto; display: block; max-width: 100%;"
          src="/attachments/images/FAQ/USER/CustomerWeb/Act.jpg"/>
 </div>
 
@@ -133,7 +133,7 @@ keywords: инструкция для заказчика, клиентский �
         href="https://wiki.hubex.ru/docs/FAQ/RU/user/ClientsAnalitics.html">Отчет для клиента</a>.
 </p>
 <div>
-    <img style="margin: 0 auto; display: block; max-width: 90%;"
+    <img style="margin: 0 auto; display: block; max-width: 100%;"
          src="/attachments/images/FAQ/USER/CustomerWeb/Analytics.jpg"/>
 </div>
 

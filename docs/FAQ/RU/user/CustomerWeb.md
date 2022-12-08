@@ -44,7 +44,7 @@ keywords: инструкция для заказчика, клиентский �
         Затем в открывшемся окне браузера создайте пароль и войдите в клиентский портал HubEx по кнопке <strong>Продолжить</strong>.
 
        <p> <div>
-            <img style="margin: 0 auto; display: block; max-width: 60%;"
+            <img style="margin: 0 auto; display: block; max-width: 65%;"
                  src="/attachments/images/FAQ/USER/CustomerWeb/Mob.jpg"/>
         </div></p>
 

@@ -37,23 +37,19 @@
 <h4 style="padding-left: 20px;"><a href="/docs/FAQ/RU/user/Rating.html">Оценка заявок и рейтинг сотрудников</a></h4>
 <h4 style="padding-left: 20px;"><a href="/docs/FAQ/RU/user/SeveralEngineers.html">Как выбрать нескольких исполнителей в заявке</a></h4>
 <h4 style="padding-left: 20px;"><a href="/docs/FAQ/RU/user/AcceptanceTicket.html">Как исполнителю назначить на себя новую Заявку из общего списка?</a></h4>
-
+<!--
 ### Клиентский портал и мобильное приложение HubEx заказчик
 В клиентском портале заказчик может создавать и отслеживать заявки, печатать акты и просматривать аналитику по заявкам. С помощью мобильного приложения <strong>HubEx заказчик</strong> можно также создавать Заявки, принимать выполненные работы и подписывать акты,оценивать работу исполнителей.
-
 <h4 style="padding-left: 20px;"><a href="/docs/FAQ/RU/user/MobileDevice.html">Как выбрать мобильное устройство для работы?</a></h4>
 <h4 style="padding-left: 20px;"><a href="/docs/FAQ/RU/user/EnterToMob.html">Вход в мобильное приложение Заказчика и Сотрудника</a></h4>
 <h4 style="padding-left: 20px;"><a href="/docs/FAQ/RU/user/CustomerWeb.html">Работа с заявками в клиентском портале</a></h4>
 <h4 style="padding-left: 20px;"><a href="/docs/FAQ/RU/user/CustomerApp.html">Работа в мобильном приложении заказчика: заявки, акты, оценка исполнителей</a></h4>
-<!--<h4 style="padding-left: 20px;"><a href="/docs/FAQ/RU/user/AlternativeWays.html">Работа в мобильном приложении заказчика: заявки, акты, оценка исполнителей</a></h4>-->
-
-<!--объединитьь в одну статью (создание заявки в МП
+<h4 style="padding-left: 20px;"><a href="/docs/FAQ/RU/user/AlternativeWays.html">Работа в мобильном приложении заказчика: заявки, акты, оценка исполнителей</a></h4>
+объединитьь в одну статью (создание заявки в МП
 переписка
 подписание акта
 оценка исполнителей )
-
 мб дать ссылку - скачать инструкцию для заказчика
-
 -->
 
 ____

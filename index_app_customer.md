@@ -23,7 +23,7 @@
 <h4 style="padding-left: 20px;"><a href="/docs/FAQ/RU/user/EnterToMob.html">Вход в мобильное приложение Заказчика и Сотрудника</a></h4>
 <h4 style="padding-left: 20px;"><a href="/docs/FAQ/RU/user/CustomerWeb.html">Работа с заявками в клиентском портале</a></h4>
 <h4 style="padding-left: 20px;"><a href="/docs/FAQ/RU/user/CustomerApp.html">Работа в мобильном приложении заказчика: заявки, акты, оценка исполнителей</a></h4>
-<!--<h4 style="padding-left: 20px;"><a href="/docs/FAQ/RU/user/AlternativeWays.html">Работа в мобильном приложении заказчика: заявки, акты, оценка исполнителей</a></h4>-->
+<h4 style="padding-left: 20px;"><a href="/docs/FAQ/RU/user/AlternativeWays.html">Альтернативные способы подачи заявки через почту, сайт, паспорт объекта</a></h4>
 
 <!--объединитьь в одну статью (создание заявки в МП
 переписка

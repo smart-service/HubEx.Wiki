@@ -120,18 +120,18 @@ keywords: инструкция для заказчика, мобильное п�
 </ul>
 
 
-</p>
+
 <p>У каждой <strong>Заявки</strong> в списке отображается ее статус, на каком этапе находится заявка – В работе, Выполнена и т.д.</p>
 
 <div>
-    <img style="margin: 0 auto; display: block; max-width: 70%;"
+    <img style="margin: 0 auto; display: block; max-width: 50%;"
          src="/attachments/images/FAQ/USER/CustomerApp/Ticket3.jpg"/>
 </div>
 
 
 <p>Для создания новой <strong>Заявки</strong> нажмите кнопку подачи заявки в правом нижнем углу.</p>
 <div>
-    <img style="margin: 0 auto; display: block; max-width: 70%;"
+    <img style="margin: 0 auto; display: block; max-width: 50%;"
          src="/attachments/images/FAQ/USER/CustomerApp/Ticket2.jpg"/>
 </div>
 <p>В мобильном приложении <strong>HubEx заказчик</strong> создать <strong>Заявку</strong> можно несколькими способами. Ниже будут представлены самые
@@ -228,7 +228,7 @@ keywords: инструкция для заказчика, мобильное п�
     устранена собственными силами или актуальность <strong>Заявки</strong> пропала.</p>
 <p>Для этого откройте заявку и внизу нажмите кнопку <strong>Отменить заявку</strong>.</p>
 <div>
-    <img style="margin: 0 auto; display: block; max-width: 70%;"
+    <img style="margin: 0 auto; display: block; max-width: 50%;"
          src="/attachments/images/FAQ/USER/CustomerApp/Cancel.jpg"/>
 </div>
 
@@ -244,7 +244,7 @@ keywords: инструкция для заказчика, мобильное п�
     заказчик не удовлетворен выполнением заявки, то работы можно не принимать и вернуть заявку на доработку исполнителю
     по нажатию кнопки Не принимать работы.</p>
 <div>
-    <img style="margin: 0 auto; display: block; max-width: 70%;"
+    <img style="margin: 0 auto; display: block; max-width: 50%;"
          src="/attachments/images/FAQ/USER/CustomerApp/Act3.jpg"/>
 </div>
 
@@ -258,7 +258,7 @@ keywords: инструкция для заказчика, мобильное п�
 </div>
 <p>Подпись появится в акте. Теперь его можно будет распечатать из клиентского портала HubEx.</p>
 <div>
-    <img style="margin: 0 auto; display: block; max-width: 70%;"
+    <img style="margin: 0 auto; display: block; max-width: 50%;"
          src="/attachments/images/FAQ/USER/CustomerApp/Act.jpg"/>
 </div>
 

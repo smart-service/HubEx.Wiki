@@ -64,7 +64,7 @@ keywords: мобильное приложение исполнителя, исп
 <p>Для телефонов Samsung перейдите в настройки уведомлений и установите настройки уведомлений как показано на
     рисунке.</p>
 <div>
-    <img style="margin: 0 auto; display: block; max-width: 85%;"
+    <img style="margin: 0 auto; display: block; max-width: 95%;"
          src="/attachments/images/FAQ/USER/GEOinMob/SetSamsung.jpg"/>
 </div>
 

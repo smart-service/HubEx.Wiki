@@ -103,8 +103,6 @@ https://wiki.hubex.ru/docs/FAQ/RU/user/CustomerWeb.html
 https://wiki.hubex.ru/docs/FAQ/RU/user/CustomerApp.html
 
 
-
-
 https://wiki.hubex.ru/docs/FAQ/RU/ReleaseNotes/TicketArchives08042020.html
 https://wiki.hubex.ru/docs/FAQ/RU/ReleaseNotes/UserInTicket13042020.html
 https://wiki.hubex.ru/docs/FAQ/RU/ReleaseNotes/Materials27042020.html
@@ -147,5 +145,3 @@ https://wiki.hubex.ru/docs/FAQ/RU/ReleaseNotes/PrintedForms04102022.html
 https://wiki.hubex.ru/docs/FAQ/RU/ReleaseNotes/SmsAutorization10102022.html
 https://wiki.hubex.ru/docs/FAQ/RU/ReleaseNotes/EngineerApp.html
 https://wiki.hubex.ru/docs/FAQ/RU/ReleaseNotes/CustomerApp.html
-
-https://wiki.hubex.ru/docs/FAQ/RU/user/CustomerApp.html

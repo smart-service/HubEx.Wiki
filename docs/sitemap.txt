@@ -70,6 +70,7 @@ https://wiki.hubex.ru/docs/FAQ/RU/admin/TicketAttribute.html
 https://wiki.hubex.ru/docs/FAQ/RU/admin/Integration.html
 https://wiki.hubex.ru/docs/FAQ/RU/admin/ServiceUsers.html
 https://wiki.hubex.ru/docs/FAQ/RU/admin/TicketMail.html
+https://wiki.hubex.ru/docs/FAQ/RU/admin/TelegramIntegration.html
 https://wiki.hubex.ru/docs/FAQ/RU/user/ChangeOfObjectType.html
 https://wiki.hubex.ru/docs/FAQ/RU/user/HowToNotificationsToMobile.html
 https://wiki.hubex.ru/docs/FAQ/RU/user/HowToManageGmailIntegration.html

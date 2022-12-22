@@ -51,7 +51,7 @@ keywords: отличие стадии от статуса, стадия заяв
     <img style="margin: 0 auto; display: block; max-width: 90%;"
          src="/attachments/images/FAQ/ADMIN/StageVSStatus/WebStageStatus.jpg"/>
 </div>
-<p>В мобильном приложении инженера HubEx Engineer также по <Strong>Заявке</Strong> отражается ее стадия - <Strong>Согласование с руководителем</Strong>.</p>
+<p>В мобильном приложении <strong>HubEx исполнитель</strong> также по <Strong>Заявке</Strong> отражается ее стадия - <Strong>Согласование с руководителем</Strong>.</p>
 <div>
     <img style="margin: 0 auto; display: block; max-width: 40%;"
          src="/attachments/images/FAQ/ADMIN/StageVSStatus/EngineerStage.jpg"/>

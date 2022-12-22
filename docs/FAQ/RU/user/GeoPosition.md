@@ -43,8 +43,8 @@ keywords: геопозиция, местоположение, точка на к
 </div>
 
 
-<p>В мобильном приложении инженера можно отследить текущее местоположение <strong>Сотрудника</strong> относительно места <strong>Заявки</strong>. </p>
-<p>Мобильное приложение инженера HubEx Engineer вы можете скачать <a
+<p>В мобильном приложении исполнителя можно отследить текущее местоположение <strong>Сотрудника</strong> относительно места <strong>Заявки</strong>. </p>
+<p>Мобильное приложение <strong>HubEx исполнитель</strong> вы можете скачать <a
         href="https://play.google.com/store/apps/details?id=ru.hubex.engineer">для Android</a> или <a
         href="https://apps.apple.com/ru/app/hubex-%D0%B4%D0%BB%D1%8F-%D1%81%D0%B5%D1%80%D0%B2%D0%B8%D1%81%D0%BD%D0%BE%D0%B9-%D1%81%D0%BB%D1%83%D0%B6%D0%B1%D1%8B/id1386688688">для
     iOS</a>.</p>
@@ -80,7 +80,7 @@ keywords: геопозиция, местоположение, точка на к
     <img style="margin: 0 auto; display: block; max-width: 80%;"
          src="/attachments/images/FAQ/USER/GeoPosition/Engineer.jpg"/>
 </div>
-<p>Сотрудник после установки на свой мобильный телефон приложение HubexEngineer должен разрешить приложению считывать
+<p>Сотрудник после установки на свой мобильный телефон приложение <strong>HubEx исполнитель</strong> должен разрешить приложению считывать
     свою геопозицию. Это можно сделать в настройках телефона c операционной системой iOS и Android.</p>
 
 <div style="display: flex;">

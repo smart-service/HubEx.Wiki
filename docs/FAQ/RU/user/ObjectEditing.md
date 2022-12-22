@@ -38,7 +38,7 @@ keywords: редактировать объект, данные оборудов
 
             <p>
             <div>
-                <img style="margin: 0 auto; display: block; max-width: 90%;"
+                <img style="margin: 0 auto; display: block; max-width: 100%;"
                      src="/attachments/images/FAQ/USER/ObjectEditing/PassportEditing.jpg"/>
             </div>
             </p>
@@ -58,7 +58,7 @@ keywords: редактировать объект, данные оборудов
             <li>После внесения изменений нажмите на галочку в верхнем правом углу.</li>
             <p>
             <div>
-                <img style="margin: 0 auto; display: block; max-width: 90%;"
+                <img style="margin: 0 auto; display: block; max-width: 100%;"
                      src="/attachments/images/FAQ/USER/ObjectEditing/PassportEditing2.jpg"/>
             </div>
             </p>

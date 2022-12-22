@@ -56,7 +56,7 @@ keywords: отличие стадии от статуса, стадия заяв
     <img style="margin: 0 auto; display: block; max-width: 40%;"
          src="/attachments/images/FAQ/ADMIN/StageVSStatus/EngineerStage.jpg"/>
 </div>
-<p>Но заказчик в приложении для заказчика HubEx Customer увидит статус - <Strong>В работе</Strong>.</p>
+<p>Но заказчик в приложении <strong>HubEx заказчик</strong> увидит статус - <Strong>В работе</Strong>.</p>
 <div>
     <img style="margin: 0 auto; display: block; max-width: 40%;"
          src="/attachments/images/FAQ/ADMIN/StageVSStatus/CustomerStatus.jpg"/>

@@ -54,7 +54,7 @@ keywords: знакомство с системой, первые шаги, hubex
 <iframe src="https://www.youtube.com/embed/JmMZzkI6o-c" width="100%" height="450px" frameborder="0"
         allowfullscreen="allowfullscreen"></iframe>
 
-<p>Мобильное приложение заказчика HubEx Customer вы можете скачать также <a
+<p>Мобильное приложение <strong>HubEx заказчик</strong> вы можете скачать также <a
         href="https://play.google.com/store/apps/details?id=ru.hubex.customer">для Android</a> или <a
         href="https://apps.apple.com/ru/app/hubex-%D0%B4%D0%BB%D1%8F-%D0%B7%D0%B0%D0%BA%D0%B0%D0%B7%D1%87%D0%B8%D0%BA%D0%B0/id1386631658">для
     iOS</a>. </p>

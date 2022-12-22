@@ -200,7 +200,7 @@ keywords: qr-код, шаблон заявки, скачать QR-код, пас
          src="/attachments/images/FAQ/USER/CreatingTickTemplates/MobEngineer2.jpg"/>
 </div></p>
 
-<p>Зайдите в мобильное приложение заказчика HubEx Customer:</p>
+<p>Зайдите в мобильное приложение <strong>HubEx заказчик</strong>:</p>
 <ul>
     <li>Нажмите кнопку подачи заявки;</li>
     <li>Перед вами откроется список <strong>Объектов</strong>, нажмите кнопку подачи заявки по QR-коду в правом нижнем углу;</li>

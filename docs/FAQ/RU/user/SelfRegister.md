@@ -49,7 +49,7 @@ keywords: qr-код, подача заявки по qr-коду, создать 
         выполнение <strong>Заявок</strong> и подавать новые, нажмите значок <strong>Email</strong> и введите свои
         реальные данные. На указанный адрес
         электронной почты вам придет письмо-подтверждение регистрации, с помощью которого вы создадите себе пароль и
-        сможете пользоваться приложением HubEx Customer. Нажите кнопку <strong>Завершить создание заявки</strong> и
+        сможете пользоваться приложением <strong>HubEx заказчик</strong>. Нажите кнопку <strong>Завершить создание заявки</strong> и
         проверьте свою почту;
     </li>
     <p>
@@ -58,7 +58,7 @@ keywords: qr-код, подача заявки по qr-коду, создать 
              src="/attachments/images/FAQ/USER/SelfRegister/Registrate.jpg"/>
     </div>
     </p>
-    <li>если вы прошли регистрацию в HubEx, скачайте мобильное приложение заказчика HubEx Customer для просмотра
+    <li>если вы прошли регистрацию в HubEx, скачайте мобильное приложение <strong>HubEx заказчик</strong> для просмотра
         выполнения <strong>Заявок</strong> и создания новых: <a
                 href="https://play.google.com/store/apps/details?id=ru.hubex.customer">для Android</a> или <a
                 href="https://apps.apple.com/ru/app/hubex-%D0%B4%D0%BB%D1%8F-%D0%B7%D0%B0%D0%BA%D0%B0%D0%B7%D1%87%D0%B8%D0%BA%D0%B0/id1386631658">для

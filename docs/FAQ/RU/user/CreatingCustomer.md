@@ -22,7 +22,7 @@ keywords: создание заказчика, создание пользова
     С помощью настройки прав доступа для <strong>Заказчика</strong> ограничивается доступ к функционалу системы. Например, заказчик
     сможет видеть только свои <strong>Объекты (оборудование)</strong>, видеть <strong>Заявки</strong> только по своей компании и т.д.
 </p>
-<p>Для Заказчика доступно мобильное приложение заказчика HubEx Customer, которое можно скачать <a
+<p>Для Заказчика доступно мобильное приложение <strong>HubEx заказчик</strong>, которое можно скачать <a
                 href="https://play.google.com/store/apps/details?id=ru.hubex.customer">для Android</a> или <a
                 href="https://apps.apple.com/ru/app/hubex-%D0%B4%D0%BB%D1%8F-%D0%B7%D0%B0%D0%BA%D0%B0%D0%B7%D1%87%D0%B8%D0%BA%D0%B0/id1386631658">для
             iOS</a>.</p>
@@ -82,7 +82,7 @@ keywords: создание заказчика, создание пользова
 <p>Как толкьо пользователь подтвердит свою регистрацию по телефону или электронной почте, он сможет войти в систему
     через мобильное приложение.</p>
 
-<p>Мобильное приложение заказчика HubEx Customer можно скачать <a
+<p>Мобильное приложение <strong>HubEx заказчик</strong> можно скачать <a
         href="https://play.google.com/store/apps/details?id=ru.hubex.customer">для Android</a> или <a
         href="https://apps.apple.com/ru/app/hubex-%D0%B4%D0%BB%D1%8F-%D0%B7%D0%B0%D0%BA%D0%B0%D0%B7%D1%87%D0%B8%D0%BA%D0%B0/id1386631658">для
     iOS</a>. </p>

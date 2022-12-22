@@ -47,7 +47,7 @@ keywords: чат, сообщения по заявке, переписка по 
 <iframe src="https://www.youtube.com/embed/JmMZzkI6o-c" width="100%" height="450px" frameborder="0"
         allowfullscreen="allowfullscreen"></iframe>
 
-<p>Написать сообщение в мобильном приложении инженера и заказчика можно в <strong>Заявке</strong> по нажатию на иконку сообщений в правом верхнем углу.</p>
+<p>Написать сообщение в мобильном приложении исполнителя и заказчика можно в <strong>Заявке</strong> по нажатию на иконку сообщений в правом верхнем углу.</p>
 <div>
     <img style="margin: 0 auto; display: block; max-width: 80%;"
          src="/attachments/images/FAQ/USER/Messages/MobMessage.jpg"/>
@@ -133,7 +133,7 @@ keywords: чат, сообщения по заявке, переписка по 
          src="/attachments/images/FAQ/USER/Messages/Role.jpg"/>
 </div>
 
-<p>В мобильном приложении инженера при переходе к сообщениям <strong>Заявки</strong>, доступны оба чата и между ними можно
+<p>В мобильном приложении исполнителя при переходе к сообщениям <strong>Заявки</strong>, доступны оба чата и между ними можно
     переключаться.</p>
 
 <div>

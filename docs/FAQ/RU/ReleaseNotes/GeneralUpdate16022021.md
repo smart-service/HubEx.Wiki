@@ -19,7 +19,7 @@ keywords:
 <div><img style="margin: 0 auto; display: block; max-width: 100%;" src="https://content.screencast.com/users/echinaek.val/folders/Capture/media/db5f78da-bc99-4260-b702-be20c9b16aaf/LWR_Recording.png" width="700" height="auto" /></div>
 <div>&nbsp;</div>
 <h5>Печать и подпись Акта выполненных работ</h5>
-<p><strong>Акт выполненных работ</strong> формируется на отдельной вкладке в <strong>Заявке</strong>. Теперь Акт доступен и в мобильном приложении инженера: перейдите на вкладку <strong>Акт выполненных работ</strong> и нажмите кнопку <strong>Получить подпись</strong>.&nbsp;</p>
+<p><strong>Акт выполненных работ</strong> формируется на отдельной вкладке в <strong>Заявке</strong>. Теперь Акт доступен и в мобильном приложении исполнителя: перейдите на вкладку <strong>Акт выполненных работ</strong> и нажмите кнопку <strong>Получить подпись</strong>.&nbsp;</p>
 <p><div><img style="margin: 0 auto; display: block; max-width: 100%;" src="https://content.screencast.com/users/echinaek.val/folders/Capture/media/82ba3568-6cac-4db6-890d-86146ab048bc/LWR_Recording.png" width="262" height="457" /></div></p>
 <div>Подпись появится в <strong>Акте выполненных работ</strong> в web-приложении и вы сможете его распечатать!</div>
 <div>&nbsp;</div>

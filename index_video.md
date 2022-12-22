@@ -55,7 +55,7 @@
 <iframe width="560" height="315" src="https://www.youtube.com/embed/RtMhubKi7Jc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <h5 id="engineermob">Мобильное приложение инженера: работа специалиста с мобильного телефона</h5>
-<p>В обучающем видео показан весь функционал работы с мобильным приложением инженера: авторизация в приложении, получение уведомлений, работа с <Strong>Заявками</Strong>, с чек-листами, выполненными работами, общение в чатах, работа с календарем и функционалом "на смене".</p>
+<p>В обучающем видео показан весь функционал работы с мобильным приложением исполнителя: авторизация в приложении, получение уведомлений, работа с <Strong>Заявками</Strong>, с чек-листами, выполненными работами, общение в чатах, работа с календарем и функционалом "на смене".</p>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/JmMZzkI6o-c" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 

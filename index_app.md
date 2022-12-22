@@ -21,10 +21,10 @@
 <h4 style="padding-left: 20px;"><a href="/docs/FAQ/RU/user/MobileDevice.html">Как выбрать мобильное устройство для работы?</a></h4>
 <h4 style="padding-left: 20px;"><a href="/docs/FAQ/RU/user/EnterToMob.html">Вход в мобильное приложение Заказчика и Сотрудника</a></h4>
 <h4 style="padding-left: 20px;"><a href="/docs/FAQ/RU/user/CreatingTicket.html">Создание заявки</a></h4>
-<h4 style="padding-left: 20px;"><a href="/docs/FAQ/RU/user/OfflineMode.html">Работа в мобильном приложении инженера в офлайн режиме</a></h4>
+<h4 style="padding-left: 20px;"><a href="/docs/FAQ/RU/user/OfflineMode.html">Работа в мобильном приложении исполнителя в офлайн режиме</a></h4>
 <h4 style="padding-left: 20px;"><a href="/docs/FAQ/RU/user/ObjectEditing.html">Редактирование данных объекта (оборудования)</a></h4>
 <!--<h4 style="padding-left: 20px;"><a href="/docs/FAQ/RU/user/FloorPlan.html">Планы помещений</a></h4>-->
-<h4 style="padding-left: 20px;"><a href="/docs/FAQ/RU/user/GEOinMob.html">Геолокация в мобильном приложении инженера</a></h4>
+<h4 style="padding-left: 20px;"><a href="/docs/FAQ/RU/user/GEOinMob.html">Геолокация в мобильном приложении исполнителя</a></h4>
 <h4 style="padding-left: 20px;">
     <a href="/docs/FAQ/RU/user/OnDuty.html">Индивидуальный график работы: функционал "На смене"</a><span class="new-badge" title="01.03.2022"></span></h4>
 <h4 style="padding-left: 20px;"><a href="/docs/FAQ/RU/user/AttachingFiles.html">Прикрепление выполненных работ</a></h4>

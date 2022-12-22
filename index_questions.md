@@ -28,7 +28,7 @@
 <h4 style="padding-left: 20px;"><a href="/docs/FAQ/RU/user/SeveralEngineers.html">Как выбрать нескольких исполнителей в заявке?</a></h4>
 <h4 style="padding-left: 20px;"><a href="/docs/FAQ/RU/user/AcceptanceTicket.html">Как исполнителю назначить на себя новую Заявку из общего списка?</a></h4>
 <h4 style="padding-left: 20px;"><a href="/docs/FAQ/RU/user/HowToDealWithWhiteScreen.html">Что делать, если при создании заявки/на некоторой стадии форма заявки пустая?</a></h4>
-<h4 style="padding-left: 20px;"><a href="/docs/FAQ/RU/user/GEOinMob.html">Геолокация в мобильном приложении инженера</a></h4>
+<h4 style="padding-left: 20px;"><a href="/docs/FAQ/RU/user/GEOinMob.html">Геолокация в мобильном приложении исполнителя</a></h4>
 <h4 style="padding-left: 20px;"><a href="/docs/FAQ/RU/user/DeletedObjects.html">Почему нельзя удалить объекты/сотрудников/заявки и т.д. навсегда?</a></h4>
 <h4 style="padding-left: 20px;"><a href="/docs/FAQ/RU/admin/StageVSStatus.html">Чем отличаются Стадии заявки от Статусов заявки?</a></h4>
 <h4 style="padding-left: 20px;"><a href="/docs/FAQ/RU/user/HiddenObjectsTicketsUsers.html">Почему пользователь не видит Заявки/Объекты/Исполнителей?</a></h4>

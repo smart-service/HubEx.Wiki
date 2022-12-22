@@ -17,7 +17,7 @@ keywords: редактировать объект, данные оборудов
 </html>
 <body>
 <h5 id="editing">Редактирование данных Объекта (Оборудования)</h5>
-<p>В мобильном приложении исполнителя и заказчика карточку <strong>Объекта</strong> можно отредактировать. Изменить можно любые данные <strong>Объекта</strong>. Сделать это можно двумя
+<p>В мобильном приложении исполнителя и заказчика карточку <strong>Объекта</strong> можно отредактировать. Сделать это можно двумя
     способами: </p>
 <ol>
     <li>При подаче <strong>Заявки</strong> по QR-коду:
@@ -31,16 +31,15 @@ keywords: редактировать объект, данные оборудов
             </li>
             <li>В паспорте вы можете изменить данные, например, дополнительных полей на вкладке <strong>Характеристики</strong>. На вкладке
                 <strong>Информация по
-                объекту</strong> хранятся основные данные по <strong>Объекту</strong>: вы можете изменить <strong>Класс оборудования</strong>, добавить <strong>Описание</strong>,
-                <strong>Файлы</strong>, изменить <strong>Тип оборудования</strong> нельзя. <strong>Контактные лица</strong> также недоступны для изменения в мобильном
-                приложении.
+                объекту</strong> хранятся основные данные по <strong>Объекту</strong>: вы можете изменить <strong>Класс оборудования</strong>, изменить <strong>Описание</strong>,
+                <strong>Файлы</strong>. Обратите внимание! Нельзя изменить <strong>Тип оборудования</strong> и <strong>Контактные лица</strong>.
             </li>
             <li>После внесения изменений нажмите на галочку в верхнем правом углу.</li>
 
             <p>
             <div>
                 <img style="margin: 0 auto; display: block; max-width: 90%;"
-                     src="/attachments/images/FAQ/USER/ObjectEditing/Passport.jpg"/>
+                     src="/attachments/images/FAQ/USER/ObjectEditing/PassportEditing.jpg"/>
             </div>
             </p>
         </ul>
@@ -53,15 +52,14 @@ keywords: редактировать объект, данные оборудов
             <li>Выберите <strong>Объект</strong>, перед вами откроется <strong>Паспорт объекта</strong>.</li>
             <li>В паспорте вы можете изменить данные дополнительных полей на вкладке <strong>Характеристики</strong>. На вкладке
                 <strong>Информация по
-                объекту</strong> хранятся основные данные по <strong>Объекту</strong>: вы можете изменить <strong>Класс оборудования</strong>, добавить <strong>Описание</strong>,
-                <strong>Файлы</strong>, изменить <strong>Тип оборудования</strong> нельзя. <strong>Контактные лица</strong> также недоступны для изменения в мобильном
-                приложении.
+                объекту</strong> хранятся основные данные по <strong>Объекту</strong>: вы можете изменить <strong>Класс оборудования</strong>, изменить <strong>Описание</strong>,
+                <strong>Файлы</strong>. братите внимание! Нельзя изменить <strong>Тип оборудования</strong> и <strong>Контактные лица</strong>.
             </li>
             <li>После внесения изменений нажмите на галочку в верхнем правом углу.</li>
             <p>
             <div>
                 <img style="margin: 0 auto; display: block; max-width: 90%;"
-                     src="/attachments/images/FAQ/USER/ObjectEditing/Ticket.jpg"/>
+                     src="/attachments/images/FAQ/USER/ObjectEditing/PassportEditing2.jpg"/>
             </div>
             </p>
         </ul>

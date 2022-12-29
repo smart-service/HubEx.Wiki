@@ -9,6 +9,7 @@
      <li><a href="#creatinguser">Как создать пользователя в Hubex;</a></li>
      <li><a href="#tickets">Способы подачи заявки в HubEx;</a></li>
      <li><a href="#engineermob">Мобильное приложение инженера: работа специалиста с мобильного телефона;</a></li>
+     <li><a href="#customermob">Мобильное приложение заказчика. Как заказчику создавать и отслеживать заявки?;</a></li>
      <li><a href="#plannedticket">Как создавать плановые заявки в системе;</a></li>
      <li><a href="#addfields">Как создавать дополнительные поля в HubEx;</a></li>
      <li><a href="#checklists">Чек-листы в HubEx: контролируйте качество работ, обучайте новых сотрудников;</a></li>
@@ -58,6 +59,9 @@
 <p>В обучающем видео показан весь функционал работы с мобильным приложением исполнителя: авторизация в приложении, получение уведомлений, работа с <Strong>Заявками</Strong>, с чек-листами, выполненными работами, общение в чатах, работа с календарем и функционалом "на смене".</p>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/JmMZzkI6o-c" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+<h5 id="customermob">Мобильное приложение заказчика. Как заказчику создавать и отслеживать заявки?</h5>
+<p>В обучающем видео показан функционал работы с мобильным приложением заказчика: работа с <Strong>Заявками</Strong>, подписание акта, общение в чатах. Дополнительно по теме ознакомьтесь со статьей:<a href="https://wiki.hubex.ru/docs/FAQ/RU/user/CustomerApp.html">Работа с заявками в мобильном приложении HubEx заказчик: заявки, акты, оценка исполнителей</a>. </p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TbCdCcZzVdc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <h5 id="plannedticket">Как создавать плановые заявки в системе</h5>
 <p>Дополнительно окзнакомьтесь со статьей <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/PlannedTickets.html">Создание плановой заявки</a>. В статье подробно описан процесс создания и редактирования плановых заявок в web-приложении.</p>

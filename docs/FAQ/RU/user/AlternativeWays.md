@@ -171,7 +171,7 @@ keywords:  hubex, хабекс, хубекс, хабикс
     проблему.</p>
 
 <div>
-    <img style="margin: 0 auto; display: block; max-width: 80%;"
+    <img style="margin: 0 auto; display: block; max-width: 100%;"
          src="/attachments/images/FAQ/USER/AlternativeWays/WebSite.png"/>
 </div>
 

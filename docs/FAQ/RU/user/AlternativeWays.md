@@ -134,20 +134,20 @@ keywords:  hubex, хабекс, хубекс, хабикс
 
 
 <div>
-    <img style="margin: 0 auto; display: block; max-width: 80%;"
+    <img style="margin: 0 auto; display: block; max-width: 60%;"
          src="/attachments/images/FAQ/USER/AlternativeWays/Mail3.jpg"/>
 </div>
 
 <p>После отправки письма, в системе будет создана <strong>Заявка</strong>.</p>
 
 <div>
-    <img style="margin: 0 auto; display: block; max-width: 90%;"
+    <img style="margin: 0 auto; display: block; max-width: 100%;"
          src="/attachments/images/FAQ/USER/AlternativeWays/TicketWeb2.jpg"/>
 </div>
 <p>На почту компания-исполнитель получает уведомление о 
     создании <strong>Заявки</strong> в HubEx и может отправить ответное письмо о том, что <strong>Заявка</strong> принята в работу. Вся переписка через почту для интеграции будет отображаться по <strong>Заявке</strong> во вкладке <strong>Сообщения</strong>. </p>
     <div>
-    <img style="margin: 0 auto; display: block; max-width: 90%;"
+    <img style="margin: 0 auto; display: block; max-width: 100%;"
          src="/attachments/images/FAQ/USER/AlternativeWays/Chat.jpg"/>
 </div>
 

@@ -172,7 +172,7 @@ keywords:  hubex, хабекс, хубекс, хабикс
 
 <div>
     <img style="margin: 0 auto; display: block; max-width: 100%;"
-         src="/attachments/images/FAQ/USER/AlternativeWays/WebSite.png"/>
+         src="/attachments/images/FAQ/USER/AlternativeWays/WebSite.jpg"/>
 </div>
 
 </body>

@@ -50,12 +50,17 @@ keywords: создать объект, оборудование, объект, �
         обслуживания</strong>.
 </p>
 
-<div style="display: flex;">
-    <img style="margin: 0 auto; display: block; max-width: 47%;"
-         src="/attachments/images/FAQ/USER/CreatingObjects/ObjectEmpty.jpg"/> <img
-        style="margin: 0 auto; display: block; max-width: 47%;"
-        src="/attachments/images/FAQ/USER/CreatingObjects/ObjectMain.jpg"/>
+<div>
+    <img style="margin: 0 auto; display: block; max-width: 80%;"
+         src="/attachments/images/FAQ/USER/CreatingObjects/ObjectEmpty.jpg"/>
 </div>
+<p>
+<div>
+    <img style="margin: 0 auto; display: block; max-width: 80%;"
+         src="/attachments/images/FAQ/USER/CreatingObjects/ObjectMain.jpg"/>
+</div>
+</p>
+
 
 <p>Рассмотрим заполнение вкладки <strong>Объекты|Оборудование</strong>:</p>
 <div>

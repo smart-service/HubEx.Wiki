@@ -65,7 +65,7 @@ keywords: создать объект, оборудование, объект, �
 <p>Рассмотрим заполнение вкладки <strong>Объекты|Оборудование</strong>:</p>
 <div>
     <img style="margin: 0 auto; display: block; max-width: 95%;"
-         src="/attachments/images/FAQ/USER/CreatingObjects/111.jpg"/>
+         src="/attachments/images/FAQ/USER/CreatingObjects/Object1.jpg"/>
 </div>
 <ul>
     <li id="parentchild"><strong>Родительский объект</strong>: Объекты отображаются в системе иерархическим списком
@@ -110,7 +110,7 @@ keywords: создать объект, оборудование, объект, �
      <p>
         <div>
             <img style="margin: 0 auto; display: block; max-width: 80%;"
-                 src="/attachments/images/FAQ/USER/CreatingObjects/ХХХХ.png"/>
+                 src="/attachments/images/FAQ/USER/CreatingObjects/Public.jpg"/>
         </div>
         </p>
     <li><strong>Адрес</strong> обязательно указывать для родительских объектов. Дочерний объект может иметь свой
@@ -135,7 +135,7 @@ keywords: создать объект, оборудование, объект, �
         <p>
         <div>
             <img style="margin: 0 auto; display: block; max-width: 80%;"
-                 src="/attachments/images/FAQ/USER/CreatingObjects/obj7.png"/>
+                 src="/attachments/images/FAQ/USER/CreatingObjects/File.jpg"/>
         </div>
         </p>
     </li>

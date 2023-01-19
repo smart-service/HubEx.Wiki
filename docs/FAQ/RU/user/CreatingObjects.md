@@ -54,12 +54,12 @@ keywords: создать объект, оборудование, объект, �
     <img style="margin: 0 auto; display: block; max-width: 80%;"
          src="/attachments/images/FAQ/USER/CreatingObjects/ObjectEmpty.jpg"/>
 </div>
-<p>
+<!--<p>
 <div>
     <img style="margin: 0 auto; display: block; max-width: 80%;"
          src="/attachments/images/FAQ/USER/CreatingObjects/ObjectMain.jpg"/>
 </div>
-</p>
+</p>-->
 
 
 <p>Рассмотрим заполнение вкладки <strong>Объекты|Оборудование</strong>:</p>

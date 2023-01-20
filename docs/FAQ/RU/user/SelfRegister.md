@@ -30,13 +30,19 @@ keywords: qr-код, подача заявки по qr-коду, создать 
 
 <p>Рассмотрим по шагам подачу <strong>Заявки</strong> по QR-коду:</p>
 <ul>
-    <li>отсканируйте QR-код с помощью сканера или камеры телефона;</li>
+    <li>отсканируйте QR-код с помощью программы для сканирования QR-кодов (например, QRBot для iOS) или камеры телефона;</li>
+     <p>
+    <div>
+        <img style="margin: 0 auto; display: block; max-width: 60%;"
+             src="/attachments/images/FAQ/USER/SelfRegister/TicketCreate.jpg"/>
+    </div>
+    </p>
     <li>перед вам откроется паспорт объекта (краткая информация об объекте);</li>
     <li>введите необходимую информацию по заявке и нажмите кнопку <strong>Продолжить</strong>;</li>
     <p>
     <div>
-        <img style="margin: 0 auto; display: block; max-width: 100%;"
-             src="/attachments/images/FAQ/USER/SelfRegister/TicketCreate.jpg"/>
+        <img style="margin: 0 auto; display: block; max-width: 70%;"
+             src="/attachments/images/FAQ/USER/SelfRegister/TicketCreate2.jpg"/>
     </div>
     </p>
     <li>перед вами появится форма для указания каналов связи: если вы подаете <strong>Заявку</strong> разово и вам не

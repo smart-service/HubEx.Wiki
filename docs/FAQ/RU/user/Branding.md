@@ -12,7 +12,7 @@ keywords: брендирование, брэндирование, бренд к�
 <body>
 <p>Брендирование или кастомизация с помощью собственного логотипа доступно для web- и мобильного приложения HubEx.</p>
  <p> <div>
-             <img style="margin: 0 auto; display: block; max-width: 80%;"
+             <img style="margin: 0 auto; display: block; max-width: 90%;"
                   src="/attachments/images/FAQ/USER/Branding/LogoMain.jpg"/>
          </div></p>
           <p> <div>

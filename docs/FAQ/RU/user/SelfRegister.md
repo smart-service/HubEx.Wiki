@@ -33,7 +33,7 @@ keywords: qr-код, подача заявки по qr-коду, создать 
     <li>отсканируйте QR-код с помощью программы для сканирования QR-кодов (например, QRBot для iOS) или камеры телефона;</li>
      <p>
     <div>
-        <img style="margin: 0 auto; display: block; max-width: 40%;"
+        <img style="margin: 0 auto; display: block; max-width: 30%;"
              src="/attachments/images/FAQ/USER/SelfRegister/TicketCreate.jpg"/>
     </div>
     </p>

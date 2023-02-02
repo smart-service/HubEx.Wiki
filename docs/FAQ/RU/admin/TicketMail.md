@@ -181,7 +181,7 @@ keywords: заявки по почте, заявки из почты, подач
 
         <p>
         <div>
-            <img style="margin: 0 auto; display: block; max-width: 85%;"
+            <img style="margin: 0 auto; display: block; max-width: 90%;"
                  src="/attachments/images/FAQ/ADMIN/TicketMail/ServiceUsers.jpg"/>
         </div>
         </p>

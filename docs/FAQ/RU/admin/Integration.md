@@ -72,7 +72,7 @@ keywords: битрикс 24, альбато, albato, интеграция, ин�
         <p>
     <div>
         <img style="margin: 0 auto; display: block; max-width: 90%;"
-             src="/attachments/images/FAQ/ADMIN/Integration/API.jpg"/>
+             src="/attachments/images/FAQ/ADMIN/Integration/API1.jpg"/>
     </div>
     </p>
 

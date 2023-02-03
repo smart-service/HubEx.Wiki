@@ -66,7 +66,7 @@
 
 <h4 style="padding-left: 20px;"><a href="/docs/FAQ/RU/admin/ServiceUsers.html">Служебные пользователи</a></h4>
 <h4 style="padding-left: 20px;"><a href="/docs/FAQ/RU/admin/TicketMail.html">Интеграция по электронной почте, подача заявок по электронной почте</a></h4>
-<h4 style="padding-left: 20px;"><a href="/docs/FAQ/RU/admin/Integration.html">Интеграция с Битрикс24 с помощью Albato</a></h4>
+<h4 style="padding-left: 20px;"><a href="/docs/FAQ/RU/admin/Integration.html">Интеграция с Битрикс24 через сервис Albato</a></h4>
 
 
 ____

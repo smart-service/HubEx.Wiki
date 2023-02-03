@@ -101,6 +101,7 @@ https://wiki.hubex.ru/docs/FAQ/RU/admin/TicketsAgreement.html
 https://wiki.hubex.ru/docs/FAQ/RU/user/OfflineMode.html
 https://wiki.hubex.ru/docs/FAQ/RU/user/CustomerWeb.html
 https://wiki.hubex.ru/docs/FAQ/RU/user/CustomerApp.html
+https://wiki.hubex.ru/docs/FAQ/RU/user/AlternativeWays.html
 
 
 https://wiki.hubex.ru/docs/FAQ/RU/ReleaseNotes/TicketArchives08042020.html

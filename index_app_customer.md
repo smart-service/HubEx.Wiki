@@ -42,7 +42,7 @@ keywords: инструкция для заказчика, клиентский �
 -->
 
 ____
-- [Скачайте инструкцию для заказчика по ссылке](https://disk.yandex.ru/i/Sj4bKyTYVPahfg)
+- [Скачайте инструкцию для заказчика по ссылке](https://smartsrv.sharepoint.com/:b:/s/HubEx/EZwv5lhdFpJPiUnyxizuwNkB_DOoHTFAVIrwSt6EntpbXg?e=be2ABG)
 
 ____
 - [Перейти в меню](http://wiki.hubex.ru)

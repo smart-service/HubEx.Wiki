@@ -143,5 +143,7 @@ https://wiki.hubex.ru/docs/FAQ/RU/ReleaseNotes/ExportFiles21092022.html
 https://wiki.hubex.ru/docs/FAQ/RU/ReleaseNotes/TicketsFilter23092022.html
 https://wiki.hubex.ru/docs/FAQ/RU/ReleaseNotes/PrintedForms04102022.html
 https://wiki.hubex.ru/docs/FAQ/RU/ReleaseNotes/SmsAutorization10102022.html
+https://wiki.hubex.ru/docs/FAQ/RU/ReleaseNotes/DescriptionField23012023.html
+https://wiki.hubex.ru/docs/FAQ/RU/ReleaseNotes/Multiengineers01022023.html 
 https://wiki.hubex.ru/docs/FAQ/RU/ReleaseNotes/EngineerApp.html
 https://wiki.hubex.ru/docs/FAQ/RU/ReleaseNotes/CustomerApp.html

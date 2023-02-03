@@ -20,7 +20,7 @@ keywords:
 <p>При создании или редактировании <strong>Заявки</strong> нажмите кнопку <strong>+Добавить исполнителя</strong>.</p>
 <div><img style="margin: 0 auto; display: block; max-width: 100%;" src="https://i.postimg.cc/jd1typmW/Screenshot-28.png" width="760" height="auto" /></div>
 <p>Установите флажки для тех исполнителей, которых необходимо назначить на <strong>Заявку&nbsp;</strong>и нажмите кнопку <strong>Сохранить</strong>.</p>
-<div><img style="margin: 0 auto; display: block; max-width: 100%;" src="https://i.postimg.cc/g08ZCq8D/Screenshot-29.png" width="758" height="260" /></div>
+<div><img style="margin: 0 auto; display: block; max-width: 100%;" src="https://i.postimg.cc/g08ZCq8D/Screenshot-29.png" width="758" height="auto" /></div>
 
 <p>Выбранные исполнители отобразятся в <strong>Заявке </strong>через запятую. Каждый из указанных сотрудников получит уведомление и может работать с Заявкой в мобильном приложении.</p>
 <div><img style="margin: 0 auto; display: block; max-width: 100%;" src="https://i.postimg.cc/LsKq3YwZ/Screenshot-30.png" width="758" height="auto" /></div>
@@ -29,13 +29,13 @@ keywords:
 <h5>Начначение нескольких исполнителей в мобильном приложении HubEx исполнитель</h5>
 <p>Для сотрудников, работающих в мобильном приложении HubEx исполнитель также доступна функция мультивыбора исполнителей на Заявку.</p>
 <p>Для этого при создании или редактировании Заявки перейдите в раздел выбора исполнителя. По аналогии с web-версией с помощью флажков выберите одного или нескольких исполнителей.</p>
-<div><img style="margin: 0 auto; display: block; max-width: 100%;" src="https://i.postimg.cc/xCHDCzst/1.jpg" width="758" height="auto" /></div>
+<div><img style="margin: 0 auto; display: block; max-width: 100%;" src="https://i.postimg.cc/xCHDCzst/1.jpg" width="558" height="auto" /></div>
 <p>Выбранные исполнители отобразятся в заявке списком.</p>
-<div><img style="margin: 0 auto; display: block; max-width: 100%;" src="https://i.postimg.cc/7Zy9zQx3/Screenshot-33.png" width="330" height="auto" /></div>
+<div><img style="margin: 0 auto; display: block; max-width: 100%;" src="https://i.postimg.cc/7Zy9zQx3/Screenshot-33.png" width="280" height="auto" /></div>
 
 
 
-<p>Предложения по доработкам в системе и сообщениям об ошибках просим отправлять к нам в "чат с поддержкой" в веб-приложении или на почту <a href="mailto:support@hubex.ru" target="_blank" rel="noopener"> support@hubex.ru </a>.</p>
+<p>Предложения по доработкам в системе и сообщениям об ошибках просим отправлять к нам в <strong>Чат с поддержкой</strong> в веб-приложении или на почту <a href="mailto:support@hubex.ru" target="_blank" rel="noopener"> support@hubex.ru </a>.</p>
 
 </body>
 ___

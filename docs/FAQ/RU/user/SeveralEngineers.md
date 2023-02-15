@@ -10,8 +10,8 @@ keywords: бригада рабочих, группа специалистов, 
 <meta charset="utf-8">
 
 <ul>
-    <li><a href="#files">Как выбрать нескольких исполнителей в Заявке с помощью выполненных работ</a>;</li>
-    <li><a href="#childticket">Как выбрать несколько исполнителей с помощью Дочерних заявок</a>.</li>
+    <li><a href="#files">Как выбрать нескольких исполнителей в одной Заявке</a>;</li>
+    <li><a href="#childticket">Как назначить несколько исполнителей с помощью Дочерних заявок</a>.</li>
 
 </ul>
 </html>
@@ -27,10 +27,124 @@ keywords: бригада рабочих, группа специалистов, 
         href="https://wiki.hubex.ru/docs/FAQ/RU/user/CreatingTicket.html">Создание заявки</a>.</p>
 <p>Здесь мы рассмотрим способы выбора нескольких специалистов для работы с <Strong>Заявкой</Strong>:</p>
 <ol>
-    <li id="files">Первый спокоб: с помощью заполнения вкладки <Strong>Выполнение</Strong> в <Strong>Заявке</Strong>.
+    <li id="files">Первый способ: с помощью выбора нескольких исполнителей в <Strong>Заявке</Strong>.
         <p>Данный способ отлично поможет учесть время работы всех специалистов и отразить их трудозатраты в <Strong>Акте
             выполненных работ</Strong>. Сделать это можно как в web-версии, так и в мобильном приложении инженера.</p>
-        <p>Обратите внимание! Добавление выполненных работ на определенной стадии заявки будет зависеть от настройки
+
+        <p>Чтобы выбрать нескольких сотрудников, нажмите кнопку <strong>+Добавить исполнителя</strong>. Перед вами
+            откроется форма выбора
+            исполнителей. Список исполнителей может быть отсортирован по одному из двух вариантов:</p>
+        <ul>
+            <li><strong>По релевантности</strong>: этот вариант сортирует список сотрудников учитывая следующие
+                параметры:
+                <ul>
+                    <li><strong>Вид работ</strong>, указанный в
+                        <strong>Заявке</strong>;
+                    </li>
+                    <li>параметр <strong>Ответственный за объект</strong>, который устанавливается в карточке выбранного
+                        <strong><a
+                                href="https://wiki.hubex.ru/docs/FAQ/RU/user/CreatingObjects.html">Объекта</a></strong>;
+                    </li>
+                    <li>парметры <strong>Участок</strong> и <strong>Навыки</strong>, указанные также в карточке
+                        <strong>Объекта</strong>.
+                    </li>
+                </ul>
+
+                <p>Чем больше указанных параметров в <strong>Заявке</strong> и <strong>Объекте</strong> совпадет с теми,
+                    что
+                    указаны в карточке <strong>Сотрудника</strong>, тем
+                    выше он будет в списке по релевантности.</p>
+            </li>
+            <li><strong>ФИО исполнителя</strong>: этот вариант сортирует список по алфавиту от А до Я.</li>
+
+            <p>
+            <div>
+                <img style="margin: 0 auto; display: block; max-width: 80%;"
+                     src="/attachments/images/FAQ/USER/SeveralEngineers/Sorting.jpg"/>
+            </div>
+            </p>
+
+            <p>Установите флажки слева у нескольких специалистов для назначения их на <strong>Заявку</strong>. Чтобы
+                проверить
+                занятость выбранного сотрудника, нажмите кнопку <strong>Календарь</strong> справа от имени. Календарь
+                занятости будет отображаться в
+                поле справа. Вы можете выбирать любую дату в календаре для просмотра загрузки специалиста. Обратите
+                внимание! Чтобы
+                смотреть загрузку разных специалистов, нажимайте на кнопку <strong>Календарь </strong>рядом с их именем.
+                Когда календарь одного из
+                сотрудников активен, то его кнопка <strong>Календарь</strong> становится синего цвета.</p>
+            <div>
+                <img style="margin: 0 auto; display: block; max-width: 80%;"
+                     src="/attachments/images/FAQ/USER/CreatingTicket/Engineers.jpg"/>
+            </div>
+
+            <p>Каждый из выбранных специалистов получит уведомление о назначении на <strong>Заявку</strong>, сможет
+                добавлять выполненные работы и переводить <strong>Заявку</strong> на стадии в мобильном приложении
+                <strong>HubEx исполнитель</strong>.</p>
+
+            <div>
+                <img style="margin: 0 auto; display: block; max-width: 80%;"
+                     src="/attachments/images/FAQ/USER/CreatingTicket/SeveralEngineers.jpg"/>
+            </div>
+
+            <p>При добавлении новой выполненной работы автоматически будут добавлены выбранные исполнители. Время
+                выполнения заявки для выбранных специалистов будет общим. То есть если вы укажете, что специалисты
+                выполняли работы 2 часа, то в Акте выполненных работ для каждого специалиста будет отражено 2 часа.</p>
+            <p>В web-версии при заполнении выполненных работ также можно указать часовую ставку для исполнителей. Ставки
+                будут
+                умножаться на количество указанных часов, итоговая сумма отразится при <a
+                        href="https://wiki.hubex.ru/docs/FAQ/RU/user/ActOFAcceptance.html">формировании Акта
+                    выполненных
+                    работ</a>. Заполните стоимость <Strong>Вида работ</Strong>, внесите израсходованные материалы,
+                если это
+                необходимо. Стоимость <Strong>Вида работ</Strong> и материалов также отразится в <Strong>Акте
+                    выполненных работ</Strong>.</p>
+            <p>Таким образом вы получите двух специалистов, которые одновременно выполняли работы по
+                <Strong>Заявке</Strong>.</p>
+            <div>
+                <img style="margin: 0 auto; display: block; max-width: 95%;"
+                     src="/attachments/images/FAQ/USER/SeveralEngineers/Works.jpg"/>
+            </div>
+            <p>В результате вы получите <Strong>Акт выполненных работ</Strong> на одну единицу работы и с учетом
+                работы двух
+                специалистов одновременно.</p>
+            <div>
+                <img style="margin: 0 auto; display: block; max-width: 95%;"
+                     src="/attachments/images/FAQ/USER/SeveralEngineers/Act.jpg"/>
+            </div>
+
+
+            </li>
+            <li><p>В мобильном приложении также каждый из исполнителей может со своего устройства добавить выполненную
+                работу. Если работы выполнялись в разное время, то каждый исполнитель может добавить выполненную работу
+                и указать там только свою фамилию. Сделать это можно в <Strong>Заявке</Strong> на стадии <Strong>В
+                    работе</Strong>
+                либо на стадии <Strong>Выполнена</Strong>. В мобильном
+                приложении откройте список заявок (<Strong>Мои</Strong>).</p>
+                <div>
+                    <img style="margin: 0 auto; display: block; max-width: 40%;"
+                         src="/attachments/images/FAQ/USER/SeveralEngineers/MobTicket.jpg"/>
+                </div>
+
+                <p>В <Strong>Заявке</Strong> перейдите на вкладку <Strong>Выполнение</Strong> и добавьте выполненную
+                    работу.</p>
+                <div>
+                    <img style="margin: 0 auto; display: block; max-width: 40%;"
+                         src="/attachments/images/FAQ/USER/SeveralEngineers/MobTicket2.jpg"/>
+                </div>
+                <p>По умолчанию будут в выполненную работу будут добавлены все назначенные исполнители. Каждый
+                    специалист может самостоятельно заполнить свою выполненную работу в своем приложении, если работы
+                    выполнялись неодновременно. Также заполните материалы, если это необходимо. Обратите внимание!
+                    Для роли сервисного специалиста могут быть введены ограничения на установление часовой ставки и
+                    оценки стоимости работы. </p>
+                <div>
+                    <img style="margin: 0 auto; display: block; max-width: 80%;"
+                         src="/attachments/images/FAQ/USER/SeveralEngineers/WorksMob.jpg"/>
+                </div>
+
+            </li>
+        </ul>
+        <!--<p>Обратите внимание! Добавление выполненных работ на определенной стадии заявки будет зависеть от настройки
             ролей. По
             умолчанию добавлять выполненные работы инженеры и диспетчеры могут только на стадии <Strong>В
                 работе</Strong> и <Strong>Выполнена</Strong>.
@@ -44,7 +158,7 @@ keywords: бригада рабочих, группа специалистов, 
                     <img style="margin: 0 auto; display: block; max-width: 95%;"
                          src="/attachments/images/FAQ/USER/SeveralEngineers/ChatChat.jpg"/>
                 </div></p>
-               <p> <div>
+                <p> <div>
                     <img style="margin: 0 auto; display: block; max-width: 95%;"
                          src="/attachments/images/FAQ/USER/SeveralEngineers/Chat2.jpg"/>
                 </div></p>
@@ -60,101 +174,31 @@ keywords: бригада рабочих, группа специалистов, 
                 <div>
                     <img style="margin: 0 auto; display: block; max-width: 95%;"
                          src="/attachments/images/FAQ/USER/SeveralEngineers/AddEngineer.jpg"/>
-                </div>
-                <p>По кнопке <Strong>Добавить исполнителя</Strong> открывается форма выбора, в которой с помощью флажков
-                    можно выбрать
-                    несколько исполнителей сразу и указать их часовую ставку.</p>
-                <div>
-                    <img style="margin: 0 auto; display: block; max-width: 95%;"
-                         src="/attachments/images/FAQ/USER/SeveralEngineers/SelectEngineers.jpg"/>
-                </div>
-                <p>Указать часовую ставку можно также на форме заполнения выполненных работ. Там же заполняется начало и
-                    окончание работы специалистов. Ставки будут
-                    умножаться на количество указанных часов, итоговая сумма отразится при <a
-                            href="https://wiki.hubex.ru/docs/FAQ/RU/user/ActOFAcceptance.html">формировании Акта
-                        выполненных
-                        работ</a>. Заполните стоимость <Strong>Вида работ</Strong>, внесите израсходованные материалы,
-                    если это
-                    необходимо. Стоимость <Strong>Вида работ</Strong> и материалов также отразится в <Strong>Акте
-                        выполненных работ</Strong>.</p>
-                <p>Таким образом вы получите двух специалистов, которые одновременно выполняли работы по
-                    <Strong>Заявке</Strong>.</p>
-                <div>
-                    <img style="margin: 0 auto; display: block; max-width: 95%;"
-                         src="/attachments/images/FAQ/USER/SeveralEngineers/TwoEngineers.jpg"/>
-                </div>
-                <p>В результате вы получите <Strong>Акт выполненных работ</Strong> на одну единицу работы и с учетом
-                    работы двух
-                    специалистов одновременно.</p>
-                <div>
-                    <img style="margin: 0 auto; display: block; max-width: 95%;"
-                         src="/attachments/images/FAQ/USER/SeveralEngineers/Act1.jpg"/>
-                </div>
-
-               <!-- <p>Вы можете выбрать разных специалистов, создав разные выполненные работы внутри заявки. Чтобы создать
-                    выполненную работу для другого специалиста, в правом нижнем углу нажмите кнопку
-                    +Создать работу.</p>
-                <div>
-                    <img style="margin: 0 auto; display: block; max-width: 90%;"
-                         src="/attachments/images/FAQ/USER/SeveralEngineers/AddFile.jpg"/>
-                </div>
-                <p>Выберите следующего специалиста и по аналогии заполните все необходимые поля. Все выполненные работы
-                    располагаются в блоке справа и открываются по щелчку мыши.</p>
-                <div>
-                    <img style="margin: 0 auto; display: block; max-width: 90%;"
-                         src="/attachments/images/FAQ/USER/SeveralEngineers/TwoFiles.jpg"/>
-                </div>
-                <p>Обратите внимание! Добавляя еще одну выполненную работу учитывается также ее стоимость. Вы получите в
-                    <Strong>Акте выполненных работ</Strong> две единицы работы с учетом рабочего времени специалистов.
-                </p>
-                <div>
-                    <img style="margin: 0 auto; display: block; max-width: 90%;"
-                         src="/attachments/images/FAQ/USER/SeveralEngineers/Act2.jpg"/>
                 </div>-->
 
-                <p>Исполнитель, указанный в чате и добавленный в выполненную работу сможет увидеть эту <Strong>Заявку</Strong> у себя в приложении во вкладке <Strong>Все</Strong>.</p>
-                <div>
-                    <img style="margin: 0 auto; display: block; max-width: 40%;"
-                         src="/attachments/images/FAQ/USER/SeveralEngineers/MobAllTickets2.jpg"/>
-                </div>
-            </li>
-            <li><p>В мобильном приложении также каждый из исполнителей может со своего устройства добавить выполненную работу
-                и выбрать нескольких специалистов
-                в
-                одну и ту же заявку, либо также как и в web-версии добавить несколько выполненных работ по каждому
-                специалисту отдельно. Сделать это можно в <Strong>Заявке</Strong> на стадии <Strong>В работе</Strong>
-                либо на стадии <Strong>Выполнена</Strong>. В мобильном
-                приложении откройте список всех заявок. Если заявка была назначена на вас, то откройте список своих
-                заявок.</p>
-                <div>
-                    <img style="margin: 0 auto; display: block; max-width: 40%;"
-                         src="/attachments/images/FAQ/USER/SeveralEngineers/MobAllTickets.jpg"/>
-                </div>
-                <p>Обратите внимание! При
-                    настройке ролей сервисным специалистам могут быть ограничены права на просмотр всех заявок (по
-                    участкам,
-                    компаниям, назначению и т.д.). Если
-                    вы не видите заявку в общем списке, обратитесь к вашему системному администратору или в поддержку
-                    HubEx для
-                    настройки доступа.</p>
-                <p>В <Strong>Заявке</Strong> перейдите на вкладку <Strong>Выполнение</Strong> и добавьте выполненную
-                    работу.</p>
-                <div>
-                    <img style="margin: 0 auto; display: block; max-width: 40%;"
-                         src="/attachments/images/FAQ/USER/SeveralEngineers/MobFile.jpg"/>
-                </div>
-                <p>Укажите несколько специалистов. Далее заполните материалы, если это необходимо. Обратите внимание!
-                    Для роли сервисного специалиста могут быть введены ограничения на установление часовой ставки и
-                    оценки стоимости работы. </p>
-                <div style="display: flex;">
-                    <img style="margin: 0 auto; display: block; max-width: 40%;"
-                         src="/attachments/images/FAQ/USER/SeveralEngineers/MobAddEngineer.jpg"/> <img
-                        style="margin: 0 auto; display: block; max-width: 40%;"
-                        src="/attachments/images/FAQ/USER/SeveralEngineers/MobTwoEngineers.jpg"/>
-                </div>
 
-            </li>
-        </ul>
+        <!-- <p>Вы можете выбрать разных специалистов, создав разные выполненные работы внутри заявки. Чтобы создать
+             выполненную работу для другого специалиста, в правом нижнем углу нажмите кнопку
+             +Создать работу.</p>
+         <div>
+             <img style="margin: 0 auto; display: block; max-width: 90%;"
+                  src="/attachments/images/FAQ/USER/SeveralEngineers/AddFile.jpg"/>
+         </div>
+         <p>Выберите следующего специалиста и по аналогии заполните все необходимые поля. Все выполненные работы
+             располагаются в блоке справа и открываются по щелчку мыши.</p>
+         <div>
+             <img style="margin: 0 auto; display: block; max-width: 90%;"
+                  src="/attachments/images/FAQ/USER/SeveralEngineers/TwoFiles.jpg"/>
+         </div>
+         <p>Обратите внимание! Добавляя еще одну выполненную работу учитывается также ее стоимость. Вы получите в
+             <Strong>Акте выполненных работ</Strong> две единицы работы с учетом рабочего времени специалистов.
+         </p>
+         <div>
+             <img style="margin: 0 auto; display: block; max-width: 90%;"
+                  src="/attachments/images/FAQ/USER/SeveralEngineers/Act2.jpg"/>
+         </div>-->
+
+
     </li>
     <li id="childticket">Второй способ: создание <Strong>Дочерних заявок</Strong>. Подробнее читайте в статье <a
             href="https://wiki.hubex.ru/docs/FAQ/RU/user/ChildTicket.html">Дочерние заявки</a>.
@@ -181,7 +225,7 @@ keywords: бригада рабочих, группа специалистов, 
         </div>
         <p>В мобильном приложении инженера дочерние заявки будут отображаться как обычные <Strong>Заявки</Strong>.</p>
     </li>
-</ol>
+    </ul>
 </body>
 
 

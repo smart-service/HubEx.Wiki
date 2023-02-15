@@ -83,7 +83,7 @@ keywords: бригада рабочих, группа специалистов, 
                 <strong>HubEx исполнитель</strong>.</p>
 
             <div>
-                <img style="margin: 0 auto; display: block; max-width: 80%;"
+                <img style="margin: 0 auto; display: block; max-width: 95%;"
                      src="/attachments/images/FAQ/USER/SeveralEngineers/SeveralEngineers.jpg"/>
             </div>
 

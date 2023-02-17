@@ -39,6 +39,7 @@ https://wiki.hubex.ru/docs/FAQ/RU/user/Export.html
 https://wiki.hubex.ru/docs/FAQ/RU/user/Import.html
 https://wiki.hubex.ru/docs/FAQ/RU/user/Branding.html
 https://wiki.hubex.ru/docs/FAQ/RU/user/Calendar.html
+https://wiki.hubex.ru/docs/FAQ/RU/user/InventoryAccounting.html
 https://wiki.hubex.ru/docs/FAQ/RU/user/Materials.html
 https://wiki.hubex.ru/docs/FAQ/RU/user/Withdrawals.html
 https://wiki.hubex.ru/docs/FAQ/RU/user/TicketWithMaterials.html

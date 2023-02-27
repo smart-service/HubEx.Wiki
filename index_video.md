@@ -9,6 +9,7 @@
      <li><a href="#creatingobject">Как создавать объекты обслуживания в HubEx: способы создания объектов обслуживания, маркировка, паспорт объекта;</a></li>
      <li><a href="#creatinguser">Как создать пользователя в Hubex;</a></li>
      <li><a href="#tickets">Способы подачи заявки в HubEx;</a></li>
+     <li><a href="#ticketsfields">Создание заявки в HubEx: расшифровка и заполнение всех полей на форме заявки;</a></li>
      <li><a href="#engineermob">Мобильное приложение инженера: работа специалиста с мобильного телефона;</a></li>
      <li><a href="#customermob">Мобильное приложение заказчика. Как заказчику создавать и отслеживать заявки?;</a></li>
      <li><a href="#plannedticket">Как создавать плановые заявки в системе;</a></li>
@@ -59,6 +60,10 @@
 <h5 id="tickets">Способы подачи заявки в HubEx</h5>
 <p>В системе HubEx есть несколько способов подачи Заявок - через web и мобильные приложения, с помощью QR-кодов и планировщика работ. Подробнее читайте в статьях: <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/CreatingTicket.html">Создание заявки</a>, <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/CreatingTaskTemplates.html">Создание шаблона заявки, подача заявки по QR-коду</a>, <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/Calendar.html">Календарь заявок</a>.</p>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/RtMhubKi7Jc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<h5 id="ticketsfields">Создание заявки в HubEx: расшифровка и заполнение всех полей на форме заявки</h5>
+<p>В данном видео подробно рассказываем о назначении и правильном заполнении всех полей на форме заявки. Подробнее читайте в статье: <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/CreatingTicket.html">Создание заявки</a>.</p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oc8QgdcuPoU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <h5 id="engineermob">Мобильное приложение инженера: работа специалиста с мобильного телефона</h5>
 <p>В обучающем видео показан весь функционал работы с мобильным приложением исполнителя: авторизация в приложении, получение уведомлений, работа с <Strong>Заявками</Strong>, с чек-листами, выполненными работами, общение в чатах, работа с календарем и функционалом "на смене".</p>

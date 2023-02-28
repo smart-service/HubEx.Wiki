@@ -52,8 +52,8 @@ keywords: создать заявку, подать заявку, заявка �
 <iframe src="https://www.youtube.com/embed/oc8QgdcuPoU" width="100%" height="450px" frameborder="0"
         allowfullscreen="allowfullscreen"></iframe>
 
-<details><summary>Дополнительно ознакомьтесь с видеороликом <strong>Способы подачи заявки в HubEx</strong>.</summary><iframe src="https://www.youtube.com/embed/RtMhubKi7Jc" width="100%" height="450px" frameborder="0"
-        allowfullscreen="allowfullscreen"></iframe></details>
+<p><details><summary>Нажмите на стрелку слева, чтобы открыть и посмотреть дополнительный видеоролик <strong>Способы подачи заявки в HubEx</strong>.</summary><iframe src="https://www.youtube.com/embed/RtMhubKi7Jc" width="100%" height="450px" frameborder="0"
+        allowfullscreen="allowfullscreen"></iframe></details></p>
 
 
 <p>Создать <strong>Заявку</strong> можно в меню <strong>Заявки - Все заявки</strong>. В списке будут находиться

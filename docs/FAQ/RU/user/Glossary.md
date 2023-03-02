@@ -8,6 +8,7 @@ keywords: термины, определения, заказчик, исполн
 
 <body>
 <p>В данной статье представлены основные термины и определения HubEx.</p>
+<p></p>
 
 <table style="border-collapse: collapse; width: 100%; height: 180px;" border="1">
     <tbody>

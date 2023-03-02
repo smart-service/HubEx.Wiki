@@ -249,7 +249,7 @@ keywords: термины, определения, заказчик, исполн
     <tr style="height: 18px;">
         <td style="width: 50%; height: 18px;"><strong>Участок</strong></td>
         <td style="width: 50%; height: 18px;">
-            <p><strong>Участок</strong> – классификация <a href="#object">объектов</a>, <a href="tickettype">типов
+            <p><strong>Участок</strong> – классификация <a href="#object">объектов</a>, <a href="#tickettype">типов
                 заявок</a>, <a href="#engineers">сотрудников</a>, <a href="#customers">заказчиков</a> по различным критериям:
                 географическим, функциональным и т.д.</p>
             <p>С помощью настройки ролей по участкам можно разграничить доступ сотрудников и заказчиков к работе с

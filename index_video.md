@@ -78,7 +78,7 @@
 <iframe width="560" height="315" src="https://www.youtube.com/embed/S9YxwQzZ2o4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <h5 id="addfields">Как создавать дополнительные поля в HubEx</h5>
-<p>Процессы создания дополнительных полейтакже подробно описаны в статьях <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/AdditionalFields.html">Создание дополнительных полей в заявке</a> и <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/AdditionalFieldsObject.htmll">Создание дополнительных полей в объекте</a>.</p>
+<p>Процессы создания дополнительных полейтакже подробно описаны в статьях <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/AdditionalFields.html">Создание дополнительных полей для заявки</a> и <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/AdditionalFieldsObject.htmll">Создание дополнительных полей для объекта</a>.</p>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1hRsaFz_sEQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 

@@ -269,7 +269,7 @@ keywords: заявки по почте, заявки из почты, подач
                 <p>Например, настройка частичных выражений может выглядеть следующим образом (на скриншоте представлена частичная настройка).</p>
  <p>
         <div>
-            <img style="margin: 0 auto; display: block; max-width: 70%;"
+            <img style="margin: 0 auto; display: block; max-width: 60%;"
                  src="/attachments/images/FAQ/ADMIN/TicketMail/RegularPhrase.jpg"/>
         </div>
         </p>

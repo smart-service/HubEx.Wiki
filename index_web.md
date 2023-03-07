@@ -76,6 +76,7 @@
     <a href="/docs/FAQ/RU/user/Checklists.html">Чек-листы</a></h4>
 <h4 style="padding-left: 20px;">
     <a href="/docs/FAQ/RU/user/AttachingFiles.html">Прикрепление выполненных работ</a></h4>
+<h4 style="padding-left: 20px;"><a href="/docs/FAQ/RU/user/AdditionalFieldsWorks.html">Создание дополнительных полей для выполненных работ</a><span class="new-badge" title="07.03.2023"></span></h4>
 <h4 style="padding-left: 20px;">
     <a href="/docs/FAQ/RU/user/ChangingStatus.html">Переход заявки по стадиям и удаление заявки</a></h4>
 

@@ -56,17 +56,17 @@
 <h4 style="padding-left: 20px;">
     <a href="/docs/FAQ/RU/user/ChildTicket.html">Дочерние заявки</a></h4>
 <h4 style="padding-left: 20px;">
-    <a href="/docs/FAQ/RU/user/FloorPlan.html">Планы помещений</a><span class="new-badge" title="28.06.2022"></span></h4>
+    <a href="/docs/FAQ/RU/user/FloorPlan.html">Планы помещений</a></h4>
 <h4 style="padding-left: 20px;">
     <a href="/docs/FAQ/RU/user/ActOFAcceptance.html">Акт выполненных работ</a></h4>
 <h4 style="padding-left: 20px;">
     <a href="/docs/FAQ/RU/user/Schedule.html">График работы исполнителей</a></h4>
 <h4 style="padding-left: 20px;">
-    <a href="/docs/FAQ/RU/user/OnDuty.html">Индивидуальный график работы: функционал "На смене"</a><span class="new-badge" title="01.03.2022"></span></h4>
+    <a href="/docs/FAQ/RU/user/OnDuty.html">Индивидуальный график работы: функционал "На смене"</a></h4>
 <h4 style="padding-left: 20px;">
     <a href="/docs/FAQ/RU/user/PlannedTickets.html">Создание плановой заявки</a></h4>
 <h4 style="padding-left: 20px;">
-    <a href="/docs/FAQ/RU/user/PlannedTicketsSchedule.html">График обслуживания объектов</a><span class="new-badge" title="29.09.2022"></span></h4>
+    <a href="/docs/FAQ/RU/user/PlannedTicketsSchedule.html">График обслуживания объектов</a></h4>
 <h4 style="padding-left: 20px;">
     <a href="/docs/FAQ/RU/user/AdditionalFields.html">Создание дополнительных полей в заявке</a></h4>
 

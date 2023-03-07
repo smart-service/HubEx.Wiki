@@ -70,6 +70,7 @@ keywords: дополнительные поля в заявке, дополни�
              src="/attachments/images/FAQ/USER/AdditionalFields/AccessRights.jpg"/>
     </div></p>
  
+</ol>
 
     <h5 id="createtickwithaddfield">Создание заявки с использованием дополнительных полей</h5>
 
@@ -90,7 +91,7 @@ keywords: дополнительные поля в заявке, дополни�
              src="/attachments/images/FAQ/USER/AdditionalFields/ADDFieldMob.PNG"/>
     </div>
 
-</ol>
+
 </body>
 
 

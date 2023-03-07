@@ -15,6 +15,7 @@ https://wiki.hubex.ru/docs/FAQ/RU/user/OnDuty.html
 https://wiki.hubex.ru/docs/FAQ/RU/user/PlannedTickets.html
 https://wiki.hubex.ru/docs/FAQ/RU/user/PlannedTicketsSchedule.html
 https://wiki.hubex.ru/docs/FAQ/RU/user/AdditionalFields.html
+https://wiki.hubex.ru/docs/FAQ/RU/user/AdditionalFieldsWorks.html
 https://wiki.hubex.ru/docs/FAQ/RU/user/ChangingStatus.html
 https://wiki.hubex.ru/docs/FAQ/RU/user/Filters.html
 https://wiki.hubex.ru/docs/FAQ/RU/user/ElectedTicket.html

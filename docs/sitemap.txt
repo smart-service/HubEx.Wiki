@@ -106,6 +106,7 @@ https://wiki.hubex.ru/docs/FAQ/RU/user/CustomerWeb.html
 https://wiki.hubex.ru/docs/FAQ/RU/user/CustomerApp.html
 https://wiki.hubex.ru/docs/FAQ/RU/user/AlternativeWays.html
 https://wiki.hubex.ru/docs/FAQ/RU/user/Glossary.html
+https://wiki.hubex.ru/docs/FAQ/RU/user/Contacts.html
 
 
 https://wiki.hubex.ru/docs/FAQ/RU/ReleaseNotes/TicketArchives08042020.html

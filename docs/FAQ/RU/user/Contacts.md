@@ -199,6 +199,8 @@ keywords: контакты, контактные лица, телефон для
     <li><strong>Удаление контактов</strong>: включение полномочия позволит пользователю удалять контактные лица.</li>
 </ul>
 
+<p>Подробнее читайте в статье: <a href="https://wiki.hubex.ru/docs/FAQ/RU/admin/Roles.html">Настройка ролей</a>.</p>
+
 <p><div>
     <img style="margin: 0 auto; display: block; max-width: 95%;"
          src="/attachments/images/FAQ/USER/Contacts/Role.jpg"/>

@@ -41,43 +41,43 @@ keywords: контакты, контактные лица, телефон для
         вкладке <strong>Компания</strong> нажмите кнопку <strong>+Добавить контактное лицо</strong>;
     </li>
 
-    <div>
+   <p> <div>
         <img style="margin: 0 auto; display: block; max-width: 95%;"
              src="/attachments/images/FAQ/USER/Contacts/Company.jpg"/>
-    </div>
+    </div></p>
 
     <p>Обратите внимание! Если щелкнуть на появившуюся строку, то перед вами откроется список всех уже созданных ранее
         контактных лиц: можно выбрать
         ранее созданный контакт или создать новый.</p>
-    <div>
+    <p><div>
         <img style="margin: 0 auto; display: block; max-width: 95%;"
              src="/attachments/images/FAQ/USER/Contacts/Contacts.jpg"/>
-    </div>
+    </div></p>
 
     <li>чтобы создать новый контакт, нажмите на кнопку <strong>+</strong> в конце строки или кнопку
         <strong>Создать+</strong> (внизу выпадающего списка созданных контактов);
     </li>
-    <div>
+   <p> <div>
         <img style="margin: 0 auto; display: block; max-width: 95%;"
              src="/attachments/images/FAQ/USER/Contacts/Contacts2.jpg"/>
-    </div>
+    </div></p>
 
     <li>заполните необходимую информацию: обязательными полями для заполнения являются <strong>ФИО</strong> и <strong>Телефон</strong>;
     </li>
     <li>нажмите кнопку <strong>Сохранить</strong>, чтобы сохранить контактное лицо;</li>
 
-    <div>
+   <p> <div>
         <img style="margin: 0 auto; display: block; max-width: 95%;"
              src="/attachments/images/FAQ/USER/Contacts/Contacts3.jpg"/>
-    </div>
+    </div></p>
 
     <li>нажмите кнопку <strong>Сохранить</strong>, чтобы сохранить карточку <strong>Компании</strong> с указанным
         контактным лицом.
     </li>
-    <div>
+   <p> <div>
         <img style="margin: 0 auto; display: block; max-width: 95%;"
              src="/attachments/images/FAQ/USER/Contacts/Contacts4.jpg"/>
-    </div>
+    </div></p>
 </ul>
 
 <p>В каждую карточку <strong>Компании</strong> можно добавить несколько контактных лиц.</p>
@@ -103,10 +103,10 @@ keywords: контакты, контактные лица, телефон для
     </li>
     <li>перейдите на вкладку <strong>Контакты</strong>;</li>
 
-    <div>
+  <p>  <div>
         <img style="margin: 0 auto; display: block; max-width: 95%;"
              src="/attachments/images/FAQ/USER/Contacts/Object.jpg"/>
-    </div>
+    </div></p>
 
     <p>Обратите внимание! Если щелкнуть на появившуюся строку, то перед вами откроется список всех уже созданных ранее
         контактных лиц: можно выбрать
@@ -119,27 +119,27 @@ keywords: контакты, контактные лица, телефон для
     <li>чтобы создать новый контакт, нажмите на кнопку <strong>+</strong> в конце строки или кнопку
         <strong>Создать+</strong> (внизу выпадающего списка созданных контактов);
     </li>
-    <div>
+    <p><div>
         <img style="margin: 0 auto; display: block; max-width: 95%;"
              src="/attachments/images/FAQ/USER/Contacts/Object3.jpg"/>
-    </div>
+    </div></p>
 
     <li>заполните необходимую информацию: обязательными полями для заполнения являются <strong>ФИО</strong> и <strong>Телефон</strong>;
     </li>
     <li>нажмите кнопку <strong>Сохранить</strong>, чтобы сохранить контактное лицо;</li>
 
-    <div>
+   <p> <div>
         <img style="margin: 0 auto; display: block; max-width: 95%;"
              src="/attachments/images/FAQ/USER/Contacts/Object4.jpg"/>
-    </div>
+    </div></p>
 
     <li>нажмите кнопку <strong>Сохранить</strong>, чтобы сохранить карточку <strong>Объекта</strong> с указанным
         контактным лицом.
     </li>
-    <div>
+   <p> <div>
         <img style="margin: 0 auto; display: block; max-width: 95%;"
              src="/attachments/images/FAQ/USER/Contacts/Object5.jpg"/>
-    </div>
+    </div></p>
 </ul>
 
 <p>В каждую карточку <strong>Объекта</strong> можно добавить несколько контактных лиц.</p>
@@ -199,10 +199,10 @@ keywords: контакты, контактные лица, телефон для
     <li><strong>Удаление контактов</strong>: включение полномочия позволит пользователю удалять контактные лица.</li>
 </ul>
 
-<div>
+<p><div>
     <img style="margin: 0 auto; display: block; max-width: 95%;"
          src="/attachments/images/FAQ/USER/Contacts/Role.jpg"/>
-</div>
+</div></p>
 
 <p>Подробнее читайте в статье: <a href="https://wiki.hubex.ru/docs/FAQ/RU/admin/Roles.html">Настройка ролей</a>.</p>
 

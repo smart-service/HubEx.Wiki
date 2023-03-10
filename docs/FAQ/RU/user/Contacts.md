@@ -206,7 +206,7 @@ keywords: контакты, контактные лица, телефон для
          src="/attachments/images/FAQ/USER/Contacts/Role.jpg"/>
 </div></p>
 
-<p>Подробнее читайте в статье: <a href="https://wiki.hubex.ru/docs/FAQ/RU/admin/Roles.html">Настройка ролей</a>.</p>
+
 
 <h5 id="settings">Настройка доступа к контактам для формы Заявки</h5>
 <p>С формы <strong>Заявки</strong> можно скрыть видимость поля <strong>Контакты по заказчику и

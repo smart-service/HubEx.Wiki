@@ -42,7 +42,7 @@ keywords: контакты, контактные лица, телефон для
     </li>
 
     <div>
-        <img style="margin: 0 auto; display: block; max-width: 80%;"
+        <img style="margin: 0 auto; display: block; max-width: 95%;"
              src="/attachments/images/FAQ/USER/Contacts/Company.jpg"/>
     </div>
 
@@ -50,7 +50,7 @@ keywords: контакты, контактные лица, телефон для
         контактных лиц: можно выбрать
         ранее созданный контакт или создать новый.</p>
     <div>
-        <img style="margin: 0 auto; display: block; max-width: 80%;"
+        <img style="margin: 0 auto; display: block; max-width: 95%;"
              src="/attachments/images/FAQ/USER/Contacts/Contacts.jpg"/>
     </div>
 
@@ -58,7 +58,7 @@ keywords: контакты, контактные лица, телефон для
         <strong>Создать+</strong> (внизу выпадающего списка созданных контактов);
     </li>
     <div>
-        <img style="margin: 0 auto; display: block; max-width: 80%;"
+        <img style="margin: 0 auto; display: block; max-width: 95%;"
              src="/attachments/images/FAQ/USER/Contacts/Contacts2.jpg"/>
     </div>
 
@@ -67,7 +67,7 @@ keywords: контакты, контактные лица, телефон для
     <li>нажмите кнопку <strong>Сохранить</strong>, чтобы сохранить контактное лицо;</li>
 
     <div>
-        <img style="margin: 0 auto; display: block; max-width: 80%;"
+        <img style="margin: 0 auto; display: block; max-width: 95%;"
              src="/attachments/images/FAQ/USER/Contacts/Contacts3.jpg"/>
     </div>
 
@@ -75,7 +75,7 @@ keywords: контакты, контактные лица, телефон для
         контактным лицом.
     </li>
     <div>
-        <img style="margin: 0 auto; display: block; max-width: 80%;"
+        <img style="margin: 0 auto; display: block; max-width: 95%;"
              src="/attachments/images/FAQ/USER/Contacts/Contacts4.jpg"/>
     </div>
 </ul>
@@ -83,7 +83,7 @@ keywords: контакты, контактные лица, телефон для
 <p>В каждую карточку <strong>Компании</strong> можно добавить несколько контактных лиц.</p>
 <p>Если необходимо изменить данные у контактного лица, то нажмите кнопку <strong>Редактировать</strong>.</p>
 <div>
-    <img style="margin: 0 auto; display: block; max-width: 80%;"
+    <img style="margin: 0 auto; display: block; max-width: 95%;"
          src="/attachments/images/FAQ/USER/Contacts/Contacts5.jpg"/>
 </div>
 
@@ -104,7 +104,7 @@ keywords: контакты, контактные лица, телефон для
     <li>перейдите на вкладку <strong>Контакты</strong>;</li>
 
     <div>
-        <img style="margin: 0 auto; display: block; max-width: 80%;"
+        <img style="margin: 0 auto; display: block; max-width: 95%;"
              src="/attachments/images/FAQ/USER/Contacts/Object.jpg"/>
     </div>
 
@@ -112,7 +112,7 @@ keywords: контакты, контактные лица, телефон для
         контактных лиц: можно выбрать
         ранее созданный контакт или создать новый.</p>
     <div>
-        <img style="margin: 0 auto; display: block; max-width: 80%;"
+        <img style="margin: 0 auto; display: block; max-width: 95%;"
              src="/attachments/images/FAQ/USER/Contacts/Object2.jpg"/>
     </div>
 
@@ -120,7 +120,7 @@ keywords: контакты, контактные лица, телефон для
         <strong>Создать+</strong> (внизу выпадающего списка созданных контактов);
     </li>
     <div>
-        <img style="margin: 0 auto; display: block; max-width: 80%;"
+        <img style="margin: 0 auto; display: block; max-width: 95%;"
              src="/attachments/images/FAQ/USER/Contacts/Object3.jpg"/>
     </div>
 
@@ -129,7 +129,7 @@ keywords: контакты, контактные лица, телефон для
     <li>нажмите кнопку <strong>Сохранить</strong>, чтобы сохранить контактное лицо;</li>
 
     <div>
-        <img style="margin: 0 auto; display: block; max-width: 80%;"
+        <img style="margin: 0 auto; display: block; max-width: 95%;"
              src="/attachments/images/FAQ/USER/Contacts/Object4.jpg"/>
     </div>
 
@@ -137,7 +137,7 @@ keywords: контакты, контактные лица, телефон для
         контактным лицом.
     </li>
     <div>
-        <img style="margin: 0 auto; display: block; max-width: 80%;"
+        <img style="margin: 0 auto; display: block; max-width: 95%;"
              src="/attachments/images/FAQ/USER/Contacts/Object5.jpg"/>
     </div>
 </ul>
@@ -145,7 +145,7 @@ keywords: контакты, контактные лица, телефон для
 <p>В каждую карточку <strong>Объекта</strong> можно добавить несколько контактных лиц.</p>
 <p>Если необходимо изменить данные у контактного лица, то нажмите кнопку <strong>Редактировать</strong>.</p>
 <div>
-    <img style="margin: 0 auto; display: block; max-width: 80%;"
+    <img style="margin: 0 auto; display: block; max-width: 95%;"
          src="/attachments/images/FAQ/USER/Contacts/Object6.jpg"/>
 </div>
 
@@ -200,7 +200,7 @@ keywords: контакты, контактные лица, телефон для
 </ul>
 
 <div>
-    <img style="margin: 0 auto; display: block; max-width: 80%;"
+    <img style="margin: 0 auto; display: block; max-width: 95%;"
          src="/attachments/images/FAQ/USER/Contacts/Role.jpg"/>
 </div>
 
@@ -215,7 +215,7 @@ keywords: контакты, контактные лица, телефон для
             href="https://wiki.hubex.ru/docs/FAQ/RU/admin/ElementsOfInterface.html">Поля на
         форме заявки: настройка доступа к полям заявки</a>.</p>
 <div>
-    <img style="margin: 0 auto; display: block; max-width: 80%;"
+    <img style="margin: 0 auto; display: block; max-width: 95%;"
          src="/attachments/images/FAQ/USER/Contacts/Fields.jpg"/>
 </div>
 

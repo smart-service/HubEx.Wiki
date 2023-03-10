@@ -98,7 +98,8 @@
     <a href="/docs/FAQ/RU/user/Rating.html">Оценка заявок и рейтинг сотрудников</a></h4>
 <h4 style="padding-left: 20px;">
     <a href="/docs/FAQ/RU/user/HistoryOfChanges.html">История изменений заявки</a></h4>
-    <h4 style="padding-left: 20px;">
+
+<h4 style="padding-left: 20px;">
     <a href="/docs/FAQ/RU/user/Contacts.html">Контактные лица</a><span class="new-badge" title="10.03.2023"></span></h4>
 
 ### Маркировка оборудования и подача заявок с помощью QR-кодов

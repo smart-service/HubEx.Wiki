@@ -129,31 +129,24 @@
     <a href="/docs/FAQ/RU/user/TicketsReport.html">Срез по заявкам</a>
 </h4>
 <h4 style="padding-left: 20px;">
-    <a href="/docs/FAQ/RU/user/ClientsAnalitics.html">Отчет для клиента</a> <span class="new-badge" title="02.06.2021"></span>
-</h4>
+    <a href="/docs/FAQ/RU/user/ClientsAnalitics.html">Отчет для клиента</a></h4>
 
 <h4 style="padding-left: 20px;">
-    <a href="/docs/FAQ/RU/user/ObjectsAnalitics.html">Отчет по объектам</a> <span class="new-badge" title="07.07.2021"></span>
-</h4>
+    <a href="/docs/FAQ/RU/user/ObjectsAnalitics.html">Отчет по объектам</a></h4>
 
 <h4 style="padding-left: 20px;">
-    <a href="/docs/FAQ/RU/user/EngineersAnalytics.html">Отчет по сотрудникам</a> <span class="new-badge" title="02.06.2021"></span>
-</h4>
+    <a href="/docs/FAQ/RU/user/EngineersAnalytics.html">Отчет по сотрудникам</a></h4>
 
 <h4 style="padding-left: 20px;">
-    <a href="/docs/FAQ/RU/user/ProcessEfficiency.html">Анализ эффективности процессов</a> <span class="new-badge" title="22.12.2021"></span>
-</h4>
+    <a href="/docs/FAQ/RU/user/ProcessEfficiency.html">Анализ эффективности процессов</a></h4>
 
 
 ### Печатные формы
 Формируйте отчеты в виде печатных форм. Данные о трудозатратах, выполненных работах и использованных материалах можно собирать по конкретным заказчикам. Такие формы можно выгружать в сторонние системы или сразу отправлять на печать. 
 
-<h4 style="padding-left: 20px;"><a href="/docs/FAQ/RU/user/PrintedFormAct.html">Сервисный акт</a><span class="new-badge" title="29.09.2022"></span>
-</h4>
-<h4 style="padding-left: 20px;"><a href="/docs/FAQ/RU/user/PrintedFormActOfAccounting.html">Бухгалтерский акт</a><span class="new-badge" title="29.09.2022"></span>
-</h4>
-<h4 style="padding-left: 20px;"><a href="/docs/FAQ/RU/user/PaymentInvoice.html">Счет на оплату</a><span class="new-badge" title="29.09.2022"></span>
-</h4>
+<h4 style="padding-left: 20px;"><a href="/docs/FAQ/RU/user/PrintedFormAct.html">Сервисный акт</a></h4>
+<h4 style="padding-left: 20px;"><a href="/docs/FAQ/RU/user/PrintedFormActOfAccounting.html">Бухгалтерский акт</a><</h4>
+<h4 style="padding-left: 20px;"><a href="/docs/FAQ/RU/user/PaymentInvoice.html">Счет на оплату</a></h4>
 
 
 ### Карты

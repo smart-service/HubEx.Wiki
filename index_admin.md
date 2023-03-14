@@ -17,7 +17,7 @@
 
 ### Глоссарий терминов
 Глоссарий терминов служит справочным пособием для пользователей. С его помощью пользователю будет легко разобраться в терминах и определениях HubEx.
-<h4 style="padding-left: 20px;"><a href="/docs/FAQ/RU/user/Glossary.html">Глоссарий терминов</a></h4>
+<h4 style="padding-left: 20px;"><a href="/docs/FAQ/RU/user/Glossary.html">Глоссарий терминов</a><span class="new-badge" title="14.03.2023"></span></h4>
 
 
 ### Консоль администратора в HubEx

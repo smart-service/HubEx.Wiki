@@ -36,7 +36,7 @@
 <h4 style="padding-left: 20px;"><a href="/docs/FAQ/RU/admin/Places.html">Настройка участков</a></h4>
 <h4 style="padding-left: 20px;"><a href="/docs/FAQ/RU/admin/ObjectsType.html">Типы оборудования</a></h4>
 <h4 style="padding-left: 20px;"><a href="/docs/FAQ/RU/admin/Skills.html">Навыки</a></h4>
-<h4 style="padding-left: 20px;"><a href="/docs/FAQ/RU/admin/ObjectClass.html">Классы оборудования</a><span class="new-badge" title="05.02.2020"></span></h4>
+<h4 style="padding-left: 20px;"><a href="/docs/FAQ/RU/admin/ObjectClass.html">Классы оборудования</a></h4>
 
 ### Настройки заявки
 В данном разделе собраны основные настройки для работы с заявками: создание и настройка типов заявок, стадий, жизненных циклов, доступ к полям на форме заявки и т.д. 
@@ -49,12 +49,16 @@
 <h4 style="padding-left: 20px;"><a href="/docs/FAQ/RU/admin/RulesOfChoice.html">Правила автоназначения исполнителя</a></h4>
 <h4 style="padding-left: 20px;"><a href="/docs/FAQ/RU/user/RulesOfChoiceGEO.html">Автоназначение на ближайшего исполнителя</a></h4>
 <h4 style="padding-left: 20px;"><a href="/docs/FAQ/RU/admin/StageType.html">Стадии заявки</a></h4>
-<h4 style="padding-left: 20px;"><a href="/docs/FAQ/RU/admin/ElementsOfInterface.html">Поля на форме заявки: настройка доступа к полям заявки</a><span class="updated-badge" title="21.01.2021"></span></h4>
+<h4 style="padding-left: 20px;"><a href="/docs/FAQ/RU/admin/ElementsOfInterface.html">Поля на форме заявки: настройка доступа к полям заявки</a></h4>
 <h4 style="padding-left: 20px;"><a href="/docs/FAQ/RU/admin/TicketLifeCycle.html">Жизненный цикл заявки</a></h4>
-<h4 style="padding-left: 20px;"><a href="/docs/FAQ/RU/admin/TicketsAgreement.html">Согласование заявок: линейное и параллельное согласование</a><span class="updated-badge" title="15.12.2021"></span></h4>
+<h4 style="padding-left: 20px;"><a href="/docs/FAQ/RU/admin/TicketsAgreement.html">Согласование заявок: линейное и параллельное согласование</a></h4>
 <h4 style="padding-left: 20px;"><a href="/docs/FAQ/RU/admin/CustomerAgreement.html">Согласование с заказчиком: жизненный цикл, стадии согласования, уведомления</a></h4>
 <h4 style="padding-left: 20px;"><a href="/docs/FAQ/RU/admin/BusinessProcess.html">Базовый бизнес-процесс для заявки</a></h4>
 <h4 style="padding-left: 20px;"><a href="/docs/FAQ/RU/admin/SLA.html">SLA - Правила расчета крайнего срока закрытия заявки</a></h4>
+
+
+<!--Для плашки UPD для статей <span class="updated-badge" title="15.12.2021"></span>-->
+
 
 ### Настройки оповещений
 Оповещения позволят вам быть в курсе происходящего. Настройте отправку email или push-уведомлений о событиях, происходящих с вашими заявками.

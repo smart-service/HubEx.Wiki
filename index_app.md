@@ -30,7 +30,7 @@
 <!--<h4 style="padding-left: 20px;"><a href="/docs/FAQ/RU/user/FloorPlan.html">Планы помещений</a></h4>-->
 <h4 style="padding-left: 20px;"><a href="/docs/FAQ/RU/user/GEOinMob.html">Геолокация в мобильном приложении исполнителя</a></h4>
 <h4 style="padding-left: 20px;">
-    <a href="/docs/FAQ/RU/user/OnDuty.html">Индивидуальный график работы: функционал "На смене"</a><span class="new-badge" title="01.03.2022"></span></h4>
+    <a href="/docs/FAQ/RU/user/OnDuty.html">Индивидуальный график работы: функционал "На смене"</a></h4>
 <h4 style="padding-left: 20px;"><a href="/docs/FAQ/RU/user/AttachingFiles.html">Прикрепление выполненных работ</a></h4>
 <h4 style="padding-left: 20px;"><a href="/docs/FAQ/RU/user/Withdrawals.html">Расход материалов по заявке, отчет по расходу</a></h4>
 <h4 style="padding-left: 20px;"><a href="/docs/FAQ/RU/user/ActOFAcceptance.html">Акт выполненных работ</a></h4>

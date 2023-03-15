@@ -261,7 +261,7 @@ keywords:  hubex, хабекс, хубекс, хабикс
 
 <p>Вернемся на главную страницу <Strong>Отчета по объектам</Strong> и продолжим рассматривать оставшиеся диаграммы и карту географии <Strong>Объектов</Strong>. Для возврата к первой странице нажмите кнопку <Strong>Назад</Strong> (синяя стрелка).</p>
 <div>
-    <img style="margin: 0 auto; display: block; max-width: 80%;"
+    <img style="margin: 0 auto; display: block; max-width: 95%;"
          src="/attachments/images/FAQ/USER/ObjectsAnalitics/Button.jpg"/>
 </div>
 

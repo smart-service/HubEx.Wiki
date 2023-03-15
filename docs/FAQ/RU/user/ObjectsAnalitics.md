@@ -247,7 +247,7 @@ keywords:  hubex, хабекс, хубекс, хабикс
 </ul>
 <p>Выбрать показательможно по кнопке <Strong>Открыть меню визуализации</Strong> (синяя шестеренка).</p>
 <div>
-    <img style="margin: 0 auto; display: block; max-width: 75%;"
+    <img style="margin: 0 auto; display: block; max-width: 95%;"
          src="/attachments/images/FAQ/USER/ObjectsAnalitics/ObjectPiechart.jpg"/>
 </div> 
 

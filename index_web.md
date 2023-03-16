@@ -141,7 +141,7 @@
     <a href="/docs/FAQ/RU/user/ProcessEfficiency.html">Анализ эффективности процессов</a></h4>
 
  <h4 style="padding-left: 20px;">
-    <a href="/docs/FAQ/RU/user/ContractSchedule.html">График действия договоров</a></h4>
+    <a href="/docs/FAQ/RU/user/ContractSchedule.html">График действия договоров</a><span class="new-badge" title="16.03.2023"></span></h4>
 
 
 ### Печатные формы
@@ -195,7 +195,7 @@
 ### Склады
 В системе HubEx вы можете отслеживать расход материалов и актуальное количество остатков. А ваши сотрудники могут указывать количество материалов использованных по Заявке.
 <h4 style="padding-left: 20px;">
-    <a href="/docs/FAQ/RU/user/InventoryAccounting.html">Складской учет в HubEx: два сценария управления складом</a>
+    <a href="/docs/FAQ/RU/user/InventoryAccounting.html">Складской учет в HubEx: два сценария управления складом</a><span class="new-badge" title="10.02.2023"></span>
 </h4>
 <h4 style="padding-left: 20px;">
     <a href="/docs/FAQ/RU/user/Materials.html">Загрузка материалов и создание складов</a>

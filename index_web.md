@@ -123,16 +123,16 @@
 ### Аналитика
 Анализируйте различную статистику по Заявкам. Наглядные отчеты помогут вам принимать эффективные решения, а также ускорят обнаружение различных проблемных мест.
 <h4 style="padding-left: 20px;">
-    <a href="/docs/FAQ/RU/user/GeneralAnalitics.html">Общая аналитика</a>
+    <a href="/docs/FAQ/RU/user/GeneralAnalytics.html">Общая аналитика</a>
 </h4>
 <h4 style="padding-left: 20px;">
     <a href="/docs/FAQ/RU/user/TicketsReport.html">Срез по заявкам</a>
 </h4>
 <h4 style="padding-left: 20px;">
-    <a href="/docs/FAQ/RU/user/ClientsAnalitics.html">Отчет для клиента</a></h4>
+    <a href="/docs/FAQ/RU/user/ClientsAnalytics.html">Отчет для клиента</a></h4>
 
 <h4 style="padding-left: 20px;">
-    <a href="/docs/FAQ/RU/user/ObjectsAnalitics.html">Отчет по объектам</a></h4>
+    <a href="/docs/FAQ/RU/user/ObjectsAnalytics.html">Отчет по объектам</a></h4>
 
 <h4 style="padding-left: 20px;">
     <a href="/docs/FAQ/RU/user/EngineersAnalytics.html">Отчет по сотрудникам</a></h4>

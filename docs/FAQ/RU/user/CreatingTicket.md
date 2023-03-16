@@ -248,8 +248,8 @@ keywords: создать заявку, подать заявку, заявка �
             ваша компания с
             потоком поступающих <strong>Заявок</strong>, кто из специалистов загружен сильнее прочих и не успевает
             закрывать <strong>Заявки</strong>?
-            Подробнее читайте в статьях: <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/GeneralAnalitics.html">Общая
-                аналитика</a>, <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/EngineersAnalitics.html">Отчет по
+            Подробнее читайте в статьях: <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/GeneralAnalytics.html">Общая
+                аналитика</a>, <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/EngineersAnalytics.html">Отчет по
                 сотрудникам</a>. </p>
 
 

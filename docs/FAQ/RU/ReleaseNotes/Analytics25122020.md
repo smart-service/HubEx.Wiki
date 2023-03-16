@@ -39,7 +39,7 @@ keywords:
 <p>Диаграммы соотношений отражают аналитику в разрезе типов заявок, критичности и видов работ. При наведении мыши на любой сектор диаграммы, открываются детальные графики динамики и список заказчиков, по которым показатели лидируют.</p>
 <p><div><img style="margin: 0 auto; display: block; max-width: 100%;" src="https://content.screencast.com/users/echinaek.val/folders/Capture/media/c01472ad-b3ab-4f55-a799-bba2464c376e/LWR_Recording.png" width="700" height="auto" /></div></p>
 
-<p>Подробнее об отчете читайте в статье базы знаний: <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/GeneralAnalitics.html">Общая аналитика</a>.</p>
+<p>Подробнее об отчете читайте в статье базы знаний: <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/GeneralAnalytics.html">Общая аналитика</a>.</p>
 
 <p>Предложения по доработкам в системе и сообщениям об ошибках просим отправлять к нам в "чат с поддержкой" в веб-приложении или на почту <a href="mailto:support@hubex.ru" target="_blank" rel="noopener"> support@hubex.ru </a>.</p>
 

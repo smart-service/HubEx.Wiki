@@ -30,7 +30,7 @@ https://wiki.hubex.ru/docs/FAQ/RU/user/PrintedFormAct.html
 https://wiki.hubex.ru/docs/FAQ/RU/user/PrintedFormActOfAccounting.html
 https://wiki.hubex.ru/docs/FAQ/RU/user/PaymentInvoice.html
 https://wiki.hubex.ru/docs/FAQ/RU/user/TicketsReport.html
-https://wiki.hubex.ru/docs/FAQ/RU/user/GeneralAnalitics.html
+https://wiki.hubex.ru/docs/FAQ/RU/user/GeneralAnalytics.html
 https://wiki.hubex.ru/docs/FAQ/RU/user/EngineersAnalytics.html
 https://wiki.hubex.ru/docs/FAQ/RU/user/ProcessEfficiency.html
 https://wiki.hubex.ru/docs/FAQ/RU/user/GeoPosition.html
@@ -94,8 +94,8 @@ https://wiki.hubex.ru/docs/FAQ/RU/admin/StageVSStatus.html
 https://wiki.hubex.ru/docs/FAQ/RU/user/HiddenObjectsTicketsUsers.html
 https://wiki.hubex.ru/docs/FAQ/RU/user/ObjectEditing.html
 https://wiki.hubex.ru/docs/FAQ/RU/admin/SLA.html
-https://wiki.hubex.ru/docs/FAQ/RU/user/ClientsAnalitics.html
-https://wiki.hubex.ru/docs/FAQ/RU/user/ObjectsAnalitics.html
+https://wiki.hubex.ru/docs/FAQ/RU/user/ClientsAnalytics.html
+https://wiki.hubex.ru/docs/FAQ/RU/user/ObjectsAnalytics.html
 https://wiki.hubex.ru/docs/FAQ/RU/user/SeveralEngineers.html
 https://wiki.hubex.ru/docs/FAQ/RU/user/AcceptanceTicket.html
 https://wiki.hubex.ru/docs/FAQ/RU/user/RoleVSPosition.html
@@ -107,6 +107,9 @@ https://wiki.hubex.ru/docs/FAQ/RU/user/CustomerApp.html
 https://wiki.hubex.ru/docs/FAQ/RU/user/AlternativeWays.html
 https://wiki.hubex.ru/docs/FAQ/RU/user/Glossary.html
 https://wiki.hubex.ru/docs/FAQ/RU/user/Contacts.html
+https://wiki.hubex.ru/docs/FAQ/RU/user/ContractSchedule.html
+https://wiki.hubex.ru/docs/FAQ/RU/admin/TelegramIntegration.html
+https://wiki.hubex.ru/docs/FAQ/RU/admin/Powers.html
 
 
 https://wiki.hubex.ru/docs/FAQ/RU/ReleaseNotes/TicketArchives08042020.html

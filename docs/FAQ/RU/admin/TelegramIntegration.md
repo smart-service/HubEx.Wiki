@@ -41,6 +41,11 @@ keywords:  hubex, хабекс, хубекс, хабикс
     Приложения
     - Telegram</strong> и нажмите кнопку <strong>Создать связку Telegram</strong>.
 </p>
+  <p>
+    <div>
+        <img style="margin: 0 auto; display: block; max-width: 90%;"
+             src="/attachments/images/FAQ/ADMIN/Telegram/Telegram0.jpg"/></div>
+    </p>
 
 <p>В открывшемся окошке создайте своего Telegram-бота, подробная инструкция создания открывается при нажатии на строку
     <strong>Как создать Telegram-бота</strong>:</p>

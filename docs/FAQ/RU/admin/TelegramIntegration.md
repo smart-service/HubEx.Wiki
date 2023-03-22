@@ -16,7 +16,7 @@ keywords:  hubex, хабекс, хубекс, хабикс
 <body>
 <p>Процесс подачи <strong>Заявок</strong> через Telegram - простой и эффективный способ решения задач ваших заказчиков.
 </p>
-<p>Telegram (Телеграм) - самая популярная платформа для обмена сообщениями. Поэтому интеграция HubEx и Telegram обладает рядом
+<p>Telegram - самая популярная платформа для обмена сообщениями. Поэтому интеграция HubEx и Telegram обладает рядом
     преимуществ:</p>
 <ul>
     <li>пользователи легко смогут подавать <strong>Заявки</strong> через Telegram-бота и быть в курсе прогресса
@@ -51,14 +51,14 @@ keywords:  hubex, хабекс, хубекс, хабикс
 
     <p>
     <div>
-        <img style="margin: 0 auto; display: block; max-width: 90%;"
+        <img style="margin: 0 auto; display: block; max-width: 60%;"
              src="/attachments/images/FAQ/ADMIN/Telegram/Telegram.jpg"/></div>
     </p>
 
     <li>в диалоге с @BotFather нажмите команду <strong>/start</strong>;</li>
     <p>
     <div>
-        <img style="margin: 0 auto; display: block; max-width: 90%;"
+        <img style="margin: 0 auto; display: block; max-width: 60%;"
              src="/attachments/images/FAQ/ADMIN/Telegram/Telegram2.jpg"/></div>
     </p>
 
@@ -66,14 +66,14 @@ keywords:  hubex, хабекс, хубекс, хабикс
 
     <p>
     <div>
-        <img style="margin: 0 auto; display: block; max-width: 90%;"
+        <img style="margin: 0 auto; display: block; max-width: 60%;"
              src="/attachments/images/FAQ/ADMIN/Telegram/Telegram3.jpg"/></div>
     </p>
 
     <li>введите название для бота, например, <strong>Бот для сбора заявок по ремонту</strong>;</li>
     <p>
     <div>
-        <img style="margin: 0 auto; display: block; max-width: 90%;"
+        <img style="margin: 0 auto; display: block; max-width: 60%;"
              src="/attachments/images/FAQ/ADMIN/Telegram/Telegram4.jpg"/></div>
     </p>
 
@@ -83,7 +83,7 @@ keywords:  hubex, хабекс, хубекс, хабикс
     </li>
     <p>
     <div>
-        <img style="margin: 0 auto; display: block; max-width: 90%;"
+        <img style="margin: 0 auto; display: block; max-width: 60%;"
              src="/attachments/images/FAQ/ADMIN/Telegram/Telegram5.jpg"/></div>
     </p>
 
@@ -95,7 +95,7 @@ keywords:  hubex, хабекс, хубекс, хабикс
     </li>
     <p>
     <div>
-        <img style="margin: 0 auto; display: block; max-width: 90%;"
+        <img style="margin: 0 auto; display: block; max-width: 60%;"
              src="/attachments/images/FAQ/ADMIN/Telegram/Telegram6.jpg"/></div>
     </p>
 </ul>
@@ -136,7 +136,7 @@ keywords:  hubex, хабекс, хубекс, хабикс
                 свой текст, который придет пользователю
                 в чат с Telegram-ботом после создания <strong>Заявки</strong>;
             </li>
-            <li><strong>Сообщение о закрытии заявки<strong>: здесь также можно оставить шаблон сообщения, а можно ввести
+            <li><strong>Сообщение о закрытии заявки</strong>: здесь также можно оставить шаблон сообщения, а можно ввести
                 свой текст,
                 который будет отправлен пользователю в
                 чат с Telegram-ботом после закрытия <strong>Заявки</strong>.

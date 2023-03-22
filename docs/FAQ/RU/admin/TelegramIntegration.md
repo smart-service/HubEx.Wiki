@@ -86,11 +86,6 @@ keywords:  hubex, хабекс, хубекс, хабикс
         заказчикам (пользователям): имя может состоять из названия вашей компании, аббревиатуры и т.д. Например, для
         компании Сервис "Газ и Автоматизация" можно назвать бот SGA_Service_Bot;
     </li>
-    <p>
-    <div>
-        <img style="margin: 0 auto; display: block; max-width: 60%;"
-             src="/attachments/images/FAQ/ADMIN/Telegram/Telegram5.jpg"/></div>
-    </p>
 
     <li>вы получите сообщение об успешной регистрации бота со ссылкой на созданный бот: этой ссылкой вы можете делиться
         со своими закзачиками и пользователями, именно в этот бот нужно будет отправлять заявки;
@@ -98,11 +93,12 @@ keywords:  hubex, хабекс, хубекс, хабикс
     <li>также в сообщении будет указан API Token - это ключ для привязки бота к HubEx, который нужно скопировать и
         указать в HubEx.
     </li>
-    <p>
+      <p>
     <div>
         <img style="margin: 0 auto; display: block; max-width: 60%;"
-             src="/attachments/images/FAQ/ADMIN/Telegram/Telegram6.jpg"/></div>
+             src="/attachments/images/FAQ/ADMIN/Telegram/Telegram5.jpg"/></div>
     </p>
+
 </ul>
 
 <p>Вернемся в HubEx в настройку связки:</p>

@@ -158,9 +158,9 @@ keywords: стадии заявки, стадия, действие на ста�
     <li>При переходе на стадию можно выбрать <Strong>Требование</Strong>, без выполнения которого переход на нее будет
         невозможен:
 
-        <p></p>
+        <p>
         <div>
-            <img style="margin: 0 auto; display: block; max-width: 65%;"
+            <img style="margin: 0 auto; display: block; max-width: 85%;"
                  src="/attachments/images/FAQ/ADMIN/StageType/Requirements.jpg"/>
         </div>
         </p>
@@ -187,7 +187,7 @@ keywords: стадии заявки, стадия, действие на ста�
                     сканирования QR-кода.</p>
 
                 <div>
-                    <img style="margin: 0 auto; display: block; max-width: 65%;"
+                    <img style="margin: 0 auto; display: block; max-width: 75%;"
                          src="/attachments/images/FAQ/ADMIN/StageType/Mobile.jpg"/>
                 </div>
                 <p>QR-код будет проверяться на соответствие QR-коду из карточки <Strong>Объекта</Strong>, выбранного в
@@ -199,9 +199,9 @@ keywords: стадии заявки, стадия, действие на ста�
                         href="https://wiki.hubex.ru/docs/FAQ/RU/user/CreatingTaskTemplates.html">Создание шаблона
                     заявки, подача заявки по QR-коду</a>.</p>
 
-                <p></p>
+                <p>
                 <div>
-                    <img style="margin: 0 auto; display: block; max-width: 45%;"
+                    <img style="margin: 0 auto; display: block; max-width: 40%;"
                          src="/attachments/images/FAQ/ADMIN/StageType/Error.jpg"/>
                 </div>
                 </p>

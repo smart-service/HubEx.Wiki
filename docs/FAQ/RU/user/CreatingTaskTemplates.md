@@ -289,7 +289,7 @@ keywords: qr-код, шаблон заявки, скачать QR-код, пас
     исполнитель сможет внести выполненные работы и перевести <strong>Заявку</strong> на следующие стадии (<strong>Выполнение</strong>
     и т.д.).</p>
 
-<p>Как создать QR-код описано в текущей статье в разделе <a href="#ticktempl"Cоздание шаблона заявки и QR-кода</a>.
+<p>Как создать QR-код описано в текущей статье в разделе <a href="#ticktempl">Cоздание шаблона заявки и QR-кода</a>.
 </p>
 <p>Настройка подтверждения пребывания на объекте находится в консоли администрирования в меню <strong>Настройки заявки -
     Стадии заявки</strong>:</p>
@@ -306,7 +306,7 @@ keywords: qr-код, шаблон заявки, скачать QR-код, пас
 <p>В мобильном приложении <strong>HubEx исполнитель</strong>, когда сотрудник нажмет кнопку перехода на стадию <strong>В работе</strong>,
     появится окошко с запросом сканирования QR-кода.</p>
 <div>
-    <img style="margin: 0 auto; display: block; max-width: 85%;"
+    <img style="margin: 0 auto; display: block; max-width: 75%;"
          src="/attachments/images/FAQ/USER/CreatingTickTemplates/Mobile.jpg"/>
 </div>
 <p>QR-код будет проверяться на соответствие QR-коду из карточки <strong>Объекта</strong>, выбранного в
@@ -314,7 +314,7 @@ keywords: qr-код, шаблон заявки, скачать QR-код, пас
 <p>Если QR-код не совпадет, то сотрудник получит уведомление о том, что QR-код неверный. Если QR-код будет корректным,
     то будет осуществлен переход на стадию <strong>В работе</strong>.</p>
 <div>
-    <img style="margin: 0 auto; display: block; max-width: 45%;"
+    <img style="margin: 0 auto; display: block; max-width: 40%;"
          src="/attachments/images/FAQ/USER/CreatingTickTemplates/Error.jpg"/>
 </div>
 

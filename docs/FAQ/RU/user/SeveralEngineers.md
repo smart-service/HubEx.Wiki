@@ -322,7 +322,7 @@ keywords: бригада рабочих, группа специалистов, 
     <li>нажмите кнопку <Strong>Сохранить</Strong>;</li>
     <p>
     <div>
-        <img style="margin: 0 auto; display: block; max-width: 40%;"
+        <img style="margin: 0 auto; display: block; max-width: 35%;"
              src="/attachments/images/FAQ/USER/SeveralEngineers/Mob4.jpg"/>
     </div>
     </p>
@@ -349,7 +349,7 @@ keywords: бригада рабочих, группа специалистов, 
         </li>
         <p>
         <div>
-            <img style="margin: 0 auto; display: block; max-width: 40%;"
+            <img style="margin: 0 auto; display: block; max-width: 35%;"
                  src="/attachments/images/FAQ/USER/SeveralEngineers/Mob6.jpg"/>
         </div>
         </p>
@@ -372,7 +372,7 @@ keywords: бригада рабочих, группа специалистов, 
     <li>после редактирования назначения нажмите кнопку <Strong>Сохранить</Strong>.</li>
     <p>
     <div>
-        <img style="margin: 0 auto; display: block; max-width: 40%;"
+        <img style="margin: 0 auto; display: block; max-width: 35%;"
              src="/attachments/images/FAQ/USER/SeveralEngineers/Mob8.jpg"/>
     </div>
     </p>

@@ -304,7 +304,7 @@ keywords: бригада рабочих, группа специалистов, 
     <li>нажмите на поле <Strong>Исполнитель</Strong>;</li>
     <p>
     <div>
-        <img style="margin: 0 auto; display: block; max-width: 95%;"
+        <img style="margin: 0 auto; display: block; max-width: 75%;"
              src="/attachments/images/FAQ/USER/SeveralEngineers/Mob2.jpg"/>
     </div>
     </p>
@@ -315,14 +315,14 @@ keywords: бригада рабочих, группа специалистов, 
     <li>нажмите кнопку <Strong>Применить</Strong>;</li>
     <p>
     <div>
-        <img style="margin: 0 auto; display: block; max-width: 95%;"
+        <img style="margin: 0 auto; display: block; max-width: 75%;"
              src="/attachments/images/FAQ/USER/SeveralEngineers/Mob3.jpg"/>
     </div>
     </p>
     <li>нажмите кнопку <Strong>Сохранить</Strong>;</li>
     <p>
     <div>
-        <img style="margin: 0 auto; display: block; max-width: 45%;"
+        <img style="margin: 0 auto; display: block; max-width: 40%;"
              src="/attachments/images/FAQ/USER/SeveralEngineers/Mob4.jpg"/>
     </div>
     </p>
@@ -337,7 +337,7 @@ keywords: бригада рабочих, группа специалистов, 
     </li>
     <p>
     <div>
-        <img style="margin: 0 auto; display: block; max-width: 95%;"
+        <img style="margin: 0 auto; display: block; max-width: 75%;"
              src="/attachments/images/FAQ/USER/SeveralEngineers/Mob5.jpg"/>
     </div>
     </p>
@@ -349,8 +349,8 @@ keywords: бригада рабочих, группа специалистов, 
         </li>
         <p>
         <div>
-            <img style="margin: 0 auto; display: block; max-width: 45%;"
-                 src="/attachments/images/FAQ/USER/SeveralEngineers/Mob5.jpg"/>
+            <img style="margin: 0 auto; display: block; max-width: 40%;"
+                 src="/attachments/images/FAQ/USER/SeveralEngineers/Mob6.jpg"/>
         </div>
         </p>
         <li>если вы хотите еще и назначить других специалистов, то нажмите кнопку <Strong>Изменить исполнителя</Strong>
@@ -361,7 +361,7 @@ keywords: бригада рабочих, группа специалистов, 
         </li>
         <p>
         <div>
-            <img style="margin: 0 auto; display: block; max-width: 95%;"
+            <img style="margin: 0 auto; display: block; max-width: 75%;"
                  src="/attachments/images/FAQ/USER/SeveralEngineers/Mob7.jpg"/>
         </div>
 
@@ -372,7 +372,7 @@ keywords: бригада рабочих, группа специалистов, 
     <li>после редактирования назначения нажмите кнопку <Strong>Сохранить</Strong>.</li>
     <p>
     <div>
-        <img style="margin: 0 auto; display: block; max-width: 45%;"
+        <img style="margin: 0 auto; display: block; max-width: 40%;"
              src="/attachments/images/FAQ/USER/SeveralEngineers/Mob8.jpg"/>
     </div>
     </p>

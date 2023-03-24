@@ -155,5 +155,6 @@ https://wiki.hubex.ru/docs/FAQ/RU/ReleaseNotes/SmsAutorization10102022.html
 https://wiki.hubex.ru/docs/FAQ/RU/ReleaseNotes/DescriptionField23012023.html
 https://wiki.hubex.ru/docs/FAQ/RU/ReleaseNotes/Multiengineers01022023.html 
 https://wiki.hubex.ru/docs/FAQ/RU/ReleaseNotes/AdditionalFieldsWorks060323.html 
+https://wiki.hubex.ru/docs/FAQ/RU/ReleaseNotes/QRStayMark23022023.html
 https://wiki.hubex.ru/docs/FAQ/RU/ReleaseNotes/EngineerApp.html
 https://wiki.hubex.ru/docs/FAQ/RU/ReleaseNotes/CustomerApp.html

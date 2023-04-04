@@ -297,8 +297,8 @@ keywords:  hubex, хабекс, хубекс, хабикс
             <img style="margin: 0 auto; display: block; max-width: 100%;"
                  src="/attachments/images/FAQ/ADMIN/Telegram/Telegram17.jpg"/></div>
         </p>
-
-        <p>Когда <strong>Заявку</strong> переводят на стадию <strong>Закрыта</strong>, то в Telegram-бот уходит <a
+</li>
+        <li><p>Когда <strong>Заявку</strong> переводят на стадию <strong>Закрыта</strong>, то в Telegram-бот уходит <a
                 href="#third">сообщение о закрытии заявки</a> (<strong>Ваша заявка успешно выполнена! Чтобы подать новую
             заявку отправьте сообщение в чат.</strong>).</p>
 
@@ -310,7 +310,7 @@ keywords:  hubex, хабекс, хубекс, хабикс
 
     </li>
     <li>Следующее сообщение после закрытия <strong>Заявки</strong>
-        будет создавать новую <strong>Заявку</strong> в HubEx;
+        будет создавать новую <strong>Заявку</strong> в HubEx.
         <p>
         <div>
             <img style="margin: 0 auto; display: block; max-width: 60%;"
@@ -321,7 +321,8 @@ keywords:  hubex, хабекс, хубекс, хабикс
             <img style="margin: 0 auto; display: block; max-width: 100%;"
                  src="/attachments/images/FAQ/ADMIN/Telegram/Telegram20.jpg"/></div>
         </p>
-        <p>Файлы, прикрепленные при подаче <strong>Заявки</strong> через Telegram-бот будут отображаться в самой
+        </li>
+       <li> <p>Файлы, прикрепленные при подаче <strong>Заявки</strong> через Telegram-бот будут отображаться в самой
             <strong>Заявке</strong> (если файл был прикреплен вместе с первым сообщением)
             и в чате с
             заказчиком (если файл был прикреплен после сообщения, которое инициировало создание <strong>Заявки</strong>).

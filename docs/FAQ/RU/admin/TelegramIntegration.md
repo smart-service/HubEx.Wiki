@@ -342,7 +342,7 @@ keywords:  hubex, хабекс, хубекс, хабикс
                  src="/attachments/images/FAQ/ADMIN/Telegram/Telegram22.jpg"/></div>
         </p>
     </li>
-</ul>
+</ol>
 
 <p>Повторим еще раз основные моменты при подаче <strong>Заявок</strong> через Telegram-бота:</p>
 <ul>
@@ -380,7 +380,7 @@ keywords:  hubex, хабекс, хубекс, хабикс
     <li>Если связка с Telegram-ботом неактивна или удаленна в HubEx, то бот пришлет сообщение о том, что он больше не
         работоспособен.
     </li>
-</ol>
+</ul>
 
 
 

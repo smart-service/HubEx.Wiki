@@ -323,7 +323,7 @@ keywords:  hubex, хабекс, хубекс, хабикс
                  src="/attachments/images/FAQ/ADMIN/Telegram/Telegram20.jpg"/></div>
         </p>
         </li>
-       <li> <p>Файлы, прикрепленные при подаче <strong>Заявки</strong> через Telegram-бот будут отображаться в самой
+       <li> Файлы, прикрепленные при подаче <strong>Заявки</strong> через Telegram-бот будут отображаться в самой
             <strong>Заявке</strong> (если файл был прикреплен вместе с первым сообщением)
             и в чате с
             заказчиком (если файл был прикреплен после сообщения, которое инициировало создание <strong>Заявки</strong>).
@@ -331,7 +331,8 @@ keywords:  hubex, хабекс, хубекс, хабикс
             сотрудник (диспетчер) при ответе клиенту в чате с заказчиком приложил файл, то это
             вложение
             также
-            отобразится для заказчика, как ответ от Telegram-бота.</p>
+            отобразится для заказчика, как ответ от Telegram-бота.
+            
         <p>
         <div>
             <img style="margin: 0 auto; display: block; max-width: 60%;"
@@ -341,6 +342,19 @@ keywords:  hubex, хабекс, хубекс, хабикс
         <div>
             <img style="margin: 0 auto; display: block; max-width: 100%;"
                  src="/attachments/images/FAQ/ADMIN/Telegram/Telegram22.jpg"/></div>
+        </p>
+
+        <p>Чтобы отправить файл в чат с ботом, нажмите на значок скрепки слева от строки сообщения. В появившемся окошке выберите файл. В мобильной версии прикрепление файлов происходит также по щелчку на значок скрепки и выбору файлов из мобильной галереи.</p>
+
+        <p>
+        <div>
+            <img style="margin: 0 auto; display: block; max-width: 60%;"
+                 src="/attachments/images/FAQ/ADMIN/Telegram/Telegram23.jpg"/></div>
+        </p>
+        <p>
+        <div>
+            <img style="margin: 0 auto; display: block; max-width: 60%;"
+                 src="/attachments/images/FAQ/ADMIN/Telegram/Telegram24.jpg"/></div>
         </p>
     </li>
 </ol>

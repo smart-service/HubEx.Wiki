@@ -188,7 +188,7 @@ keywords: стадии заявки, стадия, действие на ста�
 
                 <div>
                     <img style="margin: 0 auto; display: block; max-width: 75%;"
-                         src="/attachments/images/FAQ/ADMIN/StageType/Mobile.jpg"/>
+                         src="/attachments/images/FAQ/ADMIN/StageType/Mobile1.jpg"/>
                 </div>
                 <p>QR-код будет проверяться на соответствие QR-коду из карточки <Strong>Объекта</Strong>, выбранного в
                     <Strong>Заявке</Strong>.</p>

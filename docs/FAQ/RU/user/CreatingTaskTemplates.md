@@ -307,7 +307,7 @@ keywords: qr-код, шаблон заявки, скачать QR-код, пас
     появится окошко с запросом сканирования QR-кода.</p>
 <div>
     <img style="margin: 0 auto; display: block; max-width: 75%;"
-         src="/attachments/images/FAQ/USER/CreatingTickTemplates/Mobile.jpg"/>
+         src="/attachments/images/FAQ/USER/CreatingTickTemplates/Mobile1.jpg"/>
 </div>
 <p>QR-код будет проверяться на соответствие QR-коду из карточки <strong>Объекта</strong>, выбранного в
     <strong>Заявке</strong>.</p>

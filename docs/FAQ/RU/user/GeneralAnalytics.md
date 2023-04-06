@@ -224,8 +224,8 @@ keywords: общая аналитика, панель отчетов, ключе
 ___
 ### Следующие шаги:
 - [Срез по заявкам](./TicketsReport.md)
-- [Отчет для клиента](./ClientsAnalitics.md)
-- [Отчет по объектам обслуживания](./ObjectsAnalitics.md)
+- [Отчет для клиента](./ClientsAnalytics.md)
+- [Отчет по объектам обслуживания](./ObjectsAnalytics.md)
 
 ___
 - [Перейти в меню](http://wiki.hubex.ru)

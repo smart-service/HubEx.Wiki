@@ -50,8 +50,8 @@ keywords:  hubex, хабекс, хубекс, хабикс
          src="/attachments/images/FAQ/ADMIN/Telegram/Telegram0.jpg"/></div>
 </p>
 
-<p>В открывшемся окошке создайте своего Telegram-бота, подробная инструкция создания открывается при нажатии на строку
-    <strong>Как создать Telegram-бота</strong>:</p>
+<p>В открывшемся окошке вверху приведена подробная инструкция создания Telegram-бота (инструкция открывается и скрывается при нажатии на строку
+    <strong>Как создать Telegram-бота</strong>):</p>
 <p>
 <div>
     <img style="margin: 0 auto; display: block; max-width: 90%;"

@@ -14,6 +14,7 @@ keywords: заявки по почте, заявки из почты, подач
     <li><a href="#createemailtick">Как подавать Заявки через электронную почту</a>.</li>
 </ul>
 </html>
+
 <body>
 <p>Интеграция с HubEx по электронной почте позволяет создавать <strong>Заявки</strong> с помощью
     получения электронных писем от ваших <strong>Заказчиков</strong>. Также вы можете настроить двустороннюю интеграцию
@@ -60,22 +61,21 @@ keywords: заявки по почте, заявки из почты, подач
         <p>
         <div>
             <img style="margin: 0 auto; display: block; max-width: 80%;"
-                 src="/attachments/images/FAQ/ADMIN/TicketMail/EmailSettings2.jpg"/>
-        </div>
+                 src="/attachments/images/FAQ/ADMIN/TicketMail/EmailSettings2.jpg"/></div>
         </p>
+
         <p>
         <div>
             <img style="margin: 0 auto; display: block; max-width: 80%;"
-                 src="/attachments/images/FAQ/ADMIN/TicketMail/EmailSettings3.jpg"/>
-        </div>
+                 src="/attachments/images/FAQ/ADMIN/TicketMail/EmailSettings3.jpg"/></div>
         </p>
 
         <p>Придумайте название для пароля (например, Пароль для почты). Затем нажмите кнопку <strong>Далее</strong>.</p>
+
         <p>
         <div>
             <img style="margin: 0 auto; display: block; max-width: 80%;"
-                 src="/attachments/images/FAQ/ADMIN/TicketMail/EmailSettings4.jpg"/>
-        </div>
+                 src="/attachments/images/FAQ/ADMIN/TicketMail/EmailSettings4.jpg"/></div>
         </p>
 
         <p>В новом окне будет сгенерирован специальный пароль. Его необходимо скопировать по нажатию на иконку
@@ -85,16 +85,16 @@ keywords: заявки по почте, заявки из почты, подач
         <p>
         <div>
             <img style="margin: 0 auto; display: block; max-width: 80%;"
-                 src="/attachments/images/FAQ/ADMIN/TicketMail/EmailSettings5.jpg"/>
-        </div>
+                 src="/attachments/images/FAQ/ADMIN/TicketMail/EmailSettings5.jpg"/></div>
         </p>
+
         <p>
         <div>
             <img style="margin: 0 auto; display: block; max-width: 80%;"
-                 src="/attachments/images/FAQ/ADMIN/TicketMail/EmailSettings6.jpg"/>
-        </div>
+                 src="/attachments/images/FAQ/ADMIN/TicketMail/EmailSettings6.jpg"/></div>
         </p>
-<p>Если вы создали пароль для приложений и не скопировали (не сохранили) его, то необходимо создать новый пароль по схеме, описанной выше.</p>
+
+        <p>Если вы создали пароль для приложений и не скопировали (не сохранили) его, то необходимо создать новый пароль по схеме, описанной выше.</p>
 
     </li>
     <!--<li><strong>Шаг 2:</strong> отключите двухфакторную аутентификацию или безопасный вход для почтового ящика. Для отключения
@@ -190,8 +190,7 @@ keywords: заявки по почте, заявки из почты, подач
             <p>
             <div>
                 <img style="margin: 0 auto; display: block; max-width: 90%;"
-                     src="/attachments/images/FAQ/ADMIN/TicketMail/Template.jpg"/>
-            </div>
+                     src="/attachments/images/FAQ/ADMIN/TicketMail/Template.jpg"/> </div>
             </p>
 
         </ul>
@@ -233,8 +232,7 @@ keywords: заявки по почте, заявки из почты, подач
             <p>
             <div>
                 <img style="margin: 0 auto; display: block; max-width: 90%;"
-                     src="/attachments/images/FAQ/ADMIN/TicketMail/ServiceUsers.jpg"/>
-            </div>
+                     src="/attachments/images/FAQ/ADMIN/TicketMail/ServiceUsers.jpg"/></div>
             </p>
         </ul>
 
@@ -318,16 +316,14 @@ keywords: заявки по почте, заявки из почты, подач
                 <p>
                 <div>
                     <img style="margin: 0 auto; display: block; max-width: 70%;"
-                         src="/attachments/images/FAQ/ADMIN/TicketMail/RegularPhrase2.jpg"/>
-                </div>
+                         src="/attachments/images/FAQ/ADMIN/TicketMail/RegularPhrase2.jpg"/> </div>
                 </p>
                 <p>При использовании регулярных выражений электронное письмо, которое отправляют заказчики, будет
                     выглядеть следующим образом.</p>
                 <p>
                 <div>
                     <img style="margin: 0 auto; display: block; max-width: 70%;"
-                         src="/attachments/images/FAQ/ADMIN/TicketMail/Mail3.jpg"/>
-                </div>
+                         src="/attachments/images/FAQ/ADMIN/TicketMail/Mail3.jpg"/> </div>
                 </p>
             </li>
 

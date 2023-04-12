@@ -97,29 +97,9 @@ keywords: заявки по почте, заявки из почты, подач
 <p>Если вы создали пароль для приложений и не скопировали (не сохранили) его, то необходимо создать новый пароль по схеме, описанной выше.</p>
 
     </li>
-    <!-- <li><strong>Шаг 2:</strong> отключите двухфакторную аутентификацию или безопасный вход для почтового ящика. Для отключения
+    <!--<li><strong>Шаг 2:</strong> отключите двухфакторную аутентификацию или безопасный вход для почтового ящика. Для отключения
          двухфакторной аутентификации Яндекс почты перейдите в настройки аккаунта Яндекс (<strong>Управление аккаунтом</strong>) и в разделе <strong>Способ входа</strong> выберите <strong>Обычный пароль</strong>.
-     </li>
-
- </ul>
- <p>
- <div>
-     <img style="margin: 0 auto; display: block; max-width: 80%;"
-          src="/attachments/images/FAQ/ADMIN/TicketMail/Autorazation.jpg"/>
- </div>
- </p>
- <p>
- <div>
-     <img style="margin: 0 auto; display: block; max-width: 80%;"
-          src="/attachments/images/FAQ/ADMIN/TicketMail/Autorazation2.jpg"/>
- </div>
- </p>
- <p>
- <div>
-     <img style="margin: 0 auto; display: block; max-width: 80%;"
-          src="/attachments/images/FAQ/ADMIN/TicketMail/Autorazation3.jpg"/>
- </div>
- </p>-->
+     </li>-->
 
 
     <h5 id="set2">Настройка HubEx для интеграции</h5>

@@ -76,6 +76,7 @@ keywords: геопозиция, местоположение, точка на к
         href="https://play.google.com/store/apps/details?id=ru.hubex.engineer">для Android</a> или <a
         href="https://apps.apple.com/ru/app/hubex-%D0%B4%D0%BB%D1%8F-%D1%81%D0%B5%D1%80%D0%B2%D0%B8%D1%81%D0%BD%D0%BE%D0%B9-%D1%81%D0%BB%D1%83%D0%B6%D0%B1%D1%8B/id1386688688">для
     iOS</a>.</p>
+
 <p>Мобильное приложение <strong>HubEx заказчик</strong> вы можете скачать <a
         href="https://play.google.com/store/apps/details?id=ru.hubex.customer">для Android</a> или <a
         href="https://apps.apple.com/ru/app/hubex-%D0%B4%D0%BB%D1%8F-%D0%B7%D0%B0%D0%BA%D0%B0%D0%B7%D1%87%D0%B8%D0%BA%D0%B0/id1386631658">для
@@ -118,13 +119,11 @@ keywords: геопозиция, местоположение, точка на к
 <p>Сотрудник после установки на свой мобильный телефон приложение <strong>HubEx исполнитель</strong> должен разрешить
     приложению считывать
     свою геопозицию. Это можно сделать в настройках телефона c операционной системой iOS и Android.</p>
-
-<div style="display: flex;">
-    <img style="margin: 0 auto; display: block; max-width: 30%;"
-         src="/attachments/images/FAQ/USER/GeoPosition/Mob1.jpg"/> <img
-        style="margin: 0 auto; display: block; max-width: 30%;"
-        src="/attachments/images/FAQ/USER/GeoPosition/Mob2.jpg"/>
+<div>
+    <img style="margin: 0 auto; display: block; max-width: 75%;"
+         src="/attachments/images/FAQ/USER/GeoPosition/Settings.jpg"/>
 </div>
+
 </body>
 
 

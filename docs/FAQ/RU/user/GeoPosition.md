@@ -86,7 +86,7 @@ keywords: геопозиция, местоположение, точка на к
     помощью бокового меню нажмите на иконку сотрудника, чтобы увидеть его текущую геопозицию.</p>
 
 <div>
-    <img style="margin: 0 auto; display: block; max-width: 85%;"
+    <img style="margin: 0 auto; display: block; max-width: 75%;"
          src="/attachments/images/FAQ/USER/GeoPosition/MapMob.jpg"/>
 </div>
 

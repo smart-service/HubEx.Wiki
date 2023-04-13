@@ -19,6 +19,7 @@
      <li><a href="#objectimport">Как использовать импорт объектов для быстрого старта работы в Hubex;</a></li>
      <li><a href="#calendar">Расписание заявок: как назначать заявки с помощью календаря;</a></li>
      <li><a href="#ticketonmap">Распределение заявок в Hubex с помощью календаря и карты;</a></li>
+    <li><a href="#generalanalytics">Бизнес-аналитика: Общая аналитика</a>;</li>
      <li><a href="#engineersanalytics">Бизнес-аналитика: Отчет по сотрудникам</a>;</li>
      <li><a href="#processefficiency">Бизнес-аналитика: Анализ эффективности процессов</a>;</li>
      <li><a href="#notification">Как настроить push-уведомление на телефон мобильного инженера</a></li>
@@ -106,6 +107,19 @@
 <h5 id="ticketonmap">Распределение заявок в Hubex с помощью календаря и карты</h5>
 <p>Местонахождение <strong>Заявок</strong> и <strong>Сотрудников</strong> доступно в режиме карты. Вы можете видеть свободные часы ваших специалистов благодаря календарю и оперативно назначать <strong>Заявки</strong>. Подробнее читайте в статье <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/TicketsOnMap.htmll">Заявки и сотрудники на карте</a>.</p>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/E1H9pTZi0vA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+<h5 id="generalanalytics">Аналитика: Общая аналитика</h5>
+<p><Strong>Общая аналитика</Strong> в HubEx дает возможность проанализировать данные, собранные по <Strong>Заявкам</Strong>. С помощью этих визуализаций
+    вы сможете
+    ответить на
+    вопросы - справляется ли сервисная служба с потоком поступающих <Strong>Заявок</Strong>? кто из исполнителей не выдерживает сроки
+    закрытия <Strong>Заявок</Strong> и закрывает их с просрочкой? нужно ли нанять еще специалиста по определенному виду работ или
+    справляется текущий, который работает по совместительству? </p>
+<p>Дополнительно ознакомьтесь со статьей <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/GeneralAnalytics.html">Общая аналитика</a>, где подробно описаны все визуализации и показатели.</p>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4SYMSBNX90" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 <h5 id="EngineersAnalitics">Аналитика: Отчет по сотрудникам</h5>
 <p>Посмотрите, как работает бизнес-аналитика по выездному обслуживанию в разрезе эффективности персонала:</p>

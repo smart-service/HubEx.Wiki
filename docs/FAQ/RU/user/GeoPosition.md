@@ -100,7 +100,7 @@ keywords: геопозиция, местоположение, точка на к
 <p>Найдите в разделе <Strong>Полномочия</Strong> блок <Strong>Карты</Strong> и установите для него флажок выбора.</p>
 
 <div>
-    <img style="margin: 0 auto; display: block; max-width: 60%;"
+    <img style="margin: 0 auto; display: block; max-width: 70%;"
          src="/attachments/images/FAQ/USER/GeoPosition/Role.jpg"/>
 </div>
 

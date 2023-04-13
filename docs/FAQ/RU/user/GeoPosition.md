@@ -100,7 +100,7 @@ keywords: геопозиция, местоположение, точка на к
 <p>Найдите в разделе <Strong>Полномочия</Strong> блок <Strong>Карты</Strong> и установите для него флажок выбора.</p>
 
 <div>
-    <img style="margin: 0 auto; display: block; max-width: 80%;"
+    <img style="margin: 0 auto; display: block; max-width: 85%;"
          src="/attachments/images/FAQ/USER/GeoPosition/Role.jpg"/>
 </div>
 
@@ -113,7 +113,7 @@ keywords: геопозиция, местоположение, точка на к
     флажок
     <Strong>Отслеживание местоположения сотрудника</Strong>.</p>
 <div>
-    <img style="margin: 0 auto; display: block; max-width: 80%;"
+    <img style="margin: 0 auto; display: block; max-width: 85%;"
          src="/attachments/images/FAQ/USER/GeoPosition/Engineer.jpg"/>
 </div>
 <p>Сотрудник после установки на свой мобильный телефон приложение <strong>HubEx исполнитель</strong> должен разрешить

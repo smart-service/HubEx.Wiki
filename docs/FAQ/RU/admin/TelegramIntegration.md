@@ -34,7 +34,7 @@ keywords:  hubex, хабекс, хубекс, хабикс
     </li>
 </ul>
 
-<p>Прочтите подробную статью ниже или начните знакомство с темой с обучающего видеоролика <strong>Интеграция с Telegram</strong></p>
+<p>Прочтите подробную статью ниже или начните знакомство с темой с обучающего видеоролика <strong>Интеграция с Telegram</strong>.</p>
 <iframe src="https://www.youtube.com/embed/oLKQVUrxCYU" width="100%" height="450px" frameborder="0"
         allowfullscreen="allowfullscreen"></iframe>
 

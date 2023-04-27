@@ -33,6 +33,11 @@ keywords:  hubex, хабекс, хубекс, хабикс
         ежедневно.
     </li>
 </ul>
+
+<p>Прочтите подробную статью ниже или начните знакомство с темой с обучающего видеоролика <strong>Интеграция с Telegram</strong></p>
+<iframe src="https://www.youtube.com/embed/oLKQVUrxCYU" width="100%" height="450px" frameborder="0"
+        allowfullscreen="allowfullscreen"></iframe>
+
 <h5 id="telegramset">Настройка интеграции с Telegram</h5>
 <p>Подключение Telegram к HubEx реализуется с помощью подключения Telegram-бота. <strong>Заявки</strong> будут
     отправляться

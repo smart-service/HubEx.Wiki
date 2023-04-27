@@ -29,7 +29,7 @@
      <li><a href="#rulesofchoice">Как работает автоназначение исполнителей на заявки</a>;</li>
      <li><a href="#geotracking">Как работает геотрекинг в HubEx</a>;</li>
      <li><a href="#sla">Настройка SLA: расчет крайнего срока закрытия заявки</a>;</li>
-     <li><a href="#telegram">Интеграция с Telegram</a></li>
+     <li><a href="#telegram">Интеграция с Telegram</a>;</li>
      <li><a href="#ticketmail">Как подавать заявки с электронной почты в HubEx?</a></li>
      <li><a href="#floorplan">Как подавать заявки с использованием планов помещений?</a></li>
      <li><a href="#ondutty">Как работать с функционалом На смене, работа с самозанятыми?</a></li>
@@ -175,11 +175,11 @@
 
 <h5 id="telegram">Интеграция с Telegram</h5>
 <p>С помощью настройки интеграции с Telegram (Телеграм) можно настроить подачу <strong>Заявок</strong> в HubEx через Telegram-бота. Подробнее читайте в статье <a href="https://wiki.hubex.ru/docs/FAQ/RU/admin/TelegramIntegration.html">Интеграция с Telegram</a>.</p>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w9x3r65YbAo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oLKQVUrxCYU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <h5 id="ticketmail">Как подавать заявки с электронной почты в HubEx?</h5>
 <p>С помощью интеграции можно настроить подачу <strong>Заявок</strong> в HubEx по электронной почте. При настройке двусторонней интеграции общение с заказчиком объединяется в рамках чата внутри <strong>Заявки</strong>. Подробнее читайте в статье <a href="https://wiki.hubex.ru/docs/FAQ/RU/admin/TicketMail.html">Интеграция по электронной почте, подача заявок по электронной почте</a>.</p>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oLKQVUrxCYU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w9x3r65YbAo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 <h5 id="floorplan">Как подавать заявки с использованием планов помещений в HubEx?</h5>

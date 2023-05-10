@@ -19,9 +19,10 @@
      <li><a href="#objectimport">Как использовать импорт объектов для быстрого старта работы в Hubex;</a></li>
      <li><a href="#calendar">Расписание заявок: как назначать заявки с помощью календаря;</a></li>
      <li><a href="#ticketonmap">Распределение заявок в Hubex с помощью календаря и карты;</a></li>
-    <li><a href="#generalanalytics">Бизнес-аналитика: Общая аналитика</a>;</li>
-     <li><a href="#engineersanalytics">Бизнес-аналитика: Отчет по сотрудникам</a>;</li>
-     <li><a href="#processefficiency">Бизнес-аналитика: Анализ эффективности процессов</a>;</li>
+    <li><a href="#generalanalytics">Аналитика: Общая аналитика</a>;</li>
+    <li><a href="#objectsanalytics">Аналитика: Отчет по объектам</a>;</li>
+     <li><a href="#engineersanalytics">Аналитика: Отчет по сотрудникам</a>;</li>
+     <li><a href="#processefficiency">Аналитика: Анализ эффективности процессов</a>;</li>
      <li><a href="#notification">Как настроить push-уведомление на телефон мобильного инженера</a></li>
      <li><a href="#contract">Как создать договор</a>;</li>
      <li><a href="#qrcode">Как подать заявку по QR-коду</a>;</li>
@@ -121,6 +122,18 @@
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/K4SYMSBNX90" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+<h5 id="objectsanalytics">Аналитика: Отчет по объектам</h5>
+<p><Strong>Отчет по объектам обслуживания</Strong> в HubEx дает возможность проанализировать данные, собранные по
+    <Strong>Объектам</Strong> и <Strong>Заявкам</Strong>. С помощью визуализаций в отчете
+    вы
+    сможете
+    ответить на
+    вопросы: по каким объектам нужно сокращать время закрытия <Strong>Заявок</Strong>? Какие темпы роста количества
+    обслуживаемого оборудования - нужно ли нанимать новых специалистов для обслуживания? </p>
+<p>Дополнительно ознакомьтесь со статьей <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/GeneralAnalytics.html">Отчет по объектам обслуживания</a>, где подробно описаны все визуализации и показатели.</p>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Kfdxmu6snHI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 <h5 id="EngineersAnalitics">Аналитика: Отчет по сотрудникам</h5>
 <p>Посмотрите, как работает бизнес-аналитика по выездному обслуживанию в разрезе эффективности персонала:</p>
@@ -134,7 +147,7 @@
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7oC98ISShGg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-<h5 id="processefficiency">Бизнес-аналитика:  Анализ эффективности процессов</h5>
+<h5 id="processefficiency">Аналитика:  Анализ эффективности процессов</h5>
 <p>Отчет <Strong>Анализ эффективности процессов</Strong> в HubEx позволяет найти проблемные места в бизнес-процессах сервисной организации, а также позволяет оценить эффективность внесенных в процессы изменений после обнаружения проблем. Подробнее читайте в статье <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/ProcessEfficiency.html">Анализ эффективности процессов</a>.</p>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/C7N6KPA_jhA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

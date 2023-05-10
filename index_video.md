@@ -130,7 +130,7 @@
     ответить на
     вопросы: по каким объектам нужно сокращать время закрытия <Strong>Заявок</Strong>? Какие темпы роста количества
     обслуживаемого оборудования - нужно ли нанимать новых специалистов для обслуживания? </p>
-<p>Дополнительно ознакомьтесь со статьей <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/GeneralAnalytics.html">Отчет по объектам обслуживания</a>, где подробно описаны все визуализации и показатели.</p>
+<p>Дополнительно ознакомьтесь со статьей <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/ObjectsAnalytics.html">Отчет по объектам обслуживания</a>, где подробно описаны все визуализации и показатели.</p>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Kfdxmu6snHI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

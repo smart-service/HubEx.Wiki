@@ -156,7 +156,7 @@
     выходящего из строя оборудования и т.д. </p>
 <p>Дополнительно ознакомьтесь со статьей <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/ClientsAnalytics.html">Отчет для клиента</a>, где подробно описаны все визуализации и показатели.</p>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7oC98ISShGg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FOT_mWBU1vI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 <h5 id="processefficiency">Аналитика:  Анализ эффективности процессов</h5>

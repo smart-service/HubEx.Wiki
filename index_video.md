@@ -22,6 +22,7 @@
     <li><a href="#generalanalytics">Аналитика: Общая аналитика</a>;</li>
     <li><a href="#objectsanalytics">Аналитика: Отчет по объектам</a>;</li>
      <li><a href="#engineersanalytics">Аналитика: Отчет по сотрудникам</a>;</li>
+     <li><a href="#clientsanalytics">Аналитика: Отчет для клиента</a>;</li>
      <li><a href="#processefficiency">Аналитика: Анализ эффективности процессов</a>;</li>
      <li><a href="#notification">Как настроить push-уведомление на телефон мобильного инженера</a></li>
      <li><a href="#contract">Как создать договор</a>;</li>
@@ -135,7 +136,7 @@
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Kfdxmu6snHI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-<h5 id="EngineersAnalitics">Аналитика: Отчет по сотрудникам</h5>
+<h5 id="engineersanalytics">Аналитика: Отчет по сотрудникам</h5>
 <p>Посмотрите, как работает бизнес-аналитика по выездному обслуживанию в разрезе эффективности персонала:</p>
 <ul>
 <li>Выполнение заявок и SLA;</li>
@@ -143,6 +144,17 @@
 <li>% полезной загрузки и другие ключевые показатели эффективности.</li>
 </ul>
 <p>Дополнительно ознакомьтесь со статьей <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/EngineersAnalytics.html">Отчет по сотрудникам</a>, где подробно описаны все визуализации и показатели.</p>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7oC98ISShGg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+<h5 id="clientsanalytics">Аналитика: Отчет для клиента</h5>
+<p><Strong>Отчет для клиента</Strong> в HubEx дает возможность получить сводные данные и основные показатели по <Strong>Заявкам</Strong>
+    в разрезе ваших клиентов (заказчиков). Данный отчет вы сможете предоставлять своим клиентам в качестве оперативной сводки по
+    состоянию выполнения <Strong>Заявок</Strong>. Также данный отчет поможет клиентам оценить частоту создания <Strong>Заявок</Strong> в разрезе
+    определенных <Strong>Объектов</Strong>, что позволит принять решение об изменении обслуживания, замене часто
+    выходящего из строя оборудования и т.д. </p>
+<p>Дополнительно ознакомьтесь со статьей <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/ClientsAnalytics.html">Отчет для клиента</a>, где подробно описаны все визуализации и показатели.</p>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7oC98ISShGg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

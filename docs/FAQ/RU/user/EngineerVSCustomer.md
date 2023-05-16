@@ -39,7 +39,7 @@ keywords: отличие сотрудника от заказчика, зака�
 <p><strong>Заказчикам</strong> в мобильном приложении <strong>HubEx заказчик</strong> доступны такие пункты меню <strong>Заявки</strong> и
     <strong>Сообщения</strong>.</p>
 <div>
-    <img style="margin: 0 auto; display: block; max-width: 45%;"
+    <img style="margin: 0 auto; display: block; max-width: 35%;"
          src="/attachments/images/FAQ/USER/EngineerVSCustomer/Mob.png"/>
 </div>
 

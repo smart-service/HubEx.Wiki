@@ -40,7 +40,7 @@ keywords: отличие сотрудника от заказчика, зака�
     <strong>Сообщения</strong>.</p>
 <div>
     <img style="margin: 0 auto; display: block; max-width: 45%;"
-         src="/attachments/images/FAQ/USER/EngineerVSCustomer/Mob.jpg"/>
+         src="/attachments/images/FAQ/USER/EngineerVSCustomer/Mob.png"/>
 </div>
 
 <p>Для <strong>Сотрудников</strong> доступ к различным данным и меню web-приложения может быть гибко настроен в <a

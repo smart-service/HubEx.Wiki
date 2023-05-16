@@ -49,6 +49,7 @@
 
 ### Пользователи: Сотрудники и Заказчики
 В данном разделе собраны ответы на вопросы о Сотрудниках и Заказчиках: отличие Роли от Должности, как пригласить сотрудника, как войти под учетной записью владельца тенанта.
+<h4 style="padding-left: 20px;"><a href="/docs/FAQ/RU/user/EngineerVSCustomer.html">Чем Сотрудник отличается от Заказчика?</a></h4>
 <h4 style="padding-left: 20px;"><a href="/docs/FAQ/RU/user/RoleVSPosition.html">Чем Роль отличается от Должности?</a></h4>
 <h4 style="padding-left: 20px;"><a href="/docs/FAQ/RU/user/HowToSendInvitation.html">Как отправлять приглашение для сотрудника/заказчика?</a></h4>
 

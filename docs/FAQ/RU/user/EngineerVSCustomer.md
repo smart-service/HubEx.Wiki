@@ -34,13 +34,13 @@ keywords: отличие сотрудника от заказчика, зака�
     <strong>Сообщения</strong> и <strong>Аналитика - Отчет для клиента</strong>.</p>
 <div>
     <img style="margin: 0 auto; display: block; max-width: 95%;"
-         src="/attachments/images/FAQ/USER/EnfineerVSCustomer/Web.jpg"/>
+         src="/attachments/images/FAQ/USER/EngineerVSCustomer/Web.jpg"/>
 </div>
 <p><strong>Заказчикам</strong> в мобильном приложении <strong>HubEx заказчик</strong> доступны такие пункты меню <strong>Заявки</strong> и
     <strong>Сообщения</strong>.</p>
 <div>
     <img style="margin: 0 auto; display: block; max-width: 45%;"
-         src="/attachments/images/FAQ/USER/EnfineerVSCustomer/Mob.jpg"/>
+         src="/attachments/images/FAQ/USER/EngineerVSCustomer/Mob.jpg"/>
 </div>
 
 <p>Для <strong>Сотрудников</strong> доступ к различным данным и меню web-приложения может быть гибко настроен в <a

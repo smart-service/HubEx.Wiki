@@ -38,19 +38,19 @@ keywords: мобильное приложение исполнителя, исп
     <li>Откройте меню <strong>Настройки – Конфиденциальность и безопасность</strong>;
     </li>
 
-    <div>
+    <p><div>
         <img style="margin: 0 auto; display: block; max-width: 70%;"
              src="/attachments/images/FAQ/USER/GeoSettings/IphoneGEO.jpg"/>
-    </div>
+    </div></p>
 
     <li>в разделе <strong>Службы геолокации</strong> переключатель параметра <strong>Службы геолокации</strong> должен
         быть установлен в позицию справа (включен).
     </li>
 
-    <div>
+    <p><div>
         <img style="margin: 0 auto; display: block; max-width: 70%;"
              src="/attachments/images/FAQ/USER/GeoSettings/IphoneGEO2.jpg"/>
-    </div>
+    </div></p>
 
 </ul>
 
@@ -60,20 +60,20 @@ keywords: мобильное приложение исполнителя, исп
     <li>Откройте меню <strong>Настройки</strong> и найдите приложение <strong>HubEx исполнитель</strong>;
     </li>
 
-    <div>
+    <p><div>
         <img style="margin: 0 auto; display: block; max-width: 70%;"
              src="/attachments/images/FAQ/USER/GeoSettings/IphoneGEO3.jpg"/>
-    </div>
+    </div></p>
 
     <li>в разделе <strong>Геопозиция – Разрешать доступ к геопозиции</strong> установите значение
         <strong>Всегда</strong>;
     </li>
     <li>для параметра <strong>Точная геопозиция</strong> переведите положение переключателя вправо (включен).</li>
 
-    <div>
+   <p> <div>
         <img style="margin: 0 auto; display: block; max-width: 70%;"
              src="/attachments/images/FAQ/USER/GeoSettings/IphoneGEO4.jpg"/>
-    </div>
+    </div></p>
 
 </ul>
 
@@ -84,18 +84,18 @@ keywords: мобильное приложение исполнителя, исп
     <li>Откройте меню <strong>Настройки – Локация</strong>;
     </li>
 
-    <div>
+    <p><div>
         <img style="margin: 0 auto; display: block; max-width: 70%;"
              src="/attachments/images/FAQ/USER/GeoSettings/SamsungGEO.jpg"/>
-    </div>
+    </div></p>
 
     <li>установите переключатель <strong>Включено</strong> вправо (включен).
     </li>
 
-    <div>
+    <p><div>
         <img style="margin: 0 auto; display: block; max-width: 35%;"
              src="/attachments/images/FAQ/USER/GeoSettings/SamsungGEO2.jpg"/>
-    </div>
+    </div></p>
 
 </ul>
 
@@ -105,18 +105,18 @@ keywords: мобильное приложение исполнителя, исп
     <li>В меню <strong>Настройки – Локация</strong> (из шага 1) перейдите в пункт <strong>Разрешения приложений</strong>;
     </li>
 
-    <div>
+    <p><div>
         <img style="margin: 0 auto; display: block; max-width: 35%;"
              src="/attachments/images/FAQ/USER/GeoSettings/SamsungGEO3.jpg"/>
-    </div>
+    </div></p>
 
     <li>найдите приложение <strong>HubEx исполнитель</strong> и установите флажок у параметра <strong>Разрешить в любом
         режиме</strong>.
     </li>
-    <div>
+    <p><div>
         <img style="margin: 0 auto; display: block; max-width: 70%;"
              src="/attachments/images/FAQ/USER/GeoSettings/SamsungGEO4.jpg"/>
-    </div>
+    </div></p>
 
 
 </ul>
@@ -135,20 +135,20 @@ keywords: мобильное приложение исполнителя, исп
         выберите пункт <strong>Особые права доступа</strong>;
     </li>
 
-    <div>
+    <p><div>
         <img style="margin: 0 auto; display: block; max-width: 70%;"
              src="/attachments/images/FAQ/USER/GeoSettings/SamsungGEO5.jpg"/>
-    </div>
+    </div></p>
 
     <li>далее выберите раздел <strong>Оптимизация расхода - Все</strong>, найдите приложение <strong>HubEx
         исполнитель</strong> и переведите
         переключатель в положение влево (выключено).
     </li>
 
-    <div>
+    <p><div>
         <img style="margin: 0 auto; display: block; max-width: 70%;"
              src="/attachments/images/FAQ/USER/GeoSettings/SamsungGEO6.jpg"/>
-    </div>
+    </div></p>
 
 </ul>
 
@@ -159,18 +159,18 @@ keywords: мобильное приложение исполнителя, исп
     <li>Откройте меню <strong>Настройки – Местоположение</strong>;
     </li>
 
-    <div>
+   <p> <div>
         <img style="margin: 0 auto; display: block; max-width: 70%;"
              src="/attachments/images/FAQ/USER/GeoSettings/XiaomiGEO.jpg"/>
-    </div>
+    </div></p>
 
     <li>установите переключатель <strong>Доступ к местоположению</strong> вправо (включен).
     </li>
 
-    <div>
+    <p><div>
         <img style="margin: 0 auto; display: block; max-width: 35%;"
              src="/attachments/images/FAQ/USER/GeoSettings/XiaomiGEO2.jpg"/>
-    </div>
+    </div></p>
 
 </ul>
 
@@ -180,28 +180,28 @@ keywords: мобильное приложение исполнителя, исп
     <li>В меню <strong>Настройки – Приложения – Все приложения</strong>;
     </li>
 
-    <div>
+    <p><div>
         <img style="margin: 0 auto; display: block; max-width: 70%;"
              src="/attachments/images/FAQ/USER/GeoSettings/XiaomiGEO3.jpg"/>
-    </div>
+    </div></p>
 
     <li>найдите приложение <strong>HubEx исполнитель</strong> и перейдите в раздел <strong>Разрешение
         приложений</strong>;
     </li>
-    <div>
+   <p> <div>
         <img style="margin: 0 auto; display: block; max-width: 70%;"
              src="/attachments/images/FAQ/USER/GeoSettings/XiaomiGEO4.jpg"/>
-    </div>
+    </div></p>
 
     <li>в разделе <strong>Разрешение приложений</strong> перейдите в меню <strong>Местоположение</strong> и установите
         флажок у параметра <strong>Разрешать в
             любом режиме</strong>, а также переключатель <strong>Использовать точное местоположение</strong> переведите
         вправо (включено).
     </li>
-    <div>
+   <p> <div>
         <img style="margin: 0 auto; display: block; max-width: 70%;"
              src="/attachments/images/FAQ/USER/GeoSettings/XiaomiGEO5.jpg"/>
-    </div>
+    </div></p>
 
 </ul>
 
@@ -212,18 +212,18 @@ keywords: мобильное приложение исполнителя, исп
     <li>Откройте меню <strong>Настройки – Данные о местоположении</strong>;
     </li>
 
-    <div>
+   <p> <div>
         <img style="margin: 0 auto; display: block; max-width: 70%;"
              src="/attachments/images/FAQ/USER/GeoSettings/HuaweiGEO.jpg"/>
-    </div>
+    </div></p>
 
     <li>установите переключатель <strong>Доступ к данным о местоположении</strong> вправо (включен).
     </li>
 
-    <div>
+   <p> <div>
         <img style="margin: 0 auto; display: block; max-width: 35%;"
              src="/attachments/images/FAQ/USER/GeoSettings/HuaweiGEO2.jpg"/>
-    </div>
+    </div></p>
 
 </ul>
 
@@ -233,24 +233,24 @@ keywords: мобильное приложение исполнителя, исп
     <li>В меню <strong>Настройки – Приложения</strong>;
     </li>
 
-    <div>
+   <p> <div>
         <img style="margin: 0 auto; display: block; max-width: 90%;"
              src="/attachments/images/FAQ/USER/GeoSettings/HuaweiGEO3.jpg"/>
-    </div>
+    </div></p>
 
     <li>найдите приложение <strong>HubEx исполнитель</strong> и перейдите в раздел <strong>Права</strong>;
     </li>
-    <div>
+    <p><div>
         <img style="margin: 0 auto; display: block; max-width: 70%;"
              src="/attachments/images/FAQ/USER/GeoSettings/HuaweiGEO4.jpg"/>
-    </div>
+    </div></p>
 
     <li>в разделе <strong>Геоданные</strong> установите флажок у параметра <strong>Разрешать всегда</strong>.
     </li>
-    <div>
+   <p> <div>
         <img style="margin: 0 auto; display: block; max-width: 70%;"
              src="/attachments/images/FAQ/USER/GeoSettings/HuaweiGEO5.jpg"/>
-    </div>
+    </div></p>
 
 </ul>
 
@@ -268,26 +268,26 @@ keywords: мобильное приложение исполнителя, исп
         выберите <strong>Оптимизация батареи</strong>;
     </li>
 
-    <div>
+   <p> <div>
         <img style="margin: 0 auto; display: block; max-width: 70%;"
              src="/attachments/images/FAQ/USER/GeoSettings/HuaweiGEO6.jpg"/>
-    </div>
+    </div></p>
 
     <li>нажмите на меню <strong>Запрещено</strong> и выберите пункт <strong>Все приложения</strong>;
     </li>
 
-    <div>
+   <p> <div>
         <img style="margin: 0 auto; display: block; max-width: 70%;"
              src="/attachments/images/FAQ/USER/GeoSettings/HuaweiGEO7.jpg"/>
-    </div>
+    </div></p>
 
     <li>в строке поиска найдите приложение <strong>HubEx исполнитель</strong> и установите флажок у параметра <strong>Разрешить</strong>.	.
     </li>
 
-    <div>
+   <p> <div>
         <img style="margin: 0 auto; display: block; max-width: 70%;"
              src="/attachments/images/FAQ/USER/GeoSettings/HuaweiGEO8.jpg"/>
-    </div>
+    </div></p>
 
 </ul>
 

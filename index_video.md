@@ -14,6 +14,7 @@
      <li><a href="#engineermob">Мобильное приложение инженера: работа специалиста с мобильного телефона;</a></li>
      <li><a href="#customermob">Мобильное приложение заказчика. Как заказчику создавать и отслеживать заявки?;</a></li>
      <li><a href="#plannedticket">Как создавать плановые заявки в системе;</a></li>
+    <li><a href="#planschedule">Аналитика: График обслуживания объектов</a>;</li>
      <li><a href="#addfields">Как создавать дополнительные поля в HubEx;</a></li>
      <li><a href="#checklists">Чек-листы в HubEx: контролируйте качество работ, обучайте новых сотрудников;</a></li>
      <li><a href="#objectimport">Как использовать импорт объектов для быстрого старта работы в Hubex;</a></li>
@@ -86,6 +87,12 @@
 <h5 id="plannedticket">Как создавать плановые заявки в системе</h5>
 <p>Дополнительно окзнакомьтесь со статьей <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/PlannedTickets.html">Создание плановой заявки</a>. В статье подробно описан процесс создания и редактирования плановых заявок в web-приложении.</p>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/S9YxwQzZ2o4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<h5 id="planshedule">Аналитика: График обслуживания объектов</h5>
+<p><strong>График обслуживания объектов</strong> - это форма представления <strong>Плановых заявок</strong>. Он
+    используется при работе с
+    планово-предупредительными работами, техническим обслуживанием объектов. Дополнительно окзнакомьтесь со статьей <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/PlannedTicketsSchedule.html">График обслуживания объектов</a>. </p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tC8K8xPxTSM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <h5 id="addfields">Как создавать дополнительные поля в HubEx</h5>
 <p>Процессы создания дополнительных полейтакже подробно описаны в статьях <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/AdditionalFields.html">Создание дополнительных полей для заявки</a> и <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/AdditionalFieldsObject.htmll">Создание дополнительных полей для объекта</a>.</p>

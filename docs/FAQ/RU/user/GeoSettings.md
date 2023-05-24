@@ -19,7 +19,7 @@ keywords: мобильное приложение исполнителя, исп
     </li>
 </ul>
 
-<p>Данную инструкцию по настройке различных моделей телефонов можно также скачать в формате .pdf по <a href="https://smartsrv.sharepoint.com/:b:/s/HubEx/EXiXzrzI3rtGuM7icAFlRKMBUqmMwuEnh6Bq4Zs9LW8SdQ?e=jdrdib">ссылке</a>.</p>
+<p>Данную инструкцию по настройке различных моделей телефонов можно также скачать в формате .pdf по <a href="https://smartsrv.sharepoint.com/:b:/s/HubEx/EXiXzrzI3rtGuM7icAFlRKMBUqmMwuEnh6Bq4Zs9LW8SdQ?e=jdrdib" target="_blank">ссылке</a>.</p>
 </html>
 
 <body>

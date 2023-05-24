@@ -86,6 +86,7 @@ https://wiki.hubex.ru/docs/FAQ/RU/user/QRcodeMain.html
 https://wiki.hubex.ru/docs/FAQ/RU/user/CustomerAgreement.html
 https://wiki.hubex.ru/docs/FAQ/RU/admin/Skills.html
 https://wiki.hubex.ru/docs/FAQ/RU/user/GEOinMob.html
+https://wiki.hubex.ru/docs/FAQ/RU/user/GeoSettings.html
 https://wiki.hubex.ru/docs/FAQ/RU/user/TicketsOnMap.html
 https://wiki.hubex.ru/docs/FAQ/RU/user/ChoiceWorkType.html
 https://wiki.hubex.ru/docs/FAQ/RU/user/UserOnMap.html

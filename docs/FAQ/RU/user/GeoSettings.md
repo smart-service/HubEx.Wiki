@@ -37,7 +37,7 @@ keywords: мобильное приложение исполнителя, исп
     </li>
 
     <div>
-        <img style="margin: 0 auto; display: block; max-width: 90%;"
+        <img style="margin: 0 auto; display: block; max-width: 70%;"
              src="/attachments/images/FAQ/USER/GeoSettings/IphoneGEO.jpg"/>
     </div>
 
@@ -46,7 +46,7 @@ keywords: мобильное приложение исполнителя, исп
     </li>
 
     <div>
-        <img style="margin: 0 auto; display: block; max-width: 90%;"
+        <img style="margin: 0 auto; display: block; max-width: 70%;"
              src="/attachments/images/FAQ/USER/GeoSettings/IphoneGEO2.jpg"/>
     </div>
 
@@ -59,7 +59,7 @@ keywords: мобильное приложение исполнителя, исп
     </li>
 
     <div>
-        <img style="margin: 0 auto; display: block; max-width: 90%;"
+        <img style="margin: 0 auto; display: block; max-width: 70%;"
              src="/attachments/images/FAQ/USER/GeoSettings/IphoneGEO3.jpg"/>
     </div>
 
@@ -69,7 +69,7 @@ keywords: мобильное приложение исполнителя, исп
     <li>для параметра <strong>Точная геопозиция</strong> переведите положение переключателя вправо (включен).</li>
 
     <div>
-        <img style="margin: 0 auto; display: block; max-width: 90%;"
+        <img style="margin: 0 auto; display: block; max-width: 70%;"
              src="/attachments/images/FAQ/USER/GeoSettings/IphoneGEO4.jpg"/>
     </div>
 
@@ -83,7 +83,7 @@ keywords: мобильное приложение исполнителя, исп
     </li>
 
     <div>
-        <img style="margin: 0 auto; display: block; max-width: 90%;"
+        <img style="margin: 0 auto; display: block; max-width: 70%;"
              src="/attachments/images/FAQ/USER/GeoSettings/SamsungGEO.jpg"/>
     </div>
 
@@ -91,7 +91,7 @@ keywords: мобильное приложение исполнителя, исп
     </li>
 
     <div>
-        <img style="margin: 0 auto; display: block; max-width: 90%;"
+        <img style="margin: 0 auto; display: block; max-width: 40%;"
              src="/attachments/images/FAQ/USER/GeoSettings/SamsungGEO2.jpg"/>
     </div>
 

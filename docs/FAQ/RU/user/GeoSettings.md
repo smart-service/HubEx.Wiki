@@ -18,6 +18,8 @@ keywords: мобильное приложение исполнителя, исп
     <li><a href="#huaweioptional">Дополнительные настройки GPS для Huawei (Android);</a>
     </li>
 </ul>
+
+<p>Инструкцию по настройке различных моделей телефонов можно скачать по <a href="https://smartsrv.sharepoint.com/:b:/s/HubEx/EZwv5lhdFpJPiUnyxizuwNkB_DOoHTFAVIrwSt6EntpbXg?e=W9UhrI">ссылке</a> в формате .pdf.</p>
 </html>
 
 <body>

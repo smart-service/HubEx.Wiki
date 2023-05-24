@@ -91,7 +91,7 @@ keywords: мобильное приложение исполнителя, исп
     </li>
 
     <div>
-        <img style="margin: 0 auto; display: block; max-width: 40%;"
+        <img style="margin: 0 auto; display: block; max-width: 35%;"
              src="/attachments/images/FAQ/USER/GeoSettings/SamsungGEO2.jpg"/>
     </div>
 
@@ -104,7 +104,7 @@ keywords: мобильное приложение исполнителя, исп
     </li>
 
     <div>
-        <img style="margin: 0 auto; display: block; max-width: 90%;"
+        <img style="margin: 0 auto; display: block; max-width: 35%;"
              src="/attachments/images/FAQ/USER/GeoSettings/SamsungGEO3.jpg"/>
     </div>
 
@@ -112,7 +112,7 @@ keywords: мобильное приложение исполнителя, исп
         режиме</strong>.
     </li>
     <div>
-        <img style="margin: 0 auto; display: block; max-width: 90%;"
+        <img style="margin: 0 auto; display: block; max-width: 70%;"
              src="/attachments/images/FAQ/USER/GeoSettings/SamsungGEO4.jpg"/>
     </div>
 
@@ -134,7 +134,7 @@ keywords: мобильное приложение исполнителя, исп
     </li>
 
     <div>
-        <img style="margin: 0 auto; display: block; max-width: 90%;"
+        <img style="margin: 0 auto; display: block; max-width: 70%;"
              src="/attachments/images/FAQ/USER/GeoSettings/SamsungGEO5.jpg"/>
     </div>
 
@@ -144,7 +144,7 @@ keywords: мобильное приложение исполнителя, исп
     </li>
 
     <div>
-        <img style="margin: 0 auto; display: block; max-width: 90%;"
+        <img style="margin: 0 auto; display: block; max-width: 70%;"
              src="/attachments/images/FAQ/USER/GeoSettings/SamsungGEO6.jpg"/>
     </div>
 
@@ -158,7 +158,7 @@ keywords: мобильное приложение исполнителя, исп
     </li>
 
     <div>
-        <img style="margin: 0 auto; display: block; max-width: 90%;"
+        <img style="margin: 0 auto; display: block; max-width: 70%;"
              src="/attachments/images/FAQ/USER/GeoSettings/XiaomiGEO.jpg"/>
     </div>
 
@@ -166,7 +166,7 @@ keywords: мобильное приложение исполнителя, исп
     </li>
 
     <div>
-        <img style="margin: 0 auto; display: block; max-width: 90%;"
+        <img style="margin: 0 auto; display: block; max-width: 35%;"
              src="/attachments/images/FAQ/USER/GeoSettings/XiaomiGEO2.jpg"/>
     </div>
 
@@ -179,7 +179,7 @@ keywords: мобильное приложение исполнителя, исп
     </li>
 
     <div>
-        <img style="margin: 0 auto; display: block; max-width: 90%;"
+        <img style="margin: 0 auto; display: block; max-width: 70%;"
              src="/attachments/images/FAQ/USER/GeoSettings/XiaomiGEO3.jpg"/>
     </div>
 
@@ -187,7 +187,7 @@ keywords: мобильное приложение исполнителя, исп
         приложений</strong>;
     </li>
     <div>
-        <img style="margin: 0 auto; display: block; max-width: 90%;"
+        <img style="margin: 0 auto; display: block; max-width: 70%;"
              src="/attachments/images/FAQ/USER/GeoSettings/XiaomiGEO4.jpg"/>
     </div>
 
@@ -197,7 +197,7 @@ keywords: мобильное приложение исполнителя, исп
         вправо (включено).
     </li>
     <div>
-        <img style="margin: 0 auto; display: block; max-width: 90%;"
+        <img style="margin: 0 auto; display: block; max-width: 70%;"
              src="/attachments/images/FAQ/USER/GeoSettings/XiaomiGEO5.jpg"/>
     </div>
 
@@ -211,7 +211,7 @@ keywords: мобильное приложение исполнителя, исп
     </li>
 
     <div>
-        <img style="margin: 0 auto; display: block; max-width: 90%;"
+        <img style="margin: 0 auto; display: block; max-width: 70%;"
              src="/attachments/images/FAQ/USER/GeoSettings/HuaweiGEO.jpg"/>
     </div>
 
@@ -219,7 +219,7 @@ keywords: мобильное приложение исполнителя, исп
     </li>
 
     <div>
-        <img style="margin: 0 auto; display: block; max-width: 90%;"
+        <img style="margin: 0 auto; display: block; max-width: 35%;"
              src="/attachments/images/FAQ/USER/GeoSettings/HuaweiGEO2.jpg"/>
     </div>
 
@@ -239,14 +239,14 @@ keywords: мобильное приложение исполнителя, исп
     <li>найдите приложение <strong>HubEx исполнитель</strong> и перейдите в раздел <strong>Права</strong>;
     </li>
     <div>
-        <img style="margin: 0 auto; display: block; max-width: 90%;"
+        <img style="margin: 0 auto; display: block; max-width: 70%;"
              src="/attachments/images/FAQ/USER/GeoSettings/HuaweiGEO4.jpg"/>
     </div>
 
     <li>в разделе <strong>Геоданные</strong> установите флажок у параметра <strong>Разрешать всегда</strong>.
     </li>
     <div>
-        <img style="margin: 0 auto; display: block; max-width: 90%;"
+        <img style="margin: 0 auto; display: block; max-width: 70%;"
              src="/attachments/images/FAQ/USER/GeoSettings/HuaweiGEO5.jpg"/>
     </div>
 
@@ -267,7 +267,7 @@ keywords: мобильное приложение исполнителя, исп
     </li>
 
     <div>
-        <img style="margin: 0 auto; display: block; max-width: 90%;"
+        <img style="margin: 0 auto; display: block; max-width: 70%;"
              src="/attachments/images/FAQ/USER/GeoSettings/HuaweiGEO6.jpg"/>
     </div>
 
@@ -275,7 +275,7 @@ keywords: мобильное приложение исполнителя, исп
     </li>
 
     <div>
-        <img style="margin: 0 auto; display: block; max-width: 90%;"
+        <img style="margin: 0 auto; display: block; max-width: 70%;"
              src="/attachments/images/FAQ/USER/GeoSettings/HuaweiGEO7.jpg"/>
     </div>
 
@@ -283,7 +283,7 @@ keywords: мобильное приложение исполнителя, исп
     </li>
 
     <div>
-        <img style="margin: 0 auto; display: block; max-width: 90%;"
+        <img style="margin: 0 auto; display: block; max-width: 70%;"
              src="/attachments/images/FAQ/USER/GeoSettings/HuaweiGEO8.jpg"/>
     </div>
 

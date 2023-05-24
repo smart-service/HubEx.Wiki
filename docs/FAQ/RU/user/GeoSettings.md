@@ -11,10 +11,10 @@ keywords: мобильное приложение исполнителя, исп
 <ul>
     <li><a href="#geomain">Общая информация по настройке;</a></li>
     <li><a href="#iphone">Настройки для Iphone (iOS);</a></li>
-    <li><a href="#samsung">Настройки для Samsung (Android);</a>
-    <li><a href="#samsungoptional">Дополнительные настройки GPS для Samsung (Android);</a>
-    <li><a href="#xiaomi">Настройки для Xiaomi (Android);</a>
-    <li><a href="#huawei">Настройки для Huawei (Android);</a>
+    <li><a href="#samsung">Настройки для Samsung (Android);</a></li>
+    <li><a href="#samsungoptional">Дополнительные настройки GPS для Samsung (Android);</a></li>
+    <li><a href="#xiaomi">Настройки для Xiaomi (Android);</a></li>
+    <li><a href="#huawei">Настройки для Huawei (Android);</a></li>
     <li><a href="#huaweioptional">Дополнительные настройки GPS для Huawei (Android);</a>
     </li>
 </ul>

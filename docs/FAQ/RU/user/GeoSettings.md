@@ -19,7 +19,7 @@ keywords: мобильное приложение исполнителя, исп
     </li>
 </ul>
 
-<p>Данную инструкцию по настройке различных моделей телефонов можно также скачать по <a href="https://smartsrv.sharepoint.com/:b:/s/HubEx/EXiXzrzI3rtGuM7icAFlRKMBUqmMwuEnh6Bq4Zs9LW8SdQ?e=jdrdib">ссылке</a> в формате .pdf и ознакомить с ней ваших сотрудников.</p>
+<p>Данную инструкцию по настройке различных моделей телефонов можно также скачать в формате .pdf по <a href="https://smartsrv.sharepoint.com/:b:/s/HubEx/EXiXzrzI3rtGuM7icAFlRKMBUqmMwuEnh6Bq4Zs9LW8SdQ?e=jdrdib">ссылке</a>.</p>
 </html>
 
 <body>
@@ -281,7 +281,7 @@ keywords: мобильное приложение исполнителя, исп
              src="/attachments/images/FAQ/USER/GeoSettings/HuaweiGEO7.jpg"/>
     </div></p>
 
-    <li>в строке поиска найдите приложение <strong>HubEx исполнитель</strong> и установите флажок у параметра <strong>Разрешить</strong>.	.
+    <li>в строке поиска найдите приложение <strong>HubEx исполнитель</strong> и установите флажок у параметра <strong>Разрешить</strong>.
     </li>
 
    <p> <div>

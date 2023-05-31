@@ -40,7 +40,7 @@ keywords: массовые действия, выбрать несколько �
         все <strong>Заявки</strong> с <strong>Заказчиком = Компания Cook Kitchen</strong>. Таким образом получим отфильтрованный список.
         <p>
         <div>
-            <img style="margin: 0 auto; display: block; max-width: 95%;"
+            <img style="margin: 0 auto; display: block; max-width: 100%;"
                  src="/attachments/images/FAQ/USER/GroupActionsForTickets/Tickets.jpg"/>
         </div>
         </p>
@@ -51,7 +51,7 @@ keywords: массовые действия, выбрать несколько �
         любой <strong>Заявки</strong> из отфильтрованного списка. Вы увидите, как появится окошко для установки флажка выбора.
         <p>
         <div>
-            <img style="margin: 0 auto; display: block; max-width: 95%;"
+            <img style="margin: 0 auto; display: block; max-width: 100%;"
                  src="/attachments/images/FAQ/USER/GroupActionsForTickets/SelectEmpty.jpg"/>
         </div>
         </p>
@@ -59,7 +59,7 @@ keywords: массовые действия, выбрать несколько �
         установки флажка в панели редактирования. Либо продолжить выбор <strong>Заявок</strong> с помощью установки флажков вручную
         <p>
         <div>
-            <img style="margin: 0 auto; display: block; max-width: 95%;"
+            <img style="margin: 0 auto; display: block; max-width: 100%;"
                  src="/attachments/images/FAQ/USER/GroupActionsForTickets/SelectedTick.jpg"/>
         </div>
         </p>
@@ -70,7 +70,7 @@ keywords: массовые действия, выбрать несколько �
         <p>Обратите внимание! С помощью данного функционала можно назначать исполнителей как на <strong>Заявки</strong>, где исполнитель еще не был указан, так и на <strong>Заявки</strong>, где уже был выбран исполнитель(ли). </p>
         <p>
         <div>
-            <img style="margin: 0 auto; display: block; max-width: 95%;"
+            <img style="margin: 0 auto; display: block; max-width: 100%;"
                  src="/attachments/images/FAQ/USER/GroupActionsForTickets/Edit.jpg"/>
         </div>
         </p>
@@ -78,7 +78,7 @@ keywords: массовые действия, выбрать несколько �
     <li>Выберите специалистов, которых нужно назначить на <strong>Заявки</strong> и нажмите кнопку <strong>Выбрать</strong>. 
         <p>
         <div>
-            <img style="margin: 0 auto; display: block; max-width: 95%;"
+            <img style="margin: 0 auto; display: block; max-width: 100%;"
                  src="/attachments/images/FAQ/USER/GroupActionsForTickets/ParamsSelect.jpg"/>
         </div>
         </p>
@@ -86,7 +86,7 @@ keywords: массовые действия, выбрать несколько �
     <li>Нажмите кнопку <strong>Применить</strong>.
       <p>
         <div>
-            <img style="margin: 0 auto; display: block; max-width: 95%;"
+            <img style="margin: 0 auto; display: block; max-width: 100%;"
                  src="/attachments/images/FAQ/USER/GroupActionsForTickets/ParamsSelect2.jpg"/>
         </div>
         </p>
@@ -95,7 +95,7 @@ keywords: массовые действия, выбрать несколько �
 </ol>
 <p>Назначенный исполнитель(ли) сразу отобразятся для выбранных <strong>Заявок</strong>.</p>
 <div>
-    <img style="margin: 0 auto; display: block; max-width: 95%;"
+    <img style="margin: 0 auto; display: block; max-width: 100%;"
          src="/attachments/images/FAQ/USER/GroupActionsForTickets/Performer.jpg"/>
 </div>
 
@@ -110,7 +110,7 @@ keywords: массовые действия, выбрать несколько �
         все <strong>Заявки</strong> с <strong>Видом работ = Гарантийный ремонт</strong>. Таким образом получим отфильтрованный список.
         <p>
         <div>
-            <img style="margin: 0 auto; display: block; max-width: 95%;"
+            <img style="margin: 0 auto; display: block; max-width: 100%;"
                  src="/attachments/images/FAQ/USER/GroupActionsForTickets/Tickets2.jpg"/>
         </div>
         </p>
@@ -121,7 +121,7 @@ keywords: массовые действия, выбрать несколько �
         любой <strong>Заявки</strong> из отфильтрованного списка. Вы увидите, как появится окошко для установки флажка выбора.
         <p>
         <div>
-            <img style="margin: 0 auto; display: block; max-width: 95%;"
+            <img style="margin: 0 auto; display: block; max-width: 100%;"
                  src="/attachments/images/FAQ/USER/GroupActionsForTickets/SelectEmpty2.jpg"/>
         </div>
         </p>
@@ -129,7 +129,7 @@ keywords: массовые действия, выбрать несколько �
         установки флажка в панели редактирования. Либо продолжить выбор <strong>Заявок</strong> с помощью установки флажков вручную
         <p>
         <div>
-            <img style="margin: 0 auto; display: block; max-width: 95%;"
+            <img style="margin: 0 auto; display: block; max-width: 100%;"
                  src="/attachments/images/FAQ/USER/GroupActionsForTickets/SelectedTick2.jpg"/>
         </div>
         </p>
@@ -138,13 +138,13 @@ keywords: массовые действия, выбрать несколько �
     <li>Нажмите кнопку <strong>Удалить</strong>. Откроется диалоговое окно для подтверждения удаления. 
         <p>
         <div>
-            <img style="margin: 0 auto; display: block; max-width: 95%;"
+            <img style="margin: 0 auto; display: block; max-width: 100%;"
                  src="/attachments/images/FAQ/USER/GroupActionsForTickets/Deleting.jpg"/>
         </div>
         </p>
          <p>
         <div>
-            <img style="margin: 0 auto; display: block; max-width: 95%;"
+            <img style="margin: 0 auto; display: block; max-width: 100%;"
                  src="/attachments/images/FAQ/USER/GroupActionsForTickets/Deleting2.jpg"/>
         </div>
         </p>
@@ -154,17 +154,17 @@ keywords: массовые действия, выбрать несколько �
 </ol>
 <p>Удаленные <strong>Заявки</strong> сразу исчезнут из списка.</p>
 <div>
-    <img style="margin: 0 auto; display: block; max-width: 95%;"
+    <img style="margin: 0 auto; display: block; max-width: 100%;"
          src="/attachments/images/FAQ/USER/GroupActionsForTickets/TicketList.jpg"/>
 </div>
 
 <p>Найти и просмотреть удаленные <strong>Заявки</strong> можно с помощью фильтров: выбрать в разделе <strong>Видимость заявок</strong> вариант <strong>Только удаленные</strong>.</p>
 <div>
-    <img style="margin: 0 auto; display: block; max-width: 95%;"
+    <img style="margin: 0 auto; display: block; max-width: 100%;"
          src="/attachments/images/FAQ/USER/GroupActionsForTickets/TicketList2.jpg"/>
 </div>
 <p><div>
-    <img style="margin: 0 auto; display: block; max-width: 95%;"
+    <img style="margin: 0 auto; display: block; max-width: 100%;"
          src="/attachments/images/FAQ/USER/GroupActionsForTickets/TicketList3.jpg"/>
 </div></p>
 </body>

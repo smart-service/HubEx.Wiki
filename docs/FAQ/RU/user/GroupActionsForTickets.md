@@ -41,7 +41,7 @@ keywords: массовые действия, выбрать несколько �
         <p>
         <div>
             <img style="margin: 0 auto; display: block; max-width: 95%;"
-                 src="/attachments/images/FAQ/USER/GroupActions/Tickets.jpg"/>
+                 src="/attachments/images/FAQ/USER/GroupActionsForTickets/Tickets.jpg"/>
         </div>
         </p>
         Использование фильтров целесообразно при большом количестве <strong>Заявок</strong> в списке для того, чтобы минимизировать

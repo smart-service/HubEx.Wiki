@@ -240,8 +240,8 @@ keywords: qr-код, шаблон объектов, приемка и марки
 <div>
     <img style="margin: 0 auto; display: block; max-width: 90%;"
          src="/attachments/images/FAQ/USER/CreatingObjTemplates/QRButton2.jpg"/>
-    <p></div>
-
+    </div>
+<p>
 <div>
     <img style="margin: 0 auto; display: block; max-width: 90%;"
          src="/attachments/images/FAQ/USER/CreatingObjTemplates/QRButton3.jpg"/>

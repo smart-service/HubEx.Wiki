@@ -86,6 +86,9 @@
     <a href="/docs/FAQ/RU/user/Filters.html">Список заявок, поиск заявок с помощью фильтров</a></h4>
 
 <h4 style="padding-left: 20px;">
+    <a href="/docs/FAQ/RU/user/GroupActionsForTickets.html">Массовые действия для списка заявок</a></h4>
+
+<h4 style="padding-left: 20px;">
     <a href="/docs/FAQ/RU/user/ElectedTicket.html">Копирование и удаление заявок, заявки в избранном</a><span class="new-badge" title="22.02.2023"></span></h4>
 
 <h4 style="padding-left: 20px;">

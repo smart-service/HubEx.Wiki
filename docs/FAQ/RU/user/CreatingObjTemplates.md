@@ -225,9 +225,11 @@ keywords: qr-код, шаблон объектов, приемка и марки
     приложении
     исполнителч или заказчика.</p>
 
-<p>Готовые QR-стикеры можно заказать в web-приложении по кнопке
+<p>Готовые QR-стикеры (QR-шильды) можно заказать в web-приложении по кнопке
     <strong>QR-стикеры
         на вашем оборудовании</strong>: вы получите уникальные стикеры с вашим логотипом для маркировки обслуживаемого оборудования. </p>
+
+       
 <div>
     <img style="margin: 0 auto; display: block; max-width: 90%;"
          src="/attachments/images/FAQ/USER/CreatingObjTemplates/QRButton.jpg"/>
@@ -246,6 +248,11 @@ keywords: qr-код, шаблон объектов, приемка и марки
          src="/attachments/images/FAQ/USER/CreatingObjTemplates/QRButton3.jpg"/>
 </div>
 </p>
+<p>С помощью цифровых шильд вы сможете предоставить клиентам удобный способ быстро подать <strong>Заявку</strong> на обслуживание просто отсканировав QR камерой смартфона. Подробнее об этом читайте в следующей статье: <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/CreatingTaskTemplates.html">Создание шаблона заявки, подача заявки по QR-коду</a>. </p>
+<div>
+    <img style="margin: 0 auto; display: block; max-width: 70%;"
+         src="/attachments/images/FAQ/USER/CreatingObjTemplates/QR.jpg"/>
+</div>
 
 
 <h5 id="publication">Публикация объекта (оборудования) после маркировки</h5>

@@ -66,7 +66,7 @@ keywords: табличное представление заявок, карто
     <img style="margin: 0 auto; display: block; max-width: 95%;"
          src="/attachments/images/FAQ/USER/Filters/Date.jpg"/>
 </div>
-<p>Все изменения по <strong>Заявке</strong> хранятся на вкладке <strong>История измненений</strong> в <strong>Заявке</strong>. В поле <strong>Дата изменений</strong> отображается последняя строка из истории.</p>
+<p>Все изменения по <strong>Заявке</strong> хранятся на вкладке <strong>История изменений</strong> в <strong>Заявке</strong>. В поле <strong>Дата изменений</strong> отображается последняя строка из истории.</p>
 <div>
     <img style="margin: 0 auto; display: block; max-width: 95%;"
          src="/attachments/images/FAQ/USER/Filters/HistoryOfChange.jpg"/>
@@ -157,7 +157,7 @@ keywords: табличное представление заявок, карто
     <strong>Состояние заявки</strong> один из вариантов:</p>
 <ul>
     <li><strong>Только закрытые</strong>: вы увидите в списке только закрытые <strong>Заявки</strong>;</li>
-    <li><strong>Все заявки</strong>: в списке отразятся и открытые, и закрыте <strong>Заявки</strong>.</li>
+    <li><strong>Все заявки</strong>: в списке отразятся и открытые, и закрытые <strong>Заявки</strong>.</li>
 </ul>
 <div>
     <img style="margin: 0 auto; display: block; max-width: 80%;"

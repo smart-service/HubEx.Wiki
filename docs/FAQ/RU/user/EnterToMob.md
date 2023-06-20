@@ -116,7 +116,7 @@ keywords: вход в мобильное приложение, войти в п�
 
 
         </ul>
-    </p>
+   
     <div>
         <img style="margin: 0 auto; display: block; max-width: 90%;"
              src="/attachments/images/FAQ/USER/EnterToMob/Role.jpg"/>

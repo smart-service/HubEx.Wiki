@@ -59,7 +59,7 @@ keywords: дочерние заявки, дочерняя заявка, роди
             <img style="margin: 0 auto; display: block; max-width: 90%;"
                  src="/attachments/images/FAQ/USER/ChildTicket/NewChildTicket.jpg"/>
         </div>
-        <p>Полная форма <strong>Дочерней заявки</strong> выглядит точно также как и простая заявка. Отличительной чертой <strong>Дочерней заявки</strong>
+        <p>Полная форма <strong>Дочерней заявки</strong> выглядит точно так же как и простая заявка. Отличительной чертой <strong>Дочерней заявки</strong>
             является заполненное поле <strong>Родительская заявка</strong>. В нем отражается номер <strong>Родительской заявки</strong>. </p>
 
         <div>

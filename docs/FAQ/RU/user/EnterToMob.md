@@ -42,12 +42,12 @@ keywords: вход в мобильное приложение, войти в п�
             В письме (сообщении) будет находиться ссылка для подтверждения регистрации и создания пароля.</p>
         <p></p>
         <div>
-            <img style="margin: 0 auto; display: block; max-width: 60%;"
+            <img style="margin: 0 auto; display: block; max-width: 70%;"
                  src="/attachments/images/FAQ/USER/EnterToMob/Mob.jpg"/>
         </div>
         <p>
         <div>
-            <img style="margin: 0 auto; display: block; max-width: 60%;"
+            <img style="margin: 0 auto; display: block; max-width: 70%;"
                  src="/attachments/images/FAQ/USER/EnterToMob/Mob2.jpg"/>
         </div>
         </p>
@@ -64,7 +64,7 @@ keywords: вход в мобильное приложение, войти в п�
                 одноразовому коду</strong>.</p>
 
         <div>
-            <img style="margin: 0 auto; display: block; max-width: 40%;"
+            <img style="margin: 0 auto; display: block; max-width: 30%;"
                  src="/attachments/images/FAQ/USER/EnterToMob/Mob4.jpg"/>
         </div>
 
@@ -78,7 +78,7 @@ keywords: вход в мобильное приложение, войти в п�
         <p>Если код был введен верно, приложение запустится в обычном режиме.</p>
 
         <div>
-            <img style="margin: 0 auto; display: block; max-width: 40%;"
+            <img style="margin: 0 auto; display: block; max-width: 70%;"
                  src="/attachments/images/FAQ/USER/EnterToMob/Code.jpg"/>
         </div>
 

@@ -48,7 +48,7 @@ keywords: вход в мобильное приложение, войти в п�
         <p>
         <div>
             <img style="margin: 0 auto; display: block; max-width: 60%;"
-                 src="/attachments/images/FAQ/USER/EnterToMob/Mob.jpg"/>
+                 src="/attachments/images/FAQ/USER/EnterToMob/Mob2.jpg"/>
         </div>
         </p>
 

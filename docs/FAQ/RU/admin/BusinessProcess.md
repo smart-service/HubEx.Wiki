@@ -296,7 +296,7 @@ ___
 ### Следующие шаги:
 - [SLA - Правила расчета крайнего срока закрытия заявки](./SLA.md)
 - [Настройка оповещений](./Notifications.md)
-- [Создание дополнительных полей в объекте](./AdditionalFieldsObject.md)
+- [Создание дополнительных полей в объекте](docs/FAQ/RU/user/AdditionalFieldsObject.md)
 
 ____
 - [Перейти в меню](http://wiki.hubex.ru)

@@ -24,7 +24,7 @@ keywords: дополнительные поля, дополнительные п
     статье: <a
             href="https://wiki.hubex.ru/docs/FAQ/RU/user/AdditionalFields.html">Создание дополнительных полей для
         заявки</a>, <a
-            href="https://wiki.hubex.ru/docs/FAQ/RU/user/AdditionalObject.html">Создание дополнительных полей для
+            href="https://wiki.hubex.ru/docs/FAQ/RU/user/AdditionalFieldsObject.html">Создание дополнительных полей для
         объекта</a>.</p>
 <p>Например, можно создать поле для описания внешнего вида объекта, заполнения даты следующей проверки и так далее.</p>
 

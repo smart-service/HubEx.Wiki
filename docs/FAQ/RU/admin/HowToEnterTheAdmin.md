@@ -11,7 +11,7 @@ keywords: консоль администратора, консоль админ
 </html>
 <body>
 <p>Войти в консоль администратора можно в web-приложении HubEx: нажмите на значок
-    с ваш аватаром в правом верхнем углу, затем выберите пункт <strong>Консоль администратора</strong>.</p>
+    с вашим аватаром в правом верхнем углу, затем выберите пункт <strong>Консоль администратора</strong>.</p>
 <div>
     <img style="margin: 0 auto; display: block; max-width: 95%;"
          src="/attachments/images/FAQ/ADMIN/EnterTheAdm/Avatar.jpg"/>

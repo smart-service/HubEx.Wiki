@@ -139,8 +139,8 @@ keywords: сла, sla, правило расчета крайнего срока
 ___
 ### Следующие шаги:
 - [Настройка оповещений](./Notifications.md)
-- [Создание дополнительных полей в объекте](.user/AdditionalFieldsObject.md)
-- [Создание дополнительных полей в заявке](.user/AdditionalFields.md)
+- [Создание дополнительных полей в объекте](docs/FAQ/RU/user/AdditionalFieldsObject.md)
+- [Создание дополнительных полей в заявке](docs/FAQ/RU/user/AdditionalFields.md)
 
 ____
 - [Перейти в меню](http://wiki.hubex.ru)

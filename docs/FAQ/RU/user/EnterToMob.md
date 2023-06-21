@@ -128,6 +128,11 @@ keywords: авторизация по смс, sms авторизация, вхо
     чек-листами, выполненными работами, общение в чатах, работа с календарем и функционалом На смене. </p>
 <iframe src="https://www.youtube.com/embed/JmMZzkI6o-c" width="100%" height="450px" frameborder="0"
         allowfullscreen="allowfullscreen"></iframe>
+
+<p>Для заказчиков также доступен обучающий видеоролик <strong>Мобильное приложение заказчика. Как заказчику создавать и отслеживать заявки?</strong>p>В обучающем видео показан функционал работы с мобильным приложением заказчика: работа с <Strong>Заявками</Strong>, подписание акта, общение в чатах. Дополнительно по теме ознакомьтесь со статьей: <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/CustomerApp.html">Работа с заявками в мобильном приложении HubEx заказчик: заявки, акты, оценка исполнителей</a>. </p>
+
+<iframe src="https://www.youtube.com/embed/TbCdCcZzVdc" width="100%" height="450px" frameborder="0"
+        allowfullscreen="allowfullscreen"></iframe>
 </body>
 ____
 - [Перейти в меню](http://wiki.hubex.ru)

@@ -23,6 +23,11 @@ keywords: жизненный цикл заявки, жизненный цикл,
     <Strong>Заявки</Strong>. Подробнее
     читайте в статье: <a href="https://wiki.hubex.ru/docs/FAQ/RU/admin/BusinessProcess.html">Пример базового
         бизнес-процесса для Заявки</a>.</p>
+
+        <p>Прочтите подробную статью ниже или начните знакомство с темой с обучающего видеоролика <strong>Настройка жизненного цикла для заявок в HubEx</strong>.</p>
+<iframe src="https://www.youtube.com/embed/81JjWYuMNwY" width="100%" height="450px" frameborder="0"
+        allowfullscreen="allowfullscreen"></iframe>
+
 <h5 id="lifecyclecreate">Создание и копирование жизненного цикла</h5>
 <p>Создание и настройка жизненного цикла находится в <a
         href="https://wiki.hubex.ru/docs/FAQ/RU/admin/HowToEnterTheAdmin.html">консоли администратора</a> в меню

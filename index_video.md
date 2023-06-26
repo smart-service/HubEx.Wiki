@@ -31,6 +31,7 @@
      <li><a href="#attachingfiles">Как заполнить выполненные работы и оценить показатели KPI</a>;</li>
      <li><a href="#rulesofchoice">Как работает автоназначение исполнителей на заявки</a>;</li>
      <li><a href="#geotracking">Как работает геотрекинг в HubEx</a>;</li>
+      <li><a href="#lifecycle">Настройка жизненного цикла для заявок в HubEx</a>;</li>
      <li><a href="#sla">Настройка SLA: расчет крайнего срока закрытия заявки</a>;</li>
      <li><a href="#telegram">Интеграция с Telegram</a>;</li>
      <li><a href="#ticketmail">Как подавать заявки с электронной почты в HubEx?</a></li>
@@ -198,6 +199,13 @@
 <h5 id="geotracking">Как работает геотрекинг в HubEx</h5>
 <p>История перемещений (или геотрекинг) отображает перемещения каждого выездного сотрудника, у которого включена функция использования геопозиции. С помощью геотрекинга можно оценить эффективность работы мобильных исполнителей: время в пути, на заявке, остановки, простои. Подробнее читайте в статье <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/Geotracking.html">История перемещений</a>.</p>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gZjA_Vp7gh8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+<h5 id="lifecycle">Настройка жизненного цикла для заявок в HubEx</h5>
+<p><strong>Жизненный цикл заявки</strong> - это совокупность стадий, по которым проходит <Strong>Заявка</Strong>, и описание
+    взаимодействия между
+    стадиями. В обучающем видеоролике пошагово рассказываем, как создать стадии, статусы и настроить жизненный цикл. Подробнее читайте в статье <a href="https://wiki.hubex.ru/docs/FAQ/RU/admin/TicketLifeCycle.html">Жизненный цикл заявки</a>.</p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/81JjWYuMNwY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 <h5 id="sla">Настройка SLA: расчет крайнего срока закрытия заявки</h5>

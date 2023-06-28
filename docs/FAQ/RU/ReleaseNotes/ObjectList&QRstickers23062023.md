@@ -23,13 +23,13 @@ keywords:
 <p>Чтобы открыть список объектов перейдите в главное меню <strong>HubEx исполнитель</strong> (три полоски в левом
     верхнем углу) и откройте пункт <strong>Объекты|Оборудование</strong>.</p>
 <div><img style="margin: 0 auto; display: block; max-width: 100%;" src="https://i.postimg.cc/Bvc1qmps/Objectin-Mob.jpg"
-          width="700" height="auto"/></div>
+          width="650" height="auto"/></div>
 <p>Для пользователя откроется список доступных ему <strong>Объектов</strong>. Обратите внимание! Доступ к <strong>Объектам</strong>
     регулируется настройками <strong>Роли</strong> пользователя в консоли администрирования.</p>
 <p>По щелчку на <strong>Объект</strong> откроется паспорт объекта. В паспорте представлены основные характеристики
     <strong>Объекта</strong>, а также можно просмотреть историю обслуживания и подать новую заявку.&nbsp;</p>
 <div><img style="margin: 0 auto; display: block; max-width: 100%;" src="https://i.postimg.cc/43zFXRjd/Objectin-Mob2.jpg"
-          width="700" height="auto"/></div>
+          width="650" height="auto"/></div>
 
 <h5>Заказ QR-стикеров в web-приложении</h5>
 <p>Новая функция заказа QR-стикеров упрощает процесс маркировки оборудования. Вы можете заказывать индивидуальные
@@ -46,12 +46,12 @@ keywords:
 <p>Перейдите в меню webприложения <strong>Заявки - Маркировка</strong> и нажмите кнопку рядом с названием раздела.&nbsp;
 </p>
 <div><img style="margin: 0 auto; display: block; max-width: 100%;" src="https://i.postimg.cc/QtGX47Wz/Screenshot-28.png"
-          width="760" height="auto"/></div>
+          width="900" height="auto"/></div>
 <p>В открывшемся диалоговом окне нажмите кнопку <strong>Заказать QR-стикеры</strong>. Ваш запрос автоматически будет
     отправлен в службу поддержки и в ближайшее время наши сотрудники свяжутся с вами для уточнения подробной информации.
 </p>
 <div><img style="margin: 0 auto; display: block; max-width: 100%;" src="https://i.postimg.cc/rsyzj4Bk/Screenshot-29.png"
-          width="758" height="auto"/></div>
+          width="900" height="auto"/></div>
 
 
 

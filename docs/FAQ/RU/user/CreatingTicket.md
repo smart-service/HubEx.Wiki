@@ -501,7 +501,7 @@ keywords: создать заявку, подать заявку, заявка �
     <li>выберите из списка <strong>Объект</strong>, по которому необходимо создать <strong>Заявку</strong>;</li>
 
      <div>
-        <img style="margin: 0 auto; display: block; max-width: 60%;"
+        <img style="margin: 0 auto; display: block; max-width: 70%;"
              src="/attachments/images/FAQ/USER/CreatingTicket/CreateByMobile3.jpg"/>
     </div>
 
@@ -541,7 +541,7 @@ keywords: создать заявку, подать заявку, заявка �
   </li>
    
     <div>
-        <img style="margin: 0 auto; display: block; max-width: 90%;"
+        <img style="margin: 0 auto; display: block; max-width: 95%;"
              src="/attachments/images/FAQ/USER/CreatingTicket/CreateByMobile5.jpg"/>
     </div>
 
@@ -556,7 +556,7 @@ keywords: создать заявку, подать заявку, заявка �
  <p>Для пользователя откроется список доступных ему <strong>Объектов</strong>. Обратите внимание! Доступ к <strong>Объектам</strong> регулируется настройками <strong>Роли</strong> пользователя в консоли администрирования;</p>
 
   <div>
-        <img style="margin: 0 auto; display: block; max-width: 90%;"
+        <img style="margin: 0 auto; display: block; max-width: 70%;"
              src="/attachments/images/FAQ/USER/CreatingTicket/ObjectinMob.jpg"/>
     </div>
  </li>
@@ -569,7 +569,7 @@ keywords: создать заявку, подать заявку, заявка �
   </li>
    
     <div>
-        <img style="margin: 0 auto; display: block; max-width: 90%;"
+        <img style="margin: 0 auto; display: block; max-width: 70%;"
              src="/attachments/images/FAQ/USER/CreatingTicket/ObjectinMob2.jpg"/>
     </div>
 

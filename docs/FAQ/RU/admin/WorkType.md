@@ -6,14 +6,20 @@ keywords: виды работ, вид работ, автораспределен
 
 #### Виды работ
 
+В этом разделе вы узнаете:
 <html>
 <meta charset="utf-8">
+<ul>
+    <li><a href="#worktype">Что такое Виды работ;</a></li>
+    <li><a href="#alternative">Способы создания Видов работ.</a></li>
 
+</ul>
 </html>
 
 <body>
 
-<p><Strong>Вид работ</Strong> – специфический вид деятельности (услуг), который может выполняться
+
+<p id="worktype"><Strong>Вид работ</Strong> – специфический вид деятельности (услуг), который может выполняться
     <Strong>Сотрудником</Strong> и быть направлен на <Strong>Объект</Strong>.
     Например, видами работ могут быть: услуги клининга, ремонт, диагностика, услуга аренды недвижимости, услуги доставки
     и т.д. <Strong>Вид работ</Strong> позволяет классифицировать <Strong>Объекты</Strong>, <Strong>Сотрудников</Strong>
@@ -64,7 +70,8 @@ keywords: виды работ, вид работ, автораспределен
             заявке</Strong> и <Strong>Виде
             работ</Strong>. Подробнее читайте в статье: <a
                 href="https://wiki.hubex.ru/docs/FAQ/RU/admin/TicketType.html">Типы заявок</a>.
-        <p><Strong>Крайний срок закрытия</Strong> также может быть рассчитан с помощью учета SLA в разрезе закзчиков и с учетом различных параметров <Strong>Заявки</Strong> и создания правил
+        <p><Strong>Крайний срок закрытия</Strong> также может быть рассчитан с помощью учета SLA в разрезе закзчиков и с
+            учетом различных параметров <Strong>Заявки</Strong> и создания правил
             расчета крайнего срока закрытия. Подробнее читайте в статье: <a
                     href="https://wiki.hubex.ru/docs/FAQ/RU/admin/SLA.html">SLA - Правила расчета
                 крайнего срока закрытия заявки</a>;</p>
@@ -100,13 +107,67 @@ keywords: виды работ, вид работ, автораспределен
 </ul>
 
 <p>Если заполнить <Strong>Виды работ</Strong> в карточке <Strong>Сотрудника</Strong> (исполнителя), то можно настроить
-    <Strong>Правила автоназначения исполнителя</Strong>. Система будет подбирать исполнителя по совпадению <Strong>Вида работ</Strong> в карточке
+    <Strong>Правила автоназначения исполнителя</Strong>. Система будет подбирать исполнителя по совпадению <Strong>Вида
+        работ</Strong> в карточке
     <Strong>Сотрудника</Strong> и выбранного <Strong>Вида работ</Strong> в
     <Strong>Заявке</Strong>.
-    Подробнее читайте в статьях: <a href="https://wiki.hubex.ru/docs/FAQ/RU/admin/RulesOfChoice.html">Правила автоназначения
+    Подробнее читайте в статьях: <a href="https://wiki.hubex.ru/docs/FAQ/RU/admin/RulesOfChoice.html">Правила
+        автоназначения
         исполнителя</a>, <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/RulesOfChoiceGEO.html">Автоназначение на
         ближайшего исполнителя</a>.
 </p>
+
+<p id="alternative">Обратите внимание! Вид работ также можно создать из формы <Strong>Заявки</Strong> или из карточки
+    <Strong>Объекта</Strong>: </p>
+<ul>
+    <li>при создании <Strong>Заявки</Strong>, в поле выбора <Strong>Вида работ</Strong> создать новый можно по кнопке
+        <Strong>+</Strong> или <Strong>Создать+</Strong>;
+        <p></p>
+
+        <p>
+        <div>
+            <img style="margin: 0 auto; display: block; max-width: 80%;"
+                 src="/attachments/images/FAQ/ADMIN/WorkType/Ticket2.jpg"/>
+        </div>
+        </p>
+
+        <p>Откроется боковая форма <Strong>Вида работ</Strong> с основными полями. После заполнения всех необходимых полей нажмите кнопку
+            <Strong>Создать</Strong>.</p>
+        <p>
+        <div>
+            <img style="margin: 0 auto; display: block; max-width: 80%;"
+                 src="/attachments/images/FAQ/ADMIN/WorkType/Ticket3.jpg"/>
+        </div>
+        </p>
+
+    </li>
+    <li>при создании или редактировании <Strong>Объекта</Strong> на вкладке <Strong>Обслуживание</Strong> можно также
+        создать новый </Strong>Вид работ</Strong>: нажмите кнопку <Strong>Добавить</Strong>, чтобы открыть список
+        доступных <Strong>Видов работ</Strong>.
+        <p>
+        <div>
+            <img style="margin: 0 auto; display: block; max-width: 80%;"
+                 src="/attachments/images/FAQ/ADMIN/WorkType/Object.jpg"/>
+        </div>
+        </p>
+    <p>Внизу списка нажмите кнопку <Strong>+Добавить</Strong>.</p>
+        <p>
+        <div>
+            <img style="margin: 0 auto; display: block; max-width: 80%;"
+                 src="/attachments/images/FAQ/ADMIN/WorkType/Object2.jpg"/>
+        </div>
+        </p>
+        <p>Откроется боковая форма <Strong>Вида работ</Strong> с основными полями. После заполнения всех необходимых полей нажмите кнопку
+            <Strong>Создать</Strong>.</p>
+        <p>
+        <div>
+            <img style="margin: 0 auto; display: block; max-width: 80%;"
+                 src="/attachments/images/FAQ/ADMIN/WorkType/Object3.jpg"/>
+        </div>
+        </p>
+
+    </li>
+</ul>
 
 
 </body>

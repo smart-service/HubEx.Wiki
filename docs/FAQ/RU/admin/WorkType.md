@@ -117,7 +117,7 @@ keywords: виды работ, вид работ, автораспределен
         ближайшего исполнителя</a>.
 </p>
 
-<p id="alternative">Обратите внимание! Вид работ также можно создать из формы <Strong>Заявки</Strong> или из карточки
+<p id="alternative">Обратите внимание! Помимо консоли администратора <Strong>Вид работ</Strong> также можно создать из формы <Strong>Заявки</Strong> или из карточки
     <Strong>Объекта</Strong>: </p>
 <ul>
     <li>при создании <Strong>Заявки</Strong>, в поле выбора <Strong>Вида работ</Strong> создать новый можно по кнопке
@@ -126,7 +126,7 @@ keywords: виды работ, вид работ, автораспределен
 
         <p>
         <div>
-            <img style="margin: 0 auto; display: block; max-width: 80%;"
+            <img style="margin: 0 auto; display: block; max-width: 95%;"
                  src="/attachments/images/FAQ/ADMIN/WorkType/Ticket2.jpg"/>
         </div>
         </p>
@@ -135,25 +135,25 @@ keywords: виды работ, вид работ, автораспределен
             <Strong>Создать</Strong>.</p>
         <p>
         <div>
-            <img style="margin: 0 auto; display: block; max-width: 80%;"
+            <img style="margin: 0 auto; display: block; max-width: 95%;"
                  src="/attachments/images/FAQ/ADMIN/WorkType/Ticket3.jpg"/>
         </div>
         </p>
 
     </li>
     <li>при создании или редактировании <Strong>Объекта</Strong> на вкладке <Strong>Обслуживание</Strong> можно также
-        создать новый </Strong>Вид работ</Strong>: нажмите кнопку <Strong>Добавить</Strong>, чтобы открыть список
+        создать новый <Strong>Вид работ</Strong>: нажмите кнопку <Strong>Добавить</Strong>, чтобы открыть список
         доступных <Strong>Видов работ</Strong>.
         <p>
         <div>
-            <img style="margin: 0 auto; display: block; max-width: 80%;"
+            <img style="margin: 0 auto; display: block; max-width: 95%;"
                  src="/attachments/images/FAQ/ADMIN/WorkType/Object.jpg"/>
         </div>
         </p>
     <p>Внизу списка нажмите кнопку <Strong>+Добавить</Strong>.</p>
         <p>
         <div>
-            <img style="margin: 0 auto; display: block; max-width: 80%;"
+            <img style="margin: 0 auto; display: block; max-width: 95%;"
                  src="/attachments/images/FAQ/ADMIN/WorkType/Object2.jpg"/>
         </div>
         </p>
@@ -161,7 +161,7 @@ keywords: виды работ, вид работ, автораспределен
             <Strong>Создать</Strong>.</p>
         <p>
         <div>
-            <img style="margin: 0 auto; display: block; max-width: 80%;"
+            <img style="margin: 0 auto; display: block; max-width: 95%;"
                  src="/attachments/images/FAQ/ADMIN/WorkType/Object3.jpg"/>
         </div>
         </p>

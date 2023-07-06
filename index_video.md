@@ -45,7 +45,7 @@
 </html>
 <body>
 <h5 id="hubexhl">Обзор функциональных возможностей HubEx: контроль мобильных специалистов и управление процессами онлайн</h5>
-<p>В данном ролике представлен обзор возможностей FSM-системы HubEx: компоненты системы, основные сущности, аналитика, пользователи, мобильные приложения. </p>
+<p>В данном ролике представлен обзор возможностей FSM-системы HubEx: компоненты системы, основные сущности, аналитика, пользователи, мобильные приложения и безопасность данных. </p>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vyfhCnihTMQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <h5 id="firststeps">Начало работы в HubEx</h5>

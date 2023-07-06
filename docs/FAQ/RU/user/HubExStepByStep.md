@@ -1,9 +1,9 @@
 ---
 title: Знакомство с системой HubEx
 description: Система HubEx предназначена для автоматизации подачи и обработки заявок, управления и контроля за мобильными
-    сотрудниками, управления сервисом оборудования. В HubEx представлен очень гибкий функционал, который легко можно
-    настроить под специфику вашего
-    бизнеса.
+сотрудниками, управления сервисом оборудования. В HubEx представлен очень гибкий функционал, который легко можно
+настроить под специфику вашего
+бизнеса.
 keywords: знакомство с системой, первые шаги, hubex, хабекс, хубекс, хабикс
 ---
 
@@ -14,6 +14,13 @@ keywords: знакомство с системой, первые шаги, hubex
     сотрудниками, управления сервисом оборудования. В HubEx представлен очень гибкий функционал, который легко можно
     настроить под специфику вашего
     бизнеса.</p>
+
+<p>Обзор на функциональные возможности HubEx представлен в видеоролике <strong>HubEx: Обзор. Контроль мобильных
+    специалистов и управление процессами онлайн</strong>. В нем мы рассказываем о компонентах системы, основных
+    сущностях, аналитике, мобильных приложениях и защите данных. </p>
+<iframe src="https://www.youtube.com/embed/vyfhCnihTMQ" width="100%" height="450px" frameborder="0"
+        allowfullscreen="allowfullscreen"></iframe>
+
 <p>Работа в HubEx складывается из двух частей:</p>
 <ol>
     <li>работа на стороне пользовательских приложений (web-версии и мобильных приложений): заполнение
@@ -27,10 +34,10 @@ keywords: знакомство с системой, первые шаги, hubex
     системы вы найдете в следующих
     <a href="https://wiki.hubex.ru/">разделах нашего руководства</a>.</p>
 
-<p>Ознакомьтесь с видеороликом <strong>С чего начать работу в HubEx?</strong> и прочтите пошаговую инструкцию ниже.</p>
+<!--<p>Ознакомьтесь с видеороликом <strong>С чего начать работу в HubEx?</strong> и прочтите пошаговую инструкцию ниже.</p>
 
 <iframe src="https://www.youtube.com/embed/BJU4AUR2nOU" width="100%" height="450px" frameborder="0"
-        allowfullscreen="allowfullscreen"></iframe>
+        allowfullscreen="allowfullscreen"></iframe>-->
 
 
 <p>Для того, чтобы перейти к созданию <strong>Заявок</strong>, необходимо заполнить основные справочники системы:</p>
@@ -43,16 +50,14 @@ keywords: знакомство с системой, первые шаги, hubex
 </html>
 
 <body>
-<p>После внесения основных данных можно переходить к <a href="#ticketcreation">созданию <strong>Заявок</strong> в мобильном и
-    web-приложениях</a>.</p>
+<p>После внесения основных данных можно переходить к <a href="#ticketcreation">созданию <strong>Заявок</strong> в
+    мобильном и
+    web-приложении</a>.</p>
 <p>Мобильное приложение <strong>HubEx исполнитель</strong> вы можете скачать <a
         href="https://play.google.com/store/apps/details?id=ru.hubex.engineer">для Android</a> или <a
         href="https://apps.apple.com/ru/app/hubex-%D0%B4%D0%BB%D1%8F-%D1%81%D0%B5%D1%80%D0%B2%D0%B8%D1%81%D0%BD%D0%BE%D0%B9-%D1%81%D0%BB%D1%83%D0%B6%D0%B1%D1%8B/id1386688688">для
     iOS</a>.</p>
 
-    <p>Дополнительно ознакомьтесь с обучающим видеороликом <strong>Мобильное приложение инженера. Как работать сервисному специалисту на телефоне.</strong> В нем представлен широкий обзор функциональных возможностей мобильного приложения для выездных сотрудников: авторизация в приложении, получение уведомлений, работа с <Strong>Заявками</Strong>, с чек-листами, выполненными работами, общение в чатах, работа с календарем и функционалом На смене. </p>
-<iframe src="https://www.youtube.com/embed/JmMZzkI6o-c" width="100%" height="450px" frameborder="0"
-        allowfullscreen="allowfullscreen"></iframe>
 
 <p>Мобильное приложение <strong>HubEx заказчик</strong> вы можете скачать также <a
         href="https://play.google.com/store/apps/details?id=ru.hubex.customer">для Android</a> или <a
@@ -98,39 +103,51 @@ keywords: знакомство с системой, первые шаги, hubex
 </div>
 
 <h5 id="addobjects">Создание обслуживаемого оборудования</h5>
-<p><strong>Объект (оборудование)</strong> - элемент инфраструктуры, на который направлено предоставление услуг (видов работ). Аналогом
-    объекта в ITSM-системах является конфигурационная единица. <strong>Объекты (оборудование)</strong> привязываются к конкретным
+<p><strong>Объект (оборудование)</strong> - элемент инфраструктуры, на который направлено предоставление услуг (видов
+    работ). Аналогом
+    объекта в ITSM-системах является конфигурационная единица. <strong>Объекты (оборудование)</strong> привязываются к
+    конкретным
     компаниям-заказчикам и необходимы для ведения учета <strong>Заявок</strong>, для привязки выполненных работ.</p>
 <p>Например, объектами могут быть: офис, здание, АЗС, магазин, или другой элемент инфраструктуры. Оборудованием может
     быть: кондиционер, кофемашина, двигатель, топливный насос, медицинский аппарат и т.п.</p>
 <p>Если детальный учет по различным объектам или оборудованию заказчика не требуется, можно завести один обслуживаемый
-    <strong>Объект</strong> для каждого и он автоматически будет подставляться в <strong>Заявку</strong> при выборе заказчика.</p>
+    <strong>Объект</strong> для каждого и он автоматически будет подставляться в <strong>Заявку</strong> при выборе
+    заказчика.</p>
 
-<p> Внести необходимое оборудование можно на вкладке бокового меню <strong>Объекты|Оборудование</strong> по кнопке <strong>Создать объект</strong>.</p>
+<p> Внести необходимое оборудование можно на вкладке бокового меню <strong>Объекты|Оборудование</strong> по кнопке
+    <strong>Создать объект</strong>.</p>
 
 <div>
     <img style="margin: 0 auto; display: block; max-width: 95%;"
          src="/attachments/images/FAQ/USER/HubExStepByStep/Objects.jpg"/>
 </div>
 
-<p>Подробная инструкция по
-    заполнению
-    всех реквизитов оборудования находится в статье <a
-            href="https://wiki.hubex.ru/docs/FAQ/RU/user/CreatingObjects.html"> Ввод обслуживаемого
-        оборудования.</a>
-    Необязательно вводить все объекты вручную. Для оперативности ввода данных можно использовать функцию <a
-            href="https://wiki.hubex.ru/docs/FAQ/RU/user/Import.html#objects">импорта</a>.</p>
+<p>Подробнее читайте в статье: <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/CreatingObjects.html">Создание
+    обслуживаемого оборудования</a>. Для оперативности ввода данных можно использовать функцию <a
+        href="https://wiki.hubex.ru/docs/FAQ/RU/user/Import.html#objects">импорта</a>.</p>
+
+<p>
+    <details>
+        <summary><span style="text-decoration: underline; color: #3366ff;"><span>Нажмите на строку, чтобы открыть и посмотреть видеоролик <strong>Как создавать объекты обслуживания в HubEx: способы создания объектов, маркировка, паспорт объекта</strong></span></span>.
+        </summary>
+        <iframe src="https://www.youtube.com/embed/43uHUupRJZI" width="100%" height="450px" frameborder="0"
+                allowfullscreen="allowfullscreen"></iframe>
+    </details>
+</p>
 
 
 <h5 id="addusers">Создание Сотрудников и Заказчиков</h5>
 <p>В системе HubEx существует два типа пользователей: <strong>Сотрудники</strong> и <strong>Заказчики</strong>.</p>
-<p><strong>Сотрудники</strong> – пользователи, которые могут создавать и выполнять <strong>Заявки</strong>. <strong>Сотрудники</strong> являются лицензируемыми
+<p><strong>Сотрудники</strong> – пользователи, которые могут создавать и выполнять <strong>Заявки</strong>. <strong>Сотрудники</strong>
+    являются лицензируемыми
     пользователями системы. Для <strong>Сотрудников</strong> доступно web- и мобильное приложение исполнителя.
-    <strong>Сотрудником</strong> может являться диспетчер вашей организации, который создает заявки в web-приложении, руководитель вашей
+    <strong>Сотрудником</strong> может являться диспетчер вашей организации, который создает заявки в web-приложении,
+    руководитель вашей
     организации, сервисный специалист (исполнитель), который работает по <strong>Заявкам</strong>.</p>
 
 
-<p><strong>Заказчик</strong> - пользователь, который может создавать <strong>Заявки</strong> в мобильном приложении заказчика.
+<p><strong>Заказчик</strong> - пользователь, который может создавать <strong>Заявки</strong> в мобильном приложении
+    заказчика.
     <strong>Заказчик</strong> привязывается к компании-заказчику.</p>
 <div>
     <img style="margin: 0 auto; display: block; max-width: 95%;"
@@ -143,14 +160,24 @@ keywords: знакомство с системой, первые шаги, hubex
 
 <h5 id="ticketcreation">Создание Заявок</h5>
 
-<p>Все варианты создания <strong>Заявок</strong> представлены в обучающем видеоролике <strong>Способы подачи заявки в HubEx</strong>.</p>
+<p>Все варианты создания <strong>Заявок</strong> представлены в обучающем видеоролике <strong>Способы подачи заявки в
+    HubEx</strong>.</p>
 <iframe src="https://www.youtube.com/embed/RtMhubKi7Jc" width="100%" height="450px" frameborder="0"
         allowfullscreen="allowfullscreen"></iframe>
-<p> В системе HubEx предусмотрено два способа подачи <strong>Заявки</strong>: вручную и в полуавтоматическом режиме. Рассмотрим подробнее:
+<p>
+    <details>
+        <summary><span style="text-decoration: underline; color: #3366ff;"><span>Нажмите на строку, чтобы открыть и посмотреть дополнительный видеоролик <strong>Создание заявки в HubEx: расшифровка и заполнение всех полей на форме заявки</strong></span></span>.
+        </summary>
+        <iframe src="https://www.youtube.com/embed/oc8QgdcuPoU" width="100%" height="450px" frameborder="0"
+                allowfullscreen="allowfullscreen"></iframe>
+    </details>
+</p>
+<p> В системе HubEx предусмотрено два способа подачи <strong>Заявки</strong>: вручную и в полуавтоматическом режиме.
+    Рассмотрим подробнее:
 </p>
 <ol>
     <li>Вручную <strong>Заявку</strong> можно создать с помощью web- или мобильного приложения. Web-приложение для
-        подачи <strong>Заявки</strong> используется администратором (или диспетчером), мобильные приложения –
+        подачи <strong>Заявки</strong> используется диспетчерами, руководителями, начальниками подразделений и т.д., мобильные приложения –
         заказчиками и исполнителями.
         <p>Создать новую <strong>Заявку</strong> можно на вкладке <strong>Заявки</strong>
             бокового
@@ -162,23 +189,59 @@ keywords: знакомство с системой, первые шаги, hubex
         </div>
 
         <p>Для подачи <strong>Заявки</strong> через мобильное приложение необходимо нажать на кнопку в правом нижнем
-            углу. Подробнее читайте в статье <a
-                    href="https://wiki.hubex.ru/docs/FAQ/RU/user/CreatingTicket.html#webticket">Создание
+            углу, выбрать из списка необходимый <strong>Объект</strong> и заполнить поля <strong>Заявки</strong>. Подробнее читайте в статье <a
+                    href="https://wiki.hubex.ru/docs/FAQ/RU/user/CreatingTicket.html#mobticket">Создание
                 заявки.</a>
         </p>
-         <p>  <div>
-            <img style="margin: 0 auto; display: block; max-width: 80%;"
-                 src="/attachments/images/FAQ/USER/HubExStepByStep/MobTicket.jpg"/>
-        </div></p>
-        </li>
-
-      <li>Полуавтоматический режим подразумевает сканирования QR-кода оборудования через мобильное приложение исполнителя или заказчика. Подробнее читайте в статье: <a
-                href="https://wiki.hubex.ru/docs/FAQ/RU/user/QRcodeMain.html">QR-код в HubEx: основные понятия</a>.
+        <p>
+            <details>
+                <summary><span style="text-decoration: underline; color: #3366ff;"><span>Нажмите на строку, чтобы открыть и посмотреть дополнительный видеоролик <strong>Мобильное приложение инженера. Как работать сервисному специалисту на телефоне?</strong></span></span>.
+                </summary>
+                <iframe src="https://www.youtube.com/embed/JmMZzkI6o-c" width="100%" height="450px" frameborder="0"
+                        allowfullscreen="allowfullscreen"></iframe>
+            </details>
+        </p>
+        <p>
+            <details>
+                <summary><span style="text-decoration: underline; color: #3366ff;"><span>Нажмите на строку, чтобы открыть и посмотреть дополнительный видеоролик <strong>Мобильное приложение заказчика. Как заказчику создавать и отслеживать заявки?</strong></span></span>.
+                </summary>
+                <iframe src="https://www.youtube.com/embed/TbCdCcZzVdc" width="100%" height="450px" frameborder="0"
+                        allowfullscreen="allowfullscreen"></iframe>
+            </details>
+        </p>
+        <p>
+        <div>
+            <img style="margin: 0 auto; display: block; max-width: 70%;"
+                 src="/attachments/images/FAQ/USER/HubExStepByStep/CreateByMobile3.jpg"/>
+        </div>
+        </p>
+        <p>
+        <div>
+            <img style="margin: 0 auto; display: block; max-width: 70%;"
+                 src="/attachments/images/FAQ/USER/HubExStepByStep/CreateByMobile4.jpg"/>
+        </div>
+        </p>
     </li>
-    
+
+    <li>Полуавтоматический режим подразумевает сканирования QR-кода оборудования через мобильное приложение исполнителя
+        или заказчика. Подробнее читайте в статье: <a
+                href="https://wiki.hubex.ru/docs/FAQ/RU/user/QRcodeMain.html">QR-код в HubEx: основные понятия</a>.
+
+        <p>
+            <details>
+                <summary><span style="text-decoration: underline; color: #3366ff;"><span>Нажмите на строку, чтобы открыть и посмотреть дополнительный видеоролик <strong>Подача заявки по QR-коду</strong></span></span>.
+                </summary>
+                <iframe src="https://www.youtube.com/embed/yPugQerNlvo" width="100%" height="450px" frameborder="0"
+                        allowfullscreen="allowfullscreen"></iframe>
+            </details>
+        </p>
+    </li>
+
+
 </ol>
-<p>Также Заявки можно загрузить в систему с помощью импорта: вы подготавливаете специальный шаблон в формате Excel и с его помощью можете загрузить до 1000 Заявок за раз.
-        Подробнее читайте в статье: <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/Import.html#tickets">Импорт</a>.</p>
+<p>Также <strong>Заявки</strong> можно загрузить в систему с помощью импорта: вы подготавливаете специальный шаблон в формате Excel и с
+    его помощью можете загрузить до 1000 <strong>Заявок</strong> за раз.
+    Подробнее читайте в статье: <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/Import.html#tickets">Импорт</a>.</p>
 
 </body>
 

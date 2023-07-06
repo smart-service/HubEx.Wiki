@@ -5,7 +5,7 @@
 <title>Быстрый переход внутри документа</title>
 <ul>
      <li><a href="#hubexhl">Обзор функциональных возможностей HubEx: контроль мобильных специалистов и управление процессами онлайн;</a></li>
-     <li><a href="#firststeps">Начало работы в HubEx;</a></li>
+     <!--Старый ролик<li><a href="#firststeps">Начало работы в HubEx;</a></li>-->
      <li><a href="#operator">Работа диспетчера в HubEx;</a></li>
      <li><a href="#creatingobject">Как создавать объекты обслуживания в HubEx: способы создания объектов обслуживания, маркировка, паспорт объекта;</a></li>
      <li><a href="#creatinguser">Как создать пользователя в Hubex;</a></li>
@@ -48,9 +48,9 @@
 <p>В данном ролике представлен обзор возможностей FSM-системы HubEx: компоненты системы, основные сущности, аналитика, пользователи, мобильные приложения и безопасность данных. </p>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vyfhCnihTMQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<h5 id="firststeps">Начало работы в HubEx</h5>
+<!--Старый ролик <h5 id="firststeps">Начало работы в HubEx</h5>
 <p>Дополнительно ознакомьтесь со статьей <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/HubExStepByStep.html">Знакомство с системой HubEx</a>, в которой подробно описаны первые шаги для работы в HubEx.</p>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BJU4AUR2nOU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BJU4AUR2nOU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>-->
 
 <h5 id="operator">Работа диспетчера в HubEx</h5>
 <p>В данном видео разбираем, как эффективно работать диспетчеру в HubEx и покрывать основные задачи по организации работы сотрудников, оперативному выполнению заявок и поддержанию коммуникации между клиентами и исполнителями.</p>

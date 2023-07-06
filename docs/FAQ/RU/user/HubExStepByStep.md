@@ -229,7 +229,7 @@ keywords: знакомство с системой, первые шаги, hubex
 
         <p>
             <details>
-                <summary><span style="text-decoration: underline; color: #3366ff;"><span>Нажмите на строку, чтобы открыть и посмотреть дополнительный видеоролик <strong>Подача заявки по QR-коду</strong></span></span>.
+                <summary><span style="text-decoration: underline; color: #3366ff;"><span>Нажмите на строку, чтобы открыть и посмотреть видеоролик <strong>Подача заявки по QR-коду</strong></span></span>.
                 </summary>
                 <iframe src="https://www.youtube.com/embed/yPugQerNlvo" width="100%" height="450px" frameborder="0"
                         allowfullscreen="allowfullscreen"></iframe>

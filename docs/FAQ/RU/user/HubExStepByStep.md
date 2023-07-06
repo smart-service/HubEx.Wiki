@@ -195,7 +195,7 @@ keywords: знакомство с системой, первые шаги, hubex
         </p>
         <p>
             <details>
-                <summary><span style="text-decoration: underline; color: #3366ff;"><span>Нажмите на строку, чтобы открыть и посмотреть дополнительный видеоролик <strong>Мобильное приложение инженера. Как работать сервисному специалисту на телефоне?</strong></span></span>.
+                <summary><span style="text-decoration: underline; color: #3366ff;"><span>Нажмите на строку, чтобы открыть и посмотреть видеоролик <strong>Мобильное приложение инженера. Как работать сервисному специалисту на телефоне?</strong></span></span>.
                 </summary>
                 <iframe src="https://www.youtube.com/embed/JmMZzkI6o-c" width="100%" height="450px" frameborder="0"
                         allowfullscreen="allowfullscreen"></iframe>
@@ -203,7 +203,7 @@ keywords: знакомство с системой, первые шаги, hubex
         </p>
         <p>
             <details>
-                <summary><span style="text-decoration: underline; color: #3366ff;"><span>Нажмите на строку, чтобы открыть и посмотреть дополнительный видеоролик <strong>Мобильное приложение заказчика. Как заказчику создавать и отслеживать заявки?</strong></span></span>.
+                <summary><span style="text-decoration: underline; color: #3366ff;"><span>Нажмите на строку, чтобы открыть и посмотреть видеоролик <strong>Мобильное приложение заказчика. Как заказчику создавать и отслеживать заявки?</strong></span></span>.
                 </summary>
                 <iframe src="https://www.youtube.com/embed/TbCdCcZzVdc" width="100%" height="450px" frameborder="0"
                         allowfullscreen="allowfullscreen"></iframe>

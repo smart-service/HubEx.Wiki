@@ -29,6 +29,7 @@
      <li><a href="#contract">Как создать договор</a>;</li>
      <li><a href="#qrcode">Как подать заявку по QR-коду</a>;</li>
      <li><a href="#attachingfiles">Как заполнить выполненные работы и оценить показатели KPI</a>;</li>
+      <li><a href="#printedforms">"Электронные документы HubEx"</a>;</li>
      <li><a href="#rulesofchoice">Как работает автоназначение исполнителей на заявки</a>;</li>
      <li><a href="#geotracking">Как работает геотрекинг в HubEx</a>;</li>
       <li><a href="#lifecycle">Настройка жизненного цикла для заявок в HubEx</a>;</li>
@@ -190,6 +191,9 @@
 <p>Заполнение выполненных работ позволяет формировать Акты выполненных работ, Сервисные акты для заказчиков. Подробнее читайте в статьях <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/AttachingFiles.html">Прикрепление выполненных работ в web и мобильном приложении</a>, <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/ActOFAcceptance.html">Акт выполненных работ</a>.</p>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4BK9PCQ60N0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+<h5 id="printedforms">Электронные документы HubEx</h5>
+<p>В HubEx есть три основных печатные формы: Сервисный акт, Бухгалтерский акт и Счет на оплату. В обучающем видеоролике рассказываем, как правильно формировать эти документы.</p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/WhKGc-GrOjI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 <h5 id="rulesofchoice">Как работает автоназначение исполнителей на заявки</h5>

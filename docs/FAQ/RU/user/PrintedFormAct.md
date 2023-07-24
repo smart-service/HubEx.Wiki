@@ -157,7 +157,7 @@ keywords: сервисный акт, мои отчеты, печатная фо�
 <p>Готовую форму можно распечатать с помощью меню <strong>Файл - Печать</strong>. </p>
 
 <div>
-    <img style="margin: 0 auto; display: block; max-width: 95%;"
+    <img style="margin: 0 auto; display: block; max-width: 70%;"
          src="/attachments/images/FAQ/USER/PrintedForm/Print.jpg"/>
 </div>
 <p>Печатная форма сервисного акта будет выглядеть следующим образом. </p>
@@ -170,7 +170,7 @@ keywords: сервисный акт, мои отчеты, печатная фо�
     - Экспорт</strong>. Для последующего редактирования файла рекомендуется выбирать формат docx.</p>
 
 <div>
-    <img style="margin: 0 auto; display: block; max-width: 95%;"
+    <img style="margin: 0 auto; display: block; max-width: 80%;"
          src="/attachments/images/FAQ/USER/PrintedForm/Export.jpg"/>
 </div>
 
@@ -178,7 +178,7 @@ keywords: сервисный акт, мои отчеты, печатная фо�
     располагаться на страницах акта по порядку. Переключаться между страницами можно на панели
     <strong>Параметров</strong> в меню <strong>Главная</strong>.</p>
 <div>
-    <img style="margin: 0 auto; display: block; max-width: 95%;"
+    <img style="margin: 0 auto; display: block; max-width: 80%;"
          src="/attachments/images/FAQ/USER/PrintedForm/PrintedForm2.jpg"/>
 </div>
 

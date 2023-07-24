@@ -114,7 +114,7 @@ keywords: бухгалтерский акт, мои отчеты, печатна
 <p>Готовую форму можно распечатать с помощью меню <strong>Файл - Печать</strong>. </p>
 
 <div>
-    <img style="margin: 0 auto; display: block; max-width: 95%;"
+    <img style="margin: 0 auto; display: block; max-width: 70%;"
          src="/attachments/images/FAQ/USER/PrintedFormActOfAccounting/Print.jpg"/>
 </div>
 
@@ -127,7 +127,7 @@ keywords: бухгалтерский акт, мои отчеты, печатна
 <p>Также готовую форму можно экспортировать в различные форматы - pdf, xlsx, docx, xml и другие в меню <strong>Главная - Экспорт</strong>. Для последующего редактирования файла рекомендуется выбирать формат docx.</p>
 
 <div>
-    <img style="margin: 0 auto; display: block; max-width: 95%;"
+    <img style="margin: 0 auto; display: block; max-width: 80%;"
          src="/attachments/images/FAQ/USER/PrintedFormActOfAccounting/Export.jpg"/>
 </div>
 
@@ -136,7 +136,7 @@ keywords: бухгалтерский акт, мои отчеты, печатна
 
 
 <div>
-    <img style="margin: 0 auto; display: block; max-width: 95%;"
+    <img style="margin: 0 auto; display: block; max-width: 80%;"
          src="/attachments/images/FAQ/USER/PrintedFormActOfAccounting/Pages.jpg"/>
 </div>
 

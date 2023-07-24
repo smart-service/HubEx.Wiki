@@ -112,7 +112,7 @@ keywords: счет на оплату, инвойс, печатная форма,
 <p>Готовую форму можно распечатать с помощью меню <strong>Файл - Печать</strong>. </p>
 
 <div>
-    <img style="margin: 0 auto; display: block; max-width: 95%;"
+    <img style="margin: 0 auto; display: block; max-width: 70%;"
          src="/attachments/images/FAQ/USER/PaymentInvoice/Print.jpg"/>
 </div>
 
@@ -125,13 +125,13 @@ keywords: счет на оплату, инвойс, печатная форма,
 <p>Также печатную форму можно экспортировать в различные форматы - pdf, xlsx, docx, xml и другие в меню <strong>Главная - Экспорт</strong>. Для последующего редактирования файла рекомендуется выбирать формат docx.</p>
 
 <div>
-    <img style="margin: 0 auto; display: block; max-width: 95%;"
+    <img style="margin: 0 auto; display: block; max-width: 80%;"
          src="/attachments/images/FAQ/USER/PaymentInvoice/Export.jpg"/>
 </div>
 
 <p>Если вы выбрали несколько <strong>Заявок</strong> для формирования акта, то данные по каждой из них будут располагаться на страницах акта по порядку. Переключаться между страницами можно на панели <strong>Параметров</strong> в меню <strong>Главная</strong>.</p>
 <div>
-    <img style="margin: 0 auto; display: block; max-width: 95%;"
+    <img style="margin: 0 auto; display: block; max-width: 80%;"
          src="/attachments/images/FAQ/USER/PaymentInvoice/List.jpg"/>
 </div>
 

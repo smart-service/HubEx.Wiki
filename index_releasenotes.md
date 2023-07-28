@@ -16,6 +16,7 @@
 <link rel="stylesheet" type="text/css" href="/assets/css/styles.css">
 ### Новые возможности web-приложения HubEx
 В данном разделе вы найдете краткие статьи с обзором новых возможностей web-приложения HubEx. Мы постоянно улучшаемся и добавляем полезные функции, чтобы ваша работа становилась еще комфортнее.
+<h4><a href="docs/FAQ/RU/ReleaseNotes/AnswerTemplate25072023.html">Шаблоны ответов: обновление от 25.07.2023</a></h4>
 <h4><a href="docs/FAQ/RU/ReleaseNotes/ObjectList&QRstickers23062023.html">Список объектов в мобильном приложении и QR-стикеры для маркировки в web-приложении: обновление от 23.06.2023</a></h4>
 <h4><a href="docs/FAQ/RU/ReleaseNotes/GroupActions31052023.html">Массовые действия для списка Заявок: обновление от 31.05.2023</a></h4>
 <h4><a href="docs/FAQ/RU/ReleaseNotes/Telegram05042023.html">Интеграция с Telegram (Телеграм): обновление от 18.04.2023</a></h4>

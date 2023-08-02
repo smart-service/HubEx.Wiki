@@ -97,7 +97,7 @@ keywords: согласование, ветка действий заказчик
     <li>установите флажок <strong>Изменить статус</strong> и выберите статус - <strong>На согласовании</strong>;</li>
 
     <div>
-        <img style="margin: 0 auto; display: block; max-width: 90%;"
+        <img style="margin: 0 auto; display: block; max-width: 95%;"
              src="/attachments/images/FAQ/ADMIN/CustomerAgreement/LifeCycle.jpg"/>
     </div>
 
@@ -117,7 +117,7 @@ keywords: согласование, ветка действий заказчик
         заполнения настройки перехода нажмите <strong>Сохранить</strong>.
     </li>
     <div>
-        <img style="margin: 0 auto; display: block; max-width: 90%;"
+        <img style="margin: 0 auto; display: block; max-width: 95%;"
              src="/attachments/images/FAQ/ADMIN/CustomerAgreement/LifeCycle2.jpg"/>
     </div>
 
@@ -167,7 +167,7 @@ keywords: согласование, ветка действий заказчик
     <li>добавьте правило выбора получателя, которое мы создали выше - <strong>Заказчик</strong> и сохраните настройку триггера.</li>
 </ul>
 <div>
-    <img style="margin: 0 auto; display: block; max-width: 90%;"
+    <img style="margin: 0 auto; display: block; max-width: 95%;"
          src="/attachments/images/FAQ/ADMIN/CustomerAgreement/Message.jpg"/>
 </div>
 

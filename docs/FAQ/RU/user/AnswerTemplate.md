@@ -96,7 +96,7 @@ keywords: чат, сообщения, шаблоны ответов, база з
     отправить.</p>
 <div>
     <img style="margin: 0 auto; display: block; max-width: 95%;"
-         src="/attachments/images/FAQ/USER/AnswerTemplate/AnswerTemplate7.jpg"/>
+         src="/attachments/images/FAQ/USER/AnswerTemplate/AnswerTemplate8.jpg"/>
 </div>
 
 

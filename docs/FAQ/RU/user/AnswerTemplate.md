@@ -1,95 +1,104 @@
 ---
 title: Шаблоны ответов
-description: 
+description:
 keywords: чат, сообщения, шаблоны ответов, база знаний, поддержка клиентов, hubex, хабекс, хубекс, хабикс
 ---
 
 
 #### Шаблоны ответов
-В этом разделе вы узнаете:
+
 <html>
 <meta charset="utf-8">
-<ul>
-    <li><a href="#createaddfield">Как создать дополнительные поля для Заявки;</a></li>
-    <li><a href="#createtickwithaddfield">Как создать Заявку с использованием дополнительных полей;</a></li>
-    <li><a href="#checkmob">Где располагаются дополнительные поля в мобильном приложении.</a></li>
-</ul>
+
 </html>
 
 <body>
-<p>Дополнительные поля расширяют возможности внесения и хранения учетной информации, делают ваше взаимодействие с системой персонализированным: вы сможете вносить площадь объекта, стоимость оборудования и т.д. В HubEx вы можете создать дополнительные поля для формы <strong>Заявки</strong> и для карточки <strong>Объекта</strong>. Подробнее читайте в статье: <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/AdditionalFieldsObject.html">Создание дополнительных полей для объекта</a>.</p>
 
-<p>Ознакомьтесь с видеороликом <strong>Как создать дополнительные поля в Hubex?</strong> и прочтите подробную статью ниже.</p>
-
-<iframe src="https://www.youtube.com/embed/1hRsaFz_sEQ" width="100%" height="450px" frameborder="0"
-        allowfullscreen="allowfullscreen"></iframe>
-
-<h5 id="createaddfield">Создание дополнительных полей для Заявки</h5>
-<p>Создать и настроить дополнительные поля можно в <a href="https://wiki.hubex.ru/docs/FAQ/RU/admin/HowToEnterTheAdmin.html">консоли администратора</a> в меню <strong>Настройки системы - Дополнительные поля</strong>. Далее представлена пошаговая инструкция создания дополнительных полей для <strong>Заявки</strong>:</p>
-
-<ol type="1">
-    
-    <li>Нажмите кнопку <strong>Создать поле</strong>. В форме создания дополнительного поля заполните:
+<p>Функционал <strong>Шаблоны ответов</strong> позволяет использовать предварительно написанные ответы в чатах с
+    заказчиками и в чатах с исполнитеями, тем самым оптимизировать процесс общения и поддержки.</p>
+<p><strong>Шаблоны ответов</strong> обеспечивают:</p>
+<ul>
+    <li>удобство и экономию времени: вместо того, чтобы печатать длинные и повторяющиеся сообщения на запросы от
+        заказчиков, ваши сотрудники (диспетчера) получают доступ к библиотеке шаблонов;
     </li>
-    <ul>
-        <li><strong>Название поля</strong> в свободной форме;</li>
-        <li><strong>Тип поля</strong>: выбирается под назначение данных. Например, вам нужно указать стоимость оборудования,
-            подходящий для этого тип - <strong>Дробное число</strong>. Таким образом в это поле нельзя будет ввести ничего, кроме числового
-            значения;
-        </li>
-        <li><strong>Единицу измерения</strong> можно выбрать согласно тому, в каких единицах вы хотите указывать информацию: например,
-            если вы хотите внести стоимость, то выбирайте рубли;
-        </li>
-        <li>В поле <strong>Используется для</strong> нужно указать использование для <strong>Заявок</strong>. Остальные варианты
-            рассмотрены в статьях <a
-                    href="https://wiki.hubex.ru/docs/FAQ/RU/user/AdditionalFieldsObject.html">Создание дополнительных
-                полей для объекта</a> и <a
-                    href="https://wiki.hubex.ru/docs/FAQ/RU/admin/TicketAttribute.html">Создание дополнительных полей для
-                чек-листов</a>.
-            Обратите внимание, ваше новое поле может одновременно использоваться и в <strong>Объектах</strong>, и в <strong>Заявках</strong> и в
-            <strong>Чек-листах</strong>.
-
-        </li>
-    </ul>
-
-    <p><div>
-        <img style="margin: 0 auto; display: block; max-width: 60%;"
-             src="/attachments/images/FAQ/USER/AdditionalFields/ADDField.jpg"/>
-    </div></p>
-
-
-    <li> Далее необходимо настроить видимость и доступ к новому дополнительному полю. В консоли администратора в боковом меню перейдите
-        на вкладку <strong>Настройки заявки - Поля на форме заявки</strong>.
-        Вы можете выбрать сразу несколько <strong>Ролей</strong> и все доступные <strong>Стадии</strong>. Обратите внимание, необходимо
-        выдать полномочия для каждой из <strong>Стадий</strong>, чтобы дополнительные поля стали доступны. Не забудьте сохранить внесенные
-        изменения. Подробнее читайте в статье: <a href="https://wiki.hubex.ru/docs/FAQ/RU/admin/ElementsOfInterface.html">Поля на форме заявки: настройка доступа к полям заявки</a>.
+    <li>гибкость и настройку: вы можете создавать шаблоны под конкретные запросы заказчиков, в том числе и
+        персонализировать шаблоны, чтобы обеспечить индивидуальный подход к своим клиентам;
     </li>
-     <p>
-     <div>
-        <img style="margin: 0 auto; display: block; max-width: 100%;"
-             src="/attachments/images/FAQ/USER/AdditionalFields/AccessRights.jpg"/>
-    </div></p>
- 
+
+    <li>поддержку и помощь собственным сотрудникам: шаблоны ответов можно использовать как базу знаний для ваших
+        сотрудников, с помощью которой диспетчер сможет быстро и качествено ответить на вопросы исполнителей;
+    </li>
+    <li>эффективность и точность: обширная библиотека шаблонов ответов позволяет быстро находить нужную информацию без
+        помощи коллег. Шаблоны можно регулярно обновлять и уточнять.
+    </li>
+</ul>
+
+
+<p>Создать шаблоны ответов можно двумя способами:</p>
+<ol>
+    <li>в меню <strong>Сообщения - Шаблоны ответов&nbsp;</strong>по кнопке <strong>Создать шаблон</strong>. Здесь можно
+        создавать новые шаблоны и редактировать ранее созданные;
+       <p><div>
+            <img style="margin: 0 auto; display: block; max-width: 80%;"
+                 src="/attachments/images/FAQ/USER/AnswerTemplate/AnswerTemplate.jpg"/>
+        </div></p>
+    </li>
+    <li>в чате с командой или в чате с заказчиком внутри <strong>Заявки</strong> по кнопке <strong>Шаблоны
+        ответов</strong>. Если вы не создавали еще ни одного шаблона, то по нажатию на кнопку <strong>Шаблоны
+        ответов </strong>в чате вы увидите соответствующее информационное окно. Внутри окна будет доступна кнопка
+        <strong>Создать</strong>.
+    </li>
 </ol>
 
-    <h5 id="createtickwithaddfield">Создание заявки с использованием дополнительных полей</h5>
+<div>
+    <img style="margin: 0 auto; display: block; max-width: 80%;"
+         src="/attachments/images/FAQ/USER/AnswerTemplate/AnswerTemplateChat.jpg"/>
+</div>
 
- <p>Дополнительные поля, к которым у пользователя будет настроен доступ, отображаются в <strong>Заявке</strong>
-        на вкладке <strong>Заявка</strong> внизу. Подробнее читайте в статье: <a
-                href="https://wiki.hubex.ru/docs/FAQ/RU/user/CreatingTicket.html">Создание заявки</a>.</p>
-    <div>
-        <img style="margin: 0 auto; display: block; max-width: 95%;"
-             src="/attachments/images/FAQ/USER/AdditionalFields/ADDFieldTicket.jpg"/>
-    </div>
- 
+<p>При создании шаблона ответов обязательно нужно указать его название и заполнить текст сообщения. </p>
 
-    <h5 id="checkmob">Просмотр дополнительных полей в мобильном приложении</h5>
-    <p>Созданные вами дополнительные поля так же можно увидеть в <strong>Заявке</strong> в мобильном приложении.</p>
-    
-    <div>
-        <img style="margin: 0 auto; display: block; max-width: 40%;"
-             src="/attachments/images/FAQ/USER/AdditionalFields/ADDFieldMob.PNG"/>
-    </div>
+<div>
+    <img style="margin: 0 auto; display: block; max-width: 80%;"
+         src="/attachments/images/FAQ/USER/AnswerTemplate/AnswerTemplate2.jpg"/>
+</div>
+
+<p>Также можно указать,
+    для каких <strong>Типов заявок</strong> будет использоваться данный шаблон:</p>
+<ul>
+    <li><strong>Для всех</strong>: означает, что такой шаблон можно выбрать в любой <strong>Заявке</strong>;</li>
+    <li><strong>По списку</strong>: позволяет выбрать конкретные <strong>Типы заявок</strong>, для которых будет
+        доступен выбор шаблона ответов.
+    </li>
+</ul>
+<div>
+    <img style="margin: 0 auto; display: block; max-width: 80%;"
+         src="/attachments/images/FAQ/USER/AnswerTemplate/AnswerTemplate3.jpg"/>
+</div>
+<p><div>
+    <img style="margin: 0 auto; display: block; max-width: 80%;"
+         src="/attachments/images/FAQ/USER/AnswerTemplate/AnswerTemplate4.jpg"/>
+</div></p>
+
+<p>После заполнения всех полей необходимо нажать кнопку <strong>Создать шаблон</strong>.</p>
+
+<div>
+    <img style="margin: 0 auto; display: block; max-width: 80%;"
+         src="/attachments/images/FAQ/USER/AnswerTemplate/AnswerTemplate5.jpg"/>
+</div>
+
+<p>Выбрать шаблон для отправки в чат можно также по кнопке <strong>Шаблоны ответов</strong> в любом из чатов (с командой
+    или заказчиком).&nbsp;</p>
+<div>
+    <img style="margin: 0 auto; display: block; max-width: 80%;"
+         src="/attachments/images/FAQ/USER/AnswerTemplate/AnswerTemplate6.jpg"/>
+</div>
+<p>Обратите внимание! Шаблон ответа будет вставлен в текстовое поле, вы можете его отредактировать и только затем
+    отправить.</p>
+<div>
+    <img style="margin: 0 auto; display: block; max-width: 80%;"
+         src="/attachments/images/FAQ/USER/AnswerTemplate/AnswerTemplate7.jpg"/>
+</div>
+
 
 
 </body>

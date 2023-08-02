@@ -100,6 +100,9 @@
     <a href="/docs/FAQ/RU/user/Messages.html">Сообщения по заявке</a></h4>
 
 <h4 style="padding-left: 20px;">
+    <a href="/docs/FAQ/RU/user/AnswerTemplate.html">Шаблоны ответов</a></h4>
+
+<h4 style="padding-left: 20px;">
     <a href="/docs/FAQ/RU/user/Rating.html">Оценка заявок и рейтинг сотрудников</a></h4>
 <h4 style="padding-left: 20px;">
     <a href="/docs/FAQ/RU/user/HistoryOfChanges.html">История изменений заявки</a></h4>

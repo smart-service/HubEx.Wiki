@@ -39,7 +39,7 @@ keywords: чат, сообщения, шаблоны ответов, база з
     <li>в меню <strong>Сообщения - Шаблоны ответов&nbsp;</strong>по кнопке <strong>Создать шаблон</strong>. Здесь можно
         создавать новые шаблоны и редактировать ранее созданные;
        <p><div>
-            <img style="margin: 0 auto; display: block; max-width: 80%;"
+            <img style="margin: 0 auto; display: block; max-width: 95%;"
                  src="/attachments/images/FAQ/USER/AnswerTemplate/AnswerTemplate.jpg"/>
         </div></p>
     </li>
@@ -51,14 +51,14 @@ keywords: чат, сообщения, шаблоны ответов, база з
 </ol>
 
 <div>
-    <img style="margin: 0 auto; display: block; max-width: 80%;"
+    <img style="margin: 0 auto; display: block; max-width: 95%;"
          src="/attachments/images/FAQ/USER/AnswerTemplate/AnswerTemplateChat.jpg"/>
 </div>
 
 <p>При создании шаблона ответов обязательно нужно указать его название и заполнить текст сообщения. </p>
 
 <div>
-    <img style="margin: 0 auto; display: block; max-width: 80%;"
+    <img style="margin: 0 auto; display: block; max-width: 95%;"
          src="/attachments/images/FAQ/USER/AnswerTemplate/AnswerTemplate2.jpg"/>
 </div>
 
@@ -71,31 +71,31 @@ keywords: чат, сообщения, шаблоны ответов, база з
     </li>
 </ul>
 <div>
-    <img style="margin: 0 auto; display: block; max-width: 80%;"
+    <img style="margin: 0 auto; display: block; max-width: 95%;"
          src="/attachments/images/FAQ/USER/AnswerTemplate/AnswerTemplate3.jpg"/>
 </div>
 <p><div>
-    <img style="margin: 0 auto; display: block; max-width: 80%;"
+    <img style="margin: 0 auto; display: block; max-width: 95%;"
          src="/attachments/images/FAQ/USER/AnswerTemplate/AnswerTemplate4.jpg"/>
 </div></p>
 
 <p>После заполнения всех полей необходимо нажать кнопку <strong>Создать шаблон</strong>.</p>
 
 <div>
-    <img style="margin: 0 auto; display: block; max-width: 80%;"
+    <img style="margin: 0 auto; display: block; max-width: 95%;"
          src="/attachments/images/FAQ/USER/AnswerTemplate/AnswerTemplate5.jpg"/>
 </div>
 
 <p>Выбрать шаблон для отправки в чат можно также по кнопке <strong>Шаблоны ответов</strong> в любом из чатов (с командой
     или заказчиком).&nbsp;</p>
 <div>
-    <img style="margin: 0 auto; display: block; max-width: 80%;"
+    <img style="margin: 0 auto; display: block; max-width: 95%;"
          src="/attachments/images/FAQ/USER/AnswerTemplate/AnswerTemplate6.jpg"/>
 </div>
 <p>Обратите внимание! Шаблон ответа будет вставлен в текстовое поле, вы можете его отредактировать и только затем
     отправить.</p>
 <div>
-    <img style="margin: 0 auto; display: block; max-width: 80%;"
+    <img style="margin: 0 auto; display: block; max-width: 95%;"
          src="/attachments/images/FAQ/USER/AnswerTemplate/AnswerTemplate7.jpg"/>
 </div>
 

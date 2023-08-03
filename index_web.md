@@ -25,7 +25,7 @@
 <!--Для успешного начала работы выполните следующие шаги:-->
 ### Глоссарий терминов
 Глоссарий терминов служит справочным пособием для пользователей. С его помощью пользователю будет легко разобраться в терминах и определениях HubEx.
-<h4 style="padding-left: 20px;"><a href="/docs/FAQ/RU/user/Glossary.html">Глоссарий терминов</a><span class="new-badge" title="14.03.2023"></span></h4>
+<h4 style="padding-left: 20px;"><a href="/docs/FAQ/RU/user/Glossary.html">Глоссарий терминов</a></h4>
 
 ### Основные справочники
 Создание пользователей и заполнение основных справочников станет быстрым стартом для вашей работы. Вы сможете вводить и хранить всю необходимую информацию в системе HubEx.
@@ -78,7 +78,7 @@
     <a href="/docs/FAQ/RU/user/Checklists.html">Чек-листы</a></h4>
 <h4 style="padding-left: 20px;">
     <a href="/docs/FAQ/RU/user/AttachingFiles.html">Прикрепление выполненных работ</a></h4>
-<h4 style="padding-left: 20px;"><a href="/docs/FAQ/RU/user/AdditionalFieldsWorks.html">Создание дополнительных полей для выполненных работ</a><span class="new-badge" title="07.03.2023"></span></h4>
+<h4 style="padding-left: 20px;"><a href="/docs/FAQ/RU/user/AdditionalFieldsWorks.html">Создание дополнительных полей для выполненных работ</a></h4>
 <h4 style="padding-left: 20px;">
     <a href="/docs/FAQ/RU/user/ChangingStatus.html">Переход заявки по стадиям и удаление заявки</a></h4>
 
@@ -89,7 +89,7 @@
     <a href="/docs/FAQ/RU/user/GroupActionsForTickets.html">Массовые действия для списка заявок</a></h4>
 
 <h4 style="padding-left: 20px;">
-    <a href="/docs/FAQ/RU/user/ElectedTicket.html">Копирование и удаление заявок, заявки в избранном</a><span class="new-badge" title="22.02.2023"></span></h4>
+    <a href="/docs/FAQ/RU/user/ElectedTicket.html">Копирование и удаление заявок, заявки в избранном</a></h4>
 
 <h4 style="padding-left: 20px;">
     <a href="/docs/FAQ/RU/user/TicketsOnMap.html">Заявки и сотрудники на карте</a></h4>
@@ -100,7 +100,7 @@
     <a href="/docs/FAQ/RU/user/Messages.html">Сообщения по заявке</a></h4>
 
 <h4 style="padding-left: 20px;">
-    <a href="/docs/FAQ/RU/user/AnswerTemplate.html">Шаблоны ответов</a></h4>
+    <a href="/docs/FAQ/RU/user/AnswerTemplate.html">Шаблоны ответов</a><span class="new-badge" title="25.07.2023"></span></h4>
 
 <h4 style="padding-left: 20px;">
     <a href="/docs/FAQ/RU/user/Rating.html">Оценка заявок и рейтинг сотрудников</a></h4>
@@ -108,7 +108,7 @@
     <a href="/docs/FAQ/RU/user/HistoryOfChanges.html">История изменений заявки</a></h4>
 
 <h4 style="padding-left: 20px;">
-    <a href="/docs/FAQ/RU/user/Contacts.html">Контактные лица</a><span class="new-badge" title="10.03.2023"></span></h4>
+    <a href="/docs/FAQ/RU/user/Contacts.html">Контактные лица</a></h4>
 
 ### Маркировка оборудования и подача заявок с помощью QR-кодов
 Узнайте, как быстро создавать новые объекты или оборудование с помощью QR-кодов. Вы знали, что подача Заявки с помощью QR-кода - это удобно? А еще можно подать Заявку без регистрации в HubEx, для этого нужен любой сканер QR-кодов на мобильном телефоне.
@@ -149,7 +149,7 @@
     <a href="/docs/FAQ/RU/user/ProcessEfficiency.html">Анализ эффективности процессов</a></h4>
 
  <h4 style="padding-left: 20px;">
-    <a href="/docs/FAQ/RU/user/ContractSchedule.html">График действия договоров</a><span class="new-badge" title="16.03.2023"></span></h4>
+    <a href="/docs/FAQ/RU/user/ContractSchedule.html">График действия договоров</a></h4>
 
 
 ### Печатные формы

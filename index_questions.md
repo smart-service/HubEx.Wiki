@@ -21,7 +21,7 @@
 
 ### Глоссарий терминов
 Глоссарий терминов служит справочным пособием для пользователей. С его помощью пользователю будет легко разобраться в терминах и определениях HubEx.
-<h4 style="padding-left: 20px;"><a href="/docs/FAQ/RU/user/Glossary.html">Глоссарий терминов</a><span class="new-badge" title="14.03.2023"></span></h4>
+<h4 style="padding-left: 20px;"><a href="/docs/FAQ/RU/user/Glossary.html">Глоссарий терминов</a></h4>
 
 ### Заявки
 Здесь вы найдете ответы на вопросы по работе с Заявками и назначением исполнителей: назначение нескольких сотрудников (работа в бригаде), самостоятельный выбор и назначение Заявок на себя в мобильном приложении, настройка правил автораспределения и т.д.
@@ -36,7 +36,7 @@
 <h4 style="padding-left: 20px;"><a href="/docs/FAQ/RU/user/DeletedObjects.html">Почему нельзя удалить объекты/сотрудников/заявки и т.д. навсегда?</a></h4>
 <h4 style="padding-left: 20px;"><a href="/docs/FAQ/RU/admin/StageVSStatus.html">Чем отличаются Стадии заявки от Статусов заявки?</a></h4>
 <h4 style="padding-left: 20px;"><a href="/docs/FAQ/RU/user/HiddenObjectsTicketsUsers.html">Почему пользователь не видит Заявки/Объекты/Исполнителей?</a></h4>
-<h4 style="padding-left: 20px;"><a href="/docs/FAQ/RU/admin/TicketsAgreement.html">Как настроить линейное и параллельное согласование заявок?</a><span class="updated-badge" title="15.12.2021"></span></h4>
+<h4 style="padding-left: 20px;"><a href="/docs/FAQ/RU/admin/TicketsAgreement.html">Как настроить линейное и параллельное согласование заявок?</a></h4>
 <h4 style="padding-left: 20px;"><a href="/docs/FAQ/RU/admin/CustomerAgreement.html">Как настроить согласование с заказчиком: жизненный цикл, стадии согласования, уведомления?</a></h4>
 
 ### Объекты|Оборудование
@@ -77,7 +77,7 @@
 
 <!--<h4 style="padding-left: 20px;"><a href="/docs/FAQ/RU/user/HowToManageGmailIntegration.html">Как настроить интеграцию с Gmail (почта Google)?</a></h4>-->
 
-<h4 style="padding-left: 20px;"><a href="/docs/FAQ/RU/admin/TicketsAgreement.html">Как настроить линейное и параллельное согласование заявок?</a><span class="updated-badge" title="15.12.2021"></span></h4>
+<h4 style="padding-left: 20px;"><a href="/docs/FAQ/RU/admin/TicketsAgreement.html">Как настроить линейное и параллельное согласование заявок?</a></h4>
 
 <h4 style="padding-left: 20px;"><a href="/docs/FAQ/RU/admin/CustomerAgreement.html">Как настроить согласование с заказчиком: жизненный цикл, стадии согласования, уведомления?</a></h4>
 <h4 style="padding-left: 20px;"><a href="/docs/FAQ/RU/user/HowToNotificationsToMobile.html">Что делать, если не приходят уведомления?</a></h4>

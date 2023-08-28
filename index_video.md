@@ -33,7 +33,7 @@
      <li><a href="#rulesofchoice">Как работает автоназначение исполнителей на заявки</a>;</li>
      <li><a href="#geotracking">Как работает геотрекинг в HubEx</a>;</li>
       <li><a href="#lifecycle">Настройка жизненного цикла для заявок в HubEx</a>;</li>
-      <li><a href="#QRcontrol">Контроль пребывания на объекте</a>;</li>
+      <li><a href="#QRcontrol">Контроль присутствия сотрудника на объекте</a>;</li>
      <li><a href="#sla">Настройка SLA: расчет крайнего срока закрытия заявки</a>;</li>
      <li><a href="#telegram">Интеграция с Telegram</a>;</li>
      <li><a href="#ticketmail">Как подавать заявки с электронной почты в HubEx?</a></li>
@@ -213,7 +213,7 @@
 <iframe width="560" height="315" src="https://www.youtube.com/embed/81JjWYuMNwY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-<h5 id="QRcontrol">Контроль пребывания на объекте</h5>
+<h5 id="QRcontrol">Контроль присутствия сотрудника на объекте</h5>
 <p>При работе с <strong>Заявкой</strong> ваш специалист сможет подтвердить свое нахождение на объекте в мобильном
     приложении <strong>HubEx исполнитель</strong> с помощью QR-кодов. Подробнее читайте в статье <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/CreatingTaskTemplates.html">Создание шаблона заявки, подача заявки по QR-коду</a>.</p>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/FbMtjM_bgGU?si=ospj7f783SwEnLeg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

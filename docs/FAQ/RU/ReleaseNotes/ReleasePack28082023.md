@@ -24,7 +24,7 @@ keywords:
 <p>В текущем обновлении вас ждет отображение релевантности для каждого сотрудника.</p>
 <p>Как это работает?</p>
 <p>При выборе исполнителя в <strong>Заявке</strong> по релевантности для каждого сотрудника будут отображаться иконки критериев отбора (справа от ФИО).</p>
-<div><img style="margin: 0 auto; display: block; max-width: 100%;" src="https://i.postimg.cc/gjHB3dQs/image.png" width="700" height="auto" /></div>
+<div><img style="margin: 0 auto; display: block; max-width: 100%;" src="https://i.postimg.cc/gjHB3dQs/image.png" width="900" height="auto" /></div>
 <p>При наведении на иконки критериев всплывает подсказка с расшифровкой обозначений.</p>
 <p>Чем больше критериев отбора совпадает, тем сотрудник выше в списке по релевантности.</p>
 <p>Таким образом, вы сможете принимать решения о назначении того или иного сотрудника, опираясь на критерии отбора. </p>
@@ -41,7 +41,7 @@ keywords:
 <h5>Фиксация настроек экспорта заявок</h5>
 <p>Благодаря экспорту, <strong>Заявки</strong> из HubEx можно выгружать в таблицу Excel для дальнейшей загрузки в сторонние системы.</p>
 <p>Теперь для каждого пользователя последние настройки экспорта заявок фиксируются: запоминается вариант экспорта (Обычный экспорт, Расширенный экспорт), а также выбор полей для расширенного экспорта.</p>
-<div><img style="margin: 0 auto; display: block; max-width: 100%;" src="https://i.postimg.cc/L4PW8Wfb/Screenshot-25.png" width="700" height="auto" /></div>
+<div><img style="margin: 0 auto; display: block; max-width: 100%;" src="https://i.postimg.cc/L4PW8Wfb/Screenshot-25.png" width="900" height="auto" /></div>
 <p>Обратите внимание! Настройки фиксируются для каждого браузера и компьютера индивидуально.</p>
 <p>Подробнее читайте в статье нашей базы знаний: <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/Export.htmll" target="_blank">Экспорт</a>.</p>
 

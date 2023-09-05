@@ -22,7 +22,7 @@ keywords:  hubex, хабекс, хубекс, хабикс
 <p>Лента уведомлений отображается по нажатию на иконку колокольчика в правом верхнем углу.
 </p>
 <div>
-    <img style="margin: 0 auto; display: block; max-width: 90%;"
+    <img style="margin: 0 auto; display: block; max-width: 95%;"
          src="/attachments/images/FAQ/USER/NotificationInWeb/NotificationWeb.jpg"/>
 </div>
 
@@ -46,16 +46,17 @@ keywords:  hubex, хабекс, хубекс, хабикс
         уведомления были прочитаны, то на экране отобразится сообщение <strong>"Уведомлений нет"</strong>.
     </li>
 
-    <p>
-    <div>
-        <img style="margin: 0 auto; display: block; max-width: 90%;"
-             src="/attachments/images/FAQ/USER/NotificationInWeb/NotificationWeb3.jpg"/>
-    </div>
-    </p>
+ 
     <!--<li>чтобы показать весь текст уведомления, необходимо нажать на команду в конце текста <strong>...показать
         еще</strong>.
     </li>-->
 </ul>
+   <p>
+    <div>
+        <img style="margin: 0 auto; display: block; max-width: 95%;"
+             src="/attachments/images/FAQ/USER/NotificationInWeb/NotificationWeb3.jpg"/>
+    </div>
+    </p>
 
 </body>
 

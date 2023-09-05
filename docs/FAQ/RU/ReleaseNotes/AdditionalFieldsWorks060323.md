@@ -21,12 +21,12 @@ keywords:
 <p>Например, создаем дополнительное поле для описания внешнего вида объекта.</p>
 
 <p>Дополнительно ознакомьтесь со статьями нашей базы знаний: <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/AdditionalFieldsObject.html" target="_blank" rel="noopener">Создание дополнительных полей для объекта</a>, <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/AdditionalFields.html" target="_blank" rel="noopener">Создание дополнительных полей для заявки</a>.</p>
-<div><img style="margin: 0 auto; display: block; max-width: 100%;" src="https://i.postimg.cc/VLsq6fv6/Screenshot-5.png" width="600" height="auto"/></div>
+<div><img style="margin: 0 auto; display: block; max-width: 100%;" src="https://wiki.hubex.ru/attachments/images/FAQ/RELEASENOTES/AdditionalFieldsWorks/Addfields.jpg" width="600" height="auto"/></div>
 
 <p>При добавлении выполненной работы в web-версии HubEx дополнительные поля будут располагаться над полем <strong>Комментарий к выполненной работе</strong>.</p>
-<div><img style="margin: 0 auto; display: block; max-width: 100%;" src="https://i.postimg.cc/QxPKGP44/Screenshot-6.png" width="700" height="auto" /></div>
+<div><img style="margin: 0 auto; display: block; max-width: 100%;" src="https://wiki.hubex.ru/attachments/images/FAQ/RELEASENOTES/AdditionalFieldsWorks/Addfields2.jpg" width="700" height="auto" /></div>
 <p>В мобильном приложении <strong>HubEx исполнитель</strong> дополнительные поля будут доступны на вкладке (<strong>Шаг 2</strong>) <strong>Дополнительно</strong>. Переключаться между вкладками выполненной работы можно по кнопке внизу.</p>
-<div><img style="margin: 0 auto; display: block; max-width: 100%;" src="https://i.postimg.cc/C1S9MwLw/1.jpg" width="700" height="auto" /></div>
+<div><img style="margin: 0 auto; display: block; max-width: 100%;" src="https://wiki.hubex.ru/attachments/images/FAQ/RELEASENOTES/AdditionalFieldsWorks/Mob.jpg" width="700" height="auto" /></div>
 
 <p>Подробнее читайте в статье базы знаний: <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/AdditionalFieldsWorks.html">Создание дополнительных полей для выполненных работ</a>.</p>
 

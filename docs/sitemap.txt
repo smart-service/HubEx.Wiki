@@ -26,6 +26,7 @@ https://wiki.hubex.ru/docs/FAQ/RU/user/CreatingTaskTemplates.html
 https://wiki.hubex.ru/docs/FAQ/RU/user/SelfRegister.html
 https://wiki.hubex.ru/docs/FAQ/RU/user/ViewRestriction.html
 https://wiki.hubex.ru/docs/FAQ/RU/user/Messages.html
+https://wiki.hubex.ru/docs/FAQ/RU/user/NotificationInWeb.html
 https://wiki.hubex.ru/docs/FAQ/RU/user/AnswerTemplate.html
 https://wiki.hubex.ru/docs/FAQ/RU/user/Checklists.html
 https://wiki.hubex.ru/docs/FAQ/RU/user/PrintedFormAct.html

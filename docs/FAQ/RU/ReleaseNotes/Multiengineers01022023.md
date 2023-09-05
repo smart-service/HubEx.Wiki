@@ -31,7 +31,7 @@ keywords:
 <p>Для этого при создании или редактировании <strong>Заявки</strong> перейдите в раздел выбора исполнителя. По аналогии с web-версией с помощью флажков выберите одного или нескольких исполнителей.</p>
 <div><img style="margin: 0 auto; display: block; max-width: 100%;" src="https://wiki.hubex.ru/attachments/images/FAQ/RELEASENOTES/Multiengineers/Mob.jpg" width="558" height="auto" /></div>
 <p>Выбранные исполнители отобразятся в заявке списком.</p>
-<div><img style="margin: 0 auto; display: block; max-width: 100%;" src="https://wiki.hubex.ru/attachments/images/FAQ/USER/Multiengineers/Mob2.jpg" width="280" height="auto" /></div>
+<div><img style="margin: 0 auto; display: block; max-width: 100%;" src="https://wiki.hubex.ru/attachments/images/FAQ/RELEASENOTES/Multiengineers/Mob2.jpg" width="280" height="auto" /></div>
 
 
 

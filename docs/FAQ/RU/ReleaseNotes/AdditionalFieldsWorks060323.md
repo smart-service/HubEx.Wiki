@@ -23,7 +23,7 @@ keywords:
 <p>Дополнительно ознакомьтесь со статьями нашей базы знаний: <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/AdditionalFieldsObject.html" target="_blank" rel="noopener">Создание дополнительных полей для объекта</a>, <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/AdditionalFields.html" target="_blank" rel="noopener">Создание дополнительных полей для заявки</a>.</p>
 <div><img style="margin: 0 auto; display: block; max-width: 100%;" src="https://wiki.hubex.ru/attachments/images/FAQ/RELEASENOTES/AdditionalFieldsWorks/Addfields.jpg" width="600" height="auto"/></div>
 
-<div><img style="margin: 0 auto; display: block; max-width: 100%;" src="https://wiki.hubex.ru/attachments/images/FAQ/RELEASENOTES/NotificationWeb/NotificationWeb.jpg" width="600" height="auto"/></div>
+
 
 <p>При добавлении выполненной работы в web-версии HubEx дополнительные поля будут располагаться над полем <strong>Комментарий к выполненной работе</strong>.</p>
 <div><img style="margin: 0 auto; display: block; max-width: 100%;" src="https://wiki.hubex.ru/attachments/images/FAQ/RELEASENOTES/AdditionalFieldsWorks/Addfields2.jpg" width="700" height="auto" /></div>

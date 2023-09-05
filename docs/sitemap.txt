@@ -167,5 +167,6 @@ https://wiki.hubex.ru/docs/FAQ/RU/ReleaseNotes/GroupActions31052023.html
 https://wiki.hubex.ru/docs/FAQ/RU/ReleaseNotes/ObjectList&QRstickers23062023.html
 https://wiki.hubex.ru/docs/FAQ/RU/ReleaseNotes/AnswerTemplate25072023.html
 https://wiki.hubex.ru/docs/FAQ/RU/ReleaseNotes/ReleasePack28082023.html
+https://wiki.hubex.ru/docs/FAQ/RU/ReleaseNotes/NotificationInWeb05092023.html
 https://wiki.hubex.ru/docs/FAQ/RU/ReleaseNotes/EngineerApp.html
 https://wiki.hubex.ru/docs/FAQ/RU/ReleaseNotes/CustomerApp.html

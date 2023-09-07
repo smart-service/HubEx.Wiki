@@ -117,6 +117,7 @@ https://wiki.hubex.ru/docs/FAQ/RU/user/Contacts.html
 https://wiki.hubex.ru/docs/FAQ/RU/user/ContractSchedule.html
 https://wiki.hubex.ru/docs/FAQ/RU/admin/TelegramIntegration.html
 https://wiki.hubex.ru/docs/FAQ/RU/admin/Powers.html
+https://wiki.hubex.ru/docs/FAQ/RU/user/MobileObjects.html
 
 
 https://wiki.hubex.ru/docs/FAQ/RU/ReleaseNotes/TicketArchives08042020.html

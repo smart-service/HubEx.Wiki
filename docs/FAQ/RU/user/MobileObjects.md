@@ -1,0 +1,70 @@
+---
+title: Мобильное оборудование, заявка по мобильному оборудованию
+description:
+keywords:  hubex, хабекс, хубекс, хабикс
+---
+
+#### Мобильное оборудование: заявка по мобильному оборудованию
+В этом разделе вы узнаете:
+<html>
+<meta charset="utf-8">
+
+</html>
+
+<body>
+<p>Мобильное оборудование - это оборудование, адрес которого может изменяться. Новый адрес такого оборудования можно
+    указывать прямиком в <strong>Заявке</strong> и он будет сохраняться автоматически в карточке
+    <strong>Объекта</strong>.</p>
+<p>Мобильным оборудованием может быть строительная, шахтовая техника, которая перемещается по разным локациям, или,
+    например, вендинговые автоматы.</p>
+<p>Разберем подробнее, как это работает.</p>
+<p>Мобильным оборудованием может являться только объект или оборудование с <strong>Типом оборудования</strong>, для
+    которого в настройках указан флажок <strong>Обязательное наличие адреса (при создании объекта оборудования)</strong>.
+    Это родительские объекты. Дочерние объекты наследуют адреса от родительских. Поэтому если дочерние объекты будут
+    являться мобильными их адрес не будет изменяться, так как он наследуется от родителя.</p>
+<div>
+    <img style="margin: 0 auto; display: block; max-width: 60%;"
+         src="/attachments/images/FAQ/USER/MobileObjects/Type.jpg"/>
+</div>
+
+<p>Флажок <strong>Мобильное оборудование</strong> устанавливается в карточке <strong>Объекта</strong>.</p>
+<div>
+    <img style="margin: 0 auto; display: block; max-width: 80%;"
+         src="/attachments/images/FAQ/USER/MobileObjects/Object.jpg"/>
+</div>
+<p>Для мобильного оборудования при подаче <strong>Заявки</strong> есть возможность изменить адрес и сохранить его для
+    выбранного <strong>Объекта</strong>:</p>
+<ul>
+    <li>для поля <strong>Адрес</strong> нажмите кнопку <strong>Редактировать -
+        Изменить местоположение</strong> и укажите новый адрес;</li>
+    <p><div>
+        <img style="margin: 0 auto; display: block; max-width: 90%;"
+             src="/attachments/images/FAQ/USER/MobileObjects/Ticket.jpg"/>
+        </div></p>
+
+    <li>сохраните <strong>Заявку</strong> по кнопке <strong>Сохранить</strong> или <strong>Сохранить и закрыть</strong>;</li>
+     <p><div>
+        <img style="margin: 0 auto; display: block; max-width: 90%;"
+             src="/attachments/images/FAQ/USER/MobileObjects/Ticket2.jpg"/>
+        </div></p>
+
+    <li>откройте карточку <strong>Объекта</strong>: его адрес изменится на тот, который вы указали в <strong>Заявке</strong>.</li>
+    <p><div>
+    <img style="margin: 0 auto; display: block; max-width: 80%;"
+         src="/attachments/images/FAQ/USER/MobileObjects/Object2.jpg"/>
+</div></p>
+</ul>
+
+<p>Таким образом, каждый раз указывая новый адрес в <strong>Заявке</strong> в карточке <strong>Объекта</strong> этот адрес будет обновляться.</p>
+
+</body>
+
+___
+### Следующие шаги:
+- [QR-код в HubEx: основные понятия](./QRcodeMain.md)
+- [Создание шаблона оборудования, приемка и маркировка по QR-коду](./CreatingObjTemplates.md)
+- [Создание шаблона заявки, подача заявки по QR-коду](./CreatingTaskTemplates.md)
+
+
+____
+- [Перейти в меню](http://wiki.hubex.ru)

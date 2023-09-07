@@ -30,7 +30,7 @@ keywords: мобильное оборудование, мобильный объ
 
 <p>Флажок <strong>Мобильное оборудование</strong> устанавливается в карточке <strong>Объекта</strong>.</p>
 <div>
-    <img style="margin: 0 auto; display: block; max-width: 80%;"
+    <img style="margin: 0 auto; display: block; max-width: 95%;"
          src="/attachments/images/FAQ/USER/MobileObjects/Object.jpg"/>
 </div>
 <p>Для мобильного оборудования при подаче <strong>Заявки</strong> есть возможность изменить адрес и сохранить его для
@@ -39,19 +39,19 @@ keywords: мобильное оборудование, мобильный объ
     <li>для поля <strong>Адрес</strong> нажмите кнопку <strong>Редактировать -
         Изменить местоположение</strong> и укажите новый адрес;</li>
     <p><div>
-        <img style="margin: 0 auto; display: block; max-width: 90%;"
+        <img style="margin: 0 auto; display: block; max-width: 100%;"
              src="/attachments/images/FAQ/USER/MobileObjects/Ticket.jpg"/>
         </div></p>
 
     <li>сохраните <strong>Заявку</strong> по кнопке <strong>Сохранить</strong> или <strong>Сохранить и закрыть</strong>;</li>
      <p><div>
-        <img style="margin: 0 auto; display: block; max-width: 90%;"
+        <img style="margin: 0 auto; display: block; max-width: 100%;"
              src="/attachments/images/FAQ/USER/MobileObjects/Ticket2.jpg"/>
         </div></p>
 
     <li>откройте карточку <strong>Объекта</strong>: его адрес изменится на тот, который вы указали в <strong>Заявке</strong>.</li>
     <p><div>
-    <img style="margin: 0 auto; display: block; max-width: 80%;"
+    <img style="margin: 0 auto; display: block; max-width: 95%;"
          src="/attachments/images/FAQ/USER/MobileObjects/Object2.jpg"/>
 </div></p>
 </ul>

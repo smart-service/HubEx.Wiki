@@ -112,7 +112,7 @@
 
     
 <h4 style="padding-left: 20px;">
-    <a href="/docs/FAQ/RU/user/MobileObjects.html">Мобильное оборудование: заявка по мобильному оборудованию</a></h4>
+    <a href="/docs/FAQ/RU/user/MobileObjects.html">Мобильное оборудование: заявка по мобильному оборудованию</a><span class="new-badge" title="08.09.2023"></span></h4>
 
  <h4 style="padding-left: 20px;">
     <a href="/docs/FAQ/RU/user/NotificationInWeb.html">Лента уведомлений в web-приложении</a><span class="new-badge" title="05.09.2023"></span></h4>

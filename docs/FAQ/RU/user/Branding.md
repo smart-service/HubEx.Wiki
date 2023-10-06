@@ -87,7 +87,7 @@ keywords: брендирование, брэндирование, бренд к�
         <li>выделите текстовую надпись и перейдите в меню <strong>Объект - Разобрать</strong>;
                </li>
                <p><div>
-                <img style="margin: 0 auto; display: block; max-width: 110%;"
+                <img style="margin-left: 20%; display: block; max-width: 110%;"
                      src="/attachments/images/FAQ/USER/Branding/AI2.png"/>
             </div></p>
         <li>в открывшемся окне установите флажки напротив пунктов <strong>Объект</strong> и <strong>Заливку</strong> и нажмите <strong>Ок</strong>;  

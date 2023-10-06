@@ -73,7 +73,7 @@ keywords: брендирование, брэндирование, бренд к�
         <li>выделите текстовую надпись и щелкните правой кнопкой мыши, затем в контекстном меню выберите пункт <strong>Преобразовать в кривые</strong>; 
         <li>сохраните логотип.</li>
             <p><div>
-                <img style="margin: 0 auto; margin-right: -50px; display: block; max-width: 120%;"
+                <img style="margin-left: 100px; margin: 0 auto; display: block; max-width: 110%;"
                      src="/attachments/images/FAQ/USER/Branding/AI1.png"/>
             </div></p>
         </li>
@@ -87,13 +87,13 @@ keywords: брендирование, брэндирование, бренд к�
         <li>выделите текстовую надпись и перейдите в меню <strong>Объект - Разобрать</strong>;
                </li>
                <p><div>
-                <img style="margin: 0 auto; display: block; max-width: 120%;"
+                <img style="margin: 0 auto; display: block; max-width: 110%;"
                      src="/attachments/images/FAQ/USER/Branding/AI2.png"/>
             </div></p>
         <li>в открывшемся окне установите флажки напротив пунктов <strong>Объект</strong> и <strong>Заливку</strong> и нажмите <strong>Ок</strong>;  
         <li>сохраните логотип.</li>
            <p><div>
-                <img style="margin: 0 auto; display: block; max-width: 120%;"
+                <img style="margin: 0 auto; display: block; max-width: 110%;"
                      src="/attachments/images/FAQ/USER/Branding/AI3.png"/>
             </div></p>
         </li>

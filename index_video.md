@@ -30,7 +30,7 @@
      <li><a href="#contract">Как создать договор</a>;</li>
      <li><a href="#qrcode">Как подать заявку по QR-коду</a>;</li>
      <li><a href="#attachingfiles">Как заполнить выполненные работы и оценить показатели KPI</a>;</li>
-      <li><a href="#printedforms">"Электронные документы HubEx"</a>;</li>
+      <li><a href="#printedforms">Электронные документы HubEx</a>;</li>
      <li><a href="#rulesofchoice">Как работает автоназначение исполнителей на заявки</a>;</li>
      <li><a href="#geotracking">Как работает геотрекинг в HubEx</a>;</li>
       <li><a href="#lifecycle">Настройка жизненного цикла для заявок в HubEx</a>;</li>

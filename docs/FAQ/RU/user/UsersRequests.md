@@ -30,7 +30,7 @@ keywords:  hubex, хабекс, хубекс, хабикс
 <p>Корректно заполнять инициатора важно для просмотра истории обращений. По каждому инициатору хранится история
     всех поданных <strong>Заявок</strong>. История способствует прозрачности внутри организации.
     Менеджеры и диспетчера
-    могут легко отслеживать ход выполнения всех <strong>Заявок</strong>, а также обращаться к идетничным
+    могут легко отслеживать ход выполнения всех <strong>Заявок</strong>, а также обращаться к идентничным
     <strong>Заявкам</strong>, чтобы ускорить разрешение запросов
     от клиентов.</p>
 
@@ -46,7 +46,7 @@ keywords:  hubex, хабекс, хубекс, хабикс
 
 <div>
     <img style="margin: 0 auto; display: block; max-width: 95%;"
-         src="/attachments/images/FAQ/USER//.jpg"/>
+         src="/attachments/images/FAQ/USER/UsersRequests/.jpg"/>
 </div>
 
 <p>Если необходимо изменить текущего инициатора, то нужно нажать на контекстное меню (три точки) справа от ФИО
@@ -55,7 +55,7 @@ keywords:  hubex, хабекс, хубекс, хабикс
 
 <div>
     <img style="margin: 0 auto; display: block; max-width: 95%;"
-         src="/attachments/images/FAQ/USER//.jpg"/>
+         src="/attachments/images/FAQ/USER/UsersRequests/Initiator.jpg"/>
 </div>
 
 <p>При выборе или смене инициатора откроется окно выбора, в котором можно выбрать или создать нового инициатора. Список
@@ -63,18 +63,18 @@ keywords:  hubex, хабекс, хубекс, хабикс
     созданы в вашем аккаунте. </p>
 <div>
     <img style="margin: 0 auto; display: block; max-width: 95%;"
-         src="/attachments/images/FAQ/USER//.jpg"/>
+         src="/attachments/images/FAQ/USER/UsersRequests/.jpg"/>
 </div>
 
 <p>Если вы не нашли подходящего инициаторы, его можно создать по кнопке <strong>+Создать</strong>. В форме создания
     заполните следующие
-    поля (поля, отмеченные красной звездочкой, обязвтельны для заполнения):</p>
+    поля (поля, отмеченные красной звездочкой, обязательны для заполнения):</p>
 <ul>
-    <li><strong>Фамилию</strong>, <strong>Имя</strong> и <strong>Отчетство</strong>;</li>
+    <li><strong>Фамилию</strong>, <strong>Имя</strong> и <strong>Отчество</strong>;</li>
     <li>введите <strong>Телефон</strong> или <strong>Электронную почту</strong> (одно из этих полей должно быть
         заполнено обязательно);
     </li>
-    <li>в поле <strong>Компания</strong> автоматически подстится значение карточки <strong>Заказчика</strong>, который
+    <li>в поле <strong>Компания</strong> автоматически подставится значение карточки <strong>Заказчика</strong>, который
         был выбран в <strong>Заявке</strong>.
         Если <strong>Заказчик</strong>
         не был указан, то необходимо выбрать <strong>Компанию</strong> из списка.
@@ -87,7 +87,7 @@ keywords:  hubex, хабекс, хубекс, хабикс
 <p>После заполнения всех полей нажмите кнопку <strong>Создать</strong>.</p>
 <div>
     <img style="margin: 0 auto; display: block; max-width: 95%;"
-         src="/attachments/images/FAQ/USER//.jpg"/>
+         src="/attachments/images/FAQ/USER/UsersRequests/.jpg"/>
 </div>
 
 <p>По умолчанию все новые <strong>Инициаторы заявки</strong> будут создаваться как элементы справочника <strong>Заказчики</strong>. При необходимости вы
@@ -100,7 +100,7 @@ keywords:  hubex, хабекс, хубекс, хабикс
     справа от ФИО и выберите пункт <strong>Редактировать</strong>.</p>
 <div>
     <img style="margin: 0 auto; display: block; max-width: 95%;"
-         src="/attachments/images/FAQ/USER//.jpg"/>
+         src="/attachments/images/FAQ/USER/UsersRequests/.jpg"/>
 </div>
 
 <p>Также внести изменения в карточку <strong>Инициатора заявки</strong> можно в окне выбора и создания нового. Для этого
@@ -108,7 +108,7 @@ keywords:  hubex, хабекс, хубекс, хабикс
     карандаша справа от ФИО.</p>
 <div>
     <img style="margin: 0 auto; display: block; max-width: 95%;"
-         src="/attachments/images/FAQ/USER//.jpg"/>
+         src="/attachments/images/FAQ/USER/UsersRequests/.jpg"/>
 </div>
 
 <h5 id="history">История обращений</h5>
@@ -118,16 +118,16 @@ keywords:  hubex, хабекс, хубекс, хабикс
     обращений</strong>.</p>
 <div>
     <img style="margin: 0 auto; display: block; max-width: 95%;"
-         src="/attachments/images/FAQ/USER//.jpg"/>
+         src="/attachments/images/FAQ/USER/UsersRequests/.jpg"/>
 </div>
 
-<p>Также истори обращений доступна при редактировании данных инициатора.</p>
+<p>Также история обращений доступна при редактировании данных инициатора.</p>
 <p>В таблице представлен список <strong>Заявок</strong>, которые в которых был указан выбранный инициатор. Любую
     <strong>Заявку</strong> можно открыть по
     щелчку. <strong>Заявка</strong> откроется в новом окне.</p>
 <div>
     <img style="margin: 0 auto; display: block; max-width: 95%;"
-         src="/attachments/images/FAQ/USER//.jpg"/>
+         src="/attachments/images/FAQ/USER/UsersRequests/.jpg"/>
 </div>
 
 <p>Таким образом, легко можно отслеживать историю запросов определенных клиентов, находясь в <strong>Заявке</strong>,

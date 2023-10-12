@@ -46,7 +46,7 @@ keywords:  hubex, хабекс, хубекс, хабикс
 
 <div>
     <img style="margin: 0 auto; display: block; max-width: 95%;"
-         src="/attachments/images/FAQ/USER/UsersRequests/.jpg"/>
+         src="/attachments/images/FAQ/USER/UsersRequests/Ticket.jpg"/>
 </div>
 
 <p>Если необходимо изменить текущего инициатора, то нужно нажать на контекстное меню (три точки) справа от ФИО

@@ -7,6 +7,7 @@
      <li><a href="#hubexhl">Обзор функциональных возможностей HubEx: контроль мобильных специалистов и управление процессами онлайн;</a></li>
      <!--Старый ролик<li><a href="#firststeps">Начало работы в HubEx;</a></li>-->
      <li><a href="#operator">Работа диспетчера в HubEx;</a></li>
+     <li><a href="#admin">Консоль администратора в HubEx;</a></li>
      <li><a href="#creatingobject">Как создавать объекты обслуживания в HubEx: способы создания объектов обслуживания, маркировка, паспорт объекта;</a></li>
      <li><a href="#creatinguser">Как создать пользователя в Hubex;</a></li>
      <li><a href="#tickets">Способы подачи заявки в HubEx;</a></li>
@@ -57,6 +58,10 @@
 <h5 id="operator">Работа диспетчера в HubEx</h5>
 <p>В данном видео разбираем, как эффективно работать диспетчеру в HubEx и покрывать основные задачи по организации работы сотрудников, оперативному выполнению заявок и поддержанию коммуникации между клиентами и исполнителями.</p>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/KZbrcQg4IKY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<h5 id="admin">Консоль администратора в HubEx</h5>
+<p>В данном видео рассматриваем все возможности консоли администратора в HubEx. А также даем полезные ссылки на более подробные уроки по разделам консоли. </p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5qsg9aUpIlw?si=v98J92BDBRDR7-r-" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 <h5 id="creatingobject">Как создавать объекты обслуживания в HubEx: способы создания объектов обслуживания, маркировка, паспорт объекта</h5>

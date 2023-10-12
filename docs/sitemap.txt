@@ -40,6 +40,7 @@ https://wiki.hubex.ru/docs/FAQ/RU/user/GeoPosition.html
 https://wiki.hubex.ru/docs/FAQ/RU/user/Geotracking.html
 https://wiki.hubex.ru/docs/FAQ/RU/user/Rating.html
 https://wiki.hubex.ru/docs/FAQ/RU/user/HistoryOfChanges.html
+https://wiki.hubex.ru/docs/FAQ/RU/user/UsersRequests.html
 https://wiki.hubex.ru/docs/FAQ/RU/user/Export.html
 https://wiki.hubex.ru/docs/FAQ/RU/user/Import.html
 https://wiki.hubex.ru/docs/FAQ/RU/user/Branding.html

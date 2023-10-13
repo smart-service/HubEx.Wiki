@@ -63,7 +63,7 @@ keywords:  hubex, хабекс, хубекс, хабикс
     созданы в вашем аккаунте. </p>
 <div>
     <img style="margin: 0 auto; display: block; max-width: 95%;"
-         src="/attachments/images/FAQ/USER/UsersRequests/.jpg"/>
+         src="/attachments/images/FAQ/USER/UsersRequests/Initiator2.jpg"/>
 </div>
 
 <p>Если вы не нашли подходящего инициаторы, его можно создать по кнопке <strong>+Создать</strong>. В форме создания
@@ -87,7 +87,7 @@ keywords:  hubex, хабекс, хубекс, хабикс
 <p>После заполнения всех полей нажмите кнопку <strong>Создать</strong>.</p>
 <div>
     <img style="margin: 0 auto; display: block; max-width: 95%;"
-         src="/attachments/images/FAQ/USER/UsersRequests/.jpg"/>
+         src="/attachments/images/FAQ/USER/UsersRequests/Initiator3.jpg"/>
 </div>
 
 <p>По умолчанию все новые <strong>Инициаторы заявки</strong> будут создаваться как элементы справочника <strong>Заказчики</strong>. При необходимости вы
@@ -100,7 +100,7 @@ keywords:  hubex, хабекс, хубекс, хабикс
     справа от ФИО и выберите пункт <strong>Редактировать</strong>.</p>
 <div>
     <img style="margin: 0 auto; display: block; max-width: 95%;"
-         src="/attachments/images/FAQ/USER/UsersRequests/.jpg"/>
+         src="/attachments/images/FAQ/USER/UsersRequests/Initiator4.jpg"/>
 </div>
 
 <p>Также внести изменения в карточку <strong>Инициатора заявки</strong> можно в окне выбора и создания нового. Для этого
@@ -108,7 +108,7 @@ keywords:  hubex, хабекс, хубекс, хабикс
     карандаша справа от ФИО.</p>
 <div>
     <img style="margin: 0 auto; display: block; max-width: 95%;"
-         src="/attachments/images/FAQ/USER/UsersRequests/.jpg"/>
+         src="/attachments/images/FAQ/USER/UsersRequests/Initiator5.jpg"/>
 </div>
 
 <h5 id="history">История обращений</h5>
@@ -118,7 +118,7 @@ keywords:  hubex, хабекс, хубекс, хабикс
     обращений</strong>.</p>
 <div>
     <img style="margin: 0 auto; display: block; max-width: 95%;"
-         src="/attachments/images/FAQ/USER/UsersRequests/.jpg"/>
+         src="/attachments/images/FAQ/USER/UsersRequests/Initiator6.jpg"/>
 </div>
 
 <p>Также история обращений доступна при редактировании данных инициатора.</p>
@@ -127,7 +127,7 @@ keywords:  hubex, хабекс, хубекс, хабикс
     щелчку. <strong>Заявка</strong> откроется в новом окне.</p>
 <div>
     <img style="margin: 0 auto; display: block; max-width: 95%;"
-         src="/attachments/images/FAQ/USER/UsersRequests/.jpg"/>
+         src="/attachments/images/FAQ/USER/UsersRequests/History.jpg"/>
 </div>
 
 <p>Таким образом, легко можно отслеживать историю запросов определенных клиентов, находясь в <strong>Заявке</strong>,

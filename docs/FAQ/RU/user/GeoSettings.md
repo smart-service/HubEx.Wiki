@@ -234,7 +234,7 @@ keywords: мобильное приложение исполнителя, исп
     </li>
 
    <p> <div>
-        <img style="margin: 0 auto; display: block; max-width: 90%;"
+        <img style="margin: 0 auto; display: block; max-width: 70%;"
              src="/attachments/images/FAQ/USER/GeoSettings/HuaweiGEO3.jpg"/>
     </div></p>
 

@@ -38,10 +38,7 @@ keywords: плановая заявка, планировщик работ, hube
         заявки</strong>, <strong>Вид работ</strong>, <strong>Объект/оборудование</strong>, <strong>Описание</strong>
     <strong>Исполнитель</strong>, <strong>Плановое создание заявок</strong>, раздел <strong>Ограничить
         повторения</strong> (раздел появляется после выбора <strong>Частоты создания заявок</strong>).</p>
-<div>
-    <img style="margin: 0 auto; display: block; max-width: 90%;"
-         src="/attachments/images/FAQ/USER/PlannedTickets/PlannedTicket0.jpg"/>
-</div>
+
 
 <p>Процесс заполнения полей <strong>Плановой заявки</strong> основан на заполнении обычной <strong>Заявки</strong>.
     Подробнее читайте в статье: <a
@@ -58,6 +55,12 @@ keywords: плановая заявка, планировщик работ, hube
             заявки</strong> (<strong>Виды работ</strong> заполняются в карточке <strong>Объекта</strong>). На следующем
         шаге вы можете уточнить выбор <strong>Объектов</strong>;
     </li>
+
+ <div>
+    <img style="margin: 0 auto; display: block; max-width: 100%;"
+         src="/attachments/images/FAQ/USER/PlannedTickets/PlannedTicket0.jpg"/>
+</div>
+
     <li><strong>Плановые заявки</strong> можно подавать не только на один <strong>Объект/оборудование</strong>, но и на
         группу <strong>Объектов</strong> с указанным выше <strong>Видом работ</strong>. После выбора <strong>Вида
             работ</strong> вы увидите ссылку на

@@ -116,24 +116,37 @@ keywords: плановая заявка, планировщик работ, hube
         например, <strong>Плановые заявки</strong> вам нужно
         создавать в течение года. Либо ограничить повторения по количеству, например, вам нужно всего 10 заявок.
     </li>
-    <li>в поле <strong>Исполнитель</strong> по умолчанию установлено значение <strong>Автоматическое назначение
-        исполнителя</strong>. Если вы хотите выбрать определенного специалиста, отключите данную функцию.
+    <li>в поле <strong>Исполнитель</strong> вы можете выбрать одного или нескольких исполнителей на выполнение <strong>Плановой заявки</strong>. Для этого нажмите кнопку <strong>+Добавить исполнителя</strong>.
 
         <p>
         <div>
-            <img style="margin: 0 auto; display: block; max-width: 90%;"
+            <img style="margin: 0 auto; display: block; max-width: 100%;"
                  src="/attachments/images/FAQ/USER/PlannedTickets/SelectEngineer.jpg"/>
         </div>
         </p>
-
-        <strong>Автоматическое назначение исполнителя</strong> означает, что исполнитель будет подбираться при создании
+ <p>С помощью установки флажков выберите исполнителей и нажмите кнопку <strong>Выбрать</strong>.</p>
+ <p>
+        <div>
+            <img style="margin: 0 auto; display: block; max-width: 100%;"
+                 src="/attachments/images/FAQ/USER/PlannedTickets/SelectEngineer2.jpg"/>
+        </div>
+        </p>
+        <p>Для <strong>Плановой заявки</strong> можно установить ппереключатель <strong>Автоматическое назначение исполнителя</strong>. Это означает, что исполнитель будет подбираться при создании
         заявки по
         специальным
-        правилам выбора исполнителя.
-        <strong>Правило выбора исполнителя</strong> можно создать в <a
+        правилам выбора исполнителя.</p>
+
+         <p>
+        <div>
+            <img style="margin: 0 auto; display: block; max-width: 100%;"
+                 src="/attachments/images/FAQ/USER/PlannedTickets/SelectEngineer3.jpg"/>
+        </div>
+        </p>
+
+        <p><strong>Правило выбора исполнителя</strong> можно создать в <a
                 href="https://wiki.hubex.ru/docs/FAQ/RU/admin/HowToEnterTheAdmin.html">консоли
             администратора</a> в меню Настройки заявки - Правила выбора исполнителя. Подробнее читайте в статье: <a
-                href="https://wiki.hubex.ru/docs/FAQ/RU/admin/RulesOfChoice.html">Правила выбора исполнителя</a>.
+                href="https://wiki.hubex.ru/docs/FAQ/RU/admin/RulesOfChoice.html">Правила выбора исполнителя</a>.</p>
         <p>После создания правила его необходимо привязать к стадии заявки <strong>Новая</strong>, чтобы исполнитель
             назначался
             автоматически именно при создании <strong>Плановой заявки</strong>.</p>

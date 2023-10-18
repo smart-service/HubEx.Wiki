@@ -62,16 +62,15 @@ keywords: плановая заявка, планировщик работ, hube
 
     <li><strong>Плановые заявки</strong> можно подавать не только на один <strong>Объект/оборудование</strong>, но и на
         группу <strong>Объектов</strong> с указанным выше <strong>Видом работ</strong>. После выбора <strong>Вида
-            работ</strong> станут активными кнопки <strong>Объекты</strong>
-        - <strong>К списку объектов</strong> для выбора <strong>Объектов</strong> вручную, а также кнопка <strong>Объекты</strong>
-        - <strong>Подобрать объекты</strong> для установки дополнительных фильтров для подбора <strong>Объектов</strong>. Нажмите на кнопку <strong>К списку объектов</strong> и установите флажки на <strong>Объектах</strong>,
-        которые вам нужны для
-        создания <strong>Заявок</strong>, затем нажмите кнопку <strong>Выбрать</strong>.
+            работ</strong> станут активными кнопки <strong>К списку объектов</strong> для выбора <strong>Объектов</strong> вручную, а также кнопка <strong>Подобрать объекты</strong> для установки дополнительных фильтров для подбора <strong>Объектов</strong>. 
 
      <p><div>
     <img style="margin: 0 auto; display: block; max-width: 100%;"
          src="/attachments/images/FAQ/USER/PlannedTickets/PlannedTicket1.jpg"/>
 </div></p>
+<p>Нажмите на кнопку <strong>К списку объектов</strong> и установите флажки на <strong>Объектах</strong>,
+        которые вам нужны для
+        создания <strong>Заявок</strong>, затем нажмите кнопку <strong>Выбрать</strong>.</p>
         <p>
         <div>
             <img style="margin: 0 auto; display: block; max-width: 100%;"
@@ -79,7 +78,7 @@ keywords: плановая заявка, планировщик работ, hube
         </div>
         </p>
 
-        Уточнить выбор <strong>Объектов</strong> можно с помощью фильтров по кнопке <strong>Подобрать объекты</strong>.
+        Если необходимо, то можно уточнить выбор <strong>Объектов</strong> с помощью фильтров по кнопке <strong>Подобрать объекты</strong>.
         <p>
         <div>
             <img style="margin: 0 auto; display: block; max-width: 100%;"

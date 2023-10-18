@@ -40,11 +40,10 @@ keywords: плановая заявка, планировщик работ, hube
         повторения</strong> (раздел появляется после выбора <strong>Частоты создания заявок</strong>).</p>
 
 
-<p>Процесс заполнения полей <strong>Плановой заявки</strong> основан на заполнении обычной <strong>Заявки</strong>.
+<p>Процесс заполнения полей <strong>Плановой заявки</strong> похож на заполнение стандартной <strong>Заявки</strong> в HubEx.
     Подробнее читайте в статье: <a
             href="https://wiki.hubex.ru/docs/FAQ/RU/user/CreatingTicket.html#webticket">Создание заявки</a>.</p>
-<p> Рассмотрим
-    заполнение <strong>Плановой заявки</strong>:</p>
+<p>Рассмотрим подробнее заполнение полей <strong>Плановой заявки</strong>:</p>
 <ul>
     <li><strong>Название</strong> заполняется в свободной форме;</li>
     <li>с указанным <strong>Типом заявки</strong> будут создаваться <strong>Плановые заявки</strong>. <strong>Тип
@@ -56,29 +55,34 @@ keywords: плановая заявка, планировщик работ, hube
         шаге вы можете уточнить выбор <strong>Объектов</strong>;
     </li>
 
- <div>
+ <p><div>
     <img style="margin: 0 auto; display: block; max-width: 100%;"
          src="/attachments/images/FAQ/USER/PlannedTickets/PlannedTicket0.jpg"/>
-</div>
+</div></p>
 
     <li><strong>Плановые заявки</strong> можно подавать не только на один <strong>Объект/оборудование</strong>, но и на
         группу <strong>Объектов</strong> с указанным выше <strong>Видом работ</strong>. После выбора <strong>Вида
-            работ</strong> вы увидите ссылку на
-        подобранные <strong>Объекты</strong>
-        - <strong>К списку объектов</strong>. Перейдите по ссылке и установите флажки на <strong>Объектах</strong>,
+            работ</strong> станут активными кнопки <strong>Объекты</strong>
+        - <strong>К списку объектов</strong> для выбора <strong>Объектов</strong> вручную, а также кнопка <strong>Объекты</strong>
+        - <strong>Подобрать объекты</strong> для установки дополнительных фильтров для подбора <strong>Объектов</strong>. Нажмите на кнопку <strong>К списку объектов</strong> и установите флажки на <strong>Объектах</strong>,
         которые вам нужны для
-        создания <strong>Заявок</strong>.
+        создания <strong>Заявок</strong>, затем нажмите кнопку <strong>Выбрать</strong>.
+
+     <p><div>
+    <img style="margin: 0 auto; display: block; max-width: 100%;"
+         src="/attachments/images/FAQ/USER/PlannedTickets/PlannedTicket1.jpg"/>
+</div></p>
         <p>
         <div>
-            <img style="margin: 0 auto; display: block; max-width: 90%;"
+            <img style="margin: 0 auto; display: block; max-width: 100%;"
                  src="/attachments/images/FAQ/USER/PlannedTickets/ListObj.jpg"/>
         </div>
         </p>
 
-        Либо уточните выбор <strong>Объектов</strong> с помощью фильтров по кнопке <strong>Подобрать объекты</strong>.
+        Уточнить выбор <strong>Объектов</strong> можно с помощью фильтров по кнопке <strong>Подобрать объекты</strong>.
         <p>
         <div>
-            <img style="margin: 0 auto; display: block; max-width: 90%;"
+            <img style="margin: 0 auto; display: block; max-width: 100%;"
                  src="/attachments/images/FAQ/USER/PlannedTickets/FilterObj.jpg"/>
         </div>
         </p>

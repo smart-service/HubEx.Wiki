@@ -11,7 +11,7 @@ keywords: консоль администратора, консоль админ
 </html>
 <body>
 
-<p>Ознакомьтесь с обучающим видеороликом <strong>Консоль администратора в HubEx</strong>. В нем мы рассказываем обо всех возможностях консоли. Подробные инструкции для каждого раздела консоли представлены в <a href="https://wiki.hubex.ru/index_admin.html">текушем разделе</a> нашей базы знаний. </p>
+<p>Ознакомьтесь с обучающим видеороликом <strong>Консоль администратора в HubEx</strong>. В нем мы рассказываем обо всех возможностях консоли. Подробные инструкции для каждого раздела консоли представлены в <a href="https://wiki.hubex.ru/index_admin.html">текущем разделе</a> нашей базы знаний. </p>
 
 <iframe src="https://www.youtube.com/embed/5qsg9aUpIlw?si=v98J92BDBRDR7-r-" width="100%" height="450px" frameborder="0"
         allowfullscreen="allowfullscreen"></iframe>

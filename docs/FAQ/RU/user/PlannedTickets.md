@@ -145,8 +145,8 @@ keywords: плановая заявка, планировщик работ, hube
 
         <p><strong>Правило выбора исполнителя</strong> можно создать в <a
                 href="https://wiki.hubex.ru/docs/FAQ/RU/admin/HowToEnterTheAdmin.html">консоли
-            администратора</a> в меню Настройки заявки - Правила выбора исполнителя. Подробнее читайте в статье: <a
-                href="https://wiki.hubex.ru/docs/FAQ/RU/admin/RulesOfChoice.html">Правила выбора исполнителя</a>.</p>
+            администратора</a> в меню Настройки заявки - Автоназначение исполнителя. Подробнее читайте в статье: <a
+                href="https://wiki.hubex.ru/docs/FAQ/RU/admin/RulesOfChoice.html">Правила автоназначения исполнителя</a>.</p>
         <p>После создания правила его необходимо привязать к стадии заявки <strong>Новая</strong>, чтобы исполнитель
             назначался
             автоматически именно при создании <strong>Плановой заявки</strong>.</p>
@@ -180,8 +180,8 @@ keywords: плановая заявка, планировщик работ, hube
     в <strong>Плановую заявку</strong> и нажмите кнопку <strong>Приостановить</strong>. Теперь вы можете вносить
     изменения. После внесения изменений необходимо заново нажать кнопку <strong>Сохранить и запланировать</strong>.</p>
 <div>
-    <img style="margin: 0 auto; display: block; max-width: 90%;"
-         src="/attachments/images/FAQ/USER/PlannedTickets/Paused.jpg"/>
+    <img style="margin: 0 auto; display: block; max-width: 100%;"
+         src="/attachments/images/FAQ/USER/PlannedTickets/Pause.jpg"/>
 </div>
 
 <h5 id="plantick">Плановые заявки в календаре</h5>

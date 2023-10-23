@@ -77,7 +77,7 @@ keywords: мобильное приложение исполнителя, исп
     <li>для параметра <strong>Сотовые данные</strong> переведите положение переключателя вправо (включен).</li>
 
     <p> <div>
-    <img style="margin: 0 auto; display: block; max-width: 70%;"
+    <img style="margin: 0 auto; display: block; max-width: 35%;"
          src="/attachments/images/FAQ/USER/GeoSettings/IphoneGEO5.jpg"/>
 </div></p>
 

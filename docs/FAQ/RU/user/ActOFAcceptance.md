@@ -62,7 +62,7 @@ keywords: акт, акт выполненных работ, формирован
     </li>
     <p>
     <div>
-        <img style="margin: 0 auto; display: block; max-width: 90%;"
+        <img style="margin: 0 auto; display: block; max-width: 100%;"
              src="/attachments/images/FAQ/USER/ActOFAcceptance/Works.jpg"/>
     </div>
     </p>
@@ -82,7 +82,7 @@ keywords: акт, акт выполненных работ, формирован
     приложение исполнителя.</p>
 
 <div>
-    <img style="margin: 0 auto; display: block; max-width: 90%;"
+    <img style="margin: 0 auto; display: block; max-width: 100%;"
          src="/attachments/images/FAQ/USER/ActOFAcceptance/Act.jpg"/>
 </div>
 

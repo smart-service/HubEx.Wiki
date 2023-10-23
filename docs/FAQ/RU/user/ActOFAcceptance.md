@@ -106,6 +106,18 @@ keywords: акт, акт выполненных работ, формирован
     <img style="margin: 0 auto; display: block; max-width: 80%;"
          src="/attachments/images/FAQ/USER/ActOFAcceptance/ActMob3.jpg"/>
 </div>
+
+<p>В мобильном приложении также доступна функция отправки Акта в мессенджеры, сохранения его в галерею телефона. Нажмите кнопку <strong>Поделиться</strong> в правом верхнем углу, затем выберите необходимое действие: сохранить изображение или отправить акт своим контактам через мессенджеры.</p>
+<div>
+    <img style="margin: 0 auto; display: block; max-width: 80%;"
+         src="/attachments/images/FAQ/USER/ActOFAcceptance/ActMob4.jpg"/>
+</div>
+
+<p>Акт сохраняется и отправляется в мессенджеры, как картинка с резрешением .png, и выглядит следующим образом.</p>
+<div>
+    <img style="margin: 0 auto; display: block; max-width: 35%;"
+         src="/attachments/images/FAQ/USER/ActOFAcceptance/ActMob5.jpg"/>
+</div>
 </body>
 <!--<h5 id="payment">Счет на оплату заказчику и оплата Акта</h5>
 ДОБАВИТЬ КОГДА ПОЯВЯТСЯ ОБНОВЛЕНИЯ!!!!!!!!!!!!!!-->

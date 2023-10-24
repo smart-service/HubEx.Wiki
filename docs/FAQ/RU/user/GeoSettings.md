@@ -74,7 +74,7 @@ keywords: мобильное приложение исполнителя, исп
          src="/attachments/images/FAQ/USER/GeoSettings/IphoneGEO3.jpg"/>
 </div></p>
 
-    <li>для параметра <strong>Сотовые данные</strong> переведите положение переключателя вправо (включен).</li>
+    <li>для параметра <strong>Сотовые данные</strong> переведите положение переключателя вправо (включен);</li>
 
     <p> <div>
     <img style="margin: 0 auto; display: block; max-width: 35%;"

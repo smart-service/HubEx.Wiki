@@ -165,7 +165,7 @@ keywords: мобильное приложение исполнителя, исп
 
     <p>
     <div>
-        <img style="margin: 0 auto; display: block; max-width: 70%;"
+        <img style="margin: 0 auto; display: block; max-width: 35%;"
              src="/attachments/images/FAQ/USER/GeoSettings/SamsungGEO01.jpg"/>
     </div>
     </p>
@@ -276,7 +276,7 @@ keywords: мобильное приложение исполнителя, исп
             переведите переключатель в положение влево (выключено);</li>
         <p>
         <div>
-            <img style="margin: 0 auto; display: block; max-width: 70%;"
+            <img style="margin: 0 auto; display: block; max-width: 100%;"
                  src="/attachments/images/FAQ/USER/GeoSettings/SamsungGEOAdd2.jpg"/>
         </div>
         </p>

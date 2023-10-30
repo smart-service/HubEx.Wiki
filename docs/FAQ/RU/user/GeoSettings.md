@@ -262,14 +262,22 @@ keywords: мобильное приложение исполнителя, исп
     <li>Отключение экономии трафика:</li>
     <ul>
 
-        <li>откройте меню <strong>Настройки – Подключения</strong> у параметра <strong>Экономия трафика</strong>
-            переведите переключатель в положение влево (выключено);
+        <li>откройте меню <strong>Настройки – Подключения</strong>;
         </li>
 
         <p>
         <div>
             <img style="margin: 0 auto; display: block; max-width: 70%;"
-                 src="/attachments/images/FAQ/USER/GeoSettings/.jpg"/>
+                 src="/attachments/images/FAQ/USER/GeoSettings/SamsungGEOAdd1.jpg"/>
+        </div>
+        </p>
+
+        <li>далее перейдите в меню <strong>Использование данных</strong> и у параметра <strong>Экономия трафика</strong>
+            переведите переключатель в положение влево (выключено);</li>
+        <p>
+        <div>
+            <img style="margin: 0 auto; display: block; max-width: 70%;"
+                 src="/attachments/images/FAQ/USER/GeoSettings/SamsungGEOAdd2.jpg"/>
         </div>
         </p>
 
@@ -281,7 +289,7 @@ keywords: мобильное приложение исполнителя, исп
         <p>
         <div>
             <img style="margin: 0 auto; display: block; max-width: 70%;"
-                 src="/attachments/images/FAQ/USER/GeoSettings/.jpg"/>
+                 src="/attachments/images/FAQ/USER/GeoSettings/SamsungGEOAdd3.jpg"/>
         </div>
         </p>
 
@@ -296,7 +304,7 @@ keywords: мобильное приложение исполнителя, исп
         <p>
         <div>
             <img style="margin: 0 auto; display: block; max-width: 70%;"
-                 src="/attachments/images/FAQ/USER/GeoSettings/.jpg"/>
+                 src="/attachments/images/FAQ/USER/GeoSettings/SamsungGEOAdd4.jpg"/>
         </div>
         </p>
 
@@ -307,7 +315,7 @@ keywords: мобильное приложение исполнителя, исп
         <p>
         <div>
             <img style="margin: 0 auto; display: block; max-width: 70%;"
-                 src="/attachments/images/FAQ/USER/GeoSettings/.jpg"/>
+                 src="/attachments/images/FAQ/USER/GeoSettings/SamsungGEOAdd5.jpg"/>
         </div>
         </p>
 
@@ -318,7 +326,7 @@ keywords: мобильное приложение исполнителя, исп
         <p>
         <div>
             <img style="margin: 0 auto; display: block; max-width: 70%;"
-                 src="/attachments/images/FAQ/USER/GeoSettings/.jpg"/>
+                 src="/attachments/images/FAQ/USER/GeoSettings/SamsungGEOAdd6.jpg"/>
         </div>
         </p>
 
@@ -334,30 +342,30 @@ keywords: мобильное приложение исполнителя, исп
         <p>
         <div>
             <img style="margin: 0 auto; display: block; max-width: 70%;"
-                 src="/attachments/images/FAQ/USER/GeoSettings/.jpg"/>
+                 src="/attachments/images/FAQ/USER/GeoSettings/SamsungGEOAdd7.jpg"/>
         </div>
         </p>
 
         <li>перейдите в пункт <strong>Батарея - Другие настройки аккумулятора</strong> и для параметра <strong>Адаптивный
             режим аккумулятора</strong> переведите переключатель влево
-            (выключено).
+            (выключено);
         </li>
 
         <p>
         <div>
             <img style="margin: 0 auto; display: block; max-width: 70%;"
-                 src="/attachments/images/FAQ/USER/GeoSettings/.jpg"/>
+                 src="/attachments/images/FAQ/USER/GeoSettings/SamsungGEOAdd8.jpg"/>
         </div>
         </p>
 
 
-        <li>откройте меню <strong>Настройки – Обслуживание устройства</strong>;
+        <li>затем вернитесь в меню <strong>Настройки – Обслуживание устройства</strong>;
         </li>
 
         <p>
         <div>
             <img style="margin: 0 auto; display: block; max-width: 70%;"
-                 src="/attachments/images/FAQ/USER/GeoSettings/.jpg"/>
+                 src="/attachments/images/FAQ/USER/GeoSettings/SamsungGEOAdd7.jpg"/>
         </div>
         </p>
 
@@ -370,7 +378,7 @@ keywords: мобильное приложение исполнителя, исп
         <p>
         <div>
             <img style="margin: 0 auto; display: block; max-width: 70%;"
-                 src="/attachments/images/FAQ/USER/GeoSettings/.jpg"/>
+                 src="/attachments/images/FAQ/USER/GeoSettings/SamsungGEOAdd9.jpg"/>
         </div>
         </p>
 
@@ -386,7 +394,7 @@ keywords: мобильное приложение исполнителя, исп
         <p>
         <div>
             <img style="margin: 0 auto; display: block; max-width: 70%;"
-                 src="/attachments/images/FAQ/USER/GeoSettings/.jpg"/>
+                 src="/attachments/images/FAQ/USER/GeoSettings/SamsungGEOAdd10.jpg"/>
         </div>
         </p>
 
@@ -398,7 +406,7 @@ keywords: мобильное приложение исполнителя, исп
         <p>
         <div>
             <img style="margin: 0 auto; display: block; max-width: 70%;"
-                 src="/attachments/images/FAQ/USER/GeoSettings/.jpg"/>
+                 src="/attachments/images/FAQ/USER/GeoSettings/SamsungGEOAdd11.jpg"/>
         </div>
         </p>
 
@@ -415,7 +423,7 @@ keywords: мобильное приложение исполнителя, исп
         <p>
         <div>
             <img style="margin: 0 auto; display: block; max-width: 70%;"
-                 src="/attachments/images/FAQ/USER/GeoSettings/.jpg"/>
+                 src="/attachments/images/FAQ/USER/GeoSettings/SamsungGEOAdd10.jpg"/>
         </div>
         </p>
 
@@ -429,7 +437,7 @@ keywords: мобильное приложение исполнителя, исп
         <p>
         <div>
             <img style="margin: 0 auto; display: block; max-width: 70%;"
-                 src="/attachments/images/FAQ/USER/GeoSettings/.jpg"/>
+                 src="/attachments/images/FAQ/USER/GeoSettings/SamsungGEOAdd12.jpg"/>
         </div>
         </p>
 

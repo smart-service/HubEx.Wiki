@@ -65,7 +65,7 @@ keywords: мобильное приложение исполнителя, исп
 
     <p>
     <div>
-        <img style="margin: 0 auto; display: block; max-width: 70%;"
+        <img style="margin: 0 auto; display: block; max-width: 35%;"
              src="/attachments/images/FAQ/USER/GeoSettings/IphoneGEO01.jpg"/>
     </div>
     </p>
@@ -91,7 +91,7 @@ keywords: мобильное приложение исполнителя, исп
 
     <p>
     <div>
-        <img style="margin: 0 auto; display: block; max-width: 70%;"
+        <img style="margin: 0 auto; display: block; max-width: 35%;"
              src="/attachments/images/FAQ/USER/GeoSettings/IphoneGEO2.jpg"/>
     </div>
     </p>
@@ -353,7 +353,7 @@ keywords: мобильное приложение исполнителя, исп
 
         <p>
         <div>
-            <img style="margin: 0 auto; display: block; max-width: 70%;"
+            <img style="margin: 0 auto; display: block; max-width: 90%;"
                  src="/attachments/images/FAQ/USER/GeoSettings/SamsungGEOAdd8.jpg"/>
         </div>
         </p>

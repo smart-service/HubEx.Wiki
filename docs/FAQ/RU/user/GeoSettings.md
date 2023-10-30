@@ -353,7 +353,7 @@ keywords: мобильное приложение исполнителя, исп
 
         <p>
         <div>
-            <img style="margin: 0 auto; display: block; max-width: 90%;"
+            <img style="margin: 0 auto; display: block; max-width: 100%;"
                  src="/attachments/images/FAQ/USER/GeoSettings/SamsungGEOAdd8.jpg"/>
         </div>
         </p>

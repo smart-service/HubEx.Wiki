@@ -19,7 +19,9 @@ keywords: мобильное приложение исполнителя, исп
     </li>
 </ul>
 
-<p>Данную инструкцию по настройке различных моделей телефонов можно также скачать в формате .pdf по <a href="https://smartsrv.sharepoint.com/:b:/s/HubEx/EXiXzrzI3rtGuM7icAFlRKMBUqmMwuEnh6Bq4Zs9LW8SdQ?e=jdrdib" target="_blank">ссылке</a>.</p>
+<p>Данную инструкцию по настройке различных моделей телефонов можно также скачать в формате .pdf по <a
+        href="https://smartsrv.sharepoint.com/:b:/s/HubEx/EXiXzrzI3rtGuM7icAFlRKMBUqmMwuEnh6Bq4Zs9LW8SdQ?e=jdrdib"
+        target="_blank">ссылке</a>.</p>
 </html>
 
 <body>
@@ -36,103 +38,187 @@ keywords: мобильное приложение исполнителя, исп
 <p><strong>HubEx исполнитель</strong> для определения местоположения использует:</p>
 <ul>
     <li>навигационные спутниковые системы GPS и ГЛОНАСС;</li>
-    <li>сигналы мобильной сети GSM и беспроводных сетей Wi-fi.</li>
+    <li>сигналы мобильной сети GSM и беспроводных сетей Wi-Fi.</li>
 </ul>
 
-<p>Для более точного определения местоположения с помощью GSM и Wi-fi включите функцию Wi-fi на вашем iPhone.</p>
+<p>Для более точного определения местоположения с помощью GSM и Wi-Fi включите функцию Wi-Fi на вашем iPhone.</p>
+<p>Включение Wi-Fi модуля позволит в случаях отсутствия GPS-сигнала отправлять данные о местоположении на ближайшие
+    точки доступа Wi-Fi. Тем самым смартфон быстро и точно будет определяться на карте.</p>
 
-<p><strong>Шаг 1:</strong> Проверка подключения службы геолокации</p>
+
+<p><strong>Шаг 1:</strong> Подключение Wi-Fi модуля</p>
+
+<ul>
+    <li>Откройте меню <strong>Настройки – Wi-Fi</strong>;
+    </li>
+
+    <p>
+    <div>
+        <img style="margin: 0 auto; display: block; max-width: 70%;"
+             src="/attachments/images/FAQ/USER/GeoSettings/IphoneGEO0.jpg"/>
+    </div>
+    </p>
+
+    <li>переключатель параметра <strong>Wi-Fi</strong> должен
+        быть установлен в позицию справа (включен). При этом подключаться специально к какой-либо сети Wi-Fi не нужно.
+    </li>
+
+    <p>
+    <div>
+        <img style="margin: 0 auto; display: block; max-width: 70%;"
+             src="/attachments/images/FAQ/USER/GeoSettings/IphoneGEO01.jpg"/>
+    </div>
+    </p>
+
+</ul>
+
+<p><strong>Шаг 2:</strong> Проверка подключения службы геолокации</p>
 
 <ul>
     <li>Откройте меню <strong>Настройки – Конфиденциальность и безопасность</strong>;
     </li>
 
-    <p><div>
-    <img style="margin: 0 auto; display: block; max-width: 70%;"
-         src="/attachments/images/FAQ/USER/GeoSettings/IphoneGEO.jpg"/>
-</div></p>
+    <p>
+    <div>
+        <img style="margin: 0 auto; display: block; max-width: 70%;"
+             src="/attachments/images/FAQ/USER/GeoSettings/IphoneGEO.jpg"/>
+    </div>
+    </p>
 
     <li>в разделе <strong>Службы геолокации</strong> переключатель параметра <strong>Службы геолокации</strong> должен
         быть установлен в позицию справа (включен).
     </li>
 
-    <p><div>
-    <img style="margin: 0 auto; display: block; max-width: 70%;"
-         src="/attachments/images/FAQ/USER/GeoSettings/IphoneGEO2.jpg"/>
-</div></p>
+    <p>
+    <div>
+        <img style="margin: 0 auto; display: block; max-width: 70%;"
+             src="/attachments/images/FAQ/USER/GeoSettings/IphoneGEO2.jpg"/>
+    </div>
+    </p>
 
 </ul>
 
-<p><strong>Шаг 2:</strong> Подключение геолокации для приложения <strong>HubEx исполнитель</strong></p>
+<p><strong>Шаг 3:</strong> Подключение геолокации для приложения <strong>HubEx исполнитель</strong></p>
 
 <ul>
     <li>Откройте меню <strong>Настройки</strong> и найдите приложение <strong>HubEx исполнитель</strong>;
     </li>
 
-    <p><div>
-    <img style="margin: 0 auto; display: block; max-width: 70%;"
-         src="/attachments/images/FAQ/USER/GeoSettings/IphoneGEO3.jpg"/>
-</div></p>
+    <p>
+    <div>
+        <img style="margin: 0 auto; display: block; max-width: 70%;"
+             src="/attachments/images/FAQ/USER/GeoSettings/IphoneGEO3.jpg"/>
+    </div>
+    </p>
 
     <li>для параметра <strong>Сотовые данные</strong> переведите положение переключателя вправо (включен);</li>
 
-    <p> <div>
-    <img style="margin: 0 auto; display: block; max-width: 35%;"
-         src="/attachments/images/FAQ/USER/GeoSettings/IphoneGEO5.jpg"/>
-</div></p>
+    <p>
+    <div>
+        <img style="margin: 0 auto; display: block; max-width: 35%;"
+             src="/attachments/images/FAQ/USER/GeoSettings/IphoneGEO5.jpg"/>
+    </div>
+    </p>
 
     <li>в разделе <strong>Геопозиция – Разрешать доступ к геопозиции</strong> установите значение
         <strong>Всегда</strong>;
     </li>
     <li>для параметра <strong>Точная геопозиция</strong> переведите положение переключателя вправо (включен).</li>
 
-    <p> <div>
-    <img style="margin: 0 auto; display: block; max-width: 70%;"
-         src="/attachments/images/FAQ/USER/GeoSettings/IphoneGEO4.jpg"/>
-</div></p>
+    <p>
+    <div>
+        <img style="margin: 0 auto; display: block; max-width: 70%;"
+             src="/attachments/images/FAQ/USER/GeoSettings/IphoneGEO4.jpg"/>
+    </div>
+    </p>
 
 </ul>
 
 <h5 id="samsung">Настройки для Samsung (Android)</h5>
-<p><strong>Шаг 1:</strong> Проверка подключения службы геолокации</p>
+<p><strong>HubEx исполнитель</strong> для определения местоположения использует:</p>
+<ul>
+    <li>навигационные спутниковые системы GPS и ГЛОНАСС;</li>
+    <li>сигналы мобильной сети GSM и беспроводных сетей Wi-Fi.</li>
+</ul>
+
+<p>Для более точного определения местоположения с помощью GSM и Wi-Fi включите функцию Wi-Fi на вашем iPhone.</p>
+<p>Включение Wi-Fi модуля позволит в случаях отсутствия GPS-сигнала отправлять данные о местоположении на ближайшие
+    точки доступа Wi-Fi. Тем самым смартфон быстро и точно будет определяться на карте.</p>
+
+
+<p><strong>Шаг 1:</strong> Подключение Wi-Fi модуля</p>
+
+<ul>
+    <li>Откройте меню <strong>Настройки – Wi-Fi</strong>;
+    </li>
+
+    <p>
+    <div>
+        <img style="margin: 0 auto; display: block; max-width: 70%;"
+             src="/attachments/images/FAQ/USER/GeoSettings/SamsungGEO0.jpg"/>
+    </div>
+    </p>
+
+    <li>переключатель параметра <strong>Wi-Fi</strong> должен
+        быть установлен в позицию справа (включен). При этом подключаться специально к какой-либо сети Wi-Fi не нужно.
+    </li>
+
+    <p>
+    <div>
+        <img style="margin: 0 auto; display: block; max-width: 70%;"
+             src="/attachments/images/FAQ/USER/GeoSettings/SamsungGEO01.jpg"/>
+    </div>
+    </p>
+
+</ul>
+
+<p><strong>Шаг 2:</strong> Проверка подключения службы геолокации</p>
 
 <ul>
     <li>Откройте меню <strong>Настройки – Локация</strong>;
     </li>
 
-    <p><div>
-    <img style="margin: 0 auto; display: block; max-width: 70%;"
-         src="/attachments/images/FAQ/USER/GeoSettings/SamsungGEO.jpg"/>
-</div></p>
+    <p>
+    <div>
+        <img style="margin: 0 auto; display: block; max-width: 70%;"
+             src="/attachments/images/FAQ/USER/GeoSettings/SamsungGEO.jpg"/>
+    </div>
+    </p>
 
     <li>установите переключатель <strong>Включено</strong> вправо (включен).
     </li>
 
-    <p><div>
-    <img style="margin: 0 auto; display: block; max-width: 35%;"
-         src="/attachments/images/FAQ/USER/GeoSettings/SamsungGEO2.jpg"/>
-</div></p>
+    <p>
+    <div>
+        <img style="margin: 0 auto; display: block; max-width: 35%;"
+             src="/attachments/images/FAQ/USER/GeoSettings/SamsungGEO2.jpg"/>
+    </div>
+    </p>
 
 </ul>
 
-<p><strong>Шаг 2:</strong> Подключение геолокации для приложения <strong>HubEx исполнитель</strong></p>
+<p><strong>Шаг 3:</strong> Подключение геолокации для приложения <strong>HubEx исполнитель</strong></p>
 
 <ul>
     <li>В меню <strong>Настройки – Локация</strong> (из шага 1) перейдите в пункт <strong>Разрешения приложений</strong>;
     </li>
 
-    <p><div>
-    <img style="margin: 0 auto; display: block; max-width: 35%;"
-         src="/attachments/images/FAQ/USER/GeoSettings/SamsungGEO3.jpg"/>
-</div></p>
+    <p>
+    <div>
+        <img style="margin: 0 auto; display: block; max-width: 35%;"
+             src="/attachments/images/FAQ/USER/GeoSettings/SamsungGEO3.jpg"/>
+    </div>
+    </p>
 
     <li>найдите приложение <strong>HubEx исполнитель</strong> и установите флажок у параметра <strong>Разрешить в любом
         режиме</strong>.
     </li>
-    <p><div>
-    <img style="margin: 0 auto; display: block; max-width: 70%;"
-         src="/attachments/images/FAQ/USER/GeoSettings/SamsungGEO4.jpg"/>
-</div></p>
+    <p>
+    <div>
+        <img style="margin: 0 auto; display: block; max-width: 70%;"
+             src="/attachments/images/FAQ/USER/GeoSettings/SamsungGEO4.jpg"/>
+    </div>
+    </p>
 
 
 </ul>
@@ -144,80 +230,309 @@ keywords: мобильное приложение исполнителя, исп
 <p>Дополнительные настройки (экономия батареи, режимы энергосбережения, оптимизация и т.д.) могут влиять на корректную
     работу GPS.</p>
 
-<p>Поэтому необходимо проверить следующие настройки:</p>
+<p>Поэтому необходимо проверить следующие настройки по списку.</p>
+<ol>
+    <li>Исключение приложения из списка оптимизированных:</li>
+    <ul>
+        <li>откройте меню <strong>Настройки – Приложения</strong> и нажмите на меню (три точки) в правом верхнем углу и
+            выберите пункт <strong>Особые права доступа</strong>;
+        </li>
+
+        <p>
+        <div>
+            <img style="margin: 0 auto; display: block; max-width: 70%;"
+                 src="/attachments/images/FAQ/USER/GeoSettings/SamsungGEO5.jpg"/>
+        </div>
+        </p>
+
+        <li>далее выберите раздел <strong>Оптимизация расхода - Все</strong>, найдите приложение <strong>HubEx
+            исполнитель</strong> и переведите
+            переключатель в положение влево (выключено).
+        </li>
+
+        <p>
+        <div>
+            <img style="margin: 0 auto; display: block; max-width: 70%;"
+                 src="/attachments/images/FAQ/USER/GeoSettings/SamsungGEO6.jpg"/>
+        </div>
+        </p>
+
+    </ul>
+    <--!ЗДЕСЬ НОВЫЕ ПУНКТЫ-->
+    <li>Отключение экономии трафика:</li>
+    <ul>
+
+        <li>откройте меню <strong>Настройки – Подключения</strong> у параметра <strong>Экономия трафика</strong>
+            переведите переключатель в положение влево (выключено);
+        </li>
+
+        <p>
+        <div>
+            <img style="margin: 0 auto; display: block; max-width: 70%;"
+                 src="/attachments/images/FAQ/USER/GeoSettings/.jpg"/>
+        </div>
+        </p>
+
+        <li>перейдите в пункт <strong>Использовать данные в режиме экономии трафика</strong> и напротив приложения
+            <strong>HubEx
+                исполнитель</strong> переведите переключатель вправо (включено).
+        </li>
+
+        <p>
+        <div>
+            <img style="margin: 0 auto; display: block; max-width: 70%;"
+                 src="/attachments/images/FAQ/USER/GeoSettings/.jpg"/>
+        </div>
+        </p>
+
+    </ul>
+
+    <li>Отключение режима энергосбережения и функции перехода приложения в режим сна:</li>
+    <ul>
+
+        <li>откройте меню <strong>Настройки – Обслуживание устройства</strong>;
+        </li>
+
+        <p>
+        <div>
+            <img style="margin: 0 auto; display: block; max-width: 70%;"
+                 src="/attachments/images/FAQ/USER/GeoSettings/.jpg"/>
+        </div>
+        </p>
+
+        <li>перейдите в пункт <strong>Батарея - Режим энергосбережения</strong> и переведите переключатель влево
+            (выключено).
+        </li>
+
+        <p>
+        <div>
+            <img style="margin: 0 auto; display: block; max-width: 70%;"
+                 src="/attachments/images/FAQ/USER/GeoSettings/.jpg"/>
+        </div>
+        </p>
+
+        <li>перейдите в пункт <strong>Ограничения в фоновом режиме - Перевод в режим сна</strong> и переведите
+            переключатель влево (выключено).
+        </li>
+
+        <p>
+        <div>
+            <img style="margin: 0 auto; display: block; max-width: 70%;"
+                 src="/attachments/images/FAQ/USER/GeoSettings/.jpg"/>
+        </div>
+        </p>
+
+    </ul>
+
+
+    <li>Разрешение использования данных в полном объеме для приложения:</li>
+    <ul>
+
+        <li>откройте меню <strong>Настройки – Обслуживание устройства</strong>;
+        </li>
+
+        <p>
+        <div>
+            <img style="margin: 0 auto; display: block; max-width: 70%;"
+                 src="/attachments/images/FAQ/USER/GeoSettings/.jpg"/>
+        </div>
+        </p>
+
+        <li>перейдите в пункт <strong>Батарея - Другие настройки аккумулятора</strong> и для параметра <strong>Адаптивный
+            режим аккумулятора</strong> переведите переключатель влево
+            (выключено).
+        </li>
+
+        <p>
+        <div>
+            <img style="margin: 0 auto; display: block; max-width: 70%;"
+                 src="/attachments/images/FAQ/USER/GeoSettings/.jpg"/>
+        </div>
+        </p>
+
+
+        <li>откройте меню <strong>Настройки – Обслуживание устройства</strong>;
+        </li>
+
+        <p>
+        <div>
+            <img style="margin: 0 auto; display: block; max-width: 70%;"
+                 src="/attachments/images/FAQ/USER/GeoSettings/.jpg"/>
+        </div>
+        </p>
+
+        <li>нажмите на меню (три точки) в правом верхнем углу и выберите пункт перейдите в пункт <strong>Правило
+            автоматизации</strong> и для параметров <strong>Ежедневная
+            автооптимизация</strong> и <strong>Адаптивный режим питания</strong> переведите переключатели влево
+            (выключено).
+        </li>
+
+        <p>
+        <div>
+            <img style="margin: 0 auto; display: block; max-width: 70%;"
+                 src="/attachments/images/FAQ/USER/GeoSettings/.jpg"/>
+        </div>
+        </p>
+
+    </ul>
+
+
+    <li>Разрешение отправки уведомлений:</li>
+    <ul>
+
+        <li>откройте меню <strong>Настройки – Приложения</strong>;
+        </li>
+
+        <p>
+        <div>
+            <img style="margin: 0 auto; display: block; max-width: 70%;"
+                 src="/attachments/images/FAQ/USER/GeoSettings/.jpg"/>
+        </div>
+        </p>
+
+        <li>найдите приложение <strong>HubEx исполнитель</strong>, для пункта <strong>Уведомления</strong> переведите
+            переключатель вправо
+            (включено).
+        </li>
+
+        <p>
+        <div>
+            <img style="margin: 0 auto; display: block; max-width: 70%;"
+                 src="/attachments/images/FAQ/USER/GeoSettings/.jpg"/>
+        </div>
+        </p>
+
+    </ul>
+
+
+
+    <li>Разрешение на фоновые данные:</li>
+    <ul>
+
+        <li>откройте меню <strong>Настройки – Приложения</strong>;
+        </li>
+
+        <p>
+        <div>
+            <img style="margin: 0 auto; display: block; max-width: 70%;"
+                 src="/attachments/images/FAQ/USER/GeoSettings/.jpg"/>
+        </div>
+        </p>
+
+        <li>найдите приложение <strong>HubEx исполнитель</strong>, затем перейдите в меню <strong>Мобильные
+            данные</strong> и для пунктов <strong>Разрешение на фоновые данные</strong> и <strong>Использовать данные в режиме
+            экономии трафика</strong> переведите
+            переключатель вправо
+            (включено).
+        </li>
+
+        <p>
+        <div>
+            <img style="margin: 0 auto; display: block; max-width: 70%;"
+                 src="/attachments/images/FAQ/USER/GeoSettings/.jpg"/>
+        </div>
+        </p>
+
+    </ul>
+</ol>
+
+<h5 id="xiaomi">Настройки для Xiaomi (Android)</h5>
+<p><strong>HubEx исполнитель</strong> для определения местоположения использует:</p>
+<ul>
+    <li>навигационные спутниковые системы GPS и ГЛОНАСС;</li>
+    <li>сигналы мобильной сети GSM и беспроводных сетей Wi-Fi.</li>
+</ul>
+
+<p>Для более точного определения местоположения с помощью GSM и Wi-Fi включите функцию Wi-Fi на вашем iPhone.</p>
+<p>Включение Wi-Fi модуля позволит в случаях отсутствия GPS-сигнала отправлять данные о местоположении на ближайшие
+    точки доступа Wi-Fi. Тем самым смартфон быстро и точно будет определяться на карте.</p>
+
+
+<p><strong>Шаг 1:</strong> Подключение Wi-Fi модуля</p>
 
 <ul>
-    <li>откройте меню <strong>Настройки – Приложения</strong> и нажмите на меню (три точки) в правом верхнем углу и
-        выберите пункт <strong>Особые права доступа</strong>;
+    <li>Откройте меню <strong>Настройки – Wi-Fi</strong>;
     </li>
 
-    <p><div>
-    <img style="margin: 0 auto; display: block; max-width: 70%;"
-         src="/attachments/images/FAQ/USER/GeoSettings/SamsungGEO5.jpg"/>
-</div></p>
+    <p>
+    <div>
+        <img style="margin: 0 auto; display: block; max-width: 70%;"
+             src="/attachments/images/FAQ/USER/GeoSettings/.jpg"/>
+    </div>
+    </p>
 
-    <li>далее выберите раздел <strong>Оптимизация расхода - Все</strong>, найдите приложение <strong>HubEx
-        исполнитель</strong> и переведите
-        переключатель в положение влево (выключено).
+    <li>переключатель параметра <strong>Wi-Fi</strong> должен
+        быть установлен в позицию справа (включен). При этом подключаться специально к какой-либо сети Wi-Fi не нужно.
     </li>
 
-    <p><div>
-    <img style="margin: 0 auto; display: block; max-width: 70%;"
-         src="/attachments/images/FAQ/USER/GeoSettings/SamsungGEO6.jpg"/>
-</div></p>
+    <p>
+    <div>
+        <img style="margin: 0 auto; display: block; max-width: 70%;"
+             src="/attachments/images/FAQ/USER/GeoSettings/.jpg"/>
+    </div>
+    </p>
 
 </ul>
 
-<h5 id="xiaomi">Настройки для Xiaomi (Android)</h5>
-<p><strong>Шаг 1:</strong> Проверка подключения службы геолокации</p>
+<p><strong>Шаг 2:</strong> Проверка подключения службы геолокации</p>
 
 <ul>
     <li>Откройте меню <strong>Настройки – Местоположение</strong>;
     </li>
 
-    <p> <div>
-    <img style="margin: 0 auto; display: block; max-width: 70%;"
-         src="/attachments/images/FAQ/USER/GeoSettings/XiaomiGEO.jpg"/>
-</div></p>
+    <p>
+    <div>
+        <img style="margin: 0 auto; display: block; max-width: 70%;"
+             src="/attachments/images/FAQ/USER/GeoSettings/XiaomiGEO.jpg"/>
+    </div>
+    </p>
 
     <li>установите переключатель <strong>Доступ к местоположению</strong> вправо (включен).
     </li>
 
-    <p><div>
-    <img style="margin: 0 auto; display: block; max-width: 35%;"
-         src="/attachments/images/FAQ/USER/GeoSettings/XiaomiGEO2.jpg"/>
-</div></p>
+    <p>
+    <div>
+        <img style="margin: 0 auto; display: block; max-width: 35%;"
+             src="/attachments/images/FAQ/USER/GeoSettings/XiaomiGEO2.jpg"/>
+    </div>
+    </p>
 
 </ul>
 
-<p><strong>Шаг 2:</strong> Подключение геолокации для приложения <strong>HubEx исполнитель</strong></p>
+<p><strong>Шаг 3:</strong> Подключение геолокации для приложения <strong>HubEx исполнитель</strong></p>
 
 <ul>
     <li>В меню <strong>Настройки – Приложения – Все приложения</strong>;
     </li>
 
-    <p><div>
-    <img style="margin: 0 auto; display: block; max-width: 70%;"
-         src="/attachments/images/FAQ/USER/GeoSettings/XiaomiGEO3.jpg"/>
-</div></p>
+    <p>
+    <div>
+        <img style="margin: 0 auto; display: block; max-width: 70%;"
+             src="/attachments/images/FAQ/USER/GeoSettings/XiaomiGEO3.jpg"/>
+    </div>
+    </p>
 
     <li>найдите приложение <strong>HubEx исполнитель</strong> и перейдите в раздел <strong>Разрешение
         приложений</strong>;
     </li>
-    <p> <div>
-    <img style="margin: 0 auto; display: block; max-width: 70%;"
-         src="/attachments/images/FAQ/USER/GeoSettings/XiaomiGEO4.jpg"/>
-</div></p>
+    <p>
+    <div>
+        <img style="margin: 0 auto; display: block; max-width: 70%;"
+             src="/attachments/images/FAQ/USER/GeoSettings/XiaomiGEO4.jpg"/>
+    </div>
+    </p>
 
     <li>в разделе <strong>Разрешение приложений</strong> перейдите в меню <strong>Местоположение</strong> и установите
         флажок у параметра <strong>Разрешать в
             любом режиме</strong>, а также переключатель <strong>Использовать точное местоположение</strong> переведите
         вправо (включено).
     </li>
-    <p> <div>
-    <img style="margin: 0 auto; display: block; max-width: 70%;"
-         src="/attachments/images/FAQ/USER/GeoSettings/XiaomiGEO5.jpg"/>
-</div></p>
+    <p>
+    <div>
+        <img style="margin: 0 auto; display: block; max-width: 70%;"
+             src="/attachments/images/FAQ/USER/GeoSettings/XiaomiGEO5.jpg"/>
+    </div>
+    </p>
 
 </ul>
 
@@ -228,18 +543,22 @@ keywords: мобильное приложение исполнителя, исп
     <li>Откройте меню <strong>Настройки – Данные о местоположении</strong>;
     </li>
 
-    <p> <div>
-    <img style="margin: 0 auto; display: block; max-width: 70%;"
-         src="/attachments/images/FAQ/USER/GeoSettings/HuaweiGEO.jpg"/>
-</div></p>
+    <p>
+    <div>
+        <img style="margin: 0 auto; display: block; max-width: 70%;"
+             src="/attachments/images/FAQ/USER/GeoSettings/HuaweiGEO.jpg"/>
+    </div>
+    </p>
 
     <li>установите переключатель <strong>Доступ к данным о местоположении</strong> вправо (включен).
     </li>
 
-    <p> <div>
-    <img style="margin: 0 auto; display: block; max-width: 35%;"
-         src="/attachments/images/FAQ/USER/GeoSettings/HuaweiGEO2.jpg"/>
-</div></p>
+    <p>
+    <div>
+        <img style="margin: 0 auto; display: block; max-width: 35%;"
+             src="/attachments/images/FAQ/USER/GeoSettings/HuaweiGEO2.jpg"/>
+    </div>
+    </p>
 
 </ul>
 
@@ -249,24 +568,30 @@ keywords: мобильное приложение исполнителя, исп
     <li>В меню <strong>Настройки – Приложения</strong>;
     </li>
 
-    <p> <div>
-    <img style="margin: 0 auto; display: block; max-width: 70%;"
-         src="/attachments/images/FAQ/USER/GeoSettings/HuaweiGEO3.jpg"/>
-</div></p>
+    <p>
+    <div>
+        <img style="margin: 0 auto; display: block; max-width: 70%;"
+             src="/attachments/images/FAQ/USER/GeoSettings/HuaweiGEO3.jpg"/>
+    </div>
+    </p>
 
     <li>найдите приложение <strong>HubEx исполнитель</strong> и перейдите в раздел <strong>Права</strong>;
     </li>
-    <p><div>
-    <img style="margin: 0 auto; display: block; max-width: 70%;"
-         src="/attachments/images/FAQ/USER/GeoSettings/HuaweiGEO4.jpg"/>
-</div></p>
+    <p>
+    <div>
+        <img style="margin: 0 auto; display: block; max-width: 70%;"
+             src="/attachments/images/FAQ/USER/GeoSettings/HuaweiGEO4.jpg"/>
+    </div>
+    </p>
 
     <li>в разделе <strong>Геоданные</strong> установите флажок у параметра <strong>Разрешать всегда</strong>.
     </li>
-    <p> <div>
-    <img style="margin: 0 auto; display: block; max-width: 70%;"
-         src="/attachments/images/FAQ/USER/GeoSettings/HuaweiGEO5.jpg"/>
-</div></p>
+    <p>
+    <div>
+        <img style="margin: 0 auto; display: block; max-width: 70%;"
+             src="/attachments/images/FAQ/USER/GeoSettings/HuaweiGEO5.jpg"/>
+    </div>
+    </p>
 
 </ul>
 
@@ -284,26 +609,32 @@ keywords: мобильное приложение исполнителя, исп
         выберите <strong>Оптимизация батареи</strong>;
     </li>
 
-    <p> <div>
-    <img style="margin: 0 auto; display: block; max-width: 70%;"
-         src="/attachments/images/FAQ/USER/GeoSettings/HuaweiGEO6.jpg"/>
-</div></p>
+    <p>
+    <div>
+        <img style="margin: 0 auto; display: block; max-width: 70%;"
+             src="/attachments/images/FAQ/USER/GeoSettings/HuaweiGEO6.jpg"/>
+    </div>
+    </p>
 
     <li>нажмите на меню <strong>Запрещено</strong> и выберите пункт <strong>Все приложения</strong>;
     </li>
 
-    <p> <div>
-    <img style="margin: 0 auto; display: block; max-width: 70%;"
-         src="/attachments/images/FAQ/USER/GeoSettings/HuaweiGEO7.jpg"/>
-</div></p>
+    <p>
+    <div>
+        <img style="margin: 0 auto; display: block; max-width: 70%;"
+             src="/attachments/images/FAQ/USER/GeoSettings/HuaweiGEO7.jpg"/>
+    </div>
+    </p>
 
     <li>в строке поиска найдите приложение <strong>HubEx исполнитель</strong> и установите флажок у параметра <strong>Разрешить</strong>.
     </li>
 
-    <p> <div>
-    <img style="margin: 0 auto; display: block; max-width: 70%;"
-         src="/attachments/images/FAQ/USER/GeoSettings/HuaweiGEO8.jpg"/>
-</div></p>
+    <p>
+    <div>
+        <img style="margin: 0 auto; display: block; max-width: 70%;"
+             src="/attachments/images/FAQ/USER/GeoSettings/HuaweiGEO8.jpg"/>
+    </div>
+    </p>
 
 </ul>
 

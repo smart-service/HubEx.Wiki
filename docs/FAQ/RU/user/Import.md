@@ -51,20 +51,20 @@ keywords: импорт заявок, импорт объектов, импорт
 <ul>
 <li>выделите необходимые ячейки в стороннем файле Excel и скопируйте их с помощью быстрых клавиш Ctrl+C или по нажатию на правую кнопку мыши - <strong>Копировать</strong>;</li>
 <p><div>
-    <img style="margin: 0 auto; display: block; max-width: 80%;"
+    <img style="margin: 0 auto; display: block; max-width: 90%;"
          src="/attachments/images/FAQ/USER/Import/ImportExcel.jpg"/>
 </div></p>
 <li>откройте скачанный из HubEx шаблон для импорта, щелкните правой кнопкой мыши на первую пустую ячейку шаблона и выберите <strong>Параметр вставки: Зачения</strong>.</li>
 <p>Если воспользоваться стандартной вставкой (через Ctrl+V), то скопированы будут не только значения, но и формат этих данных. В случае стандартной вставки в шаблоне для импорта будут стерты данные справочников для заполнения шаблона (<strong>Типы оборудования</strong>, <strong>Компания</strong>, <strong>Вид работ</strong> и т.д.); </p>
 <p><div>
-    <img style="margin: 0 auto; display: block; max-width: 80%;"
+    <img style="margin: 0 auto; display: block; max-width: 90%;"
          src="/attachments/images/FAQ/USER/Import/ImportExcel2.jpg"/>
 </div></p>
 
 
 <li>после вставки значений в ячейки шаблона будут вставлены только содержимое ячеек с сохранением данных из справочников в шаблоне.</li>
 <p><div>
-    <img style="margin: 0 auto; display: block; max-width: 80%;"
+    <img style="margin: 0 auto; display: block; max-width: 90%;"
          src="/attachments/images/FAQ/USER/Import/ImportExcel3.jpg"/>
 </div></p>
 </ul>

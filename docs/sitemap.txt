@@ -172,5 +172,6 @@ https://wiki.hubex.ru/docs/FAQ/RU/ReleaseNotes/AnswerTemplate25072023.html
 https://wiki.hubex.ru/docs/FAQ/RU/ReleaseNotes/ReleasePack28082023.html
 https://wiki.hubex.ru/docs/FAQ/RU/ReleaseNotes/NotificationInWeb05092023.html
 https://wiki.hubex.ru/docs/FAQ/RU/ReleaseNotes/CalendarUpdate13102023.html
+https://wiki.hubex.ru/docs/FAQ/RU/ReleaseNotes/UsersRequests07112023.html
 https://wiki.hubex.ru/docs/FAQ/RU/ReleaseNotes/EngineerApp.html
 https://wiki.hubex.ru/docs/FAQ/RU/ReleaseNotes/CustomerApp.html

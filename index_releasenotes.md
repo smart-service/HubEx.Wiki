@@ -16,7 +16,7 @@
 <link rel="stylesheet" type="text/css" href="/assets/css/styles.css">
 ### Новые возможности web-приложения HubEx
 В данном разделе вы найдете краткие статьи с обзором новых возможностей web-приложения HubEx. Мы постоянно улучшаемся и добавляем полезные функции, чтобы ваша работа становилась еще комфортнее.
-<h4><a href="docs/FAQ/RU/ReleaseNotes/SeveralEngineersInPlan26102023.html">Выбор нескольких исполнителей (бригад) в плановой заявке: обновление от 26.10.2023</a></h4>
+<h4><a href="docs/FAQ/RU/ReleaseNotes/UsersRequests07112023.html">Cоздание инициатора заявки, история обращений: обновление от 07.11.2023</a></h4>
 <h4><a href="docs/FAQ/RU/ReleaseNotes/SeveralEngineersInPlan26102023.html">Выбор нескольких исполнителей (бригад) в плановой заявке: обновление от 26.10.2023</a></h4>
 <h4><a href="docs/FAQ/RU/ReleaseNotes/CalendarUpdate13102023.html">Выполненные и закрытые заявки в календаре: обновление от 13.10.2023</a></h4>
 <h4><a href="docs/FAQ/RU/ReleaseNotes/NotificationInWeb05092023.html">Лента уведомлений в web-приложении: обновление от 05.09.2023</a></h4>

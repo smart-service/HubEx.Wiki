@@ -58,8 +58,8 @@
     <a href="/docs/FAQ/RU/user/SeveralEngineers.html">Как выбрать нескольких исполнителей в заявке</a></h4>
 
 
- <!--<h4 style="padding-left: 20px;">
-    <a href="/docs/FAQ/RU/user/UsersRequests.html">Инициатор заявки: создание инициатора, история обращений</a><span class="new-badge" title="17.10.2023"></span></h4>-->
+ <h4 style="padding-left: 20px;">
+    <a href="/docs/FAQ/RU/user/UsersRequests.html">Инициатор заявки: создание инициатора, история обращений</a><span class="new-badge" title="07.11.2023"></span></h4>
 
  <h4 style="padding-left: 20px;">
     <a href="/docs/FAQ/RU/user/ChildTicket.html">Дочерние заявки</a></h4>

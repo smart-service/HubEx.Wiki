@@ -258,7 +258,7 @@ keywords: мобильное приложение исполнителя, исп
         </p>
 
     </ul>
-<!--ЗДЕСЬ НОВЫЕ ПУНКТЫ -->
+    <!--ЗДЕСЬ НОВЫЕ ПУНКТЫ -->
     <li>Отключение экономии трафика:</li>
     <ul>
 
@@ -273,7 +273,8 @@ keywords: мобильное приложение исполнителя, исп
         </p>
 
         <li>далее перейдите в меню <strong>Использование данных</strong> и у параметра <strong>Экономия трафика</strong>
-            переведите переключатель в положение влево (выключено);</li>
+            переведите переключатель в положение влево (выключено);
+        </li>
         <p>
         <div>
             <img style="margin: 0 auto; display: block; max-width: 100%;"
@@ -413,7 +414,6 @@ keywords: мобильное приложение исполнителя, исп
     </ul>
 
 
-
     <li>Разрешение на фоновые данные:</li>
     <ul>
 
@@ -428,7 +428,8 @@ keywords: мобильное приложение исполнителя, исп
         </p>
 
         <li>найдите приложение <strong>HubEx исполнитель</strong>, затем перейдите в меню <strong>Мобильные
-            данные</strong> и для пунктов <strong>Разрешение на фоновые данные</strong> и <strong>Использовать данные в режиме
+            данные</strong> и для пунктов <strong>Разрешение на фоновые данные</strong> и <strong>Использовать данные в
+            режиме
             экономии трафика</strong> переведите
             переключатель вправо
             (включено).
@@ -451,7 +452,7 @@ keywords: мобильное приложение исполнителя, исп
     <li>сигналы мобильной сети GSM и беспроводных сетей Wi-Fi.</li>
 </ul>
 
-<p>Для более точного определения местоположения с помощью GSM и Wi-Fi включите функцию Wi-Fi на вашем iPhone.</p>
+<p>Для более точного определения местоположения с помощью GSM и Wi-Fi включите функцию Wi-Fi на вашем Xiaomi.</p>
 <p>Включение Wi-Fi модуля позволит в случаях отсутствия GPS-сигнала отправлять данные о местоположении на ближайшие
     точки доступа Wi-Fi. Тем самым смартфон быстро и точно будет определяться на карте.</p>
 
@@ -544,8 +545,107 @@ keywords: мобильное приложение исполнителя, исп
 
 </ul>
 
+<h5 id="xiaomioptional">Дополнительные настройки GPS для Xiaomi (Android)</h5>
+<p>Корректная геолокация необходима не только для непосредственной работы с <strong>Заявками</strong>, но также и для
+    корректного
+    фиксирования передвижений исполнителя. За фиксирование передвижений отвечает служба GPS на мобильном устройстве.</p>
+<p>Дополнительные настройки (экономия батареи, режимы энергосбережения, оптимизация и т.д.) могут влиять на корректную
+    работу GPS.</p>
+
+<p>Поэтому необходимо проверить следующие настройки по списку.</p>
+<ol>
+    <li>Разрешение на работу при заблокированном экране:</li>
+    <ul>
+        <li>откройте <strong>Настройки - Все приложения</strong> и по поиску найдите приложение <strong>HubEx
+            исполнитель</strong>;
+        </li>
+
+        <p>
+        <div>
+            <img style="margin: 0 auto; display: block; max-width: 80%;"
+                 src="/attachments/images/FAQ/USER/GeoSettings/XiaomiGEO6.jpg"/>
+        </div>
+        </p>
+
+        <li>в разделе <strong>Другие разрешения</strong> установите разрешения (переключатель вправо, либо флажок) для
+            пунктов <strong>Экран блокировки</strong> и <strong>Открывать новые окна, когда запущено в фоновом
+                режиме</strong> (или <strong>Запуск в фоне</strong>).
+        </li>
+
+        <p>
+        <div>
+            <img style="margin: 0 auto; display: block; max-width: 70%;"
+                 src="/attachments/images/FAQ/USER/GeoSettings/XiaomiGEO7.jpg"/>
+        </div>
+        </p>
+
+    </ul>
+
+    <li>Разрешение на работу без ограничений:</li>
+    <ul>
+        <li>откройте <strong>Настройки - Батарея (раздел Батерея) - Контроль активности</strong>;
+        </li>
+
+        <p>
+        <div>
+            <img style="margin: 0 auto; display: block; max-width: 80%;"
+                 src="/attachments/images/FAQ/USER/GeoSettings/XiaomiGEO8.jpg"/>
+        </div>
+        </p>
+
+        <li>найдите приложение <strong>HubEx
+            исполнитель</strong> и выберите режим <strong>Нет ограничений</strong>.
+        </li>
+
+        <p>
+        <div>
+            <img style="margin: 0 auto; display: block; max-width: 70%;"
+                 src="/attachments/images/FAQ/USER/GeoSettings/XiaomiGEO9.jpg"/>
+        </div>
+        </p>
+
+    </ul>
+</ol>
+
 <h5 id="huawei">Настройки для Huawei (Android)</h5>
-<p><strong>Шаг 1:</strong> Проверка подключения службы геолокации</p>
+<p><strong>HubEx исполнитель</strong> для определения местоположения использует:</p>
+<ul>
+    <li>навигационные спутниковые системы GPS и ГЛОНАСС;</li>
+    <li>сигналы мобильной сети GSM и беспроводных сетей Wi-Fi.</li>
+</ul>
+
+<p>Для более точного определения местоположения с помощью GSM и Wi-Fi включите функцию Wi-Fi на вашем Huawei.</p>
+<p>Включение Wi-Fi модуля позволит в случаях отсутствия GPS-сигнала отправлять данные о местоположении на ближайшие
+    точки доступа Wi-Fi. Тем самым смартфон быстро и точно будет определяться на карте.</p>
+
+
+<p><strong>Шаг 1:</strong> Подключение Wi-Fi модуля</p>
+
+<ul>
+    <li>Откройте меню <strong>Настройки – Wi-Fi</strong>;
+    </li>
+
+    <p>
+    <div>
+        <img style="margin: 0 auto; display: block; max-width: 70%;"
+             src="/attachments/images/FAQ/USER/GeoSettings/HuaweiGEO0.jpg"/>
+    </div>
+    </p>
+
+    <li>переключатель параметра <strong>Wi-Fi</strong> должен
+        быть установлен в позицию справа (включен). При этом подключаться специально к какой-либо сети Wi-Fi не нужно.
+    </li>
+
+    <p>
+    <div>
+        <img style="margin: 0 auto; display: block; max-width: 35%;"
+             src="/attachments/images/FAQ/USER/GeoSettings/HuaweiGEO01.jpg"/>
+    </div>
+    </p>
+
+</ul>
+
+<p><strong>Шаг 2:</strong> Проверка подключения службы геолокации</p>
 
 <ul>
     <li>Откройте меню <strong>Настройки – Данные о местоположении</strong>;
@@ -570,7 +670,7 @@ keywords: мобильное приложение исполнителя, исп
 
 </ul>
 
-<p><strong>Шаг 2:</strong> Подключение геолокации для приложения <strong>HubEx исполнитель</strong></p>
+<p><strong>Шаг 3:</strong> Подключение геолокации для приложения <strong>HubEx исполнитель</strong></p>
 
 <ul>
     <li>В меню <strong>Настройки – Приложения</strong>;
@@ -610,43 +710,73 @@ keywords: мобильное приложение исполнителя, исп
 <p>Дополнительные настройки (экономия батареи, режимы энергосбережения, оптимизация и т.д.) могут влиять на корректную
     работу GPS.</p>
 
-<p>Поэтому необходимо проверить следующие настройки:</p>
+<p>Поэтому необходимо проверить следующие настройки по списку.</p>
 
-<ul>
-    <li>откройте меню <strong>Настройки</strong>, в строке поиска найдите раздел <strong>Специальный доступ</strong> и
-        выберите <strong>Оптимизация батареи</strong>;
-    </li>
+<ol>
+    <li>Настройка оптимизации батареи:</li>
+    <ul>
+        <li>откройте меню <strong>Настройки</strong>, в строке поиска найдите раздел <strong>Специальный доступ</strong>
+            и
+            выберите <strong>Оптимизация батареи</strong>;
+        </li>
 
-    <p>
-    <div>
-        <img style="margin: 0 auto; display: block; max-width: 70%;"
-             src="/attachments/images/FAQ/USER/GeoSettings/HuaweiGEO6.jpg"/>
-    </div>
-    </p>
+        <p>
+        <div>
+            <img style="margin: 0 auto; display: block; max-width: 70%;"
+                 src="/attachments/images/FAQ/USER/GeoSettings/HuaweiGEO6.jpg"/>
+        </div>
+        </p>
 
-    <li>нажмите на меню <strong>Запрещено</strong> и выберите пункт <strong>Все приложения</strong>;
-    </li>
+        <li>нажмите на меню <strong>Запрещено</strong> и выберите пункт <strong>Все приложения</strong>;
+        </li>
 
-    <p>
-    <div>
-        <img style="margin: 0 auto; display: block; max-width: 70%;"
-             src="/attachments/images/FAQ/USER/GeoSettings/HuaweiGEO7.jpg"/>
-    </div>
-    </p>
+        <p>
+        <div>
+            <img style="margin: 0 auto; display: block; max-width: 70%;"
+                 src="/attachments/images/FAQ/USER/GeoSettings/HuaweiGEO7.jpg"/>
+        </div>
+        </p>
 
-    <li>в строке поиска найдите приложение <strong>HubEx исполнитель</strong> и установите флажок у параметра <strong>Разрешить</strong>.
-    </li>
+        <li>в строке поиска найдите приложение <strong>HubEx исполнитель</strong> и установите флажок у параметра
+            <strong>Разрешить</strong>.
+        </li>
 
-    <p>
-    <div>
-        <img style="margin: 0 auto; display: block; max-width: 70%;"
-             src="/attachments/images/FAQ/USER/GeoSettings/HuaweiGEO8.jpg"/>
-    </div>
-    </p>
+        <p>
+        <div>
+            <img style="margin: 0 auto; display: block; max-width: 70%;"
+                 src="/attachments/images/FAQ/USER/GeoSettings/HuaweiGEO8.jpg"/>
+        </div>
+        </p>
 
-</ul>
+    </ul>
+
+    <li>Разрешение на работу в фоновом режиме:</li>
+    <ul>
+        <li>откройте меню <strong>Настройки - Приложения</strong> и найдите приложение <strong>HubEx
+            исполнитель</strong>;
+        </li>
+
+        <p>
+        <div>
+            <img style="margin: 0 auto; display: block; max-width: 70%;"
+                 src="/attachments/images/FAQ/USER/GeoSettings/HuaweiGEO9.jpg"/>
+        </div>
+        </p>
+
+        <li>откройте раздел <strong>Сведения эгнергопотребления - Запуск приложений</strong> и установите переключатели
+            <strong>Автозапуск</strong> и <strong>Работа в фоновом режиме</strong> вправо (включен).
+        </li>
+
+        <p>
+        <div>
+            <img style="margin: 0 auto; display: block; max-width: 80%;"
+                 src="/attachments/images/FAQ/USER/GeoSettings/HuaweiGEO10.jpg"/>
+        </div>
+        </p>
 
 
+    </ul>
+</ol>
 
 </body>
 

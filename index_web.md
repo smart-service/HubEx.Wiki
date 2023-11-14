@@ -143,7 +143,7 @@
 
 ### Аналитика
 Анализируйте различную статистику по Заявкам. Наглядные отчеты помогут вам принимать эффективные решения, а также ускорят обнаружение различных проблемных мест.
-<h4 style="padding-left: 20px;">
+<h4 id="anatytics" style="padding-left: 20px;">
     <a href="/docs/FAQ/RU/user/GeneralAnalytics.html">Общая аналитика</a>
 </h4>
 <h4 style="padding-left: 20px;">

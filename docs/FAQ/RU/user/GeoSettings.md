@@ -14,13 +14,14 @@ keywords: мобильное приложение исполнителя, исп
     <li><a href="#samsung">Настройки для Samsung (Android);</a></li>
     <li><a href="#samsungoptional">Дополнительные настройки GPS для Samsung (Android);</a></li>
     <li><a href="#xiaomi">Настройки для Xiaomi (Android);</a></li>
+     <li><a href="#xiaomioptional">Дополнительные настройки GPS для Xiaomi (Android);</a></li>
     <li><a href="#huawei">Настройки для Huawei (Android);</a></li>
     <li><a href="#huaweioptional">Дополнительные настройки GPS для Huawei (Android);</a>
     </li>
 </ul>
 
 <p>Данную инструкцию по настройке различных моделей телефонов можно также скачать в формате .pdf по <a
-        href="https://smartsrv.sharepoint.com/:b:/s/HubEx/EXiXzrzI3rtGuM7icAFlRKMBUqmMwuEnh6Bq4Zs9LW8SdQ?e=jdrdib"
+        href="https://smartsrv.sharepoint.com/:b:/s/HubEx/EZT1HCQnMkxOjN7SFJ4Ez3EBGAAty1cx4vWSs3lRB4W5lg?e=Pti0gq"
         target="_blank">ссылке</a>.</p>
 </html>
 

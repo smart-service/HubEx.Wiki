@@ -30,7 +30,7 @@ keywords: табличное представление заявок, карто
     </li>
     <p>
     <div>
-        <img style="margin: 0 auto; display: block; max-width: 95%;"
+        <img style="margin: 0 auto; display: block; max-width: 100%;"
              src="/attachments/images/FAQ/USER/Filters/CardList.jpg"/>
     </div>
     </p>
@@ -41,14 +41,14 @@ keywords: табличное представление заявок, карто
     </li>
     <p>
     <div>
-        <img style="margin: 0 auto; display: block; max-width: 95%;"
+        <img style="margin: 0 auto; display: block; max-width: 100%;"
              src="/attachments/images/FAQ/USER/Filters/TableList.jpg"/>
     </div>
     </p>
 
     <p>
     <div>
-        <img style="margin: 0 auto; display: block; max-width: 95%;"
+        <img style="margin: 0 auto; display: block; max-width: 100%;"
              src="/attachments/images/FAQ/USER/Filters/TableList2.jpg"/>
     </div>
     </p>
@@ -123,7 +123,7 @@ keywords: табличное представление заявок, карто
 
 <p>Для отмены фильтрации нажмите на кнопку сброса фильтров.</p>
 <div>
-    <img style="margin: 0 auto; display: block; max-width: 60%;"
+    <img style="margin: 0 auto; display: block; max-width: 95%;"
          src="/attachments/images/FAQ/USER/Filters/ClearFilters.jpg"/>
 </div>
 <p>Вы можете сохранять настройки фильтрации. Это сэкономит ваше время поиска необходимых <strong>Заявок</strong>.
@@ -131,14 +131,14 @@ keywords: табличное представление заявок, карто
     работаете с <strong>Заявками</strong> определенного <strong>Заказчика</strong> или с <strong>Заявками</strong> по конкретному <strong>Объекту</strong>. Настройте необходимые
     пункты и нажмите на кнопку сохранения фильтра.</p>
 <div>
-    <img style="margin: 0 auto; display: block; max-width: 60%;"
+    <img style="margin: 0 auto; display: block; max-width: 95%;"
          src="/attachments/images/FAQ/USER/Filters/SavingFilters.jpg"/>
 </div>
 
 <p>Введите название быстрого фильтра.</p>
 
 <div>
-    <img style="margin: 0 auto; display: block; max-width: 60%;"
+    <img style="margin: 0 auto; display: block; max-width: 95%;"
          src="/attachments/images/FAQ/USER/Filters/FiltersName.jpg"/>
 </div>
 
@@ -171,7 +171,7 @@ keywords: табличное представление заявок, карто
     <li><strong>Все заявки</strong>: в списке отразятся и открытые, и закрытые <strong>Заявки</strong>.</li>
 </ul>
 <div>
-    <img style="margin: 0 auto; display: block; max-width: 80%;"
+    <img style="margin: 0 auto; display: block; max-width: 95%;"
          src="/attachments/images/FAQ/USER/Filters/DeletedTickets.jpg"/>
 </div>
 
@@ -187,7 +187,7 @@ keywords: табличное представление заявок, карто
     <li><strong>Все заявки</strong>: в списке отразятся и удаленные, и действующие <strong>Заявки</strong>.</li>
 </ul>
 <div>
-    <img style="margin: 0 auto; display: block; max-width: 80%;"
+    <img style="margin: 0 auto; display: block; max-width: 95%;"
          src="/attachments/images/FAQ/USER/Filters/DeletedTickets.jpg"/>
 </div>
 <p>Обратите внимание! Возможность просматривать удаленные заявки доступна только для учетной записи владельца

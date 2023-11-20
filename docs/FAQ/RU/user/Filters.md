@@ -172,7 +172,7 @@ keywords: табличное представление заявок, карто
 </ul>
 <div>
     <img style="margin: 0 auto; display: block; max-width: 95%;"
-         src="/attachments/images/FAQ/USER/Filters/DeletedTickets.jpg"/>
+         src="/attachments/images/FAQ/USER/Filters/ClosedTickets.jpg"/>
 </div>
 
 

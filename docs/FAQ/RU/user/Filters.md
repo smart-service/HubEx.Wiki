@@ -98,13 +98,19 @@ keywords: табличное представление заявок, карто
          src="/attachments/images/FAQ/USER/Filters/FiltersButton.jpg"/>
 </div>
 
-<p>С помощью фильтров вы можете установить отборы по различным полям <strong>Заявки</strong>.</p>
+<p>С помощью фильтров вы можете установить отборы по различным полям <strong>Заявки</strong>. Фильтрация Заявок возможна также по дополнительным полям, они отображаются в конце списка всех фильтров. Подробнее читайте в статье: <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/AdditionalFields.html">Создание дополнительных полей для заявки</a>.</p>
 
-<div style="display: flex;">
+<!--<div style="display: flex;">
     <img style="margin: 0 auto; display: block; max-width: 100%;"
          src="/attachments/images/FAQ/USER/Filters/filter2.jpg"/><img
         style="margin: 0 auto; display: block; max-width: 100%;"
         src="/attachments/images/FAQ/USER/Filters/filter3.jpg"/>
+
+</div>-->
+
+<div>
+    <img style="margin: 0 auto; display: block; max-width: 95%;"
+         src="/attachments/images/FAQ/USER/Filters/Filters.jpg"/>
 </div>
 
 <p>Например, вам необходимо найти все <strong>Заявки</strong> по определенному оборудованию. Тогда в окошке фильтров в
@@ -122,7 +128,7 @@ keywords: табличное представление заявок, карто
 </div>
 <p>Вы можете сохранять настройки фильтрации. Это сэкономит ваше время поиска необходимых <strong>Заявок</strong>.
     Например, вы часто
-    работаете с <strong>Заявками</strong> определенного <strong>Заказчика</strong>. Настройте необходимые
+    работаете с <strong>Заявками</strong> определенного <strong>Заказчика</strong> или с <strong>Заявками</strong> по конкретному <strong>Объекту</strong>. Настройте необходимые
     пункты и нажмите на кнопку сохранения фильтра.</p>
 <div>
     <img style="margin: 0 auto; display: block; max-width: 60%;"
@@ -136,12 +142,17 @@ keywords: табличное представление заявок, карто
          src="/attachments/images/FAQ/USER/Filters/FiltersName.jpg"/>
 </div>
 
-<p>Быстрый фильтр отобразится над списком всех <strong>Заявок</strong>.</p>
+<p>Быстрый фильтр отобразится над списком всех <strong>Заявок</strong>. Чтобы просмотреть все доступные быстрые фильтры и удалить неактуальные, нажмите на кнопку <strong>Все быстрые фильтры</strong>. В списке фильтров по нажатию на крестик можно удалять неиспользуемые быстрые фильтры. Быстрые фильтры - это индивидуальные настройки для конкретного пользователя. Каждый пользователь может настраивать и сохранять только необходимые ему фильтры.</p>
 
 <div>
     <img style="margin: 0 auto; display: block; max-width: 95%;"
          src="/attachments/images/FAQ/USER/Filters/FastFilters.jpg"/>
 </div>
+
+<p><div>
+    <img style="margin: 0 auto; display: block; max-width: 95%;"
+         src="/attachments/images/FAQ/USER/Filters/FastFilters2.jpg"/>
+</div></p>
 
 
 <h5 id="deltick1">Фильтрация закрытых Заявок</h5>
@@ -149,8 +160,8 @@ keywords: табличное представление заявок, карто
     умолчанию настроен фильтр
     показывать только <strong>Открытые заявки</strong>.</p>
 <div>
-    <img style="margin: 0 auto; display: block; max-width: 80%;"
-         src="/attachments/images/FAQ/USER/Filters/filter5.jpg"/>
+    <img style="margin: 0 auto; display: block; max-width: 95%;"
+         src="/attachments/images/FAQ/USER/Filters/ActiveFilters.jpg"/>
 </div>
 
 <p>Для того чтобы увидеть все <strong>Заявки</strong>, нажмите кнопку <strong>Фильтры</strong>. Выберите в пункте

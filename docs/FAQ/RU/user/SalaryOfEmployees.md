@@ -30,7 +30,7 @@ keywords:  hubex, хабекс, хубекс, хабикс
 
             <p>
             <div>
-                <img style="margin: 0 auto; display: block; max-width: 95%;"
+                <img style="margin: 0 auto; display: block; max-width: 100%;"
                      src="/attachments/images/FAQ/USER/SalaryOfEmployees/Employee.jpg"/>
             </div>
             </p>
@@ -41,7 +41,7 @@ keywords:  hubex, хабекс, хубекс, хабикс
 
             <p>
             <div>
-                <img style="margin: 0 auto; display: block; max-width: 95%;"
+                <img style="margin: 0 auto; display: block; max-width: 100%;"
                      src="/attachments/images/FAQ/USER/SalaryOfEmployees/WorkType.jpg"/>
             </div>
             </p>
@@ -60,7 +60,7 @@ keywords:  hubex, хабекс, хубекс, хабикс
     </li>
     <p>
     <div>
-        <img style="margin: 0 auto; display: block; max-width: 95%;"
+        <img style="margin: 0 auto; display: block; max-width: 100%;"
              src="/attachments/images/FAQ/USER/SalaryOfEmployees/Works.jpg"/>
     </div>
     </p>
@@ -79,13 +79,13 @@ keywords:  hubex, хабекс, хубекс, хабикс
     </li>
     <p>
     <div>
-        <img style="margin: 0 auto; display: block; max-width: 95%;"
+        <img style="margin: 0 auto; display: block; max-width: 100%;"
              src="/attachments/images/FAQ/USER/SalaryOfEmployees/Filter.jpg"/>
     </div>
     </p>
     <p>
     <div>
-        <img style="margin: 0 auto; display: block; max-width: 95%;"
+        <img style="margin: 0 auto; display: block; max-width: 100%;"
              src="/attachments/images/FAQ/USER/SalaryOfEmployees/Filter2.jpg"/>
     </div>
     </p>
@@ -95,13 +95,13 @@ keywords:  hubex, хабекс, хубекс, хабикс
     </li>
       <p>
     <div>
-        <img style="margin: 0 auto; display: block; max-width: 95%;"
+        <img style="margin: 0 auto; display: block; max-width: 100%;"
              src="/attachments/images/FAQ/USER/SalaryOfEmployees/Export2.jpg"/>
     </div>
     </p>
     <p>
     <div>
-        <img style="margin: 0 auto; display: block; max-width: 95%;"
+        <img style="margin: 0 auto; display: block; max-width: 100%;"
              src="/attachments/images/FAQ/USER/SalaryOfEmployees/Export.jpg"/>
     </div>
     </p>
@@ -114,7 +114,7 @@ keywords:  hubex, хабекс, хубекс, хабикс
     </li>
     <p>
     <div>
-        <img style="margin: 0 auto; display: block; max-width: 95%;"
+        <img style="margin: 0 auto; display: block; max-width: 100%;"
              src="/attachments/images/FAQ/USER/SalaryOfEmployees/Table.jpg"/>
     </div>
     </p>
@@ -128,13 +128,13 @@ keywords:  hubex, хабекс, хубекс, хабикс
             установите значение <strong>Числовой</strong>. </p>
         <p>
         <div>
-            <img style="margin: 0 auto; display: block; max-width: 95%;"
+            <img style="margin: 0 auto; display: block; max-width: 100%;"
                  src="/attachments/images/FAQ/USER/SalaryOfEmployees/Format.jpg"/>
         </div>
         </p>
         <p>
         <div>
-            <img style="margin: 0 auto; display: block; max-width: 95%;"
+            <img style="margin: 0 auto; display: block; max-width: 100%;"
                  src="/attachments/images/FAQ/USER/SalaryOfEmployees/Format2.jpg"/>
         </div>
         </p>
@@ -147,7 +147,7 @@ keywords:  hubex, хабекс, хубекс, хабикс
     </li>
     <p>
     <div>
-        <img style="margin: 0 auto; display: block; max-width: 95%;"
+        <img style="margin: 0 auto; display: block; max-width: 100%;"
              src="/attachments/images/FAQ/USER/SalaryOfEmployees/Salary.jpg"/>
     </div>
     </p>

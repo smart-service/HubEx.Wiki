@@ -148,7 +148,7 @@ keywords:  hubex, хабекс, хубекс, хабикс
     <p>
     <div>
         <img style="margin: 0 auto; display: block; max-width: 100%;"
-             src="/attachments/images/FAQ/USER/SalaryOfEmployees/Salary.jpg"/>
+             src="/attachments/images/FAQ/USER/SalaryOfEmployees/Salary2.jpg"/>
     </div>
     </p>
 </ol>

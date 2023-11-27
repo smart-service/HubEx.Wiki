@@ -72,6 +72,8 @@
 <h4 style="padding-left: 20px;">
     <a href="/docs/FAQ/RU/user/OnDuty.html">Индивидуальный график работы: функционал "На смене"</a></h4>
 <h4 style="padding-left: 20px;">
+    <a href="/docs/FAQ/RU/user/SalaryOfEmployees.html">Индивидуальный график работы: функционал "На смене"</a></h4>    
+<h4 style="padding-left: 20px;">
     <a href="/docs/FAQ/RU/user/PlannedTickets.html">Создание плановой заявки</a></h4>
 <h4 style="padding-left: 20px;">
     <a href="/docs/FAQ/RU/user/PlannedTicketsSchedule.html">График обслуживания объектов</a></h4>
@@ -106,7 +108,7 @@
     <a href="/docs/FAQ/RU/user/Messages.html">Сообщения по заявке</a></h4>
 
 <h4 style="padding-left: 20px;">
-    <a href="/docs/FAQ/RU/user/AnswerTemplate.html">Шаблоны ответов</a><span class="new-badge" title="25.07.2023"></span></h4>
+    <a href="/docs/FAQ/RU/user/AnswerTemplate.html">Шаблоны ответов</a></h4>
 
 <h4 style="padding-left: 20px;">
     <a href="/docs/FAQ/RU/user/Rating.html">Оценка заявок и рейтинг сотрудников</a></h4>
@@ -118,10 +120,10 @@
 
     
 <h4 style="padding-left: 20px;">
-    <a href="/docs/FAQ/RU/user/MobileObjects.html">Мобильное оборудование: заявка по мобильному оборудованию</a><span class="new-badge" title="08.09.2023"></span></h4>
+    <a href="/docs/FAQ/RU/user/MobileObjects.html">Мобильное оборудование: заявка по мобильному оборудованию</a></h4>
 
  <h4 style="padding-left: 20px;">
-    <a href="/docs/FAQ/RU/user/NotificationInWeb.html">Лента уведомлений в web-приложении</a><span class="new-badge" title="05.09.2023"></span></h4>
+    <a href="/docs/FAQ/RU/user/NotificationInWeb.html">Лента уведомлений в web-приложении</a></h4>
 
 ### Маркировка оборудования и подача заявок с помощью QR-кодов
 Узнайте, как быстро создавать новые объекты или оборудование с помощью QR-кодов. Вы знали, что подача Заявки с помощью QR-кода - это удобно? А еще можно подать Заявку без регистрации в HubEx, для этого нужен любой сканер QR-кодов на мобильном телефоне.

@@ -72,7 +72,7 @@
 <h4 style="padding-left: 20px;">
     <a href="/docs/FAQ/RU/user/OnDuty.html">Индивидуальный график работы: функционал "На смене"</a></h4>
 <h4 style="padding-left: 20px;">
-    <a href="/docs/FAQ/RU/user/SalaryOfEmployees.html">Расчет зарплаты сотрудников</a></h4>    
+    <a href="/docs/FAQ/RU/user/SalaryOfEmployees.html">Расчет зарплаты сотрудников</a><span class="new-badge" title="27.11.2023"></span></h4>    
 <h4 style="padding-left: 20px;">
     <a href="/docs/FAQ/RU/user/PlannedTickets.html">Создание плановой заявки</a></h4>
 <h4 style="padding-left: 20px;">

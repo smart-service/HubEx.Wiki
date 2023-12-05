@@ -115,7 +115,7 @@ keywords: табличное представление заявок, карто
 <p>Фильровать можно как по текстовым, так и по числовым форматам полей. Для числовых форматов дополнительных полей доступен выбор настроек (<strong>Равно</strong>, <strong>Диапазон</strong>, <strong>Больше чем</strong> и<strong> Меньше чем</strong>). Таким образом вы сможете быстро и эффективно находить <strong>Заявки</strong>. После указания параметров необходимо нажимать кнопку <strong>Применить</strong>.</p>
 <div>
     <img style="margin: 0 auto; display: block; max-width: 80%;"
-         src="/attachments/images/FAQ/USER/FilterAddFields/Filter2.jpg"/>
+         src="/attachments/images/FAQ/USER/Filters/Filter2.jpg"/>
 </div>
 
 <p>Например, вам необходимо найти все <strong>Заявки</strong> по определенному оборудованию. Тогда в окошке фильтров в

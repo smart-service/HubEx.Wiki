@@ -98,7 +98,7 @@ keywords: табличное представление заявок, карто
          src="/attachments/images/FAQ/USER/Filters/FiltersButton.jpg"/>
 </div>
 
-<p>С помощью фильтров вы можете установить отборы по различным полям <strong>Заявки</strong>. Фильтрация Заявок возможна также по дополнительным полям, они отображаются в конце списка всех фильтров. Подробнее читайте в статье: <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/AdditionalFields.html">Создание дополнительных полей для заявки</a>.</p>
+<p>С помощью фильтров вы можете установить отборы по различным полям <strong>Заявки</strong>. Фильтрация Заявок возможна также по дополнительным полям, они отображаются в конце списка всех фильтров.  Подробнее читайте в статье: <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/AdditionalFields.html">Создание дополнительных полей для заявки</a>.</p>
 
 <!--<div style="display: flex;">
     <img style="margin: 0 auto; display: block; max-width: 100%;"
@@ -111,6 +111,11 @@ keywords: табличное представление заявок, карто
 <div>
     <img style="margin: 0 auto; display: block; max-width: 80%;"
          src="/attachments/images/FAQ/USER/Filters/Filters.jpg"/>
+</div>
+<p>Фильровать можно как по текстовым, так и по числовым форматам полей. Для числовых форматов дополнительных полей доступен выбор настроек (<strong>Равно</strong>, <strong>Диапазон</strong>, <strong>Больше чем</strong> и<strong> Меньше чем</strong>). Таким образом вы сможете быстро и эффективно находить <strong>Заявки</strong>. После указания параметров необходимо нажимать кнопку <strong>Применить</strong>.</p>
+<div>
+    <img style="margin: 0 auto; display: block; max-width: 80%;"
+         src="/attachments/images/FAQ/USER/FilterAddFields/Filter2.jpg"/>
 </div>
 
 <p>Например, вам необходимо найти все <strong>Заявки</strong> по определенному оборудованию. Тогда в окошке фильтров в

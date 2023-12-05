@@ -107,7 +107,6 @@ keywords: табличное представление заявок, карто
         src="/attachments/images/FAQ/USER/Filters/filter3.jpg"/>
 
 </div>-->
-
 <div>
     <img style="margin: 0 auto; display: block; max-width: 80%;"
          src="/attachments/images/FAQ/USER/Filters/Filters.jpg"/>

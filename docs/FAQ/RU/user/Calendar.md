@@ -76,13 +76,14 @@ keywords: календарь, календарь заявок, расписан�
                 <p>
                 <div>
                     <img style="margin: 0 auto; display: block; max-width: 95%;"
-                         src="/attachments/images/FAQ/USER/Calendar/Calendar3.jpg"/>
+                         src="/attachments/images/FAQ/USER/Calendar/MonthCalendar3-1.jpg"/>
                 </div>
                 </p>
+                <p>При нажатии на кнопку внизу боковой формы <strong>К заявке</strong> в соседней вкладке будет открыта полная форма текущей <strong>Заявки</strong>. </p>
                  <p>
                 <div>
                     <img style="margin: 0 auto; display: block; max-width: 95%;"
-                         src="/attachments/images/FAQ/USER/Calendar/Calendar4.jpg"/>
+                         src="/attachments/images/FAQ/USER/Calendar/MonthCalendar3-2.jpg"/>
                 </div>
                 </p>
 
@@ -96,7 +97,7 @@ keywords: календарь, календарь заявок, расписан�
                     <img style="margin: 0 auto; display: block; max-width: 95%;"
                          src="/attachments/images/FAQ/USER/Calendar/MonthCalendar5.jpg"/>
                 </div>
-                <p>По нажатию на номер <strong>Заявки</strong> откроется боковое окошко с информацией: <strong>Тип
+                <p>По нажатию на номер <strong>Заявки</strong> откроется боковое окно <strong>Заявки</strong> с информацией: <strong>Тип
                     заявки</strong>, описание и т.д. Обратите внимание! У
                     назначенных <strong>Заявок</strong> вы можете менять время выполнения. Это необходимо в случае, если
                     <strong>Заявку</strong> назначили на исполнителя, а он ушел на больничный или не может ее выполнить

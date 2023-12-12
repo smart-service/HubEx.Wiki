@@ -79,7 +79,7 @@ keywords: календарь, календарь заявок, расписан�
                          src="/attachments/images/FAQ/USER/Calendar/MonthCalendar3-1.jpg"/>
                 </div>
                 </p>
-                <p>При нажатии на кнопку внизу боковой формы <strong>К заявке</strong> в соседней вкладке будет открыта полная форма текущей <strong>Заявки</strong>. </p>
+                <p>По нажатию на кнопку внизу боковой формы <strong>К заявке</strong> в соседней вкладке будет открыта полная форма текущей <strong>Заявки</strong>. </p>
                  <p>
                 <div>
                     <img style="margin: 0 auto; display: block; max-width: 95%;"
@@ -104,7 +104,7 @@ keywords: календарь, календарь заявок, расписан�
                     в связи с большой нагрузкой.</p>
                 <div>
                     <img style="margin: 0 auto; display: block; max-width: 95%;"
-                         src="/attachments/images/FAQ/USER/Calendar/MonthCalendar6.jpg"/>
+                         src="/attachments/images/FAQ/USER/Calendar/MonthCalendar6-1.jpg"/>
                 </div>
             </li>
 

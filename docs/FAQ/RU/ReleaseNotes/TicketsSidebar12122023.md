@@ -20,7 +20,7 @@ keywords:
 <h5>Закрытые заявки в календаре</h5>
 <p>Как это работает?</p>
 <p>В меню <strong>Заявки - Расписание заявок</strong> откройте любой из вариантов отображения календаря (на день, на неделю или на месяц) и в&nbsp;правом верхнем углу нажмите значок шестеренки.</p>
-<div><img style="margin: 0 auto; display: block; max-width: 100%;" src="https://wiki.hubex.ru/attachments/images/FAQ/RELEASENOTES/TicketsSidebar/.jpg" width="800" height="auto" /></div>
+<div><img style="margin: 0 auto; display: block; max-width: 100%;" src="https://wiki.hubex.ru/attachments/images/FAQ/RELEASENOTES/TicketsSidebar/Calendar.jpg" width="800" height="auto" /></div>
 <p>Установите флажок в выпадающем меню <strong>Показывать выполненные заявки</strong>. Автоматически поле календаря обновится, и вы увидите заявки, которые были уже выполнены специалистами.</p>
 <div><img style="margin: 0 auto; display: block; max-width: 100%;" src="https://wiki.hubex.ru/attachments/images/FAQ/USER/Calendar/ClosedTicket22.jpg" width="800" height="auto" /></div>
 

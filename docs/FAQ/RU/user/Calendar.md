@@ -72,13 +72,17 @@ keywords: календарь, календарь заявок, расписан�
                          src="/attachments/images/FAQ/USER/Calendar/MonthCalendar3.jpg"/>
                 </div>
 
-                <p>Откроется боковое окошко с деталями: <strong>Типом заявки</strong>, описанием и т.д. По кнопке
-                    <strong>Открыть в соседнем окне</strong> вы можете открыть
-                    полную форму выбранной <strong>Заявки</strong> в соседнем окне браузера. </p>
+                <p>Откроется боковое окно с основными полями <strong>Заявки</strong>: поля можно редактировать и внесенные изменения сохранять по кнопке <strong>Сохранить</strong> внизу боковой формы. </p>
                 <p>
                 <div>
                     <img style="margin: 0 auto; display: block; max-width: 95%;"
-                         src="/attachments/images/FAQ/USER/Calendar/MonthCalendar4.jpg"/>
+                         src="/attachments/images/FAQ/USER/Calendar/Calendar3.jpg"/>
+                </div>
+                </p>
+                 <p>
+                <div>
+                    <img style="margin: 0 auto; display: block; max-width: 95%;"
+                         src="/attachments/images/FAQ/USER/Calendar/Calendar4.jpg"/>
                 </div>
                 </p>
 

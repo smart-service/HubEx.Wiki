@@ -291,7 +291,7 @@ keywords: заявки на карте, назначить заявку на к�
             <img style="margin: 0 auto; display: block; max-width: 90%;"
                  src="/attachments/images/FAQ/USER/TicketsOnMap/Tickets3.jpg"/>
         </div>
-        </p> </li>
+        </p> 
 
     
 

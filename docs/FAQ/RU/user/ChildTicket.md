@@ -79,7 +79,7 @@ keywords: дочерние заявки, дочерняя заявка, роди
             <img style="margin: 0 auto; display: block; max-width: 95%;"
                  src="/attachments/images/FAQ/USER/ChildTicket/OpenedChildTicket.jpg"/>
         </div>
-        </p> </li>
+        </p> 
 
     <li id="ChildTicket2">Любую заявку можно превратить в дочернюю. Для этого в <strong>Заявке</strong> на вкладке <strong>Заявка</strong> нужно заполнить
         поле <strong>Родительская

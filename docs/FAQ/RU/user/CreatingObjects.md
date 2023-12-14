@@ -241,16 +241,16 @@ keywords: создать объект, оборудование, объект, �
     вложенными объектами</strong> в списке отразятся <strong>Заявки</strong> по дочерним объектам. По щелчку на любую <strong>Заявку</strong> из списка истории обслуживания она откроется в боковой панели справа.
 </p>
 <div>
-    <img style="margin: 0 auto; display: block; max-width: 80%;"
+    <img style="margin: 0 auto; display: block; max-width: 90%;"
          src="/attachments/images/FAQ/USER/CreatingObjects/History.jpg"/>
 </div>
 <p>Боковое окно содержит основные поля из полной формы <strong>Заявки</strong>, их можно редактировать и сохранять изменения. Кнопка <strong>Сохранить</strong> находится внизу боковой формы <strong>Заявки</strong>. По нажатию на кнопку <strong>К заявке</strong> в соседней вкладке будет открыта полная форма текущей <strong>Заявки</strong>.</p>
 <div>
-    <img style="margin: 0 auto; display: block; max-width: 80%;"
+    <img style="margin: 0 auto; display: block; max-width: 90%;"
          src="/attachments/images/FAQ/USER/CreatingObjects/History2.jpg"/>
 </div>
 <p><div>
-    <img style="margin: 0 auto; display: block; max-width: 80%;"
+    <img style="margin: 0 auto; display: block; max-width: 90%;"
          src="/attachments/images/FAQ/USER/CreatingObjects/History3.jpg"/>
 </div></p>
 <p> Вы можете ускорить процесс добавления <strong>Объектов</strong> в систему HubEx с помощью функции <a

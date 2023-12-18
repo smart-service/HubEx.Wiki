@@ -154,6 +154,8 @@ keywords: создание компании, создать компанию, з
              src="/attachments/images/FAQ/USER/CreatingCompany/Contract2.jpg"/>
     </div>
 
+<p>Для договоров также предусмотрено создание дополнительных полей. Подробнее читайте в статье: <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/AdditionalFieldsContract.html">Создание дополнительных полей для договора</a>.</p>
+
 <p>Обратите внимание! В <strong>Заявке</strong> выбрать договор можно будет только после выбора <strong>Объекта</strong>. В случае просрочки договора в <strong>Заявке</strong> вы увидите соответствующую информационную подсказку.</p>
     <div>
         <img style="margin: 0 auto; display: block; max-width: 95%;"

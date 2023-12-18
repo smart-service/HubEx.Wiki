@@ -36,6 +36,9 @@
     <a href="/docs/FAQ/RU/user/CreatingCompany.html">Создание обслуживаемых компаний</a>
 </h4>
 <h4 style="padding-left: 20px;">
+    <a href="/docs/FAQ/RU/user/AdditionalFieldsContract.html">Создание дополнительных полей для договоров</a><span class="new-badge" title="19.12.2023"></span>
+</h4>
+<h4 style="padding-left: 20px;">
     <a href="/docs/FAQ/RU/user/CreatingObjects.html">Создание обслуживаемого оборудования</a>
 </h4>
 <h4 style="padding-left: 20px;">
@@ -47,9 +50,7 @@
 <h4 style="padding-left: 20px;">
     <a href="/docs/FAQ/RU/user/CreatingCustomer.html">Создание заказчика</a>
 </h4>
-<h4 style="padding-left: 20px;">
-    <a href="/docs/FAQ/RU/user/AdditionalFieldsContract.html">Создание дополнительных полей для договоров</a><span class="new-badge" title="19.12.2023"></span>
-</h4>
+
 
 ### Работа с заявками
 Создавайте Заявки и назначайте исполнителей. Формируйте Акты выполненных работ для своих заказчиков. Узнайте, как добавить новые поля в Заявку для внесения дополнительной информации. Экономьте время на обучение и контроль за сотрудниками - используйте Чек-листы. О настройках Видов работ, Типов заявок, процессов согласования читайте в разделе <a href="https://wiki.hubex.ru/index_admin.html">Консоль администрирования</a>.

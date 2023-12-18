@@ -6,6 +6,7 @@ https://wiki.hubex.ru/docs/FAQ/RU/user/CreatingObjects.html
 https://wiki.hubex.ru/docs/FAQ/RU/user/GroupActions.html
 https://wiki.hubex.ru/docs/FAQ/RU/user/AdditionalFieldsObject.html
 https://wiki.hubex.ru/docs/FAQ/RU/user/CreatingCustomer.html
+https://wiki.hubex.ru/docs/FAQ/RU/user/AdditionalFieldsContract.html
 https://wiki.hubex.ru/docs/FAQ/RU/user/CreatingTicket.html
 https://wiki.hubex.ru/docs/FAQ/RU/user/ChildTicket.html
 https://wiki.hubex.ru/docs/FAQ/RU/user/FloorPlan.html

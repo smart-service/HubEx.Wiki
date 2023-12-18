@@ -28,6 +28,7 @@ keywords:
 <p>Обратите внимание! Созданные дополнительные поля будут доступны для каждого существующего в системе договора и каждого нового договора.</p>
 <div><img style="margin: 0 auto; display: block; max-width: 100%;" src="https://wiki.hubex.ru/attachments/images/FAQ/RELEASENOTES/AdditionalFieldsContract/AddField2.jpg" width="800" height="auto" /></div>
 <p>Таким образом, создание дополнительных полей для контрактов позволит вам удобно хранить всю необходимую информацию в одном месте и эффективно управлять сделками.</p>
+<p>Подробнее читайте в статье нашей базы знаний: <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/AdditionalFieldsContract.html" target="_blank">Дополнительные поля для договоров</a>.</p>
 
 <p>Предложения по доработкам в системе и сообщения об ошибках просим отправлять к нам в "чат с поддержкой" в веб-приложении или на почту <a href="mailto:support@hubex.ru" target="_blank" rel="noopener"> support@hubex.ru </a>.</p>
 

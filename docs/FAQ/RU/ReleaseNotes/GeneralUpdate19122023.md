@@ -25,7 +25,7 @@ keywords:
 <p>Обратите внимание! При очищении поля <strong>Объект</strong> также будет очищено поле <strong>Вид работ</strong>, так как <strong>Виды работ</strong> устанавливаются в карточках <strong>Объектов</strong>.</p>
 <div><img style="margin: 0 auto; display: block; max-width: 100%;" src="https://wiki.hubex.ru/attachments/images/FAQ/RELEASENOTES/GeneralUpdate2023/Object.jpg" width="700" height="auto" /></div>
 <p>При выборе нового <strong>Объекта</strong> также будет необходимо выбрать доступный для него <strong>Вид работ</strong>. Сохранение <strong>Заявки</strong> при этом произойдет автоматически.</p>
-<div><img style="margin: 0 auto; display: block; max-width: 100%;" src="https://wiki.hubex.ru/attachments/images/FAQ/RELEASENOTES/GeneralUpdate2023/Object2.jpg" width="450" height="auto" /></div>
+<div><img style="margin: 0 auto; display: block; max-width: 100%;" src="https://wiki.hubex.ru/attachments/images/FAQ/RELEASENOTES/GeneralUpdate2023/Object2.jpg" width="350" height="auto" /></div>
 
 <h5>Завершение регистрации нового пользователя в мобильном приложении</h5>
 <p>В HubEx существенно упрощен процесс установки пароля для инженеров, которые еще не подтвердили свою учетную запись. Теперь, когда инженер входит в систему в первый раз, он получит приглашение создать пароль прямо в мобильном приложении <strong>HubEx исполнитель</strong>. Этот удобный для пользователя подход обеспечивает беспрепятственный процесс завершения регистрации в системе.</p>

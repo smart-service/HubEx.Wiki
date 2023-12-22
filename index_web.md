@@ -36,6 +36,9 @@
     <a href="/docs/FAQ/RU/user/CreatingCompany.html">Создание обслуживаемых компаний</a>
 </h4>
 <h4 style="padding-left: 20px;">
+    <a href="/docs/FAQ/RU/user/AdditionalFieldsCompany.html">Создание дополнительных полей для компаний</a><span class="new-badge" title="19.12.2023"></span>
+</h4>
+<h4 style="padding-left: 20px;">
     <a href="/docs/FAQ/RU/user/AdditionalFieldsContract.html">Создание дополнительных полей для договоров</a><span class="new-badge" title="19.12.2023"></span>
 </h4>
 <h4 style="padding-left: 20px;">

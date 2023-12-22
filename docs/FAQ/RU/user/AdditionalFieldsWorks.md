@@ -20,13 +20,9 @@ keywords: дополнительные поля, дополнительные п
 <h5 id="createaddfield">Создание дополнительные поля для Выполненных работ</h5>
 
 <p>Дополнительные поля расширяют возможности внесения и хранения учетной информации. Дополнительные поля можно создавать
-    для <strong>Объекта</strong>, для <strong>Заявки</strong> и <strong>Выполненных работ</strong>. Подробнее читайте в
-    статье: <a
-            href="https://wiki.hubex.ru/docs/FAQ/RU/user/AdditionalFields.html">Создание дополнительных полей для
-        заявки</a>, <a
-            href="https://wiki.hubex.ru/docs/FAQ/RU/user/AdditionalFieldsObject.html">Создание дополнительных полей для
-        объекта</a>.</p>
-<p>Например, можно создать поле для описания внешнего вида объекта, заполнения даты следующей проверки и так далее.</p>
+    для <strong>Объекта</strong>, <strong>Заявки</strong>, выполненных работ, <strong>Компаний</strong>, договоров. Подробнее читайте в статье: <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/AdditionalFieldsObject.html">Создание дополнительных полей для объекта</a>, <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/AdditionalFields.html">Создание дополнительных полей для заявки</a>, <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/AdditionalFieldsCompany.html">Создание дополнительных полей для компаний</a>, <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/AdditionalFieldsContracts.html">Создание дополнительных полей для договоров</a>.</p> 
+
+<p>Например, для выполненных работ можно создать поле для описания внешнего вида объекта, заполнения даты следующей проверки и так далее.</p>
 
 <p>Рассмотрим пошагово создание дополнительных полей для <strong>Выполненной работы</strong>.</p>
 

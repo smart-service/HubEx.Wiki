@@ -24,14 +24,14 @@ keywords: дополнительные поля, дополнительные п
 </ul>
 
 <p><div>
-        <img style="margin: 0 auto; display: block; max-width: 95%;"
+        <img style="margin: 0 auto; display: block; max-width: 100%;"
              src="/attachments/images/FAQ/USER/AdditionalFieldsCompany/AddFieldCompany0.jpg"/>
     </div></p>
 
 <p>Все дополнительные поля будут располагаться в карточке компании внизу под <strong>Контактными лицами</strong>.</p>
 <p>Обратите внимание! Созданные дополнительные поля будут доступны для каждой компании уже созданной в системе и каждой новой компании.</p>
 <p><div>
-        <img style="margin: 0 auto; display: block; max-width: 95%;"
+        <img style="margin: 0 auto; display: block; max-width: 100%;"
              src="/attachments/images/FAQ/USER/AdditionalFieldsCompany/AddFieldCompany.jpg"/>
     </div></p>
 

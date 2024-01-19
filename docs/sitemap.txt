@@ -65,6 +65,7 @@ https://wiki.hubex.ru/docs/FAQ/RU/admin/UI_Permissions.html
 https://wiki.hubex.ru/docs/FAQ/RU/admin/Places.html
 https://wiki.hubex.ru/docs/FAQ/RU/admin/ObjectsType.html
 https://wiki.hubex.ru/docs/FAQ/RU/admin/ObjectClass.html
+https://wiki.hubex.ru/docs/FAQ/RU/admin/WorkSchedule.html
 https://wiki.hubex.ru/docs/FAQ/RU/admin/WorkType.html
 https://wiki.hubex.ru/docs/FAQ/RU/admin/TicketType.html
 https://wiki.hubex.ru/docs/FAQ/RU/admin/StatusType.html

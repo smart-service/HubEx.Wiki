@@ -20,7 +20,7 @@ keywords: не приходят уведомления, настройка ув�
 <ul>
     <li><a href="https://yablyk.com/548458-kak-otklyuchit-i-nastroit-uvedomleniya-na-iphone-i-ipad/">для iPhone</a>;
     </li>
-    <li><a href="http://infosmartphone.ru/xiaomi/574-nastroika-uvedomlenii-prilozhenii-v-smartfone-xiaomi">для
+    <li><a href="https://androidinsider.ru/polezno-znat/kak-pravilno-nastroit-uvedomleniya-xiaomi.html">для
         Xiaomi</a>;
     </li>
     <li><a href="https://www.samsung.com/ru/support/faqs/kak-otkljuchit-uvedomleniya/">для Samsung</a>.</li>

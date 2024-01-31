@@ -97,7 +97,7 @@
     <a href="/docs/FAQ/RU/user/ChangingStatus.html">Переход заявки по стадиям и удаление заявки</a></h4>
 
 <h4 style="padding-left: 20px;">
-    <a href="/docs/FAQ/RU/user/Filters.html">Список заявок, поиск заявок с помощью фильтров</a></h4>
+    <a href="/docs/FAQ/RU/user/Filters.html">Список заявок, поиск заявок с помощью фильтров и строки поиска</a></h4>
 
 <h4 style="padding-left: 20px;">
     <a href="/docs/FAQ/RU/user/GroupActionsForTickets.html">Массовые действия для списка заявок</a></h4>

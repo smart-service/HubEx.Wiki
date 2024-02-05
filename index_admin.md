@@ -37,7 +37,7 @@
 <h4 style="padding-left: 20px;"><a href="/docs/FAQ/RU/admin/ObjectsType.html">Типы оборудования</a></h4>
 <h4 style="padding-left: 20px;"><a href="/docs/FAQ/RU/admin/Skills.html">Навыки</a></h4>
 <h4 style="padding-left: 20px;"><a href="/docs/FAQ/RU/admin/ObjectClass.html">Классы оборудования</a></h4>
-<h4 style="padding-left: 20px;"><a href="/docs/FAQ/RU/admin/WorkSchedule.html">Графики работы</a></h4>
+<h4 style="padding-left: 20px;"><a href="/docs/FAQ/RU/admin/WorkSchedule.html">Настройка графиков работы</a></h4>
 
 ### Настройки заявки
 В данном разделе собраны основные настройки для работы с заявками: создание и настройка типов заявок, стадий, жизненных циклов, доступ к полям на форме заявки и т.д. 

@@ -51,14 +51,14 @@ keywords:  hubex, хабекс, хубекс, хабикс
     </li>
 
     <div>
-        <img style="margin: 0 auto; display: block; max-width: 45%;"
+        <img style="margin: 0 auto; display: block; max-width: 75%;"
              src="/attachments/images/FAQ/USER/RouteToObject/Route2.jpg"/>
     </div>
 
     <li>после выбора навигатора будет автоматически простроен маршрут к адресу <strong>Объекта</strong> из <strong>Заявки</strong>.</li>
     
     <div>
-    <img style="margin: 0 auto; display: block; max-width: 75%;"
+    <img style="margin: 0 auto; display: block; max-width: 45%;"
          src="/attachments/images/FAQ/USER/RouteToObject/Route3.jpg"/>
 </div>
 </ul>

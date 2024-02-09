@@ -57,6 +57,7 @@ https://wiki.hubex.ru/docs/FAQ/RU/user/SettingsWithMaterials.html
 https://wiki.hubex.ru/docs/FAQ/RU/user/HowToManageNotifications.html
 https://wiki.hubex.ru/docs/FAQ/RU/user/HowToDealWithWhiteScreen.html
 https://wiki.hubex.ru/docs/FAQ/RU/user/TheDifferenceBetweenObjectTypes.html
+https://wiki.hubex.ru/docs/FAQ/RU/user/RouteToObject.html
 https://wiki.hubex.ru/docs/FAQ/RU/user/HowToSendInvitation.html
 https://wiki.hubex.ru/docs/FAQ/RU/user/SuperAndUsualUser.html
 https://wiki.hubex.ru/docs/FAQ/RU/admin/HowToEnterTheAdmin.html

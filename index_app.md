@@ -25,6 +25,7 @@
 <h4 style="padding-left: 20px;"><a href="/docs/FAQ/RU/user/MobileDevice.html">Как выбрать мобильное устройство для работы?</a></h4>
 <h4 style="padding-left: 20px;"><a href="/docs/FAQ/RU/user/EnterToMob.html">Вход в мобильное приложение Заказчика и Сотрудника</a></h4>
 <h4 style="padding-left: 20px;"><a href="/docs/FAQ/RU/user/CreatingTicket.html">Создание заявки</a></h4>
+<h4 style="padding-left: 20px;"><a href="/docs/FAQ/RU/user/RouteToObject.html">Построение маршрута до объекта</a></h4>
 <h4 style="padding-left: 20px;"><a href="/docs/FAQ/RU/user/OfflineMode.html">Работа в мобильном приложении исполнителя в офлайн режиме</a></h4>
 <h4 style="padding-left: 20px;"><a href="/docs/FAQ/RU/user/ObjectListInMob.html">Список объектов и оборудования, история обслуживания объектов</a></h4>
 <h4 style="padding-left: 20px;"><a href="/docs/FAQ/RU/user/ObjectEditing.html">Редактирование данных объекта (оборудования)</a></h4>

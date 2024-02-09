@@ -50,22 +50,20 @@ keywords:  hubex, хабекс, хубекс, хабикс
 
     </li>
 
-    <div>
+     <p><div>
         <img style="margin: 0 auto; display: block; max-width: 75%;"
              src="/attachments/images/FAQ/USER/RouteToObject/Route2.jpg"/>
-    </div>
+    </div> </p>
 
     <li>после выбора навигатора будет автоматически простроен маршрут к адресу <strong>Объекта</strong> из <strong>Заявки</strong>.</li>
     
-    <div>
+     <p><div>
     <img style="margin: 0 auto; display: block; max-width: 35%;"
          src="/attachments/images/FAQ/USER/RouteToObject/Route3.jpg"/>
-</div>
+</div> </p>
 </ul>
 
 <p>Обратите внимание! Открыть карту в офлайн режиме будет нельзя.</p>
-
-
 
 <h5 id="geoapp">Смена навигатора по умолчанию</h5>
 
@@ -74,15 +72,15 @@ keywords:  hubex, хабекс, хубекс, хабикс
     <li>перейдите в основное меню приложения в левом верхнем углу и нажмите на аватарку пользователя, чтобы открыть
         настройки аккаунта;
     </li>
-    <div>
+     <p><div>
         <img style="margin: 0 auto; display: block; max-width: 75%;"
              src="/attachments/images/FAQ/USER/RouteToObject/Route4.jpg"/>
-    </div>
+    </div> </p>
     <li>на странице настроек внизу в поле <strong>Приложение для навигации</strong> измените приложение.</li>
-    <div>
+     <p><div>
         <img style="margin: 0 auto; display: block; max-width: 75%;"
              src="/attachments/images/FAQ/USER/RouteToObject/Route5.jpg"/>
-    </div>
+    </div> </p>
 </ul>
 
 </body>

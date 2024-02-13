@@ -39,7 +39,7 @@ keywords: график работы, графики работы, расписа
     Графики работы</strong>. </p>
 <p>Создать новый график можно по кнопке <strong>Создать график</strong>.</p>
 <div>
-    <img style="margin: 0 auto; display: block; max-width: 90%;"
+    <img style="margin: 0 auto; display: block; max-width: 150%;"
          src="/attachments/images/FAQ/ADMIN/WorkSchedule/Schedule.jpg"/>
 </div>
 
@@ -69,35 +69,35 @@ keywords: график работы, графики работы, расписа
         понедельника флажки не ставить, так как это нерабочие дни;
     </li>
 
-    <div>
+    <p><div>
         <img style="margin: 0 auto; display: block; max-width: 100%;"
              src="/attachments/images/FAQ/ADMIN/WorkSchedule/Schedule2.jpg"/>
-    </div>
+    </div></p>
 
     <li>установите дату начала действия текущего графика с помощью флажка <strong>Назначить дату начала
         календаря</strong>: этот пункт не является обзательным для выполнения, если дату начала не задать, то по
         умолчанию график будет работать со дня его создания в системе. Например, график работы начнет действовать с 20 февраля 2024 года;
     </li>
-    <div>
-        <img style="margin: 0 auto; display: block; max-width: 100%;"
+    <p><div>
+        <img style="margin: 0 auto; display: block; max-width: 150%;"
              src="/attachments/images/FAQ/ADMIN/WorkSchedule/Schedule22.jpg"/>
-    </div>
+    </div></p>
 
     <li>проверьте отображение графика по кнопке <strong>Показать график в календаре</strong>: в новом окне
         появится распределение графика работы по месяцам. При внесении изменений в график кнопку <strong>Показать график
             в календаре</strong> нужно нажимать повторно;
     </li>
-    <div>
+    <p><div>
         <img style="margin: 0 auto; display: block; max-width: 100%;"
              src="/attachments/images/FAQ/ADMIN/WorkSchedule/Schedule3.jpg"/>
-    </div>
+    </div></p>
 
     <li>нажмите кнопку <strong>Создать график</strong>.</li>
 
-    <div>
+    <p><div>
         <img style="margin: 0 auto; display: block; max-width: 100%;"
              src="/attachments/images/FAQ/ADMIN/WorkSchedule/Schedule4.jpg"/>
-    </div>
+    </div></p>
 </ol>
 
 

@@ -19,7 +19,7 @@ keywords:
 
 <p>Для недельного графика рабочие дни задаются с помощью установки флажков и временного интервала.</p>
 <p>Также для графика можно задать дату начала действия графика с помощью параметра <strong>Назначить дату начала календаря</strong>.</p>
-<div><img style="margin: 0 auto; display: block; max-width: 100%;" src="https://wiki.hubex.ru/attachments/images/FAQ/RELEASENOTES/Schedules/Schedule2.jpg" width="800" height="auto" /></div>
+<div><img style="margin: 0 auto; display: block; max-width: 100%;" src="https://wiki.hubex.ru/attachments/images/FAQ/RELEASENOTES/Schedules/Schedule22.jpg" width="800" height="auto" /></div>
 <p>Посмотреть распределение графика по календарю можно по кнопке <strong>Показать график в календаре</strong>.</p>
 <div><img style="margin: 0 auto; display: block; max-width: 100%;" src="https://wiki.hubex.ru/attachments/images/FAQ/RELEASENOTES/Schedules/Schedule3.jpg" width="800" height="auto" /></div>
 

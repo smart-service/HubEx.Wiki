@@ -184,5 +184,6 @@ https://wiki.hubex.ru/docs/FAQ/RU/ReleaseNotes/TicketsSidebar12122023.html
 https://wiki.hubex.ru/docs/FAQ/RU/ReleaseNotes/AdditionalFields19122023.html
 https://wiki.hubex.ru/docs/FAQ/RU/ReleaseNotes/GeneralUpdate19122023.html
 https://wiki.hubex.ru/docs/FAQ/RU/ReleaseNotes/FilterInCalendar17012024.html
+https://wiki.hubex.ru/docs/FAQ/RU/ReleaseNotes/Schedules13022024.html
 https://wiki.hubex.ru/docs/FAQ/RU/ReleaseNotes/EngineerApp.html
 https://wiki.hubex.ru/docs/FAQ/RU/ReleaseNotes/CustomerApp.html

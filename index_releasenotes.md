@@ -16,6 +16,7 @@
 <link rel="stylesheet" type="text/css" href="/assets/css/styles.css">
 ### Новые возможности web-приложения HubEx
 В данном разделе вы найдете краткие статьи с обзором новых возможностей web-приложения HubEx. Мы постоянно улучшаемся и добавляем полезные функции, чтобы ваша работа становилась еще комфортнее.
+<h4><a href="docs/FAQ/RU/ReleaseNotes/Schedules13022024.html">Фильтр по сотрудника в календаре: обновление от 17.01.2024</a></h4>
 <h4><a href="docs/FAQ/RU/ReleaseNotes/FilterInCalendar17012024.html">Фильтр по сотрудника в календаре: обновление от 17.01.2024</a></h4>
 <h4><a href="docs/FAQ/RU/ReleaseNotes/AdditionalFieldsContract19122023.html">Дополнительные поля для компаний и договоров: обновление от 19.12.2023</a></h4>
 <h4><a href="docs/FAQ/RU/ReleaseNotes/GeneralUpdate19122023.html">Важные доработки (триггеры увеломлений, редактирование объекта в МП и т.д.): обновление от 19.12.2023</a></h4>

@@ -71,17 +71,16 @@ keywords: график работы, графики работы, расписа
 
     <div>
         <img style="margin: 0 auto; display: block; max-width: 90%;"
-             src="/attachments/images/FAQ/ADMIN/WorkSchedule/.jpg"/>
+             src="/attachments/images/FAQ/ADMIN/WorkSchedule/Schedule2.jpg"/>
     </div>
 
     <li>установите дату начала действия текущего графика с помощью флажка <strong>Назначить дату начала
         календаря</strong>: этот пункт не является обзательным для выполнения, если дату начала не задать, то по
-        умолчанию график будет работать со дня его создания в системе. Например, график работы начнет действовать только
-        с начала следующего месяца 1 марта 2024 года;
+        умолчанию график будет работать со дня его создания в системе. Например, график работы начнет действовать с 20 февраля 2024 года;
     </li>
     <div>
         <img style="margin: 0 auto; display: block; max-width: 90%;"
-             src="/attachments/images/FAQ/ADMIN/WorkSchedule/.jpg"/>
+             src="/attachments/images/FAQ/ADMIN/WorkSchedule/Schedule22.jpg"/>
     </div>
 
     <li>проверьте отображение графика по кнопке <strong>Показать график в календаре</strong>: в новом окне
@@ -90,14 +89,14 @@ keywords: график работы, графики работы, расписа
     </li>
     <div>
         <img style="margin: 0 auto; display: block; max-width: 90%;"
-             src="/attachments/images/FAQ/ADMIN/WorkSchedule/.jpg"/>
+             src="/attachments/images/FAQ/ADMIN/WorkSchedule/Schedule3.jpg"/>
     </div>
 
     <li>нажмите кнопку <strong>Создать график</strong>.</li>
 
     <div>
         <img style="margin: 0 auto; display: block; max-width: 90%;"
-             src="/attachments/images/FAQ/ADMIN/WorkSchedule/.jpg"/>
+             src="/attachments/images/FAQ/ADMIN/WorkSchedule/Schedule4.jpg"/>
     </div>
 </ol>
 
@@ -107,8 +106,12 @@ keywords: график работы, графики работы, расписа
 
 <div>
     <img style="margin: 0 auto; display: block; max-width: 90%;"
-         src="/attachments/images/FAQ/ADMIN/WorkSchedule/.jpg"/>
+         src="/attachments/images/FAQ/ADMIN/WorkSchedule/Schedule5.jpg"/>
 </div>
+<p><div>
+    <img style="margin: 0 auto; display: block; max-width: 90%;"
+         src="/attachments/images/FAQ/ADMIN/WorkSchedule/Schedule6.jpg"/>
+</div></p>
 
 <!--<h5 id="shift">Создание сменного графика работы</h5>
 

@@ -70,7 +70,7 @@ keywords: график работы, графики работы, расписа
     </li>
 
     <div>
-        <img style="margin: 0 auto; display: block; max-width: 90%;"
+        <img style="margin: 0 auto; display: block; max-width: 100%;"
              src="/attachments/images/FAQ/ADMIN/WorkSchedule/Schedule2.jpg"/>
     </div>
 
@@ -79,7 +79,7 @@ keywords: график работы, графики работы, расписа
         умолчанию график будет работать со дня его создания в системе. Например, график работы начнет действовать с 20 февраля 2024 года;
     </li>
     <div>
-        <img style="margin: 0 auto; display: block; max-width: 90%;"
+        <img style="margin: 0 auto; display: block; max-width: 100%;"
              src="/attachments/images/FAQ/ADMIN/WorkSchedule/Schedule22.jpg"/>
     </div>
 
@@ -88,14 +88,14 @@ keywords: график работы, графики работы, расписа
             в календаре</strong> нужно нажимать повторно;
     </li>
     <div>
-        <img style="margin: 0 auto; display: block; max-width: 90%;"
+        <img style="margin: 0 auto; display: block; max-width: 100%;"
              src="/attachments/images/FAQ/ADMIN/WorkSchedule/Schedule3.jpg"/>
     </div>
 
     <li>нажмите кнопку <strong>Создать график</strong>.</li>
 
     <div>
-        <img style="margin: 0 auto; display: block; max-width: 90%;"
+        <img style="margin: 0 auto; display: block; max-width: 100%;"
              src="/attachments/images/FAQ/ADMIN/WorkSchedule/Schedule4.jpg"/>
     </div>
 </ol>
@@ -105,11 +105,11 @@ keywords: график работы, графики работы, расписа
     необходимо указать созданный график в карточке <strong>Сотрудника</strong>. </p>
 
 <div>
-    <img style="margin: 0 auto; display: block; max-width: 90%;"
+    <img style="margin: 0 auto; display: block; max-width: 100%;"
          src="/attachments/images/FAQ/ADMIN/WorkSchedule/Schedule5.jpg"/>
 </div>
 <p><div>
-    <img style="margin: 0 auto; display: block; max-width: 90%;"
+    <img style="margin: 0 auto; display: block; max-width: 100%;"
          src="/attachments/images/FAQ/ADMIN/WorkSchedule/Schedule6.jpg"/>
 </div></p>
 

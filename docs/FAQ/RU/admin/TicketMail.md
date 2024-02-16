@@ -14,7 +14,7 @@ keywords: заявки по почте, заявки из почты, подач
             <li><a href="#sethubex">Как настроить HubEx для интеграции по пересылке</a>;</li>
             <li><a href="#setgmail">Как настроить пересылку для почтового ящика Gmail (джимейл)</a>;</li>
             <li><a href="#setyandex">Как настроить пересылку для почтового ящика Yandex (яндекс)</a>;</li>
-            <li><a href="#createtickets">Как подавать Заявки используя пересылку</a>.</li>
+            <li><a href="#createtickets">Как подавать Заявки через пересылку</a>.</li>
         </ul>
     </li>
 
@@ -80,7 +80,7 @@ keywords: заявки по почте, заявки из почты, подач
         пересылку.</strong></p>
 
     <div>
-        <img style="margin: 0 auto; display: block; max-width: 90%;"
+        <img style="margin: 0 auto; display: block; max-width: 100%;"
              src="/attachments/images/FAQ/ADMIN/TicketMail/Integration23.jpg"/>
     </div>
 
@@ -192,7 +192,7 @@ keywords: заявки по почте, заявки из почты, подач
     </li>
     <p>
     <div>
-        <img style="margin: 0 auto; display: block; max-width: 90%;"
+        <img style="margin: 0 auto; display: block; max-width: 100%;"
              src="/attachments/images/FAQ/ADMIN/TicketMail/Integration.jpg"/></div>
     </p>
     <p id="hubexmail">В разделе интеграции по пересылке необходимо скопировать адрес электронной почты, созданный для
@@ -211,7 +211,7 @@ keywords: заявки по почте, заявки из почты, подач
 <p>Для почтового ящика Gmail (джимейл) перейдите на страницу самого ящика, затем нажмите на значок шестеренки и выберите
     пункт <strong>Все настройки</strong>.</p>
 <div>
-    <img style="margin: 0 auto; display: block; max-width: 90%;"
+    <img style="margin: 0 auto; display: block; max-width: 100%;"
          src="/attachments/images/FAQ/ADMIN/TicketMail/Integration3.jpg"/></div>
 
 <p>Далее выполните следующие шаги по настройке:</p>
@@ -222,7 +222,7 @@ keywords: заявки по почте, заявки из почты, подач
 
     <p>
     <div>
-        <img style="margin: 0 auto; display: block; max-width: 90%;"
+        <img style="margin: 0 auto; display: block; max-width: 100%;"
              src="/attachments/images/FAQ/ADMIN/TicketMail/Integration4.jpg"/></div>
     </p>
     <li>в модальное окно вставьте скопированный ранее <a href="#hubexmail">адрес вашего персонального ящика</a> из HubEx
@@ -230,7 +230,7 @@ keywords: заявки по почте, заявки из почты, подач
     </li>
     <p>
     <div>
-        <img style="margin: 0 auto; display: block; max-width: 90%;"
+        <img style="margin: 0 auto; display: block; max-width: 100%;"
              src="/attachments/images/FAQ/ADMIN/TicketMail/Integration5.jpg"/></div>
     </p>
     <li>если для вашего Google-аккаунта установлена двухфакторная аутентификация, то пройдите шаги по подтверждению
@@ -240,7 +240,7 @@ keywords: заявки по почте, заявки из почты, подач
     </li>
     <p>
     <div>
-        <img style="margin: 0 auto; display: block; max-width: 90%;"
+        <img style="margin: 0 auto; display: block; max-width: 100%;"
              src="/attachments/images/FAQ/ADMIN/TicketMail/Integration6.jpg"/></div>
     </p>
     <li>далее вы увидите инфорационное окно, в котором будет указано, что вам на ящик HubEx отправлена ссылка для
@@ -248,7 +248,7 @@ keywords: заявки по почте, заявки из почты, подач
     </li>
     <p>
     <div>
-        <img style="margin: 0 auto; display: block; max-width: 90%;"
+        <img style="margin: 0 auto; display: block; max-width: 100%;"
              src="/attachments/images/FAQ/ADMIN/TicketMail/Integration7.jpg"/></div>
     </p>
     <li>так как ваш персональный ящик HubEx является ящиком для создания <strong>Заявок</strong>, то письмо со ссылкой
@@ -258,12 +258,12 @@ keywords: заявки по почте, заявки из почты, подач
     </li>
     <p>
     <div>
-        <img style="margin: 0 auto; display: block; max-width: 90%;"
+        <img style="margin: 0 auto; display: block; max-width: 100%;"
              src="/attachments/images/FAQ/ADMIN/TicketMail/Integration08.jpg"/></div>
     </p>
     <p>
     <div>
-        <img style="margin: 0 auto; display: block; max-width: 90%;"
+        <img style="margin: 0 auto; display: block; max-width: 100%;"
              src="/attachments/images/FAQ/ADMIN/TicketMail/Integration8.jpg"/></div>
     </p>
     <li>скопированную ссылку необходимо вставить в поисковую строку браузера, а затем на открывшейся странице нажать
@@ -287,18 +287,18 @@ keywords: заявки по почте, заявки из почты, подач
     <li></li>
     <p>
     <div>
-        <img style="margin: 0 auto; display: block; max-width: 90%;"
+        <img style="margin: 0 auto; display: block; max-width: 100%;"
              src="/attachments/images/FAQ/ADMIN/TicketMail/Integration11.jpg"/></div>
     </p>
     <p>
     <div>
-        <img style="margin: 0 auto; display: block; max-width: 90%;"
+        <img style="margin: 0 auto; display: block; max-width: 100%;"
              src="/attachments/images/FAQ/ADMIN/TicketMail/Integration12.jpg"/></div>
     </p>
     <p>После подключения пересылки вы увидите баннер о том, что ваши письма будут пересылаться;</p>
     <p>
     <div>
-        <img style="margin: 0 auto; display: block; max-width: 90%;"
+        <img style="margin: 0 auto; display: block; max-width: 100%;"
              src="/attachments/images/FAQ/ADMIN/TicketMail/Integration13.jpg"/></div>
     </p>
     <li>дополнительно для пересылаемых писем можно настроить фильтрацию. Фильтрация позволит уточнить, какие именно
@@ -311,12 +311,12 @@ keywords: заявки по почте, заявки из почты, подач
     </li>
     <p>
     <div>
-        <img style="margin: 0 auto; display: block; max-width: 90%;"
+        <img style="margin: 0 auto; display: block; max-width: 100%;"
              src="/attachments/images/FAQ/ADMIN/TicketMail/Integration14.jpg"/></div>
     </p>
     <p>
     <div>
-        <img style="margin: 0 auto; display: block; max-width: 90%;"
+        <img style="margin: 0 auto; display: block; max-width: 100%;"
              src="/attachments/images/FAQ/ADMIN/TicketMail/Integration15.jpg"/></div>
     </p>
     <li>в следующем окне выберите для каких случаев должен срабатывать фильтр (в нашем случае это пересылка на адрес) и
@@ -324,7 +324,7 @@ keywords: заявки по почте, заявки из почты, подач
     </li>
     <p>
     <div>
-        <img style="margin: 0 auto; display: block; max-width: 90%;"
+        <img style="margin: 0 auto; display: block; max-width: 100%;"
              src="/attachments/images/FAQ/ADMIN/TicketMail/Integration16.jpg"/></div>
     </p>
     <li>если у вас настроена двухфакторная аутентификация следом необходимо будет снова подтвердить свою личность. На
@@ -340,7 +340,7 @@ keywords: заявки по почте, заявки из почты, подач
 <p>Для почтового ящика Yandex (яндекс) перейдите на страницу самого ящика, затем нажмите на значок шестеренки и выберите
     пункт <strong>Все настройки</strong>.</p>
 <div>
-    <img style="margin: 0 auto; display: block; max-width: 90%;"
+    <img style="margin: 0 auto; display: block; max-width: 100%;"
          src="/attachments/images/FAQ/ADMIN/TicketMail/Yandex.jpg"/></div>
 
 <p>Далее выполните следующие шаги по настройке:</p>
@@ -351,7 +351,7 @@ keywords: заявки по почте, заявки из почты, подач
 
     <p>
     <div>
-        <img style="margin: 0 auto; display: block; max-width: 90%;"
+        <img style="margin: 0 auto; display: block; max-width: 100%;"
              src="/attachments/images/FAQ/ADMIN/TicketMail/Yandex2.jpg"/></div>
     </p>
     <li>установите флажок для пункта <strong>Переслать по адресу</strong> и вставьте скопированный ранее <a
@@ -359,7 +359,7 @@ keywords: заявки по почте, заявки из почты, подач
     </li>
     <p>
     <div>
-        <img style="margin: 0 auto; display: block; max-width: 90%;"
+        <img style="margin: 0 auto; display: block; max-width: 100%;"
              src="/attachments/images/FAQ/ADMIN/TicketMail/Yandex3.jpg"/></div>
     </p>
 
@@ -371,7 +371,7 @@ keywords: заявки по почте, заявки из почты, подач
     </li>
     <p>
     <div>
-        <img style="margin: 0 auto; display: block; max-width: 90%;"
+        <img style="margin: 0 auto; display: block; max-width: 100%;"
              src="/attachments/images/FAQ/ADMIN/TicketMail/Yandex4.jpg"/></div>
     </p>
 
@@ -379,7 +379,7 @@ keywords: заявки по почте, заявки из почты, подач
     </li>
     <p>
     <div>
-        <img style="margin: 0 auto; display: block; max-width: 90%;"
+        <img style="margin: 0 auto; display: block; max-width: 100%;"
              src="/attachments/images/FAQ/ADMIN/TicketMail/Yandex5.jpg"/></div>
     </p>
     <li>далее необходимо подтвердить настройку пересылки по ссылке-подтверждению: так как ваш персональный ящик HubEx является ящиком для
@@ -389,12 +389,12 @@ keywords: заявки по почте, заявки из почты, подач
     </li>
     <p>
     <div>
-        <img style="margin: 0 auto; display: block; max-width: 90%;"
+        <img style="margin: 0 auto; display: block; max-width: 100%;"
              src="/attachments/images/FAQ/ADMIN/TicketMail/Yandex6.jpg"/></div>
     </p>
     <p>
     <div>
-        <img style="margin: 0 auto; display: block; max-width: 90%;"
+        <img style="margin: 0 auto; display: block; max-width: 100%;"
              src="/attachments/images/FAQ/ADMIN/TicketMail/Yandex7.jpg"/></div>
     </p>
     <li>на открывшейся странице необходимо нажать
@@ -403,12 +403,12 @@ keywords: заявки по почте, заявки из почты, подач
     </li>
     <p>
     <div>
-        <img style="margin: 0 auto; display: block; max-width: 90%;"
+        <img style="margin: 0 auto; display: block; max-width: 100%;"
              src="/attachments/images/FAQ/ADMIN/TicketMail/Yandex8.jpg"/></div>
     </p>
     <p>
     <div>
-        <img style="margin: 0 auto; display: block; max-width: 90%;"
+        <img style="margin: 0 auto; display: block; max-width: 100%;"
              src="/attachments/images/FAQ/ADMIN/TicketMail/Yandex9.jpg"/></div>
     </p>
     
@@ -425,26 +425,26 @@ keywords: заявки по почте, заявки из почты, подач
 </ol>
 
 <div>
-    <img style="margin: 0 auto; display: block; max-width: 60%;"
+    <img style="margin: 0 auto; display: block; max-width: 45%;"
          src="/attachments/images/FAQ/ADMIN/TicketMail/Mail4.jpg"/>
 </div>
 
 <p>После отправки письма, в системе будет создана <strong>Заявка</strong>. На почту вы получите уведомление о ее
     создании. </p>
 <div>
-    <img style="margin: 0 auto; display: block; max-width: 80%;"
+    <img style="margin: 0 auto; display: block; max-width: 100%;"
          src="/attachments/images/FAQ/ADMIN/TicketMail/Integration20.jpg"/>
 </div>
 <p>
 <div>
-    <img style="margin: 0 auto; display: block; max-width: 80%;"
+    <img style="margin: 0 auto; display: block; max-width: 100%;"
          src="/attachments/images/FAQ/ADMIN/TicketMail/Integration21.jpg"/>
 </div>
 </p>
 <p>После отправки письма, в системе будет создана <strong>Заявка</strong>. На почту вы получите уведомление о ее
     создании. </p>
 <div>
-    <img style="margin: 0 auto; display: block; max-width: 60%;"
+    <img style="margin: 0 auto; display: block; max-width: 45%;"
          src="/attachments/images/FAQ/ADMIN/TicketMail/Mail5.jpg"/>
 </div>
 

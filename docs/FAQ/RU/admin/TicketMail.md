@@ -425,7 +425,7 @@ keywords: заявки по почте, заявки из почты, подач
 </ol>
 
 <div>
-    <img style="margin: 0 auto; display: block; max-width: 45%;"
+    <img style="margin: 0 auto; display: block; max-width: 35%;"
          src="/attachments/images/FAQ/ADMIN/TicketMail/Mail4.jpg"/>
 </div>
 
@@ -444,7 +444,7 @@ keywords: заявки по почте, заявки из почты, подач
 <p>После отправки письма, в системе будет создана <strong>Заявка</strong>. На почту вы получите уведомление о ее
     создании. </p>
 <div>
-    <img style="margin: 0 auto; display: block; max-width: 45%;"
+    <img style="margin: 0 auto; display: block; max-width: 35%;"
          src="/attachments/images/FAQ/ADMIN/TicketMail/Mail5.jpg"/>
 </div>
 

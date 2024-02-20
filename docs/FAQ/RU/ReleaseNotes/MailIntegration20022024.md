@@ -11,8 +11,8 @@ keywords:
 </html>
 <body>
 <p>Новый и более легкий способ настройки интеграции через электронную почту уже доступен в HubEx. Встречайте: интеграция через пересылку!</p>
-<h2>Прием заявок через пересылку</h2>
-<p>Как вы уже знаете, в HubEx уже существует тонкая настройка интеграции с электронной почтой через настройки imap, создание регулярных выражений и различных шаблонов.&nbsp;</p>
+<h4>Прием заявок через пересылку</h4>
+<p>Как вы уже знаете, в HubEx уже существует тонкая настройка интеграции с электронной почтой через настройки imap, создание регулярных выражений и различных шаблонов.</p>
 <p>Наша команда предлагает облегченный вариант настройки интеграции, который не займет у пользователей много времени.&nbsp;</p>
 <p>Интеграция через пересылку предполагает настройку переадресации писем для вашего почтового ящика на специальный ящик, созданный индивидуально для бизнес-аккаунта HubEx. <strong>Заявки</strong> будут создаваться по единому шаблону для тех писем, для которых будет настроена пересылка.</p>
 <p>Как это работает?</p>
@@ -21,7 +21,7 @@ keywords:
 <div><img style="margin: 0 auto; display: block; max-width: 100%;" src="https://wiki.hubex.ru/attachments/images/FAQ/RELEASENOTES/TicketMail/Integration2.jpg" width="800" height="auto" /></div>
 <p>В статье нашей базы знаний&nbsp;<a href="https://wiki.hubex.ru/docs/FAQ/RU/admin/TicketMail.html" target="_blank" rel="noopener">Интеграция по электронной почте, подача заявок по электронной почте</a> мы подробно рассказываем, как настроить пересылку для ящиков Gmail и Yandex. После настройки интеграции по пересылке письма будут трансформироваться в <strong>Заявки</strong> системы HubEx.</p>
 <p>После настройки пересылки заказчики смогут отправлять письма на ваш электронный адрес сервиса Gmail или Yandex.</p>
-<div><img style="margin: 0 auto; display: block; max-width: 100%;" src="https://wiki.hubex.ru/attachments/images/FAQ/RELEASENOTES/TicketMail/Mail4.jpg" width="400" height="auto" /></div>
+<div><img style="margin: 0 auto; display: block; max-width: 100%;" src="https://wiki.hubex.ru/attachments/images/FAQ/RELEASENOTES/TicketMail/Mail4.jpg" width="300" height="auto" /></div>
 <p>А в HubEx такие письма будут приходить, как <strong>Заявки</strong>, которые при необходимости можно редактировать.</p>
 <div><img style="margin: 0 auto; display: block; max-width: 100%;" src="https://wiki.hubex.ru/attachments/images/FAQ/RELEASENOTES/TicketMail/Integration21.jpg" width="800" height="auto" /></div>
 

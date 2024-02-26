@@ -62,6 +62,7 @@ https://wiki.hubex.ru/docs/FAQ/RU/user/HowToSendInvitation.html
 https://wiki.hubex.ru/docs/FAQ/RU/user/SuperAndUsualUser.html
 https://wiki.hubex.ru/docs/FAQ/RU/admin/HowToEnterTheAdmin.html
 https://wiki.hubex.ru/docs/FAQ/RU/admin/Roles.html
+https://wiki.hubex.ru/docs/FAQ/RU/admin/Powers.html
 https://wiki.hubex.ru/docs/FAQ/RU/admin/UI_Permissions.html
 https://wiki.hubex.ru/docs/FAQ/RU/admin/Places.html
 https://wiki.hubex.ru/docs/FAQ/RU/admin/ObjectsType.html

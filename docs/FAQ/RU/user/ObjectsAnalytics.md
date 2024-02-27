@@ -50,7 +50,7 @@ keywords:  hubex, хабекс, хубекс, хабикс
     обновления отображается слева вверху. </p>
 <div>
     <img style="margin: 0 auto; display: block; max-width: 95%;"
-         src="/attachments/images/FAQ/USER/ObjectsAnalytics/MainPage.jpg"/>
+         src="/attachments/images/FAQ/USER/ObjectsAnalitics/MainPage.jpg"/>
 </div>
 <p>Представление панели отчетов основывается на данных в <Strong>Заявках</Strong> в разрезе <Strong>Объектов</Strong>.
     <Strong>Объект (оборудование)</Strong> - элемент инфраструктуры, на который направлено предоставление услуг (видов работ).

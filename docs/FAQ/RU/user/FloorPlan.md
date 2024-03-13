@@ -35,7 +35,7 @@ keywords:  hubex, хабекс, хубекс, хабикс
 <p>План помещения добавляется индивидуально в карточке <Strong>Объекта</Strong> на вкладке <Strong>Объект|Оборудование</Strong> в поле <Strong>План объекта</Strong>. Для каждого <Strong>Объекта</Strong> может
     быть добавлен только один план, загруженный в формате .jpg, .jpeg, .png.</p>
 <div>
-    <img style="margin: 0 auto; display: block; max-width: 80%;"
+    <img style="margin: 0 auto; display: block; max-width: 95%;"
          src="/attachments/images/FAQ/USER/FloorPlan/Object.jpg"/>
 </div>
 
@@ -48,7 +48,7 @@ keywords:  hubex, хабекс, хубекс, хабикс
 
 <p>Заданное расположение по умолчанию будет отображаться на плане при подаче <Strong>Заявки</Strong>. При необходимости расположение места поломки или объекта можно будет изменить прямо в <Strong>Заявке</Strong>. </p>
   <div>
-    <img style="margin: 0 auto; display: block; max-width: 80%;"
+    <img style="margin: 0 auto; display: block; max-width: 95%;"
          src="/attachments/images/FAQ/USER/FloorPlan/PlanInObject.jpg"/>
 </div>  
 
@@ -62,19 +62,19 @@ keywords:  hubex, хабекс, хубекс, хабикс
  <p>Обратите внимание! При установке нового месторасположения в <Strong>Заявке</Strong> расположение по умолчанию в карточке <Strong>Объекта</Strong> изменено НЕ будет. </p>   
 
 <div>
-    <img style="margin: 0 auto; display: block; max-width: 80%;"
+    <img style="margin: 0 auto; display: block; max-width: 95%;"
          src="/attachments/images/FAQ/USER/FloorPlan/PlanInTicket.jpg"/>
 </div>
 
 <p><div>
-    <img style="margin: 0 auto; display: block; max-width: 80%;"
+    <img style="margin: 0 auto; display: block; max-width: 95%;"
          src="/attachments/images/FAQ/USER/FloorPlan/Plan.jpg"/>
 </div></p>
 
 <p>Если план помещений не был загружен в карточку <Strong>Объекта</Strong>, то при подаче <Strong>Заявки</Strong> отобразится подсказка о том, что план можно
     добавить к <Strong>Объекту</Strong>.</p>
 <div>
-    <img style="margin: 0 auto; display: block; max-width: 80%;"
+    <img style="margin: 0 auto; display: block; max-width: 95%;"
          src="/attachments/images/FAQ/USER/FloorPlan/PlanInTicket3.jpg"/>
 </div>
 <p>Если план помещения будет загружен для родительского объекта, то при выборе в <Strong>Заявке</Strong> дочерних объектов, если у
@@ -86,7 +86,7 @@ keywords:  hubex, хабекс, хубекс, хабикс
 <p>Если у родительского объекта будет свой план и у дочернего свой, то при подаче <Strong>Заявки</Strong> можно будет выбрать любой из
     них.</p>
 <div>
-    <img style="margin: 0 auto; display: block; max-width: 80%;"
+    <img style="margin: 0 auto; display: block; max-width: 95%;"
          src="/attachments/images/FAQ/USER/FloorPlan/PlanInTicket2.jpg"/>
 </div>
 

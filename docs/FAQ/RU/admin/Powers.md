@@ -485,7 +485,7 @@ keywords: роль, полномочия, hubex, хабекс, хубекс, х�
                     - Справочники</Strong></a>;
             </li>
             <div>
-                <img style="margin: 0 auto; display: block; max-width: 45%;"
+                <img style="margin: 0 auto; display: block; max-width: 35%;"
                      src="/attachments/images/FAQ/ADMIN/Powers/Ticket5.jpg"/>
             </div>
 

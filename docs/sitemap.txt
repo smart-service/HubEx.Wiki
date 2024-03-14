@@ -189,5 +189,6 @@ https://wiki.hubex.ru/docs/FAQ/RU/ReleaseNotes/Schedules13022024.html
 https://wiki.hubex.ru/docs/FAQ/RU/ReleaseNotes/MailIntegration20022024.html
 https://wiki.hubex.ru/docs/FAQ/RU/ReleaseNotes/FilterAdditionalFields28022024.html
 https://wiki.hubex.ru/docs/FAQ/RU/ReleaseNotes/FloorPlanDefault13032024.html
+https://wiki.hubex.ru/docs/FAQ/RU/ReleaseNotes/CalendarTickets18032024.html
 https://wiki.hubex.ru/docs/FAQ/RU/ReleaseNotes/EngineerApp.html
 https://wiki.hubex.ru/docs/FAQ/RU/ReleaseNotes/CustomerApp.html

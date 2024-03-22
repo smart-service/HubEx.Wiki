@@ -65,7 +65,11 @@
 
 
  <h4 style="padding-left: 20px;">
-    <a href="/docs/FAQ/RU/user/UsersRequests.html">Инициатор заявки: создание инициатора, история обращений</a><span class="new-badge" title="07.11.2023"></span></h4>
+    <a href="/docs/FAQ/RU/user/UsersRequests.html">Инициатор заявки: создание инициатора, история обращений</a></h4>
+
+<!--Пример отображения статьи с тегом span
+<h4 style="padding-left: 20px;">
+    <a href="/docs/FAQ/RU/user/UsersRequests.html">Инициатор заявки: создание инициатора, история обращений</a><span class="new-badge" title="07.11.2023"></span></h4>-->
 
  <h4 style="padding-left: 20px;">
     <a href="/docs/FAQ/RU/user/ChildTicket.html">Дочерние заявки</a></h4>

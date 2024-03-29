@@ -30,7 +30,7 @@ description:(Новая)
 <p>Создать новую <strong>Компанию</strong> можно в меню <strong>Компании</strong> по кнопке <strong>Создать компанию</strong>.
 
 <div>
-        <img style="margin: 0 auto; display: block;  width: 95%;"
+        <img style="margin: 0 auto; display: block;  width:100%"
              src="/attachments/images/FAQ/USER/CreatingCompanyNew/CreateCompanyNew1.png"/>
 </div>
 
@@ -57,7 +57,8 @@ description:(Новая)
 <img style="margin: 0 auto; display: block;  width: 200%;"
              src="/attachments/images/FAQ/USER/CreatingCompanyNew/CreatingCompanyNew2.png"/>
 
-    </ol>
+</ol>
+
 		<li><strong>Название компании:</strong> Наименование компании;</li>
         <li><strong>Тип контрагента</strong>: Индивидуальный предприниматель, Физическое лицо, Юридическое лицо.</li>
         <li><strong>Телефон:</strong> Телефон компании;</li>
@@ -168,12 +169,23 @@ description:(Новая)
             href="https://wiki.hubex.ru/docs/FAQ/RU/user/Export.html#companies">Экспорта</a>.</p>
             
 <h5 id="company8">Для интеграций (дополнительно)</h5>
-    
+
+<ol>
+
 <li><strong>ERP ID</strong>: идентификатор <strong>Компании</strong> во внешней системе, например, 1С или Битрикс,
-            который используется при интеграции;
-</li><br>
+            который используется при интеграции;</li>
+</ol>
+
+
+
 
 </body>
+
+
+
+
+
+
 
 ### Следующие шаги:
 - [Ввод обслуживаемого оборудования](./CreatingObjects.md)

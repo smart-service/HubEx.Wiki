@@ -30,8 +30,8 @@ description:(Новая)
 <p>Создать новую <strong>Компанию</strong> можно в меню <strong>Компании</strong> по кнопке <strong>Создать компанию</strong>.
 
 <div>
-        <img style="margin: 0 auto; display: block;  width: 200%;"
-             src="/attachments/images/FAQ/USER/CreatingCompanyNew/CreatingCompanyNew.png"/>
+        <img style="margin: 0 auto; display: block;  width: 95%;"
+             src="/attachments/images/FAQ/USER/CreatingCompanyNew/CreateCompanyNew1.png"/>
 </div>
 
 <br>

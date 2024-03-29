@@ -57,7 +57,7 @@ description:(Новая)
 <img style="margin: 0 auto; display: block;  width:100%" src="/attachments/images/FAQ/USER/CreatingCompanyNew/CreateCompanyNew2.png"/>
 </div>
 
-
+<br>
 
 <li><strong>Название компании:</strong> Наименование компании;</li>
 <li><strong>Тип контрагента</strong>: Индивидуальный предприниматель, Физическое лицо, Юридическое лицо.</li>
@@ -67,7 +67,9 @@ description:(Новая)
 <li><strong>Код компании</strong> - идентификатор для <strong>Заявок</strong> от этой <strong>Компании</strong> (Используется в маске номера заявки для определенного типа заявки;</li>
 <li><strong>Фактический адрес:</strong> - адрес компании;</li>
 <li><strong>Файлы</strong>: вы можете прикрепить любые файлы, например, дополнительное соглашение с компанией или любые другие важные документы;</li>
-<br>    
+
+<br>
+
 <div>
 <img style="margin: 0 auto; display: block;  width:100%" src="/attachments/images/FAQ/USER/CreatingCompanyNew/CreateCompanyNew3.png"/>
 </div>
@@ -122,12 +124,19 @@ description:(Новая)
 
 <h5 id="company4">Контактные лица</h5>
 
-<li>По кнопке <strong>Добавить</strong> можно внести одно или несколько контактных
-            лиц для связи.
+<p>По кнопке <strong>Добавить</strong> можно внести одно или несколько контактных лиц для связи:<p>
             
-            *Скриншот
+<div>
+<img style="margin: 0 auto; display: block;  width:100%" src="/attachments/images/FAQ/USER/CreatingCompanyNew/CreateCompanyNew10.png"/>
+</div>
 
-Подробнее вы можете почитать в статье: <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/Contacts.html#company">Как заполнить контактные лица в карточке Компании</a>
+<p>Контакт можно выбрать либо уже ранее созданный из списка, либо создать новый по кнопке "+"</p>
+
+<div>
+<img style="margin: 0 auto; display: block;  width:100%" src="/attachments/images/FAQ/USER/CreatingCompanyNew/CreateCompanyNew11.png"/>
+</div>
+
+Подробнее о контактных лицах вы можете почитать в статье: <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/Contacts.html#company">Как заполнить контактные лица в карточке Компании</a>
 
 <h5 id="company5">Юридические и банковские реквизиты</h5>
 
@@ -135,13 +144,17 @@ description:(Новая)
         <p>Обратите внимание! Юридические реквизиты можно заполнить автоматически по данным ИНН: введите ИНН и нажмите кнопку <strong>+Заполнить по ИНН</strong>.</p>
 </li>
 
-<li><strong>Банковские реквизиты</strong>: платежные реквизиты вашей <strong>Компании</strong> будут фигурировать в
-            <strong>Акте выполненных
-                работ</strong> и <strong>Счете на оплату</strong> для покупателя. По ним <strong>Заказчики</strong> смогут
-            оплатить ваши услуги. Если вы не нашли в списке необходимый банк, напишите в Чат с
-            поддержкой в web-приложении или на почту <a href="mailto:support@hubex.ru" target="_blank" rel="noopener">
-                support@hubex.ru</a>;
+<li><strong>Банковские реквизиты</strong>: платежные реквизиты вашей <strong>Компании</strong> будут фигурировать в <strong>Акте выполненных работ</strong> 
+и <strong>Счете на оплату</strong> для покупателя. По ним <strong>Заказчики</strong> смогут оплатить ваши услуги. 
+Если вы не нашли в списке необходимый банк, напишите в Чат с поддержкой в web-приложении 
+или на почту <a href="mailto:support@hubex.ru" target="_blank" rel="noopener"> support@hubex.ru</a>;
 </li>
+
+<br>
+
+<div>
+<img style="margin: 0 auto; display: block;  width:100%" src="/attachments/images/FAQ/USER/CreatingCompanyNew/CreateCompanyNew12.png"/>
+</div>
 
 <h5 id="company6">Договоры</h5>
 
@@ -153,11 +166,11 @@ description:(Новая)
 <p>Создать новый договор можно на вкладке <strong>Договоры</strong> в карточке <strong>Компании</strong>.</p>
 
 <div>
-        <img style="margin: 0 auto; display: block; max-width: 95%;"
-             src="/attachments/images/FAQ/USER/CreatingCompany/Contract.jpg"/>
+        <img style="margin: 0 auto; display: block; max-width: 95%;" src="/attachments/images/FAQ/USER/CreatingCompany/Contract.jpg"/>
 </div>
 
 <p>Рассмотрим заполнение полей <strong>Договора</strong>:</p>
+
 <ul>
         <li>в карточке <strong>Договора</strong> обязательным для заполнения является поле <strong>Наименование и номер договора</strong>;</li>
         <li>поля <strong>Описание</strong> и <strong>Условия договора</strong> заполняются в свободной форме - это дополнительная информация о деталях договора;</li>
@@ -169,16 +182,14 @@ description:(Новая)
 
 
 <div>
-        <img style="margin: 0 auto; display: block; max-width: 95%;"
-             src="/attachments/images/FAQ/USER/CreatingCompany/Contract2.jpg"/>
+        <img style="margin: 0 auto; display: block; max-width: 95%;" src="/attachments/images/FAQ/USER/CreatingCompany/Contract2.jpg"/>
 </div>
 
 <p>Для договоров также предусмотрено создание дополнительных полей. Подробнее читайте в статье: <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/AdditionalFieldsContract.html">Создание дополнительных полей для договора</a>.</p>
 
 <p>Обратите внимание! В <strong>Заявке</strong> выбрать договор можно будет только после выбора <strong>Объекта</strong>. В случае просрочки договора в <strong>Заявке</strong> вы увидите соответствующую информационную подсказку.</p>
     <div>
-        <img style="margin: 0 auto; display: block; max-width: 95%;"
-             src="/attachments/images/FAQ/USER/CreatingCompany/Ticket.jpg"/>
+        <img style="margin: 0 auto; display: block; max-width: 95%;" src="/attachments/images/FAQ/USER/CreatingCompany/Ticket.jpg"/>
     </div>
     
 <h5 id="company7">Импорт и экспорт</h5>
@@ -187,17 +198,20 @@ description:(Новая)
             href="https://wiki.hubex.ru/docs/FAQ/RU/user/Import.html#companies">Импорта</a>.</p>
 <p> Выгрузить информацию по <strong>Компаниям</strong> из системы HubEx можно с помощью функции <a
             href="https://wiki.hubex.ru/docs/FAQ/RU/user/Export.html#companies">Экспорта</a>.</p>
+
+<div>
+<img style="margin: 0 auto; display: block;  width:100%" src="/attachments/images/FAQ/USER/CreatingCompanyNew/CreateCompanyNew13.png"/>
+</div>
             
 <h5 id="company8">Для интеграций (дополнительно)</h5>
 
 <ol>
-
-<li><strong>ERP ID</strong>: идентификатор <strong>Компании</strong> во внешней системе, например, 1С или Битрикс,
-            который используется при интеграции;</li>
+<li><strong>ERP ID</strong>: идентификатор <strong>Компании</strong> во внешней системе, например, 1С или Битрикс, который используется при интеграции;</li>
 </ol>
 
-
-
+<div>
+<img style="margin: 0 auto; display: block;  width:100%" src="/attachments/images/FAQ/USER/CreatingCompanyNew/CreateCompanyNew14.png"/>
+</div>
 
 </body>
 

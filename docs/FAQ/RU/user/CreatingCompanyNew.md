@@ -16,7 +16,7 @@ description:(Новая)
     <li><a href="#company5">Юридические и банковские реквизиты;</a></li>
     <li><a href="#company6">Договоры;</a></li>
     <li><a href="#company7">Импорт и экспорт;</a></li>
-    <li><a href="#company8">Для интеграций (дополнительно);</a></li>
+    <li><a href="#company8">Для интеграций (дополнительно).</a></li>
 </ul>
 </html>
 
@@ -217,12 +217,11 @@ description:(Новая)
 <img style="margin: 0 auto; display: block;  width:100%" src="/attachments/images/FAQ/USER/CreatingCompanyNew/CreateCompanyNew14.png"/>
 </div>
 
+
+
+
+
 </body>
-
-
-
-
-
 
 
 ### Следующие шаги:

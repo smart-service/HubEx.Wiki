@@ -5,7 +5,7 @@ description:(Новая)
 
 #### Создание обслуживаемых компаний (Новая)
 В этом разделе вы узнаете
-<html>
+<html lang="ru">
 <meta charset="utf-8">
 <p>Содержание статьи:</p>
 <ul>
@@ -21,17 +21,16 @@ description:(Новая)
 </html>
 
 <body>
-<h5 id="company1">Что такое компании в HubEx</h5>
+<h5 id="company1">Что такое "Компания" в HubEx</h5>
 
 <p><strong>Компании</strong> – это юридические или физические лица, которые выступают заказчиками и (или) подрядчиками. Также в справочник <strong>Компании</strong> вносятся данные по организации, от лица которой ведется учет в системе (наша компания).</p>
         
-<h5 id="company2">Основные поля для заполнения</h5>
+<h5 id="company2">Основные поля для создания компании</h5>
 
 <p>Создать новую <strong>Компанию</strong> можно в меню <strong>Компании</strong> по кнопке <strong>Создать компанию</strong>.
 
 <div>
-        <img style="margin: 0 auto; display: block;  width:100%"
-             src="/attachments/images/FAQ/USER/CreatingCompanyNew/CreateCompanyNew1.png"/>
+<img style="margin: 0 auto; display: block;  width:100%" src="/attachments/images/FAQ/USER/CreatingCompanyNew/CreateCompanyNew1.png"/>
 </div>
 
 <br>
@@ -47,19 +46,18 @@ description:(Новая)
                 <li>создания пользователей, которые могут работать с заявками в мобильном приложении заказчика.</li>
             </ul>
         </li>
-        <li>Наша компания - компания, от лица которой ведется учет в системе HubEx. Ввод данных нашей компании необходим для:
+        <li>Наша компания - компания, от лица которой ведется учет в системе HubEx. Ввод данных нашей компании необходим для:</li>
             <ul>
                 <li>формирования платежных документов для заказчика: банковские реквизиты для оплаты отражаются в Акте выполненных работ и Счете на оплату;</li>
                 <li>создания пользователей, которые могут работать в системе в web и мобильном приложении исполнителя.</li>
             </ul>
-</li>
+    </ol>
 
 <div>
-        <img style="margin: 0 auto; display: block;  width:100%"
-             src="/attachments/images/FAQ/USER/CreatingCompanyNew/CreateCompanyNew2.png"/>
+<img style="margin: 0 auto; display: block;  width:100%" src="/attachments/images/FAQ/USER/CreatingCompanyNew/CreateCompanyNew2.png"/>
 </div>
 
-</ol>
+
 
 <li><strong>Название компании:</strong> Наименование компании;</li>
 <li><strong>Тип контрагента</strong>: Индивидуальный предприниматель, Физическое лицо, Юридическое лицо.</li>
@@ -69,37 +67,36 @@ description:(Новая)
 <li><strong>Код компании</strong> - идентификатор для <strong>Заявок</strong> от этой <strong>Компании</strong> (Используется в маске номера заявки для определенного типа заявки;</li>
 <li><strong>Фактический адрес:</strong> - адрес компании;</li>
 <li><strong>Файлы</strong>: вы можете прикрепить любые файлы, например, дополнительное соглашение с компанией или любые другие важные документы;</li>
-    
+<br>    
 <div>
-        <img style="margin: 0 auto; display: block;  width:100%"
-             src="/attachments/images/FAQ/USER/CreatingCompanyNew/CreateCompanyNew3.png"/>
+<img style="margin: 0 auto; display: block;  width:100%" src="/attachments/images/FAQ/USER/CreatingCompanyNew/CreateCompanyNew3.png"/>
 </div>
 
 <h5 id="company3">Что представляет собой список компаний</h5>
     
    <p>Список всех созданных компаний в бизнес-аккаунте HubEx представляет собой карточный вид:</p>
    
-   <div>
-        <img style="margin: 0 auto; display: block;  width:100%"
-             src="/attachments/images/FAQ/USER/CreatingCompanyNew/CreateCompanyNew4.png"/>
+<div>
+<img style="margin: 0 auto; display: block;  width:100%" src="/attachments/images/FAQ/USER/CreatingCompanyNew/CreateCompanyNew4.png"/>
 </div>
    
-   <p>Вы можете фильтровать список всех созданных компаний по фильтрам слева:</p>
+<p>Вы можете фильтровать список всех созданных компаний по фильтрам слева:</p>
    
 <div>
-        <img style="margin: 0 auto; display: block;  width:100%"
-             src="/attachments/images/FAQ/USER/CreatingCompanyNew/CreateCompanyNew5.png"/>
+<img style="margin: 0 auto; display: block;  width:100%" src="/attachments/images/FAQ/USER/CreatingCompanyNew/CreateCompanyNew5.png"/>
 </div>
    
-   <p>Карточка компании отображает:</p>
+<p>Карточка компании отображает:</p>
+
+<ol>
 <li>Название компании;</li>
 <li>Вид компании;</li>
 <li>Количество объектов/оборудования, принадлежащих к компании;</li>
 <li>Количество пользователей, закрепленных за компанией.</li>
+</ol>
 
 <div>
-        <img style="margin: 0 auto; display: block;  width:100%"
-             src="/attachments/images/FAQ/USER/CreatingCompanyNew/CreateCompanyNew6.png"/>
+<img style="margin: 0 auto; display: block;  width:100%" src="/attachments/images/FAQ/USER/CreatingCompanyNew/CreateCompanyNew6.png"/>
 </div>
 
 <p>Если перейти в уже созданную компанию, то вы сможете посмотреть:</p>
@@ -107,21 +104,20 @@ description:(Новая)
 <li>Количество заказчиков, принадлежащих к выбранной компании;</li>
 <li>Количество заявок, созданных на объекты/оборудование, принадлежащих к выбранной компании;</li>
 
+<br>
+
 <div>
-        <img style="margin: 0 auto; display: block;  width:100%"
-             src="/attachments/images/FAQ/USER/CreatingCompanyNew/CreateCompanyNew7.png"/>
+<img style="margin: 0 auto; display: block;  width:100%" src="/attachments/images/FAQ/USER/CreatingCompanyNew/CreateCompanyNew7.png"/>
 </div>
 
 <div>
-        <img style="margin: 0 auto; display: block;  width:100%"
-             src="/attachments/images/FAQ/USER/CreatingCompanyNew/CreateCompanyNew8.png"/>
+<img style="margin: 0 auto; display: block;  width:100%" src="/attachments/images/FAQ/USER/CreatingCompanyNew/CreateCompanyNew8.png"/>
 </div>
 
-<li>Также вы сможете просмотреть список объектов, принадлежащих к выбранной компании.</li>
+<p>Также вы сможете просмотреть список объектов, принадлежащих к выбранной компании.</p>
 
 <div>
-        <img style="margin: 0 auto; display: block;  width:100%"
-             src="/attachments/images/FAQ/USER/CreatingCompanyNew/CreateCompanyNew9.png"/>
+<img style="margin: 0 auto; display: block;  width:100%" src="/attachments/images/FAQ/USER/CreatingCompanyNew/CreateCompanyNew9.png"/>
 </div>
 
 <h5 id="company4">Контактные лица</h5>
@@ -152,8 +148,7 @@ description:(Новая)
 <p>Договор (или контракт) необходим для фиксации взаимоотношений с клиентом. С его помощью можно отслеживать сроки действия и классифицировать <strong>Заявки</strong>. </p>
 
 <p>Прочтите инструкцию ниже или ознакомьтесь с обучающим видеороликом <strong>Договор в HubEx: как создать договор на объект/оборудование</strong>.</p>
-<iframe src="https://www.youtube.com/embed/uVLKXbTjuik" width="100%" height="450px" frameborder="0"
-        allowfullscreen="allowfullscreen"></iframe>
+<iframe src="https://www.youtube.com/embed/uVLKXbTjuik" width="100%" height="450px" allowfullscreen="allowfullscreen"></iframe>
 
 <p>Создать новый договор можно на вкладке <strong>Договоры</strong> в карточке <strong>Компании</strong>.</p>
 
@@ -205,12 +200,6 @@ description:(Новая)
 
 
 </body>
-
-
-
-
-
-
 
 ### Следующие шаги:
 - [Ввод обслуживаемого оборудования](./CreatingObjects.md)

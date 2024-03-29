@@ -9,9 +9,9 @@ description:(Новая)
 <meta charset="utf-8">
 <p>Содержание статьи:</p>
 <ul>
-	<li><a href="#company1">Что такое компании в HubEx;</a></li>
-    <li><a href="#company2">Основные поля для заполнения;</a></li>
-    <li><a href="#company3">Что представляет собой список компаний;</a></li>
+	<li><a href="#company1">Что такое "Компания" в HubEx;</a></li>
+    <li><a href="#company2">Основные поля для создания компании;</a></li>
+    <li><a href="#company3">Что представляет собой список созданных компаний;</a></li>
     <li><a href="#company4">Контактные лица;</a></li>
     <li><a href="#company5">Юридические и банковские реквизиты</a></li>
     <li><a href="#company6">Договоры</a></li>
@@ -54,50 +54,75 @@ description:(Новая)
             </ul>
 </li>
 
-<img style="margin: 0 auto; display: block;  width: 200%;"
-             src="/attachments/images/FAQ/USER/CreatingCompanyNew/CreatingCompanyNew2.png"/>
+<div>
+        <img style="margin: 0 auto; display: block;  width:100%"
+             src="/attachments/images/FAQ/USER/CreatingCompanyNew/CreateCompanyNew2.png"/>
+</div>
 
 </ol>
 
-		<li><strong>Название компании:</strong> Наименование компании;</li>
-        <li><strong>Тип контрагента</strong>: Индивидуальный предприниматель, Физическое лицо, Юридическое лицо.</li>
-        <li><strong>Телефон:</strong> Телефон компании;</li>
-        <li><strong>Веб-сайт:</strong> Веб-сайт компании;</li>
-        <li><strong>Электронная почта:</strong> E-mail компании;</li>
-        <li><strong>Код компании</strong> - идентификатор для <strong>Заявок</strong> от этой <strong>Компании</strong> (Используется в маске номера заявки для определенного типа заявки;</li>
-        <li><strong>Фактический адрес:</strong> - адрес компании;</li>
-        <li><strong>Файлы</strong>: вы можете прикрепить любые файлы, например, дополнительное соглашение с компанией или любые другие важные документы;</li>
+<li><strong>Название компании:</strong> Наименование компании;</li>
+<li><strong>Тип контрагента</strong>: Индивидуальный предприниматель, Физическое лицо, Юридическое лицо.</li>
+<li><strong>Телефон:</strong> Телефон компании;</li>
+<li><strong>Веб-сайт:</strong> Веб-сайт компании;</li>
+<li><strong>Электронная почта:</strong> E-mail компании;</li>
+<li><strong>Код компании</strong> - идентификатор для <strong>Заявок</strong> от этой <strong>Компании</strong> (Используется в маске номера заявки для определенного типа заявки;</li>
+<li><strong>Фактический адрес:</strong> - адрес компании;</li>
+<li><strong>Файлы</strong>: вы можете прикрепить любые файлы, например, дополнительное соглашение с компанией или любые другие важные документы;</li>
     
-<img style="margin: 0 auto; display: block;  width: 200%;"
-             src="/attachments/images/FAQ/USER/CreatingCompanyNew/CreatingCompanyNew3.png"/>
+<div>
+        <img style="margin: 0 auto; display: block;  width:100%"
+             src="/attachments/images/FAQ/USER/CreatingCompanyNew/CreateCompanyNew3.png"/>
+</div>
 
 <h5 id="company3">Что представляет собой список компаний</h5>
     
    <p>Список всех созданных компаний в бизнес-аккаунте HubEx представляет собой карточный вид:</p>
    
-   <p>*Скриншот*</p>
+   <div>
+        <img style="margin: 0 auto; display: block;  width:100%"
+             src="/attachments/images/FAQ/USER/CreatingCompanyNew/CreateCompanyNew4.png"/>
+</div>
    
    <p>Вы можете фильтровать список всех созданных компаний по фильтрам слева:</p>
    
-   <p>*Скриншот*</p>
+<div>
+        <img style="margin: 0 auto; display: block;  width:100%"
+             src="/attachments/images/FAQ/USER/CreatingCompanyNew/CreateCompanyNew5.png"/>
+</div>
    
    <p>Карточка компании отображает:</p>
+<li>Название компании;</li>
 <li>Вид компании;</li>
 <li>Количество объектов/оборудования, принадлежащих к компании;</li>
 <li>Количество пользователей, закрепленных за компанией.</li>
 
-<p>*Скриншот*</p>
+<div>
+        <img style="margin: 0 auto; display: block;  width:100%"
+             src="/attachments/images/FAQ/USER/CreatingCompanyNew/CreateCompanyNew6.png"/>
+</div>
 
 <p>Если перейти в уже созданную компанию, то вы сможете посмотреть:</p>
 <li>Количество сотрудников, принадлежащих к выбранной компании;</li>
 <li>Количество заказчиков, принадлежащих к выбранной компании;</li>
 <li>Количество заявок, созданных на объекты/оборудование, принадлежащих к выбранной компании;</li>
 
-<p>*Скриншот*</p>
+<div>
+        <img style="margin: 0 auto; display: block;  width:100%"
+             src="/attachments/images/FAQ/USER/CreatingCompanyNew/CreateCompanyNew7.png"/>
+</div>
+
+<div>
+        <img style="margin: 0 auto; display: block;  width:100%"
+             src="/attachments/images/FAQ/USER/CreatingCompanyNew/CreateCompanyNew8.png"/>
+</div>
 
 <li>Также вы сможете просмотреть список объектов, принадлежащих к выбранной компании.</li>
 
-<p>*Скриншот*</p>
+<div>
+        <img style="margin: 0 auto; display: block;  width:100%"
+             src="/attachments/images/FAQ/USER/CreatingCompanyNew/CreateCompanyNew9.png"/>
+</div>
 
 <h5 id="company4">Контактные лица</h5>
 

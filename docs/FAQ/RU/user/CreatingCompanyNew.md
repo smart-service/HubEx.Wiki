@@ -30,7 +30,7 @@ description:(Новая)
 <p>Создать новую <strong>Компанию</strong> можно в меню <strong>Компании</strong> по кнопке <strong>Создать компанию</strong>.
 
 <div>
-        <img style="margin: 0 auto; display: block;  width: 99%;"
+        <img style="margin: 0 auto; display: block;  width: 200%;"
              src="/attachments/images/FAQ/USER/CreatingCompanyNew/CreatingCompanyNew.png"/>
 </div>
 
@@ -54,7 +54,7 @@ description:(Новая)
             </ul>
 </li>
 
-<img style="margin: 0 auto; display: block;  width: 99%;"
+<img style="margin: 0 auto; display: block;  width: 200%;"
              src="/attachments/images/FAQ/USER/CreatingCompanyNew/CreatingCompanyNew2.png"/>
 
     </ol>
@@ -67,7 +67,7 @@ description:(Новая)
         <li><strong>Фактический адрес:</strong> - адрес компании;</li>
         <li><strong>Файлы</strong>: вы можете прикрепить любые файлы, например, дополнительное соглашение с компанией или любые другие важные документы;</li>
     
-<img style="margin: 0 auto; display: block;  width: 99%;"
+<img style="margin: 0 auto; display: block;  width: 200%;"
              src="/attachments/images/FAQ/USER/CreatingCompanyNew/CreatingCompanyNew3.png"/>
 
 <h5 id="company3">Что представляет собой список компаний</h5>

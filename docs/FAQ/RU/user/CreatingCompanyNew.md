@@ -18,6 +18,7 @@ description:(Новая)
     <li><a href="#company7">Импорт и экспорт;</a></li>
     <li><a href="#company8">Для интеграций (дополнительно).</a></li>
 </ul>
+
 </html>
 
 <body>
@@ -30,6 +31,7 @@ description:(Новая)
 <h5 id="company2">Основные поля для создания компании</h5>
 
 <p>Создать новую <strong>Компанию</strong> можно в меню <strong>Компании</strong> по кнопке <strong>Создать компанию</strong>.
+</p>
 
 <div>
 <img style="margin: 0 auto; display: block;  width:100%" src="/attachments/images/FAQ/USER/CreatingCompanyNew/CreateCompanyNew1.png"/>

@@ -37,13 +37,13 @@ description:(Новая)
 <img style="margin: 0 auto; display: block;  width:100%" src="/attachments/images/FAQ/USER/CreatingCompanyNew/CreateCompanyNew1.png"/>
 </div>
 
-<br>
+
 <p>Основные поля для заполнения в карточке компании:</p>
 <ul>
 <li><strong>Вид компании:</strong>
     <ol>
         <li>Компания-подрядчик - компания, взявшая на себя обязательства выполнить определенную работу по оказанию работ/услуг.;</li>
-        <li>Компании-заказчики - компания, заинтересованная в выполнении работ/услуг нашей компанией или компанией-подрядчиком, как правило, выступает инициатором и потребителем работ/услуг.;<br/>
+        <li>Компании-заказчики - компания, заинтересованная в выполнении работ/услуг нашей компанией или компанией-подрядчиком, как правило, выступает инициатором и потребителем работ/услуг.;
         Компании-заказчики необходимы для:
             <ul>
                 <li>учета заявок в разрезе объектов заказчиков;</li>
@@ -63,7 +63,7 @@ description:(Новая)
 <img style="margin: 0 auto; display: block;  width:100%" src="/attachments/images/FAQ/USER/CreatingCompanyNew/CreateCompanyNew2.png"/>
 </div>
 
-<br>
+
 
 <li><strong>Название компании</strong>: Наименование компании;</li>
 <li><strong>Тип контрагента</strong>: Индивидуальный предприниматель, Физическое лицо, Юридическое лицо.</li>
@@ -74,7 +74,7 @@ description:(Новая)
 <li><strong>Фактический адрес</strong>: Адрес компании;</li>
 <li><strong>Файлы</strong>: Вы можете прикрепить любые файлы, например, дополнительное соглашение с компанией или любые другие важные документы.</li>
 </ul>
-<br>
+
 
 <div>
 <img style="margin: 0 auto; display: block;  width:100%" src="/attachments/images/FAQ/USER/CreatingCompanyNew/CreateCompanyNew3.png"/>
@@ -113,7 +113,7 @@ description:(Новая)
 <li>Количество заказчиков, принадлежащих к выбранной компании;</li>
 <li>Количество заявок, созданных на объекты/оборудование, принадлежащих к выбранной компании;</li>
 </ul>
-<br>
+
 
 <div>
 <img style="margin: 0 auto; display: block;  width:100%" src="/attachments/images/FAQ/USER/CreatingCompanyNew/CreateCompanyNew7.png"/>
@@ -142,7 +142,7 @@ description:(Новая)
 <div>
 <img style="margin: 0 auto; display: block;  width:100%" src="/attachments/images/FAQ/USER/CreatingCompanyNew/CreateCompanyNew11.png"/>
 </div>
-<br>
+
 
 Подробнее о контактных лицах вы можете почитать в статье: <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/Contacts.html#company">Как заполнить контактные лица в карточке Компании</a>.
 
@@ -161,7 +161,7 @@ description:(Новая)
 или на почту <a href="mailto:support@hubex.ru" target="_blank" rel="noopener"> support@hubex.ru</a>.
 </li>
 </ul>
-<br>
+
 
 <div>
 <img style="margin: 0 auto; display: block;  width:100%" src="/attachments/images/FAQ/USER/CreatingCompanyNew/CreateCompanyNew12.png"/>

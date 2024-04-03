@@ -132,7 +132,7 @@ description: (Новая)
 
 <h5 id="company4">Контактные лица</h5>
 
-<p>По кнопке <strong>Добавить контактное лицо</strong> можно внести одно или несколько контактных лиц для связи:<p>
+<p>По кнопке <strong>Добавить контактное лицо</strong> можно внести одно или несколько контактных лиц для связи:</p>
             
 <div>
 <img style="margin: 0 auto; display: block;  width:100%" src="/attachments/images/FAQ/USER/CreatingCompanyNew/CreateCompanyNew10.png"/>

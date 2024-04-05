@@ -89,7 +89,7 @@ description: (Новая)
 <img style="margin: 0 auto; display: block;  width:100%" src="/attachments/images/FAQ/USER/CreatingCompanyNew/CreateCompanyNew4.png"/>
 </div>
    
-<p>Вы можете фильтровать список всех созданных компаний по фильтрам слева:</p>
+<p>Вы можете фильтровать список всех созданных компаний по фильтрам справа:</p>
    
 <div>
 <img style="margin: 0 auto; display: block;  width:100%" src="/attachments/images/FAQ/USER/CreatingCompanyNew/CreateCompanyNew5.png"/>

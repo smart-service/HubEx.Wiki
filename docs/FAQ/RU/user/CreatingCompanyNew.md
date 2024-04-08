@@ -3,7 +3,7 @@ title: Создание обслуживаемых компаний (Новая)
 description: (Новая)
 ---
 
-<h1>Создание обслуживаемых компаний (Новая)</h1>
+<h3>Создание обслуживаемых компаний (Новая)</h4>
 
 <html>
 <meta charset="utf-8">
@@ -23,13 +23,13 @@ description: (Новая)
 </html>
 
 <body>
-<h2 id="company1">Что такое "Компания" в HubEx</h2>
+<h4 id="company1">Что такое "Компания" в HubEx</h4>
 
 <p><strong>Компании</strong> – это юридические или физические лица, которые выступают заказчиками и (или) подрядчиками. Также в справочник <strong>Компании</strong> вносятся данные по организации, от лица которой ведется учет в системе (наша компания).</p>
 
 <p>Компании привязываются к объектам/оборудованию, к сотрудникам и заказчикам. В дальнейшем компании участвуют в распределении полномочий между сотрудниками и заказчиками. Например, за компанией "ООО Ромашка" закреплен один заказчик и две единицы оборудования, соответственно заказчик будет видеть только то оборудование, которое закреплено за его компанией.</p>
         
-<h2 id="company2">Основные поля для создания компании</h2>
+<h4 id="company2">Основные поля для создания компании</h4>
 
 <p>Создать новую <strong>Компанию</strong> можно в меню <strong>Компании</strong> по кнопке <strong>Создать компанию</strong>.
 </p>
@@ -81,7 +81,7 @@ description: (Новая)
 <img style="margin: 0 auto; display: block;  width:100%" src="/attachments/images/FAQ/USER/CreatingCompanyNew/CreateCompanyNew3.png"/>
 </div>
 
-<h2 id="company3">Что представляет собой список компаний</h2>
+<h4 id="company3">Что представляет собой список компаний</h4>
     
    <p>Список всех созданных компаний в бизнес-аккаунте HubEx представляет собой карточный вид:</p>
    
@@ -130,7 +130,7 @@ description: (Новая)
 <img style="margin: 0 auto; display: block;  width:100%" src="/attachments/images/FAQ/USER/CreatingCompanyNew/CreateCompanyNew9.png"/>
 </div>
 
-<h2 id="company4">Контактные лица</h2>
+<h4 id="company4">Контактные лица</h4>
 
 <p>По кнопке <strong>Добавить контактное лицо</strong> можно внести одно или несколько контактных лиц для связи:</p>
             
@@ -147,7 +147,7 @@ description: (Новая)
 
 <p>Подробнее о контактных лицах вы можете почитать в статье: <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/Contacts.html#company">Как заполнить контактные лица в карточке Компании</a>.</p>
 
-<h2 id="company5">Юридические и банковские реквизиты</h2>
+<h4 id="company5">Юридические и банковские реквизиты</h4>
 
 <p>Закрепить данную информацию о компании можно в самой компании, на вкладке "Компания":</p>
 <ul>
@@ -166,7 +166,7 @@ description: (Новая)
 <img style="margin: 0 auto; display: block;  width:100%" src="/attachments/images/FAQ/USER/CreatingCompanyNew/CreateCompanyNew12.png"/>
 </div>
 
-<h2 id="company6">Договоры</h2>
+<h4 id="company6">Договоры</h4>
 
 <p>Договор (или контракт) необходим для фиксации взаимоотношений с клиентом. С его помощью можно отслеживать сроки действия и классифицировать <strong>Заявки</strong>. </p>
 
@@ -202,7 +202,7 @@ description: (Новая)
         <img style="margin: 0 auto; display: block; max-width: 95%;" src="/attachments/images/FAQ/USER/CreatingCompany/Ticket.jpg"/>
     </div>
     
-<h2 id="company7">Импорт и экспорт</h2>
+<h4 id="company7">Импорт и экспорт</h4>
     
 <p> Вы можете ускорить процесс созданий <strong>Компаний</strong> с помощью функции <a
             href="https://wiki.hubex.ru/docs/FAQ/RU/user/Import.html#companies">Импорта</a>.</p>
@@ -214,7 +214,7 @@ description: (Новая)
 <img style="margin: 0 auto; display: block;  width:100%" src="/attachments/images/FAQ/USER/CreatingCompanyNew/CreateCompanyNew13.png"/>
 </div>
             
-<h2 id="company8">Для интеграций (дополнительно)</h2>
+<h4 id="company8">Для интеграций (дополнительно)</h4>
 
 <ol>
 <li><strong>ERP ID</strong>: идентификатор <strong>Компании</strong> во внешней системе, например, 1С или Битрикс, который используется при интеграции.</li>

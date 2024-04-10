@@ -44,6 +44,8 @@ description: (Новая)
 
 <p>Создать новый <strong>Объект</strong> можно в меню <strong>Объекты|Оборудование</strong> по кнопке <strong>Создать объект</strong>.</p>
 
+<div><img style="margin: 0 auto; display: block; max-width: 90%;" src="/attachments/images/FAQ/USER/CreatingObjectsNew/Object1.png"/></div>
+
 <p>При создании форма <strong>Объекта</strong> состоит из следующих вкладок:</p>
 
 <ul>

@@ -186,13 +186,13 @@ description: (Новая)
 
 <ol>
     <li> После сохранения карточки родительского объекта на вкладке <strong>Дочерние объекты</strong> по кнопке + можно создать новый дочерний объект.</li>
-        <div><img style="margin: 0 auto; display: block; max-width: 90%;" src="/attachments/images/FAQ/USER/CreatingObjects/ChildObject3.jpg"/></div>
+        <p><div><img style="margin: 0 auto; display: block; max-width: 90%;" src="/attachments/images/FAQ/USER/CreatingObjects/ChildObject3.jpg"/></div></p>
     <li>Из карточки родительского объекта по кнопке <strong>Контекстного меню</strong> (3 точки) в правом верхнем углу - <strong>Создать дочерний объект|оборудование</strong>.</li>
-        <div><img style="margin: 0 auto; display: block; max-width: 90%;" src="/attachments/images/FAQ/USER/CreatingObjects/ChildObject2.jpg"/></div>
+        <p><div><img style="margin: 0 auto; display: block; max-width: 90%;" src="/attachments/images/FAQ/USER/CreatingObjects/ChildObject2.jpg"/></div></p>
     <li>В главном меню <strong>Объекты|Оборудование</strong> по кнопке <strong>Создать объект</strong> с указанием родительского элемента.</li>
-        <div><img style="margin: 0 auto; display: block; max-width: 90%;" src="/attachments/images/FAQ/USER/CreatingObjects/ChildObject.jpg"/></div>
+        <p><div><img style="margin: 0 auto; display: block; max-width: 90%;" src="/attachments/images/FAQ/USER/CreatingObjects/ChildObject.jpg"/></div></p>
     <li>Выбрав конкретный объект из списка всех объектов в главном меню <strong>Объекты|Оборудование</strong> и нажав на кнопку <strong>Контекстного меню</strong> (3 точки) - <strong>Создать дочерний объект|оборудование</strong>.</li>
-        <div><img style="margin: 0 auto; display: block; max-width: 90%;" src="/attachments/images/FAQ/USER/CreatingObjects/ObjectList.jpg"/></div>
+        <p><div><img style="margin: 0 auto; display: block; max-width: 90%;" src="/attachments/images/FAQ/USER/CreatingObjects/ObjectList.jpg"/></div></p>
 </ol>
 
 <h3 id="object10">Раздел объекта "История обслуживания"</h3>

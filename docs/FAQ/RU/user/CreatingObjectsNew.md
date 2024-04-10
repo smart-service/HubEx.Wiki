@@ -1,6 +1,6 @@
 ---
 title: Создание обслуживаемого оборудования (Новая)
-description: Объект (оборудование) - новая
+description: (Новая)
 ---
 
 
@@ -15,13 +15,13 @@ description: Объект (оборудование) - новая
     <li><a href="#object2">Основные поля (часть 1);</a></li>
     <li><a href="#object3">Что представляет собой список объектов/оборудования;</a></li>
     <li><a href="#object4">Основные поля (часть 2);</a></li>
-    <li><a href="#object5">Контактные лица;</a></li>
-    <li><a href="#object6">Мобильное оборудование;</a></li>
-    <li><a href="#object7">Планы помещений;</a></li>
-    <li><a href="#object8">QR-коды (Приемка и маркировка);</a></li>
-    <li><a href="#object9">Дополнительные поля;</a></li>
-    <li><a href="#object10">Дочерние объекты;</a></li>
-    <li><a href="#object11">История обслуживания;</a></li>
+    <li><a href="#object5">Раздел объекта "Контактные лица";</a></li>
+    <li><a href="#object6">Функционал "Мобильное оборудование";</a></li>
+    <li><a href="#object7">Функционал "Планы помещений";</a></li>
+    <li><a href="#object8">Раздел объекта "QR-коды" (функционал "Приемка и маркировка");</a></li>
+    <li><a href="#object9">Раздел объекта "Дополнительные поля";</a></li>
+    <li><a href="#object10">Раздел объекта "Дочерние объекты";</a></li>
+    <li><a href="#object11">Раздел объекта "История обслуживания";</a></li>
 </ul>
 
 </html>
@@ -104,12 +104,19 @@ description: Объект (оборудование) - новая
 
 *Скриншот
 
+<p>Объекты/оборудование можно импортировать или экспортировать.</p>
+<p>Подробнее об <strong>импорте</strong> вы можете прочитать в статье <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/Import.html#objects">Импорт объектов</a></p>
+<p>Подробнее об <strong>экспорте</strong> вы можете прочитать в статье <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/Export.html#objects">Экспорт объектов</a></p>
+
+*Скриншот
+
 <h4 id="object4">Основные поля (часть 2)</h4>
 
 <p>Основные поля в разделе объекта/оборудования "Объект/оборудование"</p>
 
 <ul>
     <li><strong>Разрешить создавать заявки по этому объекту</strong>: делает <strong>Объект</strong> доступным объект для выбора в <strong>Заявке</strong>.</li>
+        <p>Объект может быть опубликованным или неопубликованным.</p>
     <li><strong>Участок</strong>: определяет к какому участку принадлежит оборудование. <strong>Участок</strong> – классификация <strong>Объектов</strong>, <strong>Типов заявок</strong>, <strong>Сотрудников</strong>, <strong>Заказчиков</strong> по различным критериям: географическим, функциональным и т.д. Например, разделение по географии: Северо-Западный округ, Краснодарский край, Сибирь и т.д. <strong>Объект</strong> может принадлежать к нескольким участкам одновременно. Подробнее читайте в статье: <a href="https://wiki.hubex.ru/docs/FAQ/RU/admin/Places.html">Настройка участков</a>;</li>
     <li><strong>График работы</strong>: носит исключительно справочную информацию.</li>
     <li><strong>Класс (Класс оборудования)</strong> - совокупность объектов (оборудования) с общими характеристиками, отличительными особенностями. <strong>Классы оборудования</strong> используются для группировки <strong>Объектов</strong> и для группировки <strong>Заявок</strong> по <strong>Объектам</strong>. Вы можете не использовать <strong>Классы</strong> и устанавливать у всех <strong>Объектов</strong> значение <strong>По умолчанию</strong>. Подробнее читайте в статье: <a href="https://wiki.hubex.ru/docs/FAQ/RU/admin/ObjectClass.html">Классы оборудования</a>.</li>
@@ -127,7 +134,7 @@ description: Объект (оборудование) - новая
 
 <div> <img style="margin: 0 auto; display: block; max-width: 90%;" src="/attachments/images/FAQ/USER/CreatingObjects/ObjectService.jpg"/> </div>
 
-<h4 id="object5">Контактные лица</h4>
+<h4 id="object5">Раздел объекта "Контактные лица"</h4>
 
 <p>В разделе объекта/оборудования <strong>Контакты</strong> можно указать контактную информацию ответственного по объекту со стороны заказчика. Также можно ввести дополнительные контакты, например, директора, диспетчера.</p>
 <p>Подробнее читайте в статье <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/Contacts.html#object">Контактные лица в карточке Компании</a>.</p>
@@ -141,12 +148,12 @@ description: Объект (оборудование) - новая
 
 *Скриншот
 
-<h4 id="object7">Планы помещений</h4>
+<h4 id="object7">Функционал "Планы помещений"</h4>
 
 <p>В разделе объекта/оборудования "Объект/оборудование" параметр <strong>План объекта</strong>: вы можете загрузить план помещения самого объекта, или план, на котором находится оборудование. Использование планов помещений позволяет сократить затраты времени на поиск и устранение неисправностей: при подаче <Strong>Заявки</Strong> можно указать точное местоположение проблемы на карте бизнес-центра. План помещения добавляется индивидуально для каждого <Strong>Объекта</Strong> в формате .jpg, .jpeg, .png.</p>
 <p>Подробнее читайте в статье: <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/FloorPlan.html">Планы помещений</a>.</p>
 
-<h4 id="object8">QR-коды (Приемка и маркировка)</h4>
+<h4 id="object8">Раздел объекта "QR-коды" (функционал "Приемка и маркировка")</h4>
 
 <p>В разделе объекта/оборудования <strong>QR-коды</strong> можно промаркировать <strong>Объект</strong> - создать шаблон заявки с привязанным QR-кодом, паспорт объекта.</p>
 
@@ -156,121 +163,37 @@ description: Объект (оборудование) - новая
 
 <div> <img style="margin: 0 auto; display: block; max-width: 85%;" src="/attachments/images/FAQ/USER/CreatingObjects/QR2.jpg"/> </div>
 
-<h4 id="object9">Дополнительные поля</h4>
+<h4 id="object9">Раздел объекта "Дополнительные поля"</h4>
 
 <p>В разделе объекта/оборудования <strong>Дополнительные поля</strong> вы можете добавить дополнительные поля для заполнения. Создать дополнительные поля можно в консоли администратора. Например, можно указать площадь объекта, если это необходимо. Подробнее читайте в статье: <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/AdditionalFieldsObject.html">Создание дополнительных полей для объекта</a>.</p>
 
 <div> <img style="margin: 0 auto; display: block; max-width: 80%;" src="/attachments/images/FAQ/USER/CreatingObjects/AdditionalField.jpg"/> </div>
 
-<h4 id="object10">Дочерние объекты</h4>
+<h4 id="object10">Раздел объекта "Дочерние объекты"</h4>
 
-<p>На вкладке <strong>Дочерние объекты</strong> отображаются все дочерние объекты, а также есть возможность создать
-    новый дочерний объект по кнопке +. Подробнее о создании дочерних объектов читайте <a href="#child">ниже</a>.
-</p>
-<p>Во вкладке <strong>История обслуживания</strong> отображаются все созданные по объекту <strong>Заявки</strong>. При установке флажка <strong>С
-    вложенными объектами</strong> в списке отразятся <strong>Заявки</strong> по дочерним объектам. По щелчку на любую <strong>Заявку</strong> из списка истории обслуживания она откроется в боковой панели справа.
-</p>
-<div>
-    <img style="margin: 0 auto; display: block; max-width: 90%;"
-         src="/attachments/images/FAQ/USER/CreatingObjects/History.jpg"/>
-</div>
-<p>Боковое окно содержит основные поля из полной формы <strong>Заявки</strong>, их можно редактировать и сохранять изменения. Кнопка <strong>Сохранить</strong> находится внизу боковой формы <strong>Заявки</strong>. По нажатию на кнопку <strong>К заявке</strong> в соседней вкладке будет открыта полная форма текущей <strong>Заявки</strong>.</p>
-<div>
-    <img style="margin: 0 auto; display: block; max-width: 90%;"
-         src="/attachments/images/FAQ/USER/CreatingObjects/History2.jpg"/>
-</div>
-<p><div>
-    <img style="margin: 0 auto; display: block; max-width: 90%;"
-         src="/attachments/images/FAQ/USER/CreatingObjects/History3.jpg"/>
-</div></p>
-<p> Вы можете ускорить процесс добавления <strong>Объектов</strong> в систему HubEx с помощью функции <a
-        href="https://wiki.hubex.ru/docs/FAQ/RU/user/Import.html#objects">Импорта</a>.</p>
-<p> Для выгрузки информации по <strong>Объектам</strong> из системы HubEx можно воспользоваться функцией <a
-        href="https://wiki.hubex.ru/docs/FAQ/RU/user/Export.html#objects">Экспорта</a>.</p>
+<p>На вкладке <strong>Дочерние объекты</strong> отображаются все дочерние объекты, а также есть возможность создать новый дочерний объект по кнопке +.</p>
 
-<h5 id="child">Способы создания дочерних объектов</h5>
+<p><strong>Способы создания дочерних объектов</strong></p>
 
 <p>Создать дочерний объект в системе можно несколькими способами:</p>
 <ol>
-    <li>
-        После сохранения карточки родительского объекта на вкладке <strong>Дочерние объекты</strong> по кнопке + можно
-        создать новый дочерний объект.
-    </li>
-    <div>
-        <img style="margin: 0 auto; display: block; max-width: 90%;"
-             src="/attachments/images/FAQ/USER/CreatingObjects/ChildObject3.jpg"/>
-    </div>
-
-    <li>Из карточки родительского объекта по кнопке <strong>Контекстного меню</strong> (3 точки) в правом верхнем
-        углу - <strong>Создать
-            дочерний объект|оборудование</strong>.
-    </li>
-
-    <div>
-        <img style="margin: 0 auto; display: block; max-width: 90%;"
-             src="/attachments/images/FAQ/USER/CreatingObjects/ChildObject2.jpg"/>
-    </div>
-
-    <li><p>В главном меню <strong>Объекты|Оборудование</strong> по кнопке <strong>Создать объект</strong> с указанием
-        родительского элемента.</p></li>
-
-    <div>
-        <img style="margin: 0 auto; display: block; max-width: 90%;"
-             src="/attachments/images/FAQ/USER/CreatingObjects/ChildObject.jpg"/>
-    </div>
-
-    <li><p>Выбрав конкретный объект из списка всех объектов в главном меню <strong>Объекты|Оборудование</strong> и нажав
-        на кнопку <strong>Контекстного меню</strong> (3 точки) -
-        <strong>Создать дочерний объект|оборудование</strong>.</p>
-    </li>
-
-    <div>
-        <img style="margin: 0 auto; display: block; max-width: 90%;"
-             src="/attachments/images/FAQ/USER/CreatingObjects/ObjectList.jpg"/>
-    </div>
-
+    <li> После сохранения карточки родительского объекта на вкладке <strong>Дочерние объекты</strong> по кнопке + можно создать новый дочерний объект.</li>
+        <div> <img style="margin: 0 auto; display: block; max-width: 90%;" src="/attachments/images/FAQ/USER/CreatingObjects/ChildObject3.jpg"/> </div>
+    <li>Из карточки родительского объекта по кнопке <strong>Контекстного меню</strong> (3 точки) в правом верхнем углу - <strong>Создать дочерний объект|оборудование</strong>.</li>
+        <div> <img style="margin: 0 auto; display: block; max-width: 90%;" src="/attachments/images/FAQ/USER/CreatingObjects/ChildObject2.jpg"/> </div>
+    <li>В главном меню <strong>Объекты|Оборудование</strong> по кнопке <strong>Создать объект</strong> с указанием родительского элемента.</li>
+        <div> <img style="margin: 0 auto; display: block; max-width: 90%;" src="/attachments/images/FAQ/USER/CreatingObjects/ChildObject.jpg"/> </div>
+    <li>Выбрав конкретный объект из списка всех объектов в главном меню <strong>Объекты|Оборудование</strong> и нажав на кнопку <strong>Контекстного меню</strong> (3 точки) - <strong>Создать дочерний объект|оборудование</strong>.</li>
+        <div> <img style="margin: 0 auto; display: block; max-width: 90%;" src="/attachments/images/FAQ/USER/CreatingObjects/ObjectList.jpg"/> </div>
 </ol>
 
-<h5 id="tga">Разрешение на подачу заявок</h5>
-<p>При создании нового <strong>Объекта</strong> на форме находится флажок <strong>Разрешить подавать заявки по этому объекту</strong>.
-    Включение этой функции позволяет подавать
-    <strong>Заявки</strong> по <strong>Объекту</strong>. Такой <strong>Объект</strong> считается опубликованным. Если снять флажок и сохранить карточку <strong>Объекта</strong>, то такой <strong>Объект</strong> будет считаться необпубликованным. Неопубликованные <strong>Объекты</strong> нельзя выбирать в <strong>Заявках</strong>. </p>
-    
-    <p>Если вы создаете неопубликованные <strong>Объекты</strong>, которые в данный момент не обслуживаете или которые нуждаются в дальнейшем
-    редактировании, то опубликовать их можно
-    позже. Это позволит оптимизировать список <strong>Объектов</strong> и
-    рассматривать как те объекты, которые уже обслуживаются, так и те по которым вы еще не проводите работы.</p>
-    <p>Также снимать с публикации можно <strong>Объекты</strong>, по которым закончился договор или гарантийное обслуживание, подавать <strong>Заявки</strong> на них будет нельзя, но история обслуживания таких <strong>Объектов</strong> будет храниться в системе. </p>
+<h4 id="object10">Раздел объекта "История обслуживания"</h4>
 
-<div>
-    <img style="margin: 0 auto; display: block; max-width: 90%;"
-         src="/attachments/images/FAQ/USER/CreatingObjects/AllowsCreateTicket.jpg"/>
-</div> 
-
-
-<p>Если флажок был установлен и <strong>Объект</strong> был записан, то снять флажок нельзя - он исчезает с формы записанного
-    <strong>Объекта</strong>.</p>
-
-<p>Чтобы опубликовать <strong>Объект</strong>, необходимо нажать кнопку <strong>Опубликовать</strong> в правом верхнем углу формы.</p>
-     
-        <div>
-            <img style="margin: 0 auto; display: block; max-width: 90%;"
-                 src="/attachments/images/FAQ/USER/CreatingObjects/Public.jpg"/>
-        </div>
-    
-<p>Чтобы снять <strong>Объект</strong> с публицкации, необходимо нажать кнопку <strong>Снять с публикации</strong> в правом верхнем углу формы.</p>
-
-     
-        <div>
-            <img style="margin: 0 auto; display: block; max-width: 90%;"
-                 src="/attachments/images/FAQ/USER/CreatingObjects/Public2.jpg"/>
-        </div>
-    
-
-
-
-
-
+<p>Во вкладке <strong>История обслуживания</strong> отображаются все созданные по объекту <strong>Заявки</strong>. При установке флажка <strong>С вложенными объектами</strong> в списке отразятся <strong>Заявки</strong> по дочерним объектам. По щелчку на любую <strong>Заявку</strong> из списка истории обслуживания она откроется в боковой панели справа.</p>
+    <div> <img style="margin: 0 auto; display: block; max-width: 90%;" src="/attachments/images/FAQ/USER/CreatingObjects/History.jpg"/> </div>
+<p>Боковое окно содержит основные поля из полной формы <strong>Заявки</strong>, их можно редактировать и сохранять изменения. Кнопка <strong>Сохранить</strong> находится внизу боковой формы <strong>Заявки</strong>. По нажатию на кнопку <strong>К заявке</strong> в соседней вкладке будет открыта полная форма текущей <strong>Заявки</strong>.</p>
+    <div> <img style="margin: 0 auto; display: block; max-width: 90%;" src="/attachments/images/FAQ/USER/CreatingObjects/History2.jpg"/> </div>
+    <div> <img style="margin: 0 auto; display: block; max-width: 90%;" src="/attachments/images/FAQ/USER/CreatingObjects/History3.jpg"/> </div>
 
 
 </body>

@@ -6,7 +6,7 @@ description: (Новая)
 <h2>Создание обслуживаемого оборудования</h2>
 
 В этом разделе вы узнаете:
-<html>
+<html lang="RU">
 <meta charset="utf-8">
 
 <p>Содержание статьи:</p>
@@ -44,8 +44,6 @@ description: (Новая)
 
 <p>Создать новый <strong>Объект</strong> можно в меню <strong>Объекты|Оборудование</strong> по кнопке <strong>Создать объект</strong>.</p>
 
-*Скриншот
-
 <p>При создании форма <strong>Объекта</strong> состоит из следующих вкладок:</p>
 
 <ul>
@@ -55,8 +53,6 @@ description: (Новая)
     <li><strong>Дополнительные поля</strong>;</li>
 </ul>
 
-*Скриншот
-
 <p>После создания <strong>Объекта/оборудования</strong> на форме появятся дополнительные вкладки:</p>
 
 <ul>
@@ -64,8 +60,6 @@ description: (Новая)
     <li><strong>Дочерние объекты</strong>;</li>
     <li><strong>История обслуживания</strong>.</li>
 </ul>
-
-*Скриншот
 
 <p>Рассмотрим основные поля для создания <strong>Объекта|Оборудования</strong>:</p>
 
@@ -104,17 +98,14 @@ description: (Новая)
     <li><strong>Чек-лист</strong>: вы можете привязывать заранее созданные<strong>Чек-листы</strong> к объекту, чтобы они автоматически подставлялись в заявку. Чек-лист - это контрольный список дел или задач, которые необходимо выполнить или проверить по <strong>Объекту</strong>. Подробнее читайте в статье: <a href="https://wiki.hubex.ru/docs/FAQ/RU/users/Checklists.html">Чек-листы</a>.</li>
 </ul>
 
-<div> <img style="margin: 0 auto; display: block; max-width: 90%;" src="/attachments/images/FAQ/USER/CreatingObjects/ObjectService.jpg"/> </div>
+<div><img style="margin: 0 auto; display: block; max-width: 90%;" src="/attachments/images/FAQ/USER/CreatingObjects/ObjectService.jpg"/></div>
 
 <h3 id="object3">Что представляет собой список объектов/оборудования</h3>
 
 <p>Список всех созданных объектов в бизнес-аккаунте HubEx представляет собой карточный вид:</p>
 
-*Скриншот
 
 <p>Вы можете фильтровать объекты, используя правое боковое меню:</p>
-
-*Скриншот
 
 <p>В разделе левого бокового меню «Объекты/Оборудование», карточка объекта отображает:</p>
 
@@ -124,50 +115,43 @@ description: (Новая)
     <li>Количество активных заявок, созданных на этот объект</li>
 </ol>
 
-*Скриншот
-
 <p>Объекты/оборудование можно импортировать или экспортировать.</p>
+
 <p>Подробнее об <strong>импорте</strong> вы можете прочитать в статье <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/Import.html#objects">Импорт объектов</a></p>
 <p>Подробнее об <strong>экспорте</strong> вы можете прочитать в статье <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/Export.html#objects">Экспорт объектов</a></p>
-
-*Скриншот
 
 <h3 id="object4">Раздел объекта "Контактные лица"</h3>
 
 <p>В разделе объекта/оборудования <strong>Контакты</strong> можно указать контактную информацию ответственного по объекту со стороны заказчика. Также можно ввести дополнительные контакты, например, директора, диспетчера.</p>
 <p>Подробнее читайте в статье <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/Contacts.html#object">Контактные лица в карточке Компании</a>.</p>
 
-<div> <img style="margin: 0 auto; display: block; max-width: 90%;" src="/attachments/images/FAQ/USER/CreatingObjects/Contact.jpg"/> </div>
+<div><img style="margin: 0 auto; display: block; max-width: 90%;" src="/attachments/images/FAQ/USER/CreatingObjects/Contact.jpg"/></div>
 
 <h3 id="object5">Функционал "Мобильное оборудование"</h3>
 
 <p>В разделе объекта/оборудования "Объект/оборудование" флажок <strong>Мобильное оборудование</strong> отвечает за возможность изменить адрес <strong>Объекта</strong> при изменении адреса в <strong>Заявке</strong>. То есть заполняя <strong>Заявку</strong>, вы можете изменить автоматически подставленный из карточки <strong>Объекта</strong> адрес, тогда он изменится и в карточке <strong>Объекта</strong></p>;
 <p>Подробнее читайте в статье <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/MobileObjects.html">Мобильное оборудование: заявка по мобильному оборудованию</a>.</p>
 
-*Скриншот
-
 <h3 id="object6">Функционал "Планы помещений"</h3>
 
 <p>В разделе объекта/оборудования "Объект/оборудование" параметр <strong>План объекта</strong>: вы можете загрузить план помещения самого объекта, или план, на котором находится оборудование. Использование планов помещений позволяет сократить затраты времени на поиск и устранение неисправностей: при подаче <Strong>Заявки</Strong> можно указать точное местоположение проблемы на карте бизнес-центра. План помещения добавляется индивидуально для каждого <Strong>Объекта</Strong> в формате .jpg, .jpeg, .png.</p>
 <p>Подробнее читайте в статье: <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/FloorPlan.html">Планы помещений</a>.</p>
 
-*Скриншот
-
 <h3 id="object7">Раздел объекта "QR-коды" (функционал "Приемка и маркировка")</h3>
 
 <p>В разделе объекта/оборудования <strong>QR-коды</strong> можно промаркировать <strong>Объект</strong> - создать шаблон заявки с привязанным QR-кодом, паспорт объекта.</p>
 
-<div> <img style="margin: 0 auto; display: block; max-width: 90%;" src="/attachments/images/FAQ/USER/CreatingObjects/QR1.jpg"/> </div>
+<div><img style="margin: 0 auto; display: block; max-width: 90%;" src="/attachments/images/FAQ/USER/CreatingObjects/QR1.jpg"/></div>
 
 <p>Сканируя QR-код в мобильном приложении, вы можете просмотреть паспорт объекта и подать по нему Заявку. Также QR-коды могут сканировать незарегистрированные в системе пользователи и подавать заявки. Подробнее читайте в статьях: <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/QRcodeMain.html">QR-код в HubEx: основные понятия</a>, <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/CreatingTaskTemplates.html">Создание шаблона заявки, подача заявки по QR-коду</a>, <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/SelfRegister.html">Подача заявок по QR-коду без приложения, самостоятельная регистрация нового пользователя</a>.</p>
 
-<div> <img style="margin: 0 auto; display: block; max-width: 85%;" src="/attachments/images/FAQ/USER/CreatingObjects/QR2.jpg"/> </div>
+<div><img style="margin: 0 auto; display: block; max-width: 85%;" src="/attachments/images/FAQ/USER/CreatingObjects/QR2.jpg"/></div>
 
 <h3 id="object8">Раздел объекта "Дополнительные поля"</h3>
 
 <p>В разделе объекта/оборудования <strong>Дополнительные поля</strong> вы можете добавить дополнительные поля для заполнения. Создать дополнительные поля можно в консоли администратора. Например, можно указать площадь объекта, если это необходимо. Подробнее читайте в статье: <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/AdditionalFieldsObject.html">Создание дополнительных полей для объекта</a>.</p>
 
-<div> <img style="margin: 0 auto; display: block; max-width: 80%;" src="/attachments/images/FAQ/USER/CreatingObjects/AdditionalField.jpg"/> </div>
+<div><img style="margin: 0 auto; display: block; max-width: 80%;" src="/attachments/images/FAQ/USER/CreatingObjects/AdditionalField.jpg"/></div>
 
 <h3 id="object9">Раздел объекта "Дочерние объекты"</h3>
 
@@ -177,28 +161,26 @@ description: (Новая)
 
 <ol>
     <li> После сохранения карточки родительского объекта на вкладке <strong>Дочерние объекты</strong> по кнопке + можно создать новый дочерний объект.</li>
-        <div> <img style="margin: 0 auto; display: block; max-width: 90%;" src="/attachments/images/FAQ/USER/CreatingObjects/ChildObject3.jpg"/> </div>
+        <div><img style="margin: 0 auto; display: block; max-width: 90%;" src="/attachments/images/FAQ/USER/CreatingObjects/ChildObject3.jpg"/></div>
     <li>Из карточки родительского объекта по кнопке <strong>Контекстного меню</strong> (3 точки) в правом верхнем углу - <strong>Создать дочерний объект|оборудование</strong>.</li>
-        <div> <img style="margin: 0 auto; display: block; max-width: 90%;" src="/attachments/images/FAQ/USER/CreatingObjects/ChildObject2.jpg"/> </div>
+        <div><img style="margin: 0 auto; display: block; max-width: 90%;" src="/attachments/images/FAQ/USER/CreatingObjects/ChildObject2.jpg"/></div>
     <li>В главном меню <strong>Объекты|Оборудование</strong> по кнопке <strong>Создать объект</strong> с указанием родительского элемента.</li>
-        <div> <img style="margin: 0 auto; display: block; max-width: 90%;" src="/attachments/images/FAQ/USER/CreatingObjects/ChildObject.jpg"/> </div>
+        <div><img style="margin: 0 auto; display: block; max-width: 90%;" src="/attachments/images/FAQ/USER/CreatingObjects/ChildObject.jpg"/></div>
     <li>Выбрав конкретный объект из списка всех объектов в главном меню <strong>Объекты|Оборудование</strong> и нажав на кнопку <strong>Контекстного меню</strong> (3 точки) - <strong>Создать дочерний объект|оборудование</strong>.</li>
-        <div> <img style="margin: 0 auto; display: block; max-width: 90%;" src="/attachments/images/FAQ/USER/CreatingObjects/ObjectList.jpg"/> </div>
+        <div><img style="margin: 0 auto; display: block; max-width: 90%;" src="/attachments/images/FAQ/USER/CreatingObjects/ObjectList.jpg"/></div>
 </ol>
 
 <h3 id="object10">Раздел объекта "История обслуживания"</h3>
 
 <p>Во вкладке <strong>История обслуживания</strong> отображаются все созданные по объекту <strong>Заявки</strong>. При установке флажка <strong>С вложенными объектами</strong> в списке отразятся <strong>Заявки</strong> по дочерним объектам. По щелчку на любую <strong>Заявку</strong> из списка истории обслуживания она откроется в боковой панели справа.</p>
-    <div> <img style="margin: 0 auto; display: block; max-width: 90%;" src="/attachments/images/FAQ/USER/CreatingObjects/History.jpg"/> </div>
+    <div><img style="margin: 0 auto; display: block; max-width: 90%;" src="/attachments/images/FAQ/USER/CreatingObjects/History.jpg"/></div>
 <p>Боковое окно содержит основные поля из полной формы <strong>Заявки</strong>, их можно редактировать и сохранять изменения. Кнопка <strong>Сохранить</strong> находится внизу боковой формы <strong>Заявки</strong>. По нажатию на кнопку <strong>К заявке</strong> в соседней вкладке будет открыта полная форма текущей <strong>Заявки</strong>.</p>
-    <div> <img style="margin: 0 auto; display: block; max-width: 90%;" src="/attachments/images/FAQ/USER/CreatingObjects/History2.jpg"/> </div>
-    <div> <img style="margin: 0 auto; display: block; max-width: 90%;" src="/attachments/images/FAQ/USER/CreatingObjects/History3.jpg"/> </div>
+    <div><img style="margin: 0 auto; display: block; max-width: 90%;" src="/attachments/images/FAQ/USER/CreatingObjects/History2.jpg"/></div>
+    <div><img style="margin: 0 auto; display: block; max-width: 90%;" src="/attachments/images/FAQ/USER/CreatingObjects/History3.jpg"/></div>
 
 <h3 id="object11">Для интеграций (дополнительно)</h3>
 
 <p>В разделе объекта/оборудования "Объект/оборудование" поле <strong>ERP ID</strong>: идентификатор объекта во внешней системе, например, 1С или Битрикс, который используется при интеграции;</p>
-
-*Скриншот
 
 </body>
 

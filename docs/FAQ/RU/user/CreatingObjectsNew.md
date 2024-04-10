@@ -55,6 +55,8 @@ description: (Новая)
     <li><strong>Дополнительные поля</strong>;</li>
 </ul>
 
+<div><img style="margin: 0 auto; display: block; max-width: 90%;" src="/attachments/images/FAQ/USER/CreatingObjectsNew/Object2.png"/></div>
+
 <p>После создания <strong>Объекта/оборудования</strong> на форме появятся дополнительные вкладки:</p>
 
 <ul>
@@ -62,6 +64,8 @@ description: (Новая)
     <li><strong>Дочерние объекты</strong>;</li>
     <li><strong>История обслуживания</strong>.</li>
 </ul>
+
+<div><img style="margin: 0 auto; display: block; max-width: 90%;" src="/attachments/images/FAQ/USER/CreatingObjectsNew/Object3.png"/></div>
 
 <p>Рассмотрим основные поля для создания <strong>Объекта|Оборудования</strong>:</p>
 
@@ -80,6 +84,8 @@ description: (Новая)
     <li><strong>Файлы</strong>: При создании нового <strong>Объекта</strong> вы можете приложить файлы для помощи в работе с оборудованием. Это могут быть фотографии, инструкции в текстовых файлах.</li>
 </ul>
 
+<div><img style="margin: 0 auto; display: block; max-width: 90%;" src="/attachments/images/FAQ/USER/CreatingObjectsNew/Object4.png"/></div>
+
 <p>Другие поля в разделе объекта/оборудования "Объект/оборудование"</p>
 
 <ul>
@@ -89,6 +95,8 @@ description: (Новая)
     <li><strong>График работы</strong>: носит исключительно справочную информацию.</li>
     <li><strong>Класс (Класс оборудования)</strong> - совокупность объектов (оборудования) с общими характеристиками, отличительными особенностями. <strong>Классы оборудования</strong> используются для группировки <strong>Объектов</strong> и для группировки <strong>Заявок</strong> по <strong>Объектам</strong>. Вы можете не использовать <strong>Классы</strong> и устанавливать у всех <strong>Объектов</strong> значение <strong>По умолчанию</strong>. Подробнее читайте в статье: <a href="https://wiki.hubex.ru/docs/FAQ/RU/admin/ObjectClass.html">Классы оборудования</a>.</li>
 </ul>
+
+<div><img style="margin: 0 auto; display: block; max-width: 90%;" src="/attachments/images/FAQ/USER/CreatingObjectsNew/Object5.png"/></div>
 
 <p>Основные поля в разделе объекта/оборудования "Обслуживание"</p>
 
@@ -106,8 +114,11 @@ description: (Новая)
 
 <p>Список всех созданных объектов в бизнес-аккаунте HubEx представляет собой карточный вид:</p>
 
+<div><img style="margin: 0 auto; display: block; max-width: 90%;" src="/attachments/images/FAQ/USER/CreatingObjectsNew/Object6.png"/></div>
 
 <p>Вы можете фильтровать объекты, используя правое боковое меню:</p>
+
+<div><img style="margin: 0 auto; display: block; max-width: 90%;" src="/attachments/images/FAQ/USER/CreatingObjectsNew/Object7.png"/></div>
 
 <p>В разделе левого бокового меню «Объекты/Оборудование», карточка объекта отображает:</p>
 
@@ -117,7 +128,11 @@ description: (Новая)
     <li>Количество активных заявок, созданных на этот объект</li>
 </ol>
 
+<div><img style="margin: 0 auto; display: block; max-width: 90%;" src="/attachments/images/FAQ/USER/CreatingObjectsNew/Object8.png"/></div>
+
 <p>Объекты/оборудование можно импортировать или экспортировать.</p>
+
+<div><img style="margin: 0 auto; display: block; max-width: 90%;" src="/attachments/images/FAQ/USER/CreatingObjectsNew/Object9.png"/></div>
 
 <p>Подробнее об <strong>импорте</strong> вы можете прочитать в статье <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/Import.html#objects">Импорт объектов</a></p>
 <p>Подробнее об <strong>экспорте</strong> вы можете прочитать в статье <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/Export.html#objects">Экспорт объектов</a></p>
@@ -132,11 +147,17 @@ description: (Новая)
 <h3 id="object5">Функционал "Мобильное оборудование"</h3>
 
 <p>В разделе объекта/оборудования "Объект/оборудование" флажок <strong>Мобильное оборудование</strong> отвечает за возможность изменить адрес <strong>Объекта</strong> при изменении адреса в <strong>Заявке</strong>. То есть заполняя <strong>Заявку</strong>, вы можете изменить автоматически подставленный из карточки <strong>Объекта</strong> адрес, тогда он изменится и в карточке <strong>Объекта</strong></p>;
-<p>Подробнее читайте в статье <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/MobileObjects.html">Мобильное оборудование: заявка по мобильному оборудованию</a>.</p>
+
+<div><img style="margin: 0 auto; display: block; max-width: 90%;" src="/attachments/images/FAQ/USER/CreatingObjectsNew/Object10.png"/></div>
+
+<p>Подробнее о функционале читайте в статье <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/MobileObjects.html">: Мобильное оборудование - заявка по мобильному оборудованию</a>.</p>
 
 <h3 id="object6">Функционал "Планы помещений"</h3>
 
 <p>В разделе объекта/оборудования "Объект/оборудование" параметр <strong>План объекта</strong>: вы можете загрузить план помещения самого объекта, или план, на котором находится оборудование. Использование планов помещений позволяет сократить затраты времени на поиск и устранение неисправностей: при подаче <Strong>Заявки</Strong> можно указать точное местоположение проблемы на карте бизнес-центра. План помещения добавляется индивидуально для каждого <Strong>Объекта</Strong> в формате .jpg, .jpeg, .png.</p>
+
+<div><img style="margin: 0 auto; display: block; max-width: 90%;" src="/attachments/images/FAQ/USER/CreatingObjectsNew/Object11.png"/></div>
+
 <p>Подробнее читайте в статье: <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/FloorPlan.html">Планы помещений</a>.</p>
 
 <h3 id="object7">Раздел объекта "QR-коды" (функционал "Приемка и маркировка")</h3>
@@ -158,6 +179,8 @@ description: (Новая)
 <h3 id="object9">Раздел объекта "Дочерние объекты"</h3>
 
 <p>В разделе объекта/оборудования <strong>Дочерние объекты</strong> отображаются все дочерние объекты родительского объекта, а также есть возможность создать новый дочерний объект по кнопке +.</p>
+
+<div><img style="margin: 0 auto; display: block; max-width: 90%;" src="/attachments/images/FAQ/USER/CreatingObjectsNew/Object13.png"/></div>
 
 <p>Создать дочерний объект в системе можно несколькими способами:</p>
 
@@ -183,6 +206,8 @@ description: (Новая)
 <h3 id="object11">Для интеграций (дополнительно)</h3>
 
 <p>В разделе объекта/оборудования "Объект/оборудование" поле <strong>ERP ID</strong>: идентификатор объекта во внешней системе, например, 1С или Битрикс, который используется при интеграции;</p>
+
+<div><img style="margin: 0 auto; display: block; max-width: 90%;" src="/attachments/images/FAQ/USER/CreatingObjectsNew/Object12.png"/></div>
 
 </body>
 

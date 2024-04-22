@@ -16,8 +16,7 @@ description: (Новая)
         <li><a href="#user3">Что представляет собой список сотрудников;</a></li>
         <li><a href="#user4">Раздел карточки сотрудника "Квалификация";</a></li>
         <li><a href="#user5">Раздел карточки сотрудника "Трудоустройство";</a></li>
-        <li><a href="#user6">Дополнительные поля в карточке сотрудника;</a></li>
-        <li><a href="#user7">Дополнительные функции.</a></li>
+        <li><a href="#user6">Дополнительные функции.</a></li>
 </ul>
 
 </html>
@@ -102,6 +101,13 @@ description: (Новая)
 <ul>
     <li>Копировать сотрудника/заказчика;</li>
     <li>Отправить приглашение повторно;</li>
+</ul>>
+
+<p>Если после ввода телефона/электронной почты при заполнении и сохранении новой карточки <strong>Сотрудника</strong>, на указанный телефон/электронный адрес приглашение так и не пришло, то можно отправить его повторно. </p>
+<p>В карточке <strong>Сотрудника</strong> или в общем списке всех <strong>Сотрудников</strong> нажмите на контекстное меню (три точки) и выберите пункт  <strong>Отправить приглашение повторно</strong>. </p>
+<div> <img style="margin: 0 auto; display: block; max-width: 95%;" src="/attachments/images/FAQ/USER/CreatingUser/Invite.jpg"/></div>
+
+<ul>
     <li>Удалить сотрудника/заказчика.</li>
 </ul>
 
@@ -114,110 +120,57 @@ description: (Новая)
 <p>Подробнее об <strong>импорте</strong> вы можете прочитать в статье <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/Import.html#workers">Импорт сотрудников/заказчиков</a></p>
 <p>Подробнее об <strong>экспорте</strong> вы можете прочитать в статье <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/Export.html#workers">Экспорт сотрудников/заказчиков</a></p>
 
-<p>На вкладке <strong>Квалификация</strong> указываются:</p>
-
-    <ul>
-    <li><strong>Ставка для клиента</strong> - это стоимость работы исполнителя за 1 час. Ставка используется при подсчете итоговой стоимости работ по <strong>Заявке</strong> при формировании <strong>Акта выполненных работ</strong>. Ставка может изменяться вручную при заполнении <strong>Выполненных работ</strong> в <strong>Заявке</strong>. При расчете итоговой стоимости ставка умножается на количество часов, потраченных на выполнение работы. Подробнее читайте в статье: <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/ActOFAcceptance.html">Акт выполненных работ</a>.</li>
-        <li><strong>Участок</strong> - классификация <strong>Объектов</strong>, <strong>Типов заявок</strong>, <strong>Сотрудников</strong>, <strong>Заказчиков</strong> по различным критериям: географическим, функциональным и т.д. 
-С помощью настройки <strong>Ролей</strong> по <strong>Участкам</strong> можно разграничить доступ <strong>Сотрудников</strong> и <strong>Заказчиков</strong> к работе с определенными <strong>Объектами</strong> и <strong>Типами заявок</strong>. 
-
-<p>Например, можно создать участок «Электрооборудование» и отнести к нему все подходящие объекты. Далее создать тип заявки, например, «Ремонт электрооборудования», который будет иметь специфический жизненный цикл, и указать у него участок «Электрооборудование». Затем указать у сотрудника тот же участок. Таким образом, этот сотрудник сможет создавать заявки с типом «Ремонт электрооборудования» и выбирать объекты только по участку «Электрооборудования». </p>
-
-Для <strong>Cотрудника</strong>, <strong>Объекта</strong>, <strong>Заказчика</strong> и <strong>Типа заявки</strong> можно указать несколько <strong>Участков</strong>.
-<strong>Участки</strong> создаются и настраиваются в консоли администратора.
-Подробнее читайте в статьях: <a href="https://wiki.hubex.ru/docs/FAQ/RU/admin/Places.html">Настройка участков</a>, <a href="https://wiki.hubex.ru/docs/FAQ/RU/admin/Roles.html#exrole">Настройка ролей</a>.
-</li>
-
-<li><strong>Виды работ</strong> - специфический вид деятельности (услуг), который может выполняться <strong>Сотрудником</strong> и быть направлен на <strong>Объект</strong>. Например, ваш <strong>Сотрудник</strong> квалифицируется на
-    Монтаже оборудования и (или) Ремонте. <strong>Виды работ</strong> в карточке <strong>Сотрудника</strong> можно использовать для настройки правила автоназначения на <strong>Заявки</strong>. Система будет подбирать исполнителя по совпадению <strong>Вида работ</strong> в карточке <strong>Сотрудника</strong> и выбранного <strong>Вида работ</strong> в <strong>Заявке</strong>. Подробнее читайте в статье: <a
-            href="https://wiki.hubex.ru/docs/FAQ/RU/admin/RulesOfChoice.html">Правила выбора исполнителя</a>. Чтобы в <strong>Заявке</strong> выбрать определенный <strong>Вид работ</strong>, необходимо сначала указать <strong>Виды работ</strong> в карточке этого <strong>Объекта</strong>.
-    <p>Новый <strong>Вид работ</strong> можно создать в консоли администратора. Подробнее читайте в статье: <a
-            href="https://wiki.hubex.ru/docs/FAQ/RU/admin/WorkType.html">Виды работ</a>.</p>
-
-   <p> <div>
-        <img style="margin: 0 auto; display: block; max-width: 50%;"
-             src="/attachments/images/FAQ/USER/CreatingUser/user7.png"/>
-    </div></p>
-</li>
-
-<li><strong>Навыки</strong> - дополнительные, особые умения, необходимые для выполнения определенной работы. С помощью <strong>Навыков</strong> в системе
-    можно настроить точное автораспределение сотрудников на <strong>Заявки</strong>. <strong>Навыки</strong> создаются в консоли администратора. Подробнее читайте в статье: <a href="https://wiki.hubex.ru/docs/FAQ/RU/admin/Skills.html">Навыки</a>.
-</li>
-<li><strong>Доступные склады</strong> указываются для того, чтобы при заполнении <strong>Выполненных работ</strong> в <strong>Заявке</strong> можно было указать материалы, потраченные в ходе выполнения. Подробнее читайте в статье: <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/Materials.html">Загрузка материалов и создание складов</a>.</li>
-</ul>
-
-<div>
-    <img style="margin: 0 auto; display: block; max-width: 80%;"
-         src="/attachments/images/FAQ/USER/CreatingUser/Qualification.jpg"/>
-</div>
-
-<p>На вкладке <strong>Трудоустройство</strong> в разделе <strong>Компания</strong> необходимо указать:</p>
+<h2 id="user4">Раздел карточки сотрудника "Квалификация"</h2>
 
 <ul>
-    <li><strong>Компанию</strong>, в которой работает <strong>Сотрудник</strong>;
-    </li>
-    <li><strong>Должность</strong> в свободной форме;</li>
-    <li><strong>Табельный номер</strong> - не обязателен для заполнения.</li>
-
+    <li><strong>Ставка для клиента</strong>: стоимость работы исполнителя за 1 час. Ставка используется при подсчете итоговой стоимости работ по <strong>Заявке</strong> при формировании <strong>Акта выполненных работ</strong>. Ставка может изменяться вручную при заполнении <strong>Выполненных работ</strong> в <strong>Заявке</strong>. При расчете итоговой стоимости ставка умножается на количество часов, потраченных на выполнение работы. Подробнее читайте в статье: <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/ActOFAcceptance.html">Акт выполненных работ</a>.</li>
+    <li><strong>Участок</strong>: классификация <strong>Объектов</strong>, <strong>Типов заявок</strong>, <strong>Сотрудников</strong>, <strong>Заказчиков</strong> по различным критериям: географическим, функциональным и т.д. С помощью настройки <strong>Ролей</strong> по <strong>Участкам</strong> можно разграничить доступ <strong>Сотрудников</strong> и <strong>Заказчиков</strong> к работе с определенными <strong>Объектами</strong> и <strong>Типами заявок</strong>.
 </ul>
-<p>Также на вкладке <strong>Трудоустройство</strong> вы можете указать <strong>График работы</strong>. Он поможет учитывать рабочее время специалиста при назначении
-    на <strong>Заявки</strong>. <strong>График работы</strong> можно учесть при настройке автоматического назначения исполнителей. Подробнее читайте в статьях: <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/Schedule.html">График работы исполнителей</a>, <a
-            href="https://wiki.hubex.ru/docs/FAQ/RU/admin/RulesOfChoice.html">Правила автоназначения исполнителя</a>.
-</p>
-<div>
-    <img style="margin: 0 auto; display: block; max-width: 70%;"
-         src="/attachments/images/FAQ/USER/CreatingUser/Employment.jpg"/>
-</div>
 
-<p>После внесения всей необходимой информации не забудьте сохранить пользователя.</p>
-<p>Обратите внимание на реквизит <strong>Бан пользователя</strong>. Он появляется после сохранения данных о новом
-    <strong>Сотруднике</strong> напротив его имени. Бан используется в
-    случае увольнения сотрудника, чтобы запретить ему доступ в систему. Удалить пользователя на совсем из системы нельзя. Подробнее читайте в статье: <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/DeletedObjects.html">Почему нельзя удалить объекты/сотрудников/заявки и т.д. навсегда?</a></p>
+<p>Например, можно создать участок «Электрооборудование» и отнести к нему все подходящие объекты. Далее создать тип заявки, например, «Ремонт электрооборудования», который будет иметь специфический жизненный цикл, и указать у него участок «Электрооборудование». Затем указать у сотрудника тот же участок. Таким образом, этот сотрудник сможет создавать заявки с типом «Ремонт электрооборудования» и выбирать объекты только по участку «Электрооборудования».</p>
+<p>Для <strong>Cотрудника</strong>, <strong>Объекта</strong>, <strong>Заказчика</strong> и <strong>Типа заявки</strong> можно указать несколько <strong>Участков</strong>. <strong>Участки</strong> создаются и настраиваются в консоли администратора. Подробнее читайте в статьях: <a href="https://wiki.hubex.ru/docs/FAQ/RU/admin/Places.html">Настройка участков</a>, <a href="https://wiki.hubex.ru/docs/FAQ/RU/admin/Roles.html#exrole">Настройка ролей</a>.</p>
 
+<ul>
+    <li><strong>Виды работ</strong> - специфический вид деятельности (услуг), который может выполняться <strong>Сотрудником</strong> и быть направлен на <strong>Объект</strong>. Например, ваш <strong>Сотрудник</strong> квалифицируется на монтаже оборудования и (или) Ремонте. <strong>Виды работ</strong> в карточке <strong>Сотрудника</strong> можно использовать для настройки правила автоназначения на <strong>Заявки</strong>. Система будет подбирать исполнителя по совпадению <strong>Вида работ</strong> в карточке <strong>Сотрудника</strong> и выбранного <strong>Вида работ</strong> в <strong>Заявке</strong>.</li>
+</ul>
 
-<p>Перед началом работы в мобильном приложении пользователю нужно подтвердить использование геолокации. Геолокация позволит увидеть <strong>Сотрудника</strong> в меню <strong>Карты - Карта</strong> и отслеживать его перемещение.</p>
-<div>
-    <img style="margin: 0 auto; display: block; max-width: 90%;"
-         src="/attachments/images/FAQ/USER/CreatingUser/Map.jpg"/>
-</div>
+<p>Подробнее читайте в статье: <a href="https://wiki.hubex.ru/docs/FAQ/RU/admin/RulesOfChoice.html">Правила выбора исполнителя</a>. Чтобы в <strong>Заявке</strong> выбрать определенный <strong>Вид работ</strong>, необходимо сначала указать <strong>Виды работ</strong> в карточке этого <strong>Объекта</strong>.</p>
+<p>Новый <strong>Вид работ</strong> можно создать в консоли администратора. Подробнее читайте в статье: <a href="https://wiki.hubex.ru/docs/FAQ/RU/admin/WorkType.html">Виды работ</a>.</p>
+<p> <div> <img style="margin: 0 auto; display: block; max-width: 50%;" src="/attachments/images/FAQ/USER/CreatingUser/user7.png"/></div></p>
 
+<ul>
+    <li><strong>Навыки</strong> - дополнительные, особые умения, необходимые для выполнения определенной работы. С помощью <strong>Навыков</strong> в системе можно настроить точное автораспределение сотрудников на <strong>Заявки</strong>. <strong>Навыки</strong> создаются в консоли администратора. Подробнее читайте в статье: <a href="https://wiki.hubex.ru/docs/FAQ/RU/admin/Skills.html">Навыки</a>.</li>
+    <li><strong>Доступные склады</strong> указываются для того, чтобы при заполнении <strong>Выполненных работ</strong> в <strong>Заявке</strong> можно было указать материалы, потраченные в ходе выполнения. Подробнее читайте в статье: <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/Materials.html">Загрузка материалов и создание складов</a>.</li>
+</ul>
 
-<h5 id="movetocust">Перевод Сотрудника в Заказчики</h5>
-<p>Если вы случайно создали <strong>Сотрудника</strong> вместо <strong>Заказчика</strong>, тип
-<strong>Пользователя</strong> можно изменить. Сделать это необходимо, так как права <strong>Заказчика</strong> и <strong>Сотрудника</strong> различаются. Например, отсканировав QR-код, пользователь с типом
-<strong>Сотрудник</strong> может увидеть больше данных, чем нужно.</p>
+<div><img style="margin: 0 auto; display: block; max-width: 80%;" src="/attachments/images/FAQ/USER/CreatingUser/Qualification.jpg"/></div>
 
-<p>Откройте карточку <strong>Сотрудника</strong> и нажмите на <strong>Контекстное меню (3
-    точки)</strong>, которое находится в правом верхнем углу. В этом меню выберите пункт <strong>Перевести к
-    заказчикам</strong>.</p>
+<h2 id="user5">Раздел карточки сотрудника "Трудоустройство"</h2>
 
-<div>
-    <img style="margin: 0 auto; display: block; max-width: 95%;"
-         src="/attachments/images/FAQ/USER/CreatingUser/ChangeUserToCustomer.jpg"/>
-</div>
+<ul>
+    <li><strong>Компания</strong>: в которой работает <strong>Сотрудник</strong>;</li>
+    <li><strong>Должность</strong>: в свободной форме;</li>
+    <li><strong>Табельный номер</strong>: несет исключительно информационный характер. Необязательно для заполнения.</li>
+</ul>
 
+<p>Также на вкладке <strong>Трудоустройство</strong> вы можете указать <strong>График работы</strong>. Он поможет учитывать рабочее время специалиста при назначении на <strong>Заявки</strong>. <strong>График работы</strong> можно учесть при настройке автоматического назначения исполнителей. Подробнее читайте в статьях: <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/Schedule.html">График работы исполнителей</a>, <a href="https://wiki.hubex.ru/docs/FAQ/RU/admin/RulesOfChoice.html">Правила автоназначения исполнителя</a>.</p>
+<div><img style="margin: 0 auto; display: block; max-width: 70%;" src="/attachments/images/FAQ/USER/CreatingUser/Employment.jpg"/></div>
 
+<h2 id="user6">Дополнительные функции</h2>
+
+<p><strong>Бан пользователя</strong>: реквизит появляется после сохранения данных о новом cотруднике напротив его имени. Бан используется в случае увольнения сотрудника, чтобы запретить ему доступ в систему. Удалить пользователя на совсем из системы нельзя. Подробнее читайте в статье: <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/DeletedObjects.html">Почему нельзя удалить объекты/сотрудников/заявки и т.д. навсегда?</a></p>
+
+<p><strong>Геолокация</strong>: перед началом работы в мобильном приложении пользователю нужно подтвердить использование геолокации. Геолокация позволит увидеть <strong>Сотрудника</strong> в меню <strong>Карты - Карта</strong> и отслеживать его перемещение.</p>
+
+<div> <img style="margin: 0 auto; display: block; max-width: 90%;" src="/attachments/images/FAQ/USER/CreatingUser/Map.jpg"/></div>
+
+<p><strong>Перевод Сотрудника в Заказчики</strong>: если вы случайно создали <strong>Сотрудника</strong> вместо <strong>Заказчика</strong>, тип <strong>Пользователя</strong> можно изменить. Сделать это необходимо, так как права <strong>Заказчика</strong> и <strong>Сотрудника</strong> различаются. Например, отсканировав QR-код, пользователь с типом <strong>Сотрудник</strong> может увидеть больше данных, чем нужно.</p>
+<p>Откройте карточку <strong>Сотрудника</strong> и нажмите на <strong>Контекстное меню (3 точки)</strong>, которое находится в правом верхнем углу. В этом меню выберите пункт <strong>Перевести к заказчикам</strong>.</p>
+<div> <img style="margin: 0 auto; display: block; max-width: 95%;" src="/attachments/images/FAQ/USER/CreatingUser/ChangeUserToCustomer.jpg"/></div>
 <p>Нажмите кнопку <strong>Подтвердить</strong> в появившемся диалоговом окне.</p>
-<div>
-    <img style="margin: 0 auto; display: block; max-width: 70%;"
-         src="/attachments/images/FAQ/USER/CreatingUser/user12.png"/>
-</div>
+<div><img style="margin: 0 auto; display: block; max-width: 70%;" src="/attachments/images/FAQ/USER/CreatingUser/user12.png"/></div>
+<p>При переводе пользователя из <strong>Сотрудников</strong> в <strong>Заказчики</strong> его <strong>Роль</strong> необходимо изменить вручную, если это необходимо.</p>
 
-<p>При переводе пользователя из <strong>Сотрудников</strong> в <strong>Заказчики</strong> его
-<strong>Роль</strong> необходимо изменить вручную, если это необходимо.</p>
-
-<h5 id="invite">Повторная отправка приглашения для регистрации</h5>
-<p>Если после ввода телефона/электронной почты при <a href="#newuser">заполнении и сохранении новой карточки <strong>Сотрудника</strong></a>, на указанный телефон/электронный адрес приглашение так и не пришло, то можно отправить его повторно. </p>
-<p>В карточке <strong>Сотрудника</strong> или в общем списке всех <strong>Сотрудников</strong> нажмите на контекстное меню (три точки) и выберите пункт  <strong>Отправить приглашение повторно</strong>. </p>
-<div>
-    <img style="margin: 0 auto; display: block; max-width: 95%;"
-         src="/attachments/images/FAQ/USER/CreatingUser/Invite.jpg"/>
-</div>
-
-<p> Для ускорения процесса добавления <strong>Сотрудников</strong> в систему HubEx можно использовать функцию <a
-        href="https://wiki.hubex.ru/docs/FAQ/RU/user/Import.html#workers"> Импорта.</a></p>
-<p> Для выгрузки данных по <strong>Сотрудникам</strong> из системы HubEx можно воспользоваться функцией <a
-        href="https://wiki.hubex.ru/docs/FAQ/RU/user/Export.html#workers"> Экспорта.</a></p>
 </body>
 
 

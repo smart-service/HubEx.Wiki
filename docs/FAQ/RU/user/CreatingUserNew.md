@@ -42,7 +42,7 @@ description: (Новая)
 
 <p>Создать нового пользователя можно в меню <strong>"Пользователи" - "Сотрудники"</strong> по кнопке <strong>Добавить сотрудника</strong>.
 
-*Скриншот
+<div><img style="margin: 0 auto; display: block; max-width: 80%;" src="/attachments/images/FAQ/USER/CreatingUserNew/UsersNew1.png"/></div>
 
 <p>Форма создания нового сотрудника (карточка сотрудника) состоит из нескольких вкладок:
 
@@ -52,7 +52,7 @@ description: (Новая)
         <li><strong>Трудоустройство</strong>.</li>
 </ul>
 
-*Скриншот
+<div><img style="margin: 0 auto; display: block; max-width: 80%;" src="/attachments/images/FAQ/USER/CreatingUserNew/UsersNew2.png"/></div>
 
 <p>Рассмотрим основные поля, раздел карточки сотрудника - "Общее".</p>
 
@@ -62,6 +62,8 @@ description: (Новая)
     <li><strong> Мобильный сотрудник</strong>: чаще всего включается для выездных сотрудников, работающих с HubEx. Эта функция разрешает сотруднику участвовать в автоматическом распределении на <strong>Заявку</strong> и указывать его, как исполнителя уже выполненных работ.</li>
 </ul> 
 
+<div><img style="margin: 0 auto; display: block; max-width: 80%;" src="/attachments/images/FAQ/USER/CreatingUserNew/UsersNew3.png"/></div>
+
 <p>Подробнее читайте в статье: <a href="https://wiki.hubex.ru/docs/FAQ/RU/admin/RulesOfChoice.html">Правила автоназначения исполнителя</a>.</p>
 
 <ul>
@@ -70,23 +72,24 @@ description: (Новая)
     <li><strong>Роль</strong>: набор прав и полномочий, которые определяют уровень доступа к функционалу системы. </li>
 </ul>
 
+<div><img style="margin: 0 auto; display: block; max-width: 80%;" src="/attachments/images/FAQ/USER/CreatingUserNew/UsersNew4.png"/></div>
+
 <p>Создать и настроить <strong>Роль</strong> можно в <a href="https://wiki.hubex.ru/docs/FAQ/RU/admin/HowToEnterTheAdmin.html">Консоли администратора</a></p>
 
 <p>Для сервисного инженера роль будет <strong>Сервисный специалист</strong>, для начальника - <strong>Начальник Сервисной Службы</strong>.</p>
 <p>Роль <strong>Начальника Сервисной Службы</strong> предоставляет больше прав для работы с системой: по умолчанию для этой роли доступны переходы <strong>Заявки</strong> по различным стадиям, просмотр абсолютно всех <strong>Заявок</strong> и т.д. <strong>Сервисный специалист</strong> по умолчанию может принимать и выполнять <strong>Заявку</strong>, видеть только назначенные на него <strong>Заявки</strong> и т.д.</p>
 <p>Подробнее читайте в статье: <a href="https://wiki.hubex.ru/docs/FAQ/RU/admin/Roles.html">Настройка ролей</a>.</p>
 
-*Скриншот
-
 <h2 id="user3">Что представляет собой список сотрудников</h2>
 
 <p>Список всех сотрудников или заказчиков представляет собой карточный вид:</p>
 
-*Скриншот
+<div><img style="margin: 0 auto; display: block; max-width: 80%;" src="/attachments/images/FAQ/USER/CreatingUserNew/UsersNew5.png"/></div>
 
 <p>Вы можете фильтровать сотрудников или заказчиков, используя правое боковое меню:</p>
 
-*Скриншот
+<div><img style="margin: 0 auto; display: block; max-width: 80%;" src="/attachments/images/FAQ/USER/CreatingUserNew/UsersNew6.png"/></div>
+<div><img style="margin: 0 auto; display: block; max-width: 80%;" src="/attachments/images/FAQ/USER/CreatingUserNew/UsersNew7.png"/></div>
 
 <p>В разделе левого бокового меню «Пользователи» - "Сотрудники"/"Заказчики", карточка объекта отображает:</p>
 
@@ -98,10 +101,14 @@ description: (Новая)
     <li>Кнопка вызова по телефону.</li>
 </ol>
 
+<div><img style="margin: 0 auto; display: block; max-width: 80%;" src="/attachments/images/FAQ/USER/CreatingUserNew/UsersNew8.png"/></div>
+
+
 Дополнительные настройки (троеточие) дают возможность:
 
 <ul>
     <li>Копировать сотрудника/заказчика;</li>
+    <div><img style="margin: 0 auto; display: block; max-width: 80%;" src="/attachments/images/FAQ/USER/CreatingUserNew/UsersNew9.png"/></div>
     <li>Отправить приглашение повторно;</li>
 </ul>
 
@@ -110,13 +117,12 @@ description: (Новая)
 
 <ul>
     <li>Удалить сотрудника/заказчика.</li>
+    <div><img style="margin: 0 auto; display: block; max-width: 80%;" src="/attachments/images/FAQ/USER/CreatingUserNew/UsersNew10.png"/></div>
 </ul>
-
-*Скриншот
 
 <p>Заказчиков или сотрудников можно импортировать или экспортировать.</p>
 
-*Скриншот
+<div><img style="margin: 0 auto; display: block; max-width: 80%;" src="/attachments/images/FAQ/USER/CreatingUserNew/UsersNew11.png"/></div>
 
 <p>Подробнее об <strong>импорте</strong> вы можете прочитать в статье <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/Import.html#workers">Импорт сотрудников/заказчиков</a></p>
 <p>Подробнее об <strong>экспорте</strong> вы можете прочитать в статье <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/Export.html#workers">Экспорт сотрудников/заказчиков</a></p>
@@ -131,7 +137,6 @@ description: (Новая)
 
 <p>Подробнее читайте в статье: <a href="https://wiki.hubex.ru/docs/FAQ/RU/admin/RulesOfChoice.html">Правила выбора исполнителя</a>. Чтобы в <strong>Заявке</strong> выбрать определенный <strong>Вид работ</strong>, необходимо сначала указать <strong>Виды работ</strong> в карточке этого <strong>Объекта</strong>.</p>
 <p>Новый <strong>Вид работ</strong> можно создать в консоли администратора. Подробнее читайте в статье: <a href="https://wiki.hubex.ru/docs/FAQ/RU/admin/WorkType.html">Виды работ</a>.</p>
-<p> <div> <img style="margin: 0 auto; display: block; max-width: 50%;" src="/attachments/images/FAQ/USER/CreatingUser/user7.png"/></div></p>
 
 <ul>
     <li><strong>Навыки</strong> - дополнительные, особые умения, необходимые для выполнения определенной работы. С помощью <strong>Навыков</strong> в системе можно настроить точное автораспределение сотрудников на <strong>Заявки</strong>. <strong>Навыки</strong> создаются в консоли администратора. Подробнее читайте в статье: <a href="https://wiki.hubex.ru/docs/FAQ/RU/admin/Skills.html">Навыки</a>.</li>
@@ -154,6 +159,8 @@ description: (Новая)
 <h2 id="user6">Дополнительные функции</h2>
 
 <p><strong>Бан пользователя</strong>: реквизит появляется после сохранения данных о новом cотруднике напротив его имени. Бан используется в случае увольнения сотрудника, чтобы запретить ему доступ в систему. Удалить пользователя на совсем из системы нельзя. Подробнее читайте в статье: <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/DeletedObjects.html">Почему нельзя удалить объекты/сотрудников/заявки и т.д. навсегда?</a></p>
+
+<div><img style="margin: 0 auto; display: block; max-width: 80%;" src="/attachments/images/FAQ/USER/CreatingUserNew/UsersNew12.png"/></div>
 
 <p><strong>Геолокация</strong>: перед началом работы в мобильном приложении пользователю нужно подтвердить использование геолокации. Геолокация позволит увидеть <strong>Сотрудника</strong> в меню <strong>Карты - Карта</strong> и отслеживать его перемещение.</p>
 

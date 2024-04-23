@@ -93,16 +93,15 @@ description: (Новая)
 
 <p>В разделе левого бокового меню «Пользователи» - "Сотрудники"/"Заказчики", карточка объекта отображает:</p>
 
-<ol>
+<ul>
     <li><strong>ФИО</strong>;</li>
-    <li><strong>Должность;</li>
+    <li><strong>Должность</strong>;</li>
     <li><strong>Рейтинг сотрудника (для заказчика рейтинг недоступен)</strong>;</li>
     <li><strong>Активные заявки на сотруднике для "Сотрудника" (поданные заявки от заказчика для "Заказчика")</strong>;</li>
     <li><strong>Кнопка вызова по телефону</strong>.</li>
-</ol>
+</ul>
 
 <div><img style="margin: 0 auto; display: block; max-width: 80%;" src="/attachments/images/FAQ/USER/CreatingUserNew/UsersNew8.png"/></div>
-
 
 <p>Дополнительные настройки (три точки) дают возможность:</p>
 

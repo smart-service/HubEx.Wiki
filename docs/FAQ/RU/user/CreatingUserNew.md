@@ -108,12 +108,11 @@ description: (Новая)
 
 <ol>
     <li>Копировать сотрудника/заказчика;</li>
-        <p><div><img style="margin: 0 auto; display: block; max-width: 80%;" src="/attachments/images/FAQ/USER/CreatingUserNew/UsersNew9.png"/></div></p>
-    <li>Отправить приглашение повторно;</li>
-        <p>Если после ввода телефона/электронной почты при заполнении и сохранении новой карточки <strong>Сотрудника</strong>, на указанный телефон/электронный адрес приглашение так и не пришло, то можно отправить его повторно. В карточке <strong>Сотрудника</strong> или в общем списке всех <strong>Сотрудников</strong> нажмите на контекстное меню (три точки) и выберите пункт  <strong>Отправить приглашение повторно</strong>.</p>
-        <p><div> <img style="margin: 0 auto; display: block; max-width: 95%;" src="/attachments/images/FAQ/USER/CreatingUser/Invite.jpg"/></div><p>
+        <div><img style="margin: 0 auto; display: block; max-width: 80%;" src="/attachments/images/FAQ/USER/CreatingUserNew/UsersNew9.png"/></div>
+    <li>Отправить приглашение повторно. Если после ввода телефона/электронной почты при заполнении и сохранении новой карточки <strong>Сотрудника</strong>, на указанный телефон/электронный адрес приглашение так и не пришло, то можно отправить его повторно. В карточке <strong>Сотрудника</strong> или в общем списке всех <strong>Сотрудников</strong> нажмите на контекстное меню (три точки) и выберите пункт  <strong>Отправить приглашение повторно</strong>.</li>
+        <div> <img style="margin: 0 auto; display: block; max-width: 95%;" src="/attachments/images/FAQ/USER/CreatingUser/Invite.jpg"/></div>
     <li>Удалить сотрудника/заказчика.</li>
-        <p><div><img style="margin: 0 auto; display: block; max-width: 80%;" src="/attachments/images/FAQ/USER/CreatingUserNew/UsersNew10.png"/></div></p>
+        <div><img style="margin: 0 auto; display: block; max-width: 80%;" src="/attachments/images/FAQ/USER/CreatingUserNew/UsersNew10.png"/></div>
 </ol>
 
 <p>Заказчиков или сотрудников можно импортировать или экспортировать.</p>

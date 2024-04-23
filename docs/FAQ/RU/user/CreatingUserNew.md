@@ -44,7 +44,7 @@ description: (Новая)
 
 <div><img style="margin: 0 auto; display: block; max-width: 80%;" src="/attachments/images/FAQ/USER/CreatingUserNew/UsersNew1.png"/></div>
 
-<p>Форма создания нового сотрудника (карточка сотрудника) состоит из нескольких вкладок:
+<p>Форма создания нового сотрудника (карточка сотрудника) состоит из нескольких вкладок:</p>
 
 <ul>
         <li><strong>Общее</strong>;</li>
@@ -54,7 +54,7 @@ description: (Новая)
 
 <div><img style="margin: 0 auto; display: block; max-width: 80%;" src="/attachments/images/FAQ/USER/CreatingUserNew/UsersNew2.png"/></div>
 
-<p>Рассмотрим основные поля, раздел карточки сотрудника - "Общее".</p>
+<p>Рассмотрим основные поля, раздел карточки сотрудника - <strong>"Общее"</strong>.</p>
 
 <ul>
     <li><strong> ФИО</strong>;</li>
@@ -151,6 +151,7 @@ description: (Новая)
 </ul>
 
 <p>Также на вкладке <strong>Трудоустройство</strong> вы можете указать <strong>График работы</strong>. Он поможет учитывать рабочее время специалиста при назначении на <strong>Заявки</strong>. <strong>График работы</strong> можно учесть при настройке автоматического назначения исполнителей. Подробнее читайте в статьях: <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/Schedule.html">График работы исполнителей</a>, <a href="https://wiki.hubex.ru/docs/FAQ/RU/admin/RulesOfChoice.html">Правила автоназначения исполнителя</a>.</p>
+
 <div><img style="margin: 0 auto; display: block; max-width: 70%;" src="/attachments/images/FAQ/USER/CreatingUser/Employment.jpg"/></div>
 
 <h2 id="user6">Дополнительные функции</h2>

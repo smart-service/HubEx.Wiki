@@ -91,38 +91,29 @@ description: (Новая)
 <div><img style="margin: 0 auto; display: block; max-width: 80%;" src="/attachments/images/FAQ/USER/CreatingUserNew/UsersNew6.png"/></div>
 <div><img style="margin: 0 auto; display: block; max-width: 80%;" src="/attachments/images/FAQ/USER/CreatingUserNew/UsersNew7.png"/></div>
 
-<p>В разделе левого бокового меню «Пользователи» - "Сотрудники"/"Заказчики", карточка объекта отображает:</p>
+<p>В списке пользователей, карточка сотрудника отображает:</p>
 
 <ul>
-    <li><strong>ФИО</strong>;</li>
-    <li><strong>Должность</strong>;</li>
-    <li><strong>Рейтинг сотрудника (для заказчика рейтинг недоступен)</strong>;</li>
-    <li><strong>Активные заявки на сотруднике для "Сотрудника" (поданные заявки от заказчика для "Заказчика")</strong>;</li>
-    <li><strong>Кнопка вызова по телефону</strong>.</li>
+    <li>ФИО;</li>
+    <li>Должность;</li>
+    <li>Рейтинг сотрудника (для заказчика рейтинг недоступен);</li>
+    <li>Активные заявки на сотруднике для "Сотрудника" (поданные заявки от заказчика для "Заказчика");</li>
+    <li>Кнопка вызова по телефону.</li>
 </ul>
 
 <div><img style="margin: 0 auto; display: block; max-width: 80%;" src="/attachments/images/FAQ/USER/CreatingUserNew/UsersNew8.png"/></div>
 
 <p>Дополнительные настройки (три точки) дают возможность:</p>
 
-<ul>
+<ol>
     <li>Копировать сотрудника/заказчика;</li>
-</ul>
-
-<div><img style="margin: 0 auto; display: block; max-width: 80%;" src="/attachments/images/FAQ/USER/CreatingUserNew/UsersNew9.png"/></div>
-
-<ul>
+        <p><div><img style="margin: 0 auto; display: block; max-width: 80%;" src="/attachments/images/FAQ/USER/CreatingUserNew/UsersNew9.png"/></div></p>
     <li>Отправить приглашение повторно;</li>
-</ul>
-
-<p>Если после ввода телефона/электронной почты при заполнении и сохранении новой карточки <strong>Сотрудника</strong>, на указанный телефон/электронный адрес приглашение так и не пришло, то можно отправить его повторно. </p>
-<p>В карточке <strong>Сотрудника</strong> или в общем списке всех <strong>Сотрудников</strong> нажмите на контекстное меню (три точки) и выберите пункт  <strong>Отправить приглашение повторно</strong>.<div> <img style="margin: 0 auto; display: block; max-width: 95%;" src="/attachments/images/FAQ/USER/CreatingUser/Invite.jpg"/></div></p>
-
-<ul>
+        <p>Если после ввода телефона/электронной почты при заполнении и сохранении новой карточки <strong>Сотрудника</strong>, на указанный телефон/электронный адрес приглашение так и не пришло, то можно отправить его повторно. </p>
+        <p>В карточке <strong>Сотрудника</strong> или в общем списке всех <strong>Сотрудников</strong> нажмите на контекстное меню (три точки) и выберите пункт  <strong>Отправить приглашение повторно</strong>.<div> <img style="margin: 0 auto; display: block; max-width: 95%;" src="/attachments/images/FAQ/USER/CreatingUser/Invite.jpg"/></div></p>
     <li>Удалить сотрудника/заказчика.</li>
-</ul>
-
-<div><img style="margin: 0 auto; display: block; max-width: 80%;" src="/attachments/images/FAQ/USER/CreatingUserNew/UsersNew10.png"/></div>
+        <p><div><img style="margin: 0 auto; display: block; max-width: 80%;" src="/attachments/images/FAQ/USER/CreatingUserNew/UsersNew10.png"/></div></p>
+</ol>
 
 <p>Заказчиков или сотрудников можно импортировать или экспортировать.</p>
 
@@ -180,7 +171,6 @@ description: (Новая)
 <p>При переводе пользователя из <strong>Сотрудников</strong> в <strong>Заказчики</strong> его <strong>Роль</strong> необходимо изменить вручную, если это необходимо.</p>
 
 </body>
-
 
 ___
 ### Следующие шаги:

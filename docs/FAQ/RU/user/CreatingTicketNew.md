@@ -51,11 +51,11 @@ description: (Новая)
 
 <p>Создать <strong>Заявку</strong> можно перейдя в раздел левого бокового меню <strong>"Заявки"</strong>, подраздел <strong>"Все заявки"</strong>. Нажмите кнопку <strong>Создать заявку</strong>.</p>
 
-*Скриншот
+<div><img style="margin: 0 auto; display: block; max-width: 90%;" src="/attachments/images/FAQ/USER/CreatingTicketNew/CreatingTicketNew1.png"/></div>
 
 <p>Обратите внимание: <strong>Заявка</strong> на момент создания имеет только одну вкладку слева: <strong>Заявка</strong>.</p>
 
-*Скриншот
+<div><img style="margin: 0 auto; display: block; max-width: 90%;" src="/attachments/images/FAQ/USER/CreatingTicketNew/CreatingTicketNew2.png"/></div>
 
 <p>После сохранения <strong>Заявки</strong> на форме появятся еще несколько вкладок:</p>
 
@@ -69,7 +69,7 @@ description: (Новая)
     <li>История изменений;</li>
 </ul>
 
-*Скриншот
+<div><img style="margin: 0 auto; display: block; max-width: 90%;" src="/attachments/images/FAQ/USER/CreatingTicketNew/CreatingTicketNew3.png"/></div>
 
 <p><strong>Обратите внимание!</strong> Состав полей на форме <strong>Заявки</strong> можно настраивать в разрезе <strong>Ролей пользователей</strong> и <strong>Стадий заявки</strong>. Например, вы можете запретить определенной роли (например, "Сервисный специалист") изменять исполнителя в <strong>Заявке</strong> на стадии <strong>Назначена</strong>.</p>
 
@@ -79,20 +79,17 @@ description: (Новая)
 
 <ul>
 <li>Заявка;</li>
-
-*Скриншот
-
 <li>Обслуживание заказчика;</li>
 
-*Скриншот
+<div><img style="margin: 0 auto; display: block; max-width: 90%;" src="/attachments/images/FAQ/USER/CreatingTicketNew/CreatingTicketNew4.png"/></div>
 
 <li>Трудозатраты;</li>
 
-*Скриншот
+<div><img style="margin: 0 auto; display: block; max-width: 90%;" src="/attachments/images/FAQ/USER/CreatingTicketNew/CreatingTicketNew5.png"/></div>
 
 <li>Детальная информация.</li>
 
-*Скриншот
+<div><img style="margin: 0 auto; display: block; max-width: 90%;" src="/attachments/images/FAQ/USER/CreatingTicketNew/CreatingTicketNew6.png"/></div>
 
 </ul>
 
@@ -118,7 +115,6 @@ description: (Новая)
                 </ol>
         <p>Рассмотрим подробнее выбор исполнителей из формы <strong>Заявки</strong>.</p>
         <p>Чтобы выбрать сотрудника, нажмите кнопку <strong>+Добавить исполнителя</strong>. Перед вами откроется форма выбора исполнителей. Список исполнителей может быть отсортирован по одному из двух вариантов:</p>
-        <div> <img style="margin: 0 auto; display: block; max-width: 80%;"src="/attachments/images/FAQ/USER/CreatingTicket/Sorting.jpg"/> </div>
 </ul>
 
 <ol>

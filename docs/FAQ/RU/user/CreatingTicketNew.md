@@ -78,19 +78,13 @@ description: (Новая)
 <p>Для удобства заполнение вкладки заявки <strong>"Заявка"</strong> разделено на смысловые блоки:</p>
 
 <ul>
-<li>Заявка;</li>
-<li>Обслуживание заказчика;</li>
-
-<div><img style="margin: 0 auto; display: block; max-width: 90%;" src="/attachments/images/FAQ/USER/CreatingTicketNew/CreatingTicketNew4.png"/></div>
-
-<li>Трудозатраты;</li>
-
-<div><img style="margin: 0 auto; display: block; max-width: 90%;" src="/attachments/images/FAQ/USER/CreatingTicketNew/CreatingTicketNew5.png"/></div>
-
-<li>Детальная информация.</li>
-
-<div><img style="margin: 0 auto; display: block; max-width: 90%;" src="/attachments/images/FAQ/USER/CreatingTicketNew/CreatingTicketNew6.png"/></div>
-
+        <li>Заявка;</li>
+        <li>Обслуживание заказчика;</li>
+                <p><div><img style="margin: 0 auto; display: block; max-width: 90%;" src="/attachments/images/FAQ/USER/CreatingTicketNew/CreatingTicketNew4.png"/></div></p>
+        <li>Трудозатраты;</li>
+                <p><div><img style="margin: 0 auto; display: block; max-width: 90%;" src="/attachments/images/FAQ/USER/CreatingTicketNew/CreatingTicketNew6.png"/></div></p>
+        <li>Детальная информация.</li>
+                <p><div><img style="margin: 0 auto; display: block; max-width: 90%;" src="/attachments/images/FAQ/USER/CreatingTicketNew/CreatingTicketNew5.png"/></div></p>
 </ul>
 
 <p>Рассмотрим заполнение основных полей на форме создания заявки</p>

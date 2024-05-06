@@ -168,23 +168,24 @@ description: (Новая)
     <li><strong>Заявки на карте</strong>.</li>
 </ul>
 
-*Скриншот*
+<p><div><img style="margin: 0 auto; display: block; max-width: 90%;" src="/attachments/images/FAQ/USER/CreatingTicketNew/CreatingTicketNew7.png"/></div></p>
 
 <h3>Карточное отображение заявок (по-умолчанию):</h3>
 
-*Скриншот*
+<p><div><img style="margin: 0 auto; display: block; max-width: 90%;" src="/attachments/images/FAQ/USER/CreatingTicketNew/CreatingTicketNew8.png"/></div></p>
 
 <p>Вы можете фильтровать заявки, используя правое боковое меню:</p>
 
-*Скриншот*
+<p><div><img style="margin: 0 auto; display: block; max-width: 90%;" src="/attachments/images/FAQ/USER/CreatingTicketNew/CreatingTicketNew9.png"/></div></p>
+<p><div><img style="margin: 0 auto; display: block; max-width: 90%;" src="/attachments/images/FAQ/USER/CreatingTicketNew/CreatingTicketNew10.png"/></div></p>
 
 <p>При использовании фильтра вы можете посмотреть по каким параметрам фильтруется список заявок:</p>
 
-*Скриншот*
+<p><div><img style="margin: 0 auto; display: block; max-width: 90%;" src="/attachments/images/FAQ/USER/CreatingTicketNew/CreatingTicketNew11.png"/></div></p>
 
 <p>Вы можете создавать быстрые фильтры, чтобы применять ранее установленный фильтр по заявкам в 1 клик:</p>
 
-*Скриншот*
+<p><div><img style="margin: 0 auto; display: block; max-width: 90%;" src="/attachments/images/FAQ/USER/CreatingTicketNew/CreatingTicketNew12.png"/></div></p>
 
 <p>В списке всех заявок карточка заявки отображает:</p>
 
@@ -199,30 +200,30 @@ description: (Новая)
     <li>Назначено по.</li>
 </ul>
 
-*Скриншот*
+<p><div><img style="margin: 0 auto; display: block; max-width: 90%;" src="/attachments/images/FAQ/USER/CreatingTicketNew/CreatingTicketNew13.png"/></div></p>
 
 <p>Вы можете обновить список заявок нажав на специальную кнопку:</p>
 
-*Скриншот*
+<p><div><img style="margin: 0 auto; display: block; max-width: 90%;" src="/attachments/images/FAQ/USER/CreatingTicketNew/CreatingTicketNew14.png"/></div></p>
 
 <p>Вы можете установить количество отображаемых карточек заявок на одной странице:</p>
 
-*Скриншот*
+<p><div><img style="margin: 0 auto; display: block; max-width: 90%;" src="/attachments/images/FAQ/USER/CreatingTicketNew/CreatingTicketNew15.png"/></div></p>
 
 <p>Вы можете массово редактировать заявки в списке:</p>
 
-*Скриншот*
+<p><div><img style="margin: 0 auto; display: block; max-width: 90%;" src="/attachments/images/FAQ/USER/CreatingTicketNew/CreatingTicketNew16.png"/></div></p>
 
 <p>Вы можете импортировать заявки через "Шаблон импорта заявок". Подробнее читайте в статье: <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/Import.html#tickets">Импорт заявок</a>.</p>
 <p>Вы можете экспортировать заявки. Подробнее читайте в статье: <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/Export.html#tickets">Экспорт заявок</a>.</p>
 
-*Скриншот*
+<p><div><img style="margin: 0 auto; display: block; max-width: 90%;" src="/attachments/images/FAQ/USER/CreatingTicketNew/CreatingTicketNew17.png"/></div></p>
 
 <h3>Табличное отображение заявок:</h3>
 
 <p>Вы можете применять все ранее перечисленные функции, описанные в карточном отображении, а так же настраивать отображение столбцов табличного вида:</p>
 
-*Скриншот*
+<p><div><img style="margin: 0 auto; display: block; max-width: 90%;" src="/attachments/images/FAQ/USER/CreatingTicketNew/CreatingTicketNew18.png"/></div></p>
 
 <p>Вы можете сортировать следующие столбцы:</p>
 
@@ -232,6 +233,8 @@ description: (Новая)
         <li>Крайний срок закрытия;</li>
         <li>Дата изменения.</li>
 </ul>
+
+<p><div><img style="margin: 0 auto; display: block; max-width: 90%;" src="/attachments/images/FAQ/USER/CreatingTicketNew/CreatingTicketNew19.png"/></div></p>
 
 <h3>Отображение заявок на карте</h3>
 

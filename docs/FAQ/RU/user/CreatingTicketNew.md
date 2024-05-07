@@ -209,7 +209,7 @@ description: (Новая)
 
 <p><div><img style="margin: 0 auto; display: block; max-width: 90%;" src="/attachments/images/FAQ/USER/CreatingTicketNew/CreatingTicketNew13.png"/></div></p>
 
-<p>Вы можете обновить список заявок нажав на специальную кнопку:</p>
+<p>Чтобы обновить список заявок нажмите на специальную кнопку:</p>
 
 <p><div><img style="margin: 0 auto; display: block; max-width: 90%;" src="/attachments/images/FAQ/USER/CreatingTicketNew/CreatingTicketNew14.png"/></div></p>
 
@@ -217,22 +217,22 @@ description: (Новая)
 
 <p><div><img style="margin: 0 auto; display: block; max-width: 90%;" src="/attachments/images/FAQ/USER/CreatingTicketNew/CreatingTicketNew15.png"/></div></p>
 
-<p>Вы можете массово редактировать заявки в списке:</p>
+<p>Существует возможность массового редактирования заявок в списке:</p>
 
 <p><div><img style="margin: 0 auto; display: block; max-width: 90%;" src="/attachments/images/FAQ/USER/CreatingTicketNew/CreatingTicketNew16.png"/></div></p>
 
-<p>Вы можете импортировать заявки через "Шаблон импорта заявок". Подробнее читайте в статье: <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/Import.html#tickets">Импорт заявок</a>.</p>
-<p>Вы можете экспортировать заявки. Подробнее читайте в статье: <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/Export.html#tickets">Экспорт заявок</a>.</p>
+<p>Загрузка заявок через импорт: с помощью специального шаблона в формате Excel можно загрузить до 1000 заявок за 1 раз.. Подробнее читайте в статье: <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/Import.html#tickets">Импорт заявок</a>.</p>
+<p>Экспорт заявок осуществляется по кнопке "Экспорт". Подробнее читайте в статье: <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/Export.html#tickets">Экспорт заявок</a>.</p>
 
 <p><div><img style="margin: 0 auto; display: block; max-width: 90%;" src="/attachments/images/FAQ/USER/CreatingTicketNew/CreatingTicketNew17.png"/></div></p>
 
 <h3>Табличное отображение заявок:</h3>
 
-<p>Вы можете применять все ранее перечисленные функции, описанные в карточном отображении, а так же настраивать отображение столбцов табличного вида:</p>
+<p>У вас есть возможность применять все ранее перечисленные функции, описанные в карточном отображении, а так же настраивать отображение столбцов табличного вида:</p>
 
 <p><div><img style="margin: 0 auto; display: block; max-width: 90%;" src="/attachments/images/FAQ/USER/CreatingTicketNew/CreatingTicketNew18.png"/></div></p>
 
-<p>Вы можете сортировать следующие столбцы:</p>
+<p>Сортировка заявок включает в себя следующие столбцы:</p>
 
 <ul>
         <li>Объект;</li>
@@ -254,7 +254,7 @@ description: (Новая)
 <ul>
 <li><strong>Договор обслуживания</strong>: создается в карточке <strong>Компании</strong> (либо может быть создан из формы <strong>Заявки</strong> по кнопке <strong>+</strong>) и может распространяться на различные <strong>Объекты</strong> этой <strong>Компании</strong>. Договор необходим для классификации <strong>Заявок</strong>. Подробнее читайте в статье: <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/CreatingCompany.html#contract">Создание обслуживаемых компаний: Договор с клиентом</a>;</li>
 <li><strong>План объекта</strong>: подставляется автоматически из карточки выбранного <strong>Объекта</strong>. В <strong>Заявке</strong> на плане вы можете отметить точное место поломки. Подробнее читайте в статье: <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/FloorPlan.html">Планы помещений</a>;</li>
-<li><strong>Компания плательщик</strong>: может отличаться от заказчика;</li>
+<li><strong>Компания-плательщик</strong>: может отличаться от заказчика;</li>
 <li><strong>Контактные лица</strong>: можно указать, с кем связаться по вопросам заявки;</li>
 <li><strong>Наша компания</strong>: устанавливается вручную из списка компаний с видом <strong>"Наша компания"</strong>. Если у вас несколько собственных организаций, вручную выберите одну из них. Подробнее читайте в статье: <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/CreatingCompany.html">Создание обслуживаемых компаний</a>;</li>
 <li><strong>Родительская заявка</strong>: если вы создаете дочернюю заявку, укажите для нее ссылку на родительскую заявку. Подробнее читайте в статье: <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/ChildTicket.html">Дочерние заявки</a>.;</li>

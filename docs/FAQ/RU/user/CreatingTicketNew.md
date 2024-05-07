@@ -266,7 +266,6 @@ description: (Новая)
 <h3>Раздел заявки "Необходимые материалы"</h3>
 
 <p>Рассмотрим вкладку <strong>"Необходимые материалы"</strong>. Она носит рекомендательный характер. Здесь можно отразить перечень материалов, которые могут понадобиться специалисту для выполнения <strong>Заявки</strong>.</p>
-<p> <div> <img style="margin: 0 auto; display: block; max-width: 80%;" src="/attachments/images/FAQ/USER/CreatingTicket/NoMaterials.jpg"/> </div> </p>
 <p>Нажмите на кнопку <strong>"Добавить материалы"</strong>. Выбор можно осуществлять с отбором по определенному складу или всем складам. Укажите количество и нажмите кнопку <strong>"Выбрать"</strong>.</p>
 <p><strong>Обратите внимание!</strong> Материалы предварительно должны быть внесены в систему. Подробнее читайте в статьях: <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/Materials.html">Загрузка материалов и создание складов</a>, <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/TicketWithMaterials.html">Подача заявки с указанием рекомендованных материалов</a>.</p>
 <p> <div> <img style="margin: 0 auto; display: block; max-width: 80%;" src="/attachments/images/FAQ/USER/CreatingTicket/Materials.jpg"/> </div> </p>

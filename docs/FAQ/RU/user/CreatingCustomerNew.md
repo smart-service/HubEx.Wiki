@@ -31,7 +31,7 @@ description: (Новая)
 
 <p>Создать нового заказчика можно в разделе левого бокового меню <strong>"Пользователи" - "Заказчики"</strong> по кнопке <strong>"Создать заказчика"</strong>.</p>
 
-*Скриншот*
+<p><div><img style="margin: 0 auto; display: block; max-width: 90%;" src="/attachments/images/FAQ/USER/CreatingCustomerNew/CreatingCustomerNew1.png"/></div></p>
 
 <p>Карточка заказчика состоит из нескольких вкладок:</p>
 
@@ -41,7 +41,7 @@ description: (Новая)
     <li><strong>Прочее</strong>.</li>
 </ul>
 
-*Скриншот*
+<p><div><img style="margin: 0 auto; display: block; max-width: 90%;" src="/attachments/images/FAQ/USER/CreatingCustomerNew/CreatingCustomerNew2.png"/></div></p>
 
 <h2 id="customer2">Карточка заказчика. Вкладка "Общее"</h2>
 
@@ -54,6 +54,8 @@ description: (Новая)
     <li><strong>Компания</strong>: к которой принадлежит заказчик;</li>
     <li><strong>Роль</strong>: для заказчика необходимо выбрать одноименную роль <strong>"Заказчик"</strong>.</li>
 </ul>
+
+<p><div><img style="margin: 0 auto; display: block; max-width: 90%;" src="/attachments/images/FAQ/USER/CreatingCustomerNew/CreatingCustomerNew3.png"/></div></p>
 
 <p>Необязательные для заполнения поля:</p>
 
@@ -74,7 +76,7 @@ description: (Новая)
 
 <p>На вкладке <strong>"Квалификация"</strong> необходимо указать <strong>"Участок"</strong>, по которому заказчик может подавать заявки.</p>
 
-*Скриншот*
+<p><div><img style="margin: 0 auto; display: block; max-width: 90%;" src="/attachments/images/FAQ/USER/CreatingCustomerNew/CreatingCustomerNew5.png"/></div></p>
 
 <p><strong>"Участок"</strong> - это классификация <strong>"Объектов"</strong>, <strong>"Типов заявок"</strong>, <strong>"Сотрудников"</strong>, <strong>"Заказчиков"</strong> по различным критериям: географическим, функциональным и т.д.</p>
 <p>С помощью настройки <strong>"Ролей"</strong> по <strong>"Участкам"</strong> можно разграничить доступ <strong>"Сотрудников"</strong> и <strong>"Заказчиков"</strong> к работе с определенными <strong>Объектами</strong> и <strong>Типами заявок</strong>.</p>
@@ -87,19 +89,21 @@ description: (Новая)
 
 <p>На вкладке <strong>"Прочее"</strong> находится всего один реквизит: <strong>"Бан пользователя"</strong>. Он используется в случае запрета доступа в систему.</p>
 
+<p><div><img style="margin: 0 auto; display: block; max-width: 90%;" src="/attachments/images/FAQ/USER/CreatingCustomerNew/CreatingCustomerNew6.png"/></div></p>
+
 <p>После внесения всей необходимой информации не забудьте сохранить карточку нового заказчика.</p>
 
-*Скриншот*
+<p><div><img style="margin: 0 auto; display: block; max-width: 90%;" src="/attachments/images/FAQ/USER/CreatingCustomerNew/CreatingCustomerNew7.png"/></div></p>
 
 <h2 id="customer5">Что представляет собой список заказчиков</h2>
 
 <p>Список всех заказчиков представляет собой карточный вид:</p>
 
-*Скриншот*
+<p><div><img style="margin: 0 auto; display: block; max-width: 90%;" src="/attachments/images/FAQ/USER/CreatingCustomerNew/CreatingCustomerNew8.png"/></div></p>
 
 <p>Вы можете фильтровать список заказчиков, используя правое боковое меню:</p>
 
-*Скриншот*
+<p><div><img style="margin: 0 auto; display: block; max-width: 90%;" src="/attachments/images/FAQ/USER/CreatingCustomerNew/CreatingCustomerNew9.png"/></div></p>
 
 <p>В списке заказчиков, карточка заказчика отображает:</p>
 
@@ -110,11 +114,9 @@ description: (Новая)
     <li>Кнопка вызова по телефону.</li>
 </ul>
 
-*Скриншот*
+<p><div><img style="margin: 0 auto; display: block; max-width: 90%;" src="/attachments/images/FAQ/USER/CreatingCustomerNew/CreatingCustomerNew10.png"/></div></p>
 
 <p>Дополнительные настройки (три точки) дают возможность:</p>
-
-*Скриншот*
 
 <ol>
     <li>Копировать заказчика;</li>
@@ -125,10 +127,12 @@ description: (Новая)
 *Скриншот*
 </ol>
 
+<p><div><img style="margin: 0 auto; display: block; max-width: 90%;" src="/attachments/images/FAQ/USER/CreatingCustomerNew/CreatingCustomerNew11.png"/></div></p>
+
 <p> Для быстрого добавления <strong>"Заказчиков"</strong> в систему HubEx воспользуйтесь функцией <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/Import.html#workers"> Импорта.</a></p>
 <p> А для выгрузки информации по <strong>Заказчикам</strong> из системы HubEx воспользуйтесь функцией <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/Export.html#workers"> Экспорта.</a></p>
 
-*Скриншот*
+<p><div><img style="margin: 0 auto; display: block; max-width: 90%;" src="/attachments/images/FAQ/USER/CreatingCustomerNew/CreatingCustomerNew12.png"/></div></p>
 
 <h2 id="customer6">Как перевести заказчика в сотрудники</h2>
 

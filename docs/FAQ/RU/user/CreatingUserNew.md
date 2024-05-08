@@ -83,22 +83,23 @@ description: (Новая)
 
 <h2 id="user3">Что представляет собой список сотрудников</h2>
 
-<p>Список всех сотрудников или заказчиков представляет собой карточный вид:</p>
+<p>Список всех сотрудников представляет собой карточный вид:</p>
 
 <div><img style="margin: 0 auto; display: block; max-width: 80%;" src="/attachments/images/FAQ/USER/CreatingUserNew/UsersNew5.png"/></div>
 
-<p>Вы можете фильтровать сотрудников или заказчиков, используя правое боковое меню:</p>
+<p>Вы можете фильтровать список сотрудников, используя правое боковое меню:</p>
 
 <div><img style="margin: 0 auto; display: block; max-width: 80%;" src="/attachments/images/FAQ/USER/CreatingUserNew/UsersNew6.png"/></div>
 <div><img style="margin: 0 auto; display: block; max-width: 80%;" src="/attachments/images/FAQ/USER/CreatingUserNew/UsersNew7.png"/></div>
 
-<p>В списке пользователей, карточка сотрудника отображает:</p>
+<p>В списке всех сотрудников карточка одного сотрудника отображает:</p>
 
 <ul>
+    <li>Аватар (фото);</li>
     <li>ФИО;</li>
     <li>Должность;</li>
-    <li>Рейтинг сотрудника (для заказчика рейтинг недоступен);</li>
-    <li>Активные заявки на сотруднике для "Сотрудника" (поданные заявки от заказчика для "Заказчика");</li>
+    <li>Рейтинг сотрудника;</li>
+    <li>Активные заявки на сотруднике для "Сотрудника";</li>
     <li>Кнопка вызова по телефону.</li>
 </ul>
 
@@ -107,20 +108,20 @@ description: (Новая)
 <p>Дополнительные настройки (три точки) дают возможность:</p>
 
 <ol>
-    <li>Копировать сотрудника/заказчика;</li>
+    <li>Копировать сотрудника;</li>
         <div><img style="margin: 0 auto; display: block; max-width: 80%;" src="/attachments/images/FAQ/USER/CreatingUserNew/UsersNew9.png"/></div>
     <li>Отправить приглашение повторно. Если после ввода телефона/электронной почты при заполнении и сохранении новой карточки <strong>Сотрудника</strong>, на указанный телефон/электронный адрес приглашение так и не пришло, то можно отправить его повторно. В карточке <strong>Сотрудника</strong> или в общем списке всех <strong>Сотрудников</strong> нажмите на контекстное меню (три точки) и выберите пункт  <strong>Отправить приглашение повторно</strong>.</li>
         <div> <img style="margin: 0 auto; display: block; max-width: 95%;" src="/attachments/images/FAQ/USER/CreatingUser/Invite.jpg"/></div>
-    <li>Удалить сотрудника/заказчика.</li>
+    <li>Удалить сотрудника.</li>
         <div><img style="margin: 0 auto; display: block; max-width: 80%;" src="/attachments/images/FAQ/USER/CreatingUserNew/UsersNew10.png"/></div>
 </ol>
 
-<p>Заказчиков или сотрудников можно импортировать или экспортировать.</p>
+<p>Сотрудников можно импортировать или экспортировать.</p>
 
 <div><img style="margin: 0 auto; display: block; max-width: 80%;" src="/attachments/images/FAQ/USER/CreatingUserNew/UsersNew11.png"/></div>
 
-<p>Подробнее об <strong>импорте</strong> вы можете прочитать в статье <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/Import.html#workers">Импорт сотрудников/заказчиков</a>.</p>
-<p>Подробнее об <strong>экспорте</strong> вы можете прочитать в статье <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/Export.html#workers">Экспорт сотрудников/заказчиков</a>.</p>
+<p>Подробнее об <strong>импорте</strong> вы можете прочитать в статье <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/Import.html#workers">Импорт пользователей</a>.</p>
+<p>Подробнее об <strong>экспорте</strong> вы можете прочитать в статье <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/Export.html#workers">Экспорт пользователей</a>.</p>
 
 <h2 id="user4">Раздел карточки сотрудника "Квалификация"</h2>
 

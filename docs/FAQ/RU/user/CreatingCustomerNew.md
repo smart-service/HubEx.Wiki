@@ -8,7 +8,7 @@ description: (Новая)
 <html lang="ru">
 <meta charset="utf-8">
 
-<p>В этом разделе вы узнаете:</p>
+<p>Содержание статьи:</p>
 
 <ul>
     <li><a href="#customer1">Введение;</a></li>

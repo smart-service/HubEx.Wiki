@@ -8,7 +8,7 @@ description: (Новая)
 <html lang="ru">
 <meta charset="utf-8">
 
-<p>Содержание статьи</p>
+<p>Содержание статьи:</p>
 
 <ul>
     <li><a href="#worktype1">Что такое виды работ в HubEx;</a></li>
@@ -57,7 +57,7 @@ description: (Новая)
 
 <p>Чтобы в <Strong>Заявке</Strong> выбрать один из <Strong>Видов работ</Strong> по <Strong>Объекту</Strong>, необходимо, чтобы <Strong>Виды работ</Strong> были указаны в карточке этого <Strong>Объекта</Strong>.</p>
 
-<p>При создании нового <Strong>Вида работ</Strong> во всех уже созданных в системе <Strong>Объектах</Strong> этот <Strong>Вид работ</Strong> <strong>НЕ добавится</strong> автоматически.</p>
+<p>При создании нового <Strong>Вида работ</Strong> во всех уже созданных в системе <Strong>Объектах</Strong> этот вид работ <strong>НЕ добавится</strong> автоматически.</p>
 
 <p>Создать новый вид работ можно через форму заявки:</p>
 
@@ -65,7 +65,7 @@ description: (Новая)
     <li>При создании <Strong>Заявки</Strong>, в поле выбора <Strong>Вида работ</Strong> создать новый можно по кнопке <Strong>"+"</Strong> или <Strong>"Создать+"</Strong>;
         <p> <div> <img style="margin: 0 auto; display: block; max-width: 95%;" src="/attachments/images/FAQ/ADMIN/WorkType/Ticket2.jpg"/> </div> </p>
     </li>
-    <li>Откроется боковая форма <Strong>Вида работ</Strong> с основными полями. После заполнения всех необходимых полей нажмите кнопку <Strong>@Создать</Strong>.
+    <li>Откроется боковая форма <Strong>Вида работ</Strong> с основными полями. После заполнения всех необходимых полей нажмите кнопку <Strong>Создать</Strong>.
         <p> <div> <img style="margin: 0 auto; display: block; max-width: 95%;" src="/attachments/images/FAQ/ADMIN/WorkType/Ticket3.jpg"/> </div> </p>
     </li>
 </ul>

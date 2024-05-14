@@ -70,7 +70,7 @@ description: (Новая)
 
 <h2 id="place5">Участок в заказчиках</h2>
 
-<p>Участок в карточке заказчика можно указать на вкладке <Strong>"Квалификация"</Strong> (левое боковое меню HubEx, раздел <Strong>"Пользователи" - подраздел <Strong>"Заказчики"</Strong>).</p>
+<p>Участок в карточке заказчика можно указать на вкладке <Strong>"Квалификация"</Strong> (левое боковое меню HubEx, раздел <Strong>"Пользователи"</Strong> - подраздел <Strong>"Заказчики"</Strong>).</p>
 <div> <img style="margin: 0 auto; display: block; max-width: 90%;" src="/attachments/images/FAQ/ADMIN/Places/Customer.jpg"/> </div>
 
 <p><strong>Обратите внимание!</strong> Для заказчика можно указать несколько участков.</p>

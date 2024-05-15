@@ -62,25 +62,25 @@ description: (Новая)
 <p>Создать новый вид работ можно через форму заявки:</p>
 
 <ul>
-    <li>При создании <Strong>Заявки</Strong>, в поле выбора <Strong>Вида работ</Strong> создать новый можно по кнопке <Strong>"+"</Strong> или <Strong>"Создать+"</Strong>;
+    <li>При создании <Strong>Заявки</Strong>, в поле выбора <Strong>Вида работ</Strong> создать новый можно по кнопке <Strong>"+"</Strong> или <Strong>"Создать +"</Strong>;
         <p> <div> <img style="margin: 0 auto; display: block; max-width: 95%;" src="/attachments/images/FAQ/ADMIN/WorkType/Ticket2.jpg"/> </div> </p>
     </li>
-    <li>Откроется боковая форма <Strong>Вида работ</Strong> с основными полями. После заполнения всех необходимых полей нажмите кнопку <Strong>Создать</Strong>.
+    <li>Откроется боковая форма <Strong>Вида работ</Strong> с основными полями. После заполнения всех необходимых полей нажмите кнопку <Strong>"Создать"</Strong>.
         <p> <div> <img style="margin: 0 auto; display: block; max-width: 95%;" src="/attachments/images/FAQ/ADMIN/WorkType/Ticket3.jpg"/> </div> </p>
     </li>
 </ul>
 
 <h2 id="worktype4">Виды работ в объектах/оборудовании</h2>
 
-<p>При создании или редактировании <Strong>Объекта</Strong> на вкладке <Strong>Обслуживание</Strong> можно также создать новый <Strong>Вид работ</Strong>: нажмите кнопку <Strong>Добавить</Strong>, чтобы открыть список доступных <Strong>Видов работ</Strong>.</p>
+<p>При создании или редактировании <Strong>Объекта</Strong> на вкладке <Strong>"Обслуживание"</Strong> можно также создать новый <Strong>Вид работ</Strong>: нажмите кнопку <Strong>"Добавить"</Strong>, чтобы открыть список доступных <Strong>Видов работ</Strong>.</p>
 
 <p> <div> <img style="margin: 0 auto; display: block; max-width: 95%;" src="/attachments/images/FAQ/ADMIN/WorkType/Object.jpg"/> </div> </p>
     
-<p>Внизу списка нажмите кнопку <Strong>+Добавить</Strong>.</p>
+<p>Внизу списка нажмите кнопку <Strong>"+ Добавить"</Strong>.</p>
 
 <p> <div> <img style="margin: 0 auto; display: block; max-width: 95%;" src="/attachments/images/FAQ/ADMIN/WorkType/Object2.jpg"/> </div> </p>
 
-<p>Откроется боковая форма <Strong>Вида работ</Strong> с основными полями. После заполнения всех необходимых полей нажмите кнопку <Strong>Создать</Strong>.</p>
+<p>Откроется боковая форма <Strong>Вида работ</Strong> с основными полями. После заполнения всех необходимых полей нажмите кнопку <Strong>"Создать"</Strong>.</p>
 
 <p> <div> <img style="margin: 0 auto; display: block; max-width: 95%;" src="/attachments/images/FAQ/ADMIN/WorkType/Object3.jpg"/> </div> </p>
 

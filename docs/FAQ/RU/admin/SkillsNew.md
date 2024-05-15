@@ -36,7 +36,7 @@ description: (Новая)
 
 <h2 id="skills3">Как создать навык</h2>
 
-<p>Создать <Strong>Навык</Strong> можно в <a href="https://wiki.hubex.ru/docs/FAQ/RU/admin/HowToEnterTheAdmin.html">консоли администратора</a> в разделе левого бокового меню <Strong>Структура предприятия</Strong> - подраздел <strong>Навыки</strong> по кнопке <Strong>"Создать навык"</Strong>.</p>
+<p>Создать <Strong>Навык</Strong> можно в <a href="https://wiki.hubex.ru/docs/FAQ/RU/admin/HowToEnterTheAdmin.html">консоли администратора</a> в разделе левого бокового меню <Strong>"Структура предприятия"</Strong> - подраздел <strong>"Навыки"</strong> по кнопке <Strong>"Создать навык"</Strong>.</p>
 
 <div> <img style="margin: 0 auto; display: block; max-width: 60%;" src="/attachments/images/FAQ/ADMIN/Skills/Skill.jpg"/> </div>
 

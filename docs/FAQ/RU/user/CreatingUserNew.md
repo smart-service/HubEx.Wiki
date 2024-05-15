@@ -27,7 +27,7 @@ description: (Новая)
 
 <p>В системе HubEx существует два типа пользователей: <strong>Сотрудники</strong> и <strong>Заказчики</strong>.</p>
 
-<p><strong>Сотрудники</strong> – пользователи, которые могут создавать и выполнять <strong>Заявки</strong>. <strong>Сотрудники</strong> являются лицензируемыми пользователями системы. Для <strong>Сотрудников</strong> доступно web- и мобильное приложение исполнителя. <strong>Сотрудником</strong> может являться диспетчер вашей организации, который создает заявки в web-приложении, руководитель вашей организации (например, Начальник сервисной службы), исполнитель (например, Сервисный инженер).</p>
+<p><strong>Сотрудники</strong> – пользователи, которые могут создавать и выполнять <strong>Заявки</strong>. <strong>Сотрудники</strong> являются лицензируемыми пользователями системы. Для <strong>Сотрудников</strong> доступно web- и Мобильное приложение HubEx для исполнителя. <strong>Сотрудником</strong> может являться диспетчер вашей организации, который создает заявки в web-приложении, руководитель вашей организации (например, Начальник сервисной службы), исполнитель (например, Сервисный инженер).</p>
 <p><strong>Заказчик</strong> - пользователь, который может создавать <strong>Заявки</strong> в мобильном приложении заказчика. <strong>Заказчик</strong> привязывается к компании-заказчику.</p>
 <p>Подробнее о создании заказчика читайте в статье: <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/CreatingCustomer.html">Создание заказчика</a>.</p>
 
@@ -35,13 +35,13 @@ description: (Новая)
 <p>Мобильное приложение доступно для скачивания <a href="https://play.google.com/store/apps/details?id=ru.hubex.engineer">на Android</a> и <a href="https://apps.apple.com/ru/app/hubex-%D0%B4%D0%BB%D1%8F-%D1%81%D0%B5%D1%80%D0%B2%D0%B8%D1%81%D0%BD%D0%BE%D0%B9-%D1%81%D0%BB%D1%83%D0%B6%D0%B1%D1%8B/id1386688688">на iOS</a>.</p>
 <p>Войти в свой аккаунт HubEx сотрудник или заказчик сможет только после создания аккаунта для него и подтверждения регистрации по телефону или почте.</p>
 
-<p>Прочтите подробную статью ниже или начните знакомство с темой с обучающего видеоролика <strong>Как создать нового пользователя в HubEx</strong>.</p>
+<p>Прочтите подробную статью ниже или начните знакомство с темой с обучающего видеоролика <strong>"Как создать нового пользователя в HubEx"</strong>.</p>
 
 <iframe src="https://www.youtube.com/embed/wuEMTcEQeCY" width="100%" height="450px" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
 <h2 id="user2">Основные поля. Раздел карточки сотрудника "Общее"</h2>
 
-<p>Создать нового пользователя можно в меню <strong>"Пользователи" - "Сотрудники"</strong> по кнопке <strong>Добавить сотрудника</strong></p>.
+<p>Создать нового пользователя можно в меню <strong>"Пользователи" - "Сотрудники"</strong> по кнопке <strong>"Добавить сотрудника"</strong></p>
 
 <div><img style="margin: 0 auto; display: block; max-width: 80%;" src="/attachments/images/FAQ/USER/CreatingUserNew/UsersNew1.png"/></div>
 
@@ -75,10 +75,10 @@ description: (Новая)
 
 <div><img style="margin: 0 auto; display: block; max-width: 80%;" src="/attachments/images/FAQ/USER/CreatingUserNew/UsersNew4.png"/></div>
 
-<p>Создать и настроить <strong>Роль</strong> можно в <a href="https://wiki.hubex.ru/docs/FAQ/RU/admin/HowToEnterTheAdmin.html">Консоли администратора</a></p>
+<p>Создать и настроить <strong>Роль</strong> можно в <a href="https://wiki.hubex.ru/docs/FAQ/RU/admin/HowToEnterTheAdmin.html">консоли администратора</a></p>
 
-<p>Для сервисного инженера роль будет <strong>Сервисный специалист</strong>, для начальника - <strong>Начальник Сервисной Службы</strong>.</p>
-<p>Роль <strong>Начальника Сервисной Службы</strong> предоставляет больше прав для работы с системой: по умолчанию для этой роли доступны переходы <strong>Заявки</strong> по различным стадиям, просмотр абсолютно всех <strong>Заявок</strong> и т.д. <strong>Сервисный специалист</strong> по умолчанию может принимать и выполнять <strong>Заявку</strong>, видеть только назначенные на него <strong>Заявки</strong> и т.д.</p>
+<p>Для сервисного инженера роль будет <strong>"Сервисный специалист"</strong>, для начальника - <strong>"Начальник Сервисной Службы"</strong>.</p>
+<p>Роль <strong>"Начальника Сервисной Службы"</strong> предоставляет больше прав для работы с системой: по умолчанию для этой роли доступны переходы <strong>Заявки</strong> по различным стадиям, просмотр абсолютно всех <strong>Заявок</strong> и т.д. <strong>"Сервисный специалист"</strong> по умолчанию может принимать и выполнять <strong>Заявку</strong>, видеть только назначенные на него <strong>Заявки</strong> и т.д.</p>
 <p>Подробнее читайте в статье: <a href="https://wiki.hubex.ru/docs/FAQ/RU/admin/Roles.html">Настройка ролей</a>.</p>
 
 <h2 id="user3">Что представляет собой список сотрудников</h2>
@@ -110,7 +110,7 @@ description: (Новая)
 <ol>
     <li>Копировать сотрудника;</li>
         <div><img style="margin: 0 auto; display: block; max-width: 80%;" src="/attachments/images/FAQ/USER/CreatingUserNew/UsersNew9.png"/></div>
-    <li>Отправить приглашение повторно. Если после ввода телефона/электронной почты при заполнении и сохранении новой карточки <strong>Сотрудника</strong>, на указанный телефон/электронный адрес приглашение так и не пришло, то можно отправить его повторно. В карточке <strong>Сотрудника</strong> или в общем списке всех <strong>Сотрудников</strong> нажмите на контекстное меню (три точки) и выберите пункт  <strong>Отправить приглашение повторно</strong>.</li>
+    <li>Отправить приглашение повторно. Если после ввода телефона/электронной почты при заполнении и сохранении новой карточки <strong>Сотрудника</strong>, на указанный телефон/электронный адрес приглашение так и не пришло, то можно отправить его повторно. В карточке <strong>Сотрудника</strong> или в общем списке всех <strong>Сотрудников</strong> нажмите на контекстное меню (три точки) и выберите пункт <strong>"Отправить приглашение повторно"</strong>.</li>
         <div> <img style="margin: 0 auto; display: block; max-width: 95%;" src="/attachments/images/FAQ/USER/CreatingUser/Invite.jpg"/></div>
     <li>Удалить сотрудника.</li>
         <div><img style="margin: 0 auto; display: block; max-width: 80%;" src="/attachments/images/FAQ/USER/CreatingUserNew/UsersNew10.png"/></div>
@@ -152,7 +152,7 @@ description: (Новая)
     <li><strong>Табельный номер</strong>: несет исключительно информационный характер. Необязательно для заполнения.</li>
 </ul>
 
-<p>Также на вкладке <strong>Трудоустройство</strong> вы можете указать <strong>График работы</strong>. Он поможет учитывать рабочее время специалиста при назначении на <strong>Заявки</strong>. <strong>График работы</strong> можно учесть при настройке автоматического назначения исполнителей. Подробнее читайте в статьях: <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/Schedule.html">График работы исполнителей</a>, <a href="https://wiki.hubex.ru/docs/FAQ/RU/admin/RulesOfChoice.html">Правила автоназначения исполнителя</a>.</p>
+<p>Также на вкладке <strong>"Трудоустройство"</strong> вы можете указать <strong>График работы</strong>. Он поможет учитывать рабочее время специалиста при назначении на <strong>Заявки</strong>. <strong>График работы</strong> можно учесть при настройке автоматического назначения исполнителей. Подробнее читайте в статьях: <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/Schedule.html">График работы исполнителей</a>, <a href="https://wiki.hubex.ru/docs/FAQ/RU/admin/RulesOfChoice.html">Правила автоназначения исполнителя</a>.</p>
 
 <div><img style="margin: 0 auto; display: block; max-width: 70%;" src="/attachments/images/FAQ/USER/CreatingUser/Employment.jpg"/></div>
 
@@ -167,7 +167,7 @@ description: (Новая)
 <div> <img style="margin: 0 auto; display: block; max-width: 90%;" src="/attachments/images/FAQ/USER/CreatingUser/Map.jpg"/></div>
 
 <p><strong>Перевод Сотрудника в Заказчики</strong>: если вы случайно создали <strong>Сотрудника</strong> вместо <strong>Заказчика</strong>, тип <strong>Пользователя</strong> можно изменить. Сделать это необходимо, так как права <strong>Заказчика</strong> и <strong>Сотрудника</strong> различаются. Например, отсканировав QR-код, пользователь с типом <strong>Сотрудник</strong> может увидеть больше данных, чем нужно.</p>
-<p>Откройте карточку <strong>Сотрудника</strong> и нажмите на <strong>Контекстное меню (3 точки)</strong>, которое находится в правом верхнем углу. В этом меню выберите пункт <strong>Перевести к заказчикам</strong>.</p>
+<p>Откройте карточку <strong>Сотрудника</strong> и нажмите на <strong>Контекстное меню (3 точки)</strong>, которое находится в правом верхнем углу. В этом меню выберите пункт <strong>"Перевести к заказчикам"</strong>.</p>
 <div> <img style="margin: 0 auto; display: block; max-width: 95%;" src="/attachments/images/FAQ/USER/CreatingUser/ChangeUserToCustomer.jpg"/></div>
 <p>Нажмите кнопку <strong>Подтвердить</strong> в появившемся диалоговом окне.</p>
 <div><img style="margin: 0 auto; display: block; max-width: 70%;" src="/attachments/images/FAQ/USER/CreatingUser/user12.png"/></div>

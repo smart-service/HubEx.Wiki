@@ -12,7 +12,7 @@ description: (Новая)
 
 <ul>
     <li><a href="#place1">Что такое участок;</a></li>
-    <li><a href="#place2">Как создать участок;</a>;</li>
+    <li><a href="#place2">Как создать участок;</a></li>
     <li><a href="#place3">Участок в объектах/оборудовании</a>;</li>
     <li><a href="#place4">Участок в сотрудниках</a>;</li>
     <li><a href="#place5">Участок в заказчиках</a>;</li>

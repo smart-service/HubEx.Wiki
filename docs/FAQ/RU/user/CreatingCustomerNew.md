@@ -26,7 +26,7 @@ description: (Новая)
 
 <p><strong>Заказчик</strong> - это пользователь, который может создавать <strong>Заявки</strong> в мобильном приложении заказчика. <strong>Заказчик</strong> привязывается к компании-заказчику. С помощью настройки прав доступа для <strong>Заказчика</strong> ограничивается доступ к функционалу системы. Например, заказчик сможет видеть только свои <strong>Объекты (оборудование)</strong>, видеть <strong>Заявки</strong> только по своей компании и т.д.</p>
 <p>Для Заказчика доступно мобильное приложение <strong>HubEx заказчик</strong>, которое можно скачать <a href="https://play.google.com/store/apps/details?id=ru.hubex.customer">для Android</a> или <a href="https://apps.apple.com/ru/app/hubex-%D0%B4%D0%BB%D1%8F-%D0%B7%D0%B0%D0%BA%D0%B0%D0%B7%D1%87%D0%B8%D0%BA%D0%B0/id1386631658">для iOS</a>.</p>
-<p>Прочтите подробную статью ниже или начните знакомство с темой с обучающего видеоролика <strong>Как создать нового пользователя в HubEx</strong>.</p>
+<p>Прочтите подробную статью ниже или начните знакомство с темой с обучающего видеоролика <strong>"Как создать нового пользователя в HubEx"</strong>.</p>
 <iframe src="https://www.youtube.com/embed/wuEMTcEQeCY" width="100%" height="450px" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
 <p>Создать нового заказчика можно в разделе левого бокового меню <strong>"Пользователи" - "Заказчики"</strong> по кнопке <strong>"Создать заказчика"</strong>.</p>
@@ -68,7 +68,7 @@ description: (Новая)
     <li><strong>Должность</strong>.</li>
 </ul>
 
-<p>Особенностью роли <strong>"Заказчик"</strong> является возможность создавать заявку, просматривать по ней основную информацию. <strong>Заказчику</strong> нельзя изменять стадии <strong>Заявки</strong>. Также у <strong>Заказчика</strong> не будет доступа ко всем <strong>Заявок</strong> вашей компании.</p>
+<p>Особенностью роли <strong>"Заказчик"</strong> является возможность создавать заявку, просматривать по ней основную информацию. <strong>Заказчику</strong> нельзя изменять стадии <strong>Заявки</strong>. Также у <strong>Заказчика</strong> не будет доступа ко всем <strong>Заявкам</strong> вашей компании.</p>
 
 <div> <img style="margin: 0 auto; display: block; max-width: 80%;" src="/attachments/images/FAQ/USER/CreatingCustomer/CreateCustomer.jpg"/> </div>
 
@@ -120,17 +120,14 @@ description: (Новая)
 
 <ol>
     <li>Копировать заказчика;</li>
-*Скриншот*
     <li>Отправить приглашение повторно. Если после ввода телефона/электронной почты при заполнении и сохранении новой карточки <strong>Заказчика</strong>, на указанный телефон/электронный адрес приглашение так и не пришло, то можно отправить его повторно. В карточке <strong>Заказчика</strong> или в общем списке всех <strong>Заказчиков</strong> нажмите на контекстное меню (три точки) и выберите пункт  <strong>Отправить приглашение повторно</strong>.</li>
-*Скриншот*
     <li>Удалить заказчика.</li>
-*Скриншот*
 </ol>
 
 <p><div><img style="margin: 0 auto; display: block; max-width: 90%;" src="/attachments/images/FAQ/USER/CreatingCustomerNew/CreatingCustomerNew11.png"/></div></p>
 
-<p> Для быстрого добавления <strong>"Заказчиков"</strong> в систему HubEx воспользуйтесь функцией <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/Import.html#workers"> Импорта.</a></p>
-<p> А для выгрузки информации по <strong>Заказчикам</strong> из системы HubEx воспользуйтесь функцией <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/Export.html#workers"> Экспорта.</a></p>
+<p> Для быстрого добавления <strong>"Заказчиков"</strong> в систему HubEx воспользуйтесь функцией <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/Import.html#workers"> импорта.</a></p>
+<p> Для выгрузки информации по <strong>Заказчикам</strong> из системы HubEx воспользуйтесь функцией <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/Export.html#workers"> экспорта.</a></p>
 
 <p><div><img style="margin: 0 auto; display: block; max-width: 90%;" src="/attachments/images/FAQ/USER/CreatingCustomerNew/CreatingCustomerNew12.png"/></div></p>
 

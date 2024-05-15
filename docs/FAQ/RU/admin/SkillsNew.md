@@ -28,7 +28,7 @@ description: (Новая)
 
 <h2 id="skills2">Для чего нужны навыки в HubEx</h2>
 
-<p>Навыки позволяют дополнительно классифицировать <Strong>Объекты</Strong> и <Strong>Сотрудников</Strong> (исполнителей).
+<p>Навыки позволяют дополнительно классифицировать <Strong>Объекты</Strong> и <Strong>Сотрудников</Strong> (исполнителей).</p>
 
 <p>С помощью навыков можно детализировать особые знания, которыми должен обладать специалист для работы с объектом обслуживания. Например, знать английский язык для настройки приборов на английском языке.</p>
 
@@ -54,7 +54,7 @@ description: (Новая)
 
 <p>Для сотрудника добавить навык можно на вкладке <Strong>"Квалификация"</Strong> (левое боковое меню HubEx, раздел <Strong>"Пользователи"</Strong> - подраздел <Strong>"Сотрудники"</Strong>).</p>
 
-<div> <img style="margin: 0 auto; display: block; max-width: 100%;" src="/attachments/images/FAQ/ADMIN/SkillsNew/SkillsNew1.png"/> </div>
+<div> <img style="margin: 0 auto; display: block; max-width: 95%;" src="/attachments/images/FAQ/ADMIN/SkillsNew/SkillsNew1.png"/> </div>
 
 <p><strong>Обратите внимание!</strong> Для cотрудника можно указать несколько навыков.</p>
 
@@ -64,7 +64,7 @@ description: (Новая)
 
 <p>Выбор навыков в карточке объекта находится на вкладке <Strong>"Обслуживание"</Strong> (левое боковое меню HubEx раздел <Strong>"Объекты|Оборудование"</Strong> - подраздел <Strong>"Объекты|Оборудование"</Strong>).</p>
 
-<div> <img style="margin: 0 auto; display: block; max-width: 100%;" src="/attachments/images/FAQ/ADMIN/SkillsNew/SkillsNew2.png"/> </div>
+<div> <img style="margin: 0 auto; display: block; max-width: 95%;" src="/attachments/images/FAQ/ADMIN/SkillsNew/SkillsNew2.png"/> </div>
 
 <p><strong>Обратите внимание!</strong> Для объекта/оборудования можно указать несколько навыков.</p>
 

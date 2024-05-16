@@ -36,6 +36,8 @@ keywords: (Новая)
     <li>Выберите "Удалить".</li>
 </ol>
 
+<p> <div> <img style="margin: 0 auto; display: block; max-width: 90%;" src="/attachments/images/FAQ/USER/DeletedObjectsNew/DeletedObjectsNew1.png"/> </div> </p>
+
 <p><strong>Способ 2.</strong> Чтобы удалить существующую компанию:</p>
 
 <ol>
@@ -44,6 +46,8 @@ keywords: (Новая)
     <li>Справа наверху (возле кнопки <strong>"Сохранить"</strong>) нажмите на "3 точки";</li>
     <li>Выберите "Удалить".</li>
 </ol>
+
+<p> <div> <img style="margin: 0 auto; display: block; max-width: 90%;" src="/attachments/images/FAQ/USER/DeletedObjectsNew/DeletedObjectsNew2.png"/> </div> </p>
 
 <p><strong>Обратите внимание!</strong> В результате удаления компании, все привязанные к этой компании объекты будут сняты с публикации. На неопубликованные объекты нельзя подавать заявки.</p>
 <p><strong>Обратите внимание!</strong> Удаленные компании можно просмотреть в разделе левого бокового меню <strong>"Компании"</strong> - подраздел <strong>"Все компании"</strong> по параметру фильтра <strong>"Видимость компаний"</strong>.</p>
@@ -60,6 +64,8 @@ keywords: (Новая)
     <li>Выберите "Удалить" или "Удалить с вложенными объектами".</li>
 </ol>
 
+<p> <div> <img style="margin: 0 auto; display: block; max-width: 90%;" src="/attachments/images/FAQ/USER/DeletedObjectsNew/DeletedObjectsNew3.png"/> </div> </p>
+
 <p><strong>Способ 2.</strong> Чтобы удалить существующий объект/оборудование:</p>
 
 <ol>
@@ -69,6 +75,8 @@ keywords: (Новая)
     <li>Выберите "Удалить" или "Удалить с вложенными объектами".</li>
 </ol>
 
+<p> <div> <img style="margin: 0 auto; display: block; max-width: 90%;" src="/attachments/images/FAQ/USER/DeletedObjectsNew/DeletedObjectsNew4.png"/> </div> </p>
+
 <p><strong>Способ 3.</strong> Чтобы удалить существующий объект/оборудование:</p>
 
 <ol>
@@ -76,6 +84,8 @@ keywords: (Новая)
     <li>Наведите курсор мыши на интересующий вас объект. Слева выберите галочку на интересующих вас объектах;</li>
     <li>Сверху нажмите на кнопку "Удалить".</li>
 </ol>
+
+<p> <div> <img style="margin: 0 auto; display: block; max-width: 90%;" src="/attachments/images/FAQ/USER/DeletedObjectsNew/DeletedObjectsNew5.png"/> </div> </p>
 
 <p><strong>Обратите внимание!</strong> Нельзя удалять объекты, которые участвуют в активных заявах</p>
 <p><strong>Обратите внимание!</strong> Удаленные объекты можно просмотреть в разделе левого бокового меню HubEx <strong>"Объекты|Оборудование"</strong> - подраздел <strong>"Объекты|Оборудование"</strong> по параметру фильтра <strong>"Видимость"</strong>.</p>
@@ -92,6 +102,8 @@ keywords: (Новая)
     <li>Выберите "Удалить".</li>
 </ol>
 
+<p> <div> <img style="margin: 0 auto; display: block; max-width: 90%;" src="/attachments/images/FAQ/USER/DeletedObjectsNew/DeletedObjectsNew6.png"/> </div> </p>
+
 <p><strong>Способ 2.</strong> Чтобы удалить заявку:</p>
 
 <ol>
@@ -101,6 +113,8 @@ keywords: (Новая)
     <li>Выберите "Удалить".</li>
 </ol>
 
+<p> <div> <img style="margin: 0 auto; display: block; max-width: 90%;" src="/attachments/images/FAQ/USER/DeletedObjectsNew/DeletedObjectsNew7.png"/> </div> </p>
+
 <p><strong>Способ 3.</strong> Чтобы удалить заявку:</p>
 
 <ol>
@@ -108,6 +122,8 @@ keywords: (Новая)
     <li>Наведите курсор мыши на интересующую вас заявку. Слева выберите галочку на интересующих вас заявках;</li>
     <li>Сверху нажмите на кнопку "Удалить".</li>
 </ol>
+
+<p> <div> <img style="margin: 0 auto; display: block; max-width: 90%;" src="/attachments/images/FAQ/USER/DeletedObjectsNew/DeletedObjectsNew8.png"/> </div> </p>
 
 <p><strong>Обратите внимание!</strong> Удаленные заявки может просмотреть только "Системный администратор (владелец тенанта)" в разделе левого бокового меню HubEx <strong>"Заявки"</strong> - подраздел <strong>"Все заявки"</strong> по параметру фильтра <strong>"Видимость заявок"</strong>.</p>
 <p><strong>Обратите внимание!</strong> Удаленную заявку нельзя восстановить. Вы можете создать только новую заявку по примеру старой заявки.</p>
@@ -123,6 +139,8 @@ keywords: (Новая)
     <li>Выберите "Удалить".</li>
 </ol>
 
+<p> <div> <img style="margin: 0 auto; display: block; max-width: 90%;" src="/attachments/images/FAQ/USER/DeletedObjectsNew/DeletedObjectsNew9.png"/> </div> </p>
+
 <p><strong>Способ 2.</strong> Чтобы удалить чек-лист:</p>
 
 <ol>
@@ -131,6 +149,8 @@ keywords: (Новая)
     <li>Справа наверху (возле кнопки <strong>"Сохранить"</strong>) нажмите на "3 точки";</li>
     <li>Выберите "Удалить".</li>
 </ol>
+
+<p> <div> <img style="margin: 0 auto; display: block; max-width: 90%;" src="/attachments/images/FAQ/USER/DeletedObjectsNew/DeletedObjectsNew10.png"/> </div> </p>
 
 <p><strong>Обратите внимание!</strong> Удаленные чек-листы нельзя просмотреть в разделе левого бокового меню HubEx <strong>"Чек-листы"</strong>.</p>
 <p><strong>Обратите внимание!</strong> Удаленный чек-лист нельзя восстановить. Вы можете создать только новый чек-лист.</p>
@@ -147,6 +167,8 @@ keywords: (Новая)
     <li>Выберите "Удалить".</li>
 </ol>
 
+<p> <div> <img style="margin: 0 auto; display: block; max-width: 90%;" src="/attachments/images/FAQ/USER/DeletedObjectsNew/DeletedObjectsNew11.png"/> </div> </p>
+
 <p><strong>Способ 2.</strong> Чтобы удалить сотрудника:</p>
 
 <ol>
@@ -155,6 +177,8 @@ keywords: (Новая)
     <li>Справа наверху (возле кнопки <strong>"Сохранить"</strong>) нажмите на "3 точки";</li>
     <li>Выберите "Удалить".</li>
 </ol>
+
+<p> <div> <img style="margin: 0 auto; display: block; max-width: 90%;" src="/attachments/images/FAQ/USER/DeletedObjectsNew/DeletedObjectsNew12.png"/> </div> </p>
 
 <p>Чтобы заблокировать сотрудника:</p>
 
@@ -165,6 +189,8 @@ keywords: (Новая)
     <li>Выберите причину бана;</li>
     <li>Нажмите на кнопку "Сохранить".</li>
 </ol>
+
+<p> <div> <img style="margin: 0 auto; display: block; max-width: 90%;" src="/attachments/images/FAQ/USER/DeletedObjectsNew/DeletedObjectsNew13.png"/> </div> </p>
 
 <p><strong>Обратите внимание!</strong> Удаленных сотрудников можно просмотреть в разделе левого бокового меню HubEx <strong>"Пользователи"</strong> - подраздел <strong>"Сотрудники"</strong> по параметру фильтра "Видимость сотрудников".</p>
 <p><strong>Обратите внимание!</strong> Удаленных сотрудников нельзя восстановить.</p>
@@ -182,6 +208,8 @@ keywords: (Новая)
     <li>Выберите "Удалить".</li>
 </ol>
 
+<p> <div> <img style="margin: 0 auto; display: block; max-width: 90%;" src="/attachments/images/FAQ/USER/DeletedObjectsNew/DeletedObjectsNew14.png"/> </div> </p>
+
 <p><strong>Способ 2.</strong> Чтобы удалить заказчика:</p>
 
 <ol>
@@ -190,6 +218,8 @@ keywords: (Новая)
     <li>Справа наверху (возле кнопки <strong>"Сохранить"</strong>) нажмите на "3 точки";</li>
     <li>Выберите "Удалить".</li>
 </ol>
+
+<p> <div> <img style="margin: 0 auto; display: block; max-width: 90%;" src="/attachments/images/FAQ/USER/DeletedObjectsNew/DeletedObjectsNew15.png"/> </div> </p>
 
 <p>Чтобы заблокировать заказчика:</p>
 
@@ -200,6 +230,8 @@ keywords: (Новая)
     <li>Переведите ползунок "Бан пользователя" на "ВКЛ";</li>
     <li>Нажмите на кнопку "Сохранить".</li>
 </ol>
+
+<p> <div> <img style="margin: 0 auto; display: block; max-width: 90%;" src="/attachments/images/FAQ/USER/DeletedObjectsNew/DeletedObjectsNew16.png"/> </div> </p>
 
 <p><strong>Обратите внимание!</strong> Удаленных заказчиков можно просмотреть в разделе левого бокового меню HubEx <strong>"Пользователи"</strong> - подраздел <strong>"Заказчики"</strong> по параметру фильтра "Видимость заказчиков".</p>
 <p><strong>Обратите внимание!</strong> Удаленных заказчиков нельзя восстановить.</p>

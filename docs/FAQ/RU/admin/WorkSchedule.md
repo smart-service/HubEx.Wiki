@@ -137,17 +137,17 @@ keywords: график работы, графики работы, расписа
 
 <div>
         <img style="margin: 0 auto; display: block; max-width: 90%;"
-             src="/attachments/images/FAQ/ADMIN/WorkSchedule/.jpg"/>
+             src="/attachments/images/FAQ/ADMIN/WorkSchedule/Schedule7.png"/>
     </div>
 
 <li>установите дату начала действия текущего графика с помощью флажка <strong>Назначить дату начала
         календаря</strong>: этот пункт не является обзательным для выполнения, если дату начала не задать, то по
-        умолчанию график будет работать со дня его создания в системе. Например, график работы начнет действовать только
-        с начала следующего месяца 1 марта 2024 года;
+        умолчанию график будет работать со дня его создания в системе. Например, график работы начнет действовать
+        с 23 мая 2024 года;
     </li>
     <div>
         <img style="margin: 0 auto; display: block; max-width: 90%;"
-             src="/attachments/images/FAQ/ADMIN/WorkSchedule/.jpg"/>
+             src="/attachments/images/FAQ/ADMIN/WorkSchedule/Schedule8.png"/>
     </div>
 
 <li>проверьте отображение графика по кнопке <strong>Показать график в календаре</strong>: в новом окне
@@ -156,14 +156,14 @@ keywords: график работы, графики работы, расписа
     </li>
     <div>
         <img style="margin: 0 auto; display: block; max-width: 90%;"
-             src="/attachments/images/FAQ/ADMIN/WorkSchedule/.jpg"/>
+             src="/attachments/images/FAQ/ADMIN/WorkSchedule/Schedule9.png"/>
     </div>
 
  <li>нажмите кнопку <strong>Создать график</strong>.</li>
 
 <div>
         <img style="margin: 0 auto; display: block; max-width: 90%;"
-             src="/attachments/images/FAQ/ADMIN/WorkSchedule/.jpg"/>
+             src="/attachments/images/FAQ/ADMIN/WorkSchedule/Schedule10.png"/>
     </div>
 </ol>
 
@@ -188,7 +188,7 @@ keywords: график работы, графики работы, расписа
 
 <div>
                 <img style="margin: 0 auto; display: block; max-width: 90%;"
-                     src="/attachments/images/FAQ/ADMIN/WorkSchedule/.jpg"/>
+                     src="/attachments/images/FAQ/ADMIN/WorkSchedule/Schedule11.png"/>
             </div>
             
 <li>так как следующая часть интервала - это ночные смены, то для второй строки интервала с типом дня
@@ -201,7 +201,7 @@ keywords: график работы, графики работы, расписа
 
  <div>
                 <img style="margin: 0 auto; display: block; max-width: 90%;"
-                     src="/attachments/images/FAQ/ADMIN/WorkSchedule/.jpg"/>
+                     src="/attachments/images/FAQ/ADMIN/WorkSchedule/Schedule12.png"/>
             </div>
             
 <li>по кнопке <strong>+Добавить</strong> согласно графику добавьте строку с типом <strong>Выходной</strong> и количеством 3;</li>
@@ -210,12 +210,12 @@ keywords: график работы, графики работы, расписа
         
 <li>установите дату начала действия текущего графика с помощью флажка <strong>Назначить дату начала
         календаря</strong>: этот пункт не является обзательным для выполнения, если дату начала не задать, то по
-        умолчанию график будет работать со дня его создания в системе. Например, график работы начнет действовать только
-        с начала следующего месяца 1 марта 2024 года;
+        умолчанию график будет работать со дня его создания в системе. Например, график работы начнет действовать 
+        с 23 мая 2024 года;
     </li>
     <div>
         <img style="margin: 0 auto; display: block; max-width: 90%;"
-             src="/attachments/images/FAQ/ADMIN/WorkSchedule/.jpg"/>
+             src="/attachments/images/FAQ/ADMIN/WorkSchedule/Schedule13.png"/>
     </div>
 
 <li>проверьте отображение графика по кнопке <strong>Показать график в календаре</strong>: в новом окне
@@ -223,14 +223,14 @@ keywords: график работы, графики работы, расписа
     </li>
     <div>
         <img style="margin: 0 auto; display: block; max-width: 90%;"
-             src="/attachments/images/FAQ/ADMIN/WorkSchedule/.jpg"/>
+             src="/attachments/images/FAQ/ADMIN/WorkSchedule/Schedule14.png"/>
     </div>
 
 <li>нажмите кнопку <strong>Создать график</strong>.</li>
 
 <div>
         <img style="margin: 0 auto; display: block; max-width: 90%;"
-             src="/attachments/images/FAQ/ADMIN/WorkSchedule/.jpg"/>
+             src="/attachments/images/FAQ/ADMIN/WorkSchedule/Schedule15.png"/>
     </div>
 </ol>
 

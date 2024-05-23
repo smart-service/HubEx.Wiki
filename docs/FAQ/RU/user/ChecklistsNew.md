@@ -43,13 +43,16 @@ description: (Новая)
 
 <p>Чек-листы, прикрепленные к заявке, отображаются в заявке (вкладка заявки <strong>"Чек-листы"</strong>).</p>
 
+<div> <img style="margin: 0 auto; display: block; max-width: 80%;" src="/attachments/images/FAQ/USER/ChecklistsNew/ChecklistsNew1.png"/> </div>
+
 <p>Подробная статья о назначении и работе с чек-листами представлена ниже. Знакомство с темой можно начать с обучающего видеоролика <strong>"Чек-листы в HubEx: контролируйте качество работ, обучайте новых сотрудников"</strong>.</p>
 <iframe src="https://www.youtube.com/embed/FBFe4tBnZVE" width="100%" height="450px" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
 <h2 id="checklists2">Как создать чек-лист</h2>
 
 <p>Создать новые чек-листы можно в разделе левого бокового меню HubEx <strong>"Чек-листы"</strong> по кнопке <strong>"Создать чек-лист"</strong>.</p>
-<p><strong>Чек-лист</strong> можно привязать к <strong>Объекту</strong> (оборудованию) и (или) к <strong>Виду работ</strong>.</p>
+
+<div> <img style="margin: 0 auto; display: block; max-width: 80%;" src="/attachments/images/FAQ/USER/ChecklistsNew/ChecklistsNew2.png"/> </div>
 
 <p>Рассмотрим создание нового чек-листа:</p>
 
@@ -63,22 +66,25 @@ description: (Новая)
 <p>Если в чек-листе указаны <strong>Объекты/оборудование</strong> и (или) <strong>Виды работ</strong>, то при выборе в <strong>Заявке</strong> указанных в чек-листе <strong>Объектов/оборудования</strong> и (или) <strong>Видов работ</strong>, чек-лист прикрепится автоматически.</p>
 <p>Вы можете не указывать <strong>Объекты/оборудование</strong> и <strong>Виды работ</strong>, тогда чек-лист автоматически не привяжется к заявке, его можно будет добавить в заявку вручную.</p>
 
-<p><div> <img style="margin: 0 auto; display: block; max-width: 80%;" src="/attachments/images/FAQ/USER/Checklists/CheckList.jpg"/> </div></p>
+<div> <img style="margin: 0 auto; display: block; max-width: 80%;" src="/attachments/images/FAQ/USER/ChecklistsNew/ChecklistsNew3.png"/> </div>
 
 <p><strong>Пункты</strong> - это действия, которые необходимо выполнить: проверить, измерить и т.д.</p>
 
-<div> <img style="margin: 0 auto; display: block; max-width: 80%;" src="/attachments/images/FAQ/USER/Checklists/CheckListPoint.jpg"/> </div>
+<div> <img style="margin: 0 auto; display: block; max-width: 80%;" src="/attachments/images/FAQ/USER/ChecklistsNew/ChecklistsNew4.png"/> </div>
 
 <p>Каждый <strong>Пункт</strong> может содержать внутри себя <strong>Атрибут</strong>.</p>
+
+<div> <img style="margin: 0 auto; display: block; max-width: 80%;" src="/attachments/images/FAQ/USER/ChecklistsNew/ChecklistsNew4.png"/> </div>
+
 <p><strong>Атрибут</strong> - это способ измерения/выражения для пункта чек-листа. Атрибут используется в случае, когда требуется вписать ответ в виде числа, даты, текстовой строки или прикрепить файл.</p>
 
-<div> <img style="margin: 0 auto; display: block; max-width: 50%;" src="/attachments/images/FAQ/USER/Checklists/Atribute.jpg"/> </div>
+<div> <img style="margin: 0 auto; display: block; max-width: 80%;" src="/attachments/images/FAQ/USER/ChecklistsNew/ChecklistsNew5.png"/> </div>
 
-<p>Как добавить в пункт новый <strong>Атрибут</strong> или изменить имеющийся атрибут для чек-листов, подробно читайте в статье <a href="https://wiki.hubex.ru/docs/FAQ/RU/admin/TicketAttribute.html">"Создание атрибутов для чек-листа"</a>.</p>
+<p>Как добавить в пункт новый <strong>Атрибут</strong> или изменить имеющийся атрибут для чек-листов, подробно читайте ниже в статье.</p>
 
 <p>Без указания <strong>Атрибутов</strong> чек-лист будет представлять собой список пунктов, выполнение которых нужно будет отметить с помощью установки флажка.</p>
 
-<div> <img style="margin: 0 auto; display: block; max-width: 80%;" src="/attachments/images/FAQ/USER/Checklists/CheckBox.jpg"/> </div>
+<div> <img style="margin: 0 auto; display: block; max-width: 80%;" src="/attachments/images/FAQ/USER/ChecklistsNew/ChecklistsNew6.png"/> </div>
 
 <h2 id="checklists3">Как создать атрибут</h2>
 
@@ -88,6 +94,8 @@ description: (Новая)
 
 <p>Создать новый атрибут можно в <a href="https://wiki.hubex.ru/docs/FAQ/RU/admin/HowToEnterTheAdmin.html">консоли администратора</a> в разделе левого бокового меню <strong>"Настройки системы"</strong> - подраздел <strong>"Дополнительные поля"</strong>.</p>
 
+<div> <img style="margin: 0 auto; display: block; max-width: 80%;" src="/attachments/images/FAQ/USER/ChecklistsNew/ChecklistsNew7.png"/> </div>
+
 <ol>
     <li>Нажмите кнопку <strong>"Создать новое поле"</strong>;
         <p> <div> <img style="margin: 0 auto; display: block; max-width: 70%;" src="/attachments/images/FAQ/USER/Checklists/NewAtribute.jpg"/> </div> </p>
@@ -96,6 +104,8 @@ description: (Новая)
     <li>В параметре <strong>"Используется для"</strong> установите <strong>"Чек-листы"</strong>;</li>
     <li>Нажмите <strong>Сохранить</strong>.</li>
 </ol>
+
+<div> <img style="margin: 0 auto; display: block; max-width: 80%;" src="/attachments/images/FAQ/USER/ChecklistsNew/ChecklistsNew8.png"/> </div>
 
 <p><strong>Обратите внимание!</strong> Вложенным файлом может быть не только фотография, но и видео. А если вы заполняете чек-лист через WEB-версию HubEx, то в чек-лист можно приложить документы в форматах .doc, .xls, .pdf. Допускается загрузка нескольких файлов к одному пункту чек-листа.</p>
 <div> <img style="margin: 0 auto; display: block; max-width: 70%;" src="/attachments/images/FAQ/USER/Checklists/NewAtribute2.jpg"/> </div>

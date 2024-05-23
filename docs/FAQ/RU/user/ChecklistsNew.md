@@ -74,11 +74,9 @@ description: (Новая)
 
 <p>Каждый <strong>Пункт</strong> может содержать внутри себя <strong>Атрибут</strong>.</p>
 
-<div> <img style="margin: 0 auto; display: block; max-width: 80%;" src="/attachments/images/FAQ/USER/ChecklistsNew/ChecklistsNew4.png"/> </div>
+<div> <img style="margin: 0 auto; display: block; max-width: 80%;" src="/attachments/images/FAQ/USER/ChecklistsNew/ChecklistsNew5.png"/> </div>
 
 <p><strong>Атрибут</strong> - это способ измерения/выражения для пункта чек-листа. Атрибут используется в случае, когда требуется вписать ответ в виде числа, даты, текстовой строки или прикрепить файл.</p>
-
-<div> <img style="margin: 0 auto; display: block; max-width: 80%;" src="/attachments/images/FAQ/USER/ChecklistsNew/ChecklistsNew5.png"/> </div>
 
 <p>Как добавить в пункт новый <strong>Атрибут</strong> или изменить имеющийся атрибут для чек-листов, подробно читайте ниже в статье.</p>
 
@@ -94,11 +92,9 @@ description: (Новая)
 
 <p>Создать новый атрибут можно в <a href="https://wiki.hubex.ru/docs/FAQ/RU/admin/HowToEnterTheAdmin.html">консоли администратора</a> в разделе левого бокового меню <strong>"Настройки системы"</strong> - подраздел <strong>"Дополнительные поля"</strong>.</p>
 
-<div> <img style="margin: 0 auto; display: block; max-width: 80%;" src="/attachments/images/FAQ/USER/ChecklistsNew/ChecklistsNew7.png"/> </div>
-
 <ol>
     <li>Нажмите кнопку <strong>"Создать новое поле"</strong>;
-        <p> <div> <img style="margin: 0 auto; display: block; max-width: 70%;" src="/attachments/images/FAQ/USER/Checklists/NewAtribute.jpg"/> </div> </p>
+        <p> <div> <img style="margin: 0 auto; display: block; max-width: 80%;" src="/attachments/images/FAQ/USER/ChecklistsNew/ChecklistsNew7.png"/> </div> </p>
     </li>
     <li>Введите <strong>"Наименование поля"</strong>, например, "Фотография". Укажите <strong>"Тип поля"</strong>: "Вложенный файл";</li>
     <li>В параметре <strong>"Используется для"</strong> установите <strong>"Чек-листы"</strong>;</li>
@@ -112,7 +108,7 @@ description: (Новая)
 
 
 <p>Теперь в пункт любого <strong>Чек-листа</strong> можно добавить атрибут, который позволит загружать фотографии.</p>
-<div> <img style="margin: 0 auto; display: block; max-width: 80%;" src="/attachments/images/FAQ/USER/Checklists/CheckListNA.jpg"/> </div>
+<div> <img style="margin: 0 auto; display: block; max-width: 80%;" src="/attachments/images/FAQ/USER/ChecklistsNew/ChecklistsNew9.png"/> </div>
 
 
 <h2 id="checklists4">Добавление/удаление чек-листа в заявке</h2>
@@ -170,7 +166,9 @@ description: (Новая)
 
 
 <p>С помощью настройки <strong>Cтадии заявки</strong> в "Консоли администрирования" (раздел левого бокового меню <strong>"Настройки заявки"</strong> - подраздел <strong>"Стадии заявки"</strong>) можно установить <strong>Требование "Обработаны чек-листы"</strong>. Например, установить такую настройку можно на стадию заявки <strong>"Выполнена"</strong>. Тогда исполнитель не сможет перевести заявку на стадию <strong>"Выполнена"</strong>, пока не заполнит хотя бы один пункт <strong>Чек-листа</strong> в <strong>Заявке</strong>.</p>
-<div> <img style="margin: 0 auto; display: block; max-width: 50%;" src="/attachments/images/FAQ/USER/Checklists/Stage.jpg"/> </div>
+
+<div> <img style="margin: 0 auto; display: block; max-width: 80%;" src="/attachments/images/FAQ/USER/ChecklistsNew/ChecklistsNew10.png"/> </div>
+<div> <img style="margin: 0 auto; display: block; max-width: 80%;" src="/attachments/images/FAQ/USER/ChecklistsNew/ChecklistsNew11.png"/> </div>
 
 <p>С помощью настройки <strong>Полей на форме заявки</strong> в "Консоли администрирования" (раздел левого бокового меню <strong>"Настройки заявки"</strong> - подраздел <strong>"Поля на форме заявки"</strong>) можно установить параметр "RW" для поля "Чек-листы", например,на стадии "В работе" и роли исполнителя, тогда исполнитель не сможет перевести заявку со стадии <strong>"В работе"</strong> на стадию <strong>"Выполнена"</strong>, пока не заполнит все пункты <strong>Чек-листа</strong> в <strong>Заявке</strong>.</p>
 

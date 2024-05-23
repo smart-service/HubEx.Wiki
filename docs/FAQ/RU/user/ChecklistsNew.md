@@ -86,7 +86,7 @@ description: (Новая)
 
 <p>Рассмотрим добавление вложенного файла в качестве атрибута к уже созданному <strong>Чек-листу</strong>.</p>
 
-<p>Создать новый атрибут можно в <a href="https://wiki.hubex.ru/docs/FAQ/RU/admin/HowToEnterTheAdmin.html">консоли администратора</a> в разделе левого бокового меню <strong>"Настройки системы"</strong> - подраздел <strong>"Дополнительные поля"</strong>.
+<p>Создать новый атрибут можно в <a href="https://wiki.hubex.ru/docs/FAQ/RU/admin/HowToEnterTheAdmin.html">консоли администратора</a> в разделе левого бокового меню <strong>"Настройки системы"</strong> - подраздел <strong>"Дополнительные поля"</strong>.</p>
 
 <ol>
     <li>Нажмите кнопку <strong>"Создать новое поле"</strong>;
@@ -105,9 +105,9 @@ description: (Новая)
 <div> <img style="margin: 0 auto; display: block; max-width: 80%;" src="/attachments/images/FAQ/USER/Checklists/CheckListNA.jpg"/> </div>
 
 
-<h2 id="checklists4">Добавление чек-листа в заявку</h2>
+<h2 id="checklists4">Добавление/удаление чек-листа в заявке</h2>
 
-<p>Если вы создали <strong>Чек-лист</strong> без привязки к конкретному <strong>Объекту/оборудованию</strong> и (или) <strong>Виду работ</strong>, то в <strong>Заявке</strong> можно добавить <strong>Чек-лист</strong> вручную.
+<p>Если вы создали <strong>Чек-лист</strong> без привязки к конкретному <strong>Объекту/оборудованию</strong> и (или) <strong>Виду работ</strong>, то в <strong>Заявке</strong> можно добавить <strong>Чек-лист</strong> вручную.</p>
 
 <ol>
     <li>Откройте активную заявку в списке всех заявок;</li>

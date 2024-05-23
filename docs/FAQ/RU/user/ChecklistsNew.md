@@ -43,16 +43,17 @@ description: (Новая)
 
 <p>Чек-листы, прикрепленные к заявке, отображаются в заявке (вкладка заявки <strong>"Чек-листы"</strong>).</p>
 
-<div> <img style="margin: 0 auto; display: block; max-width: 80%;" src="/attachments/images/FAQ/USER/ChecklistsNew/ChecklistsNew1.png"/> </div>
+<div> <img style="margin: 0 auto; display: block; max-width: 95%;" src="/attachments/images/FAQ/USER/ChecklistsNew/ChecklistsNew1.png"/> </div>
 
 <p>Подробная статья о назначении и работе с чек-листами представлена ниже. Знакомство с темой можно начать с обучающего видеоролика <strong>"Чек-листы в HubEx: контролируйте качество работ, обучайте новых сотрудников"</strong>.</p>
+
 <iframe src="https://www.youtube.com/embed/FBFe4tBnZVE" width="100%" height="450px" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
 <h2 id="checklists2">Как создать чек-лист</h2>
 
 <p>Создать новые чек-листы можно в разделе левого бокового меню HubEx <strong>"Чек-листы"</strong> по кнопке <strong>"Создать чек-лист"</strong>.</p>
 
-<div> <img style="margin: 0 auto; display: block; max-width: 80%;" src="/attachments/images/FAQ/USER/ChecklistsNew/ChecklistsNew2.png"/> </div>
+<div> <img style="margin: 0 auto; display: block; max-width: 95%;" src="/attachments/images/FAQ/USER/ChecklistsNew/ChecklistsNew2.png"/> </div>
 
 <p>Рассмотрим создание нового чек-листа:</p>
 
@@ -66,15 +67,15 @@ description: (Новая)
 <p>Если в чек-листе указаны <strong>Объекты/оборудование</strong> и (или) <strong>Виды работ</strong>, то при выборе в <strong>Заявке</strong> указанных в чек-листе <strong>Объектов/оборудования</strong> и (или) <strong>Видов работ</strong>, чек-лист прикрепится автоматически.</p>
 <p>Вы можете не указывать <strong>Объекты/оборудование</strong> и <strong>Виды работ</strong>, тогда чек-лист автоматически не привяжется к заявке, его можно будет добавить в заявку вручную.</p>
 
-<div> <img style="margin: 0 auto; display: block; max-width: 80%;" src="/attachments/images/FAQ/USER/ChecklistsNew/ChecklistsNew3.png"/> </div>
+<div> <img style="margin: 0 auto; display: block; max-width: 95%;" src="/attachments/images/FAQ/USER/ChecklistsNew/ChecklistsNew3.png"/> </div>
 
 <p><strong>Пункты</strong> - это действия, которые необходимо выполнить: проверить, измерить и т.д.</p>
 
-<div> <img style="margin: 0 auto; display: block; max-width: 80%;" src="/attachments/images/FAQ/USER/ChecklistsNew/ChecklistsNew4.png"/> </div>
+<div> <img style="margin: 0 auto; display: block; max-width: 95%;" src="/attachments/images/FAQ/USER/ChecklistsNew/ChecklistsNew4.png"/> </div>
 
 <p>Каждый <strong>Пункт</strong> может содержать внутри себя <strong>Атрибут</strong>.</p>
 
-<div> <img style="margin: 0 auto; display: block; max-width: 80%;" src="/attachments/images/FAQ/USER/ChecklistsNew/ChecklistsNew5.png"/> </div>
+<div> <img style="margin: 0 auto; display: block; max-width: 95%;" src="/attachments/images/FAQ/USER/ChecklistsNew/ChecklistsNew5.png"/> </div>
 
 <p><strong>Атрибут</strong> - это способ измерения/выражения для пункта чек-листа. Атрибут используется в случае, когда требуется вписать ответ в виде числа, даты, текстовой строки или прикрепить файл.</p>
 
@@ -82,7 +83,7 @@ description: (Новая)
 
 <p>Без указания <strong>Атрибутов</strong> чек-лист будет представлять собой список пунктов, выполнение которых нужно будет отметить с помощью установки флажка.</p>
 
-<div> <img style="margin: 0 auto; display: block; max-width: 80%;" src="/attachments/images/FAQ/USER/ChecklistsNew/ChecklistsNew6.png"/> </div>
+<div> <img style="margin: 0 auto; display: block; max-width: 95%;" src="/attachments/images/FAQ/USER/ChecklistsNew/ChecklistsNew6.png"/> </div>
 
 <h2 id="checklists3">Как создать атрибут</h2>
 
@@ -94,21 +95,21 @@ description: (Новая)
 
 <ol>
     <li>Нажмите кнопку <strong>"Создать новое поле"</strong>;
-        <p> <div> <img style="margin: 0 auto; display: block; max-width: 80%;" src="/attachments/images/FAQ/USER/ChecklistsNew/ChecklistsNew7.png"/> </div> </p>
+        <p> <div> <img style="margin: 0 auto; display: block; max-width: 95%;" src="/attachments/images/FAQ/USER/ChecklistsNew/ChecklistsNew7.png"/> </div> </p>
     </li>
     <li>Введите <strong>"Наименование поля"</strong>, например, "Фотография". Укажите <strong>"Тип поля"</strong>: "Вложенный файл";</li>
     <li>В параметре <strong>"Используется для"</strong> установите <strong>"Чек-листы"</strong>;</li>
     <li>Нажмите <strong>Сохранить</strong>.</li>
 </ol>
 
-<div> <img style="margin: 0 auto; display: block; max-width: 80%;" src="/attachments/images/FAQ/USER/ChecklistsNew/ChecklistsNew8.png"/> </div>
+<div> <img style="margin: 0 auto; display: block; max-width: 95%;" src="/attachments/images/FAQ/USER/ChecklistsNew/ChecklistsNew8.png"/> </div>
 
 <p><strong>Обратите внимание!</strong> Вложенным файлом может быть не только фотография, но и видео. А если вы заполняете чек-лист через WEB-версию HubEx, то в чек-лист можно приложить документы в форматах .doc, .xls, .pdf. Допускается загрузка нескольких файлов к одному пункту чек-листа.</p>
 <div> <img style="margin: 0 auto; display: block; max-width: 70%;" src="/attachments/images/FAQ/USER/Checklists/NewAtribute2.jpg"/> </div>
 
 
 <p>Теперь в пункт любого <strong>Чек-листа</strong> можно добавить атрибут, который позволит загружать фотографии.</p>
-<div> <img style="margin: 0 auto; display: block; max-width: 80%;" src="/attachments/images/FAQ/USER/ChecklistsNew/ChecklistsNew9.png"/> </div>
+<div> <img style="margin: 0 auto; display: block; max-width: 95%;" src="/attachments/images/FAQ/USER/ChecklistsNew/ChecklistsNew9.png"/> </div>
 
 
 <h2 id="checklists4">Добавление/удаление чек-листа в заявке</h2>
@@ -167,8 +168,8 @@ description: (Новая)
 
 <p>С помощью настройки <strong>Cтадии заявки</strong> в "Консоли администрирования" (раздел левого бокового меню <strong>"Настройки заявки"</strong> - подраздел <strong>"Стадии заявки"</strong>) можно установить <strong>Требование "Обработаны чек-листы"</strong>. Например, установить такую настройку можно на стадию заявки <strong>"Выполнена"</strong>. Тогда исполнитель не сможет перевести заявку на стадию <strong>"Выполнена"</strong>, пока не заполнит хотя бы один пункт <strong>Чек-листа</strong> в <strong>Заявке</strong>.</p>
 
-<div> <img style="margin: 0 auto; display: block; max-width: 80%;" src="/attachments/images/FAQ/USER/ChecklistsNew/ChecklistsNew10.png"/> </div>
-<div> <img style="margin: 0 auto; display: block; max-width: 80%;" src="/attachments/images/FAQ/USER/ChecklistsNew/ChecklistsNew11.png"/> </div>
+<div> <img style="margin: 0 auto; display: block; max-width: 95%;" src="/attachments/images/FAQ/USER/ChecklistsNew/ChecklistsNew10.png"/> </div>
+<div> <img style="margin: 0 auto; display: block; max-width: 95%;" src="/attachments/images/FAQ/USER/ChecklistsNew/ChecklistsNew11.png"/> </div>
 
 <p>С помощью настройки <strong>Полей на форме заявки</strong> в "Консоли администрирования" (раздел левого бокового меню <strong>"Настройки заявки"</strong> - подраздел <strong>"Поля на форме заявки"</strong>) можно установить параметр "RW" для поля "Чек-листы", например,на стадии "В работе" и роли исполнителя, тогда исполнитель не сможет перевести заявку со стадии <strong>"В работе"</strong> на стадию <strong>"Выполнена"</strong>, пока не заполнит все пункты <strong>Чек-листа</strong> в <strong>Заявке</strong>.</p>
 

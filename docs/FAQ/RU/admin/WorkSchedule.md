@@ -200,8 +200,7 @@ keywords: график работы, графики работы, расписа
             </li>
 
  <div>
-                <img style="margin: 0 auto; display: block; max-width: 90%;"
-                     src="/attachments/images/FAQ/ADMIN/WorkSchedule/Schedule12.png"/>
+                <img style="margin: 0 auto; display: block; max-width: 90%;" src="/attachments/images/FAQ/ADMIN/WorkSchedule/Schedule12.png"/>
             </div>
             
 <li>по кнопке <strong>+Добавить</strong> согласно графику добавьте строку с типом <strong>Выходной</strong> и количеством 3;</li>

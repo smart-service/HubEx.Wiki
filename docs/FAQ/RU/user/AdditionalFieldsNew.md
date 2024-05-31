@@ -152,11 +152,51 @@ description: (Новая)
 
 <p> <div><img style="margin: 0 auto; display: block; max-width: 60%;" src="/attachments/images/FAQ/USER/AdditionalFields/ADDField.jpg"/></div> </p>
 
-<p>Далее необходимо настроить видимость и доступ к новому дополнительному полю:
+<p>Далее необходимо настроить видимость и доступ к новому дополнительному полю. В консоли администратора в левом боковом меню перейдите в раздел <strong>"Настройки заявки"</strong> - подраздел <strong>"Поля на форме заявки"</strong>.</p>
+
+<ol>
+<li>Выберите <strong>Роли пользователей</strong>, которым должно отображаться новое дополнительное поле для заявок;</li>
+<li>Выберите <strong>Стадии заявки</strong>, на которых должно отображаться новое дополнительное поле для заявок;</li>
+<li>В открывшейся таблице установите для нового дополнительного поля параметр RO / RW / RWM;
+    <p><strong>Обратите внимание!</strong> Дополнительные поля располагаются внизу таблицы.</p>
+</li>
+<li>Сохраните изменения.</li>
+</ol>
+
+<p> <div> <img style="margin: 0 auto; display: block; max-width: 100%;" src="/attachments/images/FAQ/USER/AdditionalFields/AccessRights.jpg"/></div> </p>
+
+Подробнее читайте в статье: <a href="https://wiki.hubex.ru/docs/FAQ/RU/admin/ElementsOfInterface.html">Поля на форме заявки: настройка доступа к полям заявки</a>.
+
+<p><strong>Обратите внимание!</strong> Дополнительные поля могут использоваться при фильтрации и поиске заявок в общем списке. Подробнее читайте в статье: <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/Filters.html">Список заявок, поиск заявок с помощью фильтров</a>.</p>
+
+<p>Созданные вами дополнительные поля так же можно увидеть в <strong>Заявке</strong> в мобильном приложении.</p>
+    
+<div> <img style="margin: 0 auto; display: block; max-width: 40%;" src="/attachments/images/FAQ/USER/AdditionalFields/ADDFieldMob.PNG"/> </div>
 
 <h2 id="AdditionalFieldsNew5">Дополнительные поля в выполненных работах</h2>
 
+<p>Рассмотрим пошагово создание дополнительных полей для <strong>Выполненной работы</strong>.</p>
 
+<ul>
+    <li><strong>Название поля</strong>: в свободной форме. Например, Оценка внешнего вида объекта;</li>
+    <li><strong>Тип поля</strong>: выбирается под назначение данных. Например, вам нужно вписать текст, подходящий для этого тип - <strong>Строка</strong>;</li>
+    <li><strong>Единица измерения</strong>: можно выбрать согласно тому, в каких единцах вы хотите указывать информацию: если поле подразумевает ввод текста, то выбирать единицу измерения не нужно;</li>
+    <li><strong>Используется для</strong> нужно указать использование для <strong>Выполненных работ</strong>.
+        Остальные варианты
+        рассмотрены в статьях <a
+                href="https://wiki.hubex.ru/docs/FAQ/RU/user/AdditionalFields.html">Создание
+            дополнительных
+            полей для заявки</a>, <a
+                href="https://wiki.hubex.ru/docs/FAQ/RU/user/AdditionalObject.html">Создание дополнительных полей для
+            объекта</a>, <a
+                href="https://wiki.hubex.ru/docs/FAQ/RU/admin/TicketAttribute.html">Создание атрибутов для чек-листа</a>.
+        <p>Обратите внимание! Новое поле может одновременно использоваться и в <strong>Объектах</strong>, и в
+            <strong>Заявках</strong> и в
+            <strong>Чек-листах</strong>, и в <strong>Выполненных работах</strong>.</p>
+    </li>
+
+
+</ul>
 
 <h2 id="AdditionalFieldsNew6">Дополнительные поля в чек-листах</h2>
 

@@ -28,8 +28,8 @@ description: (Новая)
 
 <h2 id="AdditionalFieldsNew1">Создание дополнительных полей</h2>
 
-<p>Дополнительные поля расширяют возможности внесения и хранения учетной информации.</p>
-<p>Дополнительные поля можно создать для:</p>
+<p><strong>Дополнительные поля</strong> расширяют возможности внесения и хранения учетной информации.</p>
+<p><strong>Дополнительные поля</strong> можно создать для:</p>
 
 <ol>
     <li>Компаний;</li>
@@ -40,11 +40,15 @@ description: (Новая)
     <li>Договоров.</li>
 </ol>
 
-<p>Дополнительные поля для всех вышеуказанных сущностей системы создаются в <a href="https://wiki.hubex.ru/docs/FAQ/RU/admin/HowToEnterTheAdmin.html">Консоли администратора HubEx</a>, в разделе левого бокового меню <strong>"Настройки системы"</strong>, подраздел <strong>"Дополнительные поля"</strong>.</p> 
+<p>Дополнительные поля для всех вышеуказанных сущностей системы создаются в <a href="https://wiki.hubex.ru/docs/FAQ/RU/admin/HowToEnterTheAdmin.html">Консоли администратора</a>, в разделе левого бокового меню <strong>"Настройки системы"</strong>, подраздел <strong>"Дополнительные поля"</strong>.</p> 
 
 <p>Чтобы создать дополнительное поле нажмите на кнопку <strong>"Создать поле"</strong></p>
 
+<p><div> <img style="margin: 0 auto; display: block; max-width: 95%;" src="/attachments/images/FAQ/USER/AdditionalFieldsNew/AdditionalFieldsNew1.png"/></div></p>
+
 <p>Заполните форму создания дополнительного поля интересующими вас параметрами:</p>
+
+<p><div> <img style="margin: 0 auto; display: block; max-width: 95%;" src="/attachments/images/FAQ/USER/AdditionalFieldsNew/AdditionalFieldsNew2.png"/></div></p>
 
 <ol>
     <li><strong>Название поля</strong>: обязательное поле для заполнения в свободной форме;</li>
@@ -74,6 +78,8 @@ description: (Новая)
 <p>После заполнения всех интересующих вас параметров на форме создания дополнительного поля, нажмите на кнопку <strong>"Сохранить"</strong>, далее <strong>"Сохранить изменения"</strong>.</p>
 
 <p><strong>Обратите внимание!</strong> В уже созданном дополнительном поле нет возможности изменить "Тип поля". Если вы хотите изменить "Тип поля" в существующем дополнительном поле, то нужно создать новое дополнительное поле, а старое удалить.</p>
+
+<p><div> <img style="margin: 0 auto; display: block; max-width: 95%;" src="/attachments/images/FAQ/USER/AdditionalFieldsNew/AdditionalFieldsNew3.png"/></div></p>
 
 <p>Дополнительно вы можете ознакомиться с обучающим видеороликом <strong>Как создать дополнительные поля в HubEx?</strong></p>
 
@@ -169,6 +175,8 @@ description: (Новая)
 
 <p><strong>Обратите внимание!</strong> Дополнительные поля могут использоваться при фильтрации и поиске заявок в общем списке. Подробнее читайте в статье: <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/Filters.html">Список заявок, поиск заявок с помощью фильтров</a>.</p>
 
+<p><div> <img style="margin: 0 auto; display: block; max-width: 95%;" src="/attachments/images/FAQ/USER/AdditionalFieldsNew/AdditionalFieldsNew4.png"/></div></p>
+
 <p>Созданные вами дополнительные поля так же можно увидеть в <strong>Заявке</strong> в мобильном приложении.</p>
     
 <div> <img style="margin: 0 auto; display: block; max-width: 40%;" src="/attachments/images/FAQ/USER/AdditionalFields/ADDFieldMob.PNG"/> </div>
@@ -185,6 +193,8 @@ description: (Новая)
 </ul>
 
 <p> <div> <img style="margin: 0 auto; display: block; max-width: 80%;" src="/attachments/images/FAQ/USER/AdditionalFieldsWorks/ADDField.jpg"/> </div> </p>
+
+<p><div> <img style="margin: 0 auto; display: block; max-width: 95%;" src="/attachments/images/FAQ/USER/AdditionalFieldsNew/AdditionalFieldsNew5.png"/></div></p>
 
 <h2 id="AdditionalFieldsNew6">Дополнительные поля в чек-листах</h2>
 

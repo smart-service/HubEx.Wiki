@@ -200,14 +200,13 @@ keywords: график работы, графики работы, расписа
             </li>
 
  <div>
-                <img style="margin: 0 auto; display: block; max-width: 90%;"
-                     src="/attachments/images/FAQ/ADMIN/WorkSchedule/Schedule12.png"/>
+                <img style="margin: 0 auto; display: block; max-width: 90%;" src="/attachments/images/FAQ/ADMIN/WorkSchedule/Schedule12.png"/>
             </div>
             
 <li>по кнопке <strong>+Добавить</strong> согласно графику добавьте строку с типом <strong>Выходной</strong> и количеством 3;</li>
         </ul>
+</li>
 
-        
 <li>установите дату начала действия текущего графика с помощью флажка <strong>Назначить дату начала
         календаря</strong>: этот пункт не является обзательным для выполнения, если дату начала не задать, то по
         умолчанию график будет работать со дня его создания в системе. Например, график работы начнет действовать 

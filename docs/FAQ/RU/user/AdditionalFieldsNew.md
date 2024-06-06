@@ -5,8 +5,6 @@ description: (Новая)
 
 <h1>Дополнительные поля</h1>
 
-В этом разделе вы узнаете:
-
 <html lang="ru">
 <meta charset="utf-8">
 
@@ -41,15 +39,10 @@ description: (Новая)
 </ol>
 
 <p>Дополнительные поля для всех вышеуказанных сущностей системы создаются в <a href="https://wiki.hubex.ru/docs/FAQ/RU/admin/HowToEnterTheAdmin.html">Консоли администратора</a>, в разделе левого бокового меню <strong>"Настройки системы"</strong>, подраздел <strong>"Дополнительные поля"</strong>.</p> 
-
 <p>Чтобы создать дополнительное поле нажмите на кнопку <strong>"Создать поле"</strong></p>
-
 <p><div> <img style="margin: 0 auto; display: block; max-width: 95%;" src="/attachments/images/FAQ/USER/AdditionalFieldsNew/AdditionalFieldsNew1.png"/></div></p>
-
 <p>Заполните форму создания дополнительного поля интересующими вас параметрами:</p>
-
 <p><div> <img style="margin: 0 auto; display: block; max-width: 95%;" src="/attachments/images/FAQ/USER/AdditionalFieldsNew/AdditionalFieldsNew2.png"/></div></p>
-
 <ol>
     <li><strong>Название поля</strong>: обязательное поле для заполнения в свободной форме;</li>
     <li><strong>Тип поля</strong>: обязательное поле для заполнения. Выберите один из предложенных типов для создаваемого дополнительного поля:

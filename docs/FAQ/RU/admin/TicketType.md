@@ -27,7 +27,7 @@ keywords: тип заявки, типы заявок, hubex, хабекс, ху�
     администратора</a> в меню <strong>Настройки заявки - Типы заявок</strong> по кнопке <strong>Создать тип
     заявки</strong>.</p>
 <div>
-    <img style="margin: 0 auto; display: block; max-width: 50%;"
+    <img style="margin: 0 auto; display: block; max-width: 40%;"
          src="/attachments/images/FAQ/ADMIN/TicketType/TicketType1.png"/>
 </div>
 <p>Рассмотрим заполнение карточки <strong>Типа заявки</strong>:</p>

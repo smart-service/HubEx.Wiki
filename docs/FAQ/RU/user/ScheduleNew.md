@@ -13,9 +13,9 @@ description: (Новая)
 <ul>
     <li><a href="#Schedule1">Графики работы в HubEx;</a></li>
     <li><a href="#Schedule2">Графики работы по-умолчанию;</a></li> 
-    <li><a href="#Schedule3">Как создавать или редактировать графики работы;</li>
-    <li><a href="#Schedule4">Как создать недельный график;</li>
-    <li><a href="#Schedule5">Как создать сменный график.</li>
+    <li><a href="#Schedule3">Как создавать или редактировать графики работы;</a></li>
+    <li><a href="#Schedule4">Как создать недельный график;</a></li>
+    <li><a href="#Schedule5">Как создать сменный график;</a></li>
     <li><a href="#Schedule6">Графики работы для сотрудников;</a></li>
     <li><a href="#Schedule7">Графики работы для объектов;</a></li>
     <li><a href="#Schedule8">Графики работы в SLA;</a></li>

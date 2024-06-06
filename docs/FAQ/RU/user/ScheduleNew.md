@@ -12,18 +12,14 @@ description: (Новая)
 
 <ul>
     <li><a href="#Schedule1">Графики работы в HubEx;</a></li>
-    <li><a href="#Schedule2">Графики работы по-умолчанию;</a></li>
-    <li><a href="#Schedule3">Создание новых графиков работы;</a>
-        <ol>
-            <li><a href="#Schedule3.1">Как создавать или редактировать графики работы;</li>
-            <li><a href="#Schedule3.2">Как создать недельный график;</li>
-            <li><a href="#Schedule3.2">Как создать сменный график.</li>
-        </ol>
-    </li>
-    <li><a href="#Schedule4">Графики работы для сотрудников;</a></li>
-    <li><a href="#Schedule5">Графики работы для объектов;</a></li>
-    <li><a href="#Schedule6">Графики работы в SLA;</a></li>
-    <li><a href="#Schedule7">Функционал "Я на смене".</a></li>
+    <li><a href="#Schedule2">Графики работы по-умолчанию;</a></li> 
+    <li><a href="#Schedule3">Как создавать или редактировать графики работы;</li>
+    <li><a href="#Schedule4">Как создать недельный график;</li>
+    <li><a href="#Schedule5">Как создать сменный график.</li>
+    <li><a href="#Schedule6">Графики работы для сотрудников;</a></li>
+    <li><a href="#Schedule7">Графики работы для объектов;</a></li>
+    <li><a href="#Schedule8">Графики работы в SLA;</a></li>
+    <li><a href="#Schedule9">Функционал "Я на смене".</a></li>
 </ul>
 
 </html>
@@ -37,10 +33,10 @@ description: (Новая)
 <ul>
     <li>Учитывать рабочее время сотрудников при назначении на заявки;</li>
     <li>Учитывать переработки сотрудников при выполнении заявок;</li>
-    <li>Автоматически назначать исполнителей на заявки;
-        <p>Подробнее с правилами автоназначения исполнителей на заявки вы можете ознакомиться в статье: <a href="https://wiki.hubex.ru/docs/FAQ/RU/admin/RulesOfChoice.html">Правила автоназначения исполнителя</a></p>
-    </li>
+    <li>Автоматически назначать исполнителей на заявки;</li>
 </ul>
+
+<p>Подробнее с правилами автоназначения исполнителей на заявки вы можете ознакомиться в статье: <a href="https://wiki.hubex.ru/docs/FAQ/RU/admin/RulesOfChoice.html">Правила автоназначения исполнителя</a></p>
 
 <h2 id="Schedule2">Графики работы по-умолчанию</h2>
 
@@ -58,9 +54,7 @@ description: (Новая)
 
 <p><strong>Обратите внимание!</strong> В HubEx нет возможности отобразить в графиках работы обеденное время.</p>
 
-<h2 id="Schedule3">Как создать новый график работы</h2>
-
-<h3 id="Schedule3.1">Как создавать или редактировать графики работы</h3>
+<h2 id="Schedule3">Как создавать или редактировать графики работы</h2>
 
 <p>Создание и редактирование персональных графиков находится в <a href="https://wiki.hubex.ru/docs/FAQ/RU/admin/HowToEnterTheAdmin.html">Консоли администратора</a> в разделе левого бокового меню <strong>"Структура предприятия"</strong> - подраздел <strong>"Графики работы"</strong>.</p>
 
@@ -76,7 +70,7 @@ description: (Новая)
 
 <p>Рассмотрим создание каждого типа графиков подробно.</p>
 
-<h3 id="Schedule3.2">Создание недельного графика работы</h3>
+<h2 id="Schedule4">Создание недельного графика работы</h2>
 
 <p>Для создания недельного графика выполните следующие шаги:</p>
 
@@ -97,7 +91,7 @@ description: (Новая)
 <p><div> <img style="margin: 0 auto; display: block; max-width: 102%;" src="/attachments/images/FAQ/ADMIN/WorkSchedule/Schedule5.jpg"/> </div></p>
 <p><div> <img style="margin: 0 auto; display: block; max-width: 102%;" src="/attachments/images/FAQ/ADMIN/WorkSchedule/Schedule6.jpg"/> </div></p>
 
-<h3 id="Schedule3.3">Создание сменного графика работы</h3>
+<h2 id="Schedule5">Создание сменного графика работы</h2>
 
 <p>Для создания сменного графика выполните следующие шаги:</p>
 
@@ -110,13 +104,12 @@ description: (Новая)
         <p><div> <img style="margin: 0 auto; display: block; max-width: 90%;" src="/attachments/images/FAQ/ADMIN/WorkSchedule/Schedule7.png"/> </div></p>
     </li>
     <li>установите дату начала действия текущего графика с помощью флажка <strong>Назначить дату начала календаря</strong>: этот пункт не является обязательным для выполнения, если дату начала не задать, то по умолчанию график будет работать со дня его создания в системе. Например, график работы начнет действовать с 23 мая 2024 года;
-        <p><div> <img style="margin: 0 auto; display: block; max-width: 90%;" src="/attachments/images/FAQ/ADMIN/WorkSchedule/Schedule8.png"/> </div>
+        <p><div> <img style="margin: 0 auto; display: block; max-width: 90%;" src="/attachments/images/FAQ/ADMIN/WorkSchedule/Schedule8.png"/> </div></p>
     </li>
     <li>проверьте отображение графика по кнопке <strong>Показать график в календаре</strong>: в новом окне появится распределение графика работы по месяцам. При внесении изменений в график кнопку <strong>Показать график в календаре</strong> нужно нажимать повторно;
         <p><div> <img style="margin: 0 auto; display: block; max-width: 90%;" src="/attachments/images/FAQ/ADMIN/WorkSchedule/Schedule9.png"/> </div></p>
     </li>
     <li>нажмите кнопку <strong>Создать график</strong>.
-        <p><div> <img style="margin: 0 auto; display: block; max-width: 90%;" src="/attachments/images/FAQ/ADMIN/WorkSchedule/Schedule10.png"/> </div></p>
         <p><div> <img style="margin: 0 auto; display: block; max-width: 90%;" src="/attachments/images/FAQ/ADMIN/WorkSchedule/Schedule10.png"/> </div></p>
     </li>
 </ol>
@@ -130,7 +123,7 @@ description: (Новая)
     <li>как описано выше, по умолчанию для настройки сменного графика на форме представлен интервал 2/2. Интервал по умолчанию необходимо изменить под требования примера 3/2/3 следующим образом:
         <ul>
             <li>в первой строке для типа дня <strong>Смена</strong> измените количество на 3 и установить время начала 6:00 и время окончания смены на 16:00;
-            <p><div> <img style="margin: 0 auto; display: block; max-width: 90%;" src="/attachments/images/FAQ/ADMIN/WorkSchedule/Schedule11.png"/> </div>
+                <p><div> <img style="margin: 0 auto; display: block; max-width: 90%;" src="/attachments/images/FAQ/ADMIN/WorkSchedule/Schedule11.png"/> </div> </p>
             </li>
             <li>так как следующая часть интервала - это ночные смены, то для второй строки интервала с типом дня <strong>Выходной</strong> измените тип на <strong>Смена</strong>, задайте количество 2 и установите время с 16:00 до 2:00.
                 <p>Обратите внимание! При задании ночных смен вводите время окончания следующего дня (например, 2 часа ночи), система

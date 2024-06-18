@@ -165,7 +165,7 @@ description: (Новая)
 
 <p>В расписании заявок вы можете просмотреть кто сейчас из исполнителей на работе, а кто нет. <strong>Зеленая галочка</strong> - исполнитель на смене. <strong>Серый значок</strong> - исполнитель не на смене.</p>
 
-*Скриншот*
+<p> <div> <img style="margin: 0 auto; display: block; max-width: 95%;" src="/attachments/images/FAQ/USER/ScheduleNew/ScheduleNew3.png"/> </div> </p>
 
 <p>С помощью графика работы исполнителей вы можете посмотреть отработанное время исполнителей и их переработки в отчете по сотрудникам. Подробнее читайте в статье: <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/EngineersAnalytics.html#second">Отработанное время</a></p>
 
@@ -235,11 +235,15 @@ description: (Новая)
     <li>В поле <strong>График работы</strong> добавьте график работы объекта/оборудования.</li>
 </ul>
 
+<p> <div> <img style="margin: 0 auto; display: block; max-width: 95%;" src="/attachments/images/FAQ/USER/ScheduleNew/ScheduleNew1.png"/> </div> </p>
+
 <h2 id="Schedule9">Графики работы в SLA</h2>
 
 <p>Также <strong>Графики работы</strong> используются в <a href="https://wiki.hubex.ru/docs/FAQ/RU/admin/SLA.html">SLA - Правила расчета крайнего срока закрытия заявки</a>.</p> 
 
 <p><strong>График обслуживания заявки</strong> определяет рабочее время выполнения заявок. Например, если вы установили в правило SLA график работы "Понедельник-пятница с 9:00 до 18:00" и плановое время закрытия заявки 45 часов, далее создали заявку в понедельник в 9:00, то крайний срок закрытия этой заявки будет определен на пятницу в 18:00.</p>
+
+<p> <div> <img style="margin: 0 auto; display: block; max-width: 95%;" src="/attachments/images/FAQ/USER/ScheduleNew/ScheduleNew2.png"/> </div> </p>
 
 <h2 id="Schedule10">Функционал "Я на смене"</h2>
 

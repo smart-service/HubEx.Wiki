@@ -163,10 +163,6 @@ description: (Новая)
 <p>Обратите внимание! После того как вы установите <strong>Заявку</strong> на подходящее время на форме выбора <strong>Исполнителя</strong> параметры <strong>Дата и время выполнения</strong> установятся автоматически: <strong>Начало</strong> - та дата и время, на которое вы установили Заявку, <strong>Окончание</strong> - высчитывается исходя из установленных <strong>Плановых трудозатрат</strong> в настройке <strong>Вида работ</strong>.</p>
 <div> <img style="margin: 0 auto; display: block; max-width: 50%;" src="/attachments/images/FAQ/USER/Schedule/WorkType.jpg"/></div>
 
-<p>В расписании заявок вы можете просмотреть кто сейчас из исполнителей на работе, а кто нет. <strong>Зеленая галочка</strong> - исполнитель на смене. <strong>Серый значок</strong> - исполнитель не на смене.</p>
-
-<p> <div> <img style="margin: 0 auto; display: block; max-width: 95%;" src="/attachments/images/FAQ/USER/ScheduleNew/ScheduleNew3.png"/> </div> </p>
-
 <p>С помощью графика работы исполнителей вы можете посмотреть отработанное время исполнителей и их переработки в отчете по сотрудникам. Подробнее читайте в статье: <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/EngineersAnalytics.html#second">Отработанное время</a></p>
 
 <h2 id="Schedule7">Как изменить график сотрудника</h2>

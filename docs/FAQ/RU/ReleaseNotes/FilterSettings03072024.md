@@ -24,7 +24,7 @@ keywords:
     <div><img style="margin: 0 auto; display: block; max-width: 100%;" src="https://wiki.hubex.ru/attachments/images/FAQ/RELEASENOTES/FilterSettings3.png" width="800" height="auto" /></div>
 
 <p>Откроется окно выбора полей, в верхней части которого расположены основные поля, в нижней - дополнительные поля, созданные в вашем тенанте.
-      <div><img style="margin: 0 auto; display: block; max-width: 100%;" src="https://wiki.hubex.ru/attachments/images/FAQ/RELEASENOTES/FilterSettings4.png" width="800" height="auto" /></div>
+      <div><img style="margin: 0 auto; display: block; max-width: 40%;" src="https://wiki.hubex.ru/attachments/images/FAQ/RELEASENOTES/FilterSettings4.png" width="800" height="auto" /></div>
 
   Выбранные вами поля на этом шаге&nbsp;будут отображаться на панели фильтров в той последовательности, в которой вы их добавляли.</p>
 <p>Если вы удалите поле с панели фильтрации, то снова добавить его можно также через кнопку "Добавить".&nbsp;</p>

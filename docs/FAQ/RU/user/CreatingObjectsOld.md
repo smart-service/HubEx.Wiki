@@ -346,7 +346,7 @@ description: (Устаревшая статья)
 
 ___
 ### Следующие шаги:
-- [Создание дополнительных полей для объекта](./AdditionalFieldsObject.md)
+- [Создание дополнительных полей для объекта](./AdditionalFieldsObjectOld.md)
 - [Создание заявки](./CreatingTicket.md)
 - [Создание плановой заявки](./PlannedTickets.md)
 

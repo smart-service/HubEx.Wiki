@@ -51,7 +51,7 @@ keywords:
 <p>Таким образом, создание дополнительных полей для компаний и контрактов позволит вам удобно хранить всю необходимую информацию в одном месте и эффективно управлять данными.</p>
 
 
-<p>Подробнее читайте в статье нашей базы знаний: <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/AdditionalFieldsCompany.html" target="_blank">Дополнительные поля для компаний</a>, <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/AdditionalFieldsContract.html" target="_blank">Дополнительные поля для договоров</a>.</p>
+<p>Подробнее читайте в статье нашей базы знаний: <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/AdditionalFields.html" target="_blank">Дополнительные поля</a>. </p>
 <p>Предложения по доработкам в системе и сообщения об ошибках просим отправлять к нам в "чат с поддержкой" в веб-приложении или на почту <a href="mailto:support@hubex.ru" target="_blank" rel="noopener"> support@hubex.ru </a>.</p>
 
 </body>

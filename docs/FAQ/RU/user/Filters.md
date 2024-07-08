@@ -10,6 +10,8 @@ keywords: табличное представление заявок, карто
 <meta charset="utf-8">
 <ul>
     <li><a href="#ticketlist">Работать со списком Заявок;</a></li>
+    <li><a href="#ticketlist">Использование фильтров;</a></li>
+    <li><a href="#ticketlist">Настройка панели фильтрации;</a></li>
     <li><a href="#deltick3">Сохранять и использовать быстрые фильтры;</a>
     <li><a href="#deltick1">Фильтровать закрытые Заявки;</a></li>
     <li><a href="#deltick2">Фильтровать удаленные Заявки;</a></li>
@@ -48,14 +50,13 @@ keywords: табличное представление заявок, карто
              src="/attachments/images/FAQ/USER/Filters/TableList.jpg"/>
     </div>
     </p>
-
     <p>
     <div>
         <img style="margin: 0 auto; display: block; max-width: 100%;"
              src="/attachments/images/FAQ/USER/Filters/TableList2.jpg"/>
     </div>
     </p>
-</ol>
+    </ol>
 <p>Также в табличное представление <strong>Заявок</strong> можно добавить отображение дополнительных полей.
     Дополнительные поля могут быть настроены для формы <strong>Заявки</strong> в консоли администратора. Подробнее
     читайте в статье: <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/AdditionalFields.html">Создание дополнительных
@@ -96,12 +97,8 @@ keywords: табличное представление заявок, карто
     будет видеть только <strong>Заявки</strong>, находящиеся на его участке. Подробнее читайте в статье: <a
             href="https://wiki.hubex.ru/docs/FAQ/RU/admin/Roles.html#exrole">Настройка ролей: как настроить доступ
         пользователей в разрезе участков</a>.</p>
-
-
-<h5 id="deltick3">Сохранение и использование быстрых фильтров</h5>
-<p>Для быстрого поиска по <strong>Заявкам</strong> воспользуйтесь кнопкой <strong>Фильтры</strong>. Она находится в
-    правом верхнем углу в меню <strong>Все
-        заявки</strong>.</p>
+<h5 id="deltick3">Использование фильтров</h5>
+<p dir="auto">Для быстрого поиска по&nbsp;<strong>Заявкам</strong>&nbsp;воспользуйтесь кнопкой&nbsp;<strong>Фильтры</strong>. Она находится в правом верхнем углу в меню&nbsp;<strong>Все заявки</strong>.</p>
 <div>
     <img style="margin: 0 auto; display: block; max-width: 95%;"
          src="/attachments/images/FAQ/USER/Filters/FiltersButton.jpg"/>
@@ -157,6 +154,17 @@ keywords: табличное представление заявок, карто
     <img style="margin: 0 auto; display: block; max-width: 95%;"
          src="/attachments/images/FAQ/USER/Filters/ClearFilters.jpg"/>
 </div>
+<h5 id="ticketlist">Настройка панели фильтрации</h5>
+<p dir="auto">По клику на кноку <strong>Фильтры&nbsp;</strong>открывается панель фильтров с параметрами фильтрации по <strong>Заявкам</strong>. При наведении курсора на область поля параметра появляется значок перемещения.</p>
+<div><img style="margin: 0 auto; display: block; max-width: 100%;" src="https://wiki.hubex.ru/attachments/images/FAQ/RELEASENOTES/FilterSettings2.png" width="800" height="auto" /></div>
+<p>Перетаскиванием поля вверх или вниз вы можете изменять порядок отображения фильтров. В процессе перетаскивания вы увидите, как другие поля автоматически подстраиваются, чтобы освободить место. Все изменения расположения полей будут сохранены автоматически.</p>
+<p>Добавить необходимые поля для фильтрации можно по клику на кнопку <strong>Добавить</strong>, расположенную в нижней части панели фильтров.&nbsp;</p>
+<div><img style="margin: 0 auto; display: block; max-width: 100%;" src="https://wiki.hubex.ru/attachments/images/FAQ/RELEASENOTES/FilterSettings3.png" width="800" height="auto" /></div>
+<p>Откроется окно выбора полей, в верхней части которого расположены основные поля, в нижней - дополнительные поля, созданные в вашем тенанте.</p>
+<div><img style="margin: 0 auto; display: block; max-width: 40%;" src="https://wiki.hubex.ru/attachments/images/FAQ/RELEASENOTES/FilterSettings4.png" width="800" height="auto" /></div>
+<p>Выбранные вами поля на этом шаге&nbsp;будут отображаться на панели фильтров в той последовательности, в которой вы их добавляли.</p>
+<p>Если вы удалите поле с панели фильтрации, то снова добавить его можно также через кнопку <strong>Добавить</strong>.&nbsp;</p>
+<h5 id="deltick3">Сохранение и использование быстрых фильтров</h5>
 <p>Вы можете сохранять настройки фильтрации. Это сэкономит ваше время поиска необходимых <strong>Заявок</strong>.
     Например, вы часто
     работаете с <strong>Заявками</strong> определенного <strong>Заказчика</strong> или с <strong>Заявками</strong> по

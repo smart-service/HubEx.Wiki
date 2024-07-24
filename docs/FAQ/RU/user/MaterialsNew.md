@@ -13,10 +13,11 @@ description: (Новая)
 <ul>
     <li><a href="#Materials1">Введение</a>;</li>
     <li><a href="#Materials2">Что представляет собой список складов и материалов</a>;</li>
-    <li><a href="#Materials3">Импорт складов и материалов</a>;</li>
-    <li><a href="#Materials4">Настройка роли для работы с материалами в заявках</a>;</li>
-    <li><a href="#Materials5">Использование материалов в заявках</a>;</li>
-    <li><a href="#Materials6">Раздел левого бокового меню «Расход»</a>.</li>
+    <li><a href="#Materials3">Создание складов и материалов</a>;</li>
+    <li><a href="#Materials4">Использование материалов в заявках</a>;</li>
+    <li><a href="#Materials5">Раздел левого бокового меню «Расход»</a>.</li>
+    <li><a href="#Materials6">Настройка роли для работы с материалами в заявках</a>;</li>
+    <li><a href="#Materials7">Настройка видимости складов для сотрудников</a>;</li>
 </ul>
 
 </html>
@@ -77,9 +78,14 @@ description: (Новая)
 
 *Скриншот*
 
-<h2 id="Materials3">Импорт складов и материалов</h2>
+<h2 id="Materials3">Создание складов и материалов</h2>
 
-<p>Внести материалы и создать склады в HubEx можно в меню <strong>Склады - Материалы</strong> по кнопке <strong>Импорт материалов</strong>. Если вы загружаете материалы в первый раз, в появившемся окне выберите <strong>Скачать форму шаблона</strong>. После чего будет скачан специальный шаблон в формате Excel, который необходимо заполнить.</p>
+<p>Внести материалы и создать склады в HubEx можно в меню <strong>Склады - Материалы</strong> по кнопке <strong>Импорт материалов</strong>. Если вы загружаете материалы в первый раз:</p>
+
+<ul>
+    <li>Нажмите на кнопку <strong>Импорт материалов</strong>;</li>
+    <li>В открывшемся окне выберите <strong>Скачать форму шаблона</strong>. После чего будет скачан специальный шаблон в формате Excel, который необходимо заполнить.</li>
+</ul>
 
 <div> <img style="margin: 0 auto; display: block; max-width: 80%;" src="/attachments/images/FAQ/USER/Materials/Import.jpg"/> </div>
 
@@ -104,58 +110,79 @@ description: (Новая)
 
 <div> <img style="margin: 0 auto; display: block; max-width: 80%;" src="/attachments/images/FAQ/USER/Materials/Materials.jpg"/> </div>
 
-<h5 id="count">Изменение количества материалов</h5>
+<h2 id="Materials4">Использование материалов в заявках</h2>
 
-<p>Если вам необходимо изменить количество материалов (после инвентаризации или поступления новых товаров), то
-    необходимо сначала в меню <strong>Склады - Материалы</strong> по кнопке <strong>Экспорт материалов</strong> выгрузить существующую таблицу материалов
-    в Excel. Открыть таблицу, внести изменения по количеству и с помощью кнопки <strong>Импорт материалов</strong> загрузить таблицу
-    повторно. Таким образом количество уже внесенной в систему номенклатуры изменится на указанное в таблице Excel. </p>
+<p>Расход материалов осуществляется в Заявке в web-версии или в мобильном приложении HubEx;</p>
 
-<div>
-    <img style="margin: 0 auto; display: block; max-width: 80%;"
-         src="/attachments/images/FAQ/USER/Materials/Export.jpg"/>
-</div>
-<p>Обратите внимание! Если вы хотите удалить материал со склада, то в поле Количество на складе необходимо поставить
-    0. Данные, которые когда-либо были загружены в систему возможно удалить только по
-    запросу на почту <a
-            href="mailto:support@hubex.ru" target="_blank" rel="noopener">
-        support@hubex.ru</a>.</p>
-<div>
-    <img style="margin: 0 auto; display: block; max-width: 80%;"
-         src="/attachments/images/FAQ/USER/Materials/TemplateCount.jpg"/>
-</div>
+<p>Расход материалов в web-приложении можно указать в <strong>Заявке</strong> на вкладке <strong>Выполнение</strong>:</p>
 
-<p>
-<div>
-    <img style="margin: 0 auto; display: block; max-width: 80%;"
-         src="/attachments/images/FAQ/USER/Materials/EditCount.jpg"/>
-</div>
-</p>
+<ul>
+    <li>Нажмите кнопку <strong>Добавить работу</strong>;
+    <p> <div> <img style="margin: 0 auto; display: block; max-width: 90%; src="/attachments/images/FAQ/USER/Withdrawals/WebMaterials.jpg"/> </div> </p>
+    </li>    
+    <li>В окне выполненной работы в блоке <strong>Израсходованные материалы</strong> нажмите кнопку <strong>Добавить материалы</strong>, чтобы указать расход;
+    <p> <div> <img style="margin: 0 auto; display: block; max-width: 90%;" src="/attachments/images/FAQ/USER/Withdrawals/WebMaterials2.jpg"/> </div> </p>
+    </li>
+    <li>Вы можете выбрать склад, либо оставить отбор по всем доступным складам. В поле <strong>Расход</strong> для каждого фактически потраченного материала укажите количество и стоимость. Стоимость материалов необходима для подсчета итоговой суммы затрат по <strong>Заявке</strong> при формировании <strong>Акта выполненных работ</strong>. Подробнее читайте в статье: <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/ActOFAcceptance.html">Акт выполненных работ</a>. После того как вы указали все материалы, нажмите кнопку <strong>Выбрать</strong>.
+    <p> <div> <img style="margin: 0 auto; display: block; max-width: 90%;" src="/attachments/images/FAQ/USER/Withdrawals/WebMaterials3.jpg"/> </div> </p>
+    <p><strong>Обратите внимание!</strong> При заполнении фактического расхода допускается уход остатков в "минус";</p>
+    </li>
+    <li>Выбранные материалы отразятся в форме выполненной работы. Для того чтобы зафиксировать расход, сохраните <strong>Заявку</strong> по клику на кнопку <strong>Сохранить</strong> в правом верхнем углу.
+    <p> <div> <img style="margin: 0 auto; display: block; max-width: 90%;" src="/attachments/images/FAQ/USER/Withdrawals/WebMaterials4.jpg"/> </div> </p>
+    </li>
+</ul>
 
-<h5 id="userwithmat">Привязка складов к Сотруднику</h5>
-<p>Для того, чтобы <strong>Сотрудник</strong> при выполнении <strong>Заявки</strong> (заполнение вкладки <strong>Выполнение</strong> в <strong>Заявке</strong>) смог указать расход материалов, в
-    карточке этого <strong>Сотрудника</strong> необходимо указать доступные склады. Сделать это можно в меню <strong>Пользователи - Сотрудники</strong> в
-    карточке <strong>Сотрудника</strong> на вкладке <strong>Квалификация</strong> (блок <strong>Доступные склады</strong>). Подробнее читайте в статье: <a
-            href="https://wiki.hubex.ru/docs/FAQ/RU/user/CreatingUser.html">Создание пользователя вашей системы</a>.
-</p>
+<p>В мобильном приложении исполнителя <strong>Сотрудник</strong> может указывать расход материалов при выполнении <strong>Заявки</strong>:</p>
 
-<div>
-    <img style="margin: 0 auto; display: block; max-width: 80%;"
-         src="/attachments/images/FAQ/USER/Materials/User.jpg"/>
-</div>
+<ul>
+    <li>Откройте <strong>Заявку</strong>, внизу на панели навигации выберите пункт <strong>Выполнение</strong>;</li>
+    <li>Добавьте новую выполненную работу по кнопке <strong>+</strong>;
+    <p> <div> <img style="margin: 0 auto; display: block; max-width: 75%;" src="/attachments/images/FAQ/USER/Withdrawals/MobMaterials.jpg"/> </div> </p>
+    </li>
+    <li>С помощью переключателя выберите страницу <strong>Материалы</strong>. Вы можете заполнить все страницы выполненной работы по порядку. Подробнее читайте в статье: <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/AttachingFiles.html">Прикрепление выполненных работ в web- и мобильном приложении</a>;
+    <p> <div> <img style="margin: 0 auto; display: block; max-width: 75%;" src="/attachments/images/FAQ/USER/Withdrawals/MobMaterials2.jpg"/> </div> </p>
+    </li>
+    <li>Нажмите кнопку <strong>Добавить материалы</strong> и укажите, какие материалы были израсходованы и в каком количестве;</li>
+    <li>Нажмите кнопку <strong>Применить</strong>: все выбранные позиции перенесутся в выполненную работу. Чтобы продолжить заполнять выполненную работу, нажмите <strong>Далее</strong>. Чтобы сохранить текущие изменения, нажмите на значок галочки в верхнем правом углу.
+    <p> <div> <img style="margin: 0 auto; display: block; max-width: 95%;" src="/attachments/images/FAQ/USER/Withdrawals/MobMaterials3.jpg"/> </div> </p>
+    </li>
+</ul>
 
+<h2 id="Materials5">Раздел левого бокового меню «Расход»</h2>
 
-<h5 id="wima">Просмотр складов в мобильном приложении исполнителя</h5>
-<p>Сотрудник в мобильном приложении исполнителя может ознакомиться с доступными складами и материалами на этих складах в
-    основном меню приложения в разделе <strong>Склады</strong>. При выполнении <strong>Заявки</strong> в мобильном приложении он может указать материалы с
-    доступных ему складов. Подробнее читайте в статье: <a
-            href="https://wiki.hubex.ru/docs/FAQ/RU/user/Withdrawals.html">Расход материалов по заявке, отчет по
-        расходу</a>.</p>
+<p>Расход материалов по <strong>Заявкам</strong> отражается в web-приложении в меню <strong>Склады - Расход</strong>. Здесь вы можете просмотреть израсходованные материалы по каждой отдельной <strong>Заявке</strong>. А также узнать, когда были загружены материалы, с какого склада и в каком количестве они израсходованы, каким <strong>Сотрудником</strong> и на каком <strong>Объекте</strong> они были использованы. Из таблицы расхода вы можете открыть любую <strong>Заявку</strong>, щелкнув мышкой по ее номеру.</p>
+<div> <img style="margin: 0 auto; display: block; max-width: 95%;" src="/attachments/images/FAQ/USER/Withdrawals/Mat.jpg"/> </div>
 
-<div>
-    <img style="margin: 0 auto; display: block; max-width: 80%;"
-         src="/attachments/images/FAQ/USER/Materials/MobMaterials.jpg"/>
-</div>
+<h2 id="Materials6">Настройка роли для работы с материалами в заявках</h2>
+
+<p>Вы можете разграничить доступ к работе с материалами и складами, и даже запретить определенным <strong>Ролям</strong> пользователей добавлять материалы при выполнении работ. Находятся все настройки в <a href="https://wiki.hubex.ru/docs/FAQ/RU/admin/HowToEnterTheAdmin.html">консоли администрирования</a>.</p>
+
+<p>Настроить доступ к разделу левого бокового меню <strong>Склады</strong> можно в консоли администрирования в разделе левого бокового меню <strong>Администрирование</strong> - подраздел <strong>Роли</strong>. Для этого необходимо выбрать <strong>Роль</strong>, для которой вы хотите скрыть или наоборот открыть доступ к меню <strong>Склады</strong>. Подробнее читайте в статье: <a href="https://wiki.hubex.ru/docs/FAQ/RU/admin/Roles.html">Настройка ролей</a>.</p>
+<p>В разделе <strong>Полномочия</strong> выберите блок <strong>Материалы и склады</strong> и проверьте настройку следующих пунктов:</p>
+
+<ol>
+    <li><strong>Пункт главного меню - Склады</strong>;</li>
+    <li><strong>Пункт главного меню - Склады - Материалы</strong>;</li>
+    <li><strong>Пункт главного меню - Склады - Расход</strong>.</li>
+</ol>
+
+<p>Если настройки включены, значит пользователю с данной <strong>Ролью</strong> будет открыт доступ в меню <strong>Склады</strong>.</p>
+<p>Также здесь вы можете позволить или запретить экспорт, импорт материалов и т.д.</p>
+
+<div> <img style="margin: 0 auto; display: block; max-width: 90%;" src="/attachments/images/FAQ/USER/SettingsWithMaterials/Role.jpg"/> </div>
+
+<p>При заполнении выполненных работ в <strong>Заявке</strong> на вкладке <strong>Выполнение</strong> вы можете настроить возможность добавления материалов фактически израсходованных во время выполнения <strong>Заявки</strong>.</p>
+
+<p>Сделать это можно по аналогии с предыдущим пунктом в консоли администрирования в меню <strong>Администрирование - Роли</strong>. В разделе <strong>Полномочия</strong> выберите блок <strong>Выполненные работы и стоимость</strong> и проверьте настройку пункта <strong>Израсходованные материалы на форме выполненных работ</strong>. Если настройки включены, значит пользователю с данной <strong>Ролью</strong> будет открыт доступ в меню <strong>Склады</strong>.</p>
+<p>Также здесь вы можете позволить или запретить экспорт, импорт материалов и т.д.</p>
+
+<div> <img style="margin: 0 auto; display: block; max-width: 90%;" src="/attachments/images/FAQ/USER/SettingsWithMaterials/Role2.jpg"/> </div>
+
+<h2 id="Materials7">Настройка видимости складов для сотрудников</h2>
+
+<p>Для того, чтобы <strong>Сотрудник</strong> при выполнении <strong>Заявки</strong> (заполнение вкладки <strong>Выполнение</strong> в <strong>Заявке</strong>) смог указать расход материалов, в карточке этого <strong>Сотрудника</strong> необходимо указать доступные склады. Сделать это можно в меню <strong>Пользователи - Сотрудники</strong> в карточке <strong>Сотрудника</strong> на вкладке <strong>Квалификация</strong> (блок <strong>Доступные склады</strong>). Подробнее читайте в статье: <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/CreatingUser.html">Создание пользователя вашей системы</a>.</p>
+
+<div> <img style="margin: 0 auto; display: block; max-width: 80%;" src="/attachments/images/FAQ/USER/Materials/User.jpg"/> </div>
 
 </body>
 

@@ -42,7 +42,7 @@ description: (Новая)
 
 <p>Для начала работы со складами и материалами в HubEx вам нужно перейти в левое боковое меню, раздел <strong>"Склады"</strong> - подраздел <strong>"Материалы"</strong>.</p>
 
-*Скриншот*
+<p> <div> <img style="margin: 0 auto; display: block; max-width: 95%;" src="/attachments/images/FAQ/USER/MaterialsNew/MaterialsNew1.png"/> </div> </p>
 
 <h2 id="Materials2">Что представляет собой список складов и материалов</h2>
 
@@ -57,30 +57,31 @@ description: (Новая)
     <li>Единица измерения.</li>
 </ol>
 
-*Скриншот*
+<p> <div> <img style="margin: 0 auto; display: block; max-width: 95%;" src="/attachments/images/FAQ/USER/MaterialsNew/MaterialsNew2.png"/> </div> </p>
 
 <p>Вы можете искать нужный склад или материал из общего списка с помощью строки поиска.</p>
 
 <p><strong>Обратите внимание!</strong> С помощью строки поиска вы можете найти склад или материал только по названию или коду.</p>
 
-*Скриншот*
+<p> <div> <img style="margin: 0 auto; display: block; max-width: 95%;" src="/attachments/images/FAQ/USER/MaterialsNew/MaterialsNew3.png"/> </div> </p>
 
 <p>Вы можете фильтровать склады и материалы, используя правое боковое меню:</p>
 
-*Скриншот*
+<p> <div> <img style="margin: 0 auto; display: block; max-width: 95%;" src="/attachments/images/FAQ/USER/MaterialsNew/MaterialsNew4.png"/> </div> </p>
+
+<p> <div> <img style="margin: 0 auto; display: block; max-width: 95%;" src="/attachments/images/FAQ/USER/MaterialsNew/MaterialsNew5.png"/> </div> </p>
 
 <p>Вы можете выбрать количество материалов, которое вы хотите видеть на странице:</p>
 
-*Скриншот*
+<p> <div> <img style="margin: 0 auto; display: block; max-width: 95%;" src="/attachments/images/FAQ/USER/MaterialsNew/MaterialsNew6.png"/> </div> </p>
 
 <p>Склады и материалы загружаются в систему с помощью шаблона импорта. В следующем разделе статьи мы рассмотрим импорт более подробно.</p>
 
-*Скриншот*
+<p> <div> <img style="margin: 0 auto; display: block; max-width: 95%;" src="/attachments/images/FAQ/USER/MaterialsNew/MaterialsNew7.png"/> </div> </p>
 
 <p>Также вы можете экспортировать ранее загруженные склады и материалы в Excel-файл:</p>
 
-*Скриншот*
-
+<p> <div> <img style="margin: 0 auto; display: block; max-width: 95%;" src="/attachments/images/FAQ/USER/MaterialsNew/MaterialsNew8.png"/> </div> </p>
 
 <p>Просмотр складов и материалов доступен и в "Мобильном приложении HubEx для исполнителя". Сотрудник в мобильном приложении может ознакомиться с доступными складами и материалами на этих складах в основном меню приложения в разделе <strong>Склады</strong>. При выполнении <strong>Заявки</strong> в мобильном приложении он может указать материалы с доступных ему складов.</p>
 

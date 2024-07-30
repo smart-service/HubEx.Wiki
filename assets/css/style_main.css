@@ -35,7 +35,7 @@
     text-align: center;
     margin-bottom: 20px;
     font-weight: 500;
-    white-space: pre;
+    white-space: normal;
     word-break: break-all;
 }
 .logo {

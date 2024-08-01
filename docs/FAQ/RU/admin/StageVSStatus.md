@@ -19,7 +19,7 @@ keywords: отличие стадии от статуса, стадия заяв
     исполнитель.
 </p>
 <p>Стадии заявки используются для настройки жизненного цикла заявки. Подробнее читайте в статьях: <a
-        hef="https://wiki.hubex.ru/docs/FAQ/RU/admin/StageType.html">Стадии заявки</a>, <a
+        href="https://wiki.hubex.ru/docs/FAQ/RU/admin/StageType.html">Стадии заявки</a>, <a
         href="https://wiki.hubex.ru/docs/FAQ/RU/admin/BusinessProcess.html">Базовый бизнес-процесс для Заявки</a>, <a
         href="https://wiki.hubex.ru/docs/FAQ/RU/admin/TicketLifeCycle.html">Жизненный цикл заявки</a>.</p>
 

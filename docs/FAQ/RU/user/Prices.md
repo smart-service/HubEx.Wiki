@@ -31,20 +31,20 @@ description: (Новая)
 
 <ul>
     <li>Расчета заработной платы сотрудников;
-        <p><strong>Раздел статьи:</strong> <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/Prices.html/Prices2">Импорт сотрудников</a></p>
+        <p><strong>Раздел статьи:</strong> <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/Prices.html#Prices2">Импорт сотрудников</a></p>
     </li>
     <li>Расхода материалов и их стоимостей в заявке;
-        <p><strong>Раздел статьи:</strong> <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/Prices.html/Prices3">Стоимость материалов</a></p>
+        <p><strong>Раздел статьи:</strong> <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/Prices.html#Prices3">Стоимость материалов</a></p>
     </li>
     <li>Фиксации выполнения услуг и финансовых обязательств заказчика перед исполнителем;
-        <p><strong>Раздел статьи:</strong> <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/Prices.html/Prices4">Юридические и банковские реквизиты компании</a></p>
+        <p><strong>Раздел статьи:</strong> <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/Prices.html#Prices4">Юридические и банковские реквизиты компании</a></p>
     </li>
     <li>Учета оценочной и фактической стоимости заявки.
-        <p><strong>Раздел статьи:</strong> <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/Prices.html/Prices5">Оценочная и фактическая стоимость заявки</a></p>
+        <p><strong>Раздел статьи:</strong> <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/Prices.html#Prices5">Оценочная и фактическая стоимость заявки</a></p>
     </li>
 </ul>
 
-<p>О том как взаимодействуют между собой каждая вышеупомянутая сущность описывается в разделе данной статьи <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/Prices.html#Prices6">Выполненные работы по заявке</a> и <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/Prices.html#Prices7">Акт выполненных работ по заявке</a>.</p>
+<p>О том как взаимодействуют между собой каждая вышеупомянутая сущность описывается в разделе данной статьи <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/Prices.html#Prices6">Стоимости в выполненных работах по заявке</a> и <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/Prices.html#Prices7">Стоимости в акте выполненных работ по заявке</a>.</p>
 
 <h2 id="Prices2">Ставка в час и стоимость видов работ</h2>
 
@@ -63,6 +63,8 @@ description: (Новая)
     <li>Сохранить изменения.</li>
 </ul>
 
+<p> <div> <img style="margin: 0 auto; display: block; max-width: 95%;" src="/attachments/images/FAQ/USER/Prices/Prices1.png"/> </div> </p>
+
 <p>Чтобы установить стоимость видов работ:</p>
 
 <ul>
@@ -75,29 +77,48 @@ description: (Новая)
     <li>Сохраните изменения.</li>
 </ul>
 
+<p> <div> <img style="margin: 0 auto; display: block; max-width: 95%;" src="/attachments/images/FAQ/USER/Prices/Prices2.png"/> </div> </p>
+
 <p>О том как считается заработная плата сотрудников на основе ставки в час и выполненных работ мы рассказываем в разделе данной статьи <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/Prices.html#Prices8">Расчет заработной платы сотрудников</a>.</p>
 
 <h2 id="Prices3">Стоимость материалов</h2>
 
 <p>С помощью указания <strong>стоимости</strong> материалов и дальнейшего списания этих материалов в заявке, их стоимость будет входить в <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/Prices.html#Prices7">Акт выполненных работ по заявке</a>.</p>
-<p>Израсходованные в заявках материалы и их стоимости отображаются не только в <strong>Акте выполненных работ</strong>, но и в разделе левого бокового меню "Склады", подраздел "Расход". Функционал <strong>Расход</strong> дает возможность посчитать стоимость списанных материалы по каждой заявке. Кроме этого, вы сможете увидеть в какой заявке какие материалы были материалы, в каком количестве и т. д.</p> 
+
+<p>Материалы и их стоимость в списке всех материалов:</p>
+
+<p> <div> <img style="margin: 0 auto; display: block; max-width: 95%;" src="/attachments/images/FAQ/USER/Prices/Prices3.png"/> </div> </p>
+
+<p>Израсходованные в заявках материалы и их стоимости отображаются не только в <strong>Акте выполненных работ</strong>, но и в разделе левого бокового меню <strong>"Склады"</strong>, подраздел <strong>"Расход"</strong>. Функционал <strong>Расход</strong> дает возможность посчитать стоимость списанных материалы по каждой заявке. Кроме этого, вы сможете увидеть в какой заявке какие материалы были материалы, в каком количестве и т. д.</p> 
+
+<p> <div> <img style="margin: 0 auto; display: block; max-width: 95%;" src="/attachments/images/FAQ/USER/Prices/Prices4.png"/> </div> </p>
+<p> <div> <img style="margin: 0 auto; display: block; max-width: 95%;" src="/attachments/images/FAQ/USER/Prices/Prices5.png"/> </div> </p>
+
 
 <p><strong>Стоимость материалов</strong> указывается при импорте складов и материалов в ваш бизнес-аккаунт HubEx. Подробнее об импорте материалов читайте в статье: <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/MaterialsNew.html#Materials3">Создание складов и материалов</a>.</p>
 
-<p>Вы можете изменить изначально указанную <strong>Стоимость материалов</strong> в бизнес-аккаунте HubEx с помощью изменения шаблона <strong>Экспорта материалов</strong> и его загрузки обратно. Подробнее в статье: <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/MaterialsNew.html#Materials8">Изменение количества материалов на складах</a>.</p>
+<p><strong>Обратите внимание!</strong> Вы можете изменить изначально указанную <strong>Стоимость материалов</strong> в бизнес-аккаунте HubEx с помощью изменения шаблона <strong>Экспорта материалов</strong> и его загрузки обратно. Подробнее в статье: <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/MaterialsNew.html#Materials8">Изменение количества материалов на складах</a>.</p>
 
 <h2 id="Prices4">Юридические и банковские реквизиты</h2>
 
 <p>С помощью юридических и банковских реквизитов заказчики могут оплатить ваши услуги по заявке. Чтобы начать пользоваться функцией, вам нужно указать юридические и банковские реквизиты для <strong>Вашей компании</strong> и для <strong>Компании-заказчика</strong>.</p>
 
 <ul>
-    <li>Перейдите в левое боковое меню HubEx, раздел "Компании", подраздел "Все компании";</li>
+    <li>Перейдите в левое боковое меню HubEx, раздел <strong>"Компании"</strong>, подраздел <strong>"Все компании"</strong>;</li>
     <li>Выберите компанию и перейдите в ее карточку;</li>
-    <li>Заполните все поля, относящиеся к юридическим и банковским реквизитам.</li>
+    <li>Заполните все поля, относящиеся к <strong>юридическим</strong> и <strong>банковским реквизитам</strong>.</li>
 </ul>
+
+<p> <div> <img style="margin: 0 auto; display: block; max-width: 95%;" src="/attachments/images/FAQ/USER/Prices/Prices6.png"/> </div> </p>
+
+<p>Реквизиты вашей компании и компании-заказчика будут отображаться в <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/Prices.html#Prices7">Акте выполненных работ</a>.</p>
+
+<p> <div> <img style="margin: 0 auto; display: block; max-width: 95%;" src="/attachments/images/FAQ/USER/Prices/Prices7.png"/> </div> </p>
 
 <p><strong>1. Обратите внимание!</strong> Вы должны заполнить все реквизиты как для <strong>Вашей компании</strong>, так и для <strong>Компании-заказчика</strong>.</p>
 <p><strong>2. Обратите внимание!</strong> Если в вашей заявке будет фигурировать объект заказчика, у компании которого не заполнены все реквизиты, то в <strong>Акте выполненных работ</strong> реквизиты не будут отображаться, соответственно вы не сможете использовать функционал.</p>
+
+<p> <div> <img style="margin: 0 auto; display: block; max-width: 95%;" src="/attachments/images/FAQ/USER/Prices/Prices8.png"/> </div> </p>
 
 <h2 id="Prices5">Оценочная и фактическая стоимость заявки</h2>
 
@@ -107,6 +128,8 @@ description: (Новая)
 <p>Фактическая стоимость указывается, например, исполнителем после того, как он выполнил заявку и подписал акт выполненных работ.</p>
 
 <p>Видимость этих двух системных полей можно настроить через <a href="https://wiki.hubex.ru/docs/FAQ/RU/admin/ElementsOfInterface.html">Поля на форме заявки</a>.</p>
+
+<p> <div> <img style="margin: 0 auto; display: block; max-width: 95%;" src="/attachments/images/FAQ/USER/Prices/Prices9.png"/> </div> </p>
 
 <h2 id="Prices6">Стоимости в выполненных работах по заявке</h2>
 
@@ -131,11 +154,21 @@ description: (Новая)
     </li>
     <li>Перейдите в выбранную вами заявку;</li>
     <li>Перейдите в раздел заявки "Выполнение";</li>
-    <li>Добавьте выполненную работу и заполните ее данными.
+    <li>Добавьте выполненную работу;
         <p>Веб-версия: кнопка <strong>"+ Добавить работу"</strong></p>
         <p>Мобильное приложение: кнопка <strong>"+"</strong></p>
     </li>
+    <li>Отредактируйте или добавьте <strong>стоимость вида работ</strong> и (или) <strong>ставки в час</strong>;</li>
+    <li>Укажите <strong>материалы</strong>, потраченные на выполнение заявки.</li>
 </ol>
+
+<p>Стоимости в <strong>выполненной работе</strong> в веб-версии HubEx:</p>
+
+<p> <div> <img style="margin: 0 auto; display: block; max-width: 95%;" src="/attachments/images/FAQ/USER/Prices/Prices11.png"/> </div> </p>
+
+<p>Стоимости в <strong>выполненной работе</strong> в мобильном приложении HubEx:</p>
+
+<p> <div> <img style="margin: 0 auto; display: block; max-width: 95%;" src="/attachments/images/FAQ/USER/Prices/Prices13.png"/> </div> <div> <img style="margin: 0 auto; display: block; max-width: 95%;" src="/attachments/images/FAQ/USER/Prices/Prices14.png"/> </div>  </p>
 
 <p>Подробнее о <strong>Выполненных работах</strong> вы можете почитать в статье: <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/AttachingFiles.html">Прикрепление выполненных работ в web и мобильном приложении</a>.</p>
 
@@ -148,7 +181,15 @@ description: (Новая)
 
 <p>Подробнее об <strong>Акте выполненных работ</strong> вы можете почитать в статье: <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/ActOFAcceptance.html">Акт выполненных работ</a>.</p>
 
-<h2 id="SalaryOfEmployees8">Расчет заработной платы сотрудников</h2>
+<p>Стоимости в <strong>Акте выполненных работ</strong> в веб-версии HubEx:</p>
+
+<p> <div> <img style="margin: 0 auto; display: block; max-width: 95%;" src="/attachments/images/FAQ/USER/Prices/Prices12.png"/> </div> </p>
+
+<p>Стоимости в <strong>Акте выполненных работ</strong> в мобильном приложении HubEx:</p>
+
+<p> <div> <img style="margin: 0 auto; display: block; max-width: 95%;" src="/attachments/images/FAQ/USER/Prices/Prices15.png"/> </div> </p>
+
+<h2 id="Prices8">Расчет заработной платы сотрудников</h2>
 
 <p>Для того, чтобы совершить расчет заработной платы выполните следующие шаги:</p>
 

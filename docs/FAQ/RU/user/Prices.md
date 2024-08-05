@@ -31,7 +31,7 @@ description: (Новая)
 
 <ul>
     <li>Расчета заработной платы сотрудников;
-        <p><strong>Раздел статьи:</strong> <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/Prices.html#Prices2">Импорт сотрудников</a></p>
+        <p><strong>Раздел статьи:</strong> <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/Prices.html#Prices2">Ставка в час и стоимость видов работ</a></p>
     </li>
     <li>Расхода материалов и их стоимостей в заявке;
         <p><strong>Раздел статьи:</strong> <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/Prices.html#Prices3">Стоимость материалов</a></p>
@@ -65,7 +65,7 @@ description: (Новая)
 
 <p> <div> <img style="margin: 0 auto; display: block; max-width: 95%;" src="/attachments/images/FAQ/USER/Prices/Prices1.png"/> </div> </p>
 
-<p>Чтобы установить стоимость видов работ:</p>
+<p>Чтобы установить стоимость <strong>Видов работ</strong>:</p>
 
 <ul>
     <li>Перейдите "Консоль администратора HubEx", раздел "Настройки заявки", подраздел "Виды работ";</li>
@@ -83,7 +83,7 @@ description: (Новая)
 
 <h2 id="Prices3">Стоимость материалов</h2>
 
-<p>С помощью указания <strong>стоимости</strong> материалов и дальнейшего списания этих материалов в заявке, их стоимость будет входить в <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/Prices.html#Prices7">Акт выполненных работ по заявке</a>.</p>
+<p>С помощью указания <strong>Стоимости материалов</strong> и дальнейшего списания этих материалов в заявке, их стоимость будет входить в <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/Prices.html#Prices7">Акт выполненных работ по заявке</a>.</p>
 
 <p>Материалы и их стоимость в списке всех материалов:</p>
 
@@ -101,17 +101,17 @@ description: (Новая)
 
 <h2 id="Prices4">Юридические и банковские реквизиты</h2>
 
-<p>С помощью юридических и банковских реквизитов заказчики могут оплатить ваши услуги по заявке. Чтобы начать пользоваться функцией, вам нужно указать юридические и банковские реквизиты для <strong>Вашей компании</strong> и для <strong>Компании-заказчика</strong>.</p>
+<p>С помощью <strong>Юридических</strong> и <strong>Банковских реквизитов</strong> заказчики могут оплатить ваши услуги по заявке. Чтобы начать пользоваться функцией, вам нужно указать юридические и банковские реквизиты для <strong>Вашей компании</strong> и для <strong>Компании-заказчика</strong>.</p>
 
 <ul>
     <li>Перейдите в левое боковое меню HubEx, раздел <strong>"Компании"</strong>, подраздел <strong>"Все компании"</strong>;</li>
     <li>Выберите компанию и перейдите в ее карточку;</li>
-    <li>Заполните все поля, относящиеся к <strong>юридическим</strong> и <strong>банковским реквизитам</strong>.</li>
+    <li>Заполните все поля, относящиеся к <strong>Юридическим</strong> и <strong>Банковским реквизитам</strong>.</li>
 </ul>
 
 <p> <div> <img style="margin: 0 auto; display: block; max-width: 95%;" src="/attachments/images/FAQ/USER/Prices/Prices6.png"/> </div> </p>
 
-<p>Реквизиты вашей компании и компании-заказчика будут отображаться в <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/Prices.html#Prices7">Акте выполненных работ</a>.</p>
+<p>Реквизиты <strong>Вашей компании</strong> и <strong>Компании-заказчика</strong> будут отображаться в <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/Prices.html#Prices7">Акте выполненных работ</a>.</p>
 
 <p> <div> <img style="margin: 0 auto; display: block; max-width: 95%;" src="/attachments/images/FAQ/USER/Prices/Prices7.png"/> </div> </p>
 
@@ -168,7 +168,7 @@ description: (Новая)
 
 <p>Стоимости в <strong>выполненной работе</strong> в мобильном приложении HubEx:</p>
 
-<p> <div> <img style="margin: 0 auto; display: block; max-width: 95%;" src="/attachments/images/FAQ/USER/Prices/Prices13.png"/> </div> <div> <img style="margin: 0 auto; display: block; max-width: 95%;" src="/attachments/images/FAQ/USER/Prices/Prices14.png"/> </div>  </p>
+<p> <div> <img style="margin: 0 auto; display: block; max-width: 50%;" src="/attachments/images/FAQ/USER/Prices/Prices13.png"/> </div> <div> <img style="margin: 0 auto; display: block; max-width: 95%;" src="/attachments/images/FAQ/USER/Prices/Prices14.png"/> </div>  </p>
 
 <p>Подробнее о <strong>Выполненных работах</strong> вы можете почитать в статье: <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/AttachingFiles.html">Прикрепление выполненных работ в web и мобильном приложении</a>.</p>
 
@@ -187,7 +187,7 @@ description: (Новая)
 
 <p>Стоимости в <strong>Акте выполненных работ</strong> в мобильном приложении HubEx:</p>
 
-<p> <div> <img style="margin: 0 auto; display: block; max-width: 95%;" src="/attachments/images/FAQ/USER/Prices/Prices15.png"/> </div> </p>
+<p> <div> <img style="margin: 0 auto; display: block; max-width: 50%;" src="/attachments/images/FAQ/USER/Prices/Prices15.png"/> </div> </p>
 
 <h2 id="Prices8">Расчет заработной платы сотрудников</h2>
 

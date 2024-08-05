@@ -168,7 +168,7 @@ description: (Новая)
 
 <p>Стоимости в <strong>выполненной работе</strong> в мобильном приложении HubEx:</p>
 
-<p> <div> <img style="margin: 0 auto; display: block; max-width: 50%;" src="/attachments/images/FAQ/USER/Prices/Prices13.png"/> </div> <div> <img style="margin: 0 auto; display: block; max-width: 95%;" src="/attachments/images/FAQ/USER/Prices/Prices14.png"/> </div>  </p>
+<p> <div> <img style="margin: 0 auto; display: block; max-width: 95%;" src="/attachments/images/FAQ/USER/Prices/Prices13.png"/> </div> </p>
 
 <p>Подробнее о <strong>Выполненных работах</strong> вы можете почитать в статье: <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/AttachingFiles.html">Прикрепление выполненных работ в web и мобильном приложении</a>.</p>
 
@@ -187,7 +187,7 @@ description: (Новая)
 
 <p>Стоимости в <strong>Акте выполненных работ</strong> в мобильном приложении HubEx:</p>
 
-<p> <div> <img style="margin: 0 auto; display: block; max-width: 50%;" src="/attachments/images/FAQ/USER/Prices/Prices15.png"/> </div> </p>
+<p> <div> <img style="margin: 0 auto; display: block; max-width: 95%;" src="/attachments/images/FAQ/USER/Prices/Prices14.png"/> </div> </p>
 
 <h2 id="Prices8">Расчет заработной платы сотрудников</h2>
 

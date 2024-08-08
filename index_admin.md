@@ -68,13 +68,8 @@
 <h4 style="padding-left: 20px;"><a href="/docs/FAQ/RU/admin/Notifications.html">Настройка оповещений</a></h4>
 
 ### Настройки системы
-В настройках системы можно создать дополнительные поля для объектов (оборудования), заявок, а также атрибуты для чек-листов. 
-<h4 style="padding-left: 20px;"><a href="/docs/FAQ/RU/user/AdditionalFieldsObject.html">Создание дополнительных полей для объекта</a></h4>
-<h4 style="padding-left: 20px;"><a href="/docs/FAQ/RU/user/AdditionalFields.html">Создание дополнительных полей для заявки</a></h4>
-<h4 style="padding-left: 20px;"><a href="/docs/FAQ/RU/user/AdditionalFieldsWorks.html">Создание дополнительных полей для выполненных работ</a></h4>
-<h4 style="padding-left: 20px;"><a href="/docs/FAQ/RU/user/AdditionalFieldsCompany.html">Создание дополнительных полей для компании</a></h4>
-<h4 style="padding-left: 20px;"><a href="/docs/FAQ/RU/user/AdditionalFieldsContract.html">Создание дополнительных полей для договоров</a></h4>
-<h4 style="padding-left: 20px;"><a href="/docs/FAQ/RU/admin/TicketAttribute.html">Создание атрибутов для чек-листа</a></h4>
+В настройках системы можно создать дополнительные поля для объектов (оборудования), заявок, а также атрибуты для чек-листов.
+<h4 style="padding-left: 20px;"><a href="/docs/FAQ/RU/user/AdditionalFields.html">Создание дополнительных полей</a></h4>
 
 ### Интеграция
 Раздел интеграция позволит настроить вам связь с Битрикс 24, с различными почтовыми клиентами. Также здесь вы найдете настройки служебных учетных записей, которые необходимы для интеграции с внешними системами и подачи заявок незарегистрированными пользователями.

@@ -172,7 +172,7 @@ keywords: создание компании, создать компанию, з
 <p>Прочтите инструкцию ниже или ознакомьтесь с обучающим видеороликом <strong>Договор в HubEx: как создать договор на объект/оборудование</strong>.</p>
 <iframe src="https://www.youtube.com/embed/uVLKXbTjuik" width="100%" height="450px" allowfullscreen="allowfullscreen"></iframe>
 
-<p>Создать новый договор можно на вкладке <strong>Договоры</strong> в карточке <strong>Компании</strong>.</p>
+<p class="p1">Создать новый договор можно на странице <strong>Договоры</strong> раздела <strong>Компании</strong> или на вкладке&nbsp;<strong>Договоры</strong>&nbsp;в карточке&nbsp;<strong>Компании</strong>.</p>
 
 <div>
         <img style="margin: 0 auto; display: block; max-width: 95%;" src="/attachments/images/FAQ/USER/CreatingCompany/Contract.jpg"/>
@@ -181,7 +181,7 @@ keywords: создание компании, создать компанию, з
 <p>Рассмотрим заполнение полей <strong>Договора</strong>:</p>
 
 <ul>
-        <li>в карточке <strong>Договора</strong> обязательным для заполнения является поле <strong>Наименование и номер договора</strong>;</li>
+        <li>в карточке <strong>Договора</strong> обязательным для заполнения являются поля <strong>Наименование и номер договора</strong> и <strong>Компания</strong>;</li>
         <li>поля <strong>Описание</strong> и <strong>Условия договора</strong> заполняются в свободной форме - это дополнительная информация о деталях договора;</li>
         <li><strong>Срок действия</strong> необходимо заполнять, если вы контролируете срок окончания, в договоре имеются особые денежные условия;</li>
         <li><strong>Объекты по договору</strong> - <strong>Объекты</strong> позволяют классифицировать договоры, в <strong>Заявке</strong> можно будет выбрать только тот <strong>Договор</strong>, который принадлежит выбранному <strong>Объекту</strong>; </li>

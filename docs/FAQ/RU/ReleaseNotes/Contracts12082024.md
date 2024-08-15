@@ -13,7 +13,7 @@ keywords:
 <p>Рады сообщить, что теперь работа с <strong>Договорами</strong> стала еще проще! Новый подраздел <strong>Договоры</strong> позволяет просматривать, создавать и редактировать <strong>Договоры</strong> всех ваших компаний на одной странице.</p>
 <h5>Список договоров</h5>
 <p>Для просмотра и управления договорами ваших <strong>Компаний</strong> перейдите в подраздел <strong>Договоры</strong> раздела <strong>Компании</strong>.</p>
-<div><img style="margin: 0 auto; display: block; max-width: 100%;" src="https://wiki.hubex.ru/attachments/images/FAQ/RELEASENOTES/FilterSettings1.png" width="800" height="auto" /></div>
+<div><img style="margin: 0 auto; display: block; max-width: 100%;" src="https://wiki.hubex.ru/attachments/images/FAQ/RELEASENOTES/Contracts1.png" width="800" height="auto" /></div>
 <p>На странице отображается список всех <strong>Договоров</strong>, созданных для ваших <strong>Компаний</strong>. Для каждого <strong>Договора</strong> указаны следующие параметры:</p>
 <ul>
 <li>Название и номер договора;</li>
@@ -22,15 +22,17 @@ keywords:
 <li>Условия договора;</li>
 <li>Срок действия договора.</li>
 </ul>  
-<p>Для настройки расположения фильтров перейдите в раздед <strong>Заявки</strong> - <strong>Все заявки&nbsp;</strong>и откройте панель фильтров.&nbsp;</p>
-  <div><img style="margin: 0 auto; display: block; max-width: 100%;" src="https://wiki.hubex.ru/attachments/images/FAQ/RELEASENOTES/FilterSettings1.png" width="800" height="auto" /></div>
-<p>При наведении курсора на область поля появляется значок перемещения.</p>
-    <div><img style="margin: 0 auto; display: block; max-width: 100%;" src="https://wiki.hubex.ru/attachments/images/FAQ/RELEASENOTES/FilterSettings2.png" width="800" height="auto" /></div>
-
 <p>При наведении курсора на договор из списка появляется кнопка дополнительного действия (три точки), через которую можно удалить договор.</p>
+  <div><img style="margin: 0 auto; display: block; max-width: 100%;" src="https://wiki.hubex.ru/attachments/images/FAQ/RELEASENOTES/Contracts2.png" width="800" height="auto" /></div>
+
 <p><strong>Обратите внимание!</strong> Вы можете удалить <strong>Договор</strong> из системы только при условии, что на момент удаления по <strong>Договору</strong> не созданы какие-либо активные <strong>Заявки</strong>.</p>
 <p>Вы можете фильтровать список всех созданных <strong>Договоров</strong>, открыв панель фильтров по кнопке <strong>Фильтры</strong>.</p>
-<p>Создать новый договор можно по кнопке <strong>Создать договор.</strong> Откроется форма создания договора, в которой необходимо заполнить следующие поля:</p>
+  <div><img style="margin: 0 auto; display: block; max-width: 100%;" src="https://wiki.hubex.ru/attachments/images/FAQ/RELEASENOTES/Contracts3.png" width="800" height="auto" /></div>
+  <div><img style="margin: 0 auto; display: block; max-width: 100%;" src="https://wiki.hubex.ru/attachments/images/FAQ/RELEASENOTES/Contracts4.png" width="800" height="auto" /></div>
+<h5>Создание договора</h5>
+<p>Создать новый договор можно по кнопке <strong>Создать договор.
+  <div><img style="margin: 0 auto; display: block; max-width: 40%;" src="https://wiki.hubex.ru/attachments/images/FAQ/RELEASENOTES/Contracts5.png" width="800" height="auto" /></div>
+</strong> Откроется форма создания договора, в которой необходимо заполнить следующие поля:</p>
 <ul>
 <li>поле <strong>Наименование и номер договора </strong>является обязательным для заполнения;</li>
 <li>поля&nbsp;<strong>Описание</strong>&nbsp;и&nbsp;<strong>Условия договора</strong>&nbsp;заполняются в свободной форме - это дополнительная информация о деталях договора;</li>

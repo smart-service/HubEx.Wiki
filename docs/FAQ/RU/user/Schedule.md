@@ -56,7 +56,7 @@ keywords: рабочее время, график работы, графики �
     <li>Круглосуточный 24/7.</li>
 </ul>
 
-<div> <img style="margin: 0 auto; display: block; max-width: 95%;" src="/attachments/images/FAQ/ADMIN/WorkSchedule/Schedule23.jpg"/> </div>
+<div> <img style="margin: 0 auto; display: block; max-width: 95%;" src="/attachments/images/FAQ/ADMIN/WorkSchedule/Schedule23.png"/> </div>
 
 <p><strong>Обратите внимание!</strong> В HubEx нет возможности отобразить в графиках работы обеденное время.</p>
 

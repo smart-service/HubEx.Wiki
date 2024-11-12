@@ -24,7 +24,7 @@
 <h4 style="padding-left: 20px;"><a href="/docs/FAQ/RU/user/Glossary.html">Глоссарий терминов</a></h4>
 
 ### О системе HubEx
-Здесь вы найдете ответы на вопросы о платформе HubEx.
+Здесь вы найдете обзор платформы HubEx и ее возможностей.
 <h4 style="padding-left: 20px;"><a href="/docs/FAQ/RU/admin/AboutHubEx.html">О платформе HubEx</a></h4>
 <h4 style="padding-left: 20px;"><a href="/docs/FAQ/RU/admin/Deployment.html">Варианты развертвания HubEx</a></h4>
 

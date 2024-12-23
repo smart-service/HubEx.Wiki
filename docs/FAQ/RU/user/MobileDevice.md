@@ -25,7 +25,8 @@ keywords: мобильный телефон, мобильное устройст
     </li>
     <li><strong>Диагональ экрана от 5 дюймов</strong>;</li>
     <li><strong>Поддержка 3G\4G связи</strong>;</li>
-    <li><strong>Камера от 5 МП</strong>.</li>
+    <li><strong>Камера от 5 МП</strong>;</li>
+    <li><strong>Модуль чтения NFC (при использовании NFC-меток в процессах)</strong>.</li>
 </ol>
 
 

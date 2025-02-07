@@ -36,16 +36,16 @@
     <a href="/docs/FAQ/RU/user/CreatingCompany.html">Создание обслуживаемых компаний</a>
 </h4>
 <h4 style="padding-left: 20px;">
-    <a href="/docs/FAQ/RU/user/AdditionalFieldsCompany.html">Создание дополнительных полей для компаний</a></h4>
+    <a href="/docs/FAQ/RU/user/AdditionalFields.html#AdditionalFields2">Создание дополнительных полей для компаний</a></h4>
 
 <h4 style="padding-left: 20px;">
-    <a href="/docs/FAQ/RU/user/AdditionalFieldsContract.html">Создание дополнительных полей для договоров</a></h4>
+    <a href="/docs/FAQ/RU/user/AdditionalFields.html#AdditionalFields7">Создание дополнительных полей для договоров</a></h4>
     
 <h4 style="padding-left: 20px;">
     <a href="/docs/FAQ/RU/user/CreatingObjects.html">Создание обслуживаемого оборудования</a>
 </h4>
 <h4 style="padding-left: 20px;">
-    <a href="/docs/FAQ/RU/user/AdditionalFieldsObject.html">Создание дополнительных полей в объекте</a>
+    <a href="/docs/FAQ/RU/user/AdditionalFields.html#AdditionalFields3">Создание дополнительных полей в объекте</a>
 </h4>
 <h4 style="padding-left: 20px;">
     <a href="/docs/FAQ/RU/user/GroupActions.html">Быстрые фильтры и массовые действия для списка объектов</a>
@@ -88,7 +88,7 @@
 <h4 style="padding-left: 20px;">
     <a href="/docs/FAQ/RU/user/PlannedTicketsSchedule.html">График обслуживания объектов</a></h4>
 <h4 style="padding-left: 20px;">
-    <a href="/docs/FAQ/RU/user/AdditionalFields.html">Создание дополнительных полей в заявке</a></h4>
+    <a href="/docs/FAQ/RU/user/AdditionalFields.html#AdditionalFields4">Создание дополнительных полей в заявке</a></h4>
 
 <h4 style="padding-left: 20px;">
     <a href="/docs/FAQ/RU/user/Calendar.html">Календарь заявок</a></h4>
@@ -96,7 +96,7 @@
     <a href="/docs/FAQ/RU/user/Checklists.html">Чек-листы</a></h4>
 <h4 style="padding-left: 20px;">
     <a href="/docs/FAQ/RU/user/AttachingFiles.html">Прикрепление выполненных работ</a></h4>
-<h4 style="padding-left: 20px;"><a href="/docs/FAQ/RU/user/AdditionalFieldsWorks.html">Создание дополнительных полей для выполненных работ</a></h4>
+<h4 style="padding-left: 20px;"><a href="/docs/FAQ/RU/user/AdditionalFields.html#AdditionalFields5">Создание дополнительных полей для выполненных работ</a></h4>
 <h4 style="padding-left: 20px;">
     <a href="/docs/FAQ/RU/user/ChangingStatus.html">Переход заявки по стадиям и удаление заявки</a></h4>
 

@@ -17,6 +17,7 @@ keywords: история изменений, информация по заяв�
          src="/attachments/images/FAQ/USER/HistoryOfChanges/History.jpg"/>
 </div>
 
+
 <p>Нажмите на блок со стадией, чтобы открыть подробную информацию.</p>
 <div>
     <img style="margin: 0 auto; display: block; max-width: 90%;"

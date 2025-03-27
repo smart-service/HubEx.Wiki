@@ -64,6 +64,16 @@ keywords: qr-код, подача заявки по qr-коду, создать 
              src="/attachments/images/FAQ/USER/SelfRegister/Registrate.jpg"/>
     </div>
     </p>
+    <li id="selfregister">если у Вас в приглашении включена обязательная регистрация при подаче заявки через сканирование QR-кода, пользователю не отображается кнопка "Не получать уведомления". Для регистрации, нажмите значок <strong>Email</strong> и введите свои
+        реальные данные. На указанный адрес электронной почты вам придет письмо-подтверждение регистрации, с помощью которого вы создадите себе пароль и сможете пользоваться приложением <strong>HubEx заказчик</strong>. Дополнительно, можно зарегистрироваться по номеру телефона, для этого нужно нажать на значок <strong>СМС</strong>. Нажмите кнопку <strong>Завершить создание заявки</strong> и
+        проверьте свою почту;
+    </li>
+    <p>
+    <div>
+        <img style="margin: 0 auto; display: block; max-width: 70%;"
+             src="/attachments/images/FAQ/USER/SelfRegister/RegistrateMandatory.jpg"/>
+    </div>
+    </p>
     <li>если вы прошли регистрацию в HubEx, скачайте мобильное приложение <strong>HubEx заказчик</strong> для просмотра
         выполнения <strong>Заявок</strong> и создания новых: <a
                 href="https://play.google.com/store/apps/details?id=ru.hubex.customer">для Android</a> или <a

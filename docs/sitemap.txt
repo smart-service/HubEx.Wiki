@@ -190,5 +190,13 @@ https://wiki.hubex.ru/docs/FAQ/RU/ReleaseNotes/MailIntegration20022024.html
 https://wiki.hubex.ru/docs/FAQ/RU/ReleaseNotes/FilterAdditionalFields28022024.html
 https://wiki.hubex.ru/docs/FAQ/RU/ReleaseNotes/FloorPlanDefault13032024.html
 https://wiki.hubex.ru/docs/FAQ/RU/ReleaseNotes/CalendarTickets18032024.html
+https://wiki.hubex.ru/docs/FAQ/RU/ReleaseNotes/Schedules23052024.html
+https://wiki.hubex.ru/docs/FAQ/RU/ReleaseNotes/TicketTypeAndWorkType06062024.html
+https://wiki.hubex.ru/docs/FAQ/RU/ReleaseNotes/FilterSettings03072024.html
+https://wiki.hubex.ru/docs/FAQ/RU/ReleaseNotes/Contracts12082024.html
+https://wiki.hubex.ru/docs/FAQ/RU/ReleaseNotes/ActiveFilters02112024.html
+https://wiki.hubex.ru/docs/FAQ/RU/ReleaseNotes/YandexMaps20112024.html
+https://wiki.hubex.ru/docs/FAQ/RU/ReleaseNotes/NewHistoryOfChanges11022024.html
+https://wiki.hubex.ru/docs/FAQ/RU/ReleaseNotes/ListOfChanges31032025.html
 https://wiki.hubex.ru/docs/FAQ/RU/ReleaseNotes/EngineerApp.html
 https://wiki.hubex.ru/docs/FAQ/RU/ReleaseNotes/CustomerApp.html

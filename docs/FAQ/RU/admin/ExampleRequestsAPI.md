@@ -399,9 +399,11 @@ keywords: API, интеграция, REST API, REST, hubex, хабекс, хуб
 <hr class="" data-start="4263" data-end="4266" />
 <h3 class="" data-start="4268" data-end="4309">Получение данных по конкретной заявке</h3>
 <div class="contain-inline-size rounded-md border-[0.5px] border-token-border-medium relative bg-token-sidebar-surface-primary">
-<div class="flex items-center text-token-text-secondary px-4 py-2 text-xs font-sans justify-between h-9 bg-token-sidebar-surface-primary dark:bg-token-main-surface-secondary select-none rounded-t-[5px]">&nbsp;</div>
-<div class="sticky top-9">&nbsp;</div>
-<div class="overflow-y-auto p-4" dir="ltr"><strong><code class="whitespace-pre!"><span class="hljs-variable constant_">GET</span> <span class="hljs-symbol">https:</span>/<span class="hljs-regexp">/api.hubex.ru/fsm</span><span class="hljs-regexp">/WORK/</span><span class="hljs-title class_">Tasks</span>/{<span class="hljs-title class_">Task</span>ID} </code></strong></div>
+<div class="flex items-center text-token-text-secondary px-4 py-2 text-xs font-sans justify-between h-9 bg-token-sidebar-surface-primary dark:bg-token-main-surface-secondary select-none rounded-t-[5px]">ruby</div>
+<div class="sticky top-9">
+<div class="absolute end-0 bottom-0 flex h-9 items-center pe-2">
+<div class="bg-token-sidebar-surface-primary text-token-text-secondary dark:bg-token-main-surface-secondary flex items-center rounded-sm px-2 font-sans text-xs"><button class="flex gap-1 items-center select-none px-4 py-1">Копировать</button></div>
+</div>
 </div>
 <p class="" data-start="4369" data-end="4407">Где <code data-start="4373" data-end="4383">{TaskID}</code> &mdash; идентификатор заявки.</p>
 <p class="" data-start="4409" data-end="4430">Заголовки аналогичны.</p>

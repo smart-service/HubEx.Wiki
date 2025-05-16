@@ -76,3 +76,10 @@ keywords: API, интеграция, REST API, REST, hubex, хабекс, хуб
 
 Дополнительно, следует обратить внимание, что JWT имеет срок годности. Чтобы иметь возможность обновить данный токен без повторной авторизации, необходимо использовать <a href="https://doc.hubex.ru/?url=AUTHZ.json#/RefreshTokens/Generate">метод для генерации <i>refresh-токена</i></a>. Передав <i>refresh-токен</i> вместе с <i>acces-токеном</i> в <a href="https://doc.hubex.ru/?url=AUTHZ.json#/AccessTokens/Refresh">метод обновления токена доступа</a>, можно получить новый <i>access-токен</i> с новым временем действия.
 </body>
+
+___
+### Следующие шаги:
+- [Примеры API запросов в HubEx для реализации интеграции](./ExampleRequestsAPI.md)
+
+____
+- [Перейти в меню](http://wiki.hubex.ru)

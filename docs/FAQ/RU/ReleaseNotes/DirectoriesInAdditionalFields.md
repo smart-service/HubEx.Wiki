@@ -87,6 +87,6 @@ keywords:
 </ul>
 <hr class="" data-start="3160" data-end="3163" />
 <p class="" data-start="3165" data-end="3344">В случае возникновения проблем - пишите нам в поддержку Telegram&nbsp;<a href="https://t.me/hubex_bot" target="_blank" rel="noopener">@hubex_bot</a>&nbsp;или на почту&nbsp;<a href="mailto:help@hubex.ru">help@hubex.ru</a></p>
-
+</body>
 ___
 - [Перейти в меню](http://wiki.hubex.ru)

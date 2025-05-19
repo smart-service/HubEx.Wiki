@@ -31,9 +31,6 @@ keywords:
 <li class="" data-start="458" data-end="489">
 <p class="" data-start="460" data-end="489"><strong data-start="460" data-end="472">Описание</strong> (необязательно);</p>
 </li>
-<li class="" data-start="493" data-end="567">
-<p class="" data-start="495" data-end="567">Отметьте <strong data-start="504" data-end="526">&laquo;Мобильная версия&raquo;</strong>, если форма нужна в адаптированном виде.</p>
-</li>
 </ul>
 </li>
 <li class="" data-start="568" data-end="766">
@@ -46,7 +43,7 @@ keywords:
 <p class="" data-start="655" data-end="681">Таблицы, заголовки, стили;</p>
 </li>
 <li class="" data-start="685" data-end="766">
-<p class="" data-start="687" data-end="766"><strong data-start="687" data-end="701">Переменные</strong>, обернутые в {{}} они будут заменены на значения из заявки.</p>
+<p class="" data-start="687" data-end="766"><strong data-start="687" data-end="701">Переменные</strong>, обернутые в &#123;&#123;}} они будут заменены на значения из заявки.</p>
 </li>
 </ul>
 </li>

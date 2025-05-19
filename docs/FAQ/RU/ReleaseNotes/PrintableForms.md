@@ -46,7 +46,7 @@ keywords:
 <p class="" data-start="655" data-end="681">Таблицы, заголовки, стили;</p>
 </li>
 <li class="" data-start="685" data-end="766">
-<p class="" data-start="687" data-end="766"><strong data-start="687" data-end="701">Переменные</strong>, обернутые в <code data-start="715" data-end="722">{{ }}</code> &mdash; они будут заменены на значения из заявки.</p>
+<p class="" data-start="687" data-end="766"><strong data-start="687" data-end="701">Переменные</strong>, обернутые в {{}} они будут заменены на значения из заявки.</p>
 </li>
 </ul>
 </li>
@@ -54,31 +54,31 @@ keywords:
 <h3 class="" data-start="768" data-end="795">🔄 Доступные переменные</h3>
 <ul data-start="796" data-end="1370">
 <li class="" data-start="796" data-end="873">
-<p class="" data-start="798" data-end="873">Переменные заявки: <code data-start="817" data-end="828">{{Номер}}</code>, <code data-start="830" data-end="844">{{Описание}}</code>, <code data-start="846" data-end="867">{{Адрес из заявки}}</code> и др.</p>
+<p class="" data-start="798" data-end="873">Переменные заявки: {{Номер}}, {{Описание}}, {{Адрес из заявки}} и др.</p>
 </li>
 <li class="" data-start="874" data-end="941">
-<p class="" data-start="876" data-end="941">Переменные объекта: <code data-start="896" data-end="916">{{ОбъектНазвание}}</code>, <code data-start="918" data-end="935">{{ОбъектАдрес}}</code> и др.</p>
+<p class="" data-start="876" data-end="941">Переменные объекта: {{ОбъектНазвание}}, {{ОбъектАдрес}} и др.</p>
 </li>
 <li class="" data-start="942" data-end="1034">
-<p class="" data-start="944" data-end="1034">Переменные компании: <code data-start="965" data-end="994">{{Компания-заказчик | ИНН}}</code>, <code data-start="996" data-end="1028">{{Компания-плательщик | ОГРН}}</code> и др.</p>
+<p class="" data-start="944" data-end="1034">Переменные компании: {{Компания-заказчик | ИНН}}, {{Компания-плательщик | ОГРН}} и др.</p>
 </li>
 <li class="" data-start="1035" data-end="1138">
-<p class="" data-start="1037" data-end="1138">Переменные чек-листа: <code data-start="1059" data-end="1074">{{Чек-листы}}</code>, <code data-start="1076" data-end="1105">{{Чек-листы | Выполненные}}</code>, <code data-start="1107" data-end="1138">{{Чек-листы | БезСодержания}}</code></p>
+<p class="" data-start="1037" data-end="1138">Переменные чек-листа: {{Чек-листы}}, {{Чек-листы | Выполненные}}, {{Чек-листы | БезСодержания}}</p>
 </li>
 <li class="" data-start="1139" data-end="1185">
-<p class="" data-start="1141" data-end="1185">Выполненные работы: <code data-start="1161" data-end="1185">{{Выполненные работы}}</code></p>
+<p class="" data-start="1141" data-end="1185">Выполненные работы: {{Выполненные работы}}</p>
 </li>
 <li class="" data-start="1186" data-end="1370">
 <p class="" data-start="1188" data-end="1208">Дополнительные поля:</p>
 <ul data-start="1211" data-end="1370">
 <li class="" data-start="1211" data-end="1278">
-<p class="" data-start="1213" data-end="1278">Заявка: <code data-start="1221" data-end="1245">{{Заявка_Атрибут_001}}</code>, <code data-start="1247" data-end="1271">{{Заявка_Атрибут_002}}</code> и т.д.</p>
+<p class="" data-start="1213" data-end="1278">Заявка: {{Заявка_Атрибут_001}}, {{Заявка_Атрибут_002}} и т.д.</p>
 </li>
 <li class="" data-start="1281" data-end="1322">
-<p class="" data-start="1283" data-end="1322">Объект: <code data-start="1291" data-end="1315">{{Объект_Атрибут_001}}</code> и т.д.</p>
+<p class="" data-start="1283" data-end="1322">Объект: {{Объект_Атрибут_001}} и т.д.</p>
 </li>
 <li class="" data-start="1325" data-end="1370">
-<p class="" data-start="1327" data-end="1370">Компания: <code data-start="1337" data-end="1363">{{Компания_Атрибут_001}}</code> и т.д.</p>
+<p class="" data-start="1327" data-end="1370">Компания: {{Компания_Атрибут_001}} и т.д.</p>
 </li>
 </ul>
 </li>
@@ -105,10 +105,10 @@ keywords:
 <h3 class="" data-start="1821" data-end="1862">🔁 Поведение при подстановке значений</h3>
 <ul data-start="1863" data-end="1986">
 <li class="" data-start="1863" data-end="1919">
-<p class="" data-start="1865" data-end="1919">Все <code data-start="1869" data-end="1885">{{переменные}}</code> заменяются на значения из заявки.</p>
+<p class="" data-start="1865" data-end="1919">Все {{переменные}} заменяются на значения из заявки.</p>
 </li>
 <li class="" data-start="1920" data-end="1986">
-<p class="" data-start="1922" data-end="1986">Если значение отсутствует &mdash; отображается <strong data-start="1963" data-end="1980">пустая строка</strong> <code data-start="1981" data-end="1985">""</code>.</p>
+<p class="" data-start="1922" data-end="1986">Если значение отсутствует &mdash; отображается <strong data-start="1963" data-end="1980">пустая строка</strong> "".</p>
 </li>
 </ul>
 <hr class="" data-start="1988" data-end="1991" />
@@ -147,6 +147,9 @@ keywords:
 <p class="" data-start="2509" data-end="2551">🗑️ <strong data-start="2513" data-end="2524">Удалить</strong> &mdash; полное удаление шаблона.</p>
 </li>
 </ul>
+<div class="contain-inline-size rounded-md border-[0.5px] border-token-border-medium relative bg-token-sidebar-surface-primary">
+<img src="https://i.ibb.co/v4NZ14XY/image.jpg" alt="image" border="0">
+</div>
 <hr class="" data-start="2553" data-end="2556" />
 <h2 class="" data-start="2558" data-end="2595">📌 Пример использования переменных</h2>
 <div class="contain-inline-size rounded-md border-[0.5px] border-token-border-medium relative bg-token-sidebar-surface-primary">

@@ -198,5 +198,6 @@ https://wiki.hubex.ru/docs/FAQ/RU/ReleaseNotes/ActiveFilters02112024.html
 https://wiki.hubex.ru/docs/FAQ/RU/ReleaseNotes/YandexMaps20112024.html
 https://wiki.hubex.ru/docs/FAQ/RU/ReleaseNotes/NewHistoryOfChanges11022024.html
 https://wiki.hubex.ru/docs/FAQ/RU/ReleaseNotes/ListOfChanges31032025.html
+https://wiki.hubex.ru/docs/FAQ/RU/ReleaseNotes/DirectoriesInAdditionalFields.html
 https://wiki.hubex.ru/docs/FAQ/RU/ReleaseNotes/EngineerApp.html
 https://wiki.hubex.ru/docs/FAQ/RU/ReleaseNotes/CustomerApp.html

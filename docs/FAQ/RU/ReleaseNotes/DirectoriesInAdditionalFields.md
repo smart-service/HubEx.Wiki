@@ -63,6 +63,7 @@ keywords:
 <p class="" data-start="1735" data-end="1773"><strong data-start="1735" data-end="1748">Материалы</strong> &mdash; наименование материала</p>
 </li>
 </ul>
+<p style="text-align: center;"><img src="https://i.ibb.co/twK9317B/image.jpg" alt="image" border="0" /></p>
 <hr class="" data-start="2241" data-end="2244" />
 <h3 class="" data-start="2246" data-end="2271">Обновления админ панели по дополнительным полям</h3>
 <p class="" data-start="2273" data-end="2369">В меню <strong data-start="2280" data-end="2323">Настройки системы &rarr; Дополнительные поля</strong> обновлён интерфейс создания и редактирования:</p>

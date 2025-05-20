@@ -17,6 +17,7 @@
 ### Новые возможности web-приложения HubEx
 В данном разделе вы найдете краткие статьи с обзором новых возможностей web-приложения HubEx. Мы постоянно улучшаемся и добавляем полезные функции, чтобы ваша работа становилась еще комфортнее.
 
+<h4><a href="docs/FAQ/RU/ReleaseNotes/DirectoriesInAdditionalFields.html">Справочники в дополнительных полях: обновление от 15.05.2025</a></h4>
 <h4><a href="docs/FAQ/RU/ReleaseNotes/ListOfChanges31032025.html">Обновления за первый квартал 2025 года</a></h4>
 <h4><a href="docs/FAQ/RU/ReleaseNotes/NewHistoryOfChanges11022024.html">Новая история изменений заявки от 11.02.2025</a></h4>
 <h4><a href="docs/FAQ/RU/ReleaseNotes/YandexMaps20112024.html">Переход на Яндекс Карты: обновление от 21.11.2024</a></h4>

@@ -128,6 +128,7 @@ https://wiki.hubex.ru/docs/FAQ/RU/admin/Powers.html
 https://wiki.hubex.ru/docs/FAQ/RU/user/MobileObjects.html
 
 
+https://wiki.hubex.ru/docs/FAQ/RU/ReleaseNotes/TaskTypeInCalendarFilter22.05.25.html
 https://wiki.hubex.ru/docs/FAQ/RU/ReleaseNotes/TicketArchives08042020.html
 https://wiki.hubex.ru/docs/FAQ/RU/ReleaseNotes/UserInTicket13042020.html
 https://wiki.hubex.ru/docs/FAQ/RU/ReleaseNotes/Materials27042020.html

@@ -1,50 +1,63 @@
 #### Обучающие видеоролики
 В данной статье будут представлены все видео, которые могут помочь при использовании системы HubEx.
+
 <html>
-<meta charset="utf-8">
-<title>Быстрый переход внутри документа</title>
 <head>
-     <style>
-          .video-source-selector {
-          margin-bottom: 10px;
-          }
-          .source-btn {
+    <style>
+        .video-player-container {
+            margin: 20px 0;
+        }
+        .video-source-selector {
+            margin-bottom: 10px;
+        }
+        .source-btn {
             padding: 8px 16px;
             background: #f0f0f0;
             border: 1px solid #ddd;
             cursor: pointer;
             margin-right: 5px;
-          }
-          .source-btn.active {
+            border-radius: 4px;
+            font-family: Arial, sans-serif;
+            font-size: 14px;
+            transition: all 0.3s ease;
+        }
+        .source-btn:hover {
+            background: #e0e0e0;
+        }
+        .source-btn.active {
             background: #45688e;
             color: white;
             border-color: #45688e;
-          }
-          .video-frame {
+        }
+        .video-frame {
             width: 560px;
             height: 315px;
-          }
-     </style>
+            max-width: 100%;
+        }
+        .video-frame iframe {
+            width: 100%;
+            height: 100%;
+            border: none;
+        }
+    </style>
 </head>
-
 <body>
 
 <div class="video-player-container">
-  <div class="video-source-selector">
-    <button class="source-btn active" data-source="youtube">VK</button>
-    <button class="source-btn" data-source="vk">YouTube</button>
-  </div>
-  
-  <div class="video-embed">
-    <!-- VK плеер (по умолчанию видимый) -->
-    <div class="video-frame vk-frame" style="display: block;">
-      <iframe src="https://vkvideo.ru/video_ext.php?oid=-56338600&id=456246619&hd=1&autoplay=1" width="640" height="360" allow="autoplay; encrypted-media; fullscreen; picture-in-picture; screen-wake-lock;" frameborder="0" allowfullscreen></iframe>
+    <div class="video-source-selector">
+        <button class="source-btn active" data-source="youtube">YouTube</button>
+        <button class="source-btn" data-source="vk">VK</button>
     </div>
-    <!-- YouTube плеер (изначально скрыт) -->
-    <div class="video-frame youtube-frame" style="display: none;">
-      <iframe width="560" height="315" src="https://www.youtube.com/embed/KZbrcQg4IKY" frameborder="0" allowfullscreen></iframe>
+    <div class="video-embed">
+        <!-- YouTube плеер (по умолчанию видимый) -->
+        <div class="video-frame youtube-frame" style="display: block;">
+            <iframe src="https://www.youtube.com/embed/KZbrcQg4IKY" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        </div>
+        <!-- VK плеер (изначально скрыт) -->
+        <div class="video-frame vk-frame" style="display: none;">
+            <iframe src="https://vkvideo.ru/video_ext.php?oid=-187865475&id=456239118&hd=2&autoplay=1" allowfullscreen></iframe>
+        </div>
     </div>
-  </div>
 </div>
 
 <script>

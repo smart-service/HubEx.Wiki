@@ -31,7 +31,7 @@
 
 <div class="video-player-container">
   <div class="video-source-selector">
-    <button class="source-btn active" data-source="youtube">VKYouTube</button>
+    <button class="source-btn active" data-source="youtube">VK</button>
     <button class="source-btn" data-source="vk">YouTube</button>
   </div>
   
@@ -40,7 +40,7 @@
     <div class="video-frame vk-frame" style="display: block;">
       <iframe src="https://vkvideo.ru/video_ext.php?oid=-56338600&id=456246619&hd=1&autoplay=1" width="640" height="360" allow="autoplay; encrypted-media; fullscreen; picture-in-picture; screen-wake-lock;" frameborder="0" allowfullscreen></iframe>
     </div>
-    <!-- YouTubeVK плеер (изначально скрыт) -->
+    <!-- YouTube плеер (изначально скрыт) -->
     <div class="video-frame youtube-frame" style="display: none;">
       <iframe width="560" height="315" src="https://www.youtube.com/embed/KZbrcQg4IKY" frameborder="0" allowfullscreen></iframe>
     </div>

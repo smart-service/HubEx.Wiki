@@ -46,9 +46,31 @@
     </div>
   </div>
 </div>
-</body>
-</html>
+
+<script>
+    document.querySelectorAll('.source-btn').forEach(button => {
+        button.addEventListener('click', function() {
+            // Удаляем активный класс у всех кнопок
+            document.querySelectorAll('.source-btn').forEach(btn => {
+                btn.classList.remove('active');
+            });
+            
+            // Добавляем активный класс текущей кнопке
+            this.classList.add('active');
+            
+            // Скрываем все плееры
+            document.querySelectorAll('.video-frame').forEach(frame => {
+                frame.style.display = 'none';
+            });
+            
+            // Показываем выбранный плеер
+            const source = this.getAttribute('data-source');
+            document.querySelector(`.${source}-frame`).style.display = 'block';
+        });
+    });
+</script>
 
 </body>
+</html>
 ____
 - [Перейти в меню](http://wiki.hubex.ru)

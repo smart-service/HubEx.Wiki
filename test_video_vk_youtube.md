@@ -58,13 +58,13 @@
   </div>
   
   <div class="video-embed">
-    <!-- YouTube плеер (по умолчанию видимый) -->
-    <div class="video-frame youtube-frame" style="display: block;">
-      <iframe width="560" height="315" src="https://www.youtube.com/embed/KZbrcQg4IKY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <!-- VK плеер (по умолчанию видимый) -->
+    <div class="video-frame vk-frame" style="display: block;">
+      <iframe width="560" height="315" src="https://vkvideo.ru/video_ext.php?oid=-56338600&id=456246619&hd=2&autoplay=1" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     </div>
-    <!-- VK плеер (изначально скрыт) -->
-    <div class="video-frame vk-frame" style="display: none;">
-      <iframe width="560" height="315" src="https://vk.com/video_ext.php?oid=-GROUP_ID&id=VIDEO_ID&hash=HASH" frameborder="0" allowfullscreen></iframe>
+    <!-- YouTubeVK плеер (изначально скрыт) -->
+    <div class="video-frame youtube-frame" style="display: none;">
+      <iframe width="560" height="315" src="https://www.youtube.com/embed/KZbrcQg4IKY" frameborder="0" allowfullscreen></iframe>
     </div>
   </div>
 </div>

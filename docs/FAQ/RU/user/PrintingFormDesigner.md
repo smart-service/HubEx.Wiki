@@ -33,6 +33,7 @@ keywords: создать печатную форму, печатная форм�
   th {
     background-color: #f0f0f0;
     color: #000000;
+    font-weight: bold;
   }
   ul {
     margin-top: 0;

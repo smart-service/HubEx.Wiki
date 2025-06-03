@@ -9,25 +9,26 @@ keywords: создать печатную форму, печатная форм�
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <title>Инструкция по работе с печатными формами в HubEx</title>
 <style>
-  body {
+/*   body {
     font-family: Arial, sans-serif;
     line-height: 1.6;
     padding: 20px;
     max-width: 900px;
     margin: auto;
-/*     color: #222; */
-  }
+    background: #fff;
+    color: #222;
+  } */
   table {
     width: 100%;
     border-collapse: collapse;
     margin-bottom: 30px;
   }
   table, th, td {
-    border: 1px solid #ccc;
+    border: 1px solid #000000;
   }
   th, td {
     padding: 8px 10px;
-    text-align: left;
+    text-align: center; /* Изменено с left на center */
   }
   th {
     background-color: #f0f0f0;

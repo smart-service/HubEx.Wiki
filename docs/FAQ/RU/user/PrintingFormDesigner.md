@@ -15,7 +15,6 @@ keywords: создать печатную форму, печатная форм�
     padding: 20px;
     max-width: 900px;
     margin: auto;
-    background: #fff;
     color: #222;
   }
   h1, h2, h3 {

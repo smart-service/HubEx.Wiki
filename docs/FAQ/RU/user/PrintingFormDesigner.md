@@ -32,14 +32,14 @@ keywords: создать печатную форму, печатная форм�
     padding: 8px 10px;
     text-align: left;
   }
-  th {
+/*   th {
     background-color: #f0f0f0;
-  }
+  } */
   ul {
     margin-top: 0;
   }
   code {
-    background: #f4f4f4;
+/*     background: #f4f4f4; */
     padding: 2px 6px;
     border-radius: 4px;
     font-family: monospace;

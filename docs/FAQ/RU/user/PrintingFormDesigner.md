@@ -15,10 +15,10 @@ keywords: создать печатную форму, печатная форм�
     padding: 20px;
     max-width: 900px;
     margin: auto;
-    color: #222;
+/*     color: #222; */
   }
-  h1, h2, h3 {
-    color: #0055a5;
+/*   h1, h2, h3 {
+    color: #0055a5; */
   }
   table {
     width: 100%;

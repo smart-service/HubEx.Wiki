@@ -28,10 +28,11 @@ keywords: создать печатную форму, печатная форм�
   }
   th, td {
     padding: 8px 10px;
-    text-align: center; /* Изменено с left на center */
+    text-align: center;
   }
   th {
     background-color: #f0f0f0;
+    color: #000000;
   }
   ul {
     margin-top: 0;

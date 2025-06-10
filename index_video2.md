@@ -95,10 +95,10 @@
     </div>
     <div class="video-embed">
         <div class="video-frame youtube-frame" style="display: block;">
-            <iframe src="https://www.youtube.com/embed/vyfhCnihTMQ" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            <iframe src="https://www.youtube.com/embed/vyfhCnihTMQ" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
         </div>
         <div class="video-frame vk-frame" style="display: none;">
-            <iframe src="https://vkvideo.ru/video_ext.php?oid=-187865475&id=456239126&hd=2&autoplay=1" allowfullscreen></iframe>
+            <iframe src="https://vkvideo.ru/video_ext.php?oid=-187865475&id=456239126&hd=2&autoplay=0" allowfullscreen></iframe>
         </div>
     </div>
 </div>
@@ -318,7 +318,6 @@
 
  <h5 id="objectimport">Как использовать импорт объектов для быстрого старта работы в Hubex</h5>
 <p>Подробно об импорте <strong>Объектов</strong>, <strong>Заявок</strong>, <strong>Пользователей</strong> и <strong>Компаний</strong> читайте в статье <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/Import.html">Импорт</a>.</p>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tzXlekvaftY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <div class="video-player-container" data-player-id="player13">
     <div class="video-source-selector">

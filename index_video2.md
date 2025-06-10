@@ -2,7 +2,7 @@
 В данной статье будут представлены все видео, которые могут помочь при использовании системы HubEx.
 <html>
 <head>
-<style>
+    <style>
         .video-player-container {
             margin: 20px 0;
         }
@@ -38,7 +38,7 @@
             height: 100%;
             border: none;
         }
-</style>
+    </style>
 </head>
 <body>
 <meta charset="utf-8">
@@ -87,22 +87,20 @@
 </ul>
 <h5 id="hubexhl">Обзор функциональных возможностей HubEx: контроль мобильных специалистов и управление процессами онлайн</h5>
 <p>В данном ролике представлен обзор возможностей FSM-системы HubEx: компоненты системы, основные сущности, аналитика, пользователи, мобильные приложения и безопасность данных. </p>
- 
-<div class="video-player-container">
-<div class="video-source-selector">
-<button class="source-btn active" data-source="youtube">YouTube</button>
-<button class="source-btn" data-source="vk">VK</button>
-</div>
-<div class="video-embed">
-<!-- YouTube плеер (по умолчанию видимый) -->
-<div class="video-frame youtube-frame" style="display: block;">
-<iframe src="https://www.youtube.com/embed/vyfhCnihTMQ" width="560" height="315" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
-<!-- VK плеер (изначально скрыт) -->
-<div class="video-frame vk-frame" style="display: none;">
-<iframe src="https://vkvideo.ru/video_ext.php?oid=-187865475&id=456239126&hd=2&autoplay=1" width="853" height="480" allow="autoplay; encrypted-media; fullscreen; picture-in-picture; screen-wake-lock;" frameborder="0" allowfullscreen></iframe>
-</div>
-</div>
+
+<div class="video-player-container" data-player-id="player1">
+    <div class="video-source-selector">
+        <button class="source-btn active" data-source="youtube">YouTube</button>
+        <button class="source-btn" data-source="vk">VK</button>
+    </div>
+    <div class="video-embed">
+        <div class="video-frame youtube-frame" style="display: block;">
+            <iframe src="https://www.youtube.com/embed/vyfhCnihTMQ" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        </div>
+        <div class="video-frame vk-frame" style="display: none;">
+            <iframe src="https://vkvideo.ru/video_ext.php?oid=-187865475&id=456239126&hd=2&autoplay=1" allowfullscreen></iframe>
+        </div>
+    </div>
 </div>
 
 <!--Старый ролик <h5 id="firststeps">Начало работы в HubEx</h5>
@@ -112,41 +110,37 @@
 <h5 id="operator">Работа диспетчера в HubEx</h5>
 <p>В данном видео разбираем, как эффективно работать диспетчеру в HubEx и покрывать основные задачи по организации работы сотрудников, оперативному выполнению заявок и поддержанию коммуникации между клиентами и исполнителями.</p>
 
-<div class="video-player-container">
-<div class="video-source-selector">
-<button class="source-btn active" data-source="youtube">YouTube</button>
-<button class="source-btn" data-source="vk">VK</button>
-</div>
-<div class="video-embed">
-<!-- YouTube плеер (по умолчанию видимый) -->
-<div class="video-frame youtube-frame" style="display: block;">
-<iframe src="https://www.youtube.com/embed/KZbrcQg4IKY" width="560" height="315" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
-<!-- VK плеер (изначально скрыт) -->
-<div class="video-frame vk-frame" style="display: none;">
-<iframe src="https://vkvideo.ru/video_ext.php?oid=-187865475&id=456239118&hd=2&autoplay=1" width="853" height="480" allow="autoplay; encrypted-media; fullscreen; picture-in-picture; screen-wake-lock;" frameborder="0" allowfullscreen></iframe>
-</div>
-</div>
+<div class="video-player-container" data-player-id="player1">
+    <div class="video-source-selector">
+        <button class="source-btn active" data-source="youtube">YouTube</button>
+        <button class="source-btn" data-source="vk">VK</button>
+    </div>
+    <div class="video-embed">
+        <div class="video-frame youtube-frame" style="display: block;">
+            <iframe src="https://www.youtube.com/embed/KZbrcQg4IKY" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        </div>
+        <div class="video-frame vk-frame" style="display: none;">
+            <iframe src="https://vkvideo.ru/video_ext.php?oid=-187865475&id=456239118&hd=2&autoplay=1" allowfullscreen></iframe>
+        </div>
+    </div>
 </div>
 
 <h5 id="admin">Консоль администратора в HubEx</h5>
 <p>В данном видео рассматриваем все возможности консоли администратора в HubEx. А также даем полезные ссылки на более подробные уроки по разделам консоли. </p>
 
-<div class="video-player-container">
-<div class="video-source-selector">
-<button class="source-btn active" data-source="youtube">YouTube</button>
-<button class="source-btn" data-source="vk">VK</button>
-</div>
-<div class="video-embed">
-<!-- YouTube плеер (по умолчанию видимый) -->
-<div class="video-frame youtube-frame" style="display: block;">
-<iframe src="https://www.youtube.com/embed/5qsg9aUpIlw?si=v98J92BDBRDR7-r-" width="560" height="315" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
-<!-- VK плеер (изначально скрыт) -->
-<div class="video-frame vk-frame" style="display: none;">
-<iframe src="https://vkvideo.ru/video_ext.php?oid=-187865475&id=456239129&hd=2&autoplay=1" width="853" height="480" allow="autoplay; encrypted-media; fullscreen; picture-in-picture; screen-wake-lock;" frameborder="0" allowfullscreen></iframe>
-</div>
-</div>
+<div class="video-player-container" data-player-id="player1">
+    <div class="video-source-selector">
+        <button class="source-btn active" data-source="youtube">YouTube</button>
+        <button class="source-btn" data-source="vk">VK</button>
+    </div>
+    <div class="video-embed">
+        <div class="video-frame youtube-frame" style="display: block;">
+            <iframe src="https://www.youtube.com/embed/5qsg9aUpIlw?si=v98J92BDBRDR7-r-" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        </div>
+        <div class="video-frame vk-frame" style="display: none;">
+            <iframe src="https://vkvideo.ru/video_ext.php?oid=-187865475&id=456239129&hd=2&autoplay=1" allowfullscreen></iframe>
+        </div>
+    </div>
 </div>
 
 <h5 id="creatingobject">Как создавать объекты обслуживания в HubEx: способы создания объектов обслуживания, маркировка, паспорт объекта</h5>
@@ -353,21 +347,29 @@
 <iframe width="560" height="315" src="https://www.youtube.com/embed/PO71TKcqGBw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>-->
 
 <script>
-    document.querySelectorAll('.source-btn').forEach(button => {
-        button.addEventListener('click', function() {
-            // Удаляем активный класс у всех кнопок
-            document.querySelectorAll('.source-btn').forEach(btn => {
-                btn.classList.remove('active');
+    document.querySelectorAll('.video-player-container').forEach(playerContainer => {
+        const playerId = playerContainer.getAttribute('data-player-id');
+        const buttons = playerContainer.querySelectorAll('.source-btn');
+        
+        buttons.forEach(button => {
+            button.addEventListener('click', function() {
+                // Удаляем активный класс у всех кнопок в этом контейнере
+                buttons.forEach(btn => {
+                    btn.classList.remove('active');
+                });
+                
+                // Добавляем активный класс текущей кнопке
+                this.classList.add('active');
+                
+                // Скрываем все плееры в этом контейнере
+                playerContainer.querySelectorAll('.video-frame').forEach(frame => {
+                    frame.style.display = 'none';
+                });
+                
+                // Показываем выбранный плеер
+                const source = this.getAttribute('data-source');
+                playerContainer.querySelector(`.${source}-frame`).style.display = 'block';
             });
-            // Добавляем активный класс текущей кнопке
-            this.classList.add('active');
-            // Скрываем все плееры
-            document.querySelectorAll('.video-frame').forEach(frame => {
-                frame.style.display = 'none';
-            });
-            // Показываем выбранный плеер
-            const source = this.getAttribute('data-source');
-            document.querySelector(`.${source}-frame`).style.display = 'block';
         });
     });
 </script>

@@ -801,8 +801,11 @@
 
 <script>
     document.querySelectorAll('.video-player-container').forEach(playerContainer => {
-        const playerId = playerContainer.getAttribute('data-player-id');
         const buttons = playerContainer.querySelectorAll('.source-btn');
+        const vkFrame = playerContainer.querySelector('.vk-frame');
+        
+        // Очищаем VK iframe (оставляем только пустой div)
+        vkFrame.innerHTML = '<div class="vk-placeholder" style="width:100%;height:100%;display:flex;align-items:center;justify-content:center;background:#f5f5f5;">Нажмите "VK" для загрузки видео</div>';
         
         buttons.forEach(button => {
             button.addEventListener('click', function() {
@@ -821,7 +824,29 @@
                 
                 // Показываем выбранный плеер
                 const source = this.getAttribute('data-source');
-                playerContainer.querySelector(`.${source}-frame`).style.display = 'block';
+                const targetFrame = playerContainer.querySelector(`.${source}-frame`);
+                targetFrame.style.display = 'block';
+                
+                // Если выбран VK и iframe еще не загружен
+                if (source === 'vk' && !targetFrame.querySelector('iframe')) {
+                    // Получаем оригинальный src из HTML
+                    const originalIframe = playerContainer.querySelector('.vk-frame iframe');
+                    const vkSrc = originalIframe ? originalIframe.getAttribute('src') : '';
+                    
+                    if (vkSrc) {
+                        // Создаем и добавляем iframe
+                        const iframe = document.createElement('iframe');
+                        iframe.setAttribute('src', vkSrc);
+                        iframe.setAttribute('allowfullscreen', '');
+                        iframe.style.width = '100%';
+                        iframe.style.height = '100%';
+                        iframe.style.border = 'none';
+                        
+                        // Заменяем placeholder на iframe
+                        targetFrame.innerHTML = '';
+                        targetFrame.appendChild(iframe);
+                    }
+                }
             });
         });
     });

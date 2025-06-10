@@ -111,12 +111,43 @@
 
 <h5 id="operator">Работа диспетчера в HubEx</h5>
 <p>В данном видео разбираем, как эффективно работать диспетчеру в HubEx и покрывать основные задачи по организации работы сотрудников, оперативному выполнению заявок и поддержанию коммуникации между клиентами и исполнителями.</p>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KZbrcQg4IKY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<div class="video-player-container">
+<div class="video-source-selector">
+<button class="source-btn active" data-source="youtube">YouTube</button>
+<button class="source-btn" data-source="vk">VK</button>
+</div>
+<div class="video-embed">
+<!-- YouTube плеер (по умолчанию видимый) -->
+<div class="video-frame youtube-frame" style="display: block;">
+<iframe src="https://www.youtube.com/embed/KZbrcQg4IKY" width="560" height="315" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+<!-- VK плеер (изначально скрыт) -->
+<div class="video-frame vk-frame" style="display: none;">
+<iframe src="https://vkvideo.ru/video_ext.php?oid=-187865475&id=456239118&hd=2&autoplay=1" width="853" height="480" allow="autoplay; encrypted-media; fullscreen; picture-in-picture; screen-wake-lock;" frameborder="0" allowfullscreen></iframe>
+</div>
+</div>
+</div>
 
 <h5 id="admin">Консоль администратора в HubEx</h5>
 <p>В данном видео рассматриваем все возможности консоли администратора в HubEx. А также даем полезные ссылки на более подробные уроки по разделам консоли. </p>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5qsg9aUpIlw?si=v98J92BDBRDR7-r-" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+<div class="video-player-container">
+<div class="video-source-selector">
+<button class="source-btn active" data-source="youtube">YouTube</button>
+<button class="source-btn" data-source="vk">VK</button>
+</div>
+<div class="video-embed">
+<!-- YouTube плеер (по умолчанию видимый) -->
+<div class="video-frame youtube-frame" style="display: block;">
+<iframe src="https://www.youtube.com/embed/5qsg9aUpIlw?si=v98J92BDBRDR7-r-" width="560" height="315" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+<!-- VK плеер (изначально скрыт) -->
+<div class="video-frame vk-frame" style="display: none;">
+<iframe src="https://vkvideo.ru/video_ext.php?oid=-187865475&id=456239129&hd=2&autoplay=1" width="853" height="480" allow="autoplay; encrypted-media; fullscreen; picture-in-picture; screen-wake-lock;" frameborder="0" allowfullscreen></iframe>
+</div>
+</div>
+</div>
 
 <h5 id="creatingobject">Как создавать объекты обслуживания в HubEx: способы создания объектов обслуживания, маркировка, паспорт объекта</h5>
 <p>Объекты необходимы для ведения учета <strong>Заявок</strong> в разрезе объектов и оборудования. В HubEx существует несколько способов создать <strong>Объекты</strong>. А также для каждого <strong>Объекта</strong> может быть создан QR и паспорт объекта для быстрой подачи <strong>Заявок</strong> как зарегистрированными, так и незарегистрированными в системе пользователями. </p>

@@ -110,7 +110,7 @@
 <h5 id="operator">Работа диспетчера в HubEx</h5>
 <p>В данном видео разбираем, как эффективно работать диспетчеру в HubEx и покрывать основные задачи по организации работы сотрудников, оперативному выполнению заявок и поддержанию коммуникации между клиентами и исполнителями.</p>
 
-<div class="video-player-container" data-player-id="player1">
+<div class="video-player-container" data-player-id="player2">
     <div class="video-source-selector">
         <button class="source-btn active" data-source="youtube">YouTube</button>
         <button class="source-btn" data-source="vk">VK</button>
@@ -128,7 +128,7 @@
 <h5 id="admin">Консоль администратора в HubEx</h5>
 <p>В данном видео рассматриваем все возможности консоли администратора в HubEx. А также даем полезные ссылки на более подробные уроки по разделам консоли. </p>
 
-<div class="video-player-container" data-player-id="player1">
+<div class="video-player-container" data-player-id="player3">
     <div class="video-source-selector">
         <button class="source-btn active" data-source="youtube">YouTube</button>
         <button class="source-btn" data-source="vk">VK</button>
@@ -153,19 +153,75 @@
 
 <p><strong>Заказчик</strong> - пользователь, который может создавать <strong>Заявки</strong> в мобильном приложении заказчика.
     <strong>Заказчик</strong> привязывается к компании-заказчику. Подробнее читайте в статье: <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/CreatingCustomer.html">Создание заказчика</a>.</p>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wuEMTcEQeCY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<div class="video-player-container" data-player-id="player4">
+    <div class="video-source-selector">
+        <button class="source-btn active" data-source="youtube">YouTube</button>
+        <button class="source-btn" data-source="vk">VK</button>
+    </div>
+    <div class="video-embed">
+        <div class="video-frame youtube-frame" style="display: block;">
+            <iframe src="https://www.youtube.com/embed/wuEMTcEQeCY" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        </div>
+        <div class="video-frame vk-frame" style="display: none;">
+            <iframe src="https://vkvideo.ru/video_ext.php?oid=-187865475&id=456239109&hd=2&autoplay=1" allowfullscreen></iframe>
+        </div>
+    </div>
+</div>
 
 <h5 id="tickets">Способы подачи заявки в HubEx</h5>
 <p>В системе HubEx есть несколько способов подачи Заявок - через web и мобильные приложения, с помощью QR-кодов и планировщика работ. Подробнее читайте в статьях: <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/CreatingTicket.html">Создание заявки</a>, <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/CreatingTaskTemplates.html">Создание шаблона заявки, подача заявки по QR-коду</a>, <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/Calendar.html">Календарь заявок</a>.</p>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RtMhubKi7Jc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<div class="video-player-container" data-player-id="player5">
+    <div class="video-source-selector">
+        <button class="source-btn active" data-source="youtube">YouTube</button>
+        <button class="source-btn" data-source="vk">VK</button>
+    </div>
+    <div class="video-embed">
+        <div class="video-frame youtube-frame" style="display: block;">
+            <iframe src="https://www.youtube.com/embed/RtMhubKi7Jc" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        </div>
+        <div class="video-frame vk-frame" style="display: none;">
+            <iframe src="https://vkvideo.ru/video_ext.php?oid=-187865475&id=456239110&hd=2&autoplay=1" allowfullscreen></iframe>
+        </div>
+    </div>
+</div>
 
 <h5 id="ticketsfields">Создание заявки в HubEx: расшифровка и заполнение всех полей на форме заявки</h5>
 <p>В данном видео подробно рассказываем о назначении и правильном заполнении всех полей на форме заявки. Подробнее читайте в статье: <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/CreatingTicket.html">Создание заявки</a>.</p>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oc8QgdcuPoU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<div class="video-player-container" data-player-id="player6">
+    <div class="video-source-selector">
+        <button class="source-btn active" data-source="youtube">YouTube</button>
+        <button class="source-btn" data-source="vk">VK</button>
+    </div>
+    <div class="video-embed">
+        <div class="video-frame youtube-frame" style="display: block;">
+            <iframe src="https://www.youtube.com/embed/oc8QgdcuPoU" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        </div>
+        <div class="video-frame vk-frame" style="display: none;">
+            <iframe src="https://vkvideo.ru/video_ext.php?oid=-187865475&id=456239115&hd=2&autoplay=1" allowfullscreen></iframe>
+        </div>
+    </div>
+</div>
 
 <h5 id="engineermob">Мобильное приложение инженера: работа специалиста с мобильного телефона</h5>
 <p>В обучающем видео показан весь функционал работы с мобильным приложением исполнителя: авторизация в приложении, получение уведомлений, работа с <Strong>Заявками</Strong>, с чек-листами, выполненными работами, общение в чатах, работа с календарем и функционалом "на смене".</p>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JmMZzkI6o-c" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<div class="video-player-container" data-player-id="player7">
+    <div class="video-source-selector">
+        <button class="source-btn active" data-source="youtube">YouTube</button>
+        <button class="source-btn" data-source="vk">VK</button>
+    </div>
+    <div class="video-embed">
+        <div class="video-frame youtube-frame" style="display: block;">
+            <iframe src="https://www.youtube.com/embed/JmMZzkI6o-c" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        </div>
+        <div class="video-frame vk-frame" style="display: none;">
+            <iframe src="https://vkvideo.ru/video_ext.php?oid=-187865475&id=456239104&hd=2&autoplay=1" allowfullscreen></iframe>
+        </div>
+    </div>
+</div>
 
 <h5 id="customermob">Мобильное приложение заказчика. Как заказчику создавать и отслеживать заявки?</h5>
 <p>В обучающем видео показан функционал работы с мобильным приложением заказчика: работа с <Strong>Заявками</Strong>, подписание акта, общение в чатах. Дополнительно по теме ознакомьтесь со статьей: <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/CustomerApp.html">Работа с заявками в мобильном приложении HubEx заказчик: заявки, акты, оценка исполнителей</a>. </p>

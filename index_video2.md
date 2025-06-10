@@ -117,10 +117,10 @@
     </div>
     <div class="video-embed">
         <div class="video-frame youtube-frame" style="display: block;">
-            <iframe src="https://www.youtube.com/embed/KZbrcQg4IKY" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            <iframe src="https://www.youtube.com/embed/KZbrcQg4IKY" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
         </div>
         <div class="video-frame vk-frame" style="display: none;">
-            <iframe src="https://vkvideo.ru/video_ext.php?oid=-187865475&id=456239118&hd=2&autoplay=1" allowfullscreen></iframe>
+            <iframe src="https://vkvideo.ru/video_ext.php?oid=-187865475&id=456239118&hd=2&autoplay=0" allowfullscreen></iframe>
         </div>
     </div>
 </div>
@@ -135,10 +135,10 @@
     </div>
     <div class="video-embed">
         <div class="video-frame youtube-frame" style="display: block;">
-            <iframe src="https://www.youtube.com/embed/5qsg9aUpIlw?si=v98J92BDBRDR7-r-" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            <iframe src="https://www.youtube.com/embed/5qsg9aUpIlw?si=v98J92BDBRDR7-r-" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
         </div>
         <div class="video-frame vk-frame" style="display: none;">
-            <iframe src="https://vkvideo.ru/video_ext.php?oid=-187865475&id=456239129&hd=2&autoplay=1" allowfullscreen></iframe>
+            <iframe src="https://vkvideo.ru/video_ext.php?oid=-187865475&id=456239129&hd=2&autoplay=0" allowfullscreen></iframe>
         </div>
     </div>
 </div>
@@ -161,10 +161,10 @@
     </div>
     <div class="video-embed">
         <div class="video-frame youtube-frame" style="display: block;">
-            <iframe src="https://www.youtube.com/embed/wuEMTcEQeCY" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            <iframe src="https://www.youtube.com/embed/wuEMTcEQeCY" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
         </div>
         <div class="video-frame vk-frame" style="display: none;">
-            <iframe src="https://vkvideo.ru/video_ext.php?oid=-187865475&id=456239109&hd=2&autoplay=1" allowfullscreen></iframe>
+            <iframe src="https://vkvideo.ru/video_ext.php?oid=-187865475&id=456239109&hd=2&autoplay=0" allowfullscreen></iframe>
         </div>
     </div>
 </div>
@@ -179,10 +179,10 @@
     </div>
     <div class="video-embed">
         <div class="video-frame youtube-frame" style="display: block;">
-            <iframe src="https://www.youtube.com/embed/RtMhubKi7Jc" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            <iframe src="https://www.youtube.com/embed/RtMhubKi7Jc" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
         </div>
         <div class="video-frame vk-frame" style="display: none;">
-            <iframe src="https://vkvideo.ru/video_ext.php?oid=-187865475&id=456239110&hd=2&autoplay=1" allowfullscreen></iframe>
+            <iframe src="https://vkvideo.ru/video_ext.php?oid=-187865475&id=456239110&hd=2&autoplay=0" allowfullscreen></iframe>
         </div>
     </div>
 </div>
@@ -197,10 +197,10 @@
     </div>
     <div class="video-embed">
         <div class="video-frame youtube-frame" style="display: block;">
-            <iframe src="https://www.youtube.com/embed/oc8QgdcuPoU" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            <iframe src="https://www.youtube.com/embed/oc8QgdcuPoU" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
         </div>
         <div class="video-frame vk-frame" style="display: none;">
-            <iframe src="https://vkvideo.ru/video_ext.php?oid=-187865475&id=456239115&hd=2&autoplay=1" allowfullscreen></iframe>
+            <iframe src="https://vkvideo.ru/video_ext.php?oid=-187865475&id=456239115&hd=2&autoplay=0" allowfullscreen></iframe>
         </div>
     </div>
 </div>
@@ -215,10 +215,10 @@
     </div>
     <div class="video-embed">
         <div class="video-frame youtube-frame" style="display: block;">
-            <iframe src="https://www.youtube.com/embed/JmMZzkI6o-c" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            <iframe src="https://www.youtube.com/embed/JmMZzkI6o-c" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
         </div>
         <div class="video-frame vk-frame" style="display: none;">
-            <iframe src="https://vkvideo.ru/video_ext.php?oid=-187865475&id=456239104&hd=2&autoplay=1" allowfullscreen></iframe>
+            <iframe src="https://vkvideo.ru/video_ext.php?oid=-187865475&id=456239104&hd=2&autoplay=0" allowfullscreen></iframe>
         </div>
     </div>
 </div>
@@ -233,10 +233,10 @@
     </div>
     <div class="video-embed">
         <div class="video-frame youtube-frame" style="display: block;">
-            <iframe src="https://www.youtube.com/embed/TbCdCcZzVdc" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            <iframe src="https://www.youtube.com/embed/TbCdCcZzVdc" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
         </div>
         <div class="video-frame vk-frame" style="display: none;">
-            <iframe src="https://vkvideo.ru/video_ext.php?oid=-187865475&id=456239112&hd=2&autoplay=1" allowfullscreen></iframe>
+            <iframe src="https://vkvideo.ru/video_ext.php?oid=-187865475&id=456239112&hd=2&autoplay=0" allowfullscreen></iframe>
         </div>
     </div>
 </div>
@@ -251,10 +251,10 @@
     </div>
     <div class="video-embed">
         <div class="video-frame youtube-frame" style="display: block;">
-            <iframe src="https://www.youtube.com/embed/S9YxwQzZ2o4" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            <iframe src="https://www.youtube.com/embed/S9YxwQzZ2o4" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
         </div>
         <div class="video-frame vk-frame" style="display: none;">
-            <iframe src="https://vkvideo.ru/video_ext.php?oid=-187865475&id=456239086&hd=2&autoplay=1" allowfullscreen></iframe>
+            <iframe src="https://vkvideo.ru/video_ext.php?oid=-187865475&id=456239086&hd=2&autoplay=0" allowfullscreen></iframe>
         </div>
     </div>
 </div>
@@ -271,10 +271,10 @@
     </div>
     <div class="video-embed">
         <div class="video-frame youtube-frame" style="display: block;">
-            <iframe src="https://www.youtube.com/embed/tC8K8xPxTSM" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            <iframe src="https://www.youtube.com/embed/tC8K8xPxTSM" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
         </div>
         <div class="video-frame vk-frame" style="display: none;">
-            <iframe src="https://vkvideo.ru/video_ext.php?oid=-187865475&id=456239124&hd=2&autoplay=1" allowfullscreen></iframe>
+            <iframe src="https://vkvideo.ru/video_ext.php?oid=-187865475&id=456239124&hd=2&autoplay=0" allowfullscreen></iframe>
         </div>
     </div>
 </div>
@@ -289,10 +289,10 @@
     </div>
     <div class="video-embed">
         <div class="video-frame youtube-frame" style="display: block;">
-            <iframe src="https://www.youtube.com/embed/1hRsaFz_sEQ" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            <iframe src="https://www.youtube.com/embed/1hRsaFz_sEQ" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
         </div>
         <div class="video-frame vk-frame" style="display: none;">
-            <iframe src="https://vkvideo.ru/video_ext.php?oid=-187865475&id=456239088&hd=2&autoplay=1" allowfullscreen></iframe>
+            <iframe src="https://vkvideo.ru/video_ext.php?oid=-187865475&id=456239088&hd=2&autoplay=0" allowfullscreen></iframe>
         </div>
     </div>
 </div>
@@ -308,10 +308,10 @@
     </div>
     <div class="video-embed">
         <div class="video-frame youtube-frame" style="display: block;">
-            <iframe src="https://www.youtube.com/embed/FBFe4tBnZVE" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            <iframe src="https://www.youtube.com/embed/FBFe4tBnZVE" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
         </div>
         <div class="video-frame vk-frame" style="display: none;">
-            <iframe src="https://vkvideo.ru/video_ext.php?oid=-187865475&id=456239087&hd=2&autoplay=1" allowfullscreen></iframe>
+            <iframe src="https://vkvideo.ru/video_ext.php?oid=-187865475&id=456239087&hd=2&autoplay=0" allowfullscreen></iframe>
         </div>
     </div>
 </div>
@@ -326,10 +326,10 @@
     </div>
     <div class="video-embed">
         <div class="video-frame youtube-frame" style="display: block;">
-            <iframe src="https://www.youtube.com/embed/tzXlekvaftY" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            <iframe src="https://www.youtube.com/embed/tzXlekvaftY" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
         </div>
         <div class="video-frame vk-frame" style="display: none;">
-            <iframe src="https://vkvideo.ru/video_ext.php?oid=-187865475&id=456239089&hd=2&autoplay=1" allowfullscreen></iframe>
+            <iframe src="https://vkvideo.ru/video_ext.php?oid=-187865475&id=456239089&hd=2&autoplay=0" allowfullscreen></iframe>
         </div>
     </div>
 </div>
@@ -337,12 +337,39 @@
 <h5 id="calendar">Расписание заявок: как назначать заявки с помощью календаря</h5>
 <p>Календарь помогает начальникам сервисной службы или диспетчерам эффективно планировать расписание исполнителей.
     Исполнители в мобильном приложении в календаре могут просматривать свою дневную загрузку. Подробнее читайте в статье <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/Calendar.htmll">Календарь заявок</a>.</p>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VB_g46BAxd0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<div class="video-player-container" data-player-id="player14">
+    <div class="video-source-selector">
+        <button class="source-btn active" data-source="youtube">YouTube</button>
+        <button class="source-btn" data-source="vk">VK</button>
+    </div>
+    <div class="video-embed">
+        <div class="video-frame youtube-frame" style="display: block;">
+            <iframe src="https://www.youtube.com/embed/VB_g46BAxd0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        </div>
+        <div class="video-frame vk-frame" style="display: none;">
+            <iframe src="https://vkvideo.ru/video_ext.php?oid=-187865475&id=456239108&hd=2&autoplay=0" allowfullscreen></iframe>
+        </div>
+    </div>
+</div>
 
 <h5 id="ticketonmap">Распределение заявок в Hubex с помощью календаря и карты</h5>
 <p>Местонахождение <strong>Заявок</strong> и <strong>Сотрудников</strong> доступно в режиме карты. Вы можете видеть свободные часы ваших специалистов благодаря календарю и оперативно назначать <strong>Заявки</strong>. Подробнее читайте в статье <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/TicketsOnMap.htmll">Заявки и сотрудники на карте</a>.</p>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1H9pTZi0vA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+<div class="video-player-container" data-player-id="player15">
+    <div class="video-source-selector">
+        <button class="source-btn active" data-source="youtube">YouTube</button>
+        <button class="source-btn" data-source="vk">VK</button>
+    </div>
+    <div class="video-embed">
+        <div class="video-frame youtube-frame" style="display: block;">
+            <iframe src="https://www.youtube.com/embed/E1H9pTZi0vA" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        </div>
+        <div class="video-frame vk-frame" style="display: none;">
+            <iframe src="https://vkvideo.ru/video_ext.php?oid=-187865475&id=456239090&hd=2&autoplay=0" allowfullscreen></iframe>
+        </div>
+    </div>
+</div>
 
 <h5 id="generalanalytics">Аналитика: Общая аналитика</h5>
 <p><Strong>Общая аналитика</Strong> в HubEx дает возможность проанализировать данные, собранные по <Strong>Заявкам</Strong>. С помощью этих визуализаций
@@ -353,7 +380,20 @@
     справляется текущий, который работает по совместительству? </p>
 <p>Дополнительно ознакомьтесь со статьей <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/GeneralAnalytics.html">Общая аналитика</a>, где подробно описаны все визуализации и показатели.</p>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4SYMSBNX90" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="video-player-container" data-player-id="player16">
+    <div class="video-source-selector">
+        <button class="source-btn active" data-source="youtube">YouTube</button>
+        <button class="source-btn" data-source="vk">VK</button>
+    </div>
+    <div class="video-embed">
+        <div class="video-frame youtube-frame" style="display: block;">
+            <iframe src="https://www.youtube.com/embed/K4SYMSBNX90" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        </div>
+        <div class="video-frame vk-frame" style="display: none;">
+            <iframe src="https://vkvideo.ru/video_ext.php?oid=-187865475&id=456239119&hd=2&autoplay=0" allowfullscreen></iframe>
+        </div>
+    </div>
+</div>
 
 <h5 id="objectsanalytics">Аналитика: Отчет по объектам</h5>
 <p><Strong>Отчет по объектам обслуживания</Strong> в HubEx дает возможность проанализировать данные, собранные по
@@ -365,7 +405,20 @@
     обслуживаемого оборудования - нужно ли нанимать новых специалистов для обслуживания? </p>
 <p>Дополнительно ознакомьтесь со статьей <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/ObjectsAnalytics.html">Отчет по объектам обслуживания</a>, где подробно описаны все визуализации и показатели.</p>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Kfdxmu6snHI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="video-player-container" data-player-id="player17">
+    <div class="video-source-selector">
+        <button class="source-btn active" data-source="youtube">YouTube</button>
+        <button class="source-btn" data-source="vk">VK</button>
+    </div>
+    <div class="video-embed">
+        <div class="video-frame youtube-frame" style="display: block;">
+            <iframe src="https://www.youtube.com/embed/Kfdxmu6snHI" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        </div>
+        <div class="video-frame vk-frame" style="display: none;">
+            <iframe src="https://vkvideo.ru/video_ext.php?oid=-187865475&id=456239122&hd=2&autoplay=0" allowfullscreen></iframe>
+        </div>
+    </div>
+</div>
 
 
 <h5 id="engineersanalytics">Аналитика: Отчет по сотрудникам</h5>
@@ -377,7 +430,20 @@
 </ul>
 <p>Дополнительно ознакомьтесь со статьей <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/EngineersAnalytics.html">Отчет по сотрудникам</a>, где подробно описаны все визуализации и показатели.</p>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7oC98ISShGg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="video-player-container" data-player-id="player18">
+    <div class="video-source-selector">
+        <button class="source-btn active" data-source="youtube">YouTube</button>
+        <button class="source-btn" data-source="vk">VK</button>
+    </div>
+    <div class="video-embed">
+        <div class="video-frame youtube-frame" style="display: block;">
+            <iframe src="https://www.youtube.com/embed/7oC98ISShGg" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        </div>
+        <div class="video-frame vk-frame" style="display: none;">
+            <iframe src="https://vkvideo.ru/video_ext.php?oid=-187865475&id=456239082&hd=2&autoplay=0" allowfullscreen></iframe>
+        </div>
+    </div>
+</div>
 
 
 <h5 id="clientsanalytics">Аналитика: Отчет для клиента</h5>
@@ -388,40 +454,164 @@
     выходящего из строя оборудования и т.д. </p>
 <p>Дополнительно ознакомьтесь со статьей <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/ClientsAnalytics.html">Отчет для клиента</a>, где подробно описаны все визуализации и показатели.</p>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FOT_mWBU1vI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="video-player-container" data-player-id="player19">
+    <div class="video-source-selector">
+        <button class="source-btn active" data-source="youtube">YouTube</button>
+        <button class="source-btn" data-source="vk">VK</button>
+    </div>
+    <div class="video-embed">
+        <div class="video-frame youtube-frame" style="display: block;">
+            <iframe src="https://www.youtube.com/embed/FOT_mWBU1vI" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        </div>
+        <div class="video-frame vk-frame" style="display: none;">
+            <iframe src="https://vkvideo.ru/video_ext.php?oid=-187865475&id=456239123&hd=2&autoplay=0" allowfullscreen></iframe>
+        </div>
+    </div>
+</div>
 
 
 <h5 id="processefficiency">Аналитика:  Анализ эффективности процессов</h5>
 <p>Отчет <Strong>Анализ эффективности процессов</Strong> в HubEx позволяет найти проблемные места в бизнес-процессах сервисной организации, а также позволяет оценить эффективность внесенных в процессы изменений после обнаружения проблем. Подробнее читайте в статье <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/ProcessEfficiency.html">Анализ эффективности процессов</a>.</p>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/C7N6KPA_jhA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15ER2EWoqvI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="video-player-container" data-player-id="player20">
+    <div class="video-source-selector">
+        <button class="source-btn active" data-source="youtube">YouTube</button>
+        <button class="source-btn" data-source="vk">VK</button>
+    </div>
+    <div class="video-embed">
+        <div class="video-frame youtube-frame" style="display: block;">
+            <iframe src="https://www.youtube.com/embed/C7N6KPA_jhA" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        </div>
+        <div class="video-frame vk-frame" style="display: none;">
+            <iframe src="https://vkvideo.ru/video_ext.php?oid=-187865475&id=456239093&hd=2&autoplay=0" allowfullscreen></iframe>
+        </div>
+    </div>
+</div>
+
+<div class="video-player-container" data-player-id="player21">
+    <div class="video-source-selector">
+        <button class="source-btn active" data-source="youtube">YouTube</button>
+        <button class="source-btn" data-source="vk">VK</button>
+    </div>
+    <div class="video-embed">
+        <div class="video-frame youtube-frame" style="display: block;">
+            <iframe src="https://www.youtube.com/embed/15ER2EWoqvI" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        </div>
+        <div class="video-frame vk-frame" style="display: none;">
+            <iframe src="https://vkvideo.ru/video_ext.php?oid=-187865475&id=456239094&hd=2&autoplay=0" allowfullscreen></iframe>
+        </div>
+    </div>
+</div>
 
 <h5 id="notification">Как настроить push-уведомление на телефон мобильного инженера</h5>
 <p>Отправка уведомлений на мобильный телефон позволяет держать в курсе происходящих событий - поступления новых <Strong>Заявок</Strong>, переходов по стадиям, смены исполнителя. Вы можете гибко настраивать условия отправки оповещений, получателей, а также вносить свой текст для уведомления. Подробнее читайте в статье <a href="https://wiki.hubex.ru/docs/FAQ/RU/admin/Notifications.html">Настройка оповещений</a>.</p>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/93iMHUnSK94" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<div class="video-player-container" data-player-id="player22">
+    <div class="video-source-selector">
+        <button class="source-btn active" data-source="youtube">YouTube</button>
+        <button class="source-btn" data-source="vk">VK</button>
+    </div>
+    <div class="video-embed">
+        <div class="video-frame youtube-frame" style="display: block;">
+            <iframe src="https://www.youtube.com/embed/93iMHUnSK94" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        </div>
+        <div class="video-frame vk-frame" style="display: none;">
+            <iframe src="https://vkvideo.ru/video_ext.php?oid=-187865475&id=456239091&hd=2&autoplay=0" allowfullscreen></iframe>
+        </div>
+    </div>
+</div>
  
 <h5 id="contract">Как создать договор</h5>
 <p>Договор необходим для фиксации взаимоотношений с клиентом. С его помощью можно отслеживать сроки действия и классифицировать Заявки. Подробнее читайте в статье <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/CreatingCompany.html#contract">Создание обслуживаемых компаний: Договор с клиентом</a>.</p>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uVLKXbTjuik" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<div class="video-player-container" data-player-id="player23">
+    <div class="video-source-selector">
+        <button class="source-btn active" data-source="youtube">YouTube</button>
+        <button class="source-btn" data-source="vk">VK</button>
+    </div>
+    <div class="video-embed">
+        <div class="video-frame youtube-frame" style="display: block;">
+            <iframe src="https://www.youtube.com/embed/uVLKXbTjuik" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        </div>
+        <div class="video-frame vk-frame" style="display: none;">
+            <iframe src="https://vkvideo.ru/video_ext.php?oid=-187865475&id=456239092&hd=2&autoplay=0" allowfullscreen></iframe>
+        </div>
+    </div>
+</div>
 
 <h5 id="qrcode">Как подать заявку по QR-коду</h5>
 <p>QR-код можно создать для любого объекта или оборудования в HubEx. При помощи QR-кодов можно оперативно создавать Заявки по определенному оборудованию. Подробнее читайте в статье <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/CreatingTaskTemplates">Создание шаблона заявки, подача заявки по QR-коду</a>.</p>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yPugQerNlvo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<div class="video-player-container" data-player-id="player24">
+    <div class="video-source-selector">
+        <button class="source-btn active" data-source="youtube">YouTube</button>
+        <button class="source-btn" data-source="vk">VK</button>
+    </div>
+    <div class="video-embed">
+        <div class="video-frame youtube-frame" style="display: block;">
+            <iframe src="https://www.youtube.com/embed/yPugQerNlvo" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        </div>
+        <div class="video-frame vk-frame" style="display: none;">
+            <iframe src="https://vkvideo.ru/video_ext.php?oid=-187865475&id=456239096&hd=2&autoplay=0" allowfullscreen></iframe>
+        </div>
+    </div>
+</div>
 
 
 <h5 id="attachingfiles">Как заполнить выполненные работы и оценить показатели KPI</h5>
 <p>Заполнение выполненных работ позволяет формировать Акты выполненных работ, Сервисные акты для заказчиков. Подробнее читайте в статьях <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/AttachingFiles.html">Прикрепление выполненных работ в web и мобильном приложении</a>, <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/ActOFAcceptance.html">Акт выполненных работ</a>.</p>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4BK9PCQ60N0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<div class="video-player-container" data-player-id="player25">
+    <div class="video-source-selector">
+        <button class="source-btn active" data-source="youtube">YouTube</button>
+        <button class="source-btn" data-source="vk">VK</button>
+    </div>
+    <div class="video-embed">
+        <div class="video-frame youtube-frame" style="display: block;">
+            <iframe src="https://www.youtube.com/embed/4BK9PCQ60N0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        </div>
+        <div class="video-frame vk-frame" style="display: none;">
+            <iframe src="https://vkvideo.ru/video_ext.php?oid=-187865475&id=456239095&hd=2&autoplay=0" allowfullscreen></iframe>
+        </div>
+    </div>
+</div>
 
 <h5 id="printedforms">Электронные документы HubEx</h5>
 <p>В HubEx есть три основных печатные формы: Сервисный акт, Бухгалтерский акт и Счет на оплату. В обучающем видеоролике рассказываем, как правильно формировать эти документы.</p>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/WhKGc-GrOjI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<div class="video-player-container" data-player-id="player26">
+    <div class="video-source-selector">
+        <button class="source-btn active" data-source="youtube">YouTube</button>
+        <button class="source-btn" data-source="vk">VK</button>
+    </div>
+    <div class="video-embed">
+        <div class="video-frame youtube-frame" style="display: block;">
+            <iframe src="https://www.youtube.com/embed/WhKGc-GrOjI" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        </div>
+        <div class="video-frame vk-frame" style="display: none;">
+            <iframe src="https://vkvideo.ru/video_ext.php?oid=-187865475&id=456239127&hd=2&autoplay=0" allowfullscreen></iframe>
+        </div>
+    </div>
+</div>
 
 
 <h5 id="rulesofchoice">Как работает автоназначение исполнителей на заявки</h5>
 <p>Правила автоназначения исполнителя используются для автоматического подбора исполнителей на Заявки. Правила автоназначения позволяют настроить параметры для подбора подходящих Сотрудников (исполнителей). Использование системы автоназначения на Заявки значительно экономит время диспетчеров при ручном выборе исполнителей, а также позволяет настроить автоматический переход Заявки на ответственных менеджеров и т.д. Подробнее читайте в статьях <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/RulesOfChoice.html">Правила автоназначения исполнителя</a>, <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/RulesOfChoiceGEO.html">Автоназначение на ближайшего исполнителя</a>.</p>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/IEsB3xWJVRQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<div class="video-player-container" data-player-id="player27">
+    <div class="video-source-selector">
+        <button class="source-btn active" data-source="youtube">YouTube</button>
+        <button class="source-btn" data-source="vk">VK</button>
+    </div>
+    <div class="video-embed">
+        <div class="video-frame youtube-frame" style="display: block;">
+            <iframe src="https://www.youtube.com/embed/IEsB3xWJVRQ" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        </div>
+        <div class="video-frame vk-frame" style="display: none;">
+            <iframe src="https://vkvideo.ru/video_ext.php?oid=-187865475&id=456239098&hd=2&autoplay=0" allowfullscreen></iframe>
+        </div>
+    </div>
+</div>
 
 <h5 id="geotracking">Как работает геотрекинг в HubEx</h5>
 <p>История перемещений (или геотрекинг) отображает перемещения каждого выездного сотрудника, у которого включена функция использования геопозиции. С помощью геотрекинга можно оценить эффективность работы мобильных исполнителей: время в пути, на заявке, остановки, простои. Подробнее читайте в статье <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/Geotracking.html">История перемещений</a>.</p>
@@ -432,38 +622,136 @@
 <p><strong>Жизненный цикл заявки</strong> - это совокупность стадий, по которым проходит <Strong>Заявка</Strong>, и описание
     взаимодействия между
     стадиями. В обучающем видеоролике пошагово рассказываем, как создать стадии, статусы и настроить жизненный цикл. Подробнее читайте в статье <a href="https://wiki.hubex.ru/docs/FAQ/RU/admin/TicketLifeCycle.html">Жизненный цикл заявки</a>.</p>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/81JjWYuMNwY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<div class="video-player-container" data-player-id="player28">
+    <div class="video-source-selector">
+        <button class="source-btn active" data-source="youtube">YouTube</button>
+        <button class="source-btn" data-source="vk">VK</button>
+    </div>
+    <div class="video-embed">
+        <div class="video-frame youtube-frame" style="display: block;">
+            <iframe src="https://www.youtube.com/embed/81JjWYuMNwY" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        </div>
+        <div class="video-frame vk-frame" style="display: none;">
+            <iframe src="https://vkvideo.ru/video_ext.php?oid=-187865475&id=456239125&hd=2&autoplay=0" allowfullscreen></iframe>
+        </div>
+    </div>
+</div>
 
 
 <h5 id="QRcontrol">Контроль присутствия сотрудника на объекте</h5>
 <p>При работе с <strong>Заявкой</strong> ваш специалист сможет подтвердить свое нахождение на объекте в мобильном
     приложении <strong>HubEx исполнитель</strong> с помощью QR-кодов. Подробнее читайте в статье <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/CreatingTaskTemplates.html">Создание шаблона заявки, подача заявки по QR-коду</a>.</p>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FbMtjM_bgGU?si=ospj7f783SwEnLeg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<div class="video-player-container" data-player-id="player29">
+    <div class="video-source-selector">
+        <button class="source-btn active" data-source="youtube">YouTube</button>
+        <button class="source-btn" data-source="vk">VK</button>
+    </div>
+    <div class="video-embed">
+        <div class="video-frame youtube-frame" style="display: block;">
+            <iframe src="https://www.youtube.com/embed/FbMtjM_bgGU" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        </div>
+        <div class="video-frame vk-frame" style="display: none;">
+            <iframe src="https://vkvideo.ru/video_ext.php?oid=-187865475&id=456239128&hd=2&autoplay=0" allowfullscreen></iframe>
+        </div>
+    </div>
+</div>
 
 <h5 id="sla">Настройка SLA: расчет крайнего срока закрытия заявки</h5>
 <p>С помощью SLA в HubEx можно настраивать гибкие правила автоматического расчета крайнего срока закрытия заявки. Подробнее читайте в статье <a href="https://wiki.hubex.ru/docs/FAQ/RU/admin/SLA.html">SLA - Правила расчета крайнего срока закрытия заявки</a>.</p>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4BK9PCQ60N0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<div class="video-player-container" data-player-id="player30">
+    <div class="video-source-selector">
+        <button class="source-btn active" data-source="youtube">YouTube</button>
+        <button class="source-btn" data-source="vk">VK</button>
+    </div>
+    <div class="video-embed">
+        <div class="video-frame youtube-frame" style="display: block;">
+            <iframe src="https://www.youtube.com/embed/4BK9PCQ60N0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        </div>
+        <div class="video-frame vk-frame" style="display: none;">
+            <iframe src="https://vkvideo.ru/video_ext.php?oid=-187865475&id=456239095&hd=2&autoplay=0" allowfullscreen></iframe>
+        </div>
+    </div>
+</div>
 
 
 <h5 id="telegram">Интеграция с Telegram</h5>
 <p>С помощью настройки интеграции с Telegram (Телеграм) можно настроить подачу <strong>Заявок</strong> в HubEx через Telegram-бота. Подробнее читайте в статье <a href="https://wiki.hubex.ru/docs/FAQ/RU/admin/TelegramIntegration.html">Интеграция с Telegram</a>.</p>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oLKQVUrxCYU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<div class="video-player-container" data-player-id="player31">
+    <div class="video-source-selector">
+        <button class="source-btn active" data-source="youtube">YouTube</button>
+        <button class="source-btn" data-source="vk">VK</button>
+    </div>
+    <div class="video-embed">
+        <div class="video-frame youtube-frame" style="display: block;">
+            <iframe src="https://www.youtube.com/embed/oLKQVUrxCYU" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        </div>
+        <div class="video-frame vk-frame" style="display: none;">
+            <iframe src="https://vkvideo.ru/video_ext.php?oid=-187865475&id=456239120&hd=2&autoplay=0" allowfullscreen></iframe>
+        </div>
+    </div>
+</div>
 
 <h5 id="ticketmail">Как подавать заявки с электронной почты в HubEx?</h5>
 <p>С помощью интеграции можно настроить подачу <strong>Заявок</strong> в HubEx по электронной почте. При настройке двусторонней интеграции общение с заказчиком объединяется в рамках чата внутри <strong>Заявки</strong>. Подробнее читайте в статье <a href="https://wiki.hubex.ru/docs/FAQ/RU/admin/TicketMail.html">Интеграция по электронной почте, подача заявок по электронной почте</a>.</p>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w9x3r65YbAo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<div class="video-player-container" data-player-id="player32">
+    <div class="video-source-selector">
+        <button class="source-btn active" data-source="youtube">YouTube</button>
+        <button class="source-btn" data-source="vk">VK</button>
+    </div>
+    <div class="video-embed">
+        <div class="video-frame youtube-frame" style="display: block;">
+            <iframe src="https://www.youtube.com/embed/w9x3r65YbAo" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        </div>
+        <div class="video-frame vk-frame" style="display: none;">
+            <iframe src="https://vkvideo.ru/video_ext.php?oid=-187865475&id=456239101&hd=2&autoplay=0" allowfullscreen></iframe>
+        </div>
+    </div>
+</div>
 
 
 <h5 id="floorplan">Как подавать заявки с использованием планов помещений в HubEx?</h5>
 <p>Использование планов помещений позволяет сократить затраты времени на поиск и устранение неисправностей: при подаче <strong>Заявки</strong> можно указать точное местоположение проблемы на карте бизнес-центра. Подробнее читайте в статье <a href="https://wiki.hubex.ru/docs/FAQ/RU/admin/FloorPlan.html">Планы помещений</a>.</p>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8mUe-ejqDGQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<div class="video-player-container" data-player-id="player33">
+    <div class="video-source-selector">
+        <button class="source-btn active" data-source="youtube">YouTube</button>
+        <button class="source-btn" data-source="vk">VK</button>
+    </div>
+    <div class="video-embed">
+        <div class="video-frame youtube-frame" style="display: block;">
+            <iframe src="https://www.youtube.com/embed/8mUe-ejqDGQ" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        </div>
+        <div class="video-frame vk-frame" style="display: none;">
+            <iframe src="https://vkvideo.ru/video_ext.php?oid=-187865475&id=456239103&hd=2&autoplay=0" allowfullscreen></iframe>
+        </div>
+    </div>
+</div>
 
 <h5 id="ondutty">Как работать с функционалом На смене, работа с самозанятыми</h5>
 <p>Диспетчеру сервисной службы или начальнику сервиса удобно видеть сотрудников, которые работают в данный момент
     времени, чтобы оперативно назначать на них <strong>Заявки</strong>.</p>
 <p>Сервисному специалисту также важно предупреждать работодателя о том, что он приступил к работе, чтобы получать
     <strong>Заявки</strong>, либо закончил смену и не может больше брать <strong>Заявки</strong>.</p> Подробнее читайте в статье <a href="https://wiki.hubex.ru/docs/FAQ/RU/admin/OnDutty.html">Индивидуальный график работы: функционал На смене</a>.</p>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/x_5VAaPvYH0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<div class="video-player-container" data-player-id="player34">
+    <div class="video-source-selector">
+        <button class="source-btn active" data-source="youtube">YouTube</button>
+        <button class="source-btn" data-source="vk">VK</button>
+    </div>
+    <div class="video-embed">
+        <div class="video-frame youtube-frame" style="display: block;">
+            <iframe src="https://www.youtube.com/embed/x_5VAaPvYH0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        </div>
+        <div class="video-frame vk-frame" style="display: none;">
+            <iframe src="https://vkvideo.ru/video_ext.php?oid=-187865475&id=456239099&hd=2&autoplay=0" allowfullscreen></iframe>
+        </div>
+    </div>
+</div>
 
 <h5 id="elementsofinterface">Поля на форме заявки: настройка доступа к полям заявки</h5>
 <p><Strong>Заявка</Strong> - ключевой элемент системы HubEx. С <Strong>Заявками</Strong> работают
@@ -477,7 +765,21 @@
     запретить
     мобильному сотруднику
     изменять исполнителя в <Strong>Заявке</Strong> на стадии <Strong>Назначена</Strong>. Подробнее читайте в статье <a href="https://wiki.hubex.ru/docs/FAQ/RU/admin/ElementsOfInterface.html">Поля на форме заявки: настройка доступа к полям заявки</a>.</p>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/EVPSTI7zQ58" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<div class="video-player-container" data-player-id="player35">
+    <div class="video-source-selector">
+        <button class="source-btn active" data-source="youtube">YouTube</button>
+        <button class="source-btn" data-source="vk">VK</button>
+    </div>
+    <div class="video-embed">
+        <div class="video-frame youtube-frame" style="display: block;">
+            <iframe src="https://www.youtube.com/embed/EVPSTI7zQ58" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        </div>
+        <div class="video-frame vk-frame" style="display: none;">
+            <iframe src="https://vkvideo.ru/video_ext.php?oid=-187865475&id=456239107&hd=2&autoplay=0" allowfullscreen></iframe>
+        </div>
+    </div>
+</div>
 
 <!--
  <h5 id="excelimport">Импорт данных</h5>

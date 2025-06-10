@@ -615,8 +615,21 @@
 
 <h5 id="geotracking">Как работает геотрекинг в HubEx</h5>
 <p>История перемещений (или геотрекинг) отображает перемещения каждого выездного сотрудника, у которого включена функция использования геопозиции. С помощью геотрекинга можно оценить эффективность работы мобильных исполнителей: время в пути, на заявке, остановки, простои. Подробнее читайте в статье <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/Geotracking.html">История перемещений</a>.</p>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gZjA_Vp7gh8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+<div class="video-player-container" data-player-id="player36">
+    <div class="video-source-selector">
+        <button class="source-btn active" data-source="youtube">YouTube</button>
+        <button class="source-btn" data-source="vk">VK</button>
+    </div>
+    <div class="video-embed">
+        <div class="video-frame youtube-frame" style="display: block;">
+            <iframe src="https://www.youtube.com/embed/gZjA_Vp7gh8" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        </div>
+        <div class="video-frame vk-frame" style="display: none;">
+            <iframe src="https://vkvideo.ru/video_ext.php?oid=-187865475&id=456239134&hd=2&autoplay=0" allowfullscreen></iframe>
+        </div>
+    </div>
+</div>
 
 <h5 id="lifecycle">Настройка жизненного цикла для заявок в HubEx</h5>
 <p><strong>Жизненный цикл заявки</strong> - это совокупность стадий, по которым проходит <Strong>Заявка</Strong>, и описание

@@ -225,32 +225,115 @@
 
 <h5 id="customermob">Мобильное приложение заказчика. Как заказчику создавать и отслеживать заявки?</h5>
 <p>В обучающем видео показан функционал работы с мобильным приложением заказчика: работа с <Strong>Заявками</Strong>, подписание акта, общение в чатах. Дополнительно по теме ознакомьтесь со статьей: <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/CustomerApp.html">Работа с заявками в мобильном приложении HubEx заказчик: заявки, акты, оценка исполнителей</a>. </p>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TbCdCcZzVdc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<div class="video-player-container" data-player-id="player8">
+    <div class="video-source-selector">
+        <button class="source-btn active" data-source="youtube">YouTube</button>
+        <button class="source-btn" data-source="vk">VK</button>
+    </div>
+    <div class="video-embed">
+        <div class="video-frame youtube-frame" style="display: block;">
+            <iframe src="https://www.youtube.com/embed/TbCdCcZzVdc" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        </div>
+        <div class="video-frame vk-frame" style="display: none;">
+            <iframe src="https://vkvideo.ru/video_ext.php?oid=-187865475&id=456239112&hd=2&autoplay=1" allowfullscreen></iframe>
+        </div>
+    </div>
+</div>
 
 <h5 id="plannedticket">Как создавать плановые заявки в системе</h5>
 <p>Дополнительно ознакомьтесь со статьей <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/PlannedTickets.html">Создание плановой заявки</a>. В статье подробно описан процесс создания и редактирования плановых заявок в web-приложении.</p>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S9YxwQzZ2o4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<div class="video-player-container" data-player-id="player9">
+    <div class="video-source-selector">
+        <button class="source-btn active" data-source="youtube">YouTube</button>
+        <button class="source-btn" data-source="vk">VK</button>
+    </div>
+    <div class="video-embed">
+        <div class="video-frame youtube-frame" style="display: block;">
+            <iframe src="https://www.youtube.com/embed/S9YxwQzZ2o4" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        </div>
+        <div class="video-frame vk-frame" style="display: none;">
+            <iframe src="https://vkvideo.ru/video_ext.php?oid=-187865475&id=456239086&hd=2&autoplay=1" allowfullscreen></iframe>
+        </div>
+    </div>
+</div>
 
 <h5 id="planshedule">Аналитика: График обслуживания объектов</h5>
 <p><strong>График обслуживания объектов</strong> - это форма представления <strong>Плановых заявок</strong>. Он
     используется при работе с
     планово-предупредительными работами, техническим обслуживанием объектов. Дополнительно ознакомьтесь со статьей <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/PlannedTicketsSchedule.html">График обслуживания объектов</a>. </p>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tC8K8xPxTSM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<div class="video-player-container" data-player-id="player10">
+    <div class="video-source-selector">
+        <button class="source-btn active" data-source="youtube">YouTube</button>
+        <button class="source-btn" data-source="vk">VK</button>
+    </div>
+    <div class="video-embed">
+        <div class="video-frame youtube-frame" style="display: block;">
+            <iframe src="https://www.youtube.com/embed/tC8K8xPxTSM" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        </div>
+        <div class="video-frame vk-frame" style="display: none;">
+            <iframe src="https://vkvideo.ru/video_ext.php?oid=-187865475&id=456239124&hd=2&autoplay=1" allowfullscreen></iframe>
+        </div>
+    </div>
+</div>
 
 <h5 id="addfields">Как создавать дополнительные поля в HubEx</h5>
 <p>Процессы создания дополнительных полей также подробно описаны в статьях <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/AdditionalFields.html">Создание дополнительных полей для заявки</a> и <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/AdditionalFieldsObject.htmll">Создание дополнительных полей для объекта</a>.</p>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1hRsaFz_sEQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<div class="video-player-container" data-player-id="player11">
+    <div class="video-source-selector">
+        <button class="source-btn active" data-source="youtube">YouTube</button>
+        <button class="source-btn" data-source="vk">VK</button>
+    </div>
+    <div class="video-embed">
+        <div class="video-frame youtube-frame" style="display: block;">
+            <iframe src="https://www.youtube.com/embed/1hRsaFz_sEQ" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        </div>
+        <div class="video-frame vk-frame" style="display: none;">
+            <iframe src="https://vkvideo.ru/video_ext.php?oid=-187865475&id=456239088&hd=2&autoplay=1" allowfullscreen></iframe>
+        </div>
+    </div>
+</div>
 
 
 <h5 id="checklists">Чек-листы в HubEx: контролируйте качество работ, обучайте новых сотрудников</h5>
 <p>Подробно о создании и настройке чек-листов читайте в статье <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/Checklists.html">Чек-листы</a>.</p>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FBFe4tBnZVE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<div class="video-player-container" data-player-id="player12">
+    <div class="video-source-selector">
+        <button class="source-btn active" data-source="youtube">YouTube</button>
+        <button class="source-btn" data-source="vk">VK</button>
+    </div>
+    <div class="video-embed">
+        <div class="video-frame youtube-frame" style="display: block;">
+            <iframe src="https://www.youtube.com/embed/FBFe4tBnZVE" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        </div>
+        <div class="video-frame vk-frame" style="display: none;">
+            <iframe src="https://vkvideo.ru/video_ext.php?oid=-187865475&id=456239087&hd=2&autoplay=1" allowfullscreen></iframe>
+        </div>
+    </div>
+</div>
 
  <h5 id="objectimport">Как использовать импорт объектов для быстрого старта работы в Hubex</h5>
 <p>Подробно об импорте <strong>Объектов</strong>, <strong>Заявок</strong>, <strong>Пользователей</strong> и <strong>Компаний</strong> читайте в статье <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/Import.html">Импорт</a>.</p>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tzXlekvaftY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-
+<div class="video-player-container" data-player-id="player13">
+    <div class="video-source-selector">
+        <button class="source-btn active" data-source="youtube">YouTube</button>
+        <button class="source-btn" data-source="vk">VK</button>
+    </div>
+    <div class="video-embed">
+        <div class="video-frame youtube-frame" style="display: block;">
+            <iframe src="https://www.youtube.com/embed/tzXlekvaftY" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        </div>
+        <div class="video-frame vk-frame" style="display: none;">
+            <iframe src="https://vkvideo.ru/video_ext.php?oid=-187865475&id=456239089&hd=2&autoplay=1" allowfullscreen></iframe>
+        </div>
+    </div>
+</div>
 
 <h5 id="calendar">Расписание заявок: как назначать заявки с помощью календаря</h5>
 <p>Календарь помогает начальникам сервисной службы или диспетчерам эффективно планировать расписание исполнителей.

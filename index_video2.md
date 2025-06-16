@@ -800,26 +800,56 @@
 <iframe width="560" height="315" src="https://www.youtube.com/embed/PO71TKcqGBw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>-->
 
 <script>
-    document.querySelectorAll('.source-btn').forEach(button => {
-        button.addEventListener('click', function() {
-            // Удаляем активный класс у всех кнопок
-            document.querySelectorAll('.source-btn').forEach(btn => {
-                btn.classList.remove('active');
-            });
-            
-            // Добавляем активный класс текущей кнопке
-            this.classList.add('active');
-            
-            // Скрываем все плееры
-            document.querySelectorAll('.video-frame').forEach(frame => {
-                frame.style.display = 'none';
-            });
-            
-            // Показываем выбранный плеер
-            const source = this.getAttribute('data-source');
-            document.querySelector(`.${source}-frame`).style.display = 'block';
-        });
-    });
+    function hideSiblingVideo(activeVideo){
+        const nextSibling=activeVideo.nextElementSibling
+        const prevSibling=activeVideo.previousElementSibling
+        if(nextSibling){
+            nextSibling.style.display="none"
+        }
+        if(prevSibling){
+            prevSibling.style.display="none"
+        }
+    }
+ 
+    function switchActiveButtons(activeButton){
+        const nextSibling=activeButton.nextElementSibling
+        const prevSibling=activeButton.previousElementSibling
+        const activeClass="active"
+        if(nextSibling){
+            nextSibling.classList.remove(activeClass)
+        }
+        if(prevSibling){
+            prevSibling.classList.remove(activeClass)
+        }
+        activeButton.classList.add(activeClass)
+        return activeButton?.dataset?.source
+ 
+    }
+    function switchShowVideos(activeContainer,label){
+        const videoClass=`video-frame ${label}-frame`
+        const videoFrame=activeContainer.querySelector(videoClass)
+        const videos=activeContainer.children[1].children
+        const activeVideo=Array.from(videos).filter((item)=>item.className===videoClass)
+        console.debug({activeVideo})
+        hideSiblingVideo(activeVideo[0])
+        activeVideo[0].style.display="block"
+         
+ 
+         
+    }
+    const allVideoContainers=document.querySelectorAll(".video-player-container")
+     allVideoContainers.forEach((container)=>{
+        container.addEventListener("click",(e)=>{
+             console.debug({e},{container})
+            const targetButton=e.target
+            const activeSource=switchActiveButtons(targetButton)
+            console.debug(activeSource)
+            if(activeSource){
+                switchShowVideos(container,activeSource)
+            }
+           
+        })
+     })
 </script>
 
 </body>

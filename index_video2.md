@@ -800,73 +800,24 @@
 <iframe width="560" height="315" src="https://www.youtube.com/embed/PO71TKcqGBw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>-->
 
 <script>
-    // Функция для загрузки iframe
-    function loadIframe(frameContainer) {
-        const placeholder = frameContainer.querySelector('.video-placeholder');
-        if (!placeholder) return;
-        
-        const iframe = document.createElement('iframe');
-        iframe.setAttribute('width', '100%');
-        iframe.setAttribute('height', '100%');
-        iframe.setAttribute('frameborder', '0');
-        iframe.setAttribute('allowfullscreen', '');
-        
-        // Получаем источник из data-атрибутов кнопки
-        const playerContainer = frameContainer.closest('.video-player-container');
-        const activeButton = playerContainer.querySelector('.source-btn.active');
-        const source = activeButton.getAttribute('data-source');
-        
-        if (source === 'youtube') {
-            const youtubeSrc = frameContainer.querySelector('iframe').getAttribute('data-src');
-            iframe.setAttribute('src', youtubeSrc);
-            iframe.setAttribute('allow', 'accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture');
-        } else if (source === 'vk') {
-            // Здесь нужно указать ваш VK video URL
-            const vkSrc = "https://vk.com/video_ext.php?oid=-GROUP_ID&id=VIDEO_ID&hash=HASH";
-            iframe.setAttribute('src', vkSrc);
-        }
-        
-        // Заменяем placeholder на iframe
-        frameContainer.removeChild(placeholder);
-        frameContainer.appendChild(iframe);
-    }
-
-    document.querySelectorAll('.video-player-container').forEach(playerContainer => {
-        const playerId = playerContainer.getAttribute('data-player-id');
-        const buttons = playerContainer.querySelectorAll('.source-btn');
-        
-        // Загружаем активный iframe сразу (YouTube по умолчанию)
-        const activeFrame = playerContainer.querySelector('.video-frame[style*="display: block"]');
-        if (activeFrame.querySelector('iframe')) {
-            const iframe = activeFrame.querySelector('iframe');
-            iframe.setAttribute('src', iframe.getAttribute('data-src'));
-        }
-        
-        buttons.forEach(button => {
-            button.addEventListener('click', function() {
-                // Удаляем активный класс у всех кнопок в этом контейнере
-                buttons.forEach(btn => {
-                    btn.classList.remove('active');
-                });
-                
-                // Добавляем активный класс текущей кнопке
-                this.classList.add('active');
-                
-                // Скрываем все плееры в этом контейнере
-                playerContainer.querySelectorAll('.video-frame').forEach(frame => {
-                    frame.style.display = 'none';
-                });
-                
-                // Показываем выбранный плеер
-                const source = this.getAttribute('data-source');
-                const targetFrame = playerContainer.querySelector(`.${source}-frame`);
-                targetFrame.style.display = 'block';
-                
-                // Загружаем iframe при первом переключении
-                if (targetFrame.querySelector('.video-placeholder')) {
-                    loadIframe(targetFrame);
-                }
+    document.querySelectorAll('.source-btn').forEach(button => {
+        button.addEventListener('click', function() {
+            // Удаляем активный класс у всех кнопок
+            document.querySelectorAll('.source-btn').forEach(btn => {
+                btn.classList.remove('active');
             });
+            
+            // Добавляем активный класс текущей кнопке
+            this.classList.add('active');
+            
+            // Скрываем все плееры
+            document.querySelectorAll('.video-frame').forEach(frame => {
+                frame.style.display = 'none';
+            });
+            
+            // Показываем выбранный плеер
+            const source = this.getAttribute('data-source');
+            document.querySelector(`.${source}-frame`).style.display = 'block';
         });
     });
 </script>

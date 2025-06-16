@@ -800,12 +800,47 @@
 <iframe width="560" height="315" src="https://www.youtube.com/embed/PO71TKcqGBw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>-->
 
 <script>
-    document.querySelectorAll('.video-player-container').forEach(playerContainer => {
-        const buttons = playerContainer.querySelectorAll('.source-btn');
-        const vkFrame = playerContainer.querySelector('.vk-frame');
+    // Функция для загрузки iframe
+    function loadIframe(frameContainer) {
+        const placeholder = frameContainer.querySelector('.video-placeholder');
+        if (!placeholder) return;
         
-        // Очищаем VK iframe (оставляем только пустой div)
-        vkFrame.innerHTML = '<div class="vk-placeholder" style="width:100%;height:100%;display:flex;align-items:center;justify-content:center;background:#f5f5f5;">Нажмите "VK" для загрузки видео</div>';
+        const iframe = document.createElement('iframe');
+        iframe.setAttribute('width', '100%');
+        iframe.setAttribute('height', '100%');
+        iframe.setAttribute('frameborder', '0');
+        iframe.setAttribute('allowfullscreen', '');
+        
+        // Получаем источник из data-атрибутов кнопки
+        const playerContainer = frameContainer.closest('.video-player-container');
+        const activeButton = playerContainer.querySelector('.source-btn.active');
+        const source = activeButton.getAttribute('data-source');
+        
+        if (source === 'youtube') {
+            const youtubeSrc = frameContainer.querySelector('iframe').getAttribute('data-src');
+            iframe.setAttribute('src', youtubeSrc);
+            iframe.setAttribute('allow', 'accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture');
+        } else if (source === 'vk') {
+            // Здесь нужно указать ваш VK video URL
+            const vkSrc = "https://vk.com/video_ext.php?oid=-GROUP_ID&id=VIDEO_ID&hash=HASH";
+            iframe.setAttribute('src', vkSrc);
+        }
+        
+        // Заменяем placeholder на iframe
+        frameContainer.removeChild(placeholder);
+        frameContainer.appendChild(iframe);
+    }
+
+    document.querySelectorAll('.video-player-container').forEach(playerContainer => {
+        const playerId = playerContainer.getAttribute('data-player-id');
+        const buttons = playerContainer.querySelectorAll('.source-btn');
+        
+        // Загружаем активный iframe сразу (YouTube по умолчанию)
+        const activeFrame = playerContainer.querySelector('.video-frame[style*="display: block"]');
+        if (activeFrame.querySelector('iframe')) {
+            const iframe = activeFrame.querySelector('iframe');
+            iframe.setAttribute('src', iframe.getAttribute('data-src'));
+        }
         
         buttons.forEach(button => {
             button.addEventListener('click', function() {
@@ -827,25 +862,9 @@
                 const targetFrame = playerContainer.querySelector(`.${source}-frame`);
                 targetFrame.style.display = 'block';
                 
-                // Если выбран VK и iframe еще не загружен
-                if (source === 'vk' && !targetFrame.querySelector('iframe')) {
-                    // Получаем оригинальный src из HTML
-                    const originalIframe = playerContainer.querySelector('.vk-frame iframe');
-                    const vkSrc = originalIframe ? originalIframe.getAttribute('src') : '';
-                    
-                    if (vkSrc) {
-                        // Создаем и добавляем iframe
-                        const iframe = document.createElement('iframe');
-                        iframe.setAttribute('src', vkSrc);
-                        iframe.setAttribute('allowfullscreen', '');
-                        iframe.style.width = '100%';
-                        iframe.style.height = '100%';
-                        iframe.style.border = 'none';
-                        
-                        // Заменяем placeholder на iframe
-                        targetFrame.innerHTML = '';
-                        targetFrame.appendChild(iframe);
-                    }
+                // Загружаем iframe при первом переключении
+                if (targetFrame.querySelector('.video-placeholder')) {
+                    loadIframe(targetFrame);
                 }
             });
         });

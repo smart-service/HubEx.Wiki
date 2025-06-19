@@ -154,6 +154,7 @@ keywords:
 <div><img style="display: block; max-width: 100%; height: auto; margin: 0 auto;" src="https://i.ibb.co/Cst49q4p/image.jpg" alt="image" border="0" /></div>
 </div>
 <hr class="" data-start="3160" data-end="3163" />
+<p class="" data-start="3165" data-end="3344">Инструкции по работе с конструктором печатных форм можно посмотреть <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/PrintingFormDesigner.html" target="_blank" rel="noopener">здесь</a></p>
 <p class="" data-start="3165" data-end="3344">В случае возникновения проблем - пишите нам в поддержку Telegram&nbsp;<a href="https://t.me/hubex_bot" target="_blank" rel="noopener">@hubex_bot</a>&nbsp;или на почту&nbsp;<a href="mailto:help@hubex.ru">help@hubex.ru</a></p>
 </body>
 

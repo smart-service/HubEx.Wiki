@@ -56,10 +56,10 @@ keywords: подпись, подписант, акт, автор, должнос
                     <li><strong>Должность подписанта</strong> (необязательное поле, до 100 символов)</li>
                 </ul>
             </li>
-            <img src="/attachments/images/FAQ/ReleaseNotes/SignatoryInAct/Mobile1.jpg" style="max-width: 600px; width: 100%; height: auto; display: block; margin: 0 auto;">
+            <img src="https://i.ibb.co/cGPDLf6/Mobile1.jpg" style="max-width: 600px; width: 100%; height: auto; display: block; margin: 0 auto;">
             <li>Эти данные будут отображаться в акте выполненных работ в формате: <em>"Акт принял: [ФИО], [Должность]"</em></li>
-            <img src="/attachments/images/FAQ/ReleaseNotes/SignatoryInAct/Mobile2.jpg" style="max-width: 600px; width: 100%; height: auto; display: block; margin: 0 auto;">
-            <img src="/attachments/images/FAQ/ReleaseNotes/SignatoryInAct/Web1.jpg" style="max-width: 600px; width: 100%; height: auto; display: block; margin: 0 auto;">
+            <img src="https://i.ibb.co/Y7v4hcj5/Mobile2.jpg" style="max-width: 600px; width: 100%; height: auto; display: block; margin: 0 auto;">
+            <img src="https://i.ibb.co/3yjbY4bD/Web1.jpg" style="max-width: 600px; width: 100%; height: auto; display: block; margin: 0 auto;">
         </ul>
     </div>
     <div class="highlight">

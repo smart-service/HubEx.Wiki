@@ -10,14 +10,6 @@ keywords: подпись, подписант, акт, автор, должнос
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Доработка функционала получения подписи</title>
     <style>
-        body {
-            font-family: Arial, sans-serif;
-            line-height: 1.6;
-            max-width: 800px;
-            margin: 0 auto;
-            padding: 20px;
-            color: #333;
-        }
         h1 {
             color: #2c3e50;
             border-bottom: 2px solid #3498db;

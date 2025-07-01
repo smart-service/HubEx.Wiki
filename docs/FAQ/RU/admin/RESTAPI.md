@@ -98,7 +98,7 @@ keywords: API, интеграция, REST API, REST, hubex, хабекс, хуб
 <p class="ds-markdown-paragraph">Пример:&nbsp;<code>DELETE /fsm/WORK/Tasks/{id}</code>&nbsp;&mdash; удаление заявки</p>
 </li>
 </ul>
-<h2>Интеграция с популярными системами</h2>
+<h2>Примеры сценариев интеграции с популярными системами</h2>
 <h3>1. CRM-системы (Bitrix24, amoCRM)</h3>
 <p class="ds-markdown-paragraph"><strong>Сценарии</strong>:</p>
 <ul>

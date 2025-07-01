@@ -99,28 +99,12 @@ keywords: API, интеграция, REST API, REST, hubex, хабекс, хуб
 <p class="ds-markdown-paragraph"><strong>Метод:</strong>&nbsp;<code>GET</code><br /><strong>URL:</strong>&nbsp;<code>https://api.hubex.ru/fsm/WORK/Tasks</code></p>
 <p class="ds-markdown-paragraph"><strong>Заголовки:</strong></p>
 <div class="md-code-block md-code-block-dark">
-<div class="md-code-block-banner-wrap">
-<div class="md-code-block-banner md-code-block-banner-lite">
-<div class="_121d384">
-<div class="d2a24f03"><span class="d813de27">http</span></div>
-<div class="d2a24f03">&nbsp;</div>
-</div>
-</div>
-</div>
 <pre><span class="token header"><span class="token header-name keyword">Authorization</span><span class="token punctuation">:</span> <span class="token header-value">Bearer ваш_access_token</span></span>
 <span class="token header"><span class="token header-name keyword">Content-Type</span><span class="token punctuation">:</span> <span class="token header-value">application/json</span></span>
 <span class="token header"><span class="token header-name keyword">X-Application-ID</span><span class="token punctuation">:</span> <span class="token header-value">5</span></span></pre>
 </div>
 <p class="ds-markdown-paragraph"><strong>Параметры (опционально):</strong></p>
 <div class="md-code-block md-code-block-dark">
-<div class="md-code-block-banner-wrap">
-<div class="md-code-block-banner md-code-block-banner-lite">
-<div class="_121d384">
-<div class="d2a24f03"><span class="d813de27">http</span></div>
-<div class="d2a24f03">&nbsp;</div>
-</div>
-</div>
-</div>
 <pre>?fetch=50         // Количество записей
 &amp;isClosed=false   // Только открытые заявки
 &amp;offset=0         // Пагинация</pre>
@@ -170,14 +154,6 @@ keywords: API, интеграция, REST API, REST, hubex, хабекс, хуб
 <li>
 <p class="ds-markdown-paragraph"><strong>Body (raw JSON):</strong></p>
 <div class="md-code-block md-code-block-dark">
-<div class="md-code-block-banner-wrap">
-<div class="md-code-block-banner md-code-block-banner-lite">
-<div class="_121d384">
-<div class="d2a24f03"><span class="d813de27">json</span></div>
-<div class="d2a24f03">&nbsp;</div>
-</div>
-</div>
-</div>
 <pre><span class="token punctuation">{</span><span class="token property">"serviceToken"</span><span class="token operator">:</span> <span class="token string">"ваш_токен"</span><span class="token punctuation">}</span></pre>
 </div>
 </li>
@@ -189,28 +165,12 @@ keywords: API, интеграция, REST API, REST, hubex, хабекс, хуб
 <li>
 <p class="ds-markdown-paragraph">Теперь делайте запросы к другим endpoint&rsquo;ам, добавляя заголовок:</p>
 <div class="md-code-block md-code-block-dark">
-<div class="md-code-block-banner-wrap">
-<div class="md-code-block-banner md-code-block-banner-lite">
-<div class="_121d384">
-<div class="d2a24f03"><span class="d813de27">http</span></div>
-<div class="d2a24f03">&nbsp;</div>
-</div>
-</div>
-</div>
 <pre><span class="token header"><span class="token header-name keyword">Authorization</span><span class="token punctuation">:</span> <span class="token header-value">Bearer ваш_access_token</span></span></pre>
 </div>
 </li>
 </ol>
 <h3><strong>Вариант 2: cURL (командная строка)</strong></h3>
 <div class="md-code-block md-code-block-dark">
-<div class="md-code-block-banner-wrap">
-<div class="md-code-block-banner md-code-block-banner-lite">
-<div class="_121d384">
-<div class="d2a24f03"><span class="d813de27">bash</span></div>
-<div class="d2a24f03">&nbsp;</div>
-</div>
-</div>
-</div>
 <pre><span class="token comment"># Получение токена</span>
 <span class="token function">curl</span> <span class="token parameter variable">-X</span> POST <span class="token string">"https://api.hubex.ru/fsm/AUTHZ/AccessTokens"</span> <span class="token punctuation">\</span>
      <span class="token parameter variable">-H</span> <span class="token string">"Content-Type: application/json"</span> <span class="token punctuation">\</span>
@@ -222,14 +182,6 @@ keywords: API, интеграция, REST API, REST, hubex, хабекс, хуб
 </div>
 <h3><strong>Вариант 3: Python (requests)</strong></h3>
 <div class="md-code-block md-code-block-dark">
-<div class="md-code-block-banner-wrap">
-<div class="md-code-block-banner md-code-block-banner-lite">
-<div class="_121d384">
-<div class="d2a24f03"><span class="d813de27">python</span></div>
-<div class="d2a24f03">&nbsp;</div>
-</div>
-</div>
-</div>
 <pre><span class="token keyword">import</span> requests
 <span class="token comment"># 1. Получение токена</span>
 auth_url <span class="token operator">=</span> <span class="token string">"https://api.hubex.ru/fsm/AUTHZ/AccessTokens"</span>

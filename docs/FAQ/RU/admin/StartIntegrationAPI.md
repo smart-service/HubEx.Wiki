@@ -34,33 +34,27 @@ keywords: API, интеграция, REST API, REST, hubex, хабекс, хуб
 <p class="ds-markdown-paragraph">Перейдите в раздел:<br /><strong><code>Интеграция &rarr; Служебные пользователи</code></strong>.</p>
 </li>
 <li>
-<p class="ds-markdown-paragraph">Нажмите&nbsp;<strong>"Добавить пользователя API"</strong>.</p>
+<p class="ds-markdown-paragraph">Нажмите&nbsp;<strong>"Пользователь AP"</strong>.</p>
 </li>
 <li>
-<p class="ds-markdown-paragraph">Задайте:</p>
+<p class="ds-markdown-paragraph">Выберите:</p>
 <ul>
 <li>
-<p class="ds-markdown-paragraph"><strong>Имя пользователя</strong>&nbsp;(например,&nbsp;<code>api_integration</code>)</p>
+<p class="ds-markdown-paragraph"><strong>Роли</strong></p>
 </li>
 <li>
-<p class="ds-markdown-paragraph"><strong>Роли</strong>&nbsp;(минимально &mdash;&nbsp;<code>Пользователь API</code>)</p>
-</li>
-<li>
-<p class="ds-markdown-paragraph"><strong>Права доступа</strong>&nbsp;(выберите, к каким модулям нужен доступ)</p>
+<p class="ds-markdown-paragraph"><strong>Участки</strong></p>
 </li>
 </ul>
-</li>
-<li>
-<p class="ds-markdown-paragraph">Сохраните.</p>
 </li>
 </ol>
 <h3><strong>Шаг 2. Генерация сервисного токена</strong></h3>
 <ol start="1">
 <li>
-<p class="ds-markdown-paragraph">В карточке пользователя нажмите&nbsp;<strong>"Сгенерировать токен"</strong>.</p>
+<p class="ds-markdown-paragraph">В разделе "Токен доступа" нажмите&nbsp;<strong>"Сгенерировать"</strong>.</p>
 </li>
 <li>
-<p class="ds-markdown-paragraph">Скопируйте&nbsp;<strong>Service Token</strong>&nbsp;(или скачайте файл&nbsp;<code>token.json</code>).</p>
+<p class="ds-markdown-paragraph">Скачайте&nbsp;<strong>Service Token</strong>.</p>
 <ul>
 <li>
 <p class="ds-markdown-paragraph">⚠️&nbsp;<strong>Токен показывается только один раз!</strong>&nbsp;Сохраните его в безопасное место.</p>

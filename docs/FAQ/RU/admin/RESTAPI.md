@@ -224,6 +224,42 @@ keywords: API, интеграция, REST API, REST, hubex, хабекс, хуб
 <p class="ds-markdown-paragraph">Пример:&nbsp;<code>PATCH /fsm/WORK/Tasks/{id}</code>&nbsp;для обновления статуса с телефона</p>
 </li>
 </ul>
+<p>&nbsp;</p>
+<h2>Дополнительная информация по API</h2>
+<ol start="1">
+<li>
+<p class="ds-markdown-paragraph"><strong>Обработка ошибок</strong>: Всегда проверяйте HTTP-статус ответа</p>
+<ul>
+<li>
+<p class="ds-markdown-paragraph">200-299 &mdash; успех</p>
+</li>
+<li>
+<p class="ds-markdown-paragraph">400-499 &mdash; ошибка клиента</p>
+</li>
+<li>
+<p class="ds-markdown-paragraph">500-599 &mdash; ошибка сервера</p>
+</li>
+</ul>
+</li>
+<li>
+<p class="ds-markdown-paragraph"><strong>Пагинация</strong>: Для больших наборов данных используйте параметры&nbsp;<code>fetch</code>&nbsp;и&nbsp;<code>offset</code></p>
+</li>
+<li>
+<p class="ds-markdown-paragraph"><strong>Кэширование</strong>: Сохраняйте часто запрашиваемые данные локально</p>
+</li>
+<li>
+<p class="ds-markdown-paragraph"><strong>Ограничение частоты запросов</strong>: Не превышайте лимиты API (обычно 60 запросов в минуту)</p>
+</li>
+<li>
+<p class="ds-markdown-paragraph"><strong>Безопасность</strong>: Никогда не храните токены в открытом виде</p>
+</li>
+<li>
+<p class="ds-markdown-paragraph"><strong>Логирование</strong>: Ведите журнал всех запросов и ответов для отладки</p>
+</li>
+<li>
+<p class="ds-markdown-paragraph"><strong>Асинхронные операции</strong>: Для длительных процессов используйте webhook-уведомления</p>
+</li>
+</ol>
 </body>
 </html>
 ___

@@ -81,7 +81,8 @@ keywords: API, интеграция, REST API, REST, hubex, хабекс, хуб
 <p class="ds-markdown-paragraph"><strong>Пример ответа (200 OK):</strong></p>
 <div class="md-code-block md-code-block-dark">
 <pre><span class="token punctuation">{</span>
-  <span class="token property">"access_token"</span><span class="token operator">:</span> <span class="token string">"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9..."</span><span class="token punctuation">,</span></pre>
+  <span class="token property">"access_token"</span><span class="token operator">:</span> <span class="token string">"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9..."</span>
+<span class="token punctuation">}</span></pre>
 </div>
 <ul>
 <li>

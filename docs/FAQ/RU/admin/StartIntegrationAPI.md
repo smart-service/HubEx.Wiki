@@ -70,14 +70,6 @@ keywords: API, интеграция, REST API, REST, hubex, хабекс, хуб
 <p class="ds-markdown-paragraph"><strong>Метод:</strong>&nbsp;<code>POST</code><br /><strong>URL:</strong>&nbsp;<code>https://api.hubex.ru/fsm/AUTHZ/AccessTokens</code></p>
 <p class="ds-markdown-paragraph"><strong>Заголовки (<code>Headers</code>):</strong></p>
 <div class="md-code-block md-code-block-dark">
-<div class="md-code-block-banner-wrap">
-<div class="md-code-block-banner md-code-block-banner-lite">
-<div class="_121d384">
-<div class="d2a24f03"><span class="d813de27">http</span></div>
-<div class="d2a24f03">&nbsp;</div>
-</div>
-</div>
-</div>
 <pre><span class="token header"><span class="token header-name keyword">Content-Type</span><span class="token punctuation">:</span> <span class="token header-value">application/json</span></span></pre>
 </div>
 <p class="ds-markdown-paragraph"><strong>Тело запроса (<code>Body</code>):</strong></p>

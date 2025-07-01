@@ -74,32 +74,14 @@ keywords: API, интеграция, REST API, REST, hubex, хабекс, хуб
 </div>
 <p class="ds-markdown-paragraph"><strong>Тело запроса (<code>Body</code>):</strong></p>
 <div class="md-code-block md-code-block-dark">
-<div class="md-code-block-banner-wrap">
-<div class="md-code-block-banner md-code-block-banner-lite">
-<div class="_121d384">
-<div class="d2a24f03"><span class="d813de27">json</span></div>
-<div class="d2a24f03">&nbsp;</div>
-</div>
-</div>
-</div>
 <pre><span class="token punctuation">{</span>
   <span class="token property">"serviceToken"</span><span class="token operator">:</span> <span class="token string">"ваш_сервисный_токен"</span>
 <span class="token punctuation">}</span></pre>
 </div>
 <p class="ds-markdown-paragraph"><strong>Пример ответа (200 OK):</strong></p>
 <div class="md-code-block md-code-block-dark">
-<div class="md-code-block-banner-wrap">
-<div class="md-code-block-banner md-code-block-banner-lite">
-<div class="_121d384">
-<div class="d2a24f03"><span class="d813de27">json</span></div>
-<div class="d2a24f03">&nbsp;</div>
-</div>
-</div>
-</div>
 <pre><span class="token punctuation">{</span>
-  <span class="token property">"access_token"</span><span class="token operator">:</span> <span class="token string">"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9..."</span><span class="token punctuation">,</span>
-  <span class="token property">"expires_in"</span><span class="token operator">:</span> <span class="token number">86400</span>
-<span class="token punctuation">}</span></pre>
+  <span class="token property">"access_token"</span><span class="token operator">:</span> <span class="token string">"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9..."</span><span class="token punctuation">,</span></pre>
 </div>
 <ul>
 <li>

@@ -1,13 +1,13 @@
 ---
-title: Что такое REST API
-description: Описание способов взаимодействия одной компьютерной программы с другими через REST API.
+title: Начало работы с REST API HubEx
+description: Описание способов взаимодействия с HubEx через REST API.
 keywords: API, интеграция, REST API, REST, hubex, хабекс, хубекс, хабикс
 ---
 
 <html lang="ru">
 <meta charset="utf-8">
 <body>
-<h1><strong>Начало работы с интеграцией API HubEx</strong></h1>
+<h1><strong>Начало работы с REST API HubEx</strong></h1>
 <p class="ds-markdown-paragraph">Этот раздел поможет вам быстро подключиться к API HubEx, настроить авторизацию и выполнить первые запросы. Мы рассмотрим пошаговый процесс от получения токена до тестирования API.</p>
 <hr />
 <h2><strong>1. Подготовка к работе с API</strong></h2>
@@ -202,16 +202,33 @@ response <span class="token operator">=</span> requests<span class="token punctu
 <h2><strong>6. Что делать дальше?</strong></h2>
 <ol start="1">
 <li>
-<p class="ds-markdown-paragraph"><strong>Изучите документацию API</strong>&nbsp;&mdash; какие endpoints доступны.</p>
+<p class="ds-markdown-paragraph"><strong>Изучите документацию API</strong>&nbsp;&mdash; какие endpoints доступны:</p>
+<ul>
+  <li><a href="https://doc.hubex.ru/?url=AUTHN.json">AUTHN</a> – сервис для аутентификация учетных записей</li>
+  <li><a href="https://doc.hubex.ru/?url=AUTHZ.json">AUTHZ</a> – сервис для авторизации пользователей</li>
+  <li><a href="https://doc.hubex.ru/?url=AUTH.json">AUTH</a> – сервис для работы с учетной записью и авторизационными данными</li>
+  <li><a href="https://doc.hubex.ru/?url=ADM.json">ADM</a> – сервис для работы с данными пользователей и администрированием</li>
+  <li><a href="https://doc.hubex.ru/?url=ES.json">ES</a> – сервис для работы с компаниями, объектами, организационной структуры, локаций и т.п.</li>
+  <li><a href="https://doc.hubex.ru/?url=PA.json">PA</a> – сервис для управления персоналом - трудоустройство, назначение на оборудование, рейтинги, навыки и т.п.</li>
+  <li><a href="https://doc.hubex.ru/?url=WORK.json">WORK</a> – сервис для работы с заявками - список заявок, основные атрибуты по заявкам (чек-листы, выполнение и т.п.), создание заявок, вложения, назначения сотрудников и т.п.</li>
+  <li><a href="https://doc.hubex.ru/?url=WSP.json">WSP</a> – сервис для работы с графиками рабочего времени</li>
+  <li><a href="https://doc.hubex.ru/?url=COMMON.json">COMMON</a> – сервис для работы со справочниками: валюты, временные зоны, единицы измерения, дополнительные поля и т.п.</li>
+  <li><a href="https://doc.hubex.ru/?url=SLA.json">SLA</a> – сервис для работы с критичностью заявки и SLA</li>
+  <li><a href="https://doc.hubex.ru/?url=TSTG.json">TSTG</a> – сервис настройки жизненного цикла заявки</li>
+  <li><a href="https://doc.hubex.ru/?url=UI.json">UI</a> – сервис настройки пользовательского интерфейса</li>
+  <li><a href="https://doc.hubex.ru/?url=EXPORT.json">EXPORT</a> – сервис для экспорта данных</li>
+  <li><a href="https://doc.hubex.ru/?url=PMP.json">PMP</a> – сервис для работы с планировщиком работ</li>
+  <li><a href="https://doc.hubex.ru/?url=MSG.json">MSG</a> – сервис для работы с уведомлениями, Webhook, триггерами</li>
+  <li><a href="https://doc.hubex.ru/?url=NEWS.json">NEWS</a> – сервис по оповещению пользователей по обновлениям системы</li>
+  <li><a href="https://doc.hubex.ru/?url=WH.json">WH</a> – сервис для работы со складами и материалами</li>
+</ul>
+
 </li>
 <li>
 <p class="ds-markdown-paragraph"><strong>Настройте обработку ошибок</strong>&nbsp;(например, истечение токена).</p>
 </li>
 <li>
 <p class="ds-markdown-paragraph"><strong>Реализуйте автоматическое обновление токена</strong>&nbsp;(если интеграция долгосрочная).</p>
-</li>
-<li>
-<p class="ds-markdown-paragraph"><strong>Протестируйте в песочнице</strong>&nbsp;(если есть тестовый режим).</p>
 </li>
 <li>
 <p class="ds-markdown-paragraph"><strong>Настройте вебхуки</strong>&nbsp;(если нужно получать уведомления от HubEx).</p>
@@ -222,8 +239,6 @@ response <span class="token operator">=</span> requests<span class="token punctu
 <p class="ds-markdown-paragraph">Теперь вы можете интегрировать HubEx с CRM, 1С, Telegram-ботами и другими системами. Если возникнут вопросы &mdash; обратитесь в поддержку HubEx.</p>
 </body>
 </html>
-___
-### Следующие шаги:
-- [Примеры API запросов в HubEx для реализации интеграции](./ExampleRequestsAPI.md)
+
 ____
 - [Перейти в меню](http://wiki.hubex.ru)

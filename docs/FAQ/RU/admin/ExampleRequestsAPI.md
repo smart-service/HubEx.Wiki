@@ -41,7 +41,7 @@ keywords: API, интеграция, REST API, REST, hubex, хабекс, хуб
 <p class="ds-markdown-paragraph"><code>RequestMethodID</code>&nbsp;- Метод подачи заявки</p>
 </li>
 </ul>
-<p class="ds-markdown-paragraph"><strong>Дополнительные поля</strong>:</p>
+<p class="ds-markdown-paragraph"><strong>Другие поля</strong>:</p>
 <ul>
 <li>
 <p class="ds-markdown-paragraph"><code>companyID</code>&nbsp;- ID компании-заказчика</p>
@@ -81,6 +81,7 @@ Body:
 <span class="token punctuation">}</span></span></pre>
 </div>
 <p class="ds-markdown-paragraph"><strong>Пример успешного ответа</strong>:</p>
+<span class="token application-json"><span class="token property">"Status Code"</span><span class="token operator">:</span> <span class="token number">201 Created</span>
 <div class="md-code-block md-code-block-dark">
 <div class="md-code-block-banner-wrap">&nbsp;</div>
 <pre><span class="token punctuation">{</span>

@@ -259,20 +259,51 @@ Body:
 <p class="ds-markdown-paragraph"><strong>Добавление файла</strong>&nbsp;(используйте FormData):</p>
 <div class="md-code-block md-code-block-dark">
 <div class="md-code-block-banner-wrap">&nbsp;</div>
-<pre>POST https://api.hubex.ru/fsm/WORK/TaskAttachments/upload/fromForm
+<pre>POST https://api.hubex.ru/fsm/WORK/taskAttachments/upload/fromForm
 Headers:
   Authorization: Bearer YOUR_ACCESS_TOKEN
   Content-Type: multipart/form-data
 Body:
-  taskID: 789
-  file: [ваш файл]
+  taskID: 5131
+  file: [ваш файл] //в бинарном формате
   isPublic: false
   isIgnorePossibleDuplication: true</pre>
+</div>
+<p class="ds-markdown-paragraph"><strong>Пример ответа</strong>:</p>
+<div class="md-code-block md-code-block-dark">
+<div class="md-code-block-banner-wrap">&nbsp;</div>
+<pre>
+<span class="token property">{
+    "taskID": 5131,
+    "attachmentID": 279,
+    "md5Hash": "8257360CCAAD8A3F49AB4E43283DCDF2",
+    "fileName": "Web1.jpg",
+    "isProtected": false
+}
+</span></pre>
 </div>
 <p class="ds-markdown-paragraph"><strong>Получение списка файлов</strong>:</p>
 <div class="md-code-block md-code-block-dark">
 <div class="md-code-block-banner-wrap">&nbsp;</div>
-<pre>GET https://api.hubex.ru/fsm/WORK/Tasks/789/attachments</pre>
+<pre>GET https://api.hubex.ru/fsm/WORK/tasks/5131/attachments?thumbnailSize=128</pre>
+</div>
+<p class="ds-markdown-paragraph"><strong>Пример ответа</strong>:</p>
+<div class="md-code-block md-code-block-dark">
+<div class="md-code-block-banner-wrap">&nbsp;</div>
+<pre>
+<span class="token property">{
+    "279": {
+        "fileName": "Web1.jpg",
+        "isUploaded": true,
+        "thumbnailUrl": "https://239911.selcdn.ru/DEVTenant000041/_thumbnails/D395771085AAB05244A4FB8FD91BF4EE_128x128?temp_url_sig=ad34207918611c2bca7264c4a114c1c17de8d08a&temp_url_expires=1751470458",
+        "isProtected": false,
+        "size": 86674,
+        "created": "2025-07-02T15:33:57"
+    }
+}
+</span></pre>
+<p class="ds-markdown-paragraph">Для получения миниатюры изображения используйте <strong>"thumbnailUrl"</strong></p>
+<p>Для получения исходного файла используем <strong>Endpoint</strong>:&nbsp;<code>GET fsm/COMMON/attachments/279?noRedirect=true</code>, где 279 - это id вложения.</p>
 </div>
 <h2>Работа с объектами</h2>
 <h3>Создание объекта</h3>

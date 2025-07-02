@@ -50,12 +50,19 @@ keywords: API, интеграция, REST API, REST, hubex, хабекс, хуб
 <p class="ds-markdown-paragraph"><code>assetID</code>&nbsp;- ID объекта/оборудования</p>
 </li>
 <li>
-<p class="ds-markdown-paragraph"><code>workTypeID</code>&nbsp;- ID вида работ</p>
+<p class="ds-markdown-paragraph"><code>LocationID</code>&nbsp;- ID адреса/локации</p>
 </li>
 <li>
-<p class="ds-markdown-paragraph"><code>description</code>&nbsp;- описание заявки</p>
+<p class="ds-markdown-paragraph"><code>WorkTypeID</code>&nbsp;- ID вида работ</p>
+</li>
+<li>
+<p class="ds-markdown-paragraph"><code>Notes</code>&nbsp;- описание заявки - без html тегов (используется для отображения в списке заявок)</p>
+</li>
+<li>
+<p class="ds-markdown-paragraph"><code>NotesHtml</code>&nbsp;- описание заявки - с html тегами (используется для отображения в заявке)</p>
 </li>
 </ul>
+<p>Тип полей можно посмотреть в SWAGGER. Список сервисов представлен в статье - <a htref="https://wiki.hubex.ru/docs/FAQ/RU/admin/StartIntegrationAPI.html">Начало работы с REST API HubEx</a></p>
 <p class="ds-markdown-paragraph"><strong>Пример запроса</strong>:</p>
 <div class="md-code-block md-code-block-dark">
 <pre>POST https://api.hubex.ru/fsm/WORK/Tasks

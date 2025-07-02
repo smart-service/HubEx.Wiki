@@ -155,20 +155,16 @@ Body:
 </div>
 <p class="ds-markdown-paragraph">Для получаения списка ID дополнительных полей требуется использовать <strong>Endpoint</strong>:&nbsp;<code>GET fsm/COMMON/Attributes/?isRelevantForTask=true&isDeleted=false</code></p>
 <h3>Работа со стадиями</h3>
-<p class="ds-markdown-paragraph"><strong>Получение текущей стадии</strong>:</p>
+<p class="ds-markdown-paragraph"><strong>Получение списка доступных стадий для заявки</strong>:</p>
 <div class="md-code-block md-code-block-dark">
 <div class="md-code-block-banner-wrap">&nbsp;</div>
-<pre>GET https://api.hubex.ru/fsm/WORK/Tasks/789</pre>
-</div>
-<p class="ds-markdown-paragraph"><strong>Получение списка всех стадий</strong>:</p>
-<div class="md-code-block md-code-block-dark">
-<div class="md-code-block-banner-wrap">&nbsp;</div>
-<pre>GET https://api.hubex.ru/fsm/TSTG/TaskStages</pre>
+<pre>GET https://api.hubex.ru/fsm/Tasks/{taskID}/stages/next</pre>
+<p>Где taskID - это id заявки</p>
 </div>
 <p class="ds-markdown-paragraph"><strong>Изменение стадии</strong>:</p>
 <div class="md-code-block md-code-block-dark">
 <div class="md-code-block-banner-wrap">&nbsp;</div>
-<pre>POST https://api.hubex.ru/fsm/WORK/TaskStagingHistory
+<pre>POST https://api.hubex.ru/fsm/WORK/taskstagingHistory
 Headers:
   Authorization: Bearer YOUR_ACCESS_TOKEN
   Content-Type: application/json
@@ -182,20 +178,82 @@ Body:
 <p class="ds-markdown-paragraph"><strong>Отправка комментария</strong>:</p>
 <div class="md-code-block md-code-block-dark">
 <div class="md-code-block-banner-wrap">&nbsp;</div>
-<pre>POST https://api.hubex.ru/fsm/WORK/Tasks/789/conversation
+<pre>POST https://api.hubex.ru/fsm/WORK/Tasks/5131/conversation/
 Headers:
   Authorization: Bearer YOUR_ACCESS_TOKEN
   Content-Type: application/json
 Body:
-<span class="token application-json"><span class="token punctuation">{</span>
-  <span class="token property">"message"</span><span class="token operator">:</span> <span class="token string">"Заказчик подтвердил, что проблема сохраняется"</span><span class="token punctuation">,</span>
-  <span class="token property">"isExternal"</span><span class="token operator">:</span> <span class="token boolean">true</span>
-<span class="token punctuation">}</span></span></pre>
+<span class="token property">{
+  "isExternal":false,
+  "attachments":[],
+  "message":"Принял в работу"
+  }
+</span></pre>
 </div>
 <p class="ds-markdown-paragraph"><strong>Получение комментариев</strong>:</p>
 <div class="md-code-block md-code-block-dark">
 <div class="md-code-block-banner-wrap">&nbsp;</div>
-<pre>GET https://api.hubex.ru/fsm/WORK/Tasks/789/conversations?isRead=false</pre>
+<pre>GET https://api.hubex.ru/fsm/WORK/Tasks/5131/conversations/?thumbnailSize=128</pre>
+</div>
+<p class="ds-markdown-paragraph"><strong>Пример ответа</strong>:</p>
+<div class="md-code-block md-code-block-dark">
+<div class="md-code-block-banner-wrap">&nbsp;</div>
+<pre>
+<span class="token property">[
+    {
+        "id": 1,
+        "created": "2025-07-02T15:15:04",
+        "message": "Приехал на объект",
+        "isExternal": false,
+        "author": {
+            "tenantMemberID": 0,
+            "isTechnician": false,
+            "isCustomer": false,
+            "id": 1,
+            "firstName": "Скобеев",
+            "lastName": "Павел",
+            "middleName": ""
+        },
+        "delivery": {
+            "toAnyone": true,
+            "toAll": true,
+            "toCurrentUser": "2025-07-02T15:15:04"
+        },
+        "read": {
+            "byAnyone": false,
+            "byAll": false,
+            "byCurrentUser": "2025-07-02T15:15:04",
+            "isReadExpected": false
+        }
+    },
+    {
+        "id": 2,
+        "created": "2025-07-02T15:15:23",
+        "message": "Работы выполнены. Просьба принять.",
+        "isExternal": true,
+        "author": {
+            "tenantMemberID": 0,
+            "isTechnician": false,
+            "isCustomer": false,
+            "id": 1,
+            "firstName": "Скобеев",
+            "lastName": "Павел",
+            "middleName": ""
+        },
+        "delivery": {
+            "toAnyone": true,
+            "toAll": true,
+            "toCurrentUser": "2025-07-02T15:15:23"
+        },
+        "read": {
+            "byAnyone": false,
+            "byAll": false,
+            "byCurrentUser": "2025-07-02T15:15:23",
+            "isReadExpected": false
+        }
+    }
+]
+</span></pre>
 </div>
 <h3>Файлы</h3>
 <p class="ds-markdown-paragraph"><strong>Добавление файла</strong>&nbsp;(используйте FormData):</p>

@@ -29,6 +29,21 @@ keywords: API, интеграция, REST API, REST, hubex, хабекс, хуб
 <p class="ds-markdown-paragraph"><strong>Обязательные поля</strong>:</p>
 <ul>
 <li>
+<p class="ds-markdown-paragraph"><code>TaskTypeID</code>&nbsp;- ID типа заявки</p>
+</li>
+<li>
+<p class="ds-markdown-paragraph"><code>CriticalityID</code>&nbsp;- ID критичности</p>
+</li>
+<li>
+<p class="ds-markdown-paragraph"><code>deadline</code>&nbsp;- Крайний срок закрытия</p>
+</li>
+<li>
+<p class="ds-markdown-paragraph"><code>RequestMethodID</code>&nbsp;- Метод подачи заявки</p>
+</li>
+</ul>
+<p class="ds-markdown-paragraph"><strong>Дополнительные поля</strong>:</p>
+<ul>
+<li>
 <p class="ds-markdown-paragraph"><code>companyID</code>&nbsp;- ID компании-заказчика</p>
 </li>
 <li>
@@ -36,12 +51,6 @@ keywords: API, интеграция, REST API, REST, hubex, хабекс, хуб
 </li>
 <li>
 <p class="ds-markdown-paragraph"><code>workTypeID</code>&nbsp;- ID вида работ</p>
-</li>
-<li>
-<p class="ds-markdown-paragraph"><code>taskTypeID</code>&nbsp;- ID типа заявки</p>
-</li>
-<li>
-<p class="ds-markdown-paragraph"><code>criticalityID</code>&nbsp;- ID критичности</p>
 </li>
 <li>
 <p class="ds-markdown-paragraph"><code>description</code>&nbsp;- описание заявки</p>

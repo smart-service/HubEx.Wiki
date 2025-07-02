@@ -135,7 +135,7 @@ Headers:
   Authorization: Bearer YOUR_ACCESS_TOKEN
   Content-Type: application/json
 Body:
-<span class="token application-json"><span class="token punctuation">[{</span>
+<span class="token application-json">
   <span class="token property"><pre>[{
     "taskID": 5130,
     "data": [{
@@ -143,9 +143,7 @@ Body:
         "value": "121312"
     }]
 }]</pre>
-  </span><span class="token operator">:</span> <span class="token string">17</span><span class="token punctuation">,</span>
-  <span class="token property">"deadline"</span><span class="token operator">:</span> <span class="token string">"2025-07-10T14:08:00.000Z"</span>
-<span class="token punctuation">}</span></span></pre>
+  </span>
 </div>
 <h3>Работа со стадиями</h3>
 <p class="ds-markdown-paragraph"><strong>Получение текущей стадии</strong>:</p>

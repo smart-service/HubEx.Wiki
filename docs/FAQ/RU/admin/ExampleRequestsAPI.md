@@ -77,7 +77,7 @@ Body:
   <span class="token property">"taskTypeID"</span><span class="token operator">:</span> <span class="token number">1</span><span class="token punctuation">,</span>
   <span class="token property">"criticalityID"</span><span class="token operator">:</span> <span class="token number">2</span><span class="token punctuation">,</span>
   <span class="token property">"Notes"</span><span class="token operator">:</span> <span class="token string">"Не работает принтер в кабинете 301"</span><span class="token punctuation">,</span>
-  <span class="token property">"NotesHtml"</span><span class="token operator">:</span> <span class="token string">"&lt;p&gt;Не работает принтер в кабинете 301&lt;/p&gt;\\n"</span>
+  <span class="token property">"NotesHtml"</span><span class="token operator">:</span> <span class="token string">"&lt;p&gt;Не работает принтер в кабинете 301&lt;/p&gt;<pre>\n</pre>"</span>
 <span class="token punctuation">}</span></span></pre>
 </div>
 <p class="ds-markdown-paragraph"><strong>Пример успешного ответа</strong>:</p>

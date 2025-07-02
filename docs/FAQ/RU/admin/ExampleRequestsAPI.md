@@ -140,10 +140,12 @@ Body:
   "data":[
   {
     "attributeID":7,
-    "value":true},
+    "value":true
+  },
   {
     "attributeID":13,
-    "value":"NFC \u043e\u0442\u0441\u043a\u0430\u043d\u0438\u0440\u043e\u0432\u0430\u043d"},
+    "value":"NFC отсканирован"
+  },
   {
     "attributeID":68,
     "value":""
@@ -151,6 +153,7 @@ Body:
 }]
 </span></pre>
 </div>
+<p class="ds-markdown-paragraph">Для получаения списка ID дополнительных полей требуется использовать <strong>Endpoint</strong>:&nbsp;<code>GET fsm/COMMON/Attributes/?isRelevantForTask=true&isDeleted=false</code></p>
 <h3>Работа со стадиями</h3>
 <p class="ds-markdown-paragraph"><strong>Получение текущей стадии</strong>:</p>
 <div class="md-code-block md-code-block-dark">

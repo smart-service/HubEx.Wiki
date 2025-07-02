@@ -106,6 +106,9 @@ Body:
 <li>
 <p class="ds-markdown-paragraph">Критичность:&nbsp;<code>GET /fsm/SLA/Criticalities</code></p>
 </li>
+<li>
+<p class="ds-markdown-paragraph">И так далее, endpoint представлены в SWAGGER. Список сервисов представлен в статье - <a htref="https://wiki.hubex.ru/docs/FAQ/RU/admin/StartIntegrationAPI.html">Начало работы с REST API HubEx</a></p>
+</li>
 </ol>
 <h3>Изменение заявки</h3>
 <p class="ds-markdown-paragraph"><strong>Endpoint</strong>:&nbsp;<code>PATCH /fsm/WORK/Tasks/{taskID}</code></p>
@@ -118,8 +121,30 @@ Headers:
   Content-Type: application/json
 Body:
 <span class="token application-json"><span class="token punctuation">{</span>
-  <span class="token property">"description"</span><span class="token operator">:</span> <span class="token string">"Не работает принтер в кабинете 301 (добавили информацию о модели)"</span><span class="token punctuation">,</span>
-  <span class="token property">"status"</span><span class="token operator">:</span> <span class="token string">"В работе"</span>
+  <span class="token property">"companyID"</span><span class="token operator">:</span> <span class="token string">17</span><span class="token punctuation">,</span>
+  <span class="token property">"deadline"</span><span class="token operator">:</span> <span class="token string">"2025-07-10T14:08:00.000Z"</span>
+<span class="token punctuation">}</span></span></pre>
+</div>
+<h3>Изменение дополнительных полей заявки</h3>
+<p class="ds-markdown-paragraph"><strong>Endpoint</strong>:&nbsp;<code>POST fsm/WORK/taskAttributes</code></p>
+<p class="ds-markdown-paragraph"><strong>Пример запроса</strong>:</p>
+<div class="md-code-block md-code-block-dark">
+<div class="md-code-block-banner-wrap">&nbsp;</div>
+<pre>POST https://api.hubex.ru/fsm/WORK/taskAttributes
+Headers:
+  Authorization: Bearer YOUR_ACCESS_TOKEN
+  Content-Type: application/json
+Body:
+<span class="token application-json"><span class="token punctuation">[{</span>
+  <span class="token property"><pre>[{
+    "taskID": 5130,
+    "data": [{
+        "attributeID": 18,
+        "value": "121312"
+    }]
+}]</pre>
+  </span><span class="token operator">:</span> <span class="token string">17</span><span class="token punctuation">,</span>
+  <span class="token property">"deadline"</span><span class="token operator">:</span> <span class="token string">"2025-07-10T14:08:00.000Z"</span>
 <span class="token punctuation">}</span></span></pre>
 </div>
 <h3>Работа со стадиями</h3>

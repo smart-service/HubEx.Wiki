@@ -7,7 +7,345 @@ keywords: API, интеграция, REST API, REST, hubex, хабекс, хуб
 <html lang="ru">
 <meta charset="utf-8">
 <body>
-  
+<h1>Примеры API запросов в HubEx для реализации интеграции</h1>
+<h2>Содержание</h2>
+<ol start="1">
+<li>
+<p class="ds-markdown-paragraph"><a target="_blank" rel="noreferrer">Работа с заявками</a></p>
+<ul>
+<li>
+<p class="ds-markdown-paragraph"><a target="_blank" rel="noreferrer">Создание заявки</a></p>
+</li>
+<li>
+<p class="ds-markdown-paragraph"><a target="_blank" rel="noreferrer">Изменение заявки</a></p>
+</li>
+<li>
+<p class="ds-markdown-paragraph"><a target="_blank" rel="noreferrer">Работа со стадиями</a></p>
+</li>
+<li>
+<p class="ds-markdown-paragraph"><a target="_blank" rel="noreferrer">Комментарии</a></p>
+</li>
+<li>
+<p class="ds-markdown-paragraph"><a target="_blank" rel="noreferrer">Файлы</a></p>
+</li>
+</ul>
+</li>
+<li>
+<p class="ds-markdown-paragraph"><a target="_blank" rel="noreferrer">Работа с объектами</a></p>
+<ul>
+<li>
+<p class="ds-markdown-paragraph"><a target="_blank" rel="noreferrer">Создание объекта</a></p>
+</li>
+<li>
+<p class="ds-markdown-paragraph"><a target="_blank" rel="noreferrer">Изменение объекта</a></p>
+</li>
+<li>
+<p class="ds-markdown-paragraph"><a target="_blank" rel="noreferrer">Публикация объекта</a></p>
+</li>
+</ul>
+</li>
+<li>
+<p class="ds-markdown-paragraph"><a target="_blank" rel="noreferrer">Работа с компаниями</a></p>
+<ul>
+<li>
+<p class="ds-markdown-paragraph"><a target="_blank" rel="noreferrer">Создание компании</a></p>
+</li>
+<li>
+<p class="ds-markdown-paragraph"><a target="_blank" rel="noreferrer">Изменение компании</a></p>
+</li>
+</ul>
+</li>
+<li>
+<p class="ds-markdown-paragraph"><a target="_blank" rel="noreferrer">Работа с пользователями</a></p>
+<ul>
+<li>
+<p class="ds-markdown-paragraph"><a target="_blank" rel="noreferrer">Создание пользователя</a></p>
+</li>
+<li>
+<p class="ds-markdown-paragraph"><a target="_blank" rel="noreferrer">Изменение пользователя</a></p>
+</li>
+<li>
+<p class="ds-markdown-paragraph"><a target="_blank" rel="noreferrer">Блокировка пользователя</a></p>
+</li>
+</ul>
+</li>
+</ol>
+<h2>Работа с заявками</h2>
+<h3>Создание заявки</h3>
+<p class="ds-markdown-paragraph"><strong>Endpoint</strong>:&nbsp;<code>POST /fsm/WORK/Tasks</code></p>
+<p class="ds-markdown-paragraph"><strong>Обязательные поля</strong>:</p>
+<ul>
+<li>
+<p class="ds-markdown-paragraph"><code>companyID</code>&nbsp;- ID компании-заказчика</p>
+</li>
+<li>
+<p class="ds-markdown-paragraph"><code>assetID</code>&nbsp;- ID объекта/оборудования</p>
+</li>
+<li>
+<p class="ds-markdown-paragraph"><code>workTypeID</code>&nbsp;- ID вида работ</p>
+</li>
+<li>
+<p class="ds-markdown-paragraph"><code>taskTypeID</code>&nbsp;- ID типа заявки</p>
+</li>
+<li>
+<p class="ds-markdown-paragraph"><code>criticalityID</code>&nbsp;- ID критичности</p>
+</li>
+<li>
+<p class="ds-markdown-paragraph"><code>description</code>&nbsp;- описание заявки</p>
+</li>
+</ul>
+<p class="ds-markdown-paragraph"><strong>Пример запроса</strong>:</p>
+<div class="md-code-block md-code-block-dark">
+<pre>POST https://api.hubex.ru/fsm/WORK/Tasks
+Headers:
+  Authorization: Bearer YOUR_ACCESS_TOKEN
+  Content-Type: application/json
+Body:
+<span class="token application-json"><span class="token punctuation">{</span>
+  <span class="token property">"companyID"</span><span class="token operator">:</span> <span class="token number">123</span><span class="token punctuation">,</span>
+  <span class="token property">"assetID"</span><span class="token operator">:</span> <span class="token number">456</span><span class="token punctuation">,</span>
+  <span class="token property">"workTypeID"</span><span class="token operator">:</span> <span class="token number">7</span><span class="token punctuation">,</span>
+  <span class="token property">"taskTypeID"</span><span class="token operator">:</span> <span class="token number">1</span><span class="token punctuation">,</span>
+  <span class="token property">"criticalityID"</span><span class="token operator">:</span> <span class="token number">2</span><span class="token punctuation">,</span>
+  <span class="token property">"description"</span><span class="token operator">:</span> <span class="token string">"Не работает принтер в кабинете 301"</span><span class="token punctuation">,</span>
+  <span class="token property">"title"</span><span class="token operator">:</span> <span class="token string">"Поломка принтера"</span>
+<span class="token punctuation">}</span></span></pre>
+</div>
+<p class="ds-markdown-paragraph"><strong>Пример успешного ответа</strong>:</p>
+<div class="md-code-block md-code-block-dark">
+<div class="md-code-block-banner-wrap">&nbsp;</div>
+<pre><span class="token punctuation">{</span>
+  <span class="token property">"id"</span><span class="token operator">:</span> <span class="token number">789</span><span class="token punctuation">,</span>
+  <span class="token property">"taskNumber"</span><span class="token operator">:</span> <span class="token string">"TASK-2023-0456"</span><span class="token punctuation">,</span>
+  <span class="token property">"status"</span><span class="token operator">:</span> <span class="token string">"Новая"</span><span class="token punctuation">,</span>
+  <span class="token property">"createdAt"</span><span class="token operator">:</span> <span class="token string">"2023-05-20T14:30:00Z"</span>
+<span class="token punctuation">}</span></pre>
+</div>
+<p class="ds-markdown-paragraph"><strong>Как получить ID для обязательных полей</strong>:</p>
+<ol start="1">
+<li>
+<p class="ds-markdown-paragraph">Компании:&nbsp;<code>GET /fsm/ES/Companies</code></p>
+</li>
+<li>
+<p class="ds-markdown-paragraph">Оборудование:&nbsp;<code>GET /fsm/ES/Assets</code></p>
+</li>
+<li>
+<p class="ds-markdown-paragraph">Виды работ:&nbsp;<code>GET /fsm/WORK/WorkTypes</code></p>
+</li>
+<li>
+<p class="ds-markdown-paragraph">Типы заявок:&nbsp;<code>GET /fsm/WORK/TaskTypes</code></p>
+</li>
+<li>
+<p class="ds-markdown-paragraph">Критичность:&nbsp;<code>GET /fsm/SLA/Criticalities</code></p>
+</li>
+</ol>
+<h3>Изменение заявки</h3>
+<p class="ds-markdown-paragraph"><strong>Endpoint</strong>:&nbsp;<code>PATCH /fsm/WORK/Tasks/{taskID}</code></p>
+<p class="ds-markdown-paragraph"><strong>Пример запроса</strong>:</p>
+<div class="md-code-block md-code-block-dark">
+<div class="md-code-block-banner-wrap">&nbsp;</div>
+<pre>PATCH https://api.hubex.ru/fsm/WORK/Tasks/789
+Headers:
+  Authorization: Bearer YOUR_ACCESS_TOKEN
+  Content-Type: application/json
+Body:
+<span class="token application-json"><span class="token punctuation">{</span>
+  <span class="token property">"description"</span><span class="token operator">:</span> <span class="token string">"Не работает принтер в кабинете 301 (добавили информацию о модели)"</span><span class="token punctuation">,</span>
+  <span class="token property">"status"</span><span class="token operator">:</span> <span class="token string">"В работе"</span>
+<span class="token punctuation">}</span></span></pre>
+</div>
+<h3>Работа со стадиями</h3>
+<p class="ds-markdown-paragraph"><strong>Получение текущей стадии</strong>:</p>
+<div class="md-code-block md-code-block-dark">
+<div class="md-code-block-banner-wrap">&nbsp;</div>
+<pre>GET https://api.hubex.ru/fsm/WORK/Tasks/789</pre>
+</div>
+<p class="ds-markdown-paragraph"><strong>Получение списка всех стадий</strong>:</p>
+<div class="md-code-block md-code-block-dark">
+<div class="md-code-block-banner-wrap">&nbsp;</div>
+<pre>GET https://api.hubex.ru/fsm/TSTG/TaskStages</pre>
+</div>
+<p class="ds-markdown-paragraph"><strong>Изменение стадии</strong>:</p>
+<div class="md-code-block md-code-block-dark">
+<div class="md-code-block-banner-wrap">&nbsp;</div>
+<pre>POST https://api.hubex.ru/fsm/WORK/TaskStagingHistory
+Headers:
+  Authorization: Bearer YOUR_ACCESS_TOKEN
+  Content-Type: application/json
+Body:
+<span class="token application-json"><span class="token punctuation">{</span>
+  <span class="token property">"taskID"</span><span class="token operator">:</span> <span class="token number">789</span><span class="token punctuation">,</span>
+  <span class="token property">"taskStageID"</span><span class="token operator">:</span> <span class="token number">5</span>  <span class="token comment">// ID стадии "Отказ заказчика"</span>
+<span class="token punctuation">}</span></span></pre>
+</div>
+<h3>Комментарии</h3>
+<p class="ds-markdown-paragraph"><strong>Отправка комментария</strong>:</p>
+<div class="md-code-block md-code-block-dark">
+<div class="md-code-block-banner-wrap">&nbsp;</div>
+<pre>POST https://api.hubex.ru/fsm/WORK/Tasks/789/conversation
+Headers:
+  Authorization: Bearer YOUR_ACCESS_TOKEN
+  Content-Type: application/json
+Body:
+<span class="token application-json"><span class="token punctuation">{</span>
+  <span class="token property">"message"</span><span class="token operator">:</span> <span class="token string">"Заказчик подтвердил, что проблема сохраняется"</span><span class="token punctuation">,</span>
+  <span class="token property">"isExternal"</span><span class="token operator">:</span> <span class="token boolean">true</span>
+<span class="token punctuation">}</span></span></pre>
+</div>
+<p class="ds-markdown-paragraph"><strong>Получение комментариев</strong>:</p>
+<div class="md-code-block md-code-block-dark">
+<div class="md-code-block-banner-wrap">&nbsp;</div>
+<pre>GET https://api.hubex.ru/fsm/WORK/Tasks/789/conversations?isRead=false</pre>
+</div>
+<h3>Файлы</h3>
+<p class="ds-markdown-paragraph"><strong>Добавление файла</strong>&nbsp;(используйте FormData):</p>
+<div class="md-code-block md-code-block-dark">
+<div class="md-code-block-banner-wrap">&nbsp;</div>
+<pre>POST https://api.hubex.ru/fsm/WORK/TaskAttachments/upload/fromForm
+Headers:
+  Authorization: Bearer YOUR_ACCESS_TOKEN
+  Content-Type: multipart/form-data
+Body:
+  taskID: 789
+  file: [ваш файл]
+  isPublic: false
+  isIgnorePossibleDuplication: true</pre>
+</div>
+<p class="ds-markdown-paragraph"><strong>Получение списка файлов</strong>:</p>
+<div class="md-code-block md-code-block-dark">
+<div class="md-code-block-banner-wrap">&nbsp;</div>
+<pre>GET https://api.hubex.ru/fsm/WORK/Tasks/789/attachments</pre>
+</div>
+<h2>Работа с объектами</h2>
+<h3>Создание объекта</h3>
+<p class="ds-markdown-paragraph"><strong>Endpoint</strong>:&nbsp;<code>POST /fsm/ES/Assets</code></p>
+<p class="ds-markdown-paragraph"><strong>Пример запроса</strong>:</p>
+<div class="md-code-block md-code-block-dark">
+<div class="md-code-block-banner-wrap">&nbsp;</div>
+<pre>POST https://api.hubex.ru/fsm/ES/Assets
+Headers:
+  Authorization: Bearer YOUR_ACCESS_TOKEN
+  Content-Type: application/json
+Body:
+<span class="token application-json"><span class="token punctuation">{</span>
+  <span class="token property">"name"</span><span class="token operator">:</span> <span class="token string">"Принтер HP LaserJet Pro"</span><span class="token punctuation">,</span>
+  <span class="token property">"assetTypeID"</span><span class="token operator">:</span> <span class="token number">3</span><span class="token punctuation">,</span>
+  <span class="token property">"serialNumber"</span><span class="token operator">:</span> <span class="token string">"ABC123456"</span><span class="token punctuation">,</span>
+  <span class="token property">"locationID"</span><span class="token operator">:</span> <span class="token number">10</span>
+<span class="token punctuation">}</span></span></pre>
+</div>
+<h3>Изменение объекта</h3>
+<p class="ds-markdown-paragraph"><strong>Endpoint</strong>:&nbsp;<code>PATCH /fsm/ES/Assets/{assetID}</code></p>
+<p class="ds-markdown-paragraph"><strong>Пример запроса</strong>:</p>
+<div class="md-code-block md-code-block-dark">
+<div class="md-code-block-banner-wrap">&nbsp;</div>
+<pre>PATCH https://api.hubex.ru/fsm/ES/Assets/456
+Headers:
+  Authorization: Bearer YOUR_ACCESS_TOKEN
+  Content-Type: application/json
+Body:
+<span class="token application-json"><span class="token punctuation">{</span>
+  <span class="token property">"warrantyTill"</span><span class="token operator">:</span> <span class="token string">"2025-12-31"</span><span class="token punctuation">,</span>
+  <span class="token property">"status"</span><span class="token operator">:</span> <span class="token string">"В эксплуатации"</span>
+<span class="token punctuation">}</span></span></pre>
+</div>
+<h3>Публикация объекта</h3>
+<p class="ds-markdown-paragraph"><strong>Endpoint</strong>:&nbsp;<code>POST /fsm/ES/Assets/{assetID}/publish</code></p>
+<p class="ds-markdown-paragraph"><strong>Пример запроса</strong>:</p>
+<div class="md-code-block md-code-block-dark">
+<div class="md-code-block-banner-wrap">&nbsp;</div>
+<pre>POST https://api.hubex.ru/fsm/ES/Assets/456/publish
+Headers:
+  Authorization: Bearer YOUR_ACCESS_TOKEN</pre>
+</div>
+<h2>Работа с компаниями</h2>
+<h3>Создание компании</h3>
+<p class="ds-markdown-paragraph"><strong>Endpoint</strong>:&nbsp;<code>POST /fsm/ES/Companies</code></p>
+<p class="ds-markdown-paragraph"><strong>Пример запроса</strong>:</p>
+<div class="md-code-block md-code-block-dark">
+<div class="md-code-block-banner-wrap">&nbsp;</div>
+<pre>POST https://api.hubex.ru/fsm/ES/Companies
+Headers:
+  Authorization: Bearer YOUR_ACCESS_TOKEN
+  Content-Type: application/json
+Body:
+<span class="token application-json"><span class="token punctuation">{</span>
+  <span class="token property">"name"</span><span class="token operator">:</span> <span class="token string">"ООО ТехноПром"</span><span class="token punctuation">,</span>
+  <span class="token property">"legalName"</span><span class="token operator">:</span> <span class="token string">"Общество с ограниченной ответственностью ТехноПром"</span><span class="token punctuation">,</span>
+  <span class="token property">"inn"</span><span class="token operator">:</span> <span class="token string">"1234567890"</span><span class="token punctuation">,</span>
+  <span class="token property">"kpp"</span><span class="token operator">:</span> <span class="token string">"987654321"</span>
+<span class="token punctuation">}</span></span></pre>
+</div>
+<h3>Изменение компании</h3>
+<p class="ds-markdown-paragraph"><strong>Endpoint</strong>:&nbsp;<code>PATCH /fsm/ES/Companies/{companyID}</code></p>
+<p class="ds-markdown-paragraph"><strong>Пример запроса</strong>:</p>
+<div class="md-code-block md-code-block-dark">
+<div class="md-code-block-banner-wrap">&nbsp;</div>
+<pre>PATCH https://api.hubex.ru/fsm/ES/Companies/123
+Headers:
+  Authorization: Bearer YOUR_ACCESS_TOKEN
+  Content-Type: application/json
+Body:
+<span class="token application-json"><span class="token punctuation">{</span>
+  <span class="token property">"phone"</span><span class="token operator">:</span> <span class="token string">"+7 (495) 123-45-67"</span><span class="token punctuation">,</span>
+  <span class="token property">"email"</span><span class="token operator">:</span> <span class="token string">"info@technoprom.ru"</span>
+<span class="token punctuation">}</span></span></pre>
+</div>
+<h2>Работа с пользователями</h2>
+<h3>Создание пользователя</h3>
+<p class="ds-markdown-paragraph"><strong>Endpoint</strong>:&nbsp;<code>POST /fsm/ADM/Users</code></p>
+<p class="ds-markdown-paragraph"><strong>Пример запроса</strong>:</p>
+<div class="md-code-block md-code-block-dark">
+<div class="md-code-block-banner-wrap">&nbsp;</div>
+<pre>POST https://api.hubex.ru/fsm/ADM/Users
+Headers:
+  Authorization: Bearer YOUR_ACCESS_TOKEN
+  Content-Type: application/json
+Body:
+<span class="token application-json"><span class="token punctuation">{</span>
+  <span class="token property">"login"</span><span class="token operator">:</span> <span class="token string">"a.ivanov"</span><span class="token punctuation">,</span>
+  <span class="token property">"firstName"</span><span class="token operator">:</span> <span class="token string">"Алексей"</span><span class="token punctuation">,</span>
+  <span class="token property">"lastName"</span><span class="token operator">:</span> <span class="token string">"Иванов"</span><span class="token punctuation">,</span>
+  <span class="token property">"email"</span><span class="token operator">:</span> <span class="token string">"a.ivanov@company.com"</span><span class="token punctuation">,</span>
+  <span class="token property">"phone"</span><span class="token operator">:</span> <span class="token string">"+79031234567"</span><span class="token punctuation">,</span>
+  <span class="token property">"roles"</span><span class="token operator">:</span> <span class="token punctuation">[</span><span class="token number">5</span><span class="token punctuation">,</span> <span class="token number">7</span><span class="token punctuation">]</span>  <span class="token comment">// ID ролей пользователя</span>
+<span class="token punctuation">}</span></span></pre>
+</div>
+<h3>Изменение пользователя</h3>
+<p class="ds-markdown-paragraph"><strong>Endpoint</strong>:&nbsp;<code>PATCH /fsm/ADM/Users/{userID}</code></p>
+<p class="ds-markdown-paragraph"><strong>Пример запроса</strong>:</p>
+<div class="md-code-block md-code-block-dark">
+<div class="md-code-block-banner-wrap">&nbsp;</div>
+<pre>PATCH https://api.hubex.ru/fsm/ADM/Users/42
+Headers:
+  Authorization: Bearer YOUR_ACCESS_TOKEN
+  Content-Type: application/json
+Body:
+<span class="token application-json"><span class="token punctuation">{</span>
+  <span class="token property">"departmentID"</span><span class="token operator">:</span> <span class="token number">15</span><span class="token punctuation">,</span>
+  <span class="token property">"position"</span><span class="token operator">:</span> <span class="token string">"Старший менеджер"</span>
+<span class="token punctuation">}</span></span></pre>
+</div>
+<h3>Блокировка пользователя</h3>
+<p class="ds-markdown-paragraph"><strong>Endpoint</strong>:&nbsp;<code>POST /fsm/ADM/Users/{userID}/ban</code></p>
+<p class="ds-markdown-paragraph"><strong>Пример запроса</strong>:</p>
+<div class="md-code-block md-code-block-dark">
+<div class="md-code-block-banner-wrap">&nbsp;</div>
+<pre>POST https://api.hubex.ru/fsm/ADM/Users/42/ban
+Headers:
+  Authorization: Bearer YOUR_ACCESS_TOKEN
+  Content-Type: application/json
+Body:
+<span class="token application-json"><span class="token punctuation">{</span>
+  <span class="token property">"reason"</span><span class="token operator">:</span> <span class="token string">"Увольнение"</span><span class="token punctuation">,</span>
+  <span class="token property">"comment"</span><span class="token operator">:</span> <span class="token string">"Уволен 20.05.2023"</span>
+<span class="token punctuation">}</span></span></pre>
+</div>
+<p class="ds-markdown-paragraph"><strong>Разблокировка</strong>:</p>
+<div class="md-code-block md-code-block-dark">
+<div class="md-code-block-banner-wrap">&nbsp;</div>
+<pre>POST https://api.hubex.ru/fsm/ADM/Users/42/unban</pre>
+</div>  
 </body>
 </html>
 

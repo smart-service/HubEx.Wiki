@@ -76,16 +76,16 @@ Body:
   <span class="token property">"workTypeID"</span><span class="token operator">:</span> <span class="token number">7</span><span class="token punctuation">,</span>
   <span class="token property">"taskTypeID"</span><span class="token operator">:</span> <span class="token number">1</span><span class="token punctuation">,</span>
   <span class="token property">"criticalityID"</span><span class="token operator">:</span> <span class="token number">2</span><span class="token punctuation">,</span>
-  <span class="token property">"description"</span><span class="token operator">:</span> <span class="token string">"Не работает принтер в кабинете 301"</span><span class="token punctuation">,</span>
-  <span class="token property">"title"</span><span class="token operator">:</span> <span class="token string">"Поломка принтера"</span>
+  <span class="token property">"Notes"</span><span class="token operator">:</span> <span class="token string">"Не работает принтер в кабинете 301"</span><span class="token punctuation">,</span>
+  <span class="token property">"NotesHtml"</span><span class="token operator">:</span> <span class="token string">"<p>Не работает принтер в кабинете 301</p>\n"</span>
 <span class="token punctuation">}</span></span></pre>
 </div>
 <p class="ds-markdown-paragraph"><strong>Пример успешного ответа</strong>:</p>
 <div class="md-code-block md-code-block-dark">
 <div class="md-code-block-banner-wrap">&nbsp;</div>
 <pre><span class="token punctuation">{</span>
-  <span class="token property">"id"</span><span class="token operator">:</span> <span class="token number">789</span><span class="token punctuation">,</span>
-  <span class="token property">"taskNumber"</span><span class="token operator">:</span> <span class="token string">"TASK-2023-0456"</span><span class="token punctuation">,</span>
+  <span class="token property">"id"</span><span class="token operator">:</span> <span class="token number">5129</span><span class="token punctuation">,</span>
+  <span class="token property">""number""</span><span class="token operator">:</span> <span class="token string">"0207000000003"</span><span class="token punctuation">,</span>
   <span class="token property">"status"</span><span class="token operator">:</span> <span class="token string">"Новая"</span><span class="token punctuation">,</span>
   <span class="token property">"createdAt"</span><span class="token operator">:</span> <span class="token string">"2023-05-20T14:30:00Z"</span>
 <span class="token punctuation">}</span></pre>

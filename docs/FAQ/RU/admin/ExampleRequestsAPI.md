@@ -135,15 +135,14 @@ Headers:
   Authorization: Bearer YOUR_ACCESS_TOKEN
   Content-Type: application/json
 Body:
-<span class="token application-json">
-  <span class="token property"><pre>[{
+<span class="token property">[{
     "taskID": 5130,
     "data": [{
         "attributeID": 18,
         "value": "121312"
     }]
-}]</pre>
-  </span>
+}]
+</span></pre>
 </div>
 <h3>Работа со стадиями</h3>
 <p class="ds-markdown-paragraph"><strong>Получение текущей стадии</strong>:</p>

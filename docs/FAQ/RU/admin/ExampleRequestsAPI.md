@@ -303,7 +303,7 @@ Body:
 }
 </span></pre>
 <p class="ds-markdown-paragraph">Для получения миниатюры изображения используйте <strong>"thumbnailUrl"</strong></p>
-<p>Для получения исходного файла используем <strong>Endpoint</strong>:&nbsp;<code>GET fsm/COMMON/attachments/279?noRedirect=true</code>, где 279 - это id вложения.</p>
+<p>Для получения исходного файла используйте <strong>Endpoint</strong>:&nbsp;<code>GET fsm/COMMON/attachments/279?noRedirect=true</code>, где 279 - это id вложения.</p>
 </div>
 <h2>Работа с объектами</h2>
 <h3>Создание объекта</h3>

@@ -12,62 +12,15 @@ keywords: API, интеграция, REST API, REST, hubex, хабекс, хуб
 <ol start="1">
 <li>
 <p class="ds-markdown-paragraph"><a target="_blank" rel="noreferrer">Работа с заявками</a></p>
-<ul>
-<li>
-<p class="ds-markdown-paragraph"><a target="_blank" rel="noreferrer">Создание заявки</a></p>
-</li>
-<li>
-<p class="ds-markdown-paragraph"><a target="_blank" rel="noreferrer">Изменение заявки</a></p>
-</li>
-<li>
-<p class="ds-markdown-paragraph"><a target="_blank" rel="noreferrer">Работа со стадиями</a></p>
-</li>
-<li>
-<p class="ds-markdown-paragraph"><a target="_blank" rel="noreferrer">Комментарии</a></p>
-</li>
-<li>
-<p class="ds-markdown-paragraph"><a target="_blank" rel="noreferrer">Файлы</a></p>
-</li>
-</ul>
 </li>
 <li>
 <p class="ds-markdown-paragraph"><a target="_blank" rel="noreferrer">Работа с объектами</a></p>
-<ul>
-<li>
-<p class="ds-markdown-paragraph"><a target="_blank" rel="noreferrer">Создание объекта</a></p>
-</li>
-<li>
-<p class="ds-markdown-paragraph"><a target="_blank" rel="noreferrer">Изменение объекта</a></p>
-</li>
-<li>
-<p class="ds-markdown-paragraph"><a target="_blank" rel="noreferrer">Публикация объекта</a></p>
-</li>
-</ul>
 </li>
 <li>
 <p class="ds-markdown-paragraph"><a target="_blank" rel="noreferrer">Работа с компаниями</a></p>
-<ul>
-<li>
-<p class="ds-markdown-paragraph"><a target="_blank" rel="noreferrer">Создание компании</a></p>
-</li>
-<li>
-<p class="ds-markdown-paragraph"><a target="_blank" rel="noreferrer">Изменение компании</a></p>
-</li>
-</ul>
 </li>
 <li>
 <p class="ds-markdown-paragraph"><a target="_blank" rel="noreferrer">Работа с пользователями</a></p>
-<ul>
-<li>
-<p class="ds-markdown-paragraph"><a target="_blank" rel="noreferrer">Создание пользователя</a></p>
-</li>
-<li>
-<p class="ds-markdown-paragraph"><a target="_blank" rel="noreferrer">Изменение пользователя</a></p>
-</li>
-<li>
-<p class="ds-markdown-paragraph"><a target="_blank" rel="noreferrer">Блокировка пользователя</a></p>
-</li>
-</ul>
 </li>
 </ol>
 <h2>Работа с заявками</h2>

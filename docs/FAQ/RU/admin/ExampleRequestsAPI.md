@@ -136,11 +136,18 @@ Headers:
   Content-Type: application/json
 Body:
 <span class="token property">[{
-    "taskID": 5130,
-    "data": [{
-        "attributeID": 18,
-        "value": "121312"
-    }]
+  "taskID":5130,
+  "data":[
+  {
+    "attributeID":7,
+    "value":true},
+  {
+    "attributeID":13,
+    "value":"NFC \u043e\u0442\u0441\u043a\u0430\u043d\u0438\u0440\u043e\u0432\u0430\u043d"},
+  {
+    "attributeID":68,
+    "value":""
+  }]
 }]
 </span></pre>
 </div>

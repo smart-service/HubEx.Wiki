@@ -81,8 +81,7 @@ Body:
 <span class="token punctuation">}</span></span></pre>
 </div>
 <p class="ds-markdown-paragraph"><strong>Пример успешного ответа</strong>:</p>
-<pre><span class="token application-json">
-  <span class="token property">Status Code</span><span class="token operator">:</span> <span class="token number">201 Created</span></pre>
+<p>Status Code : <strong>201 Created</strong></p>
 <div class="md-code-block md-code-block-dark">
 <div class="md-code-block-banner-wrap">&nbsp;</div>
 <pre><span class="token punctuation">{</span>

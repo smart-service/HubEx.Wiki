@@ -85,7 +85,7 @@ Body:
 <div class="md-code-block-banner-wrap">&nbsp;</div>
 <pre><span class="token punctuation">{</span>
   <span class="token property">"id"</span><span class="token operator">:</span> <span class="token number">5129</span><span class="token punctuation">,</span>
-  <span class="token property">"number"</span><span class="token operator">:</span> <span class="token string">"0207000000003"</span><span class="token punctuation">,</span>
+  <span class="token property">"number"</span><span class="token operator">:</span> <span class="token string">"0207000000003"</span>
 <span class="token punctuation">}</span></pre>
 </div>
 <p class="ds-markdown-paragraph"><strong>Как получить ID для обязательных полей</strong>:</p>

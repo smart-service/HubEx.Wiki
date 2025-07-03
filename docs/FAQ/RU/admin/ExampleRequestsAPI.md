@@ -371,6 +371,17 @@ Body:
 }
 </span></pre>
 </div>
+<p class="ds-markdown-paragraph"><strong>Пример успешного ответа</strong>:</p>
+<div class="md-code-block md-code-block-dark">
+<div class="md-code-block-banner-wrap">&nbsp;</div>
+<pre>
+<span class="token property">{
+  "name":"Кондиционер",
+  "id":1017
+  }
+</span></pre>
+<p>Где id - это id созданного объекта/оборудования в системе</p>
+<br />
 <h3>Изменение объекта</h3>
 <p class="ds-markdown-paragraph"><strong>Endpoint</strong>:&nbsp;<code>PATCH /fsm/ES/Assets/{assetID}</code></p>
 <p class="ds-markdown-paragraph"><strong>Пример запроса</strong>:</p>

@@ -30,15 +30,15 @@ keywords: API, интеграция, REST API, REST, hubex, хабекс, хуб
 <li>
 <p class="ds-markdown-paragraph"><code>CriticalityID</code>&nbsp;- ID критичности</p>
 </li>
-<li>
-<p class="ds-markdown-paragraph"><code>deadline</code>&nbsp;- Крайний срок закрытия</p>
-</li>
-<li>
-<p class="ds-markdown-paragraph"><code>RequestMethodID</code>&nbsp;- Метод подачи заявки</p>
-</li>
 </ul>
 <p class="ds-markdown-paragraph"><strong>Другие поля</strong>:</p>
 <ul>
+<li>
+<p class="ds-markdown-paragraph"><code>RequestMethodID</code>&nbsp;- Метод подачи заявки</p>
+</li>
+<li>
+<p class="ds-markdown-paragraph"><code>deadline</code>&nbsp;- Крайний срок закрытия</p>
+</li>
 <li>
 <p class="ds-markdown-paragraph"><code>companyID</code>&nbsp;- ID компании-заказчика</p>
 </li>
@@ -70,8 +70,11 @@ Body:
   <span class="token property">"companyID"</span><span class="token operator">:</span> <span class="token number">123</span><span class="token punctuation">,</span>
   <span class="token property">"assetID"</span><span class="token operator">:</span> <span class="token number">456</span><span class="token punctuation">,</span>
   <span class="token property">"workTypeID"</span><span class="token operator">:</span> <span class="token number">7</span><span class="token punctuation">,</span>
+  <span class="token property">"LocationID"</span><span class="token operator">:</span> <span class="token number">5946</span><span class="token punctuation">,</span>
   <span class="token property">"taskTypeID"</span><span class="token operator">:</span> <span class="token number">1</span><span class="token punctuation">,</span>
   <span class="token property">"criticalityID"</span><span class="token operator">:</span> <span class="token number">2</span><span class="token punctuation">,</span>
+  <span class="token property">"RequestMethodID"</span><span class="token operator">:</span> <span class="token number">1</span><span class="token punctuation">,</span>
+  <span class="token property">"deadline"</span><span class="token operator">:</span> <span class="token number">"2025-07-08T15:00:00.000Z"</span><span class="token punctuation">,</span>
   <span class="token property">"Notes"</span><span class="token operator">:</span> <span class="token string">"Не работает принтер в кабинете 301"</span><span class="token punctuation">,</span>
   <span class="token property">"NotesHtml"</span><span class="token operator">:</span> <span class="token string">"&lt;p&gt;Не работает принтер в кабинете 301&lt;/p&gt;&#92;n"</span>
 <span class="token punctuation">}</span></span></pre>

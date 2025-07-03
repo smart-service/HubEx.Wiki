@@ -88,9 +88,6 @@ keywords: API, интеграция, REST API, REST, hubex, хабекс, хуб
 <li>
 <p class="ds-markdown-paragraph"><strong><code>access_token</code></strong>&nbsp;&mdash; используйте его в каждом запросе.</p>
 </li>
-<li>
-<p class="ds-markdown-paragraph"><strong><code>expires_in</code></strong>&nbsp;&mdash; время жизни токена (в секундах, обычно 24 часа).</p>
-</li>
 </ul>
 <hr />
 <h2><strong>4. Отправка первого API-запроса</strong></h2>

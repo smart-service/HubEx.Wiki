@@ -28,7 +28,7 @@ keywords: API, интеграция, REST API, REST, hubex, хабекс, хуб
 <h3><strong>Шаг 1. Создание служебного пользователя</strong></h3>
 <ol start="1">
 <li>
-<p class="ds-markdown-paragraph">Войдите в&nbsp;<strong>админку HubEx</strong>&nbsp;(<code>https://ваш_домен.hubex.ru/admin</code>).</p>
+<p class="ds-markdown-paragraph">Войдите в&nbsp;<strong>админку HubEx</strong>.</p>
 </li>
 <li>
 <p class="ds-markdown-paragraph">Перейдите в раздел:<br /><strong><code>Интеграция &rarr; Служебные пользователи</code></strong>.</p>

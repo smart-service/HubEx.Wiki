@@ -347,6 +347,9 @@ Body:
 <li>
 <p class="ds-markdown-paragraph"><code>AssetClassID</code>&nbsp;- ID класса оборудования</p>
 </li>
+<li>
+<p class="ds-markdown-paragraph"><code>CompanyID</code>&nbsp;- ID компании</p>
+</li>
 </ul>
 <p class="ds-markdown-paragraph"><strong>Пример необязательных полей</strong>:</p>
 <ul>
@@ -380,6 +383,7 @@ Body:
 <p class="ds-markdown-paragraph"><strong>Пример успешного ответа</strong>:</p>
 <div class="md-code-block md-code-block-dark">
 <div class="md-code-block-banner-wrap">&nbsp;</div>
+<p>Status Code : <strong>201 Created</strong></p>
 <pre>
 <span class="token property">{
   "name":"Кондиционер",
@@ -387,6 +391,22 @@ Body:
   }
 </span></pre>
 <p>Где id - это id созданного объекта/оборудования в системе</p>
+<br />
+<p class="ds-markdown-paragraph"><strong>Как получить ID для полей</strong>:</p>
+<ol start="1">
+<li>
+<p class="ds-markdown-paragraph">Компании:&nbsp;<code>GET /fsm/ES/Companies</code></p>
+</li>
+<li>
+<p class="ds-markdown-paragraph">Тип оборудования:&nbsp;<code>GET /fsm/ES/assetTypes</code></p>
+</li>
+<li>
+<p class="ds-markdown-paragraph">Класс оборудования:&nbsp;<code>GET /fsm/ES/assetClasses</code></p>
+</li>
+<li>
+<p class="ds-markdown-paragraph">И так далее, endpoint представлены в SWAGGER. Список сервисов представлен в статье - <a htref="https://wiki.hubex.ru/docs/FAQ/RU/admin/StartIntegrationAPI.html">Начало работы с REST API HubEx</a></p>
+</li>
+</ol>
 <br />
 <h3>Изменение объекта</h3>
 <p class="ds-markdown-paragraph"><strong>Endpoint</strong>:&nbsp;<code>PATCH /fsm/ES/Assets/{assetID}</code></p>

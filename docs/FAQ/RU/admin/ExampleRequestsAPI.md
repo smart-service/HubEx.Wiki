@@ -89,6 +89,7 @@ Body:
   <span class="token property">"number"</span><span class="token operator">:</span> <span class="token string">"0207000000003"</span>
 <span class="token punctuation">}</span></pre>
 </div>
+<br />
 <p class="ds-markdown-paragraph"><strong>Как получить ID для обязательных полей</strong>:</p>
 <ol start="1">
 <li>
@@ -110,6 +111,7 @@ Body:
 <p class="ds-markdown-paragraph">И так далее, endpoint представлены в SWAGGER. Список сервисов представлен в статье - <a htref="https://wiki.hubex.ru/docs/FAQ/RU/admin/StartIntegrationAPI.html">Начало работы с REST API HubEx</a></p>
 </li>
 </ol>
+<hr />
 <h3>Изменение заявки</h3>
 <p class="ds-markdown-paragraph"><strong>Endpoint</strong>:&nbsp;<code>PATCH /fsm/WORK/Tasks/{taskID}</code></p>
 <p class="ds-markdown-paragraph"><strong>Пример запроса</strong>:</p>
@@ -127,6 +129,7 @@ Body:
 <p class="ds-markdown-paragraph"><strong>Пример успешного ответа</strong>:</p>
 <p>Status Code : <strong>202 Accepted</strong></p>
 </div>
+<hr />
 <h3>Изменение дополнительных полей заявки</h3>
 <p class="ds-markdown-paragraph"><strong>Endpoint</strong>:&nbsp;<code>POST fsm/WORK/taskAttributes</code></p>
 <p class="ds-markdown-paragraph"><strong>Пример запроса</strong>:</p>
@@ -158,6 +161,7 @@ Body:
 <p>Status Code : <strong>202 Accepted</strong></p>
 </div>
 <p class="ds-markdown-paragraph">Для получаения списка ID дополнительных полей требуется использовать <strong>Endpoint</strong>:&nbsp;<code>GET fsm/COMMON/Attributes/?isRelevantForTask=true&isDeleted=false</code></p>
+<hr />
 <h3>Работа со стадиями</h3>
 <p class="ds-markdown-paragraph"><strong>Получение списка доступных стадий для заявки</strong>:</p>
 <div class="md-code-block md-code-block-dark">
@@ -165,6 +169,7 @@ Body:
 <pre>GET https://api.hubex.ru/fsm/Tasks/{taskID}/stages/next</pre>
 <p>Где taskID - это id заявки</p>
 </div>
+<br />
 <p class="ds-markdown-paragraph"><strong>Изменение стадии</strong>:</p>
 <div class="md-code-block md-code-block-dark">
 <div class="md-code-block-banner-wrap">&nbsp;</div>
@@ -178,6 +183,17 @@ Body:
   <span class="token property">"taskStageID"</span><span class="token operator">:</span> <span class="token number">5</span>  <span class="token comment">// ID стадии "Отказ заказчика"</span>
 <span class="token punctuation">}</span></span></pre>
 </div>
+<p class="ds-markdown-paragraph"><strong>Пример успешного ответа</strong>:</p>
+<p>Status Code : <strong>201 Created</strong></p>
+<div class="md-code-block md-code-block-dark">
+<pre><span class="token punctuation">{
+  "stageId":5,
+  "isFinalStage":false,
+  "errors":[]
+  }
+</span></pre>
+</div>
+<hr />
 <h3>Комментарии</h3>
 <p class="ds-markdown-paragraph"><strong>Отправка комментария</strong>:</p>
 <div class="md-code-block md-code-block-dark">
@@ -194,6 +210,7 @@ Body:
   }
 </span></pre>
 </div>
+<br />
 <p class="ds-markdown-paragraph"><strong>Получение комментариев</strong>:</p>
 <div class="md-code-block md-code-block-dark">
 <div class="md-code-block-banner-wrap">&nbsp;</div>
@@ -259,6 +276,7 @@ Body:
 ]
 </span></pre>
 </div>
+<hr />
 <h3>Файлы</h3>
 <p class="ds-markdown-paragraph"><strong>Добавление файла</strong>&nbsp;(используйте FormData):</p>
 <div class="md-code-block md-code-block-dark">
@@ -286,6 +304,7 @@ Body:
 }
 </span></pre>
 </div>
+<br />
 <p class="ds-markdown-paragraph"><strong>Получение списка файлов</strong>:</p>
 <div class="md-code-block md-code-block-dark">
 <div class="md-code-block-banner-wrap">&nbsp;</div>
@@ -309,6 +328,7 @@ Body:
 <p class="ds-markdown-paragraph">Для получения миниатюры изображения используйте <strong>"thumbnailUrl"</strong></p>
 <p>Для получения исходного файла используйте <strong>Endpoint</strong>:&nbsp;<code>GET fsm/COMMON/attachments/279?noRedirect=true</code>, где 279 - это id вложения.</p>
 </div>
+<hr />
 <h2>Работа с объектами</h2>
 <h3>Создание объекта</h3>
 <p class="ds-markdown-paragraph"><strong>Endpoint</strong>:&nbsp;<code>POST /fsm/ES/Assets</code></p>

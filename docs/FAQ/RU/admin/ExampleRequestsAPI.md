@@ -107,6 +107,9 @@ Body:
 <p class="ds-markdown-paragraph">Критичность:&nbsp;<code>GET /fsm/SLA/Criticalities</code></p>
 </li>
 <li>
+<p class="ds-markdown-paragraph">Адрес:&nbsp;<code>POST fsm/ES/locations</code>, или использовать адрес из Объекта</p>
+</li>
+<li>
 <p class="ds-markdown-paragraph">И так далее, endpoint представлены в SWAGGER. Список сервисов представлен в статье - <a htref="https://wiki.hubex.ru/docs/FAQ/RU/admin/StartIntegrationAPI.html">Начало работы с REST API HubEx</a></p>
 </li>
 </ol>

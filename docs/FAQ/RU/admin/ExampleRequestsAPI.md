@@ -124,6 +124,8 @@ Body:
   <span class="token property">"companyID"</span><span class="token operator">:</span> <span class="token string">17</span><span class="token punctuation">,</span>
   <span class="token property">"deadline"</span><span class="token operator">:</span> <span class="token string">"2025-07-10T14:08:00.000Z"</span>
 <span class="token punctuation">}</span></span></pre>
+<p class="ds-markdown-paragraph"><strong>Пример успешного ответа</strong>:</p>
+<p>Status Code : <strong>202 Accepted</strong></p>
 </div>
 <h3>Изменение дополнительных полей заявки</h3>
 <p class="ds-markdown-paragraph"><strong>Endpoint</strong>:&nbsp;<code>POST fsm/WORK/taskAttributes</code></p>
@@ -152,6 +154,8 @@ Body:
   }]
 }]
 </span></pre>
+<p class="ds-markdown-paragraph"><strong>Пример успешного ответа</strong>:</p>
+<p>Status Code : <strong>202 Accepted</strong></p>
 </div>
 <p class="ds-markdown-paragraph">Для получаения списка ID дополнительных полей требуется использовать <strong>Endpoint</strong>:&nbsp;<code>GET fsm/COMMON/Attributes/?isRelevantForTask=true&isDeleted=false</code></p>
 <h3>Работа со стадиями</h3>

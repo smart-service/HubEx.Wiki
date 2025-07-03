@@ -28,13 +28,13 @@ keywords: API, интеграция, REST API, REST, hubex, хабекс, хуб
 <p class="ds-markdown-paragraph"><code>TaskTypeID</code>&nbsp;- ID типа заявки</p>
 </li>
 <li>
-<p class="ds-markdown-paragraph"><code>CriticalityID</code>&nbsp;- ID критичности</p>
+<p class="ds-markdown-paragraph"><code>RequestMethodID</code>&nbsp;- Метод подачи заявки</p>
 </li>
 </ul>
 <p class="ds-markdown-paragraph"><strong>Другие поля</strong>:</p>
 <ul>
 <li>
-<p class="ds-markdown-paragraph"><code>RequestMethodID</code>&nbsp;- Метод подачи заявки</p>
+<p class="ds-markdown-paragraph"><code>CriticalityID</code>&nbsp;- ID критичности</p>
 </li>
 <li>
 <p class="ds-markdown-paragraph"><code>deadline</code>&nbsp;- Крайний срок закрытия</p>
@@ -89,7 +89,7 @@ Body:
 <span class="token punctuation">}</span></pre>
 </div>
 <br />
-<p class="ds-markdown-paragraph"><strong>Как получить ID для обязательных полей</strong>:</p>
+<p class="ds-markdown-paragraph"><strong>Как получить ID для полей</strong>:</p>
 <ol start="1">
 <li>
 <p class="ds-markdown-paragraph">Компании:&nbsp;<code>GET /fsm/ES/Companies</code></p>

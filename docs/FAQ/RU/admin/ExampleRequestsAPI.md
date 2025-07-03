@@ -409,7 +409,7 @@ Body:
 </ol>
 <br />
 <h3>Изменение объекта</h3>
-<p class="ds-markdown-paragraph"><strong>Endpoint</strong>:&nbsp;<code>PATCH /fsm/ES/Assets/{assetID}</code></p>
+<p class="ds-markdown-paragraph"><strong>Endpoint</strong>:&nbsp;<code>PUT /fsm/ES/Assets/{assetID}</code></p>
 <p class="ds-markdown-paragraph"><strong>Пример запроса</strong>:</p>
 <div class="md-code-block md-code-block-dark">
 <div class="md-code-block-banner-wrap">&nbsp;</div>
@@ -418,11 +418,20 @@ Headers:
   Authorization: Bearer YOUR_ACCESS_TOKEN
   Content-Type: application/json
 Body:
-<span class="token application-json"><span class="token punctuation">{</span>
-  <span class="token property">"warrantyTill"</span><span class="token operator">:</span> <span class="token string">"2025-12-31"</span><span class="token punctuation">,</span>
-  <span class="token property">"status"</span><span class="token operator">:</span> <span class="token string">"В эксплуатации"</span>
-<span class="token punctuation">}</span></span></pre>
+<span class="token application-json">{
+"Name":"Кондиционер",
+"CompanyID":19,
+"AssetTypeID":1,
+"AssetClassID":1,
+"IsMobileAsset":false,
+"IsInheritParentDistricts":false,
+"IsAutoPublish":true,
+"Notes":"Объект установлен в правом углу помещения!"
+}
+</span></pre>
 </div>
+<p>Обратите внимание, что для изменения объекта используется метод PUT, который обновляет все поля по объекту, в связи с этим для изменения объекта требуется передавать все поля с текущим значением + а поле, которое планируется поменять уже с новым значением.</p>
+<hr />
 <h3>Публикация объекта</h3>
 <p class="ds-markdown-paragraph"><strong>Endpoint</strong>:&nbsp;<code>POST /fsm/ES/Assets/{assetID}/publish</code></p>
 <p class="ds-markdown-paragraph"><strong>Пример запроса</strong>:</p>

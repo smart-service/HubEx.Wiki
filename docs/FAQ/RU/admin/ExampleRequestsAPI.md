@@ -9,20 +9,16 @@ keywords: API, интеграция, REST API, REST, hubex, хабекс, хуб
 <body>
 <h1>Примеры API запросов в HubEx для реализации интеграции</h1>
 <h2>Содержание</h2>
-<ol start="1">
-<li>
-<p class="ds-markdown-paragraph"><a target="_blank" rel="noreferrer">Работа с заявками</a></p>
-</li>
-<li>
-<p class="ds-markdown-paragraph"><a target="_blank" rel="noreferrer">Работа с объектами</a></p>
-</li>
-<li>
-<p class="ds-markdown-paragraph"><a target="_blank" rel="noreferrer">Работа с компаниями</a></p>
-</li>
-<li>
-<p class="ds-markdown-paragraph"><a target="_blank" rel="noreferrer">Работа с пользователями</a></p>
-</li>
-</ol>
+<nav>
+  <ul>
+    <li><a href="#section1">Работа с заявками</a></li>
+    <li><a href="#section2">Работа с объектами</a></li>
+    <li><a href="#section3">Работа с компаниями</a></li>
+    <li><a href="#section4">Работа с пользователями</a></li>
+  </ul>
+</nav>
+<hr />
+<section id="section1">
 <h2>Работа с заявками</h2>
 <h3>Создание заявки</h3>
 <p class="ds-markdown-paragraph"><strong>Endpoint</strong>:&nbsp;<code>POST /fsm/WORK/Tasks</code></p>
@@ -328,7 +324,9 @@ Body:
 <p class="ds-markdown-paragraph">Для получения миниатюры изображения используйте <strong>"thumbnailUrl"</strong></p>
 <p>Для получения исходного файла используйте <strong>Endpoint</strong>:&nbsp;<code>GET fsm/COMMON/attachments/279?noRedirect=true</code>, где 279 - это id вложения.</p>
 </div>
+</section>
 <hr />
+<section id="section2">
 <h2>Работа с объектами</h2>
 <h3>Создание объекта</h3>
 <p class="ds-markdown-paragraph"><strong>Endpoint</strong>:&nbsp;<code>POST /fsm/ES/Assets</code></p>
@@ -371,6 +369,10 @@ Body:
 Headers:
   Authorization: Bearer YOUR_ACCESS_TOKEN</pre>
 </div>
+</section>
+<hr />
+<br />
+<section id="section3">
 <h2>Работа с компаниями</h2>
 <h3>Создание компании</h3>
 <p class="ds-markdown-paragraph"><strong>Endpoint</strong>:&nbsp;<code>POST /fsm/ES/Companies</code></p>
@@ -404,6 +406,10 @@ Body:
   <span class="token property">"email"</span><span class="token operator">:</span> <span class="token string">"info@technoprom.ru"</span>
 <span class="token punctuation">}</span></span></pre>
 </div>
+</section>
+<hr />
+<br />
+<section id="section4">
 <h2>Работа с пользователями</h2>
 <h3>Создание пользователя</h3>
 <p class="ds-markdown-paragraph"><strong>Endpoint</strong>:&nbsp;<code>POST /fsm/ADM/Users</code></p>

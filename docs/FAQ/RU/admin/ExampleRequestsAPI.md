@@ -58,7 +58,7 @@ keywords: API, интеграция, REST API, REST, hubex, хабекс, хуб
 <p class="ds-markdown-paragraph"><code>NotesHtml</code>&nbsp;- описание заявки - с html тегами (используется для отображения в заявке)</p>
 </li>
 </ul>
-<p>Тип полей можно посмотреть в SWAGGER. Список сервисов представлен в статье - <a htref="https://wiki.hubex.ru/docs/FAQ/RU/admin/StartIntegrationAPI.html">Начало работы с REST API HubEx</a></p>
+<p>Полный перечень полей, а также их тип, можно посмотреть в SWAGGER. Список сервисов представлен в статье - <a htref="https://wiki.hubex.ru/docs/FAQ/RU/admin/StartIntegrationAPI.html">Начало работы с REST API HubEx</a></p>
 <p class="ds-markdown-paragraph"><strong>Пример запроса</strong>:</p>
 <div class="md-code-block md-code-block-dark">
 <pre>POST https://api.hubex.ru/fsm/WORK/Tasks
@@ -330,6 +330,28 @@ Body:
 <h2>Работа с объектами</h2>
 <h3>Создание объекта</h3>
 <p class="ds-markdown-paragraph"><strong>Endpoint</strong>:&nbsp;<code>POST /fsm/ES/Assets</code></p>
+<p class="ds-markdown-paragraph"><strong>Обязательные поля</strong>:</p>
+<ul>
+<li>
+<p class="ds-markdown-paragraph"><code>Name</code>&nbsp;- Имя объекта/оборудования</p>
+</li>
+<li>
+<p class="ds-markdown-paragraph"><code>AssetTypeID</code>&nbsp;- ID типа оборудования</p>
+</li>
+<li>
+<p class="ds-markdown-paragraph"><code>AssetClassID</code>&nbsp;- ID класса оборудования</p>
+</li>
+</ul>
+<p class="ds-markdown-paragraph"><strong>Пример необязательных полей</strong>:</p>
+<ul>
+<li>
+<p class="ds-markdown-paragraph"><code>IsAutoPublish</code>&nbsp;- Признак публикации объекта</p>
+</li>
+<li>
+<p class="ds-markdown-paragraph"><code>IsMobileAsset</code>&nbsp;- Признак "Мобильное оборудование"</p>
+</li>
+</ul>
+<p>Полный перечень полей, а также их тип, можно посмотреть в SWAGGER. Список сервисов представлен в статье - <a htref="https://wiki.hubex.ru/docs/FAQ/RU/admin/StartIntegrationAPI.html">Начало работы с REST API HubEx</a></p>
 <p class="ds-markdown-paragraph"><strong>Пример запроса</strong>:</p>
 <div class="md-code-block md-code-block-dark">
 <div class="md-code-block-banner-wrap">&nbsp;</div>
@@ -338,12 +360,16 @@ Headers:
   Authorization: Bearer YOUR_ACCESS_TOKEN
   Content-Type: application/json
 Body:
-<span class="token application-json"><span class="token punctuation">{</span>
-  <span class="token property">"name"</span><span class="token operator">:</span> <span class="token string">"Принтер HP LaserJet Pro"</span><span class="token punctuation">,</span>
-  <span class="token property">"assetTypeID"</span><span class="token operator">:</span> <span class="token number">3</span><span class="token punctuation">,</span>
-  <span class="token property">"serialNumber"</span><span class="token operator">:</span> <span class="token string">"ABC123456"</span><span class="token punctuation">,</span>
-  <span class="token property">"locationID"</span><span class="token operator">:</span> <span class="token number">10</span>
-<span class="token punctuation">}</span></span></pre>
+<span class="token application-json">{
+"Name":"Кондиционер",
+"CompanyID":19,
+"AssetTypeID":1,
+"AssetClassID":1,
+"IsMobileAsset":false,
+"IsInheritParentDistricts":false,
+"IsAutoPublish":true
+}
+</span></pre>
 </div>
 <h3>Изменение объекта</h3>
 <p class="ds-markdown-paragraph"><strong>Endpoint</strong>:&nbsp;<code>PATCH /fsm/ES/Assets/{assetID}</code></p>

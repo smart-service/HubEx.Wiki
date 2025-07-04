@@ -75,6 +75,7 @@
 Раздел интеграция позволит настроить вам связь с Битрикс 24, с различными почтовыми клиентами. Также здесь вы найдете настройки служебных учетных записей, которые необходимы для интеграции с внешними системами и подачи заявок незарегистрированными пользователями.
 <h4 style="padding-left: 20px;"><a href="/docs/FAQ/RU/admin//RESTAPI.html">Что такое REST API и как он работает?</a></h4>
 <h4 style="padding-left: 20px;"><a href="/docs/FAQ/RU/admin//StartIntegrationAPI.html">Начало работы с интеграцией API HubEx</a></h4>
+<h4 style="padding-left: 20px;"><a href="/docs/FAQ/RU/admin//ExampleRequestsAPI.html">Примеры API запросов в HubEx для реализации интеграции</a></h4>
 <h4 style="padding-left: 20px;"><a href="/docs/FAQ/RU/admin/ServiceUsers.html">Служебные пользователи</a></h4>
 <h4 style="padding-left: 20px;"><a href="/docs/FAQ/RU/admin/TicketMail.html">Интеграция по электронной почте, подача заявок по электронной почте</a></h4>
 <h4 style="padding-left: 20px;"><a href="/docs/FAQ/RU/admin/Integration.html">Интеграция с Битрикс24 через сервис Albato</a></h4>

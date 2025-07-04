@@ -6,7 +6,7 @@ keywords: API, интеграция, REST API, REST, hubex, хабекс, хуб
 
 <html lang="ru">
 <head>
-<meta charset="utf-8">
+<meta charset="utf-8" />
 </head>
 <body>
 <h1>Примеры API запросов в HubEx для реализации интеграции</h1>
@@ -409,6 +409,7 @@ Body:
 <p class="ds-markdown-paragraph">И так далее, endpoint представлены в SWAGGER. Список сервисов представлен в статье - <a href="https://wiki.hubex.ru/docs/FAQ/RU/admin/StartIntegrationAPI.html">Начало работы с REST API HubEx</a></p>
 </li>
 </ol>
+</div>
 <br />
 <h3>Изменение объекта</h3>
 <p class="ds-markdown-paragraph"><strong>Endpoint</strong>:&nbsp;<code>PUT /fsm/ES/Assets/{assetID}</code></p>

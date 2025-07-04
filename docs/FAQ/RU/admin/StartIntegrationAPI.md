@@ -239,5 +239,4 @@ response <span class="token operator">=</span> requests<span class="token punctu
 ____
 ### Следующие шаги:
 - [Примеры API запросов в HubEx для реализации интеграции](./ExampleRequestsAPI.md)
-____
 - [Перейти в меню](http://wiki.hubex.ru)

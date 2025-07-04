@@ -611,39 +611,67 @@ Body:
 <hr />
 <br />
 <h3>Изменение пользователя</h3>
-<p class="ds-markdown-paragraph"><strong>Endpoint</strong>:&nbsp;<code>PATCH /fsm/ADM/Users/{userID}</code></p>
+<p class="ds-markdown-paragraph"><strong>Endpoint</strong>:&nbsp;<code>PUT /fsm/ADM/Users/{userID}</code></p>
 <p class="ds-markdown-paragraph"><strong>Пример запроса</strong>:</p>
 <div class="md-code-block md-code-block-dark">
 <div class="md-code-block-banner-wrap">&nbsp;</div>
-<pre>PATCH https://api.hubex.ru/fsm/ADM/Users/42
+<pre>PUT https://api.hubex.ru/fsm/ADM/Users/171/
 Headers:
   Authorization: Bearer YOUR_ACCESS_TOKEN
   Content-Type: application/json
 Body:
-<span class="token application-json"><span class="token punctuation">{</span>
-  <span class="token property">"departmentID"</span><span class="token operator">:</span> <span class="token number">15</span><span class="token punctuation">,</span>
-  <span class="token property">"position"</span><span class="token operator">:</span> <span class="token string">"Старший менеджер"</span>
-<span class="token punctuation">}</span></span></pre>
+<span class="token application-json">{
+  "firstName":"Павел",
+  "lastName":"Кулибин",
+  "middleName":"Сергеевич",
+  "sexID":1,
+  "oldEmail":"kulibin@mail.ru",
+  "email":"kulibin@mail.ru",
+  "geotrackingModeID":"1",
+  "isTechnician":true,
+  "mobilityID":1,
+  "rate":null,
+  "rateCurrencyID":1
+}
+</span></pre>
 </div>
+<p class="ds-markdown-paragraph"><strong>Пример успешного ответа</strong>:</p>
+<p>Status Code : <strong>202 Accepted</strong></p>
+<p>Обратите внимание, что для изменения сотрудника используется метод <strong>PUT</strong>, который обновляет <strong>все поля</strong> по сотруднику, в связи с этим для изменение сотрудника <strong>требуется передавать все поля</strong> с текущим значением + поле, которое планируется поменять, уже с новым значением.</p>
+<hr />
+<br />
 <h3>Блокировка пользователя</h3>
-<p class="ds-markdown-paragraph"><strong>Endpoint</strong>:&nbsp;<code>POST /fsm/ADM/Users/{userID}/ban</code></p>
+<p class="ds-markdown-paragraph"><strong>Endpoint</strong>:&nbsp;<code>POST /fsm/ADM/Users/{userID}/</code></p>
 <p class="ds-markdown-paragraph"><strong>Пример запроса</strong>:</p>
 <div class="md-code-block md-code-block-dark">
 <div class="md-code-block-banner-wrap">&nbsp;</div>
-<pre>POST https://api.hubex.ru/fsm/ADM/Users/42/ban
+<pre>PUT https://api.hubex.ru/fsm/ADM/Users/171/
 Headers:
   Authorization: Bearer YOUR_ACCESS_TOKEN
   Content-Type: application/json
 Body:
-<span class="token application-json"><span class="token punctuation">{</span>
-  <span class="token property">"reason"</span><span class="token operator">:</span> <span class="token string">"Увольнение"</span><span class="token punctuation">,</span>
-  <span class="token property">"comment"</span><span class="token operator">:</span> <span class="token string">"Уволен 20.05.2023"</span>
-<span class="token punctuation">}</span></span></pre>
-</div>
-<p class="ds-markdown-paragraph"><strong>Разблокировка</strong>:</p>
-<div class="md-code-block md-code-block-dark">
-<div class="md-code-block-banner-wrap">&nbsp;</div>
-<pre>POST https://api.hubex.ru/fsm/ADM/Users/42/unban</pre>
+<span class="token application-json">{
+  "firstName":"Павел",
+  "lastName":"Кулибин",
+  "middleName":"Сергеевич",
+  "sexID":1,
+  "oldEmail":"kulibin@mail.ru",
+  "email":"kulibin@mail.ru",
+  "geotrackingModeID":"1",
+  "isTechnician":true,
+  "mobilityID":1,
+  "banReasonID":"1",
+  "banTill":"9999-12-30T20:59:00",
+  "rate":null,
+  "rateCurrencyID":1
+}
+</span></pre>
+<p class="ds-markdown-paragraph"><strong>Пример успешного ответа</strong>:</p>
+<p>Status Code : <strong>202 Accepted</strong></p>
+<p>Обратите внимание, что для изменения сотрудника используется метод <strong>PUT</strong>, который обновляет <strong>все поля</strong> по сотруднику, в связи с этим для изменение сотрудника <strong>требуется передавать все поля</strong> с текущим значением + поле, которое планируется поменять, уже с новым значением.</p>
+<p>Где, <strong>"banReasonID"</strong> - это признак блокировки пользователя, а <strong>"banTill"</strong> - дата, до которой пользователь будет заблокирован (в примере - навсегда).</p>
+<hr />
+<br />
 </div>
 </section>
 </body>

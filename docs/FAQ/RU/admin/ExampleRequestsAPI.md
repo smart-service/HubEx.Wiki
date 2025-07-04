@@ -584,15 +584,32 @@ Headers:
   Authorization: Bearer YOUR_ACCESS_TOKEN
   Content-Type: application/json
 Body:
-<span class="token application-json"><span class="token punctuation">{</span>
-  <span class="token property">"login"</span><span class="token operator">:</span> <span class="token string">"a.ivanov"</span><span class="token punctuation">,</span>
-  <span class="token property">"firstName"</span><span class="token operator">:</span> <span class="token string">"Алексей"</span><span class="token punctuation">,</span>
-  <span class="token property">"lastName"</span><span class="token operator">:</span> <span class="token string">"Иванов"</span><span class="token punctuation">,</span>
-  <span class="token property">"email"</span><span class="token operator">:</span> <span class="token string">"a.ivanov@company.com"</span><span class="token punctuation">,</span>
-  <span class="token property">"phone"</span><span class="token operator">:</span> <span class="token string">"+79031234567"</span><span class="token punctuation">,</span>
-  <span class="token property">"roles"</span><span class="token operator">:</span> <span class="token punctuation">[</span><span class="token number">5</span><span class="token punctuation">,</span> <span class="token number">7</span><span class="token punctuation">]</span>  <span class="token comment">// ID ролей пользователя</span>
-<span class="token punctuation">}</span></span></pre>
+<span class="token application-json">{
+  "firstName":"Павел",
+  "lastName":"Кулибин",
+  "sexID":"1",
+  "email":"kulibin@mail.ru",
+  "geotrackingModeID":"1",
+  "isTechnician":true,
+  "mobilityID":1,
+  "rate":null,
+  "rateCurrencyID":1
+}
+</span></pre>
 </div>
+<p class="ds-markdown-paragraph"><strong>Пример успешного ответа</strong>:</p>
+<p>Status Code : <strong>201 Created</strong></p>
+<p class="ds-markdown-paragraph"><strong>Дополнительно, требуется еще сделать запросы:</strong>:</p>
+<ol start="1">
+<li>
+<p class="ds-markdown-paragraph">Назначение роли пользователю:&nbsp;<code>POST fsm/ADM/UserRoles/</code></p>
+</li>
+<li>
+<p class="ds-markdown-paragraph">Назначение участков пользователю:&nbsp;<code>POST /fsm/ADM/UserDistricts/</code></p>
+</li>
+</ol>
+<hr />
+<br />
 <h3>Изменение пользователя</h3>
 <p class="ds-markdown-paragraph"><strong>Endpoint</strong>:&nbsp;<code>PATCH /fsm/ADM/Users/{userID}</code></p>
 <p class="ds-markdown-paragraph"><strong>Пример запроса</strong>:</p>

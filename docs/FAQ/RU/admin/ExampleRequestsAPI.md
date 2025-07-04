@@ -430,17 +430,19 @@ Body:
 }
 </span></pre>
 </div>
-<p>Обратите внимание, что для изменения объекта используется метод PUT, который обновляет все поля по объекту, в связи с этим для изменения объекта требуется передавать все поля с текущим значением + поле, которое планируется поменять, уже с новым значением.</p>
+<p>Обратите внимание, что для изменения объекта используется метод <strong>PUT</strong>, который обновляет <strong>все поля</strong> по объекту, в связи с этим для изменения объекта <strong>требуется передавать все поля</strong> с текущим значением + поле, которое планируется поменять, уже с новым значением.</p>
 <hr />
 <h3>Публикация объекта</h3>
-<p class="ds-markdown-paragraph"><strong>Endpoint</strong>:&nbsp;<code>POST /fsm/ES/Assets/{assetID}/publish</code></p>
+<p class="ds-markdown-paragraph"><strong>Endpoint</strong>:&nbsp;<code>PUT /fsm/ES/Assets/{assetID}/publish</code></p>
 <p class="ds-markdown-paragraph"><strong>Пример запроса</strong>:</p>
 <div class="md-code-block md-code-block-dark">
 <div class="md-code-block-banner-wrap">&nbsp;</div>
-<pre>POST https://api.hubex.ru/fsm/ES/Assets/456/publish
+<pre>PUT https://api.hubex.ru/fsm/ES/Assets/456/publish
 Headers:
   Authorization: Bearer YOUR_ACCESS_TOKEN</pre>
 </div>
+<p class="ds-markdown-paragraph"><strong>Пример успешного ответа</strong>:</p>
+<p>Status Code : <strong>201 Created</strong></p>
 </section>
 <hr />
 <br />

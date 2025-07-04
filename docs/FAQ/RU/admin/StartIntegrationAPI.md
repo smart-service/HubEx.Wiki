@@ -236,6 +236,8 @@ response <span class="token operator">=</span> requests<span class="token punctu
 <p class="ds-markdown-paragraph">Теперь вы можете интегрировать HubEx с CRM, 1С, Telegram-ботами и другими системами. Если возникнут вопросы &mdash; обратитесь в поддержку HubEx.</p>
 </body>
 </html>
-
+____
+### Следующие шаги:
+- [Примеры API запросов в HubEx для реализации интеграции](./ExampleRequestsAPI.md)
 ____
 - [Перейти в меню](http://wiki.hubex.ru)

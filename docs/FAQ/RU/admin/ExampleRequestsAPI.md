@@ -5,7 +5,9 @@ keywords: API, интеграция, REST API, REST, hubex, хабекс, хуб
 ---
 
 <html lang="ru">
+<head>
 <meta charset="utf-8">
+</head>
 <body>
 <h1>Примеры API запросов в HubEx для реализации интеграции</h1>
 <h2>Содержание</h2>
@@ -58,7 +60,7 @@ keywords: API, интеграция, REST API, REST, hubex, хабекс, хуб
 <p class="ds-markdown-paragraph"><code>NotesHtml</code>&nbsp;- описание заявки - с html тегами (используется для отображения в заявке)</p>
 </li>
 </ul>
-<p>Полный перечень полей, а также их тип, можно посмотреть в SWAGGER. Список сервисов представлен в статье - <a htref="https://wiki.hubex.ru/docs/FAQ/RU/admin/StartIntegrationAPI.html">Начало работы с REST API HubEx</a></p>
+<p>Полный перечень полей, а также их тип, можно посмотреть в SWAGGER. Список сервисов представлен в статье - <a href="https://wiki.hubex.ru/docs/FAQ/RU/admin/StartIntegrationAPI.html">Начало работы с REST API HubEx</a></p>
 <p class="ds-markdown-paragraph"><strong>Пример запроса</strong>:</p>
 <div class="md-code-block md-code-block-dark">
 <pre>POST https://api.hubex.ru/fsm/WORK/Tasks
@@ -110,7 +112,7 @@ Body:
 <p class="ds-markdown-paragraph">Адрес:&nbsp;<code>POST fsm/ES/locations</code>, или использовать адрес из Объекта</p>
 </li>
 <li>
-<p class="ds-markdown-paragraph">И так далее, endpoint представлены в SWAGGER. Список сервисов представлен в статье - <a htref="https://wiki.hubex.ru/docs/FAQ/RU/admin/StartIntegrationAPI.html">Начало работы с REST API HubEx</a></p>
+<p class="ds-markdown-paragraph">И так далее, endpoint представлены в SWAGGER. Список сервисов представлен в статье - <a href="https://wiki.hubex.ru/docs/FAQ/RU/admin/StartIntegrationAPI.html">Начало работы с REST API HubEx</a></p>
 </li>
 </ol>
 <hr />
@@ -360,7 +362,7 @@ Body:
 <p class="ds-markdown-paragraph"><code>IsMobileAsset</code>&nbsp;- Признак "Мобильное оборудование"</p>
 </li>
 </ul>
-<p>Полный перечень полей, а также их тип, можно посмотреть в SWAGGER. Список сервисов представлен в статье - <a htref="https://wiki.hubex.ru/docs/FAQ/RU/admin/StartIntegrationAPI.html">Начало работы с REST API HubEx</a></p>
+<p>Полный перечень полей, а также их тип, можно посмотреть в SWAGGER. Список сервисов представлен в статье - <a href="https://wiki.hubex.ru/docs/FAQ/RU/admin/StartIntegrationAPI.html">Начало работы с REST API HubEx</a></p>
 <p class="ds-markdown-paragraph"><strong>Пример запроса</strong>:</p>
 <div class="md-code-block md-code-block-dark">
 <div class="md-code-block-banner-wrap">&nbsp;</div>
@@ -404,7 +406,7 @@ Body:
 <p class="ds-markdown-paragraph">Класс оборудования:&nbsp;<code>GET /fsm/ES/assetClasses</code></p>
 </li>
 <li>
-<p class="ds-markdown-paragraph">И так далее, endpoint представлены в SWAGGER. Список сервисов представлен в статье - <a htref="https://wiki.hubex.ru/docs/FAQ/RU/admin/StartIntegrationAPI.html">Начало работы с REST API HubEx</a></p>
+<p class="ds-markdown-paragraph">И так далее, endpoint представлены в SWAGGER. Список сервисов представлен в статье - <a href="https://wiki.hubex.ru/docs/FAQ/RU/admin/StartIntegrationAPI.html">Начало работы с REST API HubEx</a></p>
 </li>
 </ol>
 <br />
@@ -443,8 +445,8 @@ Headers:
 </div>
 <p class="ds-markdown-paragraph"><strong>Пример успешного ответа</strong>:</p>
 <p>Status Code : <strong>201 Created</strong></p>
-</section>
 <hr />
+</section>
 <br />
 <section id="section3">
 <h2>Работа с компаниями</h2>

@@ -445,7 +445,7 @@ Headers:
   Authorization: Bearer YOUR_ACCESS_TOKEN</pre>
 </div>
 <p class="ds-markdown-paragraph"><strong>Пример успешного ответа</strong>:</p>
-<p>Status Code : <strong>201 Created</strong></p>
+<p>Status Code : <strong>202 Accepted</strong></p>
 <hr />
 </section>
 <br />
@@ -461,28 +461,113 @@ Headers:
   Authorization: Bearer YOUR_ACCESS_TOKEN
   Content-Type: application/json
 Body:
-<span class="token application-json"><span class="token punctuation">{</span>
-  <span class="token property">"name"</span><span class="token operator">:</span> <span class="token string">"ООО ТехноПром"</span><span class="token punctuation">,</span>
-  <span class="token property">"legalName"</span><span class="token operator">:</span> <span class="token string">"Общество с ограниченной ответственностью ТехноПром"</span><span class="token punctuation">,</span>
-  <span class="token property">"inn"</span><span class="token operator">:</span> <span class="token string">"1234567890"</span><span class="token punctuation">,</span>
-  <span class="token property">"kpp"</span><span class="token operator">:</span> <span class="token string">"987654321"</span>
-<span class="token punctuation">}</span></span></pre>
+<span class="token application-json">[
+  {
+  "isEmployer":true,
+  "registrationTypeID":"3",
+  "name":"ПАО Ретроспектива"
+  }
+]
+</span></pre>
+</div>
+<p class="ds-markdown-paragraph"><strong>Пример успешного ответа</strong>:</p>
+<p>Status Code : <strong>201 Created</strong></p>
+<pre>
+<span class="token property">[
+  21
+]
+</span></pre>
+<p>Где 21 - id созданной компании</p>
+<p class="ds-markdown-paragraph"><strong>Как получить ID для полей</strong>:</p>
+<ol start="1">
+<li>
+<p class="ds-markdown-paragraph">Тип компании:&nbsp;<code>GET fsm/ES/CompanyRegistrationTypes/</code></p>
+</li>
+<li>
+<p class="ds-markdown-paragraph">Список банков:&nbsp;<code>GET /fsm/COMMON/banks/</code></p>
+</li>
+<li>
+<p class="ds-markdown-paragraph">Список контактов тенанта:&nbsp;<code>GET /fsm/COMMON/Contacts/?isDeleted=false</code></p>
+</li>
+<li>
+<p class="ds-markdown-paragraph">И так далее, endpoint представлены в SWAGGER. Список сервисов представлен в статье - <a href="https://wiki.hubex.ru/docs/FAQ/RU/admin/StartIntegrationAPI.html">Начало работы с REST API HubEx</a></p>
+</li>
+</ol>
 </div>
 <h3>Изменение компании</h3>
-<p class="ds-markdown-paragraph"><strong>Endpoint</strong>:&nbsp;<code>PATCH /fsm/ES/Companies/{companyID}</code></p>
+<p class="ds-markdown-paragraph"><strong>Endpoint</strong>:&nbsp;<code>PUT /fsm/ES/Companies/</code></p>
 <p class="ds-markdown-paragraph"><strong>Пример запроса</strong>:</p>
 <div class="md-code-block md-code-block-dark">
 <div class="md-code-block-banner-wrap">&nbsp;</div>
-<pre>PATCH https://api.hubex.ru/fsm/ES/Companies/123
+<pre>PUT https://api.hubex.ru/fsm/ES/Companies/
 Headers:
   Authorization: Bearer YOUR_ACCESS_TOKEN
   Content-Type: application/json
 Body:
-<span class="token application-json"><span class="token punctuation">{</span>
-  <span class="token property">"phone"</span><span class="token operator">:</span> <span class="token string">"+7 (495) 123-45-67"</span><span class="token punctuation">,</span>
-  <span class="token property">"email"</span><span class="token operator">:</span> <span class="token string">"info@technoprom.ru"</span>
-<span class="token punctuation">}</span></span></pre>
+<span class="token application-json">[
+  {
+  "id":19,
+  "name":"ОАО \"Информ-бюро\"",
+  "customerOrgUnit":{
+    "name":"Клиенты",
+    "id":56},
+  "staffOrgUnit":{
+    "name":"Сотрудники",
+    "id":57
+    },
+  "fullName":"ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"ВИЛМИ\"",
+  "iec":"7896788",
+  "isContractorHolder":false,
+  "isEmployer":true,
+  "isOurCompany":false,
+  "psrn":"2131232131231",
+  "okpo":"3214234231423234",
+  "registeredOffice":"109428, г Москва, Рязанский р-н, ул 2-я Институтская, д 2/10, кв 19",
+  "registeredOfficeNote":"Офисное здание",
+  "tin":"543643566",
+  "location":{
+    "dateFrom":"2025-06-03T12:43:20",
+    "dateTill":"9999-12-31T23:59:59",
+    "timezoneUtcOffsetMinutes":180,
+    "timezoneID":2,
+    "countryID":182,
+    "countryTwoSymbolCode":"RU",
+    "address":"5-я линия Васильевского острова, 20, Санкт-Петербург, Россия",
+    "coordinate":"59.940833:30.283763",
+    "id":3434
+    },
+  "fileList":[],
+  "files":[],
+  "contacts":[],
+  "registrationTypeID":3,
+  "bankAccounts":[{
+    "companyID":19,
+    "bank":{
+      "id":3,
+      "name":"ПАО Банк \"ФК Открытие\"",
+      "bic":"555433434",
+      "correspondingAccount":"423563400450344"
+      },
+    "companyBankAccountID":1,
+    "checkingAccount":"25436645344545",
+    "companyName":"ОАО \"Информ-бюро\"",
+    "currency":{
+      "id":1,
+      "shortName":"Рубль",
+      "asciiCode":"%E2%82%BD"
+      },
+    "isDefault":true,
+    "id":3,
+    "name":"ПАО Банк \"ФК Открытие\"",
+    "bic":"43545555",
+    "correspondingAccount":"547721346743567"
+    }],
+  "checkingAccount":"437775676565455"
+]
+</span></pre>
 </div>
+<p class="ds-markdown-paragraph"><strong>Пример успешного ответа</strong>:</p>
+<p>Status Code : <strong>202 Accepted</strong></p>
 </section>
 <hr />
 <br />

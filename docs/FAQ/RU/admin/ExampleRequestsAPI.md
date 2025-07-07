@@ -23,6 +23,7 @@ keywords: API, интеграция, REST API, REST, hubex, хабекс, хуб
 <section id="section1">
 <h2>Работа с заявками</h2>
 <h3>Создание заявки</h3>
+<p>Создадим заявку, укажем "Компания-заказчик", выберем оборудование, вид работ, укажем адрес по заявке, тип заявки, откуда была подана заявка, укажем критичность заявки, крайний срок закрытия и заполним описание по заявке.
 <p class="ds-markdown-paragraph"><strong>Endpoint</strong>:&nbsp;<code>POST /fsm/WORK/Tasks</code></p>
 <p class="ds-markdown-paragraph"><strong>Обязательные поля</strong>:</p>
 <ul>
@@ -30,7 +31,7 @@ keywords: API, интеграция, REST API, REST, hubex, хабекс, хуб
 <p class="ds-markdown-paragraph"><code>TaskTypeID</code>&nbsp;- ID типа заявки</p>
 </li>
 <li>
-<p class="ds-markdown-paragraph"><code>RequestMethodID</code>&nbsp;- Метод подачи заявки</p>
+<p class="ds-markdown-paragraph"><code>RequestMethodID</code>&nbsp;- Метод подачи заявки. Для интеграции рекомендуется использовать значение "4".</p>
 </li>
 </ul>
 <p class="ds-markdown-paragraph"><strong>Другие поля</strong>:</p>
@@ -117,6 +118,7 @@ Body:
 </ol>
 <hr />
 <h3>Изменение заявки</h3>
+<p>Поменяем значекние "Компания-заказчик" и "Крайний срок закрытия"</p>
 <p class="ds-markdown-paragraph"><strong>Endpoint</strong>:&nbsp;<code>PATCH /fsm/WORK/Tasks/{taskID}</code></p>
 <p class="ds-markdown-paragraph"><strong>Пример запроса</strong>:</p>
 <div class="md-code-block md-code-block-dark">
@@ -175,6 +177,7 @@ Body:
 </div>
 <br />
 <p class="ds-markdown-paragraph"><strong>Изменение стадии</strong>:</p>
+<p class="ds-markdown-paragraph"><strong>Endpoint</strong>:&nbsp;<code>POST fsm/WORK/taskstagingHistory</code></p>
 <div class="md-code-block md-code-block-dark">
 <div class="md-code-block-banner-wrap">&nbsp;</div>
 <pre>POST https://api.hubex.ru/fsm/WORK/taskstagingHistory
@@ -198,8 +201,9 @@ Body:
 </span></pre>
 </div>
 <hr />
-<h3>Комментарии</h3>
-<p class="ds-markdown-paragraph"><strong>Отправка комментария</strong>:</p>
+<h3>Сообщения</h3>
+<p class="ds-markdown-paragraph"><strong>Отправка сообщения в чат с командой</strong>:</p>
+<p class="ds-markdown-paragraph"><strong>Endpoint</strong>:&nbsp;<code>POST fsm/WORK/Tasks/{taskID}/conversation/</code></p>
 <div class="md-code-block md-code-block-dark">
 <div class="md-code-block-banner-wrap">&nbsp;</div>
 <pre>POST https://api.hubex.ru/fsm/WORK/Tasks/5131/conversation/
@@ -214,8 +218,10 @@ Body:
   }
 </span></pre>
 </div>
+<p>Где, "isExternal" - это выбор чата, если false - чат с командой, если tue - чат с заказчиком. Для отправки сообщения одновременно и в чат с заказчиком и в чат с командой, требуется дважды отправить запрос POST https://api.hubex.ru/fsm/WORK/Tasks/{taskID}/conversation/, со значением параметра "isExternal" = true и false.</p>
 <br />
-<p class="ds-markdown-paragraph"><strong>Получение комментариев</strong>:</p>
+<p class="ds-markdown-paragraph"><strong>Получение сообщениев</strong>:</p>
+<p class="ds-markdown-paragraph"><strong>Endpoint</strong>:&nbsp;<code>GET fsm/WORK/Tasks/{taskID}/conversation/</code></p>
 <div class="md-code-block md-code-block-dark">
 <div class="md-code-block-banner-wrap">&nbsp;</div>
 <pre>GET https://api.hubex.ru/fsm/WORK/Tasks/5131/conversations/?thumbnailSize=128</pre>
@@ -283,6 +289,7 @@ Body:
 <hr />
 <h3>Файлы</h3>
 <p class="ds-markdown-paragraph"><strong>Добавление файла</strong>&nbsp;(используйте FormData):</p>
+<p class="ds-markdown-paragraph"><strong>Endpoint</strong>:&nbsp;<code>POST fsm/WORK/taskAttachments/upload/fromForm</code></p>
 <div class="md-code-block md-code-block-dark">
 <div class="md-code-block-banner-wrap">&nbsp;</div>
 <pre>POST https://api.hubex.ru/fsm/WORK/taskAttachments/upload/fromForm
@@ -310,6 +317,7 @@ Body:
 </div>
 <br />
 <p class="ds-markdown-paragraph"><strong>Получение списка файлов</strong>:</p>
+<p class="ds-markdown-paragraph"><strong>Endpoint</strong>:&nbsp;<code>GET fsm/WORK/tasks/{taskID}/attachments</code></p>
 <div class="md-code-block md-code-block-dark">
 <div class="md-code-block-banner-wrap">&nbsp;</div>
 <pre>GET https://api.hubex.ru/fsm/WORK/tasks/5131/attachments?thumbnailSize=128</pre>
@@ -337,6 +345,7 @@ Body:
 <section id="section2">
 <h2>Работа с объектами</h2>
 <h3>Создание объекта</h3>
+<p>Созданим объект с именем "Кондиционер", с указанной "Компания-владелец", "Тип оборудования", "Класс оборудования", укажем, что оборудование не мобильное, без родительского объекта и сразу опубликуем его.</p>
 <p class="ds-markdown-paragraph"><strong>Endpoint</strong>:&nbsp;<code>POST /fsm/ES/Assets</code></p>
 <p class="ds-markdown-paragraph"><strong>Обязательные поля</strong>:</p>
 <ul>
@@ -412,11 +421,12 @@ Body:
 </div>
 <br />
 <h3>Изменение объекта</h3>
+<p>Поменям для нашего объекта признак мобильности оборудования и укажем "Описание".</p>
 <p class="ds-markdown-paragraph"><strong>Endpoint</strong>:&nbsp;<code>PUT /fsm/ES/Assets/{assetID}</code></p>
 <p class="ds-markdown-paragraph"><strong>Пример запроса</strong>:</p>
 <div class="md-code-block md-code-block-dark">
 <div class="md-code-block-banner-wrap">&nbsp;</div>
-<pre>PATCH https://api.hubex.ru/fsm/ES/Assets/456
+<pre>PATCH https://api.hubex.ru/fsm/ES/Assets/1017
 Headers:
   Authorization: Bearer YOUR_ACCESS_TOKEN
   Content-Type: application/json
@@ -426,7 +436,7 @@ Body:
 "CompanyID":19,
 "AssetTypeID":1,
 "AssetClassID":1,
-"IsMobileAsset":false,
+"IsMobileAsset":true,
 "IsInheritParentDistricts":false,
 "IsAutoPublish":true,
 "Notes":"Объект установлен в правом углу помещения!"
@@ -452,6 +462,7 @@ Headers:
 <section id="section3">
 <h2>Работа с компаниями</h2>
 <h3>Создание компании</h3>
+<p>Создадим компанию с типом "Заказчик" и именем "ПАО Ретроспектива".</p>
 <p class="ds-markdown-paragraph"><strong>Endpoint</strong>:&nbsp;<code>POST /fsm/ES/Companies</code></p>
 <p class="ds-markdown-paragraph"><strong>Пример запроса</strong>:</p>
 <div class="md-code-block md-code-block-dark">
@@ -575,6 +586,7 @@ Body:
 <section id="section4">
 <h2>Работа с пользователями</h2>
 <h3>Создание пользователя</h3>
+<p>Создадим мобильного сотрудника "Кулибин Павел", мужчина, с email - kulibin@mail.ru, с отслеживанием месторасположения, добавим ему роль и назначим необходимые участки.</p>
 <p class="ds-markdown-paragraph"><strong>Endpoint</strong>:&nbsp;<code>POST /fsm/ADM/Users</code></p>
 <p class="ds-markdown-paragraph"><strong>Пример запроса</strong>:</p>
 <div class="md-code-block md-code-block-dark">

@@ -87,22 +87,6 @@
 </ul>
 <h5 id="hubexhl">Обзор функциональных возможностей HubEx: контроль мобильных специалистов и управление процессами онлайн</h5>
 <p>В данном ролике представлен обзор возможностей FSM-системы HubEx: компоненты системы, основные сущности, аналитика, пользователи, мобильные приложения и безопасность данных. </p>
-
-<div class="video-player-container" data-player-id="player1">
-    <div class="video-source-selector">
-        <button class="source-btn active" data-source="youtube">YouTube</button>
-        <button class="source-btn" data-source="vk">VK</button>
-    </div>
-    <div class="video-embed">
-        <div class="video-frame youtube-frame" style="display: block;">
-            <iframe src="https://www.youtube.com/embed/vyfhCnihTMQ" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-        </div>
-        <div class="video-frame vk-frame" style="display: none;">
-            <iframe src="https://vkvideo.ru/video_ext.php?oid=-187865475&id=456239126&hd=2&autoplay=0" allowfullscreen></iframe>
-        </div>
-    </div>
-</div>
-
 <div class="video-player-container" data-player-id="player1">
     <div class="video-source-selector">
         <button class="source-btn active" data-source="vk">VK</button>
@@ -117,7 +101,6 @@
         </div>
     </div>
 </div>
-
 <!--Старый ролик <h5 id="firststeps">Начало работы в HubEx</h5>
 <p>Дополнительно ознакомьтесь со статьей <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/HubExStepByStep.html">Знакомство с системой HubEx</a>, в которой подробно описаны первые шаги для работы в HubEx.</p>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/BJU4AUR2nOU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>-->
@@ -127,12 +110,12 @@
 
 <div class="video-player-container" data-player-id="player2">
     <div class="video-source-selector">
-        <button class="source-btn active" data-source="youtube">YouTube</button>
-        <button class="source-btn" data-source="vk">VK</button>
+        <button class="source-btn active" data-source="vk">VK</button>
+        <button class="source-btn" data-source="youtube">YouTube</button>
     </div>
     <div class="video-embed">
         <div class="video-frame youtube-frame" style="display: block;">
-            <iframe src="https://www.youtube.com/embed/KZbrcQg4IKY" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            <iframe src="https://www.youtube.com/embed/KZbrcQg4IKY" loading="lazy" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
         </div>
         <div class="video-frame vk-frame" style="display: none;">
             <iframe src="https://vkvideo.ru/video_ext.php?oid=-187865475&id=456239118&hd=2&autoplay=0" allowfullscreen></iframe>
@@ -145,12 +128,12 @@
 
 <div class="video-player-container" data-player-id="player3">
     <div class="video-source-selector">
-        <button class="source-btn active" data-source="youtube">YouTube</button>
-        <button class="source-btn" data-source="vk">VK</button>
+        <button class="source-btn active" data-source="vk">VK</button>
+        <button class="source-btn" data-source="youtube">YouTube</button>
     </div>
     <div class="video-embed">
         <div class="video-frame youtube-frame" style="display: block;">
-            <iframe src="https://www.youtube.com/embed/5qsg9aUpIlw?si=v98J92BDBRDR7-r-" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            <iframe src="https://www.youtube.com/embed/5qsg9aUpIlw?si=v98J92BDBRDR7-r-" loading="lazy" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
         </div>
         <div class="video-frame vk-frame" style="display: none;">
             <iframe src="https://vkvideo.ru/video_ext.php?oid=-187865475&id=456239129&hd=2&autoplay=0" allowfullscreen></iframe>
@@ -171,12 +154,12 @@
 
 <div class="video-player-container" data-player-id="player4">
     <div class="video-source-selector">
-        <button class="source-btn active" data-source="youtube">YouTube</button>
-        <button class="source-btn" data-source="vk">VK</button>
+        <button class="source-btn active" data-source="vk">VK</button>
+        <button class="source-btn" data-source="youtube">YouTube</button>
     </div>
     <div class="video-embed">
         <div class="video-frame youtube-frame" style="display: block;">
-            <iframe src="https://www.youtube.com/embed/wuEMTcEQeCY" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            <iframe src="https://www.youtube.com/embed/wuEMTcEQeCY" loading="lazy" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
         </div>
         <div class="video-frame vk-frame" style="display: none;">
             <iframe src="https://vkvideo.ru/video_ext.php?oid=-187865475&id=456239109&hd=2&autoplay=0" allowfullscreen></iframe>
@@ -189,12 +172,12 @@
 
 <div class="video-player-container" data-player-id="player5">
     <div class="video-source-selector">
-        <button class="source-btn active" data-source="youtube">YouTube</button>
-        <button class="source-btn" data-source="vk">VK</button>
+        <button class="source-btn active" data-source="vk">VK</button>
+        <button class="source-btn" data-source="youtube">YouTube</button>
     </div>
     <div class="video-embed">
         <div class="video-frame youtube-frame" style="display: block;">
-            <iframe src="https://www.youtube.com/embed/RtMhubKi7Jc" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            <iframe src="https://www.youtube.com/embed/RtMhubKi7Jc" loading="lazy" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
         </div>
         <div class="video-frame vk-frame" style="display: none;">
             <iframe src="https://vkvideo.ru/video_ext.php?oid=-187865475&id=456239110&hd=2&autoplay=0" allowfullscreen></iframe>
@@ -207,12 +190,12 @@
 
 <div class="video-player-container" data-player-id="player6">
     <div class="video-source-selector">
-        <button class="source-btn active" data-source="youtube">YouTube</button>
-        <button class="source-btn" data-source="vk">VK</button>
+        <button class="source-btn active" data-source="vk">VK</button>
+        <button class="source-btn" data-source="youtube">YouTube</button>
     </div>
     <div class="video-embed">
         <div class="video-frame youtube-frame" style="display: block;">
-            <iframe src="https://www.youtube.com/embed/oc8QgdcuPoU" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            <iframe src="https://www.youtube.com/embed/oc8QgdcuPoU" loading="lazy" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
         </div>
         <div class="video-frame vk-frame" style="display: none;">
             <iframe src="https://vkvideo.ru/video_ext.php?oid=-187865475&id=456239115&hd=2&autoplay=0" allowfullscreen></iframe>
@@ -225,12 +208,12 @@
 
 <div class="video-player-container" data-player-id="player7">
     <div class="video-source-selector">
-        <button class="source-btn active" data-source="youtube">YouTube</button>
-        <button class="source-btn" data-source="vk">VK</button>
+        <button class="source-btn active" data-source="vk">VK</button>
+        <button class="source-btn" data-source="youtube">YouTube</button>
     </div>
     <div class="video-embed">
         <div class="video-frame youtube-frame" style="display: block;">
-            <iframe src="https://www.youtube.com/embed/JmMZzkI6o-c" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            <iframe src="https://www.youtube.com/embed/JmMZzkI6o-c" loading="lazy" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
         </div>
         <div class="video-frame vk-frame" style="display: none;">
             <iframe src="https://vkvideo.ru/video_ext.php?oid=-187865475&id=456239104&hd=2&autoplay=0" allowfullscreen></iframe>
@@ -243,12 +226,12 @@
 
 <div class="video-player-container" data-player-id="player8">
     <div class="video-source-selector">
-        <button class="source-btn active" data-source="youtube">YouTube</button>
-        <button class="source-btn" data-source="vk">VK</button>
+        <button class="source-btn active" data-source="vk">VK</button>
+        <button class="source-btn" data-source="youtube">YouTube</button>
     </div>
     <div class="video-embed">
         <div class="video-frame youtube-frame" style="display: block;">
-            <iframe src="https://www.youtube.com/embed/TbCdCcZzVdc" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            <iframe src="https://www.youtube.com/embed/TbCdCcZzVdc" loading="lazy" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
         </div>
         <div class="video-frame vk-frame" style="display: none;">
             <iframe src="https://vkvideo.ru/video_ext.php?oid=-187865475&id=456239112&hd=2&autoplay=0" allowfullscreen></iframe>
@@ -261,12 +244,12 @@
 
 <div class="video-player-container" data-player-id="player9">
     <div class="video-source-selector">
-        <button class="source-btn active" data-source="youtube">YouTube</button>
-        <button class="source-btn" data-source="vk">VK</button>
+        <button class="source-btn active" data-source="vk">VK</button>
+        <button class="source-btn" data-source="youtube">YouTube</button>
     </div>
     <div class="video-embed">
         <div class="video-frame youtube-frame" style="display: block;">
-            <iframe src="https://www.youtube.com/embed/S9YxwQzZ2o4" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            <iframe src="https://www.youtube.com/embed/S9YxwQzZ2o4" loading="lazy" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
         </div>
         <div class="video-frame vk-frame" style="display: none;">
             <iframe src="https://vkvideo.ru/video_ext.php?oid=-187865475&id=456239086&hd=2&autoplay=0" allowfullscreen></iframe>
@@ -281,12 +264,12 @@
 
 <div class="video-player-container" data-player-id="player10">
     <div class="video-source-selector">
-        <button class="source-btn active" data-source="youtube">YouTube</button>
-        <button class="source-btn" data-source="vk">VK</button>
+        <button class="source-btn active" data-source="vk">VK</button>
+        <button class="source-btn" data-source="youtube">YouTube</button>>
     </div>
     <div class="video-embed">
         <div class="video-frame youtube-frame" style="display: block;">
-            <iframe src="https://www.youtube.com/embed/tC8K8xPxTSM" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            <iframe src="https://www.youtube.com/embed/tC8K8xPxTSM" loading="lazy" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
         </div>
         <div class="video-frame vk-frame" style="display: none;">
             <iframe src="https://vkvideo.ru/video_ext.php?oid=-187865475&id=456239124&hd=2&autoplay=0" allowfullscreen></iframe>
@@ -299,12 +282,12 @@
 
 <div class="video-player-container" data-player-id="player11">
     <div class="video-source-selector">
-        <button class="source-btn active" data-source="youtube">YouTube</button>
-        <button class="source-btn" data-source="vk">VK</button>
+        <button class="source-btn active" data-source="vk">VK</button>
+        <button class="source-btn" data-source="youtube">YouTube</button>
     </div>
     <div class="video-embed">
         <div class="video-frame youtube-frame" style="display: block;">
-            <iframe src="https://www.youtube.com/embed/1hRsaFz_sEQ" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            <iframe src="https://www.youtube.com/embed/1hRsaFz_sEQ" loading="lazy" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
         </div>
         <div class="video-frame vk-frame" style="display: none;">
             <iframe src="https://vkvideo.ru/video_ext.php?oid=-187865475&id=456239088&hd=2&autoplay=0" allowfullscreen></iframe>
@@ -318,12 +301,12 @@
 
 <div class="video-player-container" data-player-id="player12">
     <div class="video-source-selector">
-        <button class="source-btn active" data-source="youtube">YouTube</button>
-        <button class="source-btn" data-source="vk">VK</button>
+        <button class="source-btn active" data-source="vk">VK</button>
+        <button class="source-btn" data-source="youtube">YouTube</button>
     </div>
     <div class="video-embed">
         <div class="video-frame youtube-frame" style="display: block;">
-            <iframe src="https://www.youtube.com/embed/FBFe4tBnZVE" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            <iframe src="https://www.youtube.com/embed/FBFe4tBnZVE" loading="lazy" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
         </div>
         <div class="video-frame vk-frame" style="display: none;">
             <iframe src="https://vkvideo.ru/video_ext.php?oid=-187865475&id=456239087&hd=2&autoplay=0" allowfullscreen></iframe>
@@ -336,12 +319,12 @@
 
 <div class="video-player-container" data-player-id="player13">
     <div class="video-source-selector">
-        <button class="source-btn active" data-source="youtube">YouTube</button>
-        <button class="source-btn" data-source="vk">VK</button>
+        <button class="source-btn active" data-source="vk">VK</button>
+        <button class="source-btn" data-source="youtube">YouTube</button>
     </div>
     <div class="video-embed">
         <div class="video-frame youtube-frame" style="display: block;">
-            <iframe src="https://www.youtube.com/embed/tzXlekvaftY" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            <iframe src="https://www.youtube.com/embed/tzXlekvaftY" loading="lazy" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
         </div>
         <div class="video-frame vk-frame" style="display: none;">
             <iframe src="https://vkvideo.ru/video_ext.php?oid=-187865475&id=456239089&hd=2&autoplay=0" allowfullscreen></iframe>
@@ -355,12 +338,12 @@
 
 <div class="video-player-container" data-player-id="player14">
     <div class="video-source-selector">
-        <button class="source-btn active" data-source="youtube">YouTube</button>
-        <button class="source-btn" data-source="vk">VK</button>
+        <button class="source-btn active" data-source="vk">VK</button>
+        <button class="source-btn" data-source="youtube">YouTube</button>
     </div>
     <div class="video-embed">
         <div class="video-frame youtube-frame" style="display: block;">
-            <iframe src="https://www.youtube.com/embed/VB_g46BAxd0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            <iframe src="https://www.youtube.com/embed/VB_g46BAxd0" loading="lazy" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
         </div>
         <div class="video-frame vk-frame" style="display: none;">
             <iframe src="https://vkvideo.ru/video_ext.php?oid=-187865475&id=456239108&hd=2&autoplay=0" allowfullscreen></iframe>
@@ -373,12 +356,12 @@
 
 <div class="video-player-container" data-player-id="player15">
     <div class="video-source-selector">
-        <button class="source-btn active" data-source="youtube">YouTube</button>
-        <button class="source-btn" data-source="vk">VK</button>
+        <button class="source-btn active" data-source="vk">VK</button>
+        <button class="source-btn" data-source="youtube">YouTube</button>
     </div>
     <div class="video-embed">
         <div class="video-frame youtube-frame" style="display: block;">
-            <iframe src="https://www.youtube.com/embed/E1H9pTZi0vA" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            <iframe src="https://www.youtube.com/embed/E1H9pTZi0vA" loading="lazy" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
         </div>
         <div class="video-frame vk-frame" style="display: none;">
             <iframe src="https://vkvideo.ru/video_ext.php?oid=-187865475&id=456239090&hd=2&autoplay=0" allowfullscreen></iframe>
@@ -397,12 +380,12 @@
 
 <div class="video-player-container" data-player-id="player16">
     <div class="video-source-selector">
-        <button class="source-btn active" data-source="youtube">YouTube</button>
-        <button class="source-btn" data-source="vk">VK</button>
+        <button class="source-btn active" data-source="vk">VK</button>
+        <button class="source-btn" data-source="youtube">YouTube</button>
     </div>
     <div class="video-embed">
         <div class="video-frame youtube-frame" style="display: block;">
-            <iframe src="https://www.youtube.com/embed/K4SYMSBNX90" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            <iframe src="https://www.youtube.com/embed/K4SYMSBNX90" loading="lazy" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
         </div>
         <div class="video-frame vk-frame" style="display: none;">
             <iframe src="https://vkvideo.ru/video_ext.php?oid=-187865475&id=456239119&hd=2&autoplay=0" allowfullscreen></iframe>
@@ -422,12 +405,12 @@
 
 <div class="video-player-container" data-player-id="player17">
     <div class="video-source-selector">
-        <button class="source-btn active" data-source="youtube">YouTube</button>
-        <button class="source-btn" data-source="vk">VK</button>
+        <button class="source-btn active" data-source="vk">VK</button>
+        <button class="source-btn" data-source="youtube">YouTube</button>
     </div>
     <div class="video-embed">
         <div class="video-frame youtube-frame" style="display: block;">
-            <iframe src="https://www.youtube.com/embed/Kfdxmu6snHI" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            <iframe src="https://www.youtube.com/embed/Kfdxmu6snHI" loading="lazy" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
         </div>
         <div class="video-frame vk-frame" style="display: none;">
             <iframe src="https://vkvideo.ru/video_ext.php?oid=-187865475&id=456239122&hd=2&autoplay=0" allowfullscreen></iframe>
@@ -447,12 +430,12 @@
 
 <div class="video-player-container" data-player-id="player18">
     <div class="video-source-selector">
-        <button class="source-btn active" data-source="youtube">YouTube</button>
-        <button class="source-btn" data-source="vk">VK</button>
+        <button class="source-btn active" data-source="vk">VK</button>
+        <button class="source-btn" data-source="youtube">YouTube</button>
     </div>
     <div class="video-embed">
         <div class="video-frame youtube-frame" style="display: block;">
-            <iframe src="https://www.youtube.com/embed/7oC98ISShGg" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            <iframe src="https://www.youtube.com/embed/7oC98ISShGg" loading="lazy" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
         </div>
         <div class="video-frame vk-frame" style="display: none;">
             <iframe src="https://vkvideo.ru/video_ext.php?oid=-187865475&id=456239082&hd=2&autoplay=0" allowfullscreen></iframe>
@@ -471,12 +454,12 @@
 
 <div class="video-player-container" data-player-id="player19">
     <div class="video-source-selector">
-        <button class="source-btn active" data-source="youtube">YouTube</button>
-        <button class="source-btn" data-source="vk">VK</button>
+        <button class="source-btn active" data-source="vk">VK</button>
+        <button class="source-btn" data-source="youtube">YouTube</button>
     </div>
     <div class="video-embed">
         <div class="video-frame youtube-frame" style="display: block;">
-            <iframe src="https://www.youtube.com/embed/FOT_mWBU1vI" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            <iframe src="https://www.youtube.com/embed/FOT_mWBU1vI" loading="lazy" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
         </div>
         <div class="video-frame vk-frame" style="display: none;">
             <iframe src="https://vkvideo.ru/video_ext.php?oid=-187865475&id=456239123&hd=2&autoplay=0" allowfullscreen></iframe>
@@ -490,12 +473,12 @@
 
 <div class="video-player-container" data-player-id="player20">
     <div class="video-source-selector">
-        <button class="source-btn active" data-source="youtube">YouTube</button>
-        <button class="source-btn" data-source="vk">VK</button>
+        <button class="source-btn active" data-source="vk">VK</button>
+        <button class="source-btn" data-source="youtube">YouTube</button>
     </div>
     <div class="video-embed">
         <div class="video-frame youtube-frame" style="display: block;">
-            <iframe src="https://www.youtube.com/embed/C7N6KPA_jhA" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            <iframe src="https://www.youtube.com/embed/C7N6KPA_jhA" loading="lazy" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
         </div>
         <div class="video-frame vk-frame" style="display: none;">
             <iframe src="https://vkvideo.ru/video_ext.php?oid=-187865475&id=456239093&hd=2&autoplay=0" allowfullscreen></iframe>
@@ -505,12 +488,12 @@
 
 <div class="video-player-container" data-player-id="player21">
     <div class="video-source-selector">
-        <button class="source-btn active" data-source="youtube">YouTube</button>
-        <button class="source-btn" data-source="vk">VK</button>
+        <button class="source-btn active" data-source="vk">VK</button>
+        <button class="source-btn" data-source="youtube">YouTube</button>
     </div>
     <div class="video-embed">
         <div class="video-frame youtube-frame" style="display: block;">
-            <iframe src="https://www.youtube.com/embed/15ER2EWoqvI" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            <iframe src="https://www.youtube.com/embed/15ER2EWoqvI" loading="lazy" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
         </div>
         <div class="video-frame vk-frame" style="display: none;">
             <iframe src="https://vkvideo.ru/video_ext.php?oid=-187865475&id=456239094&hd=2&autoplay=0" allowfullscreen></iframe>
@@ -523,12 +506,12 @@
 
 <div class="video-player-container" data-player-id="player22">
     <div class="video-source-selector">
-        <button class="source-btn active" data-source="youtube">YouTube</button>
-        <button class="source-btn" data-source="vk">VK</button>
+        <button class="source-btn active" data-source="vk">VK</button>
+        <button class="source-btn" data-source="youtube">YouTube</button>
     </div>
     <div class="video-embed">
         <div class="video-frame youtube-frame" style="display: block;">
-            <iframe src="https://www.youtube.com/embed/93iMHUnSK94" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            <iframe src="https://www.youtube.com/embed/93iMHUnSK94" loading="lazy" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
         </div>
         <div class="video-frame vk-frame" style="display: none;">
             <iframe src="https://vkvideo.ru/video_ext.php?oid=-187865475&id=456239091&hd=2&autoplay=0" allowfullscreen></iframe>
@@ -541,12 +524,12 @@
 
 <div class="video-player-container" data-player-id="player23">
     <div class="video-source-selector">
-        <button class="source-btn active" data-source="youtube">YouTube</button>
-        <button class="source-btn" data-source="vk">VK</button>
+        <button class="source-btn active" data-source="vk">VK</button>
+        <button class="source-btn" data-source="youtube">YouTube</button>
     </div>
     <div class="video-embed">
         <div class="video-frame youtube-frame" style="display: block;">
-            <iframe src="https://www.youtube.com/embed/uVLKXbTjuik" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            <iframe src="https://www.youtube.com/embed/uVLKXbTjuik" loading="lazy" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
         </div>
         <div class="video-frame vk-frame" style="display: none;">
             <iframe src="https://vkvideo.ru/video_ext.php?oid=-187865475&id=456239092&hd=2&autoplay=0" allowfullscreen></iframe>
@@ -559,12 +542,12 @@
 
 <div class="video-player-container" data-player-id="player24">
     <div class="video-source-selector">
-        <button class="source-btn active" data-source="youtube">YouTube</button>
-        <button class="source-btn" data-source="vk">VK</button>
+        <button class="source-btn active" data-source="vk">VK</button>
+        <button class="source-btn" data-source="youtube">YouTube</button>
     </div>
     <div class="video-embed">
         <div class="video-frame youtube-frame" style="display: block;">
-            <iframe src="https://www.youtube.com/embed/yPugQerNlvo" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            <iframe src="https://www.youtube.com/embed/yPugQerNlvo" loading="lazy" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
         </div>
         <div class="video-frame vk-frame" style="display: none;">
             <iframe src="https://vkvideo.ru/video_ext.php?oid=-187865475&id=456239096&hd=2&autoplay=0" allowfullscreen></iframe>
@@ -578,12 +561,12 @@
 
 <div class="video-player-container" data-player-id="player25">
     <div class="video-source-selector">
-        <button class="source-btn active" data-source="youtube">YouTube</button>
-        <button class="source-btn" data-source="vk">VK</button>
+        <button class="source-btn active" data-source="vk">VK</button>
+        <button class="source-btn" data-source="youtube">YouTube</button>
     </div>
     <div class="video-embed">
         <div class="video-frame youtube-frame" style="display: block;">
-            <iframe src="https://www.youtube.com/embed/4BK9PCQ60N0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            <iframe src="https://www.youtube.com/embed/4BK9PCQ60N0" loading="lazy" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
         </div>
         <div class="video-frame vk-frame" style="display: none;">
             <iframe src="https://vkvideo.ru/video_ext.php?oid=-187865475&id=456239095&hd=2&autoplay=0" allowfullscreen></iframe>
@@ -596,12 +579,12 @@
 
 <div class="video-player-container" data-player-id="player26">
     <div class="video-source-selector">
-        <button class="source-btn active" data-source="youtube">YouTube</button>
-        <button class="source-btn" data-source="vk">VK</button>
+        <button class="source-btn active" data-source="vk">VK</button>
+        <button class="source-btn" data-source="youtube">YouTube</button>
     </div>
     <div class="video-embed">
         <div class="video-frame youtube-frame" style="display: block;">
-            <iframe src="https://www.youtube.com/embed/WhKGc-GrOjI" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            <iframe src="https://www.youtube.com/embed/WhKGc-GrOjI" loading="lazy" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
         </div>
         <div class="video-frame vk-frame" style="display: none;">
             <iframe src="https://vkvideo.ru/video_ext.php?oid=-187865475&id=456239127&hd=2&autoplay=0" allowfullscreen></iframe>
@@ -615,12 +598,12 @@
 
 <div class="video-player-container" data-player-id="player27">
     <div class="video-source-selector">
-        <button class="source-btn active" data-source="youtube">YouTube</button>
-        <button class="source-btn" data-source="vk">VK</button>
+        <button class="source-btn active" data-source="vk">VK</button>
+        <button class="source-btn" data-source="youtube">YouTube</button>
     </div>
     <div class="video-embed">
         <div class="video-frame youtube-frame" style="display: block;">
-            <iframe src="https://www.youtube.com/embed/IEsB3xWJVRQ" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            <iframe src="https://www.youtube.com/embed/IEsB3xWJVRQ" loading="lazy" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
         </div>
         <div class="video-frame vk-frame" style="display: none;">
             <iframe src="https://vkvideo.ru/video_ext.php?oid=-187865475&id=456239098&hd=2&autoplay=0" allowfullscreen></iframe>
@@ -633,12 +616,12 @@
 
 <div class="video-player-container" data-player-id="player36">
     <div class="video-source-selector">
-        <button class="source-btn active" data-source="youtube">YouTube</button>
-        <button class="source-btn" data-source="vk">VK</button>
+        <button class="source-btn active" data-source="vk">VK</button>
+        <button class="source-btn" data-source="youtube">YouTube</button>
     </div>
     <div class="video-embed">
         <div class="video-frame youtube-frame" style="display: block;">
-            <iframe src="https://www.youtube.com/embed/gZjA_Vp7gh8" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            <iframe src="https://www.youtube.com/embed/gZjA_Vp7gh8" loading="lazy" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
         </div>
         <div class="video-frame vk-frame" style="display: none;">
             <iframe src="https://vkvideo.ru/video_ext.php?oid=-187865475&id=456239134&hd=2&autoplay=0" allowfullscreen></iframe>
@@ -653,12 +636,12 @@
 
 <div class="video-player-container" data-player-id="player28">
     <div class="video-source-selector">
-        <button class="source-btn active" data-source="youtube">YouTube</button>
-        <button class="source-btn" data-source="vk">VK</button>
+        <button class="source-btn active" data-source="vk">VK</button>
+        <button class="source-btn" data-source="youtube">YouTube</button>
     </div>
     <div class="video-embed">
         <div class="video-frame youtube-frame" style="display: block;">
-            <iframe src="https://www.youtube.com/embed/81JjWYuMNwY" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            <iframe src="https://www.youtube.com/embed/81JjWYuMNwY" loading="lazy" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
         </div>
         <div class="video-frame vk-frame" style="display: none;">
             <iframe src="https://vkvideo.ru/video_ext.php?oid=-187865475&id=456239125&hd=2&autoplay=0" allowfullscreen></iframe>
@@ -673,12 +656,12 @@
 
 <div class="video-player-container" data-player-id="player29">
     <div class="video-source-selector">
-        <button class="source-btn active" data-source="youtube">YouTube</button>
-        <button class="source-btn" data-source="vk">VK</button>
+        <button class="source-btn active" data-source="vk">VK</button>
+        <button class="source-btn" data-source="youtube">YouTube</button>
     </div>
     <div class="video-embed">
         <div class="video-frame youtube-frame" style="display: block;">
-            <iframe src="https://www.youtube.com/embed/FbMtjM_bgGU" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            <iframe src="https://www.youtube.com/embed/FbMtjM_bgGU" loading="lazy" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
         </div>
         <div class="video-frame vk-frame" style="display: none;">
             <iframe src="https://vkvideo.ru/video_ext.php?oid=-187865475&id=456239128&hd=2&autoplay=0" allowfullscreen></iframe>
@@ -691,12 +674,12 @@
 
 <div class="video-player-container" data-player-id="player30">
     <div class="video-source-selector">
-        <button class="source-btn active" data-source="youtube">YouTube</button>
-        <button class="source-btn" data-source="vk">VK</button>
+        <button class="source-btn active" data-source="vk">VK</button>
+        <button class="source-btn" data-source="youtube">YouTube</button>
     </div>
     <div class="video-embed">
         <div class="video-frame youtube-frame" style="display: block;">
-            <iframe src="https://www.youtube.com/embed/4BK9PCQ60N0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            <iframe src="https://www.youtube.com/embed/4BK9PCQ60N0" loading="lazy" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
         </div>
         <div class="video-frame vk-frame" style="display: none;">
             <iframe src="https://vkvideo.ru/video_ext.php?oid=-187865475&id=456239095&hd=2&autoplay=0" allowfullscreen></iframe>
@@ -710,12 +693,12 @@
 
 <div class="video-player-container" data-player-id="player31">
     <div class="video-source-selector">
-        <button class="source-btn active" data-source="youtube">YouTube</button>
-        <button class="source-btn" data-source="vk">VK</button>
+        <button class="source-btn active" data-source="vk">VK</button>
+        <button class="source-btn" data-source="youtube">YouTube</button>
     </div>
     <div class="video-embed">
         <div class="video-frame youtube-frame" style="display: block;">
-            <iframe src="https://www.youtube.com/embed/oLKQVUrxCYU" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            <iframe src="https://www.youtube.com/embed/oLKQVUrxCYU" loading="lazy" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
         </div>
         <div class="video-frame vk-frame" style="display: none;">
             <iframe src="https://vkvideo.ru/video_ext.php?oid=-187865475&id=456239120&hd=2&autoplay=0" allowfullscreen></iframe>
@@ -728,12 +711,12 @@
 
 <div class="video-player-container" data-player-id="player32">
     <div class="video-source-selector">
-        <button class="source-btn active" data-source="youtube">YouTube</button>
-        <button class="source-btn" data-source="vk">VK</button>
+        <button class="source-btn active" data-source="vk">VK</button>
+        <button class="source-btn" data-source="youtube">YouTube</button>
     </div>
     <div class="video-embed">
         <div class="video-frame youtube-frame" style="display: block;">
-            <iframe src="https://www.youtube.com/embed/w9x3r65YbAo" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            <iframe src="https://www.youtube.com/embed/w9x3r65YbAo" loading="lazy" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
         </div>
         <div class="video-frame vk-frame" style="display: none;">
             <iframe src="https://vkvideo.ru/video_ext.php?oid=-187865475&id=456239101&hd=2&autoplay=0" allowfullscreen></iframe>
@@ -747,12 +730,12 @@
 
 <div class="video-player-container" data-player-id="player33">
     <div class="video-source-selector">
-        <button class="source-btn active" data-source="youtube">YouTube</button>
-        <button class="source-btn" data-source="vk">VK</button>
+        <button class="source-btn active" data-source="vk">VK</button>
+        <button class="source-btn" data-source="youtube">YouTube</button>
     </div>
     <div class="video-embed">
         <div class="video-frame youtube-frame" style="display: block;">
-            <iframe src="https://www.youtube.com/embed/8mUe-ejqDGQ" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            <iframe src="https://www.youtube.com/embed/8mUe-ejqDGQ" loading="lazy" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
         </div>
         <div class="video-frame vk-frame" style="display: none;">
             <iframe src="https://vkvideo.ru/video_ext.php?oid=-187865475&id=456239103&hd=2&autoplay=0" allowfullscreen></iframe>
@@ -768,12 +751,12 @@
 
 <div class="video-player-container" data-player-id="player34">
     <div class="video-source-selector">
-        <button class="source-btn active" data-source="youtube">YouTube</button>
-        <button class="source-btn" data-source="vk">VK</button>
+        <button class="source-btn active" data-source="vk">VK</button>
+        <button class="source-btn" data-source="youtube">YouTube</button>
     </div>
     <div class="video-embed">
         <div class="video-frame youtube-frame" style="display: block;">
-            <iframe src="https://www.youtube.com/embed/x_5VAaPvYH0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            <iframe src="https://www.youtube.com/embed/x_5VAaPvYH0" loading="lazy" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
         </div>
         <div class="video-frame vk-frame" style="display: none;">
             <iframe src="https://vkvideo.ru/video_ext.php?oid=-187865475&id=456239099&hd=2&autoplay=0" allowfullscreen></iframe>
@@ -796,12 +779,12 @@
 
 <div class="video-player-container" data-player-id="player35">
     <div class="video-source-selector">
-        <button class="source-btn active" data-source="youtube">YouTube</button>
-        <button class="source-btn" data-source="vk">VK</button>
+        <button class="source-btn active" data-source="vk">VK</button>
+        <button class="source-btn" data-source="youtube">YouTube</button>
     </div>
     <div class="video-embed">
         <div class="video-frame youtube-frame" style="display: block;">
-            <iframe src="https://www.youtube.com/embed/EVPSTI7zQ58" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            <iframe src="https://www.youtube.com/embed/EVPSTI7zQ58" loading="lazy" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
         </div>
         <div class="video-frame vk-frame" style="display: none;">
             <iframe src="https://vkvideo.ru/video_ext.php?oid=-187865475&id=456239107&hd=2&autoplay=0" allowfullscreen></iframe>

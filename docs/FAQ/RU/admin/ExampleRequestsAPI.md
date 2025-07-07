@@ -118,7 +118,7 @@ Body:
 </ol>
 <hr />
 <h3>Изменение заявки</h3>
-<p>Поменяем значекние "Компания-заказчик" и "Крайний срок закрытия"</p>
+<p>Поменяем значение "Компания-заказчик" и "Крайний срок закрытия"</p>
 <p class="ds-markdown-paragraph"><strong>Endpoint</strong>:&nbsp;<code>PATCH /fsm/WORK/Tasks/{taskID}</code></p>
 <p class="ds-markdown-paragraph"><strong>Пример запроса</strong>:</p>
 <div class="md-code-block md-code-block-dark">
@@ -220,7 +220,7 @@ Body:
 </div>
 <p>Где, "isExternal" - это выбор чата, если false - чат с командой, если tue - чат с заказчиком. Для отправки сообщения одновременно и в чат с заказчиком и в чат с командой, требуется дважды отправить запрос POST https://api.hubex.ru/fsm/WORK/Tasks/{taskID}/conversation/, со значением параметра "isExternal" = true и false.</p>
 <br />
-<p class="ds-markdown-paragraph"><strong>Получение сообщениев</strong>:</p>
+<p class="ds-markdown-paragraph"><strong>Получение сообщений</strong>:</p>
 <p class="ds-markdown-paragraph"><strong>Endpoint</strong>:&nbsp;<code>GET fsm/WORK/Tasks/{taskID}/conversation/</code></p>
 <div class="md-code-block md-code-block-dark">
 <div class="md-code-block-banner-wrap">&nbsp;</div>

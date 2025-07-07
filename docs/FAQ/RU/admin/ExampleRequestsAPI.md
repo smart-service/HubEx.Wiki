@@ -504,7 +504,6 @@ Body:
 <p class="ds-markdown-paragraph">И так далее, endpoint представлены в SWAGGER. Список сервисов представлен в статье - <a href="https://wiki.hubex.ru/docs/FAQ/RU/admin/StartIntegrationAPI.html">Начало работы с REST API HubEx</a></p>
 </li>
 </ol>
-</div>
 <h3>Изменение компании</h3>
 <p class="ds-markdown-paragraph"><strong>Endpoint</strong>:&nbsp;<code>PUT /fsm/ES/Companies/</code></p>
 <p class="ds-markdown-paragraph"><strong>Пример запроса</strong>:</p>

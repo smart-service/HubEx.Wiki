@@ -103,6 +103,21 @@
     </div>
 </div>
 
+<div class="video-player-container" data-player-id="player1">
+    <div class="video-source-selector">
+        <button class="source-btn" data-source="youtube">YouTube</button>
+        <button class="source-btn active" data-source="vk">VK</button>
+    </div>
+    <div class="video-embed">
+        <div class="video-frame youtube-frame" style="display: none;">
+            <iframe src="https://www.youtube.com/embed/vyfhCnihTMQ" loading="lazy" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        </div>
+        <div class="video-frame vk-frame" style="display: block;">
+            <iframe src="https://vkvideo.ru/video_ext.php?oid=-187865475&id=456239126&hd=2&autoplay=0" allowfullscreen></iframe>
+        </div>
+    </div>
+</div>
+
 <!--Старый ролик <h5 id="firststeps">Начало работы в HubEx</h5>
 <p>Дополнительно ознакомьтесь со статьей <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/HubExStepByStep.html">Знакомство с системой HubEx</a>, в которой подробно описаны первые шаги для работы в HubEx.</p>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/BJU4AUR2nOU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>-->
@@ -799,6 +814,7 @@
 <p>Дополнительно ознакомьтесь со статьями <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/Export.html">Экспорт</a> и <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/Import.html">Импорт</a>.</p>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/PO71TKcqGBw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>-->
 
+
 <script>
     function hideSiblingVideo(activeVideo){
         const nextSibling=activeVideo.nextElementSibling
@@ -823,8 +839,8 @@
         }
         activeButton.classList.add(activeClass)
         return activeButton?.dataset?.source
- 
     }
+
     function switchShowVideos(activeContainer,label){
         const videoClass=`video-frame ${label}-frame`
         const videoFrame=activeContainer.querySelector(videoClass)
@@ -833,23 +849,22 @@
         console.debug({activeVideo})
         hideSiblingVideo(activeVideo[0])
         activeVideo[0].style.display="block"
-         
- 
-         
     }
+
     const allVideoContainers=document.querySelectorAll(".video-player-container")
-     allVideoContainers.forEach((container)=>{
+    allVideoContainers.forEach((container)=>{
         container.addEventListener("click",(e)=>{
-             console.debug({e},{container})
+            if(!e.target.classList.contains('source-btn')) return;
+            
+            console.debug({e},{container})
             const targetButton=e.target
             const activeSource=switchActiveButtons(targetButton)
             console.debug(activeSource)
             if(activeSource){
                 switchShowVideos(container,activeSource)
             }
-           
         })
-     })
+    })
 </script>
 
 </body>

@@ -105,8 +105,8 @@
 
 <div class="video-player-container" data-player-id="player1">
     <div class="video-source-selector">
-        <button class="source-btn" data-source="youtube">YouTube</button>
         <button class="source-btn active" data-source="vk">VK</button>
+        <button class="source-btn" data-source="youtube">YouTube</button>
     </div>
     <div class="video-embed">
         <div class="video-frame youtube-frame" style="display: none;">

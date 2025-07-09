@@ -127,8 +127,11 @@ https://wiki.hubex.ru/docs/FAQ/RU/admin/TelegramIntegration.html
 https://wiki.hubex.ru/docs/FAQ/RU/admin/Powers.html
 https://wiki.hubex.ru/docs/FAQ/RU/user/MobileObjects.html
 
-
+https://wiki.hubex.ru/docs/FAQ/RU/ReleaseNotes/NewPermission03072025.html
+https://wiki.hubex.ru/docs/FAQ/RU/ReleaseNotes/ListOfChanges25062025.html
 https://wiki.hubex.ru/docs/FAQ/RU/ReleaseNotes/WarehouseChange24062025.html
+https://wiki.hubex.ru/docs/FAQ/RU/ReleaseNotes/SignatoryInAct23062025.html
+https://wiki.hubex.ru/docs/FAQ/RU/ReleaseNotes/PrintableForms20062025.html
 https://wiki.hubex.ru/docs/FAQ/RU/ReleaseNotes/TaskTypeInCalendarFilter22.05.25.html
 https://wiki.hubex.ru/docs/FAQ/RU/ReleaseNotes/TicketArchives08042020.html
 https://wiki.hubex.ru/docs/FAQ/RU/ReleaseNotes/UserInTicket13042020.html

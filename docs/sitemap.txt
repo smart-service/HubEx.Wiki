@@ -126,6 +126,11 @@ https://wiki.hubex.ru/docs/FAQ/RU/user/ContractSchedule.html
 https://wiki.hubex.ru/docs/FAQ/RU/admin/TelegramIntegration.html
 https://wiki.hubex.ru/docs/FAQ/RU/admin/Powers.html
 https://wiki.hubex.ru/docs/FAQ/RU/user/MobileObjects.html
+https://wiki.hubex.ru/docs/FAQ/RU/admin//RESTAPI.html
+https://wiki.hubex.ru/docs/FAQ/RU/admin//StartIntegrationAPI.html
+https://wiki.hubex.ru/docs/FAQ/RU/admin//ExampleRequestsAPI.html
+https://wiki.hubex.ru/docs/FAQ/RU/user/PrintingFormDesigner.html
+
 
 https://wiki.hubex.ru/docs/FAQ/RU/ReleaseNotes/NewPermission03072025.html
 https://wiki.hubex.ru/docs/FAQ/RU/ReleaseNotes/ListOfChanges25062025.html

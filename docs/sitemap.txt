@@ -132,6 +132,7 @@ https://wiki.hubex.ru/docs/FAQ/RU/admin//ExampleRequestsAPI.html
 https://wiki.hubex.ru/docs/FAQ/RU/user/PrintingFormDesigner.html
 
 
+https://wiki.hubex.ru/docs/FAQ/RU/ReleaseNotes/NewDomainRoutingSystem14072025.html
 https://wiki.hubex.ru/docs/FAQ/RU/ReleaseNotes/NewFeaturesTaskChangeHistory11072025.html
 https://wiki.hubex.ru/docs/FAQ/RU/ReleaseNotes/NewPermission03072025.html
 https://wiki.hubex.ru/docs/FAQ/RU/ReleaseNotes/ListOfChanges25062025.html

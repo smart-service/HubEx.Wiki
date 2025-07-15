@@ -9,6 +9,46 @@ keywords: знакомство с системой, первые шаги, hubex
 
 #### Знакомство с системой HubEx
 <html>
+    <head>
+    <style>
+        .video-player-container {
+            margin: 20px 0;
+        }
+        .video-source-selector {
+            margin-bottom: 10px;
+        }
+        .source-btn {
+            padding: 8px 16px;
+            background: #f0f0f0;
+            border: 1px solid #ddd;
+            cursor: pointer;
+            margin-right: 5px;
+            border-radius: 4px;
+            font-family: Arial, sans-serif;
+            font-size: 14px;
+            transition: all 0.3s ease;
+        }
+        .source-btn:hover {
+            background: #e0e0e0;
+        }
+        .source-btn.active {
+            background: #45688e;
+            color: white;
+            border-color: #45688e;
+        }
+        .video-frame {
+            width: 560px;
+            height: 315px;
+            max-width: 100%;
+        }
+        .video-frame iframe {
+            width: 100%;
+            height: 100%;
+            border: none;
+        }
+    </style>
+</head>
+<body>
 <meta charset="utf-8">
 <p>Система HubEx предназначена для автоматизации подачи и обработки заявок, управления и контроля за мобильными
     сотрудниками, управления сервисом оборудования. В HubEx представлен очень гибкий функционал, который легко можно
@@ -18,9 +58,20 @@ keywords: знакомство с системой, первые шаги, hubex
 <p>Обзор на функциональные возможности HubEx представлен в видеоролике <strong>HubEx: Обзор. Контроль мобильных
     специалистов и управление процессами онлайн</strong>. В нем мы рассказываем о компонентах системы, основных
     сущностях, аналитике, мобильных приложениях и защите данных. </p>
-<iframe src="https://www.youtube.com/embed/vyfhCnihTMQ" width="100%" height="450px" frameborder="0"
-        allowfullscreen="allowfullscreen"></iframe>
-
+<div class="video-player-container" data-player-id="player1">
+    <div class="video-source-selector">
+        <button class="source-btn active" data-source="vk">VK</button>
+        <button class="source-btn" data-source="youtube">YouTube</button>
+    </div>
+    <div class="video-embed">
+        <div class="video-frame youtube-frame" style="display: none;">
+            <iframe src="https://www.youtube.com/embed/vyfhCnihTMQ" loading="lazy" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        </div>
+        <div class="video-frame vk-frame" style="display: block;">
+            <iframe src="https://vkvideo.ru/video_ext.php?oid=-187865475&id=456239126&hd=2&autoplay=1" allowfullscreen></iframe>
+        </div>
+    </div>
+</div>
 <p>Работа в HubEx складывается из двух частей:</p>
 <ol>
     <li>работа на стороне пользовательских приложений (web-версии и мобильных приложений): заполнение
@@ -47,9 +98,7 @@ keywords: знакомство с системой, первые шаги, hubex
     <li><a href="#addusers">Заказчиков, которые подают заявки;</a></li>
     <li><a href="#addusers">Исполнителей, которые выполняют заявки.</a></li>
 </ul>
-</html>
 
-<body>
 <p>После внесения основных данных можно переходить к <a href="#ticketcreation">созданию <strong>Заявок</strong> в
     мобильном и
     web-приложении</a>.</p>
@@ -130,12 +179,22 @@ keywords: знакомство с системой, первые шаги, hubex
     <details>
         <summary><span style="text-decoration: underline; color: #3366ff;"><span>Нажмите на строку, чтобы открыть и посмотреть видеоролик <strong>Как создавать объекты обслуживания в HubEx: способы создания объектов, маркировка, паспорт объекта</strong></span></span>.
         </summary>
-        <iframe src="https://www.youtube.com/embed/43uHUupRJZI" width="100%" height="450px" frameborder="0"
-                allowfullscreen="allowfullscreen"></iframe>
+        <div class="video-player-container" data-player-id="player1">
+            <div class="video-source-selector">
+                <button class="source-btn active" data-source="vk">VK</button>
+                <button class="source-btn" data-source="youtube">YouTube</button>
+            </div>
+            <div class="video-embed">
+                <div class="video-frame youtube-frame" style="display: none;">
+                    <iframe src="https://www.youtube.com/embed/43uHUupRJZI" loading="lazy" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                </div>
+                <div class="video-frame vk-frame" style="display: block;">
+                    <iframe src="https://vkvideo.ru/video_ext.php?oid=-187865475&id=456239114&hd=2&autoplay=1" allowfullscreen></iframe>
+                </div>
+            </div>
+        </div>
     </details>
 </p>
-
-
 <h5 id="addusers">Создание Сотрудников и Заказчиков</h5>
 <p>В системе HubEx существует два типа пользователей: <strong>Сотрудники</strong> и <strong>Заказчики</strong>.</p>
 <p><strong>Сотрудники</strong> – пользователи, которые могут создавать и выполнять <strong>Заявки</strong>. <strong>Сотрудники</strong>
@@ -162,14 +221,38 @@ keywords: знакомство с системой, первые шаги, hubex
 
 <p>Все варианты создания <strong>Заявок</strong> представлены в обучающем видеоролике <strong>Способы подачи заявки в
     HubEx</strong>.</p>
-<iframe src="https://www.youtube.com/embed/RtMhubKi7Jc" width="100%" height="450px" frameborder="0"
-        allowfullscreen="allowfullscreen"></iframe>
+<div class="video-player-container" data-player-id="player1">
+            <div class="video-source-selector">
+                <button class="source-btn active" data-source="vk">VK</button>
+                <button class="source-btn" data-source="youtube">YouTube</button>
+            </div>
+            <div class="video-embed">
+                <div class="video-frame youtube-frame" style="display: none;">
+                    <iframe src="https://www.youtube.com/embed/RtMhubKi7Jc" loading="lazy" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                </div>
+                <div class="video-frame vk-frame" style="display: block;">
+                    <iframe src="https://vkvideo.ru/video_ext.php?oid=-187865475&id=456239110&hd=2&autoplay=1" allowfullscreen></iframe>
+                </div>
+            </div>
+        </div>
 <p>
     <details>
         <summary><span style="text-decoration: underline; color: #3366ff;"><span>Нажмите на строку, чтобы открыть и посмотреть дополнительный видеоролик <strong>Создание заявки в HubEx: расшифровка и заполнение всех полей на форме заявки</strong></span></span>.
-        </summary>
-        <iframe src="https://www.youtube.com/embed/oc8QgdcuPoU" width="100%" height="450px" frameborder="0"
-                allowfullscreen="allowfullscreen"></iframe>
+        </summary>       
+<div class="video-player-container" data-player-id="player1">
+            <div class="video-source-selector">
+                <button class="source-btn active" data-source="vk">VK</button>
+                <button class="source-btn" data-source="youtube">YouTube</button>
+            </div>
+            <div class="video-embed">
+                <div class="video-frame youtube-frame" style="display: none;">
+                    <iframe src="https://www.youtube.com/embed/oc8QgdcuPoU" loading="lazy" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                </div>
+                <div class="video-frame vk-frame" style="display: block;">
+                    <iframe src="https://vkvideo.ru/video_ext.php?oid=-187865475&id=456239115&hd=2&autoplay=1" allowfullscreen></iframe>
+                </div>
+            </div>
+        </div>      
     </details>
 </p>
 <p> В системе HubEx предусмотрено два способа подачи <strong>Заявки</strong>: вручную и в полуавтоматическом режиме.
@@ -187,7 +270,6 @@ keywords: знакомство с системой, первые шаги, hubex
             <img style="margin: 0 auto; display: block; max-width: 95%;"
                  src="/attachments/images/FAQ/USER/HubExStepByStep/Tickets.jpg"/>
         </div>
-
         <p>Для подачи <strong>Заявки</strong> через мобильное приложение необходимо нажать на кнопку в правом нижнем
             углу, выбрать из списка необходимый <strong>Объект</strong> и заполнить поля <strong>Заявки</strong>. Подробнее читайте в статье <a
                     href="https://wiki.hubex.ru/docs/FAQ/RU/user/CreatingTicket.html#mobticket">Создание
@@ -222,27 +304,86 @@ keywords: знакомство с системой, первые шаги, hubex
         </div>
         </p>
     </li>
-
     <li>Полуавтоматический режим подразумевает сканирования QR-кода оборудования через мобильное приложение исполнителя
         или заказчика. Подробнее читайте в статье: <a
                 href="https://wiki.hubex.ru/docs/FAQ/RU/user/QRcodeMain.html">QR-код в HubEx: основные понятия</a>.
-
         <p>
             <details>
                 <summary><span style="text-decoration: underline; color: #3366ff;"><span>Нажмите на строку, чтобы открыть и посмотреть видеоролик <strong>Подача заявки по QR-коду</strong></span></span>.
                 </summary>
-                <iframe src="https://www.youtube.com/embed/yPugQerNlvo" width="100%" height="450px" frameborder="0"
-                        allowfullscreen="allowfullscreen"></iframe>
+<div class="video-player-container" data-player-id="player1">
+            <div class="video-source-selector">
+                <button class="source-btn active" data-source="vk">VK</button>
+                <button class="source-btn" data-source="youtube">YouTube</button>
+            </div>
+            <div class="video-embed">
+                <div class="video-frame youtube-frame" style="display: none;">
+                    <iframe src="https://www.youtube.com/embed/yPugQerNlvo" loading="lazy" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                </div>
+                <div class="video-frame vk-frame" style="display: block;">
+                    <iframe src="https://vkvideo.ru/video_ext.php?oid=-187865475&id=456239096&hd=2&autoplay=1" allowfullscreen></iframe>
+                </div>
+            </div>
+        </div>          
             </details>
         </p>
     </li>
-
-
 </ol>
 <p>Также <strong>Заявки</strong> можно загрузить в систему с помощью импорта: вы подготавливаете специальный шаблон в формате Excel и с
     его помощью можете загрузить до 1000 <strong>Заявок</strong> за раз.
     Подробнее читайте в статье: <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/Import.html#tickets">Импорт</a>.</p>
+    
+<script>
+    function hideSiblingVideo(activeVideo){
+        const nextSibling=activeVideo.nextElementSibling
+        const prevSibling=activeVideo.previousElementSibling
+        if(nextSibling){
+            nextSibling.style.display="none"
+        }
+        if(prevSibling){
+            prevSibling.style.display="none"
+        }
+    }
+ 
+    function switchActiveButtons(activeButton){
+        const nextSibling=activeButton.nextElementSibling
+        const prevSibling=activeButton.previousElementSibling
+        const activeClass="active"
+        if(nextSibling){
+            nextSibling.classList.remove(activeClass)
+        }
+        if(prevSibling){
+            prevSibling.classList.remove(activeClass)
+        }
+        activeButton.classList.add(activeClass)
+        return activeButton?.dataset?.source
+    }
 
+    function switchShowVideos(activeContainer,label){
+        const videoClass=`video-frame ${label}-frame`
+        const videoFrame=activeContainer.querySelector(videoClass)
+        const videos=activeContainer.children[1].children
+        const activeVideo=Array.from(videos).filter((item)=>item.className===videoClass)
+        console.debug({activeVideo})
+        hideSiblingVideo(activeVideo[0])
+        activeVideo[0].style.display="block"
+    }
+
+    const allVideoContainers=document.querySelectorAll(".video-player-container")
+    allVideoContainers.forEach((container)=>{
+        container.addEventListener("click",(e)=>{
+            if(!e.target.classList.contains('source-btn')) return;
+            
+            console.debug({e},{container})
+            const targetButton=e.target
+            const activeSource=switchActiveButtons(targetButton)
+            console.debug(activeSource)
+            if(activeSource){
+                switchShowVideos(container,activeSource)
+            }
+        })
+    })
+</script>
 </body>
 
 ____

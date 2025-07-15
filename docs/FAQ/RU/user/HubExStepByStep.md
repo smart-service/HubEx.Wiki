@@ -68,7 +68,7 @@ keywords: знакомство с системой, первые шаги, hubex
             <iframe src="https://www.youtube.com/embed/vyfhCnihTMQ" loading="lazy" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
         </div>
         <div class="video-frame vk-frame" style="display: block;">
-            <iframe src="https://vkvideo.ru/video_ext.php?oid=-187865475&id=456239126&hd=2&autoplay=1" allowfullscreen></iframe>
+            <iframe src="https://vkvideo.ru/video_ext.php?oid=-187865475&id=456239126&hd=2&autoplay=0" allowfullscreen></iframe>
         </div>
     </div>
 </div>

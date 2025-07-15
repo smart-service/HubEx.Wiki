@@ -189,7 +189,7 @@ keywords: знакомство с системой, первые шаги, hubex
                     <iframe src="https://www.youtube.com/embed/43uHUupRJZI" loading="lazy" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                 </div>
                 <div class="video-frame vk-frame" style="display: block;">
-                    <iframe src="https://vkvideo.ru/video_ext.php?oid=-187865475&id=456239114&hd=2&autoplay=1" allowfullscreen></iframe>
+                    <iframe src="https://vkvideo.ru/video_ext.php?oid=-187865475&id=456239114&hd=2&autoplay=0" allowfullscreen></iframe>
                 </div>
             </div>
         </div>
@@ -231,7 +231,7 @@ keywords: знакомство с системой, первые шаги, hubex
                     <iframe src="https://www.youtube.com/embed/RtMhubKi7Jc" loading="lazy" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                 </div>
                 <div class="video-frame vk-frame" style="display: block;">
-                    <iframe src="https://vkvideo.ru/video_ext.php?oid=-187865475&id=456239110&hd=2&autoplay=1" allowfullscreen></iframe>
+                    <iframe src="https://vkvideo.ru/video_ext.php?oid=-187865475&id=456239110&hd=2&autoplay=0" allowfullscreen></iframe>
                 </div>
             </div>
         </div>
@@ -249,7 +249,7 @@ keywords: знакомство с системой, первые шаги, hubex
                     <iframe src="https://www.youtube.com/embed/oc8QgdcuPoU" loading="lazy" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                 </div>
                 <div class="video-frame vk-frame" style="display: block;">
-                    <iframe src="https://vkvideo.ru/video_ext.php?oid=-187865475&id=456239115&hd=2&autoplay=1" allowfullscreen></iframe>
+                    <iframe src="https://vkvideo.ru/video_ext.php?oid=-187865475&id=456239115&hd=2&autoplay=0" allowfullscreen></iframe>
                 </div>
             </div>
         </div>      
@@ -279,16 +279,40 @@ keywords: знакомство с системой, первые шаги, hubex
             <details>
                 <summary><span style="text-decoration: underline; color: #3366ff;"><span>Нажмите на строку, чтобы открыть и посмотреть видеоролик <strong>Мобильное приложение инженера. Как работать сервисному специалисту на телефоне?</strong></span></span>.
                 </summary>
-                <iframe src="https://www.youtube.com/embed/JmMZzkI6o-c" width="100%" height="450px" frameborder="0"
-                        allowfullscreen="allowfullscreen"></iframe>
+<div class="video-player-container" data-player-id="player1">
+            <div class="video-source-selector">
+                <button class="source-btn active" data-source="vk">VK</button>
+                <button class="source-btn" data-source="youtube">YouTube</button>
+            </div>
+            <div class="video-embed">
+                <div class="video-frame youtube-frame" style="display: none;">
+                    <iframe src="https://www.youtube.com/embed/JmMZzkI6o-c" loading="lazy" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                </div>
+                <div class="video-frame vk-frame" style="display: block;">
+                    <iframe src="https://vkvideo.ru/video_ext.php?oid=-187865475&id=456239104&hd=2&autoplay=0" allowfullscreen></iframe>
+                </div>
+            </div>
+        </div>      
             </details>
         </p>
         <p>
             <details>
                 <summary><span style="text-decoration: underline; color: #3366ff;"><span>Нажмите на строку, чтобы открыть и посмотреть видеоролик <strong>Мобильное приложение заказчика. Как заказчику создавать и отслеживать заявки?</strong></span></span>.
                 </summary>
-                <iframe src="https://www.youtube.com/embed/TbCdCcZzVdc" width="100%" height="450px" frameborder="0"
-                        allowfullscreen="allowfullscreen"></iframe>
+<div class="video-player-container" data-player-id="player1">
+            <div class="video-source-selector">
+                <button class="source-btn active" data-source="vk">VK</button>
+                <button class="source-btn" data-source="youtube">YouTube</button>
+            </div>
+            <div class="video-embed">
+                <div class="video-frame youtube-frame" style="display: none;">
+                    <iframe src="https://www.youtube.com/embed/TbCdCcZzVdc" loading="lazy" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                </div>
+                <div class="video-frame vk-frame" style="display: block;">
+                    <iframe src="https://vkvideo.ru/video_ext.php?oid=-187865475&id=456239112&hd=2&autoplay=0" allowfullscreen></iframe>
+                </div>
+            </div>
+        </div>
             </details>
         </p>
         <p>
@@ -321,7 +345,7 @@ keywords: знакомство с системой, первые шаги, hubex
                     <iframe src="https://www.youtube.com/embed/yPugQerNlvo" loading="lazy" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                 </div>
                 <div class="video-frame vk-frame" style="display: block;">
-                    <iframe src="https://vkvideo.ru/video_ext.php?oid=-187865475&id=456239096&hd=2&autoplay=1" allowfullscreen></iframe>
+                    <iframe src="https://vkvideo.ru/video_ext.php?oid=-187865475&id=456239096&hd=2&autoplay=0" allowfullscreen></iframe>
                 </div>
             </div>
         </div>          

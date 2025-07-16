@@ -4,10 +4,50 @@ description: Создать новую Заявку можно в меню За�
 keywords: создать заявку, подать заявку, заявка в мобильном приложении, hubex, хабекс, хубекс, хабикс
 ---
 
-<h1>Создание заявки</h1>
-
-<html lang="RU">
+<html>
+<head>
+    <style>
+        .video-player-container {
+            margin: 20px 0;
+        }
+        .video-source-selector {
+            margin-bottom: 10px;
+        }
+        .source-btn {
+            padding: 8px 16px;
+            background: #f0f0f0;
+            border: 1px solid #ddd;
+            cursor: pointer;
+            margin-right: 5px;
+            border-radius: 4px;
+            font-family: Arial, sans-serif;
+            font-size: 14px;
+            transition: all 0.3s ease;
+        }
+        .source-btn:hover {
+            background: #e0e0e0;
+        }
+        .source-btn.active {
+            background: #45688e;
+            color: white;
+            border-color: #45688e;
+        }
+        .video-frame {
+            width: 560px;
+            height: 315px;
+            max-width: 100%;
+        }
+        .video-frame iframe {
+            width: 100%;
+            height: 100%;
+            border: none;
+        }
+    </style>
+</head>
+<body>
 <meta charset="utf-8">
+    
+<h1>Создание заявки</h1>
 
 <p>Содержание статьи:</p>
 
@@ -21,9 +61,6 @@ keywords: создать заявку, подать заявку, заявка �
     <li><a href="#task7">Альтернативные способы подачи заявок.</a></li>
 
 </ul>
-</html>
-
-<body>
 
 <h2 id="task1">Что такое заявка в HubEx</h2>
 
@@ -53,9 +90,37 @@ keywords: создать заявку, подать заявку, заявка �
 <p>Ознакомьтесь с обучающим видеороликом <strong>"Создание заявки в HubEx: расшифровка и заполнение всех полей на форме заявки"</strong>. В нем мы рассказываем о назначении всех полей на форме заявки и как их правильно заполнять.</p>
 <p>Подробная инструкция о создании и альтернативных способах подачи заявок представлена ниже:</p>
 
-<iframe src="https://www.youtube.com/embed/oc8QgdcuPoU" width="100%" height="450px" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+<div class="video-player-container" data-player-id="player1">
+    <div class="video-source-selector">
+        <button class="source-btn active" data-source="vk">VK</button>
+        <button class="source-btn" data-source="youtube">YouTube</button>
+    </div>
+    <div class="video-embed">
+        <div class="video-frame youtube-frame" style="display: none;">
+            <iframe src="https://www.youtube.com/embed/oc8QgdcuPoU" loading="lazy" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        </div>
+        <div class="video-frame vk-frame" style="display: block;">
+            <iframe src="https://vkvideo.ru/video_ext.php?oid=-187865475&id=456239115&hd=2&autoplay=0" allowfullscreen></iframe>
+        </div>
+    </div>
+</div>
 
-<p><details><summary><span style="text-decoration: underline; color: #3366ff;"><span>Нажмите на строку, чтобы открыть и посмотреть дополнительный видеоролик <strong>Способы подачи заявки в HubEx</strong></span></span>.</summary><iframe src="https://www.youtube.com/embed/RtMhubKi7Jc" width="100%" height="450px" frameborder="0" allowfullscreen="allowfullscreen"></iframe></details></p>
+<p><details><summary><span style="text-decoration: underline; color: #3366ff;"><span>Нажмите на строку, чтобы открыть и посмотреть дополнительный видеоролик <strong>Способы подачи заявки в HubEx</strong></span></span>.</summary>
+<div class="video-player-container" data-player-id="player1">
+    <div class="video-source-selector">
+        <button class="source-btn active" data-source="vk">VK</button>
+        <button class="source-btn" data-source="youtube">YouTube</button>
+    </div>
+    <div class="video-embed">
+        <div class="video-frame youtube-frame" style="display: none;">
+            <iframe src="https://www.youtube.com/embed/RtMhubKi7Jc" loading="lazy" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        </div>
+        <div class="video-frame vk-frame" style="display: block;">
+            <iframe src="https://vkvideo.ru/video_ext.php?oid=-187865475&id=456239110&hd=2&autoplay=0" allowfullscreen></iframe>
+        </div>
+    </div>
+</div>  
+</details></p>
 
 <p>Создать заявку можно перейдя в раздел левого бокового меню <strong>"Заявки"</strong>, подраздел <strong>"Все заявки"</strong>. Нажмите на кнопку <strong>"Создать заявку"</strong>.</p>
 
@@ -374,7 +439,20 @@ keywords: создать заявку, подать заявку, заявка �
 
 <p>Дополнительно ознакомьтесь с обучающим видеороликом <strong>"Мобильное приложение HubEx для исполнителя". Как работать сервисному специалисту на телефоне?</strong>. В нем представлен широкий обзор функциональных возможностей мобильного приложения для выездных сотрудников: авторизация в приложении, получение уведомлений, работа с <Strong>Заявками</Strong>, с чек-листами, выполненными работами, общение в чатах, работа с календарем и функционалом <strong>На смене</strong>. </p>
 
-<iframe src="https://www.youtube.com/embed/JmMZzkI6o-c" width="100%" height="450px" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+<div class="video-player-container" data-player-id="player1">
+    <div class="video-source-selector">
+        <button class="source-btn active" data-source="vk">VK</button>
+        <button class="source-btn" data-source="youtube">YouTube</button>
+    </div>
+    <div class="video-embed">
+        <div class="video-frame youtube-frame" style="display: none;">
+            <iframe src="https://www.youtube.com/embed/JmMZzkI6o-c" loading="lazy" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        </div>
+        <div class="video-frame vk-frame" style="display: block;">
+            <iframe src="https://vkvideo.ru/video_ext.php?oid=-187865475&id=456239104&hd=2&autoplay=0" allowfullscreen></iframe>
+        </div>
+    </div>
+</div>
 
 <h3 id="task7">Альтернативные способы подачи заявок</h3>
 
@@ -384,9 +462,60 @@ keywords: создать заявку, подать заявку, заявка �
     <li>С помощью импорта: вы можете с помощью специального шаблона в формате Excel загрузить до 2000 Заявок за раз. Подробнее читайте в статье: <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/Import.html#tickets">Импорт</a>. </li>
 </ul>
 
+<script>
+    function hideSiblingVideo(activeVideo){
+        const nextSibling=activeVideo.nextElementSibling
+        const prevSibling=activeVideo.previousElementSibling
+        if(nextSibling){
+            nextSibling.style.display="none"
+        }
+        if(prevSibling){
+            prevSibling.style.display="none"
+        }
+    }
+ 
+    function switchActiveButtons(activeButton){
+        const nextSibling=activeButton.nextElementSibling
+        const prevSibling=activeButton.previousElementSibling
+        const activeClass="active"
+        if(nextSibling){
+            nextSibling.classList.remove(activeClass)
+        }
+        if(prevSibling){
+            prevSibling.classList.remove(activeClass)
+        }
+        activeButton.classList.add(activeClass)
+        return activeButton?.dataset?.source
+    }
+
+    function switchShowVideos(activeContainer,label){
+        const videoClass=`video-frame ${label}-frame`
+        const videoFrame=activeContainer.querySelector(videoClass)
+        const videos=activeContainer.children[1].children
+        const activeVideo=Array.from(videos).filter((item)=>item.className===videoClass)
+        console.debug({activeVideo})
+        hideSiblingVideo(activeVideo[0])
+        activeVideo[0].style.display="block"
+    }
+
+    const allVideoContainers=document.querySelectorAll(".video-player-container")
+    allVideoContainers.forEach((container)=>{
+        container.addEventListener("click",(e)=>{
+            if(!e.target.classList.contains('source-btn')) return;
+            
+            console.debug({e},{container})
+            const targetButton=e.target
+            const activeSource=switchActiveButtons(targetButton)
+            console.debug(activeSource)
+            if(activeSource){
+                switchShowVideos(container,activeSource)
+            }
+        })
+    })
+</script>
+
 </body>
-
-
+</html>
 
 ___
 ### Следующие шаги:

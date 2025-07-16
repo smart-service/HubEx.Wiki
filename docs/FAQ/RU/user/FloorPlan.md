@@ -8,6 +8,46 @@ keywords:  hubex, хабекс, хубекс, хабикс
 #### Планы помещений
 В этом разделе вы узнаете:
 <html>
+<head>
+    <style>
+        .video-player-container {
+            margin: 20px 0;
+        }
+        .video-source-selector {
+            margin-bottom: 10px;
+        }
+        .source-btn {
+            padding: 8px 16px;
+            background: #f0f0f0;
+            border: 1px solid #ddd;
+            cursor: pointer;
+            margin-right: 5px;
+            border-radius: 4px;
+            font-family: Arial, sans-serif;
+            font-size: 14px;
+            transition: all 0.3s ease;
+        }
+        .source-btn:hover {
+            background: #e0e0e0;
+        }
+        .source-btn.active {
+            background: #45688e;
+            color: white;
+            border-color: #45688e;
+        }
+        .video-frame {
+            width: 560px;
+            height: 315px;
+            max-width: 100%;
+        }
+        .video-frame iframe {
+            width: 100%;
+            height: 100%;
+            border: none;
+        }
+    </style>
+</head>
+<body>
 <meta charset="utf-8">
 <ul>
     <li><a href="#planinobject">Как добавить план объекта (план помещений)</a>;</li>
@@ -15,21 +55,26 @@ keywords:  hubex, хабекс, хубекс, хабикс
     <li><a href="#planinticketmob">Как указать расположение Объекта при подаче Заявки в мобильном приложении</a>.</li>
   <!--  <li><a href="#settings">Как настроить роли для использования планов помещений.</a></li>-->
 
-
 </ul>
-</html>
-<body>
-<p>Использование планов помещений позволяет сократить затраты времени на поиск и устранение неисправностей: при подаче
-    <Strong>Заявки</Strong> можно посмотреть или указать новое местоположение проблемы на карте бизнес-центра. </p>
-
+<p>Использование планов помещений позволяет сократить затраты времени на поиск и устранение неисправностей: при подаче <Strong>Заявки</Strong> можно посмотреть или указать новое местоположение проблемы на карте бизнес-центра. </p>
 <p>Также любой заказчик при подаче <Strong>Заявки</Strong> через мобильное приложение может сфотографировать неисправное оборудование и
     отметить его расположение на плане.</p>
+<p>Прочтите подробную статью ниже или начните знакомство с темой с обучающего видеоролика <strong>Планы помещений: как подать заявку с отметкой на плане</strong>.</p>
 
-    
-       <p>Прочтите подробную статью ниже или начните знакомство с темой с обучающего видеоролика <strong>Планы помещений: как подать заявку с отметкой на плане</strong>.</p>
-<iframe src="https://www.youtube.com/embed/8mUe-ejqDGQ" width="100%" height="450px" frameborder="0"
-        allowfullscreen="allowfullscreen"></iframe>
-
+<div class="video-player-container" data-player-id="player1">
+    <div class="video-source-selector">
+        <button class="source-btn active" data-source="vk">VK</button>
+        <button class="source-btn" data-source="youtube">YouTube</button>
+    </div>
+    <div class="video-embed">
+        <div class="video-frame youtube-frame" style="display: none;">
+            <iframe src="https://www.youtube.com/embed/8mUe-ejqDGQ" loading="lazy" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        </div>
+        <div class="video-frame vk-frame" style="display: block;">
+            <iframe src="https://vkvideo.ru/video_ext.php?oid=-187865475&id=456239103&hd=2&autoplay=0" allowfullscreen></iframe>
+        </div>
+    </div>
+</div>
 
 <h5 id="planinobject">Добавление плана объекта</h5>
 <p>План помещения добавляется индивидуально в карточке <Strong>Объекта</Strong> на вкладке <Strong>Объект|Оборудование</Strong> в поле <Strong>План объекта</Strong>. Для каждого <Strong>Объекта</Strong> может
@@ -38,7 +83,6 @@ keywords:  hubex, хабекс, хубекс, хабикс
     <img style="margin: 0 auto; display: block; max-width: 95%;"
          src="/attachments/images/FAQ/USER/FloorPlan/Object.jpg"/>
 </div>
-
 
 <p>Расположение объекта можно отмечать на плане в самой карточке <Strong>Объекта</Strong>. Такое расположение будет считаться расположением по умолчанию. Его можно изменять при подаче <Strong>Заявки</Strong> в web-приложении и через мобильные приложения заказчика и
     исполнителя.</p>
@@ -102,8 +146,6 @@ keywords:  hubex, хабекс, хубекс, хабикс
         подача заявки по QR-коду</a>, <a
             href="https://wiki.hubex.ru/docs/FAQ/RU/admin/Roles.html">Настройка ролей</a>.-->
 
-
-
 <p>Если в карточке <Strong>Объекта</Strong> было задано расположение по умолчанию, оно будет отображено на плане. Изменить расположение <Strong>Объекта</Strong> на плане можно при заполнении <Strong>Заявки</Strong>. Для этого необходимо на форме <Strong>Заявки</Strong> нажать на
     область с планом и установить метку. Если расположение по умолчанию не было задано, то план будет отображаться без пина.</p>
 
@@ -139,8 +181,61 @@ keywords:  hubex, хабекс, хубекс, хабикс
 
 <!--<h5 id="settings">Настройка ролей для использования планов помещений</h5>
 <p>Для подключения функционала </p>-->
-</body>
 
+<script>
+    function hideSiblingVideo(activeVideo){
+        const nextSibling=activeVideo.nextElementSibling
+        const prevSibling=activeVideo.previousElementSibling
+        if(nextSibling){
+            nextSibling.style.display="none"
+        }
+        if(prevSibling){
+            prevSibling.style.display="none"
+        }
+    }
+ 
+    function switchActiveButtons(activeButton){
+        const nextSibling=activeButton.nextElementSibling
+        const prevSibling=activeButton.previousElementSibling
+        const activeClass="active"
+        if(nextSibling){
+            nextSibling.classList.remove(activeClass)
+        }
+        if(prevSibling){
+            prevSibling.classList.remove(activeClass)
+        }
+        activeButton.classList.add(activeClass)
+        return activeButton?.dataset?.source
+    }
+
+    function switchShowVideos(activeContainer,label){
+        const videoClass=`video-frame ${label}-frame`
+        const videoFrame=activeContainer.querySelector(videoClass)
+        const videos=activeContainer.children[1].children
+        const activeVideo=Array.from(videos).filter((item)=>item.className===videoClass)
+        console.debug({activeVideo})
+        hideSiblingVideo(activeVideo[0])
+        activeVideo[0].style.display="block"
+    }
+
+    const allVideoContainers=document.querySelectorAll(".video-player-container")
+    allVideoContainers.forEach((container)=>{
+        container.addEventListener("click",(e)=>{
+            if(!e.target.classList.contains('source-btn')) return;
+            
+            console.debug({e},{container})
+            const targetButton=e.target
+            const activeSource=switchActiveButtons(targetButton)
+            console.debug(activeSource)
+            if(activeSource){
+                switchShowVideos(container,activeSource)
+            }
+        })
+    })
+</script>
+
+</body>
+</html>
 
 ___
 ### Следующие шаги:

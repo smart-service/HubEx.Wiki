@@ -5,26 +5,76 @@ keywords: выполненные работы, офлайн, нет интерн
 ---
 
 ### Прикрепление выполненных работ в web и мобильном приложении
-В этом разделе вы научитесь:
 <html>
+<head>
+    <style>
+        .video-player-container {
+            margin: 20px 0;
+        }
+        .video-source-selector {
+            margin-bottom: 10px;
+        }
+        .source-btn {
+            padding: 8px 16px;
+            background: #f0f0f0;
+            border: 1px solid #ddd;
+            cursor: pointer;
+            margin-right: 5px;
+            border-radius: 4px;
+            font-family: Arial, sans-serif;
+            font-size: 14px;
+            transition: all 0.3s ease;
+        }
+        .source-btn:hover {
+            background: #e0e0e0;
+        }
+        .source-btn.active {
+            background: #45688e;
+            color: white;
+            border-color: #45688e;
+        }
+        .video-frame {
+            width: 560px;
+            height: 315px;
+            max-width: 100%;
+        }
+        .video-frame iframe {
+            width: 100%;
+            height: 100%;
+            border: none;
+        }
+    </style>
+</head>
+<body>
 <meta charset="utf-8">
+В этом разделе вы научитесь:
 <ul>
     <li><a href="#web">Прикреплять выполненные работы к Заявке в web-приложении</a>;</li>
     <li><a href="#mobile">Прикреплять выполненные работы к Заявке в мобильном приложении исполнителя</a>;</li>
     <li><a href="#offline">Прикреплять выполненные работы в мобильном приложении без подключения к интернету.</a></li>
     <!-- <li><a href="#payment">Отправка Счета на оплату заказчику и оплата Акта.</a></li> -->
-
 </ul>
-</html>
-<body>
 <p>Заполнение выполненных работ в <strong>Заявке</strong> позволяет отслеживать выполнение согласно требованиям
     заказчика,
     контролировать ход выполнения <strong>Заявки</strong>, а также позволяет сформировать <a
             href="https://wiki.hubex.ru/docs/FAQ/RU/user/ActOFAcceptance.html">Акт выполненных работ</a> и т.д. </p>
 
 <p>Прочтите подробную статью ниже или начните знакомство с темой с обучающего видеоролика <strong>Заполнение выполненных работ и их помощь в оцифровке ваших показателей и KPI</strong>.</p>
-<iframe src="https://www.youtube.com/embed/4BK9PCQ60N0" width="100%" height="450px" frameborder="0"
-        allowfullscreen="allowfullscreen"></iframe>
+
+<div class="video-player-container" data-player-id="player1">
+    <div class="video-source-selector">
+        <button class="source-btn active" data-source="vk">VK</button>
+        <button class="source-btn" data-source="youtube">YouTube</button>
+    </div>
+    <div class="video-embed">
+        <div class="video-frame youtube-frame" style="display: none;">
+            <iframe src="https://www.youtube.com/embed/4BK9PCQ60N0" loading="lazy" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        </div>
+        <div class="video-frame vk-frame" style="display: block;">
+            <iframe src="https://vkvideo.ru/video_ext.php?oid=-187865475&id=456239095&hd=2&autoplay=0" allowfullscreen></iframe>
+        </div>
+    </div>
+</div>
 
 <h5 id="web">Прикрепление выполненных работ в Заявке в web-приложении</h5>
 <p>Чтобы добавить выполненную работу, перейдите в <strong>Заявке</strong> на вкладку <strong>Выполнение</strong> и
@@ -69,8 +119,21 @@ keywords: выполненные работы, офлайн, нет интерн
 <h5 id="mobile">Прикрепление выполненных работ к Заявке в мобильном приложении исполнителя</h5>
 
 <p>Прочтите пошаговую инструкцию ниже или посмотрите обучающий видеоролик  <strong>Мобильное приложение инженера. Как работать сервисному специалисту на телефоне?</strong> В нем представлен широкий обзор функциональных возможностей мобильного приложения для выездных сотрудников: авторизация в приложении, получение уведомлений, работа с <Strong>Заявками</Strong>, с чек-листами, выполненными работами, общение в чатах, работа с календарем и функционалом На смене. </p>
-<iframe src="https://www.youtube.com/embed/JmMZzkI6o-c" width="100%" height="450px" frameborder="0"
-        allowfullscreen="allowfullscreen"></iframe>
+
+<div class="video-player-container" data-player-id="player1">
+    <div class="video-source-selector">
+        <button class="source-btn active" data-source="vk">VK</button>
+        <button class="source-btn" data-source="youtube">YouTube</button>
+    </div>
+    <div class="video-embed">
+        <div class="video-frame youtube-frame" style="display: none;">
+            <iframe src="https://www.youtube.com/embed/JmMZzkI6o-c" loading="lazy" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        </div>
+        <div class="video-frame vk-frame" style="display: block;">
+            <iframe src="https://vkvideo.ru/video_ext.php?oid=-187865475&id=456239104&hd=2&autoplay=0" allowfullscreen></iframe>
+        </div>
+    </div>
+</div>
 
 <p> Для <strong>Сотрудников</strong> доступно мобильное приложение <strong>HubEx исполнитель</strong>, которое можно скачать <a
         href="https://play.google.com/store/apps/details?id=ru.hubex.engineer">для Android</a> или <a
@@ -159,8 +222,60 @@ keywords: выполненные работы, офлайн, нет интерн
 <p>Все внесенные изменения будут отражаться в web-приложении в <strong>Заявке</strong> на вкладке <strong>История
     изменений</strong>.</p>
 
+<script>
+    function hideSiblingVideo(activeVideo){
+        const nextSibling=activeVideo.nextElementSibling
+        const prevSibling=activeVideo.previousElementSibling
+        if(nextSibling){
+            nextSibling.style.display="none"
+        }
+        if(prevSibling){
+            prevSibling.style.display="none"
+        }
+    }
+ 
+    function switchActiveButtons(activeButton){
+        const nextSibling=activeButton.nextElementSibling
+        const prevSibling=activeButton.previousElementSibling
+        const activeClass="active"
+        if(nextSibling){
+            nextSibling.classList.remove(activeClass)
+        }
+        if(prevSibling){
+            prevSibling.classList.remove(activeClass)
+        }
+        activeButton.classList.add(activeClass)
+        return activeButton?.dataset?.source
+    }
+
+    function switchShowVideos(activeContainer,label){
+        const videoClass=`video-frame ${label}-frame`
+        const videoFrame=activeContainer.querySelector(videoClass)
+        const videos=activeContainer.children[1].children
+        const activeVideo=Array.from(videos).filter((item)=>item.className===videoClass)
+        console.debug({activeVideo})
+        hideSiblingVideo(activeVideo[0])
+        activeVideo[0].style.display="block"
+    }
+
+    const allVideoContainers=document.querySelectorAll(".video-player-container")
+    allVideoContainers.forEach((container)=>{
+        container.addEventListener("click",(e)=>{
+            if(!e.target.classList.contains('source-btn')) return;
+            
+            console.debug({e},{container})
+            const targetButton=e.target
+            const activeSource=switchActiveButtons(targetButton)
+            console.debug(activeSource)
+            if(activeSource){
+                switchShowVideos(container,activeSource)
+            }
+        })
+    })
+</script>
 
 </body>
+</html>
 
 ___
 ### Следующие шаги:

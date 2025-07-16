@@ -332,8 +332,6 @@ keywords: qr-код, шаблон заявки, скачать QR-код, пас
 </ul>
 
 <p>Ознакомьтесь с обучающим видеороликом <strong>Контроль присутствия сотрудника на объекте</strong>. В нем мы на примере показываем, как выглядит подтверждение пребывания по QR-коду. Подробную инструкцию можно прочитать ниже. </p>
-<iframe src="https://www.youtube.com/embed/FbMtjM_bgGU?si=ospj7f783SwEnLeg" width="100%" height="450px" frameborder="0"
-        allowfullscreen="allowfullscreen"></iframe>
 
 <div class="video-player-container" data-player-id="player2">
     <div class="video-source-selector">

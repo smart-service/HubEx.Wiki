@@ -4,10 +4,50 @@ description: Заказчик - пользователь, который мож�
 keywords: создание заказчика, создание пользователя, hubex, хабекс, хубекс, хабикс
 ---
 
-<h1>Создание заказчика</h1>
-
-<html lang="ru">
+<html>
+<head>
+    <style>
+        .video-player-container {
+            margin: 20px 0;
+        }
+        .video-source-selector {
+            margin-bottom: 10px;
+        }
+        .source-btn {
+            padding: 8px 16px;
+            background: #f0f0f0;
+            border: 1px solid #ddd;
+            cursor: pointer;
+            margin-right: 5px;
+            border-radius: 4px;
+            font-family: Arial, sans-serif;
+            font-size: 14px;
+            transition: all 0.3s ease;
+        }
+        .source-btn:hover {
+            background: #e0e0e0;
+        }
+        .source-btn.active {
+            background: #45688e;
+            color: white;
+            border-color: #45688e;
+        }
+        .video-frame {
+            width: 560px;
+            height: 315px;
+            max-width: 100%;
+        }
+        .video-frame iframe {
+            width: 100%;
+            height: 100%;
+            border: none;
+        }
+    </style>
+</head>
+<body>
 <meta charset="utf-8">
+    
+<h1>Создание заказчика</h1>
 
 <p>Содержание статьи:</p>
 
@@ -19,16 +59,27 @@ keywords: создание заказчика, создание пользова
     <li><a href="#customer5">Что представляет собой список заказчиков;</a></li>
     <li><a href="#customer6">Как перевести заказчика в сотрудники.</a></li>
 </ul>
-</html>
-
-<body>
 
 <h2 id="customer1">Введение</h2>
 
 <p><strong>Заказчик</strong> - это пользователь, который может создавать <strong>Заявки</strong> в мобильном приложении заказчика. <strong>Заказчик</strong> привязывается к компании-заказчику. С помощью настройки прав доступа для <strong>Заказчика</strong> ограничивается доступ к функционалу системы. Например, заказчик сможет видеть только свои <strong>Объекты (оборудование)</strong>, видеть <strong>Заявки</strong> только по своей компании и т.д.</p>
 <p>Для Заказчика доступно мобильное приложение <strong>HubEx заказчик</strong>, которое можно скачать <a href="https://play.google.com/store/apps/details?id=ru.hubex.customer">для Android</a> или <a href="https://apps.apple.com/ru/app/hubex-%D0%B4%D0%BB%D1%8F-%D0%B7%D0%B0%D0%BA%D0%B0%D0%B7%D1%87%D0%B8%D0%BA%D0%B0/id1386631658">для iOS</a>.</p>
 <p>Прочтите подробную статью ниже или начните знакомство с темой с обучающего видеоролика <strong>"Как создать нового пользователя в HubEx"</strong>.</p>
-<iframe src="https://www.youtube.com/embed/wuEMTcEQeCY" width="100%" height="450px" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+
+<div class="video-player-container" data-player-id="player1">
+    <div class="video-source-selector">
+        <button class="source-btn active" data-source="vk">VK</button>
+        <button class="source-btn" data-source="youtube">YouTube</button>
+    </div>
+    <div class="video-embed">
+        <div class="video-frame youtube-frame" style="display: none;">
+            <iframe src="https://www.youtube.com/embed/wuEMTcEQeCY" loading="lazy" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        </div>
+        <div class="video-frame vk-frame" style="display: block;">
+            <iframe src="https://vkvideo.ru/video_ext.php?oid=-187865475&id=456239109&hd=2&autoplay=0" allowfullscreen></iframe>
+        </div>
+    </div>
+</div>
 
 <p>Создать нового заказчика можно в разделе левого бокового меню <strong>"Пользователи" - "Заказчики"</strong> по кнопке <strong>"Создать заказчика"</strong>.</p>
 
@@ -145,16 +196,66 @@ keywords: создание заказчика, создание пользова
 
 <p>Обратите внимание, что при переводе <strong>"Заказчика"</strong> в <strong>"Сотрудники"</strong>, его роль не меняется. Роль нужно изменить вручную.</p>
 
+<script>
+    function hideSiblingVideo(activeVideo){
+        const nextSibling=activeVideo.nextElementSibling
+        const prevSibling=activeVideo.previousElementSibling
+        if(nextSibling){
+            nextSibling.style.display="none"
+        }
+        if(prevSibling){
+            prevSibling.style.display="none"
+        }
+    }
+ 
+    function switchActiveButtons(activeButton){
+        const nextSibling=activeButton.nextElementSibling
+        const prevSibling=activeButton.previousElementSibling
+        const activeClass="active"
+        if(nextSibling){
+            nextSibling.classList.remove(activeClass)
+        }
+        if(prevSibling){
+            prevSibling.classList.remove(activeClass)
+        }
+        activeButton.classList.add(activeClass)
+        return activeButton?.dataset?.source
+    }
+
+    function switchShowVideos(activeContainer,label){
+        const videoClass=`video-frame ${label}-frame`
+        const videoFrame=activeContainer.querySelector(videoClass)
+        const videos=activeContainer.children[1].children
+        const activeVideo=Array.from(videos).filter((item)=>item.className===videoClass)
+        console.debug({activeVideo})
+        hideSiblingVideo(activeVideo[0])
+        activeVideo[0].style.display="block"
+    }
+
+    const allVideoContainers=document.querySelectorAll(".video-player-container")
+    allVideoContainers.forEach((container)=>{
+        container.addEventListener("click",(e)=>{
+            if(!e.target.classList.contains('source-btn')) return;
+            
+            console.debug({e},{container})
+            const targetButton=e.target
+            const activeSource=switchActiveButtons(targetButton)
+            console.debug(activeSource)
+            if(activeSource){
+                switchShowVideos(container,activeSource)
+            }
+        })
+    })
+</script>
+
 </body>
-
-
+</html>
 
 ___
 ### Следующие шаги:
 - [Создание заявки](./CreatingTicket.md)
 - [Переход заявки по стадиям и удаление заявки](./ChangingStatus.md)
 - [Список заявок, поиск заявок с помощью фильтров](./Filters.md)
-
 
 ____
 - [Перейти в меню](http://wiki.hubex.ru)

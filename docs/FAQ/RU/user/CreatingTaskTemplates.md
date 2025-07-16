@@ -5,9 +5,49 @@ keywords: qr-код, шаблон заявки, скачать QR-код, пас
 ---
 
 #### Создание шаблона заявки, подача заявки по QR-коду
-В этом разделе вы узнаете:
 <html>
+<head>
+    <style>
+        .video-player-container {
+            margin: 20px 0;
+        }
+        .video-source-selector {
+            margin-bottom: 10px;
+        }
+        .source-btn {
+            padding: 8px 16px;
+            background: #f0f0f0;
+            border: 1px solid #ddd;
+            cursor: pointer;
+            margin-right: 5px;
+            border-radius: 4px;
+            font-family: Arial, sans-serif;
+            font-size: 14px;
+            transition: all 0.3s ease;
+        }
+        .source-btn:hover {
+            background: #e0e0e0;
+        }
+        .source-btn.active {
+            background: #45688e;
+            color: white;
+            border-color: #45688e;
+        }
+        .video-frame {
+            width: 560px;
+            height: 315px;
+            max-width: 100%;
+        }
+        .video-frame iframe {
+            width: 100%;
+            height: 100%;
+            border: none;
+        }
+    </style>
+</head>
+<body>
 <meta charset="utf-8">
+В этом разделе вы узнаете:
 <ul>
     <li><a href="#ticktempl">Как создать шаблон заявки и QR-код;</a></li>
     <li><a href="#passport">Как посмотреть паспорт объекта и подать заявку в мобильном приложении исполнителя и
@@ -16,8 +56,6 @@ keywords: qr-код, шаблон заявки, скачать QR-код, пас
     <li><a href="#exportqr">Как экспортировать QR-коды;</a></li>
     <li><a href="#staymark">Как использовать QR-коды для подтверждения пребывания на объекте</a>.</li>
 </ul>
-</html>
-<body>
 
 <p>Шаблон заявки – образец <strong>Заявки</strong> с заполненными основными полями: <strong>Тип заявки</strong>, <strong>Объект</strong>, <strong>Заказчик</strong>, <strong>Вид работ</strong>, <strong>Критичность</strong>,
     <strong>Описание заявки</strong>, <strong>Исполнитель</strong>.
@@ -54,8 +92,21 @@ keywords: qr-код, шаблон заявки, скачать QR-код, пас
 
 <p>Пример создания QR-кода и подачи <strong>Заявки</strong> через приложение вы можете посмотреть в нашем обучающем
     видеоролике.</p>
-<iframe src="https://www.youtube.com/embed/yPugQerNlvo" width="100%" height="450px" frameborder="0"
-        allowfullscreen="allowfullscreen"></iframe>
+
+<div class="video-player-container" data-player-id="player2">
+    <div class="video-source-selector">
+        <button class="source-btn active" data-source="vk">VK</button>
+        <button class="source-btn" data-source="youtube">YouTube</button>
+    </div>
+    <div class="video-embed">
+        <div class="video-frame youtube-frame" style="display: none;">
+            <iframe src="https://www.youtube.com/embed/yPugQerNlvo" loading="lazy" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        </div>
+        <div class="video-frame vk-frame" style="display: block;">
+            <iframe src="https://vkvideo.ru/video_ext.php?oid=-187865475&id=456239096&hd=2&autoplay=0" allowfullscreen></iframe>
+        </div>
+    </div>
+</div>
 
 <h5 id="ticktempl">Cоздание шаблона заявки и QR-кода</h5>
 <p>Создать QR-код и шаблон заявки можно в web-приложении двумя способами:
@@ -280,11 +331,24 @@ keywords: qr-код, шаблон заявки, скачать QR-код, пас
     <li>Повышение уровня ответственности исполнителей.</li>
 </ul>
 
-
-
 <p>Ознакомьтесь с обучающим видеороликом <strong>Контроль присутствия сотрудника на объекте</strong>. В нем мы на примере показываем, как выглядит подтверждение пребывания по QR-коду. Подробную инструкцию можно прочитать ниже. </p>
 <iframe src="https://www.youtube.com/embed/FbMtjM_bgGU?si=ospj7f783SwEnLeg" width="100%" height="450px" frameborder="0"
         allowfullscreen="allowfullscreen"></iframe>
+
+<div class="video-player-container" data-player-id="player2">
+    <div class="video-source-selector">
+        <button class="source-btn active" data-source="vk">VK</button>
+        <button class="source-btn" data-source="youtube">YouTube</button>
+    </div>
+    <div class="video-embed">
+        <div class="video-frame youtube-frame" style="display: none;">
+            <iframe src="https://www.youtube.com/embed/FbMtjM_bgGU?si=ospj7f783SwEnLeg" loading="lazy" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        </div>
+        <div class="video-frame vk-frame" style="display: block;">
+            <iframe src="https://vkvideo.ru/video_ext.php?oid=-187865475&id=456239128&hd=2&autoplay=0" allowfullscreen></iframe>
+        </div>
+    </div>
+</div>
 
 <p>Как работает функционал подтверждения пребывания на объекте?</p>
 <p>Сотрудник в мобильном приложении <strong>HubEx исполнитель</strong> при переводе <strong>Заявки</strong> на
@@ -321,8 +385,60 @@ keywords: qr-код, шаблон заявки, скачать QR-код, пас
          src="/attachments/images/FAQ/USER/CreatingTickTemplates/Error.jpg"/>
 </div>
 
+<script>
+    function hideSiblingVideo(activeVideo){
+        const nextSibling=activeVideo.nextElementSibling
+        const prevSibling=activeVideo.previousElementSibling
+        if(nextSibling){
+            nextSibling.style.display="none"
+        }
+        if(prevSibling){
+            prevSibling.style.display="none"
+        }
+    }
+ 
+    function switchActiveButtons(activeButton){
+        const nextSibling=activeButton.nextElementSibling
+        const prevSibling=activeButton.previousElementSibling
+        const activeClass="active"
+        if(nextSibling){
+            nextSibling.classList.remove(activeClass)
+        }
+        if(prevSibling){
+            prevSibling.classList.remove(activeClass)
+        }
+        activeButton.classList.add(activeClass)
+        return activeButton?.dataset?.source
+    }
+
+    function switchShowVideos(activeContainer,label){
+        const videoClass=`video-frame ${label}-frame`
+        const videoFrame=activeContainer.querySelector(videoClass)
+        const videos=activeContainer.children[1].children
+        const activeVideo=Array.from(videos).filter((item)=>item.className===videoClass)
+        console.debug({activeVideo})
+        hideSiblingVideo(activeVideo[0])
+        activeVideo[0].style.display="block"
+    }
+
+    const allVideoContainers=document.querySelectorAll(".video-player-container")
+    allVideoContainers.forEach((container)=>{
+        container.addEventListener("click",(e)=>{
+            if(!e.target.classList.contains('source-btn')) return;
+            
+            console.debug({e},{container})
+            const targetButton=e.target
+            const activeSource=switchActiveButtons(targetButton)
+            console.debug(activeSource)
+            if(activeSource){
+                switchShowVideos(container,activeSource)
+            }
+        })
+    })
+</script>
 
 </body>
+</html>
 
 ___
 ### Следующие шаги:

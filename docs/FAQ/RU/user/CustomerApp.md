@@ -6,9 +6,49 @@ keywords: инструкция для заказчика, мобильное п�
 ---
 
 #### Работа с заявками в мобильном приложении HubEx заказчик: заявки, акты, оценка исполнителей
-В этом разделе вы узнаете:
 <html>
+<head>
+    <style>
+        .video-player-container {
+            margin: 20px 0;
+        }
+        .video-source-selector {
+            margin-bottom: 10px;
+        }
+        .source-btn {
+            padding: 8px 16px;
+            background: #f0f0f0;
+            border: 1px solid #ddd;
+            cursor: pointer;
+            margin-right: 5px;
+            border-radius: 4px;
+            font-family: Arial, sans-serif;
+            font-size: 14px;
+            transition: all 0.3s ease;
+        }
+        .source-btn:hover {
+            background: #e0e0e0;
+        }
+        .source-btn.active {
+            background: #45688e;
+            color: white;
+            border-color: #45688e;
+        }
+        .video-frame {
+            width: 560px;
+            height: 315px;
+            max-width: 100%;
+        }
+        .video-frame iframe {
+            width: 100%;
+            height: 100%;
+            border: none;
+        }
+    </style>
+</head>
+<body>
 <meta charset="utf-8">
+<p>В этом разделе вы узнаете:</p>
 
 <ul>
     <li><a href="#entermob">Как войти в мобильное приложение HubEx заказчик</a>;</li>
@@ -19,7 +59,6 @@ keywords: инструкция для заказчика, мобильное п�
     <li><a href="#actmob">Как принять работы по заявке и подписать акт;</a></li>
     <li><a href="#ratingmob">Как оценить работу исполнителя.</a></li>
 </ul>
-</html>
 
 <p>Мобильное приложение для заказчика позволяет оперативно создавать <strong>Заявки</strong>, подписывать акты
     выполненных работ и
@@ -40,8 +79,20 @@ keywords: инструкция для заказчика, мобильное п�
 
  <p>Прочтите подробную статью ниже или начните знакомство с темой с обучающего видеоролика <strong>Мобильное приложение заказчика. Как заказчику создавать и отслеживать заявки?</strong></p>
 
-<iframe src="https://www.youtube.com/embed/TbCdCcZzVdc" width="100%" height="450px" frameborder="0"
-        allowfullscreen="allowfullscreen"></iframe>
+<div class="video-player-container" data-player-id="player8">
+    <div class="video-source-selector">
+        <button class="source-btn active" data-source="vk">VK</button>
+        <button class="source-btn" data-source="youtube">YouTube</button>
+    </div>
+    <div class="video-embed">
+        <div class="video-frame youtube-frame" style="display: none;">
+            <iframe src="https://www.youtube.com/embed/TbCdCcZzVdc" loading="lazy" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        </div>
+        <div class="video-frame vk-frame" style="display: block;">
+            <iframe src="https://vkvideo.ru/video_ext.php?oid=-187865475&id=456239112&hd=2&autoplay=0" allowfullscreen></iframe>
+        </div>
+    </div>
+</div>
 
 
 <h5 id="entermob">Вход в мобильное приложение HubEx заказчик</h5>
@@ -126,15 +177,12 @@ keywords: инструкция для заказчика, мобильное п�
     <li><strong>Архив</strong>: здесь находятся закрытые <strong>Заявки</strong>.</li>
 </ul>
 
-
-
 <p>У каждой <strong>Заявки</strong> в списке отображается ее статус, на каком этапе находится заявка – В работе, Выполнена и т.д.</p>
 
 <div>
     <img style="margin: 0 auto; display: block; max-width: 40%;"
          src="/attachments/images/FAQ/USER/CustomerApp/Ticket3.jpg"/>
 </div>
-
 
 <p>Для создания новой <strong>Заявки</strong> нажмите кнопку подачи заявки в правом нижнем углу.</p>
 <div>
@@ -200,7 +248,6 @@ keywords: инструкция для заказчика, мобильное п�
          src="/attachments/images/FAQ/USER/CustomerApp/Filter.jpg"/>
 </div>
 
-
 <h5 id="mapmob">Просмотр карты в заявке</h5>
 <p>В уже созданной <strong>Заявке</strong> вы можете посмотреть на карте, где находится исполнитель, назначенный на эту <strong>Заявку</strong>. </p>
 <p>Откройте <strong>Заявку</strong> и ниже поля <strong>Адрес</strong> нажмите на карту. Карта развернется на весь экран: исполнитель и заявка будут
@@ -238,7 +285,6 @@ keywords: инструкция для заказчика, мобильное п�
     <img style="margin: 0 auto; display: block; max-width: 40%;"
          src="/attachments/images/FAQ/USER/CustomerApp/Cancel.jpg"/>
 </div>
-
 
 <h5 id="actmob">Приемка выполненных работ и подпись акта</h5>
 <p>Исполнитель результаты работ по заявке вносит на вкладке <strong>Выполнение</strong>. Выполненные работы формируют Акт выполненных
@@ -280,6 +326,60 @@ keywords: инструкция для заказчика, мобильное п�
          src="/attachments/images/FAQ/USER/CustomerApp/Rating.jpg"/>
 </div>
 
+<script>
+    function hideSiblingVideo(activeVideo){
+        const nextSibling=activeVideo.nextElementSibling
+        const prevSibling=activeVideo.previousElementSibling
+        if(nextSibling){
+            nextSibling.style.display="none"
+        }
+        if(prevSibling){
+            prevSibling.style.display="none"
+        }
+    }
+ 
+    function switchActiveButtons(activeButton){
+        const nextSibling=activeButton.nextElementSibling
+        const prevSibling=activeButton.previousElementSibling
+        const activeClass="active"
+        if(nextSibling){
+            nextSibling.classList.remove(activeClass)
+        }
+        if(prevSibling){
+            prevSibling.classList.remove(activeClass)
+        }
+        activeButton.classList.add(activeClass)
+        return activeButton?.dataset?.source
+    }
+
+    function switchShowVideos(activeContainer,label){
+        const videoClass=`video-frame ${label}-frame`
+        const videoFrame=activeContainer.querySelector(videoClass)
+        const videos=activeContainer.children[1].children
+        const activeVideo=Array.from(videos).filter((item)=>item.className===videoClass)
+        console.debug({activeVideo})
+        hideSiblingVideo(activeVideo[0])
+        activeVideo[0].style.display="block"
+    }
+
+    const allVideoContainers=document.querySelectorAll(".video-player-container")
+    allVideoContainers.forEach((container)=>{
+        container.addEventListener("click",(e)=>{
+            if(!e.target.classList.contains('source-btn')) return;
+            
+            console.debug({e},{container})
+            const targetButton=e.target
+            const activeSource=switchActiveButtons(targetButton)
+            console.debug(activeSource)
+            if(activeSource){
+                switchShowVideos(container,activeSource)
+            }
+        })
+    })
+</script>
+
+</body>
+</html>
 
 ### Следующие шаги:
 - [Альтернативные способы подачи заявки через почту, сайт и паспорт объекта](./AlternativeWays.md)

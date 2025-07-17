@@ -5,16 +5,54 @@ keywords: жизненный цикл заявки, жизненный цикл,
 ---
 
 #### Жизненный цикл заявки
-В этом разделе вы узнаете:
 <html>
+<head>
+    <style>
+        .video-player-container {
+            margin: 20px 0;
+        }
+        .video-source-selector {
+            margin-bottom: 10px;
+        }
+        .source-btn {
+            padding: 8px 16px;
+            background: #f0f0f0;
+            border: 1px solid #ddd;
+            cursor: pointer;
+            margin-right: 5px;
+            border-radius: 4px;
+            font-family: Arial, sans-serif;
+            font-size: 14px;
+            transition: all 0.3s ease;
+        }
+        .source-btn:hover {
+            background: #e0e0e0;
+        }
+        .source-btn.active {
+            background: #45688e;
+            color: white;
+            border-color: #45688e;
+        }
+        .video-frame {
+            width: 560px;
+            height: 315px;
+            max-width: 100%;
+        }
+        .video-frame iframe {
+            width: 100%;
+            height: 100%;
+            border: none;
+        }
+    </style>
 <meta charset="utf-8">
+</head>
+<body>
+<p>В этом разделе вы узнаете:</p>
 <ul>
     <li><a href="#lifecyclecreate">Как создать и скопировать жизненный цикл</a>;</li>
       <li><a href="#lifecycle">Как настроить жизненный цикл</a>;</li>
     <li><a href="#lifecyclebrunch">Как использовать разные ветки жизненного цикла</a>.</li>
 </ul>
-</html>
-<body>
 <p><strong>Жизненный цикл заявки</strong> - это совокупность стадий, по которым проходит <Strong>Заявка</Strong>, и описание
     взаимодействия между
     стадиями. <Strong>Стадия</Strong> - это состояние <Strong>Заявки</Strong> на каждом этапе жизненного цикла,
@@ -25,19 +63,24 @@ keywords: жизненный цикл заявки, жизненный цикл,
         бизнес-процесса для Заявки</a>.</p>
 
         <p>Прочтите подробную статью ниже или начните знакомство с темой с обучающего видеоролика <strong>Настройка жизненного цикла для заявок в HubEx</strong>.</p>
-<iframe src="https://www.youtube.com/embed/81JjWYuMNwY" width="100%" height="450px" frameborder="0"
-        allowfullscreen="allowfullscreen"></iframe>
+
+<div class="video-player-container" data-player-id="player28">
+    <div class="video-source-selector">
+        <button class="source-btn active" data-source="vk">VK</button>
+        <button class="source-btn" data-source="youtube">YouTube</button>
+    </div>
+    <div class="video-embed">
+        <div class="video-frame youtube-frame" style="display: none;">
+            <iframe src="https://www.youtube.com/embed/81JjWYuMNwY" loading="lazy" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        </div>
+        <div class="video-frame vk-frame" style="display: block;">
+            <iframe src="https://vkvideo.ru/video_ext.php?oid=-187865475&id=456239125&hd=2&autoplay=0" allowfullscreen></iframe>
+        </div>
+    </div>
+</div>
 
 <h5 id="lifecyclecreate">Создание и копирование жизненного цикла</h5>
-<p>Создание и настройка жизненного цикла находится в <a
-        href="https://wiki.hubex.ru/docs/FAQ/RU/admin/HowToEnterTheAdmin.html">консоли администратора</a> в меню
-    <Strong>Настройки
-        заявки - Жизненный цикл заявки</Strong>. Жизненный цикл создается и настраивается для <Strong>Типа заявки</Strong> и
-    содержит в себе информацию о
-    переходах по <Strong>Стадиям заявки</Strong>. Поэтому перед созданием и настройкой жизненного цикла должны быть
-    созданы <Strong>Стадии заявки</Strong>
-    и <Strong>Тип
-        заявки</Strong>. Есть два способа создания и настройки жизненного цикла:
+<p>Создание и настройка жизненного цикла находится в <a href="https://wiki.hubex.ru/docs/FAQ/RU/admin/HowToEnterTheAdmin.html">консоли администратора</a> в меню <Strong>Настройки заявки - Жизненный цикл заявки</Strong>. Жизненный цикл создается и настраивается для <Strong>Типа заявки</Strong> и содержит в себе информацию о переходах по <Strong>Стадиям заявки</Strong>. Поэтому перед созданием и настройкой жизненного цикла должны быть созданы <Strong>Стадии заявки</Strong> и <Strong>Тип заявки</Strong>. Есть два способа создания и настройки жизненного цикла:
 <ol>
     <li>Копирование жизненного цикла: вы можете скопировать жизненный цикл настроенный для другого <Strong>Типа
         заявки</Strong>. Для
@@ -167,7 +210,6 @@ keywords: жизненный цикл заявки, жизненный цикл,
     </li>
 </ul>
 
-
 <p>С одной стадии заявка может переходить на несколько разных стадий. Например, после назначения заявки исполнитель
     может поехать на выполнение (стадия <Strong>Выехал на объект</Strong>), может отказаться по каким-то причинам
     (стадия <Strong>Отказ
@@ -181,7 +223,60 @@ keywords: жизненный цикл заявки, жизненный цикл,
 
 <p>Обратите внимание! Если вы удалите стадию, переход на нее работать не будет (в web и мобильных приложениях в <Strong>Заявке</Strong> будет отсуствовать соответствующая кнопка). Если стадия была удалена, а затем создана снова с таким же наименованием, то переход на стадию в настройках жизненного цикла нужно будет удалить и создать заново. </p>
 
+<script>
+    function hideSiblingVideo(activeVideo){
+        const nextSibling=activeVideo.nextElementSibling
+        const prevSibling=activeVideo.previousElementSibling
+        if(nextSibling){
+            nextSibling.style.display="none"
+        }
+        if(prevSibling){
+            prevSibling.style.display="none"
+        }
+    }
+ 
+    function switchActiveButtons(activeButton){
+        const nextSibling=activeButton.nextElementSibling
+        const prevSibling=activeButton.previousElementSibling
+        const activeClass="active"
+        if(nextSibling){
+            nextSibling.classList.remove(activeClass)
+        }
+        if(prevSibling){
+            prevSibling.classList.remove(activeClass)
+        }
+        activeButton.classList.add(activeClass)
+        return activeButton?.dataset?.source
+    }
+
+    function switchShowVideos(activeContainer,label){
+        const videoClass=`video-frame ${label}-frame`
+        const videoFrame=activeContainer.querySelector(videoClass)
+        const videos=activeContainer.children[1].children
+        const activeVideo=Array.from(videos).filter((item)=>item.className===videoClass)
+        console.debug({activeVideo})
+        hideSiblingVideo(activeVideo[0])
+        activeVideo[0].style.display="block"
+    }
+
+    const allVideoContainers=document.querySelectorAll(".video-player-container")
+    allVideoContainers.forEach((container)=>{
+        container.addEventListener("click",(e)=>{
+            if(!e.target.classList.contains('source-btn')) return;
+            
+            console.debug({e},{container})
+            const targetButton=e.target
+            const activeSource=switchActiveButtons(targetButton)
+            console.debug(activeSource)
+            if(activeSource){
+                switchShowVideos(container,activeSource)
+            }
+        })
+    })
+</script>
+
 </body>
+</html>
 
 ___
 ### Следующие шаги:

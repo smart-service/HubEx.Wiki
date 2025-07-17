@@ -9,19 +9,55 @@ keywords: отчет для клиента, клиентская аналити�
 ---
 
 #### Отчет для клиента
-В этом разделе вы научитесь работать с <Strong>Отчетом для клиента</Strong>, который содержит в себе:
 <html>
+<head>
+    <style>
+        .video-player-container {
+            margin: 20px 0;
+        }
+        .video-source-selector {
+            margin-bottom: 10px;
+        }
+        .source-btn {
+            padding: 8px 16px;
+            background: #f0f0f0;
+            border: 1px solid #ddd;
+            cursor: pointer;
+            margin-right: 5px;
+            border-radius: 4px;
+            font-family: Arial, sans-serif;
+            font-size: 14px;
+            transition: all 0.3s ease;
+        }
+        .source-btn:hover {
+            background: #e0e0e0;
+        }
+        .source-btn.active {
+            background: #45688e;
+            color: white;
+            border-color: #45688e;
+        }
+        .video-frame {
+            width: 560px;
+            height: 315px;
+            max-width: 100%;
+        }
+        .video-frame iframe {
+            width: 100%;
+            height: 100%;
+            border: none;
+        }
+    </style>
+</head>
+<body>
 <meta charset="utf-8">
-
+<p>В этом разделе вы научитесь работать с <Strong>Отчетом для клиента</Strong>, который содержит в себе:</p>
 <ul>
     <li><a href="#kpi">Ключевые показатели по заявкам;</a></li>
     <li><a href="#diagramms">Визуализации по выполненным заявкам и SLA;</a></li>
     <li><a href="#table">Таблицу со списком активных заявок.</a></li>
  
 </ul>
-</html>
-
-<body>
 <p>В HubEx представлены аналитические отчеты реализованные на платформе Power BI. С помощью бизнес-аналитики вы
     можете анализировать данные, получать ценные сведения для принятия бизнес-решений.</p>
 <p>Каждый аналитический отчет реализован в виде панели с различными графиками, диаграммами, сводными
@@ -36,8 +72,20 @@ keywords: отчет для клиента, клиентская аналити�
     
  <p>Прочтите подробную статью ниже или начните знакомство с темой с обучающего видеоролика <strong>Отчет для клиента</strong>.</p>
 
-<iframe src="https://www.youtube.com/embed/FOT_mWBU1vI" width="100%" height="450px" frameborder="0"
-        allowfullscreen="allowfullscreen"></iframe>
+<div class="video-player-container" data-player-id="player19">
+    <div class="video-source-selector">
+        <button class="source-btn active" data-source="vk">VK</button>
+        <button class="source-btn" data-source="youtube">YouTube</button>
+    </div>
+    <div class="video-embed">
+        <div class="video-frame youtube-frame" style="display: none;">
+            <iframe src="https://www.youtube.com/embed/FOT_mWBU1vI" loading="lazy" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        </div>
+        <div class="video-frame vk-frame" style="display: block;">
+            <iframe src="https://vkvideo.ru/video_ext.php?oid=-187865475&id=456239123&hd=2&autoplay=0" allowfullscreen></iframe>
+        </div>
+    </div>
+</div>
 
 <p><Strong>Отчет для клиента</Strong> находится в меню <Strong>Аналитика - Отчет для клиента</Strong>. Данные
     в отчете обновляются один раз в
@@ -132,7 +180,7 @@ keywords: отчет для клиента, клиентская аналити�
 </div>
 
 </body>
-
+</html>
 
 ___
 ### Следующие шаги:

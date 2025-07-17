@@ -6,20 +6,56 @@ keywords: история перемещений, геотрекинг, геот�
 ---
 
 #### История перемещений
-В этом разделе вы узнаете:
 <html>
+<head>
+    <style>
+        .video-player-container {
+            margin: 20px 0;
+        }
+        .video-source-selector {
+            margin-bottom: 10px;
+        }
+        .source-btn {
+            padding: 8px 16px;
+            background: #f0f0f0;
+            border: 1px solid #ddd;
+            cursor: pointer;
+            margin-right: 5px;
+            border-radius: 4px;
+            font-family: Arial, sans-serif;
+            font-size: 14px;
+            transition: all 0.3s ease;
+        }
+        .source-btn:hover {
+            background: #e0e0e0;
+        }
+        .source-btn.active {
+            background: #45688e;
+            color: white;
+            border-color: #45688e;
+        }
+        .video-frame {
+            width: 560px;
+            height: 315px;
+            max-width: 100%;
+        }
+        .video-frame iframe {
+            width: 100%;
+            height: 100%;
+            border: none;
+        }
+    </style>
+</head>
+<body>
 <meta charset="utf-8">
+В этом разделе вы узнаете:
 <ul>
     <li><a href="#geo">Как работает История перемещений</a>;</li>
    <!-- <li><a href="#waybill">Как просмотреть и выгрузить путевой лист</a>;</li> -->
     <li><a href="#nomap">Что делать, если в меню нет пункта Карты</a>;</li>
     <li><a href="#noengineer">Что сделать, чтобы мобильные сотрудники отображались на карте</a>;</li>
         <li><a href="#settings">Какие настройки разных моделей телефонов могут повлиять на некорректную работу GPS.</a></li>
-
-
 </ul>
-</html>
-<body>
 <p><strong>История перемещений</strong> (геотрекинг) отображает перемещения каждого сотрудника, у которого включена
     функция использования геопозиции. С помощью геотрекинга вы можете оценить эффективность работы мобильных
     исполнителей: время в пути, на заявке, остановки, простои.</p>
@@ -28,8 +64,20 @@ keywords: история перемещений, геотрекинг, геот�
 
     <p>Прочтите подробную статью ниже или начните знакомство с темой с обучающего видеоролика <strong>Как работает геотрекинг в HubEx</strong>.</p>
 
-<iframe src="https://www.youtube.com/embed/gZjA_Vp7gh8" width="100%" height="450px" frameborder="0"
-        allowfullscreen="allowfullscreen"></iframe>
+<div class="video-player-container" data-player-id="player36">
+    <div class="video-source-selector">
+        <button class="source-btn active" data-source="vk">VK</button>
+        <button class="source-btn" data-source="youtube">YouTube</button>
+    </div>
+    <div class="video-embed">
+        <div class="video-frame youtube-frame" style="display: none;">
+            <iframe src="https://www.youtube.com/embed/gZjA_Vp7gh8" loading="lazy" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        </div>
+        <div class="video-frame vk-frame" style="display: block;">
+            <iframe src="https://vkvideo.ru/video_ext.php?oid=-187865475&id=456239134&hd=2&autoplay=0" allowfullscreen></iframe>
+        </div>
+    </div>
+</div>
 
 <h5 id="geo">Как работает История перемещений</h5>
 <p>История перемещений (геотрекинг) доступна только в web-версии HubEx в меню <Strong>Карты - История перемещений</Strong>. Геотрекинг используется для ретроспективного анализа перемещений мобильных сотрудников, поэтому обновляется
@@ -91,9 +139,6 @@ keywords: история перемещений, геотрекинг, геот�
     <img style="margin: 0 auto; display: block; max-width: 90%;"
          src="/attachments/images/FAQ/USER/GeoTracking/Map4.jpg"/>
 </div>
-
-
-
 
 <!--
 <h5 id="waybill">Как просмотреть и выгрузить путевой лист</h5>
@@ -205,12 +250,62 @@ keywords: история перемещений, геотрекинг, геот�
         <li>Настройки > Дополнительные настройки - Аккумулятор & работа - Управлять использованием аккумулятора приложениями - apps - HubEx;</li>
         <li>Настройки > Дополнительные настройки - Доступ - Местоположение - Использовать высокую точность для режима местоположения и разрешить доступ к данным о местоположении.</li>
     </ol>
-
 </ul>
 
+<script>
+    function hideSiblingVideo(activeVideo){
+        const nextSibling=activeVideo.nextElementSibling
+        const prevSibling=activeVideo.previousElementSibling
+        if(nextSibling){
+            nextSibling.style.display="none"
+        }
+        if(prevSibling){
+            prevSibling.style.display="none"
+        }
+    }
+ 
+    function switchActiveButtons(activeButton){
+        const nextSibling=activeButton.nextElementSibling
+        const prevSibling=activeButton.previousElementSibling
+        const activeClass="active"
+        if(nextSibling){
+            nextSibling.classList.remove(activeClass)
+        }
+        if(prevSibling){
+            prevSibling.classList.remove(activeClass)
+        }
+        activeButton.classList.add(activeClass)
+        return activeButton?.dataset?.source
+    }
+
+    function switchShowVideos(activeContainer,label){
+        const videoClass=`video-frame ${label}-frame`
+        const videoFrame=activeContainer.querySelector(videoClass)
+        const videos=activeContainer.children[1].children
+        const activeVideo=Array.from(videos).filter((item)=>item.className===videoClass)
+        console.debug({activeVideo})
+        hideSiblingVideo(activeVideo[0])
+        activeVideo[0].style.display="block"
+    }
+
+    const allVideoContainers=document.querySelectorAll(".video-player-container")
+    allVideoContainers.forEach((container)=>{
+        container.addEventListener("click",(e)=>{
+            if(!e.target.classList.contains('source-btn')) return;
+            
+            console.debug({e},{container})
+            const targetButton=e.target
+            const activeSource=switchActiveButtons(targetButton)
+            console.debug(activeSource)
+            if(activeSource){
+                switchShowVideos(container,activeSource)
+            }
+        })
+    })
+</script>
+
 </body>
-
-
+</html>
 ___
 ### Следующие шаги:
 - [Экспорт](./Export.md)

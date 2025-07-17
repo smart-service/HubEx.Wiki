@@ -5,15 +5,49 @@ keywords: бухгалтерский акт, мои отчеты, печатна
 ---
 
 #### Бухгалтерский акт
-
 <html>
-<meta charset="utf-8">
-
-</html>
-
+<head>
+    <style>
+        .video-player-container {
+            margin: 20px 0;
+        }
+        .video-source-selector {
+            margin-bottom: 10px;
+        }
+        .source-btn {
+            padding: 8px 16px;
+            background: #f0f0f0;
+            border: 1px solid #ddd;
+            cursor: pointer;
+            margin-right: 5px;
+            border-radius: 4px;
+            font-family: Arial, sans-serif;
+            font-size: 14px;
+            transition: all 0.3s ease;
+        }
+        .source-btn:hover {
+            background: #e0e0e0;
+        }
+        .source-btn.active {
+            background: #45688e;
+            color: white;
+            border-color: #45688e;
+        }
+        .video-frame {
+            width: 560px;
+            height: 315px;
+            max-width: 100%;
+        }
+        .video-frame iframe {
+            width: 100%;
+            height: 100%;
+            border: none;
+        }
+    </style>
+</head>
 <body>
+<meta charset="utf-8">
 <p><strong>Бухгалтерский акт</strong> представляет собой унифицированную форму акта, в которой отражается факт продажи услуги. Форма бухгалтерского акта содержит реквизиты, зафиксированные в п. 2 ст. 9 Федерального закона от 06.12.2011 №402-ФЗ «О бухгалтерском учете»: название и дата документа, наименование и реквизиты сторон, перечень услуг (перечень использованных для выполнения услуги материалов), стоимость оказанных услуг, должности и подписи сторон. </p>
-
 
 <p>Такой акт можно выгружать в различных форматах (.xml, .csv, .xls и др.), что позволяет
     при необходимости отредактировать его вручную, загружать его в другие системы (например,
@@ -23,8 +57,21 @@ keywords: бухгалтерский акт, мои отчеты, печатна
     нескольким <strong>Заявкам</strong> сразу, которые можно отбирать с помощью фильтров или вручную. </p>
 
 <p>Ознакомьтесь с обучающим видеороликом <strong>Электронные документы HubEx</strong>. В нем мы рассказываем о всех печатных формах HubEx и о том, как заказать индивидуальную форму для вашей компании. Подробная инструкция о формировании <strong>Бухгалтерского акта</strong> представлена ниже. </p>
-<iframe src="https://www.youtube.com/embed/WhKGc-GrOjI" width="100%" height="450px" frameborder="0"
-        allowfullscreen="allowfullscreen"></iframe>
+
+<div class="video-player-container" data-player-id="player26">
+    <div class="video-source-selector">
+        <button class="source-btn active" data-source="vk">VK</button>
+        <button class="source-btn" data-source="youtube">YouTube</button>
+    </div>
+    <div class="video-embed">
+        <div class="video-frame youtube-frame" style="display: none;">
+            <iframe src="https://www.youtube.com/embed/WhKGc-GrOjI" loading="lazy" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        </div>
+        <div class="video-frame vk-frame" style="display: block;">
+            <iframe src="https://vkvideo.ru/video_ext.php?oid=-187865475&id=456239127&hd=2&autoplay=0" allowfullscreen></iframe>
+        </div>
+    </div>
+</div>
 
 <p>Рассмотрим, как сформировать акт для экспорта или печати. Перейдите в меню <strong>Печатные формы - Бухгалтерский
     акт</strong>. </p>
@@ -140,10 +187,60 @@ keywords: бухгалтерский акт, мои отчеты, печатна
          src="/attachments/images/FAQ/USER/PrintedFormActOfAccounting/Pages.jpg"/>
 </div>
 
+<script>
+    function hideSiblingVideo(activeVideo){
+        const nextSibling=activeVideo.nextElementSibling
+        const prevSibling=activeVideo.previousElementSibling
+        if(nextSibling){
+            nextSibling.style.display="none"
+        }
+        if(prevSibling){
+            prevSibling.style.display="none"
+        }
+    }
+ 
+    function switchActiveButtons(activeButton){
+        const nextSibling=activeButton.nextElementSibling
+        const prevSibling=activeButton.previousElementSibling
+        const activeClass="active"
+        if(nextSibling){
+            nextSibling.classList.remove(activeClass)
+        }
+        if(prevSibling){
+            prevSibling.classList.remove(activeClass)
+        }
+        activeButton.classList.add(activeClass)
+        return activeButton?.dataset?.source
+    }
+
+    function switchShowVideos(activeContainer,label){
+        const videoClass=`video-frame ${label}-frame`
+        const videoFrame=activeContainer.querySelector(videoClass)
+        const videos=activeContainer.children[1].children
+        const activeVideo=Array.from(videos).filter((item)=>item.className===videoClass)
+        console.debug({activeVideo})
+        hideSiblingVideo(activeVideo[0])
+        activeVideo[0].style.display="block"
+    }
+
+    const allVideoContainers=document.querySelectorAll(".video-player-container")
+    allVideoContainers.forEach((container)=>{
+        container.addEventListener("click",(e)=>{
+            if(!e.target.classList.contains('source-btn')) return;
+            
+            console.debug({e},{container})
+            const targetButton=e.target
+            const activeSource=switchActiveButtons(targetButton)
+            console.debug(activeSource)
+            if(activeSource){
+                switchShowVideos(container,activeSource)
+            }
+        })
+    })
+</script>
+
 </body>
-
-
-
+</html>
 ___
 ### Следующие шаги:
 - [Карта: текущая геопозиция сотрудников](./GeoPosition.md)

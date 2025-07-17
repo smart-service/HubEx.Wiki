@@ -5,10 +5,49 @@ keywords: эффективность процессов, анализ эффек
 ---
 
 #### Анализ эффективности процессов
-В этом разделе вы научитесь работать с аналитическим отчетом по <Strong>Анализу эффективности
-    процессов</Strong>, который содержит в себе несколько вкладок:
 <html>
+<head>
+    <style>
+        .video-player-container {
+            margin: 20px 0;
+        }
+        .video-source-selector {
+            margin-bottom: 10px;
+        }
+        .source-btn {
+            padding: 8px 16px;
+            background: #f0f0f0;
+            border: 1px solid #ddd;
+            cursor: pointer;
+            margin-right: 5px;
+            border-radius: 4px;
+            font-family: Arial, sans-serif;
+            font-size: 14px;
+            transition: all 0.3s ease;
+        }
+        .source-btn:hover {
+            background: #e0e0e0;
+        }
+        .source-btn.active {
+            background: #45688e;
+            color: white;
+            border-color: #45688e;
+        }
+        .video-frame {
+            width: 560px;
+            height: 315px;
+            max-width: 100%;
+        }
+        .video-frame iframe {
+            width: 100%;
+            height: 100%;
+            border: none;
+        }
+    </style>
+</head>
+<body>
 <meta charset="utf-8">
+<p>В этом разделе вы научитесь работать с аналитическим отчетом по <Strong>Анализу эффективности процессов</Strong>, который содержит в себе несколько вкладок:</p>
 
 <ul>
     <li><a href="#first">Выявление проблем в бизнес-процессах;</a></li>
@@ -16,39 +55,47 @@ keywords: эффективность процессов, анализ эффек
     <li><a href="#third">Время прохождения по стадиям заявок.</a></li>
 
 </ul>
-</html>
 
-<body>
-<p>HubEx предназначен для улучшения бизнес-процессов. Внедрение системы управления заявками и мобильными сотрудниками
-    способствует как улучшению качества предоставляемых услуг, так и повышению эффективности внутренних взаимодействий.
-    С помощью аналитических отчетов вы можете оценить показатели сотрудников, проанализировать время выполнения <strong>Заявок</strong>
-    и
-    другие данные, которые позволят принимать взвешенные бизнес-решения.</p>
-
-<p>Чтобы понять, насколько эффективны процессы, которые вы выстроили в HubEx, воспользуйтесь аналитическим
-    отчетом <Strong>Анализ эффективности
-        процессов</Strong>.</p>
+<p>HubEx предназначен для улучшения бизнес-процессов. Внедрение системы управления заявками и мобильными сотрудниками способствует как улучшению качества предоставляемых услуг, так и повышению эффективности внутренних взаимодействий. С помощью аналитических отчетов вы можете оценить показатели сотрудников, проанализировать время выполнения <strong>Заявок</strong> и другие данные, которые позволят принимать взвешенные бизнес-решения.</p>
+<p>Чтобы понять, насколько эффективны процессы, которые вы выстроили в HubEx, воспользуйтесь аналитическим отчетом <Strong>Анализ эффективности процессов</Strong>.</p>
 <p>С его помощью вы сможете: </p>
-
 <ul>
     <li>отследить проблемные места в бизнес-процессах сервисной организации;</li>
     <li>оценить эффективность внесенных изменений в процессы после обнаружения и исправления проблем.</li>
 </ul>
-
-<p>Например, перед выполнением <strong>Заявки</strong> ваши сервисные специалисты всегда заезжают на склад за
-    запчастями, что увеличивает время выезда на <strong>Заявку</strong>. Как можно изменить такой процесс? Например,
-    хранить запчасти в
-    машине
-    специалиста. После внесенных изменений, можно будет оценить, станет ли новый процесс более эффективным или нет.</p>
-
+<p>Например, перед выполнением <strong>Заявки</strong> ваши сервисные специалисты всегда заезжают на склад за запчастями, что увеличивает время выезда на <strong>Заявку</strong>. Как можно изменить такой процесс? Например, хранить запчасти в машине специалиста. После внесенных изменений, можно будет оценить, станет ли новый процесс более эффективным или нет.</p>
 <p>Прочтите подробную статью ниже или начните знакомство с темой с обучающих видеороликов <strong>HubEx: Анализ
     эффективности процессов</strong>.</p>
-<iframe src="https://www.youtube.com/embed/C7N6KPA_jhA" width="100%" height="450px" frameborder="0"
-        allowfullscreen="allowfullscreen"></iframe>
+    
+<div class="video-player-container" data-player-id="player20">
+    <div class="video-source-selector">
+        <button class="source-btn active" data-source="vk">VK</button>
+        <button class="source-btn" data-source="youtube">YouTube</button>
+    </div>
+    <div class="video-embed">
+        <div class="video-frame youtube-frame" style="display: none;">
+            <iframe src="https://www.youtube.com/embed/C7N6KPA_jhA" loading="lazy" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        </div>
+        <div class="video-frame vk-frame" style="display: block;">
+            <iframe src="https://vkvideo.ru/video_ext.php?oid=-187865475&id=456239093&hd=2&autoplay=0" allowfullscreen></iframe>
+        </div>
+    </div>
+</div>
 
-<iframe src="https://www.youtube.com/embed/15ER2EWoqvI" width="100%" height="450px" frameborder="0"
-        allowfullscreen="allowfullscreen"></iframe>
-
+<div class="video-player-container" data-player-id="player21">
+    <div class="video-source-selector">
+        <button class="source-btn active" data-source="vk">VK</button>
+        <button class="source-btn" data-source="youtube">YouTube</button>
+    </div>
+    <div class="video-embed">
+        <div class="video-frame youtube-frame" style="display: none;">
+            <iframe src="https://www.youtube.com/embed/15ER2EWoqvI" loading="lazy" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        </div>
+        <div class="video-frame vk-frame" style="display: block;">
+            <iframe src="https://vkvideo.ru/video_ext.php?oid=-187865475&id=456239094&hd=2&autoplay=0" allowfullscreen></iframe>
+        </div>
+    </div>
+</div>
 
 <p>Отчет по анализу эффективности находится в меню <strong>Аналитика - Анализ эффективности процессов</strong>. Данные в
     отчете обновляются один раз в сутки. Дата обновления отображается слева от наименования отчета (под периодом).</p>
@@ -388,8 +435,60 @@ keywords: эффективность процессов, анализ эффек
          src="/attachments/images/FAQ/USER/ProcessEfficiency/Diagram17.jpg"/>
 </div>
 
+<script>
+    function hideSiblingVideo(activeVideo){
+        const nextSibling=activeVideo.nextElementSibling
+        const prevSibling=activeVideo.previousElementSibling
+        if(nextSibling){
+            nextSibling.style.display="none"
+        }
+        if(prevSibling){
+            prevSibling.style.display="none"
+        }
+    }
+ 
+    function switchActiveButtons(activeButton){
+        const nextSibling=activeButton.nextElementSibling
+        const prevSibling=activeButton.previousElementSibling
+        const activeClass="active"
+        if(nextSibling){
+            nextSibling.classList.remove(activeClass)
+        }
+        if(prevSibling){
+            prevSibling.classList.remove(activeClass)
+        }
+        activeButton.classList.add(activeClass)
+        return activeButton?.dataset?.source
+    }
+
+    function switchShowVideos(activeContainer,label){
+        const videoClass=`video-frame ${label}-frame`
+        const videoFrame=activeContainer.querySelector(videoClass)
+        const videos=activeContainer.children[1].children
+        const activeVideo=Array.from(videos).filter((item)=>item.className===videoClass)
+        console.debug({activeVideo})
+        hideSiblingVideo(activeVideo[0])
+        activeVideo[0].style.display="block"
+    }
+
+    const allVideoContainers=document.querySelectorAll(".video-player-container")
+    allVideoContainers.forEach((container)=>{
+        container.addEventListener("click",(e)=>{
+            if(!e.target.classList.contains('source-btn')) return;
+            
+            console.debug({e},{container})
+            const targetButton=e.target
+            const activeSource=switchActiveButtons(targetButton)
+            console.debug(activeSource)
+            if(activeSource){
+                switchShowVideos(container,activeSource)
+            }
+        })
+    })
+</script>
 
 </body>
+</html>
 
 ___
 ### Следующие шаги:

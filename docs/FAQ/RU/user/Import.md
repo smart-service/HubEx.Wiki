@@ -5,18 +5,56 @@ keywords: импорт заявок, импорт объектов, импорт
 ---
 
 #### Импорт
-В данном разделе вы научитесь:
 <html>
+<head>
+    <style>
+        .video-player-container {
+            margin: 20px 0;
+        }
+        .video-source-selector {
+            margin-bottom: 10px;
+        }
+        .source-btn {
+            padding: 8px 16px;
+            background: #f0f0f0;
+            border: 1px solid #ddd;
+            cursor: pointer;
+            margin-right: 5px;
+            border-radius: 4px;
+            font-family: Arial, sans-serif;
+            font-size: 14px;
+            transition: all 0.3s ease;
+        }
+        .source-btn:hover {
+            background: #e0e0e0;
+        }
+        .source-btn.active {
+            background: #45688e;
+            color: white;
+            border-color: #45688e;
+        }
+        .video-frame {
+            width: 560px;
+            height: 315px;
+            max-width: 100%;
+        }
+        .video-frame iframe {
+            width: 100%;
+            height: 100%;
+            border: none;
+        }
+    </style>
+</head>
+<body>
 <meta charset="utf-8">
+<p>В данном разделе вы научитесь:</p>
 <ul>
     <li><a href="#objects">Импортировать объекты</a>;</li>
     <li><a href="#workers">Импортировать пользователей</a>;</li>
     <li><a href="#companies">Импортировать компании</a>;</li>
     <li><a href="#tickets">Импортировать заявки</a>.</li>
 </ul>
-</html>
 
-<body>
 <p>Импорт в HubEx позволяет с помощью готовых табличных шаблонов загрузить в систему <strong>Объекты</strong>, <strong>Пользователей</strong> (<strong>Сотрудников</strong>
     и <strong>Заказчиков</strong>), <strong>Компании</strong> и
     <strong>Заявки</strong>. Кнопка импорта находится в каждом их перечисленных справочников сверху в правой части.</p>
@@ -34,7 +72,6 @@ keywords: импорт заявок, импорт объектов, импорт
 </div>
 <p>Важные ограничения при работе с импортом:</p>
 <ul>
-
 
     <li>При импорте данных существует определенное ограничение на количество загружаемых единоразово строк: для <strong>Заявок</strong> до 2000 строк, для <strong>Объектов</strong> до 2000, для <strong>Компаний</strong> до 100 строк.
     </li>
@@ -74,8 +111,20 @@ keywords: импорт заявок, импорт объектов, импорт
 
 <p>Ознакомьтесь с видеороликом <strong>Как использовать импорт объектов для быстрого старта работы в Hubex?</strong> или прочтите статью ниже.</p>
 
-<iframe src="https://www.youtube.com/embed/tzXlekvaftY" width="100%" height="450px" frameborder="0"
-        allowfullscreen="allowfullscreen"></iframe>
+<div class="video-player-container" data-player-id="player13">
+    <div class="video-source-selector">
+        <button class="source-btn active" data-source="vk">VK</button>
+        <button class="source-btn" data-source="youtube">YouTube</button>
+    </div>
+    <div class="video-embed">
+        <div class="video-frame youtube-frame" style="display: none;">
+            <iframe src="https://www.youtube.com/embed/tzXlekvaftY" loading="lazy" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        </div>
+        <div class="video-frame vk-frame" style="display: block;">
+            <iframe src="https://vkvideo.ru/video_ext.php?oid=-187865475&id=456239089&hd=2&autoplay=0" allowfullscreen></iframe>
+        </div>
+    </div>
+</div>
 
 <p>Импорт объектов находится в меню <strong>Объекты|Оборудование - Объекты|Оборудование</strong>. Нажмите кнопку <strong>Импорт</strong>, скачайте шаблон
     и заполните данные. После заполнения шаблона в форме выбора нажмите <strong>Загрузить готовый шаблон</strong> и выберите заполненный
@@ -228,7 +277,6 @@ keywords: импорт заявок, импорт объектов, импорт
     </li>
 </ul>
 
-
 <h5 id="tickets">Импорт заявок</h5>
 <p>Импорт заявок находится в меню <strong>Заявки - Все заявки</strong>. Нажмите кнопку <strong>Импорт</strong>, скачайте шаблон
     и заполните данные. После заполнения шаблона в форме выбора нажмите <strong>Загрузить готовый шаблон</strong> и выберите заполненный
@@ -313,8 +361,60 @@ keywords: импорт заявок, импорт объектов, импорт
          src="/attachments/images/FAQ/USER/Import/TrmplateInfo.jpg"/>
 </div>
 
-</body>
+<script>
+    function hideSiblingVideo(activeVideo){
+        const nextSibling=activeVideo.nextElementSibling
+        const prevSibling=activeVideo.previousElementSibling
+        if(nextSibling){
+            nextSibling.style.display="none"
+        }
+        if(prevSibling){
+            prevSibling.style.display="none"
+        }
+    }
+ 
+    function switchActiveButtons(activeButton){
+        const nextSibling=activeButton.nextElementSibling
+        const prevSibling=activeButton.previousElementSibling
+        const activeClass="active"
+        if(nextSibling){
+            nextSibling.classList.remove(activeClass)
+        }
+        if(prevSibling){
+            prevSibling.classList.remove(activeClass)
+        }
+        activeButton.classList.add(activeClass)
+        return activeButton?.dataset?.source
+    }
 
+    function switchShowVideos(activeContainer,label){
+        const videoClass=`video-frame ${label}-frame`
+        const videoFrame=activeContainer.querySelector(videoClass)
+        const videos=activeContainer.children[1].children
+        const activeVideo=Array.from(videos).filter((item)=>item.className===videoClass)
+        console.debug({activeVideo})
+        hideSiblingVideo(activeVideo[0])
+        activeVideo[0].style.display="block"
+    }
+
+    const allVideoContainers=document.querySelectorAll(".video-player-container")
+    allVideoContainers.forEach((container)=>{
+        container.addEventListener("click",(e)=>{
+            if(!e.target.classList.contains('source-btn')) return;
+            
+            console.debug({e},{container})
+            const targetButton=e.target
+            const activeSource=switchActiveButtons(targetButton)
+            console.debug(activeSource)
+            if(activeSource){
+                switchShowVideos(container,activeSource)
+            }
+        })
+    })
+</script>
+
+</body>
+</html>
 
 ___
 ### Следующие шаги:

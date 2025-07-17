@@ -5,30 +5,76 @@ keywords: сла, sla, правило расчета крайнего срока
 ---
 
 #### SLA - Правила расчета крайнего срока закрытия заявки
-
-
 <html>
+<head>
+    <style>
+        .video-player-container {
+            margin: 20px 0;
+        }
+        .video-source-selector {
+            margin-bottom: 10px;
+        }
+        .source-btn {
+            padding: 8px 16px;
+            background: #f0f0f0;
+            border: 1px solid #ddd;
+            cursor: pointer;
+            margin-right: 5px;
+            border-radius: 4px;
+            font-family: Arial, sans-serif;
+            font-size: 14px;
+            transition: all 0.3s ease;
+        }
+        .source-btn:hover {
+            background: #e0e0e0;
+        }
+        .source-btn.active {
+            background: #45688e;
+            color: white;
+            border-color: #45688e;
+        }
+        .video-frame {
+            width: 560px;
+            height: 315px;
+            max-width: 100%;
+        }
+        .video-frame iframe {
+            width: 100%;
+            height: 100%;
+            border: none;
+        }
+    </style>
 <meta charset="utf-8">
+</head>
+<body>
 <!--В этом разделе вы узнаете:
 <ul>
     <li><a href="#rules">Как создавать правила расчета крайнего срока закрытия заявки.</a></li>
     <li><a href="#schedule">Как создавать графики работ</a></li>
 </ul>-->
 
-</html>
-
-<body>
 <p>Важный критерий качества предоставляемых услуг - соблюдение сроков выполнения заявок. Временные нормы могут быть
     прописаны в
     договорах (контрактах) с вашими заказчиками и отличаться по критичности, видам выполняемых работ и т.д. </p>
 <p>Закрепленные в договорах показатели качества услуг называют специальным термином - SLA (Service Level Agreement,
     Соглашение об уровне сервиса). </p>
-
     
 <p>Прочтите подробную статью ниже или начните знакомство с темой с обучающего видеоролика <strong>Настройка SLA: расчет крайнего срока закрытия заявки</strong>.</p>
 
-<iframe src="https://www.youtube.com/embed/kSNXDTwOQuo" width="100%" height="450px" frameborder="0"
-        allowfullscreen="allowfullscreen"></iframe>
+<div class="video-player-container" data-player-id="player2">
+    <div class="video-source-selector">
+        <button class="source-btn active" data-source="vk">VK</button>
+        <button class="source-btn" data-source="youtube">YouTube</button>
+    </div>
+    <div class="video-embed">
+        <div class="video-frame youtube-frame" style="display: none;">
+            <iframe src="https://www.youtube.com/embed/kSNXDTwOQuo" loading="lazy" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        </div>
+        <div class="video-frame vk-frame" style="display: block;">
+            <iframe src="https://vkvideo.ru/video_ext.php?oid=-187865475&id=456239097&hd=2&autoplay=0" allowfullscreen></iframe>
+        </div>
+    </div>
+</div>
 
 <h5 id="rules">Правила расчета крайнего срока закрытия заявки</h5>
 
@@ -132,9 +178,60 @@ keywords: сла, sla, правило расчета крайнего срока
     будет, то, которое по <strong>Графику обслуживания</strong> попадает на текущее время. Если совпадают <strong>Графики обслуживания</strong>, то
     выбрано будет правило с наименьшим сроком закрытия.</p>
 
+<script>
+    function hideSiblingVideo(activeVideo){
+        const nextSibling=activeVideo.nextElementSibling
+        const prevSibling=activeVideo.previousElementSibling
+        if(nextSibling){
+            nextSibling.style.display="none"
+        }
+        if(prevSibling){
+            prevSibling.style.display="none"
+        }
+    }
+ 
+    function switchActiveButtons(activeButton){
+        const nextSibling=activeButton.nextElementSibling
+        const prevSibling=activeButton.previousElementSibling
+        const activeClass="active"
+        if(nextSibling){
+            nextSibling.classList.remove(activeClass)
+        }
+        if(prevSibling){
+            prevSibling.classList.remove(activeClass)
+        }
+        activeButton.classList.add(activeClass)
+        return activeButton?.dataset?.source
+    }
+
+    function switchShowVideos(activeContainer,label){
+        const videoClass=`video-frame ${label}-frame`
+        const videoFrame=activeContainer.querySelector(videoClass)
+        const videos=activeContainer.children[1].children
+        const activeVideo=Array.from(videos).filter((item)=>item.className===videoClass)
+        console.debug({activeVideo})
+        hideSiblingVideo(activeVideo[0])
+        activeVideo[0].style.display="block"
+    }
+
+    const allVideoContainers=document.querySelectorAll(".video-player-container")
+    allVideoContainers.forEach((container)=>{
+        container.addEventListener("click",(e)=>{
+            if(!e.target.classList.contains('source-btn')) return;
+            
+            console.debug({e},{container})
+            const targetButton=e.target
+            const activeSource=switchActiveButtons(targetButton)
+            console.debug(activeSource)
+            if(activeSource){
+                switchShowVideos(container,activeSource)
+            }
+        })
+    })
+</script>
 
 </body>
-
+</html>
 
 ___
 ### Следующие шаги:

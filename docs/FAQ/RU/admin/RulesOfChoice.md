@@ -4,15 +4,52 @@ description: Правила автоназначения исполнителя 
 keywords: правило автоназначения исполнителя, автораспределение, правило выбора, правила выбора, правило выбора, автоназначение исполнителя, правило автоназначения, hubex, хабекс, хубекс, хабикс
 ---
 
+<html>
+<head>
+    <style>
+        .video-player-container {
+            margin: 20px 0;
+        }
+        .video-source-selector {
+            margin-bottom: 10px;
+        }
+        .source-btn {
+            padding: 8px 16px;
+            background: #f0f0f0;
+            border: 1px solid #ddd;
+            cursor: pointer;
+            margin-right: 5px;
+            border-radius: 4px;
+            font-family: Arial, sans-serif;
+            font-size: 14px;
+            transition: all 0.3s ease;
+        }
+        .source-btn:hover {
+            background: #e0e0e0;
+        }
+        .source-btn.active {
+            background: #45688e;
+            color: white;
+            border-color: #45688e;
+        }
+        .video-frame {
+            width: 560px;
+            height: 315px;
+            max-width: 100%;
+        }
+        .video-frame iframe {
+            width: 100%;
+            height: 100%;
+            border: none;
+        }
+    </style>
+<meta charset="utf-8">
+</head>
+<body>
 <h1>Правила автоназначения исполнителя</h1>
 
-В этом разделе вы узнаете:
-
-<html lang="ru">
-<meta charset="utf-8">
-
+<p>В этом разделе вы узнаете:</p>
 <p>Содержание статьи:</p>
-
 <ul>
     <li><a href="#RulesOfChoice1">Что такое правила автоназначения исполнителя;</a></li>
     <li><a href="#RulesOfChoice2">Создание правил автоназначения исполнителя;</a></li>
@@ -20,17 +57,27 @@ keywords: правило автоназначения исполнителя, а
     <li><a href="#RulesOfChoice4">Особенности правил автоназначения исполнителя.</a></li>
 </ul>
 
-</html>
-
-<body>
-
 <h2 id="RulesOfChoice1">Что такое правила автоназначения исполнителя</h2>
 
 <p>В HubEx существует возможность настроить робота-диспетчера (автоназначение/автораспределение) для назначения исполнителей на <strong>Заявки</strong>. Робот-диспетчер использует специальные правила автоназначения для подбора исполнителей на <strong>Заявки</strong>.</p>
 <p>Использование правил автоназначения исполнителя на <strong>Заявки</strong> значительно экономит время диспетчеров при ручном выборе исполнителей, а также позволяет настроить автоматический переход <strong>Заявки</strong> на ответственных менеджеров, сервисных специалистов и т.д. </p>
 
 <p>Прочтите инструкцию ниже или ознакомьтесь с видеороликом <strong>"Автоназначение исполнителей на заявки"</strong>.</p>
-<iframe src="https://www.youtube.com/embed/IEsB3xWJVRQ" width="100%" height="450px" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+
+<div class="video-player-container" data-player-id="player27">
+    <div class="video-source-selector">
+        <button class="source-btn active" data-source="vk">VK</button>
+        <button class="source-btn" data-source="youtube">YouTube</button>
+    </div>
+    <div class="video-embed">
+        <div class="video-frame youtube-frame" style="display: none;">
+            <iframe src="https://www.youtube.com/embed/IEsB3xWJVRQ" loading="lazy" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        </div>
+        <div class="video-frame vk-frame" style="display: block;">
+            <iframe src="https://vkvideo.ru/video_ext.php?oid=-187865475&id=456239098&hd=2&autoplay=0" allowfullscreen></iframe>
+        </div>
+    </div>
+</div>
 
 <h2 id="RulesOfChoice2">Создание правил автоназначения исполнителя</h2>
 
@@ -94,9 +141,60 @@ keywords: правило автоназначения исполнителя, а
     </li>
 </OL>
 
+<script>
+    function hideSiblingVideo(activeVideo){
+        const nextSibling=activeVideo.nextElementSibling
+        const prevSibling=activeVideo.previousElementSibling
+        if(nextSibling){
+            nextSibling.style.display="none"
+        }
+        if(prevSibling){
+            prevSibling.style.display="none"
+        }
+    }
+ 
+    function switchActiveButtons(activeButton){
+        const nextSibling=activeButton.nextElementSibling
+        const prevSibling=activeButton.previousElementSibling
+        const activeClass="active"
+        if(nextSibling){
+            nextSibling.classList.remove(activeClass)
+        }
+        if(prevSibling){
+            prevSibling.classList.remove(activeClass)
+        }
+        activeButton.classList.add(activeClass)
+        return activeButton?.dataset?.source
+    }
+
+    function switchShowVideos(activeContainer,label){
+        const videoClass=`video-frame ${label}-frame`
+        const videoFrame=activeContainer.querySelector(videoClass)
+        const videos=activeContainer.children[1].children
+        const activeVideo=Array.from(videos).filter((item)=>item.className===videoClass)
+        console.debug({activeVideo})
+        hideSiblingVideo(activeVideo[0])
+        activeVideo[0].style.display="block"
+    }
+
+    const allVideoContainers=document.querySelectorAll(".video-player-container")
+    allVideoContainers.forEach((container)=>{
+        container.addEventListener("click",(e)=>{
+            if(!e.target.classList.contains('source-btn')) return;
+            
+            console.debug({e},{container})
+            const targetButton=e.target
+            const activeSource=switchActiveButtons(targetButton)
+            console.debug(activeSource)
+            if(activeSource){
+                switchShowVideos(container,activeSource)
+            }
+        })
+    })
+</script>
+
 </body>
-
-
+</html>
 
 ___
 ### Следующие шаги:

@@ -5,17 +5,54 @@ keywords:  hubex, хабекс, хубекс, хабикс
 ---
 
 #### Интеграция с Telegram
-В этом разделе вы научитесь:
 <html>
+<head>
+    <style>
+        .video-player-container {
+            margin: 20px 0;
+        }
+        .video-source-selector {
+            margin-bottom: 10px;
+        }
+        .source-btn {
+            padding: 8px 16px;
+            background: #f0f0f0;
+            border: 1px solid #ddd;
+            cursor: pointer;
+            margin-right: 5px;
+            border-radius: 4px;
+            font-family: Arial, sans-serif;
+            font-size: 14px;
+            transition: all 0.3s ease;
+        }
+        .source-btn:hover {
+            background: #e0e0e0;
+        }
+        .source-btn.active {
+            background: #45688e;
+            color: white;
+            border-color: #45688e;
+        }
+        .video-frame {
+            width: 560px;
+            height: 315px;
+            max-width: 100%;
+        }
+        .video-frame iframe {
+            width: 100%;
+            height: 100%;
+            border: none;
+        }
+    </style>
 <meta charset="utf-8">
+</head>
+<body>
+<p>В этом разделе вы научитесь:</p>
 <ul>
     <li><a href="#telegramset">Настраивать интеграцию с Telegram</a>;</li>
     <li><a href="#createtick">Подавать Заявки через Telegram-бота</a>;</li>
     <li><a href="#designbot">Устанавливать аватарку для Telegram-бота</a>.</li>
 </ul>
-</html>
-<body>
-
 
 <p>Процесс подачи <strong>Заявок</strong> через Telegram (Телеграм) - простой и эффективный способ решения задач ваших
     заказчиков.
@@ -37,8 +74,21 @@ keywords:  hubex, хабекс, хубекс, хабикс
 
 <p>Прочтите подробную статью ниже или начните знакомство с темой с обучающего видеоролика <strong>Интеграция с
     Telegram</strong>.</p>
-<iframe src="https://www.youtube.com/embed/oLKQVUrxCYU" width="100%" height="450px" frameborder="0"
-        allowfullscreen="allowfullscreen"></iframe>
+    
+<div class="video-player-container" data-player-id="player31">
+    <div class="video-source-selector">
+        <button class="source-btn active" data-source="vk">VK</button>
+        <button class="source-btn" data-source="youtube">YouTube</button>
+    </div>
+    <div class="video-embed">
+        <div class="video-frame youtube-frame" style="display: none;">
+            <iframe src="https://www.youtube.com/embed/oLKQVUrxCYU" loading="lazy" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        </div>
+        <div class="video-frame vk-frame" style="display: block;">
+            <iframe src="https://vkvideo.ru/video_ext.php?oid=-187865475&id=456239120&hd=2&autoplay=0" allowfullscreen></iframe>
+        </div>
+    </div>
+</div>
 
 <h5 id="telegramset">Настройка интеграции с Telegram</h5>
 <p>Подключение Telegram к HubEx реализуется с помощью подключения Telegram-бота. <strong>Заявки</strong> будут
@@ -72,13 +122,11 @@ keywords:  hubex, хабекс, хубекс, хабикс
     <li>откройте Telegram и по поиску найдите бота @BotFather (это главный бот в Telegram, с помощью которого можно
         зарегистрировать свой бот);
     </li>
-
     <p>
     <div>
         <img style="margin: 0 auto; display: block; max-width: 60%;"
              src="/attachments/images/FAQ/ADMIN/Telegram/Telegram.jpg"/></div>
     </p>
-
     <li>в диалоге с @BotFather нажмите команду <strong>Запустить</strong> (<strong>Start</strong>).
         <p>Обратите внимание! Исходящие команды для @BotFather отправляются на английском языке. Входящие ответы от
             @BotFather также приходят на английском языке.</p>
@@ -88,15 +136,12 @@ keywords:  hubex, хабекс, хубекс, хабикс
         <img style="margin: 0 auto; display: block; max-width: 60%;"
              src="/attachments/images/FAQ/ADMIN/Telegram/Telegram2.jpg"/></div>
     </p>
-
     <li>затем введите команду <strong>/newbot</strong> для создания нового бота;</li>
-
     <p>
     <div>
         <img style="margin: 0 auto; display: block; max-width: 60%;"
              src="/attachments/images/FAQ/ADMIN/Telegram/Telegram3.jpg"/></div>
     </p>
-
     <li>введите название для бота, например, <strong>Бот для сбора заявок по ремонту</strong>. Название для бота можно
         написать как на русском, так и на английском языке;
     </li>
@@ -105,7 +150,6 @@ keywords:  hubex, хабекс, хубекс, хабикс
         <img style="margin: 0 auto; display: block; max-width: 60%;"
              src="/attachments/images/FAQ/ADMIN/Telegram/Telegram4.jpg"/></div>
     </p>
-
     <li id="botname">введите никнейм (пользовательское наименование) для бота обязательно на английском языке, чтобы его
         было легко
         найти вашим
@@ -113,7 +157,6 @@ keywords:  hubex, хабекс, хубекс, хабикс
         компании Сервис "Газ и Автоматизация" можно назвать бот SGA_Service_Bot;
         <p>Обратите внимание! Никнейм для бота обязательно должен заканчиваться словом bot.</p>
     </li>
-
     <li id="botlink">в ответ вы получите сообщение об успешной регистрации бота. В сообщении будет ссылка на ваш бот.
         Этой ссылкой вы можете делиться со своими заказчиками и пользователями, именно в этот бот нужно будет
         отправлять заявки;
@@ -126,7 +169,6 @@ keywords:  hubex, хабекс, хубекс, хабикс
         <img style="margin: 0 auto; display: block; max-width: 60%;"
              src="/attachments/images/FAQ/ADMIN/Telegram/Telegram5.jpg"/></div>
     </p>
-
 </ul>
 
 <p>Вернемся в HubEx в настройку связки:</p>
@@ -182,7 +224,6 @@ keywords:  hubex, хабекс, хубекс, хабикс
                 чат с Telegram-ботом после закрытия <strong>Заявки</strong>.
             </li>
         </ol>
-
     </li>
     <li>после заполнения всех полей необходимо нажать кнопку <strong>Сохранить</strong>.</li>
 </ul>
@@ -214,7 +255,6 @@ keywords:  hubex, хабекс, хубекс, хабикс
     <li>Откройте Telegram и найдите в списке чатов Telegram-бот, созданный ранее в рамках текущей инструкции. Найти бота
         можно по <a href="#botlink">ссылке</a> или по <a href="#botname">никнейму бота</a>, который задали при генерации
         бота.
-
         <p>При первом обращении через бота нужно нажать кнопку <strong>Запустить</strong> (или <strong>Начать</strong>,
             или <strong>Start</strong>).
         </p>
@@ -223,7 +263,6 @@ keywords:  hubex, хабекс, хубекс, хабикс
             <img style="margin: 0 auto; display: block; max-width: 60%;"
                  src="/attachments/images/FAQ/ADMIN/Telegram/Telegram8.jpg"/></div>
         </p>
-
     </li>
     <li>Перед подачей заявки пользователь получит <a href="#first">приветственное сообщение</a> с просьбой оставить
         номер
@@ -248,7 +287,6 @@ keywords:  hubex, хабекс, хубекс, хабикс
             <img style="margin: 0 auto; display: block; max-width: 60%;"
                  src="/attachments/images/FAQ/ADMIN/Telegram/Telegram10.jpg"/></div>
         </p>
-
         <p>Предоставленный по кнопке контакт отобразится, как отправленное сообщение. </p>
         <p>
         <div>
@@ -261,7 +299,6 @@ keywords:  hubex, хабекс, хубекс, хабикс
         наименование компании-заказчика, по возможности - наименование объекта и описать ситуацию, которую необходимо
         разрешить. Вся введенная в сообщении информация заполнится в <strong>Заявку</strong> в HubEx в поле <strong>Описание
             заявки</strong>.
-
         <p>После отправки сообщения с информацией по заявке, пользователю в Telegram придет <a href="#second">сообщение-подтверждение</a>
             о том, что заявка принята (<strong>Спасибо, заявка принята!</strong>).</p>
         <p>
@@ -269,7 +306,6 @@ keywords:  hubex, хабекс, хубекс, хабикс
             <img style="margin: 0 auto; display: block; max-width: 60%;"
                  src="/attachments/images/FAQ/ADMIN/Telegram/Telegram12.jpg"/></div>
         </p>
-
         <p><strong>Заявка</strong> в HubEx будет создана по введенному сообщению с незаполненными полями <strong>Заказчик</strong>,
             <strong>Объект</strong>, <strong>Вид работ</strong> и т.д., автоматически заполняются
             только поля <strong>Тип
@@ -280,7 +316,6 @@ keywords:  hubex, хабекс, хубекс, хабикс
             web-приложении HubEx и заполнить недостающие поля самостоятельно. Обратите внимание! У созданной
             <strong>Заявки</strong> нельзя
             изменить <strong>Тип заявки</strong>, но можно изменить <strong>Критичность</strong>.</p>
-
         <p>Также в поле <strong>Метод подачи заявки</strong> будет указано значение <strong>Телеграм</strong>, а в поле
             <strong>Инициатор заявки</strong> указано ФИО пользователя, подавшего заявку через Telegram-бота.</p>
         <p>
@@ -288,7 +323,6 @@ keywords:  hubex, хабекс, хубекс, хабикс
             <img style="margin: 0 auto; display: block; max-width: 100%;"
                  src="/attachments/images/FAQ/ADMIN/Telegram/Telegram13.jpg"/></div>
         </p>
-
     </li>
     <li>Диспетчер или исполнитель могут ответить в web-версии HubEx или в мобильном приложении <strong>HubEx
         исполнитель</strong> в чате
@@ -329,13 +363,11 @@ keywords:  hubex, хабекс, хубекс, хабикс
     <li>Когда <strong>Заявку</strong> переводят на стадию <strong>Закрыта</strong>, то в Telegram-бот уходит <a
             href="#third">сообщение о закрытии заявки</a> (<strong>Ваша заявка успешно выполнена! Чтобы подать новую
         заявку отправьте сообщение в чат.</strong>).
-
         <p>
         <div>
             <img style="margin: 0 auto; display: block; max-width: 60%;"
                  src="/attachments/images/FAQ/ADMIN/Telegram/Telegram18.jpg"/></div>
         </p>
-
     </li>
     <li>Следующее сообщение после закрытия <strong>Заявки</strong>
         будет создавать новую <strong>Заявку</strong> в HubEx.
@@ -358,7 +390,6 @@ keywords:  hubex, хабекс, хубекс, хабикс
         вложение
         также
         отобразится для заказчика, как ответ от Telegram-бота.
-
         <p>
         <div>
             <img style="margin: 0 auto; display: block; max-width: 60%;"
@@ -369,11 +400,9 @@ keywords:  hubex, хабекс, хубекс, хабикс
             <img style="margin: 0 auto; display: block; max-width: 100%;"
                  src="/attachments/images/FAQ/ADMIN/Telegram/Telegram22.jpg"/></div>
         </p>
-
         <p>Чтобы отправить файл в чат с ботом, нажмите на значок скрепки слева от строки сообщения. В появившемся окошке
             выберите файл. В мобильной версии прикрепление файлов происходит также по щелчку на значок скрепки и выбору
             файлов из мобильной галереи.</p>
-
         <p>
         <div>
             <img style="margin: 0 auto; display: block; max-width: 60%;"
@@ -386,7 +415,6 @@ keywords:  hubex, хабекс, хубекс, хабикс
         </p>
     </li>
 </ol>
-
 <p>Повторим еще раз основные моменты при подаче <strong>Заявок</strong> через Telegram-бота:</p>
 <ul>
     <li>при отправке пользователем первого сообщения (после передачи номера телефона) автоматически в HubEx создается
@@ -427,18 +455,15 @@ keywords:  hubex, хабекс, хубекс, хабикс
 
 </ul>
 
-
 <h5 id="designbot">Установка аватарки для Telegram-бота</h5>
 <p>Для своего Telegram-бота, который вы создали в рамках <a href="#mybot">первого пункта текущей инструкции</a>, можно
     установить аватарку. Аватарка будет также отличать ваш бот среди чатов в Телеграм. </p>
 <p>Чтобы установить аватарку для бота, выполните следующие действия:</p>
 
-
 <ul>
     <li>откройте Telegram, перейдите в диалог с ботом, которого создали для сбора <strong>Заявок</strong> (в нашей инструкции это <strong>Бот для
         сбора заявок по ремонту</strong>);
     </li>
-
     <li>нажмите на контекстное меню (три точки) в верхнем правом углу и выберите команду <strong>Manage bot</strong>;</li>
     <p>
     <div>
@@ -464,32 +489,81 @@ keywords:  hubex, хабекс, хубекс, хабикс
         <img style="margin: 0 auto; display: block; max-width: 60%;"
              src="/attachments/images/FAQ/ADMIN/Telegram/Telegram28.jpg"/></div>
     </p>
-
     <p>Обратите внимание! Telegram обрезает аватарки по форме круга, поэтому лучше использовать логотипы квадратного формата (.jpg, .png).</p>
-
     <li>в окне редактирования вы можете подвигать рамку для выбора и затем нажать кнопку <strong>Установить фотографию</strong>;</li>
     <p>
     <div>
         <img style="margin: 0 auto; display: block; max-width: 60%;"
              src="/attachments/images/FAQ/ADMIN/Telegram/Telegram29.jpg"/></div>
     </p>
-
     <li>в окошке редактирования бота проверьте, что логотип установился и нажмите кнопку <strong>Сохранить</strong>.</li>
     <p>
     <div>
         <img style="margin: 0 auto; display: block; max-width: 60%;"
              src="/attachments/images/FAQ/ADMIN/Telegram/Telegram30.jpg"/></div>
     </p>
-
     <p>Таким образом, можно установить ваш логотип в качестве аватарки для бота.</p>
     <p>
     <div>
         <img style="margin: 0 auto; display: block; max-width: 60%;"
              src="/attachments/images/FAQ/ADMIN/Telegram/Telegram31.jpg"/></div>
     </p>
-
 </ul>
 
+<script>
+    function hideSiblingVideo(activeVideo){
+        const nextSibling=activeVideo.nextElementSibling
+        const prevSibling=activeVideo.previousElementSibling
+        if(nextSibling){
+            nextSibling.style.display="none"
+        }
+        if(prevSibling){
+            prevSibling.style.display="none"
+        }
+    }
+ 
+    function switchActiveButtons(activeButton){
+        const nextSibling=activeButton.nextElementSibling
+        const prevSibling=activeButton.previousElementSibling
+        const activeClass="active"
+        if(nextSibling){
+            nextSibling.classList.remove(activeClass)
+        }
+        if(prevSibling){
+            prevSibling.classList.remove(activeClass)
+        }
+        activeButton.classList.add(activeClass)
+        return activeButton?.dataset?.source
+    }
+
+    function switchShowVideos(activeContainer,label){
+        const videoClass=`video-frame ${label}-frame`
+        const videoFrame=activeContainer.querySelector(videoClass)
+        const videos=activeContainer.children[1].children
+        const activeVideo=Array.from(videos).filter((item)=>item.className===videoClass)
+        console.debug({activeVideo})
+        hideSiblingVideo(activeVideo[0])
+        activeVideo[0].style.display="block"
+    }
+
+    const allVideoContainers=document.querySelectorAll(".video-player-container")
+    allVideoContainers.forEach((container)=>{
+        container.addEventListener("click",(e)=>{
+            if(!e.target.classList.contains('source-btn')) return;
+            
+            console.debug({e},{container})
+            const targetButton=e.target
+            const activeSource=switchActiveButtons(targetButton)
+            console.debug(activeSource)
+            if(activeSource){
+                switchShowVideos(container,activeSource)
+            }
+        })
+    })
+</script>
+
 </body>
+</html>
+
 ____
 - [Перейти в меню](http://wiki.hubex.ru)

@@ -5,9 +5,49 @@ keywords: заявки по почте, заявки из почты, подач
 ---
 
 #### Интеграция по электронной почте, подача заявок по электронной почте
-В этом разделе вы узнаете:
 <html>
+<head>
+    <style>
+        .video-player-container {
+            margin: 20px 0;
+        }
+        .video-source-selector {
+            margin-bottom: 10px;
+        }
+        .source-btn {
+            padding: 8px 16px;
+            background: #f0f0f0;
+            border: 1px solid #ddd;
+            cursor: pointer;
+            margin-right: 5px;
+            border-radius: 4px;
+            font-family: Arial, sans-serif;
+            font-size: 14px;
+            transition: all 0.3s ease;
+        }
+        .source-btn:hover {
+            background: #e0e0e0;
+        }
+        .source-btn.active {
+            background: #45688e;
+            color: white;
+            border-color: #45688e;
+        }
+        .video-frame {
+            width: 560px;
+            height: 315px;
+            max-width: 100%;
+        }
+        .video-frame iframe {
+            width: 100%;
+            height: 100%;
+            border: none;
+        }
+    </style>
 <meta charset="utf-8">
+</head>
+<body>
+<p>В этом разделе вы узнаете:</p>
 <ol>
     <li>Как настроить интеграцию через пересылку:
         <ul>
@@ -17,8 +57,6 @@ keywords: заявки по почте, заявки из почты, подач
             <li><a href="#createtickets">Как подавать Заявки через пересылку</a>.</li>
         </ul>
     </li>
-
-
     <li>Как настроить интеграцию через imap:
         <ul>
             <li><a href="#set1">Как настроить почтовый клиент для интеграции с HubEx</a>;</li>
@@ -28,9 +66,6 @@ keywords: заявки по почте, заявки из почты, подач
     </li>
 
 </ol>
-</html>
-
-<body>
 
 <p>Интеграция с HubEx по электронной почте позволяет создавать <strong>Заявки</strong> с помощью
     получения электронных писем от ваших <strong>Заказчиков</strong>.
@@ -42,15 +77,12 @@ keywords: заявки по почте, заявки из почты, подач
         созданный индивидуально для вашего бизнес аккаунта. Заявки будут создаваться по единому шаблону для тех писем,
         для которых будет
         настроена пересылка.
-
     </li>
-
     <li><strong>Подключение почтового ящика через настройки imap</strong>: данный способ предполагает более детальную
         настройку вашего
         почтового сервиса и подключение вашего ящика напрямую как адреса для сбора Заявок, создание индивидуальных
         шаблонов заявок под разных заказчиков и настройку двусторонней интеграции для отправки ответных писем из HubEx
         на электронную почту.
-
     </li>
 </ul>
 
@@ -78,15 +110,12 @@ keywords: заявки по почте, заявки из почты, подач
     </li>
     <p>Шаблон по умолчанию имеет название <strong>Шаблон для получения заявок по электронной почте через
         пересылку.</strong></p>
-
     <div>
         <img style="margin: 0 auto; display: block; max-width: 100%;"
              src="/attachments/images/FAQ/ADMIN/TicketMail/Integration23.jpg"/>
     </div>
-
     <p>На форме шаблона по умолчанию заполнены основные поля, некоторые из них можно отредактировать при
         необходимости:</p>
-
     <ul>
         <li>поле <strong>Описание QR-кода</strong> - это название шаблона для интеграции
             с почтой;
@@ -115,15 +144,12 @@ keywords: заявки по почте, заявки из почты, подач
             электронной почты. Таким образом легко можно будет отфильтровать <strong>Заявки</strong> в общем списке
             по
             исключительному объекту;
-
         </li>
         <li>в поле <strong>Вид работ</strong> по умолчанию будет указан такой <strong>Вид работ</strong> в карточке
             которого установлен
             флажок <strong>Основной вид работ</strong>, он может быть только один в системе. <strong>Вид работ</strong> в
             созданной <strong>Заявке</strong> можно будет изменить;
         </li>
-
-
         <li><strong>Критичность</strong> в шаблоне будет установлена та, в карточке которой установлен флажок <strong>По
             умолчанию</strong>, это поле
             также можно будет менять в созданной по письму <strong>Заявке</strong>;
@@ -139,16 +165,12 @@ keywords: заявки по почте, заявки из почты, подач
         </li>
         <li>Если вы вносили изменения в поля шаблона, то нажмите кнопку <strong>Сохранить</strong>.
         </li>
-
         <p>
         <div>
             <img style="margin: 0 auto; display: block; max-width: 90%;"
                  src="/attachments/images/FAQ/ADMIN/TicketMail/Integration25.jpg"/></div>
         </p>
-
     </ul>
-
-
     <li><strong>Шаг 2:</strong> активация сервисной учетной записи.
     </li>
     <p>Активировать сервисную учетную запись можно в консоли администрирования в меню <strong>Интеграция - Служебные
@@ -157,7 +179,6 @@ keywords: заявки по почте, заявки из почты, подач
                 href="https://wiki.hubex.ru/docs/FAQ/RU/admin/ServiceUsers.html">Служебные пользователи</a>. </p>
     <p>Переключите тумблер <strong>Пользователя API</strong>
         вправо и установите необходимые настройки:</p>
-
     <ul>
         <li>выберите <strong>Роль</strong>, которая наделена максимальными полномочиями для работы с
             <strong>Заявками</strong>
@@ -171,20 +192,17 @@ keywords: заявки по почте, заявки из почты, подач
             участках читайте в статье: <a
                     href="https://wiki.hubex.ru/docs/FAQ/RU/admin/Places.html">Настройка участков</a>;
         </li>
-
         <li>поле <strong>Токен доступа</strong> оставьте незаполненным, для интеграции с электронной почтой токен не
             нужен.
             Токен (или ключ) нужен при настройке интеграции с Битрикс24 с помощью Albato. Подробнее читайте в
             статье: <a href="">Интеграция с Битрикс24 с помощью Albato</a>.
         </li>
-
         <p>
         <div>
             <img style="margin: 0 auto; display: block; max-width: 90%;"
                  src="/attachments/images/FAQ/ADMIN/TicketMail/ServiceUsers.jpg"/></div>
         </p>
     </ul>
-
     <li><strong>Шаг 3:</strong> перейдите в разделе <strong>Интеграция - Интеграция по электронной
         почте</strong>. В верхней части будет отображаться раздел <strong>Подключение через пересылку</strong>. По
         щелчку на подсказку <strong>Как настроить пересылку?</strong> можно открыть краткие подсказки по настройке
@@ -202,9 +220,7 @@ keywords: заявки по почте, заявки из почты, подач
         <img style="margin: 0 auto; display: block; max-width: 90%;"
              src="/attachments/images/FAQ/ADMIN/TicketMail/Integration2.jpg"/></div>
 
-
 </ul>
-
 
 <h5 id="setgmail">Настройка пересылки для почтового ящика Gmail</h5>
 
@@ -217,9 +233,7 @@ keywords: заявки по почте, заявки из почты, подач
 <p>Далее выполните следующие шаги по настройке:</p>
 <ul>
     <li>откройте раздел <strong>Пересылка и POP/IMAP</strong> и нажмите кнопку <strong>Добавить адрес пересылки</strong>;
-
     </li>
-
     <p>
     <div>
         <img style="margin: 0 auto; display: block; max-width: 100%;"
@@ -283,8 +297,7 @@ keywords: заявки по почте, заявки из почты, подач
         меню почтового ящика <strong>Пересылка и POP/IMAP</strong> и выбрать пункт <strong>Пересылать копии входящих
             сообщений на адрес</strong>. Проверьте что для пересылки выбрана ваша персональная почта HubEx и внизу
         страницы нажмите кнопку <strong>Сохранить изменения</strong>.
-    </li>
-  
+    </li>  
     <p>
     <div>
         <img style="margin: 0 auto; display: block; max-width: 100%;"
@@ -331,9 +344,7 @@ keywords: заявки по почте, заявки из почты, подач
         данном этапе настройка пересылки заканчивается.
     </li>
 
-
 </ul>
-
 
 <h5 id="setyandex">Настройка пересылки для почтового ящика Yandex</h5>
 
@@ -346,9 +357,7 @@ keywords: заявки по почте, заявки из почты, подач
 <p>Далее выполните следующие шаги по настройке:</p>
 <ul>
     <li>откройте раздел <strong>Правила обработки писем</strong> и нажмите кнопку <strong>Создать правило</strong>;
-
     </li>
-
     <p>
     <div>
         <img style="margin: 0 auto; display: block; max-width: 100%;"
@@ -362,7 +371,6 @@ keywords: заявки по почте, заявки из почты, подач
         <img style="margin: 0 auto; display: block; max-width: 100%;"
              src="/attachments/images/FAQ/ADMIN/TicketMail/Yandex3.jpg"/></div>
     </p>
-
     <li>дополнительно для пересылаемых писем можно настроить фильтрацию. Фильтрация позволит уточнить, какие именно
         письма должны поступать, как <strong>Заявки</strong> в HubEx. Фильтры доступны в текущем окне в разделе <strong>Если</strong>:
         в параметрах фильтров можно задать отправителей писем (например,
@@ -374,7 +382,6 @@ keywords: заявки по почте, заявки из почты, подач
         <img style="margin: 0 auto; display: block; max-width: 100%;"
              src="/attachments/images/FAQ/ADMIN/TicketMail/Yandex4.jpg"/></div>
     </p>
-
     <li>внизу формы нажмите кнопку <strong>Создать правило</strong>;
     </li>
     <p>
@@ -411,10 +418,6 @@ keywords: заявки по почте, заявки из почты, подач
         <img style="margin: 0 auto; display: block; max-width: 100%;"
              src="/attachments/images/FAQ/ADMIN/TicketMail/Yandex9.jpg"/></div>
     </p>
-    
-   
-
-
 </ul>
 
 <h5 id="createtickets">Подача Заявок через пересылку</h5>
@@ -447,17 +450,28 @@ keywords: заявки по почте, заявки из почты, подач
     <img style="margin: 0 auto; display: block; max-width: 35%;"
          src="/attachments/images/FAQ/ADMIN/TicketMail/Mail5.jpg"/>
 </div>
-<p>Обратите внимание! Для каждого нового адреса электронной почты ваших клиентов в системе будет создаваться карточка <strong>Заказчика</strong> (в меню <strong>Пользователи - Заказчики</strong>). Заказчику, создавшему <strong>Заявку</strong>, придет письмо со ссылкой для регистрации в системе. </p>
-
-
+<p>Обратите внимание! Для каждого нового адреса электронной почты ваших клиентов в системе будет создаваться карточка <strong>Заказчика</strong> (в меню <strong>Пользователи - Заказчики</strong>). Заказчику, создавшему <strong>Заявку</strong>, придет письмо со ссылкой для регистрации в системе.</p>
 
 <h4>Настройка интеграции через imap</h4>
 
 <p>Прочтите подробную статью ниже или начните знакомство с темой с обучающего видеоролика <strong>Как подавать
     заявки с
     электронной почты в HubEx?</strong></p>
-<iframe src="https://www.youtube.com/embed/w9x3r65YbAo" width="100%" height="450px" frameborder="0"
-        allowfullscreen="allowfullscreen"></iframe>
+    
+<div class="video-player-container" data-player-id="player32">
+    <div class="video-source-selector">
+        <button class="source-btn active" data-source="vk">VK</button>
+        <button class="source-btn" data-source="youtube">YouTube</button>
+    </div>
+    <div class="video-embed">
+        <div class="video-frame youtube-frame" style="display: none;">
+            <iframe src="https://www.youtube.com/embed/w9x3r65YbAo" loading="lazy" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        </div>
+        <div class="video-frame vk-frame" style="display: block;">
+            <iframe src="https://vkvideo.ru/video_ext.php?oid=-187865475&id=456239101&hd=2&autoplay=0" allowfullscreen></iframe>
+        </div>
+    </div>
+</div>
 
 <p>Обратите внимание: </p>
 <ol>
@@ -476,23 +490,19 @@ keywords: заявки по почте, заявки из почты, подач
     </li>
 </ol>
 
-
 <h5 id="set1">Настройка почтового клиента для интеграции с HubEx</h5>
 <p>Настройка интеграции для автообработки заявок состоит из нескольких этапов.</p>
 <p>Первым этапом настройки интеграции является настройка почтового клиента: </p>
 <ul>
-
     <li><strong>Шаг 1:</strong> для почтового сервиса установите разрешение доступа к почтовому ящику. Для
         Яндекс почты разрешение
         доступа находится в настройках <strong>Почта - Все настройки - Почтовые программы</strong>.
     </li>
-
     <p>
     <div>
         <img style="margin: 0 auto; display: block; max-width: 90%;"
              src="/attachments/images/FAQ/ADMIN/TicketMail/EmailSettings.jpg"/></div>
     </p>
-
     <li id="password"><strong>Шаг 2:</strong> сгенерируйте пароль для приложений в настройках аккаунта Яндекс
         (<strong>Управление
             аккаунтом</strong>) в разделе <strong>Безопасность - Пароли приложений - Почта</strong>.
@@ -501,22 +511,18 @@ keywords: заявки по почте, заявки из почты, подач
             <img style="margin: 0 auto; display: block; max-width: 80%;"
                  src="/attachments/images/FAQ/ADMIN/TicketMail/EmailSettings2.jpg"/></div>
         </p>
-
         <p>
         <div>
             <img style="margin: 0 auto; display: block; max-width: 80%;"
                  src="/attachments/images/FAQ/ADMIN/TicketMail/EmailSettings3.jpg"/></div>
         </p>
-
         <p>Придумайте название для пароля (например, Пароль для почты). Затем нажмите кнопку <strong>Далее</strong>.
         </p>
-
         <p>
         <div>
             <img style="margin: 0 auto; display: block; max-width: 80%;"
                  src="/attachments/images/FAQ/ADMIN/TicketMail/EmailSettings4.jpg"/></div>
         </p>
-
         <p>В новом окне будет сгенерирован специальный пароль. Его необходимо скопировать по нажатию на иконку
             копирования (два квадратика). При копировании вы увидите уведомление, что идет процесс копирования.
             Скопированный пароль необходимо сохранить в заметках или текстовом документе (формата .txt, .docx) на
@@ -528,20 +534,16 @@ keywords: заявки по почте, заявки из почты, подач
             <img style="margin: 0 auto; display: block; max-width: 80%;"
                  src="/attachments/images/FAQ/ADMIN/TicketMail/EmailSettings5.jpg"/></div>
         </p>
-
         <p>
         <div>
             <img style="margin: 0 auto; display: block; max-width: 80%;"
                  src="/attachments/images/FAQ/ADMIN/TicketMail/EmailSettings6.jpg"/></div>
         </p>
-
         <p>Если вы создали пароль для приложений и не скопировали (не сохранили) его, то необходимо создать новый
             пароль
             по схеме, описанной выше.</p>
-
     </li>
 </ul>
-
 
 <h5 id="set2">Настройка HubEx для интеграции</h5>
 
@@ -559,9 +561,7 @@ keywords: заявки по почте, заявки из почты, подач
                 href="https://wiki.hubex.ru/docs/FAQ/RU/user/CreatingTaskTemplates.html">Создание шаблона заявки,
             подача заявки по QR-коду</a>.
     </li>
-
     <p>На форме шаблона заполните основные поля:</p>
-
     <ul>
         <li>поле <strong>Описание QR-кода</strong> - это название шаблона, так как мы создаем шаблон для интеграции
             с почтой, то в названии можно написать, например, Шаблон для почты;
@@ -595,7 +595,6 @@ keywords: заявки по почте, заявки из почты, подач
             электронной почты. Таким образом легко можно будет отфильтровать <strong>Заявки</strong> в общем списке
             по
             исключительному объекту;
-
             <p>Обратите внимание! Вы можете сделать общий шаблон для всех заказчиков, без привязки к конкретному.
                 Для
                 этого в поле <strong>Заказчик</strong> необходимо выбрать вашу компанию (от лица, которой вы
@@ -604,7 +603,6 @@ keywords: заявки по почте, заявки из почты, подач
                 <strong>Объект</strong> выбрать объект <strong>Для почты</strong> (Объект <strong>Для почты</strong>
                 должен быть создан до создания шаблона). Таким образом, например, диспетчер сможет обработать все
                 входящие Заявки с фильтром по вашей компании и объекту <strong>Для почты</strong>.</p>
-
         </li>
         <li>в поле <strong>Вид работ</strong> укажите самый популярный вариант, если их на объекте
             несколько. Выбор <strong>Вида работ</strong>
@@ -612,10 +610,8 @@ keywords: заявки по почте, заявки из почты, подач
             можно будет
             изменить;
         </li>
-
         <p>Обратите внимание! У шаблона обязательно должен быть выбран <strong>Объект</strong> и <strong>Вид
             работ</strong>, иначе его нельзя будет выбрать в настройках интеграции.</p>
-
         <li><strong>Критичность</strong> заполняется на усмотрение, эти поля
             также можно будет менять при
             подаче <strong>Заявки</strong>;
@@ -627,20 +623,17 @@ keywords: заявки по почте, заявки из почты, подач
                     href="https://wiki.hubex.ru/docs/FAQ/RU/user/SelfRegister.html">Подача заявок по QR-коду без
                 приложения, самостоятельная регистрация нового пользователя</a>.
         </li>
-
         <p>
         <div>
             <img style="margin: 0 auto; display: block; max-width: 90%;"
                  src="/attachments/images/FAQ/ADMIN/TicketMail/Template.jpg"/></div>
         </p>
-
     </ul>
     <p>После заполнения полей шаблона нажмите кнопку <strong>Сохранить</strong>. После сохранения будет
         сгенерирован
         QR-код. QR-код не используется для интеграции. А сам шаблон пригодится позже для настроек в
         консоли администрирования.
     </p>
-
     <li><strong>Шаг 2:</strong> активация сервисной учетной записи.
     </li>
     <p>Активировать сервисную учетную запись можно в консоли администрирования в меню <strong>Интеграция - Служебные
@@ -649,7 +642,6 @@ keywords: заявки по почте, заявки из почты, подач
                 href="https://wiki.hubex.ru/docs/FAQ/RU/admin/ServiceUsers.html">Служебные пользователи</a>. </p>
     <p>Переключите тумблер <strong>Пользователя API</strong>
         вправо и установите необходимые настройки:</p>
-
     <ul>
         <li>выберите <strong>Роль</strong>, которая наделена максимальными полномочиями для работы с
             <strong>Заявками</strong>
@@ -663,25 +655,21 @@ keywords: заявки по почте, заявки из почты, подач
             участках читайте в статье: <a
                     href="https://wiki.hubex.ru/docs/FAQ/RU/admin/Places.html">Настройка участков</a>;
         </li>
-
         <li>поле <strong>Токен доступа</strong> оставьте незаполненным, для интеграции с электронной почтой токен не
             нужен.
             Токен (или ключ) нужен при настройке интеграции с Битрикс24 с помощью Albato. Подробнее читайте в
             статье: <a href="">Интеграция с Битрикс24 с помощью Albato</a>.
         </li>
-
         <p>
         <div>
             <img style="margin: 0 auto; display: block; max-width: 90%;"
                  src="/attachments/images/FAQ/ADMIN/TicketMail/ServiceUsers.jpg"/></div>
         </p>
     </ul>
-
     <li><strong>Шаг 3:</strong> перейдите в разделе <strong>Интеграция - Интеграция по электронной
         почте</strong> и нажмите кнопку <strong>Подключить эл. почту</strong>.
     </li>
     <p>Заполните следующие поля:</p>
-
     <ul>
         <li><strong>Адрес сбора заявок</strong>: укажите тот электронный адрес, на который будут поступать письма с
             заявками (это та почта, для которой мы делали настройки в <a href="#set1">первом разделе статьи</a>). Мы
@@ -703,7 +691,6 @@ keywords: заявки по почте, заявки из почты, подач
             <strong>Протокол
                 безопасности</strong> = SSL/TLS;
         </p>
-
         <li>далее нажмите кнопку <strong>Добавить адрес</strong> и введите адрес электронной почты, с которого будут
             отправлять
             <strong>Заявки</strong>. Вы
@@ -716,11 +703,9 @@ keywords: заявки по почте, заявки из почты, подач
             "*@yandex.ru" (без кавычек), тогда у всех почтовых ящиков *@yandex.ru будет доступ к подаче
             <strong>Заявок</strong>
             через e-mail. Либо ввести "*@*" (без кавычек) для получения писем с любых адресов любых доменов.
-
             <p>Обратите внимание! Если вы создаете общий шаблон заявки, без привязки к <a href="#customer">конкретному
                 заказчику</a>, то указывайте в поле <strong>Отправитель</strong> вариант "*@*" (без кавычек) для
                 получения писем от любых электронных адресов;</p>
-
             <!--Подробнее читайте в статье: <a
                href="https://wiki.hubex.ru/docs/FAQ/RU/user/HowToManageGmailIntegration.html">
            Как настроить интеграцию с Gmail (почта Google)?</a>.-->
@@ -739,8 +724,6 @@ keywords: заявки по почте, заявки из почты, подач
                 ответа
                 заказчику через чат</strong> вправо;
         </li>
-
-
         <li><strong>Настройка регулярных выражений</strong>: данный блок настроек необходим для создания правил
             заполнения
             <strong>Заявки</strong> по тексту
@@ -753,7 +736,6 @@ keywords: заявки по почте, заявки из почты, подач
             регулярных выражений обратитесь в службу поддержки по адресу <a
                     href="mailto:support@hubex.ru" target="_blank" rel="noopener">
                 support@hubex.ru</a>
-
             <p>Например, настройка регулярных выражений может выглядеть следующим образом (на скриншоте представлена
                 частичная настройка).</p>
             <p>
@@ -769,12 +751,9 @@ keywords: заявки по почте, заявки из почты, подач
                      src="/attachments/images/FAQ/ADMIN/TicketMail/Mail3.jpg"/></div>
             </p>
         </li>
-
-
         <p>На этом настройка подключения почты закончена. После заполнения всех данных нажмите кнопку
             <strong>Сохранить</strong>.
         </p>
-
         <p>Обратите внимание на тумблер <strong>Включения/Выключения</strong> интеграции с электронной почтой. В
             положении
             <strong>Выключено</strong> вы больше не
@@ -782,21 +761,17 @@ keywords: заявки по почте, заявки из почты, подач
             необходимости
             вы
             сможете снова ее включить.</p>
-
-
         <p>
         <div>
             <img style="margin: 0 auto; display: block; max-width: 60%;"
                  src="/attachments/images/FAQ/ADMIN/TicketMail/Email3.jpg"/>
         </div>
         </p>
-
         <p id=twowayintegration>Как работает двусторонняя интеграция?</p>
         <ol>
             <li>Для работы двусторонней интеграции выполните настройки интеграции по данной статье, описанные
                 выше;
             </li>
-
             <li>далее Заказчик должен отправить письмо на адрес сбора заявок с описанием <strong>Заявки</strong>.
             </li>
             <p>Обратите внимание! Если вы прочитаете полученное письмо на адресе сбора заявок (вашей почте), то оно
@@ -814,7 +789,6 @@ keywords: заявки по почте, заявки из почты, подач
                      src="/attachments/images/FAQ/ADMIN/TicketMail/Ticket.jpg"/>
             </div>
             </p>
-
             <li>в <strong>Заявке</strong> во вкладке <strong>Сообщения</strong> в чате с заказчиком можно вести
                 переписку (задавать уточняющие вопросы, просить прислать фото, видео и т.д.) и каждое сообщение
                 для
@@ -822,12 +796,10 @@ keywords: заявки по почте, заявки из почты, подач
                 письмо
                 на адрес, с которого была отправлена <strong>Заявка</strong>.
             </li>
-
             <div>
                 <img style="margin: 0 auto; display: block; max-width: 90%;"
                      src="/attachments/images/FAQ/ADMIN/TicketMail/Chat.jpg"/>
             </div>
-
             <p>
             <div>
                 <img style="margin: 0 auto; display: block; max-width: 90%;"
@@ -835,13 +807,8 @@ keywords: заявки по почте, заявки из почты, подач
             </div>
             </p>
         </ol>
-
-
     </ul>
-
-
 </ul>
-
 
 <h5 id="createemailtick">Подача заявки через электронную почту</h5>
 
@@ -873,14 +840,65 @@ keywords: заявки по почте, заявки из почты, подач
          src="/attachments/images/FAQ/ADMIN/TicketMail/emailtick6.png"/>
 </div>
 
-
 <p>Обратите внимание! Если <strong>Заявка</strong> была подана с электронного адреса, который не был зарегистрирован
     в
     системе, то
     пользователю, создавшему <strong>Заявку</strong>, придет письмо со ссылкой для регистрации в системе.</p>
 
+<script>
+    function hideSiblingVideo(activeVideo){
+        const nextSibling=activeVideo.nextElementSibling
+        const prevSibling=activeVideo.previousElementSibling
+        if(nextSibling){
+            nextSibling.style.display="none"
+        }
+        if(prevSibling){
+            prevSibling.style.display="none"
+        }
+    }
+ 
+    function switchActiveButtons(activeButton){
+        const nextSibling=activeButton.nextElementSibling
+        const prevSibling=activeButton.previousElementSibling
+        const activeClass="active"
+        if(nextSibling){
+            nextSibling.classList.remove(activeClass)
+        }
+        if(prevSibling){
+            prevSibling.classList.remove(activeClass)
+        }
+        activeButton.classList.add(activeClass)
+        return activeButton?.dataset?.source
+    }
+
+    function switchShowVideos(activeContainer,label){
+        const videoClass=`video-frame ${label}-frame`
+        const videoFrame=activeContainer.querySelector(videoClass)
+        const videos=activeContainer.children[1].children
+        const activeVideo=Array.from(videos).filter((item)=>item.className===videoClass)
+        console.debug({activeVideo})
+        hideSiblingVideo(activeVideo[0])
+        activeVideo[0].style.display="block"
+    }
+
+    const allVideoContainers=document.querySelectorAll(".video-player-container")
+    allVideoContainers.forEach((container)=>{
+        container.addEventListener("click",(e)=>{
+            if(!e.target.classList.contains('source-btn')) return;
+            
+            console.debug({e},{container})
+            const targetButton=e.target
+            const activeSource=switchActiveButtons(targetButton)
+            console.debug(activeSource)
+            if(activeSource){
+                switchShowVideos(container,activeSource)
+            }
+        })
+    })
+</script>
 
 </body>
+</html>
 
 ___
 ### Следующие шаги:

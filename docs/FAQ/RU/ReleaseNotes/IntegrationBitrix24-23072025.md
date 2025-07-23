@@ -41,7 +41,7 @@ keywords: Интеграция, Битрикс, Битрикс24, bitrix, integr
 </li>
 </ol>
 <h3>🔹&nbsp;<strong>Какие данные синхронизируются?</strong></h3>
-<p class="ds-markdown-paragraph">📌 Заявки &rarr; Задачи/Сделки<br />📌 Контакты &rarr; Клиенты/Компании<br />📌 Комментарии и история изменений</p>
+<p class="ds-markdown-paragraph">📌 Заявки &rarr; Задачи/Сделки<br />📌 Контакты &rarr; Клиенты/Компании в зявке<br />📌 Комментарии и история изменений</p>
 <h3>⏳&nbsp;<strong>Интеграция уже доступна!</strong></h3>
 <p class="ds-markdown-paragraph">Подробная инструкция по настройке:<br />👉&nbsp;<strong><a href="https://wiki.hubex.ru/docs/FAQ/RU/admin/IntegrationBitrix24.html" target="_blank" rel="noreferrer">Читать в документации HubEx</a></strong></p>
 <hr class="" data-start="3160" data-end="3163" />

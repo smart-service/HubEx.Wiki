@@ -32,7 +32,7 @@ keywords: Интеграция, Битрикс, Битрикс24, bitrix, integr
 <p class="ds-markdown-paragraph"><strong>Пользователи</strong>&nbsp;получат:</p>
 <ul>
 <li>
-<p class="ds-markdown-paragraph">Автоматическое создание задач в Битрикс24 при поступлении новых заявок</p>
+<p class="ds-markdown-paragraph">Автоматическое создание заявок в HubEx для сделок в Битрикс24 на определенной стадии</p>
 </li>
 <li>
 <p class="ds-markdown-paragraph">Обновление статусов в реальном времени</p>

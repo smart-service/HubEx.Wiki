@@ -181,7 +181,7 @@ keywords: Интеграция, Битрикс, Битрикс24, bitrix, integr
 <ul>
 <li>
 <p class="ds-markdown-paragraph">Завершите заявку в HubEx (стадия, которая в жизненном цикле заявки указана как 
-<strong>Конечная стадия</strong>.</p>
+<strong>Конечная стадия</strong>).</p>
 </li>
 <li>
 <p class="ds-markdown-paragraph">Проверьте, что сделка в Битрикс24 перешла на указанную стадию.</p>

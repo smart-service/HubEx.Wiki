@@ -17,6 +17,7 @@
 ### Новые возможности web-приложения HubEx
 В данном разделе вы найдете краткие статьи с обзором новых возможностей web-приложения HubEx. Мы постоянно улучшаемся и добавляем полезные функции, чтобы ваша работа становилась еще комфортнее.
 
+<h4><a href="https://wiki.hubex.ru/docs/FAQ/RU/ReleaseNotes/IntegrationBitrix24-23072025.html">HubEx теперь интегрируется с Битрикс24 - обновление от 23.07.2025</a></h4>
 <h4><a href="https://wiki.hubex.ru/docs/FAQ/RU/ReleaseNotes/NewDomainRoutingSystem14072025.html">Новая система маршрутизации по доменам - от 14.07.2025</a></h4>
 <h4><a href="https://wiki.hubex.ru/docs/FAQ/RU/ReleaseNotes/NewFeaturesTaskChangeHistory11072025.html">Улучшенная история изменений с геоданными и новыми возможностями от 11.07.2025</a></h4>
 <h4><a href="docs/FAQ/RU/ReleaseNotes/NewPermission03072025.html">Новое полномочие - Заявки, когда-либо назначенные на сотрудников моей компании: обновление от 03.07.2025</a></h4>

@@ -81,10 +81,13 @@ keywords: Интеграция, Битрикс, Битрикс24, bitrix, integr
 <p>2.6 Настройте параметры:</p>
 <ul>
 <li>
-<p class="ds-markdown-paragraph"><strong>Когда выполнять</strong>: &laquo;Сразу&raquo;.</p>
+<p class="ds-markdown-paragraph"><strong>Когда выполнять</strong>: &laquo;Сразу&raquo;</p>
 </li>
 <li>
-<p class="ds-markdown-paragraph"><strong>Порядок выполнения</strong>: &laquo;Независимо от других роботов&raquo;.</p>
+<p class="ds-markdown-paragraph"><strong>Порядок выполнения</strong>: &laquo;Независимо от других роботов&raquo;</p>
+</li>
+<li>
+<p class="ds-markdown-paragraph"><strong>Стадию сделки</strong>, когда будет создаваться заявка в HubEx.</p>
 </li>
 </ul>
 <img src="/attachments/images/FAQ/ADMIN/IntegrationBitrix24/Рисунок4.png" style="max-width: 600px; width: 100%; height: auto; display: block; margin: 0 auto;">

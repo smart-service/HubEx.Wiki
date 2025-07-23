@@ -87,10 +87,7 @@ keywords: Интеграция, Битрикс, Битрикс24, bitrix, integr
 <p class="ds-markdown-paragraph"><strong>Порядок выполнения</strong>: &laquo;Независимо от других роботов&raquo;.</p>
 </li>
 </ul>
-<img 
-  src="/attachments/images/FAQ/ADMIN/IntegrationBitrix24/Рисунок4.png" 
-  style="max-width: 600px; width: 100%; height: auto; display: block; margin: 0 auto;"
->
+<img src="/attachments/images/FAQ/ADMIN/IntegrationBitrix24/Рисунок4.png" style="max-width: 600px; width: 100%; height: auto; display: block; margin: 0 auto;">
 <p class="ds-markdown-paragraph">2.7 Сохраните изменения.</p>
 <h3><strong>3. Создание токена для интеграции</strong></h3>
 <ol start="1">

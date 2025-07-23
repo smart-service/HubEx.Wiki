@@ -61,7 +61,7 @@ keywords: Интеграция, Битрикс, Битрикс24, bitrix, integr
 </li>
 </ol>
 <img 
-  src="/attachments/images/FAQ/ADMIN/IntegrationBitrix24/Рисунок1.jpg" 
+  src="/attachments/images/FAQ/ADMIN/IntegrationBitrix24/Рисунок1.png" 
   style="max-width: 600px; width: 100%; height: auto; display: block; margin: 0 auto;"
 >
 <h3><strong>2. Настройка робота для создания заявок</strong></h3>
@@ -75,7 +75,7 @@ keywords: Интеграция, Битрикс, Битрикс24, bitrix, integr
 <p class="ds-markdown-paragraph">2.4 Нажмите&nbsp;<strong>&laquo;+&raquo;</strong>&nbsp;под стадией &rarr; выберите&nbsp;<strong>&laquo;Другие роботы&raquo;</strong>.</p>
 <p class="ds-markdown-paragraph">2.5 Найдите робота&nbsp;<strong>&laquo;[HubEx] Создание заявки HubEx&raquo;</strong>.</p>
 <img 
-  src="/attachments/images/FAQ/ADMIN/IntegrationBitrix24/Рисунок3.jpg" 
+  src="/attachments/images/FAQ/ADMIN/IntegrationBitrix24/Рисунок3.png" 
   style="max-width: 600px; width: 100%; height: auto; display: block; margin: 0 auto;"
 >
 <p>2.6 Настройте параметры:</p>
@@ -88,21 +88,21 @@ keywords: Интеграция, Битрикс, Битрикс24, bitrix, integr
 </li>
 </ul>
 <img 
-  src="/attachments/images/FAQ/ADMIN/IntegrationBitrix24/Рисунок4.jpg" 
+  src="/attachments/images/FAQ/ADMIN/IntegrationBitrix24/Рисунок4.png" 
   style="max-width: 600px; width: 100%; height: auto; display: block; margin: 0 auto;"
 >
 <p class="ds-markdown-paragraph">2.7 Сохраните изменения.</p>
 <h3><strong>3. Создание токена для интеграции</strong></h3>
 <ol start="1">
 <li>
-<p class="ds-markdown-paragraph">Вернитесь в приложение HubEx &rarr; нажмите&nbsp;<strong>&laquo;Создать новый токен&raquo;</strong>.</p>
+<p class="ds-markdown-paragraph">Вернитесь в приложение HubEx в Битриск24 &rarr; нажмите&nbsp;<strong>&laquo;Создать новый токен&raquo;</strong>.</p>
 </li>
 <li>
 <p class="ds-markdown-paragraph">Скопируйте сгенерированный токен (он понадобится для настройки в HubEx).</p>
 </li>
 </ol>
 <img 
-  src="/attachments/images/FAQ/ADMIN/IntegrationBitrix24/Рисунок5.jpg" 
+  src="/attachments/images/FAQ/ADMIN/IntegrationBitrix24/Рисунок5.png" 
   style="max-width: 600px; width: 100%; height: auto; display: block; margin: 0 auto;"
 >
 <hr />
@@ -136,6 +136,10 @@ keywords: Интеграция, Битрикс, Битрикс24, bitrix, integr
 </li>
 </ul>
 </li>
+<img 
+  src="/attachments/images/FAQ/ADMIN/IntegrationBitrix24/Рисунок6.png" 
+  style="max-width: 600px; width: 100%; height: auto; display: block; margin: 0 auto;"
+>
 <li>
 <p class="ds-markdown-paragraph">Нажмите&nbsp;<strong>&laquo;Проверить подключение&raquo;</strong>.</p>
 </li>
@@ -143,16 +147,20 @@ keywords: Интеграция, Битрикс, Битрикс24, bitrix, integr
 <p class="ds-markdown-paragraph">После успешной проверки настройте:</p>
 <ul>
 <li>
-<p class="ds-markdown-paragraph">Воронку Битрикс24 для автоматизации.</p>
-</li>
-<li>
 <p class="ds-markdown-paragraph">Тип заявки в HubEx.</p>
 </li>
 <li>
-<p class="ds-markdown-paragraph">Стадию завершения сделки в Битрикс24.</p>
+<p class="ds-markdown-paragraph">Воронку Битрикс24 для автоматизации.</p>
+</li>
+<li>
+<p class="ds-markdown-paragraph">Стадию на которую будет переведена сделки в Битрикс24.</p>
 </li>
 </ul>
 </li>
+<img 
+  src="/attachments/images/FAQ/ADMIN/IntegrationBitrix24/Рисунок7.png" 
+  style="max-width: 600px; width: 100%; height: auto; display: block; margin: 0 auto;"
+>
 <li>
 <p class="ds-markdown-paragraph">Сохраните изменения.</p>
 </li>
@@ -175,12 +183,32 @@ keywords: Интеграция, Битрикс, Битрикс24, bitrix, integr
 <p class="ds-markdown-paragraph"><strong>Тест завершения заявки</strong>:</p>
 <ul>
 <li>
-<p class="ds-markdown-paragraph">Завершите заявку в HubEx.</p>
+<p class="ds-markdown-paragraph">Завершите заявку в HubEx (стадия, которая в жизненном цикле заявки указана как 
+<strong>Конечная стадия</strong>.</p>
 </li>
 <li>
 <p class="ds-markdown-paragraph">Проверьте, что сделка в Битрикс24 перешла на указанную стадию.</p>
 </li>
 </ul>
+</li>
+</ol>
+<hr />
+<h2><strong>Перечень полей, которые приходят из Битрикс24 при создании заявки</strong></h2>
+<ol start="1">
+<li>
+<p class="ds-markdown-paragraph"><strong>Название сделки в Битрикс24 переносится в поле Комментарий в HubEx</strong>:</p>
+</li>
+<li>
+<p class="ds-markdown-paragraph"><strong>Комментарий из сделки в Битрикс24 переносится в поле Комментарий в HubEx</strong>:</p>
+</li>
+<li>
+<p class="ds-markdown-paragraph"><strong>Тип заявки в HubEx задается при создании робота</strong>:</p>
+</li>
+<li>
+<p class="ds-markdown-paragraph"><strong>Критичность выбирается по заявке HubEx по умолчанию</strong>:</p>
+</li>
+<li>
+<p class="ds-markdown-paragraph"><strong>Компания-заказчик в заявке HubEx заполняется по компании из сделки Битрикс24. В случае, если такой компании нет в HubEx - будет создана новая компания</strong>:</p>
 </li>
 </ol>
 <hr />

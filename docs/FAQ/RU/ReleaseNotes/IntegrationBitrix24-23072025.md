@@ -44,7 +44,6 @@ keywords: Интеграция, Битрикс, Битрикс24, bitrix, integr
 <p class="ds-markdown-paragraph">📌 Заявки &rarr; Задачи/Сделки<br />📌 Контакты &rarr; Клиенты/Компании<br />📌 Комментарии и история изменений</p>
 <h3>⏳&nbsp;<strong>Интеграция уже доступна!</strong></h3>
 <p class="ds-markdown-paragraph">Подробная инструкция по настройке:<br />👉&nbsp;<strong><a href="https://wiki.hubex.ru/docs/FAQ/RU/admin/IntegrationBitrix24.html" target="_blank" rel="noreferrer">Читать в документации HubEx</a></strong></p>
-<p>&nbsp;</p>
 <hr class="" data-start="3160" data-end="3163" />
 <p class="" data-start="3165" data-end="3344">В случае возникновения проблем - пишите нам в поддержку Telegram&nbsp;<a href="https://t.me/hubex_bot" target="_blank" rel="noopener">@hubex_bot</a>&nbsp;или на почту&nbsp;<a href="mailto:help@hubex.ru">help@hubex.ru</a></p>
 </body>

@@ -150,7 +150,7 @@ keywords: Интеграция, Битрикс, Битрикс24, bitrix, integr
 <p class="ds-markdown-paragraph">Воронку Битрикс24 для автоматизации.</p>
 </li>
 <li>
-<p class="ds-markdown-paragraph">Стадию на которую будет переведена сделки в Битрикс24.</p>
+<p class="ds-markdown-paragraph">Стадию на которую будет переведена сделка в Битрикс24.</p>
 </li>
 </ul>
 </li>
@@ -193,19 +193,19 @@ keywords: Интеграция, Битрикс, Битрикс24, bitrix, integr
 <h2><strong>Перечень полей, которые приходят из Битрикс24 при создании заявки</strong></h2>
 <ol start="1">
 <li>
-<p class="ds-markdown-paragraph"><strong>Название сделки в Битрикс24 переносится в поле Комментарий в HubEx</strong>:</p>
+<p class="ds-markdown-paragraph">Название сделки в Битрикс24 переносится в поле Комментарий в HubEx</p>
 </li>
 <li>
-<p class="ds-markdown-paragraph"><strong>Комментарий из сделки в Битрикс24 переносится в поле Комментарий в HubEx</strong>:</p>
+<p class="ds-markdown-paragraph">Комментарий из сделки в Битрикс24 переносится в поле Комментарий в HubEx</p>
 </li>
 <li>
-<p class="ds-markdown-paragraph"><strong>Тип заявки в HubEx задается при создании робота</strong>:</p>
+<p class="ds-markdown-paragraph">Тип заявки в HubEx задается при создании робота</p>
 </li>
 <li>
-<p class="ds-markdown-paragraph"><strong>Критичность выбирается по заявке HubEx по умолчанию</strong>:</p>
+<p class="ds-markdown-paragraph">Критичность выбирается по заявке HubEx по умолчанию</p>
 </li>
 <li>
-<p class="ds-markdown-paragraph"><strong>Компания-заказчик в заявке HubEx заполняется по компании из сделки Битрикс24. В случае, если такой компании нет в HubEx - будет создана новая компания</strong>:</p>
+<p class="ds-markdown-paragraph">Компания-заказчик в заявке HubEx заполняется по компании из сделки Битрикс24. В случае, если такой компании нет в HubEx - будет создана новая компания</p>
 </li>
 </ol>
 <hr />

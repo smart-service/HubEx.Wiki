@@ -28,13 +28,13 @@ keywords: API, интеграция, REST API, REST, hubex, хабекс, хуб
 <h3><strong>Шаг 1. Создание служебного пользователя</strong></h3>
 <ol start="1">
 <li>
-<p class="ds-markdown-paragraph">Войдите в&nbsp;<strong>админку HubEx</strong>.</p>
+<p class="ds-markdown-paragraph">Войдите в&nbsp;<strong>административную панель HubEx</strong>.</p>
 </li>
 <li>
 <p class="ds-markdown-paragraph">Перейдите в раздел:<br /><strong><code>Интеграция &rarr; Служебные пользователи</code></strong>.</p>
 </li>
 <li>
-<p class="ds-markdown-paragraph">Нажмите&nbsp;<strong>"Пользователь AP"</strong>.</p>
+<p class="ds-markdown-paragraph">Нажмите&nbsp;<strong>"Пользователь API"</strong>.</p>
 </li>
 <li>
 <p class="ds-markdown-paragraph">Выберите:</p>
@@ -62,7 +62,7 @@ keywords: API, интеграция, REST API, REST, hubex, хабекс, хуб
 </ul>
 </li>
 </ol>
-<p class="ds-markdown-paragraph">Подробнее читайте в статье: <a href="https://https://wiki.hubex.ru/docs/FAQ/RU/admin/ServiceUsers.html">Служебные пользователи</a></p>
+<p class="ds-markdown-paragraph">Подробнее читайте в статье: <a href="https://wiki.hubex.ru/docs/FAQ/RU/admin/ServiceUsers.html">Служебные пользователи</a></p>
 <hr />
 <h2><strong>3. Получение Access Token (авторизация в API)</strong></h2>
 <p class="ds-markdown-paragraph">Для работы с API HubEx нужен&nbsp;<strong>JWT-токен доступа</strong>, который обновляется каждые&nbsp;<strong>30 минут</strong>.</p>
@@ -116,18 +116,70 @@ keywords: API, интеграция, REST API, REST, hubex, хабекс, хуб
 </div>
 </div>
 </div>
-<pre><span class="token punctuation">{</span>
-  <span class="token property">"data"</span><span class="token operator">:</span> <span class="token punctuation">[</span>
-    <span class="token punctuation">{</span>
-      <span class="token property">"id"</span><span class="token operator">:</span> <span class="token string">"123"</span><span class="token punctuation">,</span>
-      <span class="token property">"title"</span><span class="token operator">:</span> <span class="token string">"Не работает принтер"</span><span class="token punctuation">,</span>
-      <span class="token property">"status"</span><span class="token operator">:</span> <span class="token string">"В работе"</span><span class="token punctuation">,</span>
-      <span class="token property">"createdAt"</span><span class="token operator">:</span> <span class="token string">"2024-05-20T10:00:00Z"</span>
-    <span class="token punctuation">}</span><span class="token punctuation">,</span>
-    ...
-  <span class="token punctuation">]</span><span class="token punctuation">,</span>
-  <span class="token property">"total"</span><span class="token operator">:</span> <span class="token number">150</span>
-<span class="token punctuation">}</span></pre>
+<pre><span class="token punctuation">
+{
+    "5136": {
+        "isAvailable": true,
+        "isRated": false,
+        "sortOrder": 1,
+        "lastModified": "2025-07-24T11:31:25",
+        "workType": {
+            "name": "Вид работ по умолчанию",
+            "id": 2
+        },
+        "number": "000000001",
+        "actualCriticality": { … },
+        "taskStatus": { … },
+        "taskType": { … },
+        "requestedBy": { … },
+        "company": { … },
+        "asset": {
+            "company": { … },
+            "name": "Кондиционер",
+            "id": 1020
+        },
+        "location": {
+            "address": "Кирочная улица, 70, Санкт-Петербург, Россия",
+            "coordinate": "59.939824:30.391287",
+            "id": 5957
+        },
+        "timesheet": { … },
+        "isFavourite": false,
+        "taskStage": { … },
+        "childCount": 0
+    },
+    "5135": {
+        "isAvailable": true,
+        "isRated": false,
+        "sortOrder": 1,
+        "lastModified": "2025-07-23T13:13:24",
+        "workType": {
+            "name": "Вид работ по умолчанию",
+            "id": 2
+        },
+        "number": "000000002",
+        "actualCriticality": { … },
+        "taskStatus": { … },
+        "taskType": { … },
+        "requestedBy": { … },
+        "company": { … },
+        "asset": {
+            "company": { … },
+            "name": "Холодильник",
+            "id": 1021
+        },
+        "location": {
+            "address": "Смоляная улица, 23, Санкт-Петербург, Россия",
+            "coordinate": "57.154824:28.254287",
+            "id": 5845
+        },
+        "timesheet": { … },
+        "isFavourite": false,
+        "taskStage": { … },
+        "childCount": 0
+    }
+}
+</span></pre>
 </div>
 <hr />
 <h2><strong>5. Тестирование API (Postman, cURL, Python)</strong></h2>

@@ -35,7 +35,7 @@ keywords: API, интеграция, REST API, REST, hubex, хабекс, хуб
 <p class="ds-markdown-paragraph"><strong>Слоистая архитектура</strong>: Промежуточные серверы (прокси, балансировщики) могут участвовать в обработке запроса</p>
 </li>
 </ul>
-<h2>Основные типы HTTP-запросов в REST API</h2>
+<h2>Основные методы HTTP-запросов в REST API</h2>
 <h3>1. GET &mdash; Получение данных</h3>
 <p class="ds-markdown-paragraph"><strong>Что делает</strong>: Запрашивает данные с сервера<br /><strong>Использование</strong>: Получение информации (списки заявок, детали объекта и т.д.)<br /><strong>Особенности</strong>:</p>
 <ul>
@@ -59,14 +59,14 @@ keywords: API, интеграция, REST API, REST, hubex, хабекс, хуб
 <p class="ds-markdown-paragraph">Не идемпотентен (повторный запрос создаст новый объект)</p>
 </li>
 <li>
-<p class="ds-markdown-paragraph">Пример:&nbsp;<code>POST /fsm/AUTHZ/AccessTokens</code>&nbsp;&mdash; получение токена доступа</p>
+<p class="ds-markdown-paragraph">Пример:&nbsp;<code>POST /fsm/WORK/workTypes</code>&nbsp;&mdash; получение токена доступа</p>
 </li>
 </ul>
-<h3>3. PUT &mdash; Полное обновление данных</h3>
-<p class="ds-markdown-paragraph"><strong>Что делает</strong>: Полная замена существующего объекта<br /><strong>Использование</strong>: Обновление всех полей объекта<br /><strong>Особенности</strong>:</p>
+<h3>3. PUT &mdash; Полное обновление записи</h3>
+<p class="ds-markdown-paragraph"><strong>Что делает</strong>: Полная замена существующей записи<br /><strong>Использование</strong>: Обновление всех полей существующей записи<br /><strong>Особенности</strong>:</p>
 <ul>
 <li>
-<p class="ds-markdown-paragraph">Требует полного представления объекта</p>
+<p class="ds-markdown-paragraph">Требует полного представления данных записи</p>
 </li>
 <li>
 <p class="ds-markdown-paragraph">Идемпотентен</p>
@@ -89,7 +89,7 @@ keywords: API, интеграция, REST API, REST, hubex, хабекс, хуб
 </li>
 </ul>
 <h3>5. DELETE &mdash; Удаление данных</h3>
-<p class="ds-markdown-paragraph"><strong>Что делает</strong>: Удаляет указанный объект<br /><strong>Использование</strong>: Удаление записей из системы<br /><strong>Особенности</strong>:</p>
+<p class="ds-markdown-paragraph"><strong>Что делает</strong>: Удаляет указанную запись<br /><strong>Использование</strong>: Удаление записей из системы<br /><strong>Особенности</strong>:</p>
 <ul>
 <li>
 <p class="ds-markdown-paragraph">Идемпотентен</p>

@@ -133,6 +133,7 @@ https://wiki.hubex.ru/docs/FAQ/RU/user/PrintingFormDesigner.html
 https://wiki.hubex.ru/docs/FAQ/RU/admin/IntegrationBitrix24.html
 
 
+https://wiki.hubex.ru/docs/FAQ/RU/ReleaseNotes/ManageRightsForBulkEditing28072025.html
 https://wiki.hubex.ru/docs/FAQ/RU/ReleaseNotes/IntegrationBitrix24-23072025.html
 https://wiki.hubex.ru/docs/FAQ/RU/admin//SSOintegration.html
 https://wiki.hubex.ru/docs/FAQ/RU/ReleaseNotes/NewDomainRoutingSystem14072025.html

@@ -6,39 +6,6 @@ keywords: вебхук, webhook, объект, hubex, хабекс, хубекс
 
 <html lang="ru">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <style>
-        h1 {
-            color: #2c3e50;
-            border-bottom: 2px solid #3498db;
-            padding-bottom: 10px;
-        }
-        h2 {
-            color: #2980b9;
-            margin-top: 25px;
-        }
-        .highlight {
-            background-color: #f8f9fa;
-            padding: 15px;
-            border-left: 4px solid #3498db;
-            margin: 15px 0;
-        }
-        .icon {
-            margin-right: 8px;
-            font-size: 1.2em;
-        }
-        .important {
-            color: #e74c3c;
-            font-weight: bold;
-        }
-        ul {
-            padding-left: 20px;
-        }
-        li {
-            margin-bottom: 8px;
-        }
-    </style>
 </head>
 <body>
 <h2><span data-teams="true">🚀 Расширение системы Webhook для работы с объектами</span></h2>

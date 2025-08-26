@@ -17,7 +17,7 @@
 ### Новые возможности web-приложения HubEx
 В данном разделе вы найдете краткие статьи с обзором новых возможностей web-приложения HubEx. Мы постоянно улучшаемся и добавляем полезные функции, чтобы ваша работа становилась еще комфортнее.
 
-<h4><a href="https://wiki.hubex.ru/docs/FAQ/RU/ReleaseNotes/ListOfChanges18082025.html">Создание вебхуков по объектам от 18.08.2025</a></h4>
+<h4><a href="https://wiki.hubex.ru/docs/FAQ/RU/ReleaseNotes/ListOfChanges18082025.html">Создание вебхуков по объектам, новый дизайн страницы сотрудника и заказчика от 18.08.2025</a></h4>
 <h4><a href="https://wiki.hubex.ru/docs/FAQ/RU/ReleaseNotes/Drawing28072025.html">Дополнительное поле “Рисунок” для подписей: обновление от 28.07.2025</a></h4>
 <h4><a href="https://wiki.hubex.ru/docs/FAQ/RU/ReleaseNotes/ManageRightsForBulkEditing28072025.html">Управление правами для массового редактирования от 28.07.2025</a></h4>
 <h4><a href="https://wiki.hubex.ru/docs/FAQ/RU/ReleaseNotes/IntegrationBitrix24-23072025.html">HubEx теперь интегрируется с Битрикс24 - обновление от 23.07.2025</a></h4>

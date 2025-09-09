@@ -31,10 +31,7 @@ keywords: тип объекта, тип оборудования, объект, 
 
 <h4><strong>Основные настройки типа оборудования</strong></h4>
 <div>
-    <img style="margin: 0 auto; display: block; max-width: 80%;"
-         src="/attachments/images/FAQ/ADMIN/ObjectsType/Type2.jpg"/>
-    <img style="margin: 0 auto; display: block; max-width: 80%;"
-         src="/attachments/images/FAQ/ADMIN/ObjectsType/Type1.jpg"/>
+    <img style="margin: 0 auto; display: block; max-width: 80%;" src="/attachments/images/FAQ/ADMIN/ObjectsType/Type2.jpg"/> <img style="margin: 0 auto; display: block; max-width: 80%;" src="/attachments/images/FAQ/ADMIN/ObjectsType/Type1.jpg"/>
 </div>
 <p class="ds-markdown-paragraph">При создании или редактировании Типа оборудования обратите внимание на следующие ключевые настройки:</p>
 <ol start="1">

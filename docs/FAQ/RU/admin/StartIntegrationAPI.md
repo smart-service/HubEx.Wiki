@@ -253,23 +253,23 @@ response <span class="token operator">=</span> requests<span class="token punctu
 <li>
 <p class="ds-markdown-paragraph"><strong>Изучите документацию API</strong>&nbsp;&mdash; какие endpoints доступны:</p>
 <ul>
-  <li><a href="https://doc.hubex.ru/?url=AUTHN.json">AUTHN</a> – сервис для аутентификация учетных записей</li>
-  <li><a href="https://doc.hubex.ru/?url=AUTHZ.json">AUTHZ</a> – сервис для авторизации пользователей</li>
-  <li><a href="https://doc.hubex.ru/?url=AUTH.json">AUTH</a> – сервис для работы с учетной записью и авторизационными данными</li>
-  <li><a href="https://doc.hubex.ru/?url=ADM.json">ADM</a> – сервис для работы с данными пользователей и администрированием</li>
-  <li><a href="https://doc.hubex.ru/?url=ES.json">ES</a> – сервис для работы с компаниями, объектами, организационной структуры, локаций и т.п.</li>
-  <li><a href="https://doc.hubex.ru/?url=PA.json">PA</a> – сервис для управления персоналом - трудоустройство, назначение на оборудование, рейтинги, навыки и т.п.</li>
-  <li><a href="https://doc.hubex.ru/?url=WORK.json">WORK</a> – сервис для работы с заявками - список заявок, основные атрибуты по заявкам (чек-листы, выполнение и т.п.), создание заявок, вложения, назначения сотрудников и т.п.</li>
-  <li><a href="https://doc.hubex.ru/?url=WSP.json">WSP</a> – сервис для работы с графиками рабочего времени</li>
-  <li><a href="https://doc.hubex.ru/?url=COMMON.json">COMMON</a> – сервис для работы со справочниками: валюты, временные зоны, единицы измерения, дополнительные поля и т.п.</li>
-  <li><a href="https://doc.hubex.ru/?url=SLA.json">SLA</a> – сервис для работы с критичностью заявки и SLA</li>
-  <li><a href="https://doc.hubex.ru/?url=TSTG.json">TSTG</a> – сервис настройки жизненного цикла заявки</li>
-  <li><a href="https://doc.hubex.ru/?url=UI.json">UI</a> – сервис настройки пользовательского интерфейса</li>
-  <li><a href="https://doc.hubex.ru/?url=EXPORT.json">EXPORT</a> – сервис для экспорта данных</li>
-  <li><a href="https://doc.hubex.ru/?url=PMP.json">PMP</a> – сервис для работы с планировщиком работ</li>
-  <li><a href="https://doc.hubex.ru/?url=MSG.json">MSG</a> – сервис для работы с уведомлениями, Webhook, триггерами</li>
-  <li><a href="https://doc.hubex.ru/?url=NEWS.json">NEWS</a> – сервис по оповещению пользователей по обновлениям системы</li>
-  <li><a href="https://doc.hubex.ru/?url=WH.json">WH</a> – сервис для работы со складами и материалами</li>
+  <li><a href="https://doc.hubex.ru/?urls.primaryName=AUTHN">AUTHN</a> – сервис для аутентификация учетных записей</li>
+  <li><a href="https://doc.hubex.ru/?urls.primaryName=AUTHZ">AUTHZ</a> – сервис для авторизации пользователей</li>
+  <li><a href="https://doc.hubex.ru/?urls.primaryName=AUTH">AUTH</a> – сервис для работы с учетной записью и авторизационными данными</li>
+  <li><a href="https://doc.hubex.ru/?urls.primaryName=ADM">ADM</a> – сервис для работы с данными пользователей и администрированием</li>
+  <li><a href="https://doc.hubex.ru/?urls.primaryName=ES">ES</a> – сервис для работы с компаниями, объектами, организационной структуры, локаций и т.п.</li>
+  <li><a href="https://doc.hubex.ru/?urls.primaryName=PA">PA</a> – сервис для управления персоналом - трудоустройство, назначение на оборудование, рейтинги, навыки и т.п.</li>
+  <li><a href="https://doc.hubex.ru/?urls.primaryName=WORK">WORK</a> – сервис для работы с заявками - список заявок, основные атрибуты по заявкам (чек-листы, выполнение и т.п.), создание заявок, вложения, назначения сотрудников и т.п.</li>
+  <li><a href="https://doc.hubex.ru/?urls.primaryName=WSP">WSP</a> – сервис для работы с графиками рабочего времени</li>
+  <li><a href="https://doc.hubex.ru/?urls.primaryName=COMMON">COMMON</a> – сервис для работы со справочниками: валюты, временные зоны, единицы измерения, дополнительные поля и т.п.</li>
+  <li><a href="https://doc.hubex.ru/?urls.primaryName=SLA">SLA</a> – сервис для работы с критичностью заявки и SLA</li>
+  <li><a href="https://doc.hubex.ru/?urls.primaryName=TSTG">TSTG</a> – сервис настройки жизненного цикла заявки</li>
+  <li><a href="https://doc.hubex.ru/?urls.primaryName=UI">UI</a> – сервис настройки пользовательского интерфейса</li>
+  <li><a href="https://doc.hubex.ru/?urls.primaryName=EXPORT">EXPORT</a> – сервис для экспорта данных</li>
+  <li><a href="https://doc.hubex.ru/?urls.primaryName=PMP">PMP</a> – сервис для работы с планировщиком работ</li>
+  <li><a href="https://doc.hubex.ru/?urls.primaryName=MSG">MSG</a> – сервис для работы с уведомлениями, Webhook, триггерами</li>
+  <li><a href="https://doc.hubex.ru/?urls.primaryName=NEWS">NEWS</a> – сервис по оповещению пользователей по обновлениям системы</li>
+  <li><a href="https://doc.hubex.ru/?urls.primaryName=WH">WH</a> – сервис для работы со складами и материалами</li>
 </ul>
 
 </li>

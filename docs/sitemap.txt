@@ -222,3 +222,4 @@ https://wiki.hubex.ru/docs/FAQ/RU/ReleaseNotes/DirectoriesInAdditionalFields.htm
 https://wiki.hubex.ru/docs/FAQ/RU/ReleaseNotes/EngineerApp.html
 https://wiki.hubex.ru/docs/FAQ/RU/ReleaseNotes/CustomerApp.html
 https://wiki.hubex.ru/docs/FAQ/RU/ReleaseNotes/CustomizableTaskForm25092025.html
+https://wiki.hubex.ru/docs/FAQ/RU/user/HubExAI.html

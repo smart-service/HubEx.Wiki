@@ -221,3 +221,4 @@ https://wiki.hubex.ru/docs/FAQ/RU/ReleaseNotes/ListOfChanges31032025.html
 https://wiki.hubex.ru/docs/FAQ/RU/ReleaseNotes/DirectoriesInAdditionalFields.html
 https://wiki.hubex.ru/docs/FAQ/RU/ReleaseNotes/EngineerApp.html
 https://wiki.hubex.ru/docs/FAQ/RU/ReleaseNotes/CustomerApp.html
+https://wiki.hubex.ru/docs/FAQ/RU/ReleaseNotes/CustomizableTaskForm25092025.html

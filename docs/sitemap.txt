@@ -225,3 +225,4 @@ https://wiki.hubex.ru/docs/FAQ/RU/ReleaseNotes/CustomerApp.html
 https://wiki.hubex.ru/docs/FAQ/RU/ReleaseNotes/CustomizableTaskForm25092025.html
 https://wiki.hubex.ru/docs/FAQ/RU/user/HubExAI.html
 https://wiki.hubex.ru/docs/FAQ/RU/ReleaseNotes/ListOfChanges06102025.html
+https://wiki.hubex.ru/docs/FAQ/RU/ReleaseNotes/UserAddetionFields14102025.html

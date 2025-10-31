@@ -53,7 +53,7 @@ keywords: Плагин, Plagin, Виджет, iframe, hubex, хабекс, ху�
 <p class="ds-markdown-paragraph">Автоматическое обновление списка при добавлении/удалении плагинов в тенанте</p>
 </li>
 </ul>
-<p><img style="max-width: 600px; width: 100%; height: auto; display: block; margin: 0 auto;" src="/attachments/images/FAQ/RELEASENOTES/PluginManagement.png.png" alt="" /></p>
+<p><img style="max-width: 600px; width: 100%; height: auto; display: block; margin: 0 auto;" src="/attachments/images/FAQ/RELEASENOTES/PluginManagement.png" alt="" /></p>
 <h3>💡 Как это работает?</h3>
 <p class="ds-markdown-paragraph"><strong>Динамическое управление плагинами:</strong></p>
 <ul>

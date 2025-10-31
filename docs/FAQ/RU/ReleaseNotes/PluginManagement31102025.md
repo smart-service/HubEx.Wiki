@@ -8,10 +8,10 @@ keywords: Плагин, Plagin, Виджет, iframe, hubex, хабекс, ху�
 <head>
 </head>
 <body>
-<p class="ds-markdown-paragraph"><strong>🔐 Новая система управления доступом к плагинам в ролях пользователей</strong></p>
+<h3 class="ds-markdown-paragraph"><strong>🔐 Новая система управления доступом к плагинам в ролях пользователей</strong></h3>
 <p class="ds-markdown-paragraph">Уважаемые администраторы HubEx!</p>
 <p class="ds-markdown-paragraph">Мы представляем новую гибкую систему управления доступом к плагинам, которая позволит вам точно настраивать права доступа для разных ролей пользователей.</p>
-<p class="ds-markdown-paragraph"><strong>🔌 Что такое плагины в HubEx?</strong></p>
+<h3 class="ds-markdown-paragraph"><strong>🔌 Что такое плагины в HubEx?</strong></h3>
 <p class="ds-markdown-paragraph"><strong>Плагин</strong>&nbsp;&mdash; это дополнительный функционал, который встраивается в систему через&nbsp;<strong>iframe</strong>&nbsp;и расширяет возможности HubEx под ваши уникальные бизнес-задачи.</p>
 <p class="ds-markdown-paragraph"><strong>Примеры плагинов:</strong></p>
 <ul>
@@ -53,7 +53,7 @@ keywords: Плагин, Plagin, Виджет, iframe, hubex, хабекс, ху�
 <p class="ds-markdown-paragraph">Автоматическое обновление списка при добавлении/удалении плагинов в тенанте</p>
 </li>
 </ul>
-<p><img style="max-width: 600px; width: 100%; height: auto; display: block; margin: 0 auto;" src="https://i.ibb.co/mV7h6jw2/image.png" alt="" /></p>
+<p><img style="max-width: 600px; width: 100%; height: auto; display: block; margin: 0 auto;" src="/attachments/images/FAQ/RELEASENOTES/PluginManagement.png.png" alt="" /></p>
 <h3>💡 Как это работает?</h3>
 <p class="ds-markdown-paragraph"><strong>Динамическое управление плагинами:</strong></p>
 <ul>

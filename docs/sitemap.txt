@@ -133,6 +133,7 @@ https://wiki.hubex.ru/docs/FAQ/RU/user/PrintingFormDesigner.html
 https://wiki.hubex.ru/docs/FAQ/RU/admin/IntegrationBitrix24.html
 https://wiki.hubex.ru/docs/FAQ/RU/admin/SSOintegration.html
 
+https://wiki.hubex.ru/docs/FAQ/RU/ReleaseNotes/ListOfChanges16122025.html
 https://wiki.hubex.ru/docs/FAQ/RU/ReleaseNotes/ListOfChanges20112025.html
 https://wiki.hubex.ru/docs/FAQ/RU/ReleaseNotes/PluginManagement31102025.html
 https://wiki.hubex.ru/docs/FAQ/RU/ReleaseNotes/UserAddetionFields23102025.html

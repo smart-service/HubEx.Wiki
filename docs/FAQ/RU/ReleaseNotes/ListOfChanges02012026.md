@@ -28,7 +28,7 @@ keywords: История изменений, заказчики, сотрудн�
 <ul>
 <li>
 <p class="ds-markdown-paragraph"><strong>При переводе Заказчика &rarr; Сотрудника:</strong></p>
-<p><div> <img style="margin: 0 auto; display: block; max-width: 95%; "src="/attachments/images/FAQ/RELEASENOTES/ListOfChanges02012026
+<p><div> <img style="margin: 0 auto; display: block; max-width: 95%;" src="/attachments/images/FAQ/RELEASENOTES/ListOfChanges02012026
 /1.png"/></div></p>
 <ul>
 <li>
@@ -38,7 +38,7 @@ keywords: История изменений, заказчики, сотрудн�
 </li>
 <li>
 <p class="ds-markdown-paragraph"><strong>При переводе Сотрудника &rarr; Заказчика:</strong></p>
-<p><div> <img style="margin: 0 auto; display: block; max-width: 95%; "src="/attachments/images/FAQ/RELEASENOTES/ListOfChanges02012026
+<p><div> <img style="margin: 0 auto; display: block; max-width: 95%;" src="/attachments/images/FAQ/RELEASENOTES/ListOfChanges02012026
 /2.png"/></div></p>
 <ul>
 <li>
@@ -78,7 +78,7 @@ keywords: История изменений, заказчики, сотрудн�
 <p class="ds-markdown-paragraph"><strong>Изменение количества</strong>&nbsp;уже добавленного материала.</p>
 </li>
 </ul>
-<p><div> <img style="margin: 0 auto; display: block; max-width: 95%; "src="/attachments/images/FAQ/RELEASENOTES/ListOfChanges02012026
+<p><div> <img style="margin: 0 auto; display: block; max-width: 95%;" src="/attachments/images/FAQ/RELEASENOTES/ListOfChanges02012026
 /3.png"/></div></p>
 <hr />
 <h4>2.&nbsp;<strong>Вкладка &laquo;Дочерние заявки&raquo;</strong></h4>
@@ -160,7 +160,7 @@ keywords: История изменений, заказчики, сотрудн�
 </ul>
 </li>
 </ul>
-<p><div> <img style="margin: 0 auto; display: block; max-width: 95%; "src="/attachments/images/FAQ/RELEASENOTES/ListOfChanges02012026
+<p><div> <img style="margin: 0 auto; display: block; max-width: 95%;" src="/attachments/images/FAQ/RELEASENOTES/ListOfChanges02012026
 /4.png"/></div></p>
 <h4>🎯&nbsp;<strong>Зачем это нужно?</strong></h4>
 <p class="ds-markdown-paragraph">Новый механизм помогает администраторам:</p>
@@ -219,7 +219,7 @@ keywords: История изменений, заказчики, сотрудн�
 <p class="ds-markdown-paragraph">Вы увидите форму в её первоначальной конфигурации.</p>
 </li>
 </ol>
-<p><div> <img style="margin: 0 auto; display: block; max-width: 95%; "src="/attachments/images/FAQ/RELEASENOTES/ListOfChanges02012026
+<p><div> <img style="margin: 0 auto; display: block; max-width: 95%;" src="/attachments/images/FAQ/RELEASENOTES/ListOfChanges02012026
 /5.png"/></div></p>
 <h4>💾&nbsp;<strong>Что происходит после восстановления?</strong></h4>
 <ul>

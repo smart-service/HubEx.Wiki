@@ -22,6 +22,8 @@ keywords: hubex, хабекс, хубекс, хабикс
 <p class="ds-markdown-paragraph"><strong>Понятный сбор данных:</strong>&nbsp;Справа в модальном окне формируется список выбранного, как в фильтрах по заявкам. Вы всегда видите итоговый набор перед подтверждением.</p>
 </li>
 </ul>
+<p><div> <img style="margin: 0 auto; display: block; max-width: 95%;" src="/attachments/images/FAQ/RELEASENOTES/ListOfChanges02032026
+/1.jpg"/></div></p>
 <h4>🛠️&nbsp;<strong>Пример работы</strong></h4>
 <p>Вы создаете чек-лист для технического обслуживания и выбираете в модальном окне:</p>
 <ol start="1">

@@ -23,7 +23,7 @@ keywords: hubex, хабекс, хубекс, хабикс
 </li>
 </ul>
 <p><div> <img style="margin: 0 auto; display: block; max-width: 95%;" src="/attachments/images/FAQ/RELEASENOTES/ListOfChanges02032026
-/1.jpg"/></div></p>
+/ListOfChanges02032026-1.jpg"/></div></p>
 <h4>🛠️&nbsp;<strong>Пример работы</strong></h4>
 <p>Вы создаете чек-лист для технического обслуживания и выбираете в модальном окне:</p>
 <ol start="1">

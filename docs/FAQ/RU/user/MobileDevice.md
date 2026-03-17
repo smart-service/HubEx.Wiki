@@ -15,33 +15,32 @@ keywords: мобильный телефон, мобильное устройст
 
 
 <p>Работать в HubEx можно с помощью мобильных приложений. Для этого мобильный телефон (мобильное устройство) должен соответствовать следующим требованиям:</p>
+
+<p>Andriod устройства</p>
 <ol>
-    <li><strong>Аккумулятор емкостью от 4 000 мА·ч</strong>;    </li>
-    <li><strong>Версия операционной системы:</strong>
-    <ul>
-    <li><strong>Android, версии от 5.0 и старше</strong>;</li>
-    <li><strong>iOS, версии от 10.0 и старше</strong>;</li>
-    </ul>
-    </li>
-    <li><strong>Диагональ экрана от 5 дюймов</strong>;</li>
-    <li><strong>Поддержка 3G\4G связи</strong>;</li>
-    <li><strong>Камера от 5 МП</strong>;</li>
+    <li><strong>Аккумулятор емкостью от 5 000 мА·ч</strong>;</li>
+    <li><strong>Версия операционной системы: версии от 12.0 и старше</strong></li>
+    <li><strong>Процессор: не менее MediaTek Helio G88 или Qualcomm Snapdragon 680 или аналогичный</strong>;</li>
+    <li><strong>Диагональ экрана от 6.5 дюймов</strong>;</li>
+    <li><strong>Поддержка 4G связи</strong>;</li>
+    <li><strong>Камера от 8 МП</strong>;</li>
     <li><strong>Модуль чтения NFC (при использовании NFC-меток в процессах)</strong>.</li>
+    <li><strong>Список рекомендованных моделей: Xiaomi Redmi 13C, Redmi Note 11, Samsung Galaxy A15, Samsung Galaxy M15, Samsung Galaxy A23, Tecno Spark 20 Pro, Infinix Hot 40i </strong>.</li>
+</ol>
+
+<p>iOS устройства</p>
+<ol>
+    <li><strong>Аккумулятор емкостью от 5 000 мА·ч</strong>;</li>
+    <li><strong>Версия операционной системы: от 16.0 и старше</strong></li>
+    <li><strong>Диагональ экрана от 6.5 дюймов</strong>;</li>
+    <li><strong>Поддержка 4G связи</strong>;</li>
+    <li><strong>Камера от 8 МП</strong>;</li>
+    <li><strong>Модуль чтения NFC (при использовании NFC-меток в процессах)</strong>.</li>
+    <li><strong>Список рекомендованных моделей: iPhone 14 и новее, а также iPhone SE (3-го поколения), iPhone 16e, iPhone 15, iPhone 14 </strong>.</li>
 </ol>
 
 
-
-<p>Из смартфонов мы советуем для работы следующие модели:</p>
-<ul>
-<li><strong>Samsung Galaxy A12</strong>;</li>
-<li><strong>Samsung Galaxy A4</strong>;</li>
-<li>Модели семейства <strong>Redmi</strong> от фирмы <strong>Xiaomi</strong>, например, <strong>Redmi 9А</strong>, <strong>Redmi 9С</strong>, <strong>Redmi 9Т</strong> и т.д. (ценовая категория телефонов от 7 000 рублей);</li>
-<li>Телефоны фирмы <strong>Apple</strong>, модели от <strong>5S</strong> и старше;</li>
 <strong>Обратите внимание!</strong> Мы НЕ рекомендуем использовать телефоны фирмы Huawei, т.к. на новых моделях этих телефонов отсутствует Google Play Market и вы не сможете обновлять мобильное приложение <strong>HubEx исполнитель</strong> и <strong>HubEx заказчик</strong>. 
-
-</ul>
-
-
 
 <p>Скачать мобильное приложение можно по ссылкам ниже:</p>
 <ul>

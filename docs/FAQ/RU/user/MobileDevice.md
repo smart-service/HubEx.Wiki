@@ -16,31 +16,31 @@ keywords: мобильный телефон, мобильное устройст
 
 <p>Работать в HubEx можно с помощью мобильных приложений. Для этого мобильный телефон (мобильное устройство) должен соответствовать следующим требованиям:</p>
 
-<p>Andriod устройства</p>
+<p><strong>Andriod устройства</strong></p>
 <ol>
-    <li><strong>Аккумулятор емкостью от 5 000 мА·ч</strong>;</li>
-    <li><strong>Версия операционной системы: версии от 12.0 и старше</strong></li>
-    <li><strong>Процессор: не менее MediaTek Helio G88 или Qualcomm Snapdragon 680 или аналогичный</strong>;</li>
-    <li><strong>Диагональ экрана от 6.5 дюймов</strong>;</li>
-    <li><strong>Поддержка 4G связи</strong>;</li>
-    <li><strong>Камера от 8 МП</strong>;</li>
-    <li><strong>Модуль чтения NFC (при использовании NFC-меток в процессах)</strong>.</li>
-    <li><strong>Список рекомендованных моделей: Xiaomi Redmi 13C, Redmi Note 11, Samsung Galaxy A15, Samsung Galaxy M15, Samsung Galaxy A23, Tecno Spark 20 Pro, Infinix Hot 40i </strong>.</li>
+    <li>Аккумулятор емкостью от 5 000 мА·ч;</li>
+    <li>Версия операционной системы: версии от 12.0 и старше</li>
+    <li>Процессор: не менее MediaTek Helio G88 или Qualcomm Snapdragon 680 или аналогичный;</li>
+    <li>Диагональ экрана от 6.5 дюймов;</li>
+    <li>Поддержка 4G связи;</li>
+    <li>Камера от 8 МП;</li>
+    <li>Модуль чтения NFC (при использовании NFC-меток в процессах).</li>
+    <li>Список рекомендованных моделей: Xiaomi Redmi 13C, Redmi Note 11, Samsung Galaxy A15, Samsung Galaxy M15, Samsung Galaxy A23, Tecno Spark 20 Pro, Infinix Hot 40i.</li>
 </ol>
 
-<p>iOS устройства</p>
+<p><strong>iOS устройства</strong></p>
 <ol>
-    <li><strong>Аккумулятор емкостью от 5 000 мА·ч</strong>;</li>
-    <li><strong>Версия операционной системы: от 16.0 и старше</strong></li>
-    <li><strong>Диагональ экрана от 6.5 дюймов</strong>;</li>
-    <li><strong>Поддержка 4G связи</strong>;</li>
-    <li><strong>Камера от 8 МП</strong>;</li>
-    <li><strong>Модуль чтения NFC (при использовании NFC-меток в процессах)</strong>.</li>
-    <li><strong>Список рекомендованных моделей: iPhone 14 и новее, а также iPhone SE (3-го поколения), iPhone 16e, iPhone 15, iPhone 14 </strong>.</li>
+    <li>Аккумулятор емкостью от 5 000 мА·ч;</li>
+    <li>Версия операционной системы: от 16.0 и старше</li>
+    <li>Диагональ экрана от 6.5 дюймов;</li>
+    <li>Поддержка 4G связи;</li>
+    <li>Камера от 8 МП;</li>
+    <li>Модуль чтения NFC (при использовании NFC-меток в процессах).</li>
+    <li>Список рекомендованных моделей: iPhone 14 и новее, а также iPhone SE (3-го поколения), iPhone 16e, iPhone 15, iPhone 14.</li>
 </ol>
 
 
-<strong>Обратите внимание!</strong> Мы НЕ рекомендуем использовать телефоны фирмы Huawei, т.к. на новых моделях этих телефонов отсутствует Google Play Market и вы не сможете обновлять мобильное приложение <strong>HubEx исполнитель</strong> и <strong>HubEx заказчик</strong>. 
+<p><strong>Обратите внимание!</strong> Мы НЕ рекомендуем использовать телефоны фирмы Huawei, т.к. на новых моделях этих телефонов отсутствует Google Play Market и вы не сможете обновлять мобильное приложение <strong>HubEx исполнитель</strong> и <strong>HubEx заказчик</strong>.</p>
 
 <p>Скачать мобильное приложение можно по ссылкам ниже:</p>
 <ul>

@@ -185,7 +185,100 @@ image9</li>
 <hr />
 <p class="ds-markdown-paragraph"><strong>Обновление уже доступно в мобильном приложении HubEx.</strong>&nbsp;Для начала работы администратору необходимо включить функцию в настройках тенанта.</p>
 <hr>
-
+<h3><strong>🗺️ Новый функционал &laquo;История перемещений&raquo; в разделе &laquo;Карты&raquo;</strong></h3>
+<p class="ds-markdown-paragraph">Мы запускаем новое приложение для визуализации перемещений сотрудников на карте. Инструмент позволяет анализировать маршруты за выбранную дату, просматривать точки остановок и связывать геоданные с объектами и заявками.</p>
+<h4>🎯&nbsp;<strong>Как это работает</strong></h4>
+<p class="ds-markdown-paragraph">Приложение доступно через стандартный механизм плагинов в разделе&nbsp;<strong>&laquo;Карты&raquo;</strong>.</p>
+<p class="ds-markdown-paragraph">image11</p>
+<p class="ds-markdown-paragraph"><strong>1. Выбор данных</strong></p>
+<ul>
+<li>
+<p class="ds-markdown-paragraph">В сайдбаре расположены&nbsp;<strong>выпадающий список сотрудников</strong>&nbsp;и&nbsp;<strong>поле выбора даты</strong>.</p>
+</li>
+<li>
+<p class="ds-markdown-paragraph">По умолчанию выбрана&nbsp;<strong>сегодняшняя дата</strong>.</p>
+</li>
+<li>
+<p class="ds-markdown-paragraph">Доступный диапазон: от&nbsp;<strong>года назад до сегодняшнего дня</strong>.</p>
+</li>
+<li>
+<p class="ds-markdown-paragraph">При смене даты список сотрудников не перезагружается. Точки загружаются только после выбора конкретного сотрудника.</p>
+image12</li>
+</ul>
+<p class="ds-markdown-paragraph"><strong>2. Отображение маршрута</strong></p>
+<ul>
+<li>
+<p class="ds-markdown-paragraph">На карте строится&nbsp;<strong>линия маршрута</strong>&nbsp;сотрудника за выбранную дату.</p>
+</li>
+<li>
+<p class="ds-markdown-paragraph">Цвета точек:</p>
+<ul>
+<li>
+<p class="ds-markdown-paragraph">🟢&nbsp;<strong>Зелёный</strong>&nbsp;&mdash; начало маршрута</p>
+</li>
+<li>
+<p class="ds-markdown-paragraph">🔴&nbsp;<strong>Красный</strong>&nbsp;&mdash; конец маршрута</p>
+</li>
+</ul>
+</li>
+<li>
+<p class="ds-markdown-paragraph">При наведении на линию маршрута появляется&nbsp;<strong>тултип с временем (HH:MM:SS)</strong>&nbsp;ближайшей точки.</p>
+image13
+</li>
+</ul>
+<p class="ds-markdown-paragraph"><strong>3. Дополнительные слои (включаются в сайдбаре)</strong></p>
+<ul>
+<li>
+<p class="ds-markdown-paragraph"><strong>&laquo;Показывать объекты&raquo; (иконка здания)</strong></p>
+<ul>
+<li>
+<p class="ds-markdown-paragraph">На карте отображаются чёрные иконки зданий.</p>
+</li>
+<li>
+<p class="ds-markdown-paragraph">При наведении &mdash; тултип с названием объекта и адресом.</p>
+image14
+</li>
+<li>
+<p class="ds-markdown-paragraph">При клике &mdash; переход на страницу объекта.</p>
+</li>
+<li>
+<p class="ds-markdown-paragraph">Переключатель активен только после выбора сотрудника.</p>
+</li>
+</ul>
+</li>
+<li>
+<p class="ds-markdown-paragraph"><strong>&laquo;Показывать заявки&raquo; (иконка клипборда)</strong></p>
+<ul>
+<li>
+<p class="ds-markdown-paragraph">На карте отображаются индиго-иконки.</p>
+</li>
+<li>
+<p class="ds-markdown-paragraph">При наведении &mdash; тултип с полными данными заявки (номер, тип, вид работ, описание, адрес).</p>
+</li>
+<li>
+<p class="ds-markdown-paragraph">При клике &mdash; открытие заявки в новой вкладке.</p>
+</li>
+<li>
+<p class="ds-markdown-paragraph">Переключатель активен только после выбора сотрудника.</p>
+</li>
+</ul>
+</li>
+</ul>
+<p class="ds-markdown-paragraph"><strong>4. Автоматическое позиционирование</strong><br />При загрузке данных карта автоматически подстраивает центр и масштаб, чтобы вместить все отображаемые элементы:</p>
+<ul>
+<li>
+<p class="ds-markdown-paragraph">Точки маршрута сотрудника</p>
+</li>
+<li>
+<p class="ds-markdown-paragraph">Объекты (если включены)</p>
+</li>
+<li>
+<p class="ds-markdown-paragraph">Заявки (если включены)</p>
+</li>
+</ul>
+<p class="ds-markdown-paragraph">&nbsp;</p>
+<hr />
+<p class="ds-markdown-paragraph"><strong>Новый функционал уже доступен в разделе &laquo;Карты&raquo;.</strong>&nbsp;Попробуйте проанализировать маршруты сотрудников и свяжите их с работой на объектах и заявках!</p>
 <hr>
 <p class="" data-start="3165" data-end="3344">В случае возникновения проблем - пишите нам в поддержку Telegram&nbsp;<a href="https://t.me/hubex_bot" target="_blank" rel="noopener">@hubex_bot</a>&nbsp;или на почту&nbsp;<a href="mailto:help@hubex.ru">help@hubex.ru</a></p>
 <hr>

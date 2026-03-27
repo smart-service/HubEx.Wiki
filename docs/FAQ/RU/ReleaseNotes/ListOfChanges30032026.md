@@ -250,7 +250,8 @@ image14
 <p class="ds-markdown-paragraph"><strong>&laquo;Показывать заявки&raquo; (иконка клипборда)</strong></p>
 <ul>
 <li>
-<p class="ds-markdown-paragraph">На карте отображаются индиго-иконки.</p>
+<p class="ds-markdown-paragraph">На карте отображаются синие-иконки.</p>
+image15
 </li>
 <li>
 <p class="ds-markdown-paragraph">При наведении &mdash; тултип с полными данными заявки (номер, тип, вид работ, описание, адрес).</p>

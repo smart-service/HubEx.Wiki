@@ -113,7 +113,78 @@ image3</li>
 </li>
 </ul>
 <hr>
-
+<h3><strong>📱 Сканирование Data Matrix для маркированных материалов в мобильном приложении HubEx (Этап 1)</strong></h3>
+<p class="ds-markdown-paragraph">Мы начинаем внедрение функционала для работы с маркированными материалами (система &laquo;Честный ЗНАК&raquo;). Это первый этап подготовки к законодательным изменениям 2025&ndash;2026 годов, который закладывает основу для юридически корректного учета списаний.</p>
+<h4>🎯&nbsp;<strong>Что нового?</strong></h4>
+<p class="ds-markdown-paragraph">В мобильном приложении HubEx появилась возможность&nbsp;<strong>сканировать коды Data Matrix</strong>&nbsp;с маркированных материалов при их списании по заявкам. Функционал является опциональным инструментом сбора данных и работает как в онлайн, так и в офлайн-режиме.</p>
+<h4>🔧&nbsp;<strong>Как это работает?</strong></h4>
+<p class="ds-markdown-paragraph"><strong>Для администратора тенанта:</strong></p>
+<ul>
+<li>
+<p class="ds-markdown-paragraph">В настройках тенанта добавлен переключатель&nbsp;<strong>&laquo;Сканирование кодов для списания единиц материалов&raquo;</strong>&nbsp;(Администрирование &gt; Роли &gt; Полномочия "Выполненные работы и стоимости" &gt;&nbsp;Элементы интерфейса). Если он выключен, элементы интерфейса для сканирования не отображаются.</p>
+</li>
+</ul>
+<p>image5</p>
+<p class="ds-markdown-paragraph"><strong>Для исполнителя в заявке (МП):</strong></p>
+<ol start="1">
+<li>
+<p class="ds-markdown-paragraph"><strong>В разделе &laquo;Выполненные работы&raquo;</strong>&nbsp;для каждой позиции Материалов, добавленных к списанию, появляется поле с количеством отсканированных&nbsp;<strong>&laquo;Кодов маркировки&raquo;</strong>.</p>
+image6</li>
+<li>
+<p class="ds-markdown-paragraph">При нажатии на Материал открывается экран&nbsp;<strong>&laquo;Добавить материалы&raquo;</strong>, где отображается:</p>
+<ul>
+<li>
+<p class="ds-markdown-paragraph">Наименование и количество материала к списанию.</p>
+</li>
+<li>
+<p class="ds-markdown-paragraph">Список уже привязанных кодов.</p>
+</li>
+<li>
+<p class="ds-markdown-paragraph">Кнопка&nbsp;<strong>&laquo;Сканировать&raquo;</strong>.</p>
+</li>
+</ul>
+image7</li>
+<li>
+<p class="ds-markdown-paragraph"><strong>Сканирование</strong>: Нажмите &laquo;Сканировать&raquo; &mdash; активируется камера. После распознавания кода Data Matrix он автоматически добавляется в список.</p>
+image8</li>
+<li>
+<p class="ds-markdown-paragraph"><strong>Контроль количества</strong>: Система не позволит добавить больше кодов, чем указано в количестве материала к списанию.</p>
+</li>
+<li>
+<p class="ds-markdown-paragraph"><strong>Редактирование</strong>: Вы можете удалить любой код из списка, если ошиблись.</p>
+image9</li>
+<li>
+<p class="ds-markdown-paragraph"><strong>Сохранение</strong>: Все привязанные коды автоматически сохраняются локально и синхронизируются с сервером при появлении интернета.</p>
+</li>
+</ol>
+<h4>🖥️&nbsp;<strong>Просмотр в веб-версии</strong></h4>
+<p class="ds-markdown-paragraph">В карточке заявки в разделе&nbsp;<strong>&laquo;Выполненные работы&raquo;</strong>&nbsp;теперь отображается список привязанных кодов маркировки для каждой позиции (только просмотр).</p>
+<p>image10</p>
+<h4>⚙️&nbsp;<strong>Важные особенности первого этапа</strong></h4>
+<ul>
+<li>
+<p class="ds-markdown-paragraph"><strong>Опциональность</strong>: Сканирование не является обязательным &mdash; можно списать материал без кодов. Контроль полноты будет добавлен на втором этапе.</p>
+</li>
+<li>
+<p class="ds-markdown-paragraph"><strong>Офлайн-работа</strong>: Все операции (сканирование, привязка, удаление) выполняются и для случаев отсутствия интернета. Данные синхронизируются автоматически при подключении.</p>
+</li>
+<li>
+<p class="ds-markdown-paragraph"><strong>Управление на уровне тенанта</strong>: Функционал включается общим флагом для всей компании. Настройка отдельных материалов как маркируемых будет добавлена позже.</p>
+</li>
+</ul>
+<h4>🚀&nbsp;<strong>Что дальше?</strong></h4>
+<p class="ds-markdown-paragraph">Второй этап предусматривает:</p>
+<ul>
+<li>
+<p class="ds-markdown-paragraph">Контроль обязательности сканирования для закрытия стадии (при наличии полномочий).</p>
+</li>
+<li>
+<p class="ds-markdown-paragraph">Возможность отмечать конкретные материалы как маркируемые.</p>
+</li>
+</ul>
+<hr />
+<p class="ds-markdown-paragraph"><strong>Обновление уже доступно в мобильном приложении HubEx.</strong>&nbsp;Для начала работы администратору необходимо включить функцию в настройках тенанта.</p>
+<hr>
 
 <hr>
 <p class="" data-start="3165" data-end="3344">В случае возникновения проблем - пишите нам в поддержку Telegram&nbsp;<a href="https://t.me/hubex_bot" target="_blank" rel="noopener">@hubex_bot</a>&nbsp;или на почту&nbsp;<a href="mailto:help@hubex.ru">help@hubex.ru</a></p>

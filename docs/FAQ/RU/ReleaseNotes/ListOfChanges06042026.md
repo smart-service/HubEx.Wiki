@@ -115,6 +115,8 @@ SN-554C3</pre>
 </li>
 </ul>
 <hr />
+<p class="ds-markdown-paragraph"><strong>Обновление уже доступно в веб-версии HubEx.</strong>&nbsp;Попробуйте новый множественный поиск в фильтрах на странице&nbsp;<strong>&laquo;Объекты&raquo;</strong>&nbsp;&mdash; это сэкономит вам время при работе со списками оборудования!</p>
+<hr>
 <h3><strong>🔐 Упрощённый вход после создания пароля</strong></h3>
 <p class="ds-markdown-paragraph">Мы убрали лишний шаг авторизации при первом входе в систему. Теперь после создания пароля пользователь попадает в HubEx сразу, без повторного ввода email и пароля.</p>
 <h4>🎯&nbsp;<strong>Что изменилось?</strong></h4>
@@ -173,9 +175,6 @@ SN-554C3</pre>
 <p class="ds-markdown-paragraph">После успешного создания пароля система автоматически авторизует пользователя и перенаправляет его на рабочий стол HubEx. Сессия создаётся сразу, без повторного ввода учётных данных.</p>
 <hr />
 <p class="ds-markdown-paragraph"><strong>Изменение уже доступно в веб-версии HubEx.</strong>&nbsp;Новые пользователи теперь попадают в систему на один шаг быстрее!</p>
-<hr />
-<p class="ds-markdown-paragraph"><strong>Обновление уже доступно в веб-версии HubEx.</strong>&nbsp;Попробуйте новый множественный поиск в фильтрах на странице&nbsp;<strong>&laquo;Объекты&raquo;</strong>&nbsp;&mdash; это сэкономит вам время при работе со списками оборудования!</p>
-<hr>
 <p class="" data-start="3165" data-end="3344">В случае возникновения проблем - пишите нам в поддержку Telegram&nbsp;<a href="https://t.me/hubex_bot" target="_blank" rel="noopener">@hubex_bot</a>&nbsp;или на почту&nbsp;<a href="mailto:help@hubex.ru">help@hubex.ru</a></p>
 <hr>
 <p><a href="http://wiki.hubex.ru">Перейти в меню</a></p>

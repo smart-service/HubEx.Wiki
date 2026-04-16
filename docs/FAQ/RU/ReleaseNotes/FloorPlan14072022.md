@@ -16,15 +16,15 @@ keywords:
 <h5>Планы помещений в web-приложении</h5>
 <p>План помещения добавляется индивидуально в карточке <strong>Объекта</strong> на вкладке <strong>Объект|Оборудование</strong>.</p>
 <p>Для каждого <strong>Объекта</strong> может быть добавлен только один план.</p>
-<div><img style="margin: 0 auto; display: block; max-width: 100%;" src="https://i.ibb.co/9qwtx1d/Object.jpg" width="558" height="auto" /></div>
+<div><img style="margin: 0 auto; display: block; max-width: 100%;" src="/attachments/images/FAQ/RELEASENOTES/FloorPlan14072022/9qwtx1d_Object.jpg" width="558" height="auto" /></div>
 <p>Отметить местонахождение объекта на плане можно при подаче <strong>Заявки</strong>. В web-версии HubEx план объекта в <strong>Заявке</strong> располагается сразу под адресом.</p>
 <p>Откройте план и по щелчку мыши установите местоположение <strong>Объекта</strong>. Если местоположение нужно изменить, просто щелкните на новое место на плане.</p>
-<div><img style="margin: 0 auto; display: block; max-width: 100%;" src="https://i.ibb.co/Jm6qH8y/Plan.png" width="558" height="auto" /></div>
+<div><img style="margin: 0 auto; display: block; max-width: 100%;" src="/attachments/images/FAQ/RELEASENOTES/FloorPlan14072022/Jm6qH8y_Plan.png" width="558" height="auto" /></div>
 <h5>Планы помещений в мобильном приложении</h5>
 <p>В мобильном приложении планы отображаются в паспорте <strong>Объекта.</strong> И при подаче <strong>Заявки</strong> также можно указать местонахождение <strong>Объекта</strong> на плане.&nbsp;</p>
-<div><img style="margin: 0 auto; display: block; max-width: 100%;" src="https://i.ibb.co/Y2fscJP/MobNEW.jpg" width="558" height="auto" /></div>
+<div><img style="margin: 0 auto; display: block; max-width: 100%;" src="/attachments/images/FAQ/RELEASENOTES/FloorPlan14072022/Y2fscJP_MobNEW.jpg" width="558" height="auto" /></div>
 <p>Чтобы изменить положение <strong>Объекта</strong> на плане в мобильном приложении откройте план и, удерживая нажатие на план, перемещайте его, чтобы изменить позицию <strong>Объекта</strong>. Если вы хотите подтвердить перенос места, то выберите зеленую галочку, если хотите сбросить перенос, то нажмите на крестик.</p>
-<div><img style="margin: 0 auto; display: block; max-width: 100%;" src="https://i.ibb.co/BcW8sPJ/Mob3.png" width="278" height="auto" /></div>
+<div><img style="margin: 0 auto; display: block; max-width: 100%;" src="/attachments/images/FAQ/RELEASENOTES/FloorPlan14072022/BcW8sPJ_Mob3.png" width="278" height="auto" /></div>
 
 
 <p>Подробнее читайте в статье базы знаний: <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/FloorPlan.html">Планы помещений</a>.</p>

@@ -13,7 +13,7 @@ keywords:
 <p>Команда <strong>HubEx</strong> рада представить вам обновление <strong>Истории изменений</strong> по заявке!</p>
 <p><strong>Новая История изменений</strong> позволяет фиксировать изменения по всем полям <strong>для вкладки "Заявка"</strong> и <strong>вкладки "Выполнение"</strong>, что позволяет проводить более качественный аудит выполненных работ и удобнее следить за изменениями по заявке.</p>
 <p style="text-align: center;">
-    <img src="https://i.ibb.co/4nnR0Kp0/History-New.jpg" alt="History-New" border="0" />
+    <img src="/attachments/images/FAQ/RELEASENOTES/NewHistoryOfChanges11022024/4nnR0Kp0_History-New.jpg" alt="History-New" border="0" />
 </p>
 <p>Каждое изменение по заявке фиксируется в таблице отдельной строкой в хронологическом порядке, снизу вверх.</p>
 <p>Для каждой строки указана дата и время изменения, автор изменения, в каком розделе заявки и в каком подразделе находится поле, которое было изменено. Дополнительно, отображается старое значение и новое значение для поля.</p>
@@ -22,7 +22,7 @@ keywords:
 <p><strong>Старая история изменений</strong></p>
 <p>Для просмотра <strong>старой Истории изменений</strong> необходимо перевести <strong>переключатель "Новое представление"</strong> в <strong>выключенное положение</strong></p>
 <p style="text-align: center;">
-    <img src="https://i.ibb.co/tp1b5xnR/History-New3.jpg" alt="History-New3" border="0" />
+    <img src="/attachments/images/FAQ/RELEASENOTES/NewHistoryOfChanges11022024/tp1b5xnR_History-New3.jpg" alt="History-New3" border="0" />
 </p>
 <p style="text-align: left;">&nbsp;</p>
 <p style="text-align: left;">После этого, система отобразит старую Историю изменений.</p>

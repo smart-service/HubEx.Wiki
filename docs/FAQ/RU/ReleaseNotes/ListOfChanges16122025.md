@@ -101,7 +101,7 @@ keywords: Полномочия, заявки, видимость, карта, ф
 <p class="ds-markdown-paragraph">Перейдите&nbsp;на вкладку&nbsp;<strong>&laquo;Общий доступ к полям&raquo;</strong></p>
 </li>
 </ol>
-<p><img style="max-width: 600px; width: 100%; height: auto; display: block; margin: 0 auto;" src="https://i.ibb.co/rfKvWHL4/image.png" alt="" /></p>
+<p><img style="max-width: 600px; width: 100%; height: auto; display: block; margin: 0 auto;" src="/attachments/images/FAQ/RELEASENOTES/ListOfChanges16122025/rfKvWHL4_image.png" alt="" /></p>
 <ol start="1">
 <li>
 <p class="ds-markdown-paragraph">В новой колонке&nbsp;<strong>&laquo;Роли&raquo;</strong>&nbsp;выберите нужную роль</p>
@@ -143,13 +143,13 @@ keywords: Полномочия, заявки, видимость, карта, ф
 <p class="ds-markdown-paragraph"><strong>С кластеризацией</strong>&nbsp;&mdash; точки группируются при отдалении (как было раньше)</p>
 </li>
 </ul>
-<p><img style="max-width: 600px; width: 100%; height: auto; display: block; margin: 0 auto;" src="https://i.ibb.co/HLfgxP67/image.png" alt="" /></p>
+<p><img style="max-width: 600px; width: 100%; height: auto; display: block; margin: 0 auto;" src="/attachments/images/FAQ/RELEASENOTES/ListOfChanges16122025/HLfgxP67_image.png" alt="" /></p>
 <ul>
 <li>
 <p class="ds-markdown-paragraph"><strong>Без кластеризации</strong>&nbsp;&mdash; все заявки отображаются отдельными точками</p>
 </li>
 </ul>
-<p><img style="max-width: 600px; width: 100%; height: auto; display: block; margin: 0 auto;" src="https://i.ibb.co/nMQ7CNMJ/image.png" alt="" /></p>
+<p><img style="max-width: 600px; width: 100%; height: auto; display: block; margin: 0 auto;" src="/attachments/images/FAQ/RELEASENOTES/ListOfChanges16122025/nMQ7CNMJ_image.png" alt="" /></p>
 <p class="ds-markdown-paragraph"><strong>Как это работает:</strong></p>
 <ul>
 <li>
@@ -319,7 +319,7 @@ keywords: Полномочия, заявки, видимость, карта, ф
 <p class="ds-markdown-paragraph">Включите его, если хотите работать без интернета</p>
 </li>
 </ol>
-<p><img style="max-width: 600px; width: 100%; height: auto; display: block; margin: 0 auto;" src="https://i.ibb.co/Kp5BjRmW/image.png" alt="" /></p>
+<p><img style="max-width: 600px; width: 100%; height: auto; display: block; margin: 0 auto;" src="/attachments/images/FAQ/RELEASENOTES/ListOfChanges16122025/Kp5BjRmW_image.png" alt="" /></p>
 <h4>⏰&nbsp;<strong>Особенности:</strong></h4>
 <ul>
 <li>

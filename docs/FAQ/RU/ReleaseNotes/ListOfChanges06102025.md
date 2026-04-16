@@ -19,7 +19,7 @@ keywords: Координаты, фильтры, заявки, Переключа
 <li>В окне выбора фильтров появились соответствующие поля</li>
 <li>Простой и интуитивно понятный интерфейс: выбор "Да"/"Нет"/"Все варианты"</li>
 </ul>
-<p><img style="max-width: 600px; width: 100%; height: auto; display: block; margin: 0 auto;" src="https://i.ibb.co/ccZVRZrV/image.png" alt="" /></p>
+<p><img style="max-width: 600px; width: 100%; height: auto; display: block; margin: 0 auto;" src="/attachments/images/FAQ/RELEASENOTES/ListOfChanges06102025/ccZVRZrV_image.png" alt="" /></p>
 <h3>💡 Примеры использования:</h3>
 <ol>
 <li><strong>Фильтр "Выдано оборудование на подмену"</strong>
@@ -28,11 +28,11 @@ keywords: Координаты, фильтры, заявки, Переключа
 </ul>
 </li>
 </ol>
-<p><img style="max-width: 600px; width: 100%; height: auto; display: block; margin: 0 auto;" src="https://i.ibb.co/BKBzPbnz/image.png" alt="" /></p>
+<p><img style="max-width: 600px; width: 100%; height: auto; display: block; margin: 0 auto;" src="/attachments/images/FAQ/RELEASENOTES/ListOfChanges06102025/BKBzPbnz_image.png" alt="" /></p>
 <ul>
 <li>"Нет" - показать заявки без выдачи оборудования на подмену (галочки в заявке в поле выключена)</li>
 </ul>
-<p><img style="max-width: 600px; width: 100%; height: auto; display: block; margin: 0 auto;" src="https://i.ibb.co/Pv5LxM25/image.png" alt="" /></p>
+<p><img style="max-width: 600px; width: 100%; height: auto; display: block; margin: 0 auto;" src="/attachments/images/FAQ/RELEASENOTES/ListOfChanges06102025/Pv5LxM25_image.png" alt="" /></p>
 <ol>
 <li><strong>Быстрая сортировка по важным критериям</strong>
 <ul>
@@ -68,7 +68,7 @@ keywords: Координаты, фильтры, заявки, Переключа
 <li><strong>С разрешения пользователя</strong> - ограниченный сбор координат, если пользователь разрешил в МП доступ к данным</li>
 <li><strong>Выключить отслеживание местосположения сотрудника</strong> - координаты не собираются, при этом автоназначение работает</li>
 </ol>
-<p><img style="max-width: 600px; width: 100%; height: auto; display: block; margin: 0 auto;" src="https://i.ibb.co/mV7h6jw2/image.png" alt="" /></p>
+<p><img style="max-width: 600px; width: 100%; height: auto; display: block; margin: 0 auto;" src="/attachments/images/FAQ/RELEASENOTES/ListOfChanges06102025/mV7h6jw2_image.png" alt="" /></p>
 <h3>🎯 Что это дает?</h3>
 <p><strong>Для сотрудников:</strong></p>
 <ul>

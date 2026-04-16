@@ -11,7 +11,7 @@ keywords: Массовое, Редактирование, Заявки, Объе
 <h2><strong>🚀 Управление правами для массового редактирования от 28.07.2025</strong></h2>
 <h2>🌟 Что нового?</h2>
 <p>Мы добавили более гибкую систему управления правами для массовых операций с заявками и объектами. Теперь администраторы могут точнее настраивать доступ к функциям редактирования.</p>
-<img src="https://i.ibb.co/HTRVW6Xn/1.jpg" style="max-width: 600px; width: 100%; height: auto; display: block; margin: 0 auto;">
+<img src="/attachments/images/FAQ/RELEASENOTES/ManageRightsForBulkEditing28072025/HTRVW6Xn_1.jpg" style="max-width: 600px; width: 100%; height: auto; display: block; margin: 0 auto;">
 <p>&nbsp;</p>
 <h2>🔐 Ключевые изменения</h2>
 <h3>Для заявок:</h3>
@@ -19,7 +19,7 @@ keywords: Массовое, Редактирование, Заявки, Объе
 <li>Добавлен новый пермишен <strong>"Массовое редактирование заявок"</strong> для массового редактирования</li>
 <li>Если право отсутствует - пункт "Редактировать" скрывается в меню массовых операций (при выборе нескольких заявок)</li>
 </ul>
-<img src="https://i.ibb.co/Y781cvDp/2.jpg" style="max-width: 600px; width: 100%; height: auto; display: block; margin: 0 auto;">
+<img src="/attachments/images/FAQ/RELEASENOTES/ManageRightsForBulkEditing28072025/Y781cvDp_2.jpg" style="max-width: 600px; width: 100%; height: auto; display: block; margin: 0 auto;">
 <ul>
 <li>Сохранена текущая логика:
 <ul>
@@ -33,7 +33,7 @@ keywords: Массовое, Редактирование, Заявки, Объе
 <li>Добавлен новый пермишен <strong>"Массовое редактирование объекта"</strong> для массового редактирования</li>
 <li>Если право отсутствует - пункт "Редактировать" скрывается в меню массовых операций (при выборе нескольких объектов)</li>
 </ul>
-<img src="https://i.ibb.co/k2XgVwmG/3.jpg" style="max-width: 600px; width: 100%; height: auto; display: block; margin: 0 auto;">
+<img src="/attachments/images/FAQ/RELEASENOTES/ManageRightsForBulkEditing28072025/k2XgVwmG_3.jpg" style="max-width: 600px; width: 100%; height: auto; display: block; margin: 0 auto;">
 <ul>
 <li>Сохранение текущего поведения:
 <ul>

@@ -27,7 +27,7 @@ keywords:
 <li class="" data-start="397" data-end="454">
 <p class="" data-start="399" data-end="454"><strong data-start="399" data-end="411">Название</strong> &mdash; будет отображаться как вкладка в заявке;</p>
 </li>
-<li class="" data-start="397" data-end="454"><a><img style="display: block; max-width: 100%; height: auto; margin: 0 auto;" src="https://i.ibb.co/k2rbc46F/image.jpg" alt="image" border="0" /></a></li>
+<li class="" data-start="397" data-end="454"><a><img style="display: block; max-width: 100%; height: auto; margin: 0 auto;" src="/attachments/images/FAQ/RELEASENOTES/PrintableForms20062025/k2rbc46F_image.jpg" alt="image" border="0" /></a></li>
 <li class="" data-start="458" data-end="489">
 <p class="" data-start="460" data-end="489"><strong data-start="460" data-end="472">Описание</strong> (необязательно);</p>
 </li>
@@ -92,7 +92,7 @@ keywords:
 <li class="" data-start="1633" data-end="1768">
 <p class="" data-start="1635" data-end="1768">В интерфейсе заявки появляются <strong data-start="1666" data-end="1699">вкладки с названиями шаблонов</strong></p>
 </li>
-<li class="" data-start="1633" data-end="1768"><strong data-start="1666" data-end="1699"><a><img style="display: block; max-width: 100%; height: auto; margin: 0 auto;" src="https://i.ibb.co/6R2HghK6/image.jpg" alt="image" border="0" /></a></strong></li>
+<li class="" data-start="1633" data-end="1768"><strong data-start="1666" data-end="1699"><a><img style="display: block; max-width: 100%; height: auto; margin: 0 auto;" src="/attachments/images/FAQ/RELEASENOTES/PrintableForms20062025/6R2HghK6_image.jpg" alt="image" border="0" /></a></strong></li>
 </ul>
 <ul data-start="1633" data-end="1819">
 <li class="" data-start="1769" data-end="1819">
@@ -145,13 +145,13 @@ keywords:
 </li>
 </ul>
 <div class="contain-inline-size rounded-md border-[0.5px] border-token-border-medium relative bg-token-sidebar-surface-primary">
-<img style="display: block; max-width: 100%; height: auto; margin: 0 auto;" src="https://i.ibb.co/v4NZ14XY/image.jpg" alt="image" border="0">
+<img style="display: block; max-width: 100%; height: auto; margin: 0 auto;" src="/attachments/images/FAQ/RELEASENOTES/PrintableForms20062025/v4NZ14XY_image.jpg" alt="image" border="0">
 </div>
 <hr class="" data-start="2553" data-end="2556" />
 <h2 class="" data-start="2558" data-end="2595">📌 Пример использования переменных</h2>
 <div class="contain-inline-size rounded-md border-[0.5px] border-token-border-medium relative bg-token-sidebar-surface-primary">
-<div><img style="display: block; max-width: 100%; height: auto; margin: 0 auto;" src="https://i.ibb.co/zhkwkV7h/image.jpg" alt="image" border="0" /></div>
-<div><img style="display: block; max-width: 100%; height: auto; margin: 0 auto;" src="https://i.ibb.co/Cst49q4p/image.jpg" alt="image" border="0" /></div>
+<div><img style="display: block; max-width: 100%; height: auto; margin: 0 auto;" src="/attachments/images/FAQ/RELEASENOTES/PrintableForms20062025/zhkwkV7h_image.jpg" alt="image" border="0" /></div>
+<div><img style="display: block; max-width: 100%; height: auto; margin: 0 auto;" src="/attachments/images/FAQ/RELEASENOTES/PrintableForms20062025/Cst49q4p_image.jpg" alt="image" border="0" /></div>
 </div>
 <hr class="" data-start="3160" data-end="3163" />
 <p class="" data-start="3165" data-end="3344">Инструкции по работе с конструктором печатных форм можно посмотреть <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/PrintingFormDesigner.html" target="_blank" rel="noopener">здесь</a></p>

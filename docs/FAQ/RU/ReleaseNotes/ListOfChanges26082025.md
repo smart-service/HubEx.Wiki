@@ -23,14 +23,14 @@ keywords: жизненный, цикл, заявки, заявка, схема, 
 <li>Расположена в интерфейсе настройки жизненного цикла</li>
 </ul>
 <img 
-  src="https://i.ibb.co/hpyyWVn/image.png" 
+  src="/attachments/images/FAQ/RELEASENOTES/ListOfChanges26082025/hpyyWVn_image.png" 
   style="max-width: 600px; width: 100%; height: auto; display: block; margin: 0 auto;"
 >
 <ul>
 <li>Открывает всплывающее окно с интерактивной схемой</li>
 </ul>
 <img 
-  src="https://i.ibb.co/5XD6bL6S/image.png" 
+  src="/attachments/images/FAQ/RELEASENOTES/ListOfChanges26082025/5XD6bL6S_image.png" 
   style="max-width: 600px; width: 100%; height: auto; display: block; margin: 0 auto;"
 >
 <h4>&nbsp;</h4>
@@ -54,7 +54,7 @@ keywords: жизненный, цикл, заявки, заявка, схема, 
 <li><strong>Обновленное текстовое сообщение</strong> о важности сложного пароля</li>
 </ul>
 <img 
-  src="https://i.ibb.co/RGVYTpvK/image.png" 
+  src="/attachments/images/FAQ/RELEASENOTES/ListOfChanges26082025/RGVYTpvK_image.png" 
   style="max-width: 600px; width: 100%; height: auto; display: block; margin: 0 auto;"
 >
 <h4>⚙️ Функциональные требования</h4>

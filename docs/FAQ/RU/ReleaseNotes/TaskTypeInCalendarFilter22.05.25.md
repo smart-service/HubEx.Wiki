@@ -27,7 +27,7 @@ keywords:
 </li>
 </ul>
 <p data-start="590" data-end="828">📍 <strong data-start="593" data-end="616">Где работает фильтр</strong>:<br data-start="617" data-end="620" /> Фильтр "Тип заявки" встроен в панель справа, в блоке фильтрации для списка <strong data-start="695" data-end="721">"Неназначенные заявки"</strong>. Вы можете использовать его в связке с другими фильтрами &mdash; стадией, исполнителем, видом работ и объектами.</p>
-<p><img style="display: block; max-width: 100%; height: auto; margin: 0 auto;" src="https://i.ibb.co/Hf9s4HsQ/image.jpg" alt="image" border="0" /></p>
+<p><img style="display: block; max-width: 100%; height: auto; margin: 0 auto;" src="/attachments/images/FAQ/RELEASENOTES/TaskTypeInCalendarFilter22.05.25/Hf9s4HsQ_image.jpg" alt="image" border="0" /></p>
 <p data-start="590" data-end="828">&nbsp;</p>
 <h3 data-start="830" data-end="850">🔎 Преимущества:</h3>
 <ul data-start="851" data-end="982">

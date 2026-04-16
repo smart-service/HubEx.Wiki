@@ -45,7 +45,7 @@
     </ol>
 
  <div style="text-align: center;">
-  <img src="https://i.ibb.co/G4BLWyZj/Screenshot-2025-10-06-at-21-14-38.png"
+  <img src="/attachments/images/FAQ/USER/HubExAI/G4BLWyZj_Screenshot-2025-10-06-at-21-14-38.png"
        alt="HubEx AI — пример" style="max-width: 100%; height: auto;" />
 </div>
 

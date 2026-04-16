@@ -15,6 +15,7 @@ keywords: Data Matrix, DataMatrix, Дата Матрикс, списание, м
 <ul>
 <li>
 <p class="ds-markdown-paragraph">В разделе&nbsp;<strong>&laquo;Склады &rarr; Материалы&raquo;</strong>&nbsp;добавлен переключатель&nbsp;<strong>&laquo;Маркируемый материал&raquo;</strong>.</p>
+<p><img style="max-width: 80%; height: auto; display: block; margin-left: auto; margin-right: auto;" src="https://wiki.hubex.ru/attachments/images/FAQ/RELEASENOTES/ListOfChanges16042026/1.jpg" alt="" /></p>
 </li>
 <li>
 <p class="ds-markdown-paragraph">По умолчанию признак выключен (<code>false</code>).</p>
@@ -30,6 +31,7 @@ keywords: Data Matrix, DataMatrix, Дата Матрикс, списание, м
 </li>
 <li>
 <p class="ds-markdown-paragraph">Пользователь сразу видит, какие позиции требуют сканирования кодов.</p>
+<p><img style="max-width: 80%; height: auto; display: block; margin-left: auto; margin-right: auto;" src="https://wiki.hubex.ru/attachments/images/FAQ/RELEASENOTES/ListOfChanges16042026/2.jpg" alt="" /></p>
 </li>
 </ul>
 <p class="ds-markdown-paragraph"><strong>3. Контроль при смене статуса заявки (МП)</strong></p>

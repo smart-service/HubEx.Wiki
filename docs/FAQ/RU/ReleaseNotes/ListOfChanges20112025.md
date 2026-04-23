@@ -19,13 +19,13 @@ keywords: Фильтры, Объекты, Оборудование, Планов
 <p class="ds-markdown-paragraph">Добавлена возможность фильтрации по&nbsp;<strong>дополнительным полям</strong>&nbsp;объектов</p>
 </li>
 </ul>
-<p><img style="max-width: 600px; width: 100%; height: auto; display: block; margin: 0 auto;" src="https://i.ibb.co/0pZkrW29/image.png" alt="" /></p>
+<p><img style="max-width: 600px; width: 100%; height: auto; display: block; margin: 0 auto;" src="/attachments/images/FAQ/RELEASENOTES/ListOfChanges20112025/0pZkrW29_image.png" alt="" /></p>
 <ul>
 <li>
 <p class="ds-markdown-paragraph">Гибкая настройка состава фильтров по аналогии с заявками</p>
 </li>
 </ul>
-<p><img style="max-width: 600px; width: 100%; height: auto; display: block; margin: 0 auto;" src="https://i.ibb.co/277SvQbr/image.png" alt="" /></p>
+<p><img style="max-width: 600px; width: 100%; height: auto; display: block; margin: 0 auto;" src="/attachments/images/FAQ/RELEASENOTES/ListOfChanges20112025/277SvQbr_image.png" alt="" /></p>
 <ul>
 <li>
 <p class="ds-markdown-paragraph">Поддержка всех типов данных: текст, числа, даты, справочники, переключатели</p>
@@ -111,7 +111,7 @@ keywords: Фильтры, Объекты, Оборудование, Планов
 <p class="ds-markdown-paragraph">Теперь: возможность точного указания в&nbsp;<strong>минутах, часах, днях</strong></p>
 </li>
 </ul>
-<p><img style="max-width: 600px; width: 100%; height: auto; display: block; margin: 0 auto;" src="https://i.ibb.co/yBGDkS99/image.png" alt="" /></p>
+<p><img style="max-width: 600px; width: 100%; height: auto; display: block; margin: 0 auto;" src="/attachments/images/FAQ/RELEASENOTES/ListOfChanges20112025/yBGDkS99_image.png" alt="" /></p>
 <h3>💡 Ключевые улучшения:</h3>
 <p class="ds-markdown-paragraph"><strong>Для администраторов:</strong></p>
 <ul>
@@ -181,7 +181,7 @@ keywords: Фильтры, Объекты, Оборудование, Планов
 </ul>
 <hr>
 <h2><strong>В HubEx появились два новых раздела в меню</strong></h2>
-<p><img style="max-width: 600px; width: 100%; height: auto; display: block; margin: 0 auto;" src="https://i.ibb.co/sJq2SmtG/image.png" alt="" /></p>
+<p><img style="max-width: 600px; width: 100%; height: auto; display: block; margin: 0 auto;" src="/attachments/images/FAQ/RELEASENOTES/ListOfChanges20112025/sJq2SmtG_image.png" alt="" /></p>
 <p class="ds-markdown-paragraph">Теперь в основном меню вы найдете:</p>
 <h3>📌&nbsp;<strong>&laquo;Что нового?&raquo;</strong></h3>
 <p class="ds-markdown-paragraph">Здесь мы можно посмотреть информацию по доработкам системы &mdash; новые возможности, расширение функционала и небольшие улучшения.</p>

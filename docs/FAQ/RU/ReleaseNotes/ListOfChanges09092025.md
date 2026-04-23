@@ -18,16 +18,16 @@ keywords: плагин, виджет, вид работ, тип оборудов
 <ul>
 <li>Привязка видов работ к типам оборудования через админку</li>
 </ul>
-<p><img style="max-width: 600px; width: 100%; height: auto; display: block; margin: 0 auto;" src="https://i.ibb.co/dw3cKc13/image.png" alt="" /></p>
+<p><img style="max-width: 600px; width: 100%; height: auto; display: block; margin: 0 auto;" src="/attachments/images/FAQ/RELEASENOTES/ListOfChanges09092025/dw3cKc13_image.png" alt="" /></p>
 <ul>
 <li>Автоматическое применение настроек ко всем объектам выбранного типа при создании объекта</li>
 </ul>
-<p><img style="max-width: 600px; width: 100%; height: auto; display: block; margin: 0 auto;" src="https://i.ibb.co/39YBJrVp/image.png" alt="" /></p>
-<p><img style="max-width: 600px; width: 100%; height: auto; display: block; margin: 0 auto;" src="https://i.ibb.co/rGXycjrY/image.png" alt="" /></p>
+<p><img style="max-width: 600px; width: 100%; height: auto; display: block; margin: 0 auto;" src="/attachments/images/FAQ/RELEASENOTES/ListOfChanges09092025/39YBJrVp_image.png" alt="" /></p>
+<p><img style="max-width: 600px; width: 100%; height: auto; display: block; margin: 0 auto;" src="/attachments/images/FAQ/RELEASENOTES/ListOfChanges09092025/rGXycjrY_image.png" alt="" /></p>
 <ul>
 <li>Гибкие опции обновления существующих объектов</li>
 </ul>
-<p><img style="max-width: 600px; width: 100%; height: auto; display: block; margin: 0 auto;" src="https://i.ibb.co/4gKnyfq7/image.png" alt="" /></p>
+<p><img style="max-width: 600px; width: 100%; height: auto; display: block; margin: 0 auto;" src="/attachments/images/FAQ/RELEASENOTES/ListOfChanges09092025/4gKnyfq7_image.png" alt="" /></p>
 <h4>🛠️ Удобный интерфейс</h4>
 <ul>
 <li><strong>Боковое окно</strong> для редактирования типов оборудования</li>
@@ -67,7 +67,7 @@ keywords: плагин, виджет, вид работ, тип оборудов
 <li>Поддержка <strong>нескольких виджетов</strong> одновременно</li>
 <li>Автоматическое расположение виджетов друг под другом</li>
 </ul>
-<p><img style="max-width: 600px; width: 100%; height: auto; display: block; margin: 0 auto;" src="https://i.ibb.co/j9YcWc6h/image.png" alt="" /></p>
+<p><img style="max-width: 600px; width: 100%; height: auto; display: block; margin: 0 auto;" src="/attachments/images/FAQ/RELEASENOTES/ListOfChanges09092025/j9YcWc6h_image.png" alt="" /></p>
 <p>&nbsp;</p>
 <h3>🛠️ Техническая реализация</h3>
 <ul>

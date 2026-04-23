@@ -42,7 +42,7 @@ keywords:
 </li>
 </ul>
 <p class="" data-start="923" data-end="988">Дополнительно можно включить множественный выбор через соответствующий чек-бокс &laquo;<strong>Разрешить выбирать несколько значений&raquo;</strong></p>
-<p style="text-align: center;"><a><img src="https://i.ibb.co/QWKS2vP/image.png" alt="image" border="0" /></a></p>
+<p style="text-align: center;"><a><img src="/attachments/images/FAQ/RELEASENOTES/DirectoriesInAdditionalFields16052025/QWKS2vP_image.png" alt="image" border="0" /></a></p>
 <p class="" data-start="923" data-end="988">&nbsp;</p>
 <hr class="" data-start="990" data-end="993" />
 <h3 class="" data-start="995" data-end="1025">Использование в заявках</h3>
@@ -63,7 +63,7 @@ keywords:
 <p class="" data-start="1735" data-end="1773"><strong data-start="1735" data-end="1748">Материалы</strong> &mdash; наименование материала</p>
 </li>
 </ul>
-<p style="text-align: center;"><img src="https://i.ibb.co/twK9317B/image.jpg" alt="image" border="0" /></p>
+<p style="text-align: center;"><img src="/attachments/images/FAQ/RELEASENOTES/DirectoriesInAdditionalFields16052025/twK9317B_image.jpg" alt="image" border="0" /></p>
 <hr class="" data-start="2241" data-end="2244" />
 <h3 class="" data-start="2246" data-end="2271">Обновления админ панели по дополнительным полям</h3>
 <p class="" data-start="2273" data-end="2369">В меню <strong data-start="2280" data-end="2323">Настройки системы &rarr; Дополнительные поля</strong> обновлён интерфейс создания и редактирования:</p>

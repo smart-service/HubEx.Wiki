@@ -29,19 +29,19 @@ keywords: справочник, дополнительное, поле, мате
 <p>📌 Дополнительно можно включить <strong>множественный выбор</strong> через чек-бокс <em>&laquo;Разрешить выбирать несколько значений&raquo;</em>.</p>
 <hr />
 <h2>🎯 Использование в договорах и компаниях</h2>
-<p><img style="max-width: 600px; width: 100%; height: auto; display: block; margin: 0 auto;" src="https://i.ibb.co/39RKF2xK/image.png" alt="" /></p>
+<p><img style="max-width: 600px; width: 100%; height: auto; display: block; margin: 0 auto;" src="/attachments/images/FAQ/RELEASENOTES/ListOfChanges02092025/39RKF2xK_image.png" alt="" /></p>
 <h3>Для Договоров:</h3>
 <ul>
 <li>Добавляйте поля с привязкой к объектам, материалам или ответственным сотрудникам прямо в карточку договора.</li>
 <li>Например: &laquo;Объекты по договору&raquo;, &laquo;Ответственные менеджеры&raquo;, &laquo;Связанные материалы&raquo;.</li>
 </ul>
-<p><img style="max-width: 600px; width: 100%; height: auto; display: block; margin: 0 auto;" src="https://i.ibb.co/xqCSVDSf/image.png" alt="" /></p>
+<p><img style="max-width: 600px; width: 100%; height: auto; display: block; margin: 0 auto;" src="/attachments/images/FAQ/RELEASENOTES/ListOfChanges02092025/xqCSVDSf_image.png" alt="" /></p>
 <h3>Для Компаний:</h3>
 <ul>
 <li>Добавляйте поля с привязкой к объектам, материалам или ответственным сотрудникам прямо в карточку компании.</li>
 <li>Например: &laquo;Дочерние компании&raquo;, &laquo;Ключевые сотрудники&raquo;, &laquo;Привязанные объекты&raquo;.</li>
 </ul>
-<p><img style="max-width: 600px; width: 100%; height: auto; display: block; margin: 0 auto;" src="https://i.ibb.co/zW0HtYXy/image.png" alt="" /></p>
+<p><img style="max-width: 600px; width: 100%; height: auto; display: block; margin: 0 auto;" src="/attachments/images/FAQ/RELEASENOTES/ListOfChanges02092025/zW0HtYXy_image.png" alt="" /></p>
 <hr />
 <h2>⚠️ Важно</h2>
 <ul>
@@ -59,14 +59,14 @@ keywords: справочник, дополнительное, поле, мате
 <li>Сортировка по наименованию (алфавитный порядок)</li>
 <li>Основные колонки: Наименование, Описание, Артикул, Ед. изм., Стоимость, ERP ID</li>
 </ul>
-<p><img style="max-width: 600px; width: 100%; height: auto; display: block; margin: 0 auto;" src="https://i.ibb.co/Z161hQjk/image.png" alt="" /></p>
+<p><img style="max-width: 600px; width: 100%; height: auto; display: block; margin: 0 auto;" src="/attachments/images/FAQ/RELEASENOTES/ListOfChanges02092025/Z161hQjk_image.png" alt="" /></p>
 <p>&nbsp;</p>
 <h3>🔍 Поиск и фильтрация</h3>
 <ul>
 <li><strong>Быстрый поиск</strong> по названию материала и ERP ID</li>
 <li><strong>Фильтрация</strong> по статусу удаления (скрыть/показать удаленные)</li>
 </ul>
-<p><img style="max-width: 600px; width: 100%; height: auto; display: block; margin: 0 auto;" src="https://i.ibb.co/4ZFJLT4r/image.png" alt="" /></p>
+<p><img style="max-width: 600px; width: 100%; height: auto; display: block; margin: 0 auto;" src="/attachments/images/FAQ/RELEASENOTES/ListOfChanges02092025/4ZFJLT4r_image.png" alt="" /></p>
 <p>&nbsp;</p>
 <h3>✏️ Редактирование материалов</h3>
 <ul>
@@ -74,7 +74,7 @@ keywords: справочник, дополнительное, поле, мате
 <li>Обновление основных параметров: Наименование, Описание, Артикул, Стоимость, ERP ID</li>
 <li>Работа с единицами измерения через системный справочник</li>
 </ul>
-<p><img style="max-width: 600px; width: 100%; height: auto; display: block; margin: 0 auto;" src="https://i.ibb.co/KjTN4XmY/image.png" alt="" /></p>
+<p><img style="max-width: 600px; width: 100%; height: auto; display: block; margin: 0 auto;" src="/attachments/images/FAQ/RELEASENOTES/ListOfChanges02092025/KjTN4XmY_image.png" alt="" /></p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <h3>🗑️ Управление статусом материалов</h3>

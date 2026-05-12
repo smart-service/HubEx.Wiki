@@ -148,6 +148,7 @@ keywords: точность, кординаты, геокоординаты, ош
 <p class="ds-markdown-paragraph"><strong><span class="">Удобно</span></strong><span class="">&nbsp;&mdash; сообщения не исчезают через секунду, как раньше, и их можно спокойно прочитать.</span></p>
 </li>
 </ul>
+<p class="ds-markdown-paragraph"><strong><span class="">Обновление уже доступно в мобильном приложении HubEx.</span></strong><span class="">&nbsp;Ошибки валидации стали понятнее &mdash; заполнять формы стало проще!</span></p>
 <hr />
 <h3><strong><span class="">📱 Быстрые фильтры для заявок теперь доступны в мобильном приложении</span></strong></h3>
 <p class="ds-markdown-paragraph"><span class="">Управлять списком заявок в телефоне стало ещё удобнее. Теперь вы можете применять быстрые фильтры, которые заранее настроили в веб-версии, прямо в мобильном приложении &mdash; без ручного ввода параметров.</span></p>
@@ -213,8 +214,6 @@ keywords: точность, кординаты, геокоординаты, ош
 <p class="ds-markdown-paragraph"><span class="">В будущем планируется добавить возможность создавать и редактировать быстрые фильтры прямо в мобильном приложении.</span></p>
 <hr />
 <p class="ds-markdown-paragraph"><strong><span class="">Обновление уже доступно в мобильном приложении HubEx.</span></strong><span class="">&nbsp;Настройте фильтры один раз в веб-версии и пользуйтесь ими на телефоне &mdash; это экономит время! 🚀</span></p>
-<hr />
-<p class="ds-markdown-paragraph"><strong><span class="">Обновление уже доступно в мобильном приложении HubEx.</span></strong><span class="">&nbsp;Ошибки валидации стали понятнее &mdash; заполнять формы стало проще!</span></p>
 <hr />
 <p class="" data-start="3165" data-end="3344">В случае возникновения проблем - пишите нам в поддержку Telegram&nbsp;<a href="https://t.me/hubex_bot" target="_blank" rel="noopener">@hubex_bot</a>&nbsp;или на почту&nbsp;<a href="mailto:help@hubex.ru">help@hubex.ru</a></p>
 <hr />

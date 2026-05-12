@@ -64,8 +64,8 @@ keywords: точность, кординаты, геокоординаты, ош
 </ol>
 <blockquote>
 <p class="ds-markdown-paragraph"><strong><span class="">По умолчанию для всех пользователей установлен режим &laquo;Максимальная точность&raquo;</span></strong><span class="">&nbsp;&mdash; система продолжит работать так же, как и раньше, без дополнительных действий с вашей стороны.</span></p>
-<p class="ds-markdown-paragraph"><span class="">image1</span></p>
 </blockquote>
+<p>image1</p>
 <h4><span class="">📱&nbsp;</span><strong><span class="">Для пользователя</span></strong></h4>
 <p class="ds-markdown-paragraph"><span class="">Ничего менять не нужно. Приложение автоматически получит новые настройки от сервера и начнёт собирать геоданные в соответствии с выбранным администратором режимом. Интерфейс мобильного приложения остаётся прежним &mdash; все изменения происходят незаметно на уровне фоновых служб.</span></p>
 <h4><span class="">⚙️&nbsp;</span><strong><span class="">Детали реализации</span></strong></h4>

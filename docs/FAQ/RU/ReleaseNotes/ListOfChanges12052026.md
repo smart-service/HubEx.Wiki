@@ -65,7 +65,7 @@ keywords: точность, кординаты, геокоординаты, ош
 <blockquote>
 <p class="ds-markdown-paragraph"><strong><span class="">По умолчанию для всех пользователей установлен режим &laquo;Максимальная точность&raquo;</span></strong><span class="">&nbsp;&mdash; система продолжит работать так же, как и раньше, без дополнительных действий с вашей стороны.</span></p>
 </blockquote>
-<p><img style="max-width: 80%; height: auto; display: block; margin-left: auto; margin-right: auto;" src="https://wiki.hubex.ru/attachments/images/FAQ/RELEASENOTES/ListOfChanges12052026/image1.jpg" alt="" /></p>
+<p><img style="max-width: 80%; max-height: 1000px; height: auto; display: block; margin-left: auto; margin-right: auto;" src="https://wiki.hubex.ru/attachments/images/FAQ/RELEASENOTES/ListOfChanges12052026/image1.jpg" alt="" /></p>
 <h4><span class="">📱&nbsp;</span><strong><span class="">Для пользователя</span></strong></h4>
 <p class="ds-markdown-paragraph"><span class="">Ничего менять не нужно. Приложение автоматически получит новые настройки от сервера и начнёт собирать геоданные в соответствии с выбранным администратором режимом. Интерфейс мобильного приложения остаётся прежним &mdash; все изменения происходят незаметно на уровне фоновых служб.</span></p>
 <h4><span class="">⚙️&nbsp;</span><strong><span class="">Детали реализации</span></strong></h4>
@@ -135,7 +135,7 @@ keywords: точность, кординаты, геокоординаты, ош
 <p class="ds-markdown-paragraph"><span class="">Если ошибок несколько, текст в окне можно прокручивать.</span></p>
 </li>
 </ol>
-<p><img style="max-width: 80%; height: auto; display: block; margin-left: auto; margin-right: auto;" src="https://wiki.hubex.ru/attachments/images/FAQ/RELEASENOTES/ListOfChanges12052026/image2.jpg" alt="" /></p>
+<p><img style="max-width: 80%; max-height: 1000px; height: auto; display: block; margin-left: auto; margin-right: auto;" src="https://wiki.hubex.ru/attachments/images/FAQ/RELEASENOTES/ListOfChanges12052026/image3.jpg" alt="" /></p>
 <h4><span class="">👍&nbsp;</span><strong><span class="">Преимущества для пользователей</span></strong></h4>
 <ul>
 <li>

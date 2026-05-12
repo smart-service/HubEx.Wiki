@@ -135,7 +135,7 @@ keywords: точность, кординаты, геокоординаты, ош
 <p class="ds-markdown-paragraph"><span class="">Если ошибок несколько, текст в окне можно прокручивать.</span></p>
 </li>
 </ol>
-<p><img style="max-width: 80%; max-height: 1000px; height: auto; display: block; margin-left: auto; margin-right: auto;" src="https://wiki.hubex.ru/attachments/images/FAQ/RELEASENOTES/ListOfChanges12052026/image3.jpg" alt="" /></p>
+<p><img style="max-width: 80%; max-height: 1000px; height: auto; display: block; margin-left: auto; margin-right: auto;" src="https://wiki.hubex.ru/attachments/images/FAQ/RELEASENOTES/ListOfChanges12052026/image2.jpg" alt="" /></p>
 <h4><span class="">👍&nbsp;</span><strong><span class="">Преимущества для пользователей</span></strong></h4>
 <ul>
 <li>
@@ -154,7 +154,7 @@ keywords: точность, кординаты, геокоординаты, ош
 <p class="ds-markdown-paragraph"><span class="">Управлять списком заявок в телефоне стало ещё удобнее. Теперь вы можете применять быстрые фильтры, которые заранее настроили в веб-версии, прямо в мобильном приложении &mdash; без ручного ввода параметров.</span></p>
 <h4><span class="">🎯&nbsp;</span><strong><span class="">Что нового?</span></strong></h4>
 <p class="ds-markdown-paragraph"><span class="">В верхней части экрана списка заявок в мобильном приложении появилась строка с&nbsp;</span><strong><span class="">быстрыми фильтрами</span></strong><span class="">&nbsp;(теми же, что вы создали в веб-версии). Достаточно нажать на нужный фильтр &mdash; и система покажет только подходящие под него заявки.</span></p>
-<p><img style="max-width: 80%; height: auto; display: block; margin-left: auto; margin-right: auto;" src="https://wiki.hubex.ru/attachments/images/FAQ/RELEASENOTES/ListOfChanges12052026/image3.jpg" alt="" /></p>
+<p><img style="max-width: 80%; max-height: 1000px; height: auto; display: block; margin-left: auto; margin-right: auto;" src="https://wiki.hubex.ru/attachments/images/FAQ/RELEASENOTES/ListOfChanges12052026/image3.jpg" alt="" /></p>
 <h4><span class="">✨&nbsp;</span><strong><span class="">Как это работает</span></strong></h4>
 <p class="ds-markdown-paragraph"><strong><span class="">Получение и применение:</span></strong></p>
 <ol start="1">

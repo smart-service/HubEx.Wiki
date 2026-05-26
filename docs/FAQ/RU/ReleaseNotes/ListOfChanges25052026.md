@@ -31,11 +31,11 @@ keywords: Скриншот, описание, изображение, поиск
 <ul>
 <li>
 <p class="ds-markdown-paragraph"><span class="">Веб-версия HubEx (создание и редактирование заявки).</span></p>
-<p><img style="max-width: 80%; max-height: 1000px; height: auto; display: block; margin-left: auto; margin-right: auto;" src="https://wiki.hubex.ru/attachments/images/FAQ/RELEASENOTES/ListOfChanges25052026/image1.jpg" alt="" /></p>
+<p><img style="max-width: 80%; max-height: 1000px; height: auto; display: block; margin-left: auto; margin-right: auto;" src="https://wiki.hubex.ru/attachments/images/FAQ/RELEASENOTES/ListOfChanges25052026/Image1.jpg" alt="" /></p>
 </li>
 <li>
 <p class="ds-markdown-paragraph"><span class="">Мобильное приложение (Android и iOS).</span></p>
-<p><img style="max-width: 80%; max-height: 1000px; height: auto; display: block; margin-left: auto; margin-right: auto;" src="https://wiki.hubex.ru/attachments/images/FAQ/RELEASENOTES/ListOfChanges25052026/image2.jpg" alt="" /></p>
+<p><img style="max-width: 80%; max-height: 1000px; height: auto; display: block; margin-left: auto; margin-right: auto;" src="https://wiki.hubex.ru/attachments/images/FAQ/RELEASENOTES/ListOfChanges25052026/Image2.jpg" alt="" /></p>
 </li>
 </ul>
 <h4><strong><span class="">Удаление изображения</span></strong></h4>
@@ -72,7 +72,7 @@ keywords: Скриншот, описание, изображение, поиск
 <h4><strong><span class="">Что изменилось?</span></strong></h4>
 <p class="ds-markdown-paragraph"><strong><span class="">Раньше:</span></strong><br /><span class="">Вы могли искать объекты только по одному значению за раз.</span></p>
 <p class="ds-markdown-paragraph"><strong><span class="">Теперь:</span></strong><br /><span class="">В&nbsp;</span><strong><span class="">глобальную строку поиска</span></strong><span class="">&nbsp;на странице &laquo;Объекты&raquo; можно ввести несколько значений через специальный разделитель&nbsp;</span><code>;;</code><span class="">&nbsp;(две точки с запятой). Система отобразит все объекты, у которых название, серийный номер или инвентарный номер совпадает с любым из введённых вариантов.</span></p>
-<p><img style="max-width: 80%; max-height: 1000px; height: auto; display: block; margin-left: auto; margin-right: auto;" src="https://wiki.hubex.ru/attachments/images/FAQ/RELEASENOTES/ListOfChanges25052026/image3.jpg" alt="" /></p>
+<p><img style="max-width: 80%; max-height: 1000px; height: auto; display: block; margin-left: auto; margin-right: auto;" src="https://wiki.hubex.ru/attachments/images/FAQ/RELEASENOTES/ListOfChanges25052026/Image3.jpg" alt="" /></p>
 <h4><strong><span class="">Как это работает</span></strong></h4>
 <p class="ds-markdown-paragraph"><strong><span class="">1. Ручной ввод:</span></strong><br /><span class="">В поле поиска введите значения через&nbsp;</span><code>;;</code><span class="">, например:</span><br /><code>Объект 12;;Объект 45;;Склад-Север</code><br /><span class="">Нажмите&nbsp;</span><code>Enter</code><span class="">&nbsp;&mdash; и вы увидите все три объекта в результатах.</span></p>
 <p class="ds-markdown-paragraph"><strong><span class="">2. &laquo;Умная вставка&raquo; из Excel/таблиц (Ctrl+Shift+V):</span></strong><br /><span class="">Скопируйте столбец с названиями объектов из Excel, нажмите&nbsp;</span><code>Ctrl+Shift+V</code><span class="">&nbsp;в поле поиска &mdash; система автоматически:</span></p>

@@ -81,6 +81,7 @@ keywords: Скриншот, описание, изображение, офлай
 </li>
 </ul>
 <p class="ds-markdown-paragraph"><span class="">Если страница не задана, сотрудник попадает на стандартный экран (Все заявки).</span></p>
+<p><img style="max-width: 80%; max-height: 1000px; height: auto; display: block; margin-left: auto; margin-right: auto;" src="https://wiki.hubex.ru/attachments/images/FAQ/RELEASENOTES/ListOfChanges08062026/Image3.jpg" alt="" /></p>
 <h4><span class="">⚙️&nbsp;</span><strong><span class="">Как это работает</span></strong></h4>
 <p class="ds-markdown-paragraph"><strong><span class="">Для администратора:</span></strong></p>
 <ol start="1">

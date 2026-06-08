@@ -31,11 +31,11 @@ keywords: Скриншот, описание, изображение, офлай
 <ul>
 <li>
 <p class="ds-markdown-paragraph"><span class="">Веб-версия HubEx (создание и редактирование заявки).</span></p>
-<p><img style="max-width: 80%; max-height: 1000px; height: auto; display: block; margin-left: auto; margin-right: auto;" src="https://wiki.hubex.ru/attachments/images/FAQ/RELEASENOTES/ListOfChanges25052026/Image1.jpg" alt="" /></p>
+<p><img style="max-width: 80%; max-height: 1000px; height: auto; display: block; margin-left: auto; margin-right: auto;" src="https://wiki.hubex.ru/attachments/images/FAQ/RELEASENOTES/ListOfChanges08062026/Image1.jpg" alt="" /></p>
 </li>
 <li>
 <p class="ds-markdown-paragraph"><span class="">Мобильное приложение (Android и iOS).</span></p>
-<p><img style="max-width: 80%; max-height: 1000px; height: auto; display: block; margin-left: auto; margin-right: auto;" src="https://wiki.hubex.ru/attachments/images/FAQ/RELEASENOTES/ListOfChanges25052026/Image2.jpg" alt="" /></p>
+<p><img style="max-width: 80%; max-height: 1000px; height: auto; display: block; margin-left: auto; margin-right: auto;" src="https://wiki.hubex.ru/attachments/images/FAQ/RELEASENOTES/ListOfChanges08062026/Image2.jpg" alt="" /></p>
 </li>
 </ul>
 <h4><strong><span class="">Удаление изображения</span></strong></h4>

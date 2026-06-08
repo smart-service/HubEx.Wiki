@@ -1,72 +1,13 @@
 ---
-title: Вставка изображений в описание заявк, Множественный поиск по объектам
-description: Добавили возможность вставлять в поле описание заявки изображения, Добавили возможность множественного поиска для поля поиск по объектам
-keywords: Скриншот, описание, изображение, поиск, множественный, объекты, офлайн, hubex, хабекс, хубекс, хабикс
+title: Множественный поиск по объектам
+description: Добавили возможность множественного поиска для поля поиск по объектам
+keywords: поиск, множественный, объекты, hubex, хабекс, хубекс, хабикс
 ---
 
 <html lang="ru">
 <head>
 </head>
 <body>
-<h3><strong><span class="">🖼️ Вставка изображений в описание заявки</span></strong></h3>
-<p class="ds-markdown-paragraph"><span class="">Теперь вы можете добавлять скриншоты, фотографии и другие изображения прямо в поле&nbsp;</span><strong><span class="">&laquo;Описание заявки&raquo;</span></strong><span class="">&nbsp;&mdash; как в веб-версии, так и в мобильном приложении. Это делает описание проблемы или задачи значительно нагляднее.</span></p>
-<h4><strong><span class="">Как это работает</span></strong></h4>
-<ol start="1">
-<li>
-<p class="ds-markdown-paragraph"><strong><span class="">Скопируйте изображение</span></strong><span class="">&nbsp;(сделайте скриншот экрана, скопируйте фотографию или картинку из файла).</span></p>
-</li>
-<li>
-<p class="ds-markdown-paragraph"><strong><span class="">Вставьте его</span></strong><span class="">&nbsp;в поле &laquo;Описание заявки&raquo; с помощью сочетания клавиш&nbsp;</span><code>Ctrl+V</code><span class="">&nbsp;/&nbsp;</span><code>Cmd+V</code><span class="">&nbsp;(на компьютере) или через контекстное меню (на телефоне).</span></p>
-</li>
-<li>
-<p class="ds-markdown-paragraph"><span class="">Изображение&nbsp;</span><strong><span class="">автоматически загрузится</span></strong><span class="">&nbsp;на сервер HubEx, а в поле описания появится его миниатюра.</span></p>
-</li>
-<li>
-<p class="ds-markdown-paragraph"><span class="">При клике на миниатюру откроется&nbsp;</span><strong><span class="">полноразмерный просмотр</span></strong><span class="">&nbsp;изображения.</span></p>
-</li>
-</ol>
-<h4><strong><span class="">Что поддерживается</span></strong></h4>
-<p class="ds-markdown-paragraph"><strong><span class="">Форматы файлов:</span></strong><br /><code>JPEG</code><span class="">,&nbsp;</span><code>GIF</code><span class="">,&nbsp;</span><code>BMP</code><span class="">,&nbsp;</span><code>PNG</code><span class="">,&nbsp;</span><code>JFIF</code><span class="">,&nbsp;</span><code>HEIC</code></p>
-<p class="ds-markdown-paragraph"><strong><span class="">Где работает:</span></strong></p>
-<ul>
-<li>
-<p class="ds-markdown-paragraph"><span class="">Веб-версия HubEx (создание и редактирование заявки).</span></p>
-<p><img style="max-width: 80%; max-height: 1000px; height: auto; display: block; margin-left: auto; margin-right: auto;" src="https://wiki.hubex.ru/attachments/images/FAQ/RELEASENOTES/ListOfChanges25052026/Image1.jpg" alt="" /></p>
-</li>
-<li>
-<p class="ds-markdown-paragraph"><span class="">Мобильное приложение (Android и iOS).</span></p>
-<p><img style="max-width: 80%; max-height: 1000px; height: auto; display: block; margin-left: auto; margin-right: auto;" src="https://wiki.hubex.ru/attachments/images/FAQ/RELEASENOTES/ListOfChanges25052026/Image2.jpg" alt="" /></p>
-</li>
-</ul>
-<h4><strong><span class="">Удаление изображения</span></strong></h4>
-<p class="ds-markdown-paragraph"><span class="">Если изображение больше не нужно, просто удалите его из текста описания (как обычный символ).</span></p>
-<h4><strong><span class="">Технические детали</span></strong></h4>
-<ul>
-<li>
-<p class="ds-markdown-paragraph"><span class="">Вставка работает через буфер обмена (для WEB версии).</span></p>
-</li>
-<li>
-<p class="ds-markdown-paragraph"><span class="">Изображения автоматически сжимаются до миниатюр для экономии места и трафика.</span></p>
-</li>
-<li>
-<p class="ds-markdown-paragraph"><span class="">При сохранении заявки ссылки на изображения сохраняются в HTML-формате.</span></p>
-</li>
-</ul>
-<h4><strong><span class="">Преимущества для пользователей</span></strong></h4>
-<ul>
-<li>
-<p class="ds-markdown-paragraph"><strong><span class="">Наглядность</span></strong><span class="">: скриншот ошибки или схема оборудования объясняет проблему лучше любого текста.</span></p>
-</li>
-<li>
-<p class="ds-markdown-paragraph"><strong><span class="">Экономия времени</span></strong><span class="">: не нужно сохранять файл на диск, а потом прикреплять &mdash; достаточно вставить копию.</span></p>
-</li>
-<li>
-<p class="ds-markdown-paragraph"><strong><span class="">Единый опыт</span></strong><span class="">: одинаково удобно работать как с компьютера, так и с телефона.</span></p>
-</li>
-</ul>
-<hr />
-<p class="ds-markdown-paragraph"><strong><span class="">Функционал уже доступен в веб-версии и мобильном приложении HubEx.</span></strong><span class="">&nbsp;Добавляйте изображения в описание заявок и экономьте время на объяснениях! 🚀</span></p>
-<hr>
 <h3><strong><span class="">🔍 Множественный поиск по объектам: теперь можно искать по списку за раз</span></strong></h3>
 <p class="ds-markdown-paragraph"><span class="">Мы продолжаем расширять возможности множественного поиска в веб-версии HubEx. Теперь на странице&nbsp;</span><strong><span class="">&laquo;Объекты&raquo;</span></strong><span class="">&nbsp;можно ввести в глобальный поиск сразу несколько названий, серийных номеров или инвентарных кодов &mdash; и система найдёт всё, что соответствует любому из них.</span></p>
 <h4><strong><span class="">Что изменилось?</span></strong></h4>

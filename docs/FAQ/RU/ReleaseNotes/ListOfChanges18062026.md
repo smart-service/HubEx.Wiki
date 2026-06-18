@@ -9,9 +9,9 @@ keywords: Склады, Материалы, импорт, создание, ск
 </head>
 <body>
 <h3 dir="auto">Ручное создание складов и материалов в Web</h3>
-<p dir="auto"><strong>Ручное создание складов и материалов в Web &mdash; доработки от 18.06.2026</strong></p>
+<p dir="auto"><strong>от 18.06.2026</strong></p>
 <hr class=" border-gray-100 dark:border-gray-850" />
-<h4 dir="auto">🏭 Ручное создание складов</h4>
+<h4 dir="auto">📦 Ручное создание складов</h4>
 <p dir="auto"><strong>Описание изменений</strong></p>
 <p dir="auto">Ранее склады можно было создать только через импорт Excel-файла. Теперь появилась возможность ручного создания склада прямо в Web-интерфейсе &mdash; быстро, без подготовки шаблонов.</p>
 <p dir="auto"><strong>Ключевые возможности</strong></p>
@@ -77,8 +77,6 @@ keywords: Склады, Материалы, импорт, создание, ск
 <li class="text-start "><strong>Гибкость</strong> &mdash; настройка доступа к складу через выбор сотрудников прямо в форме создания.</li>
 <li class="text-start "><strong>Удобство</strong> &mdash; копирование материалов экономит время при создании похожих позиций.</li>
 </ul>
-<div class="my-2">&nbsp;</div>
-<hr class=" border-gray-100 dark:border-gray-850" />
 <hr>
 <p class="" data-start="3165" data-end="3344">В случае возникновения проблем - пишите нам в поддержку Telegram&nbsp;<a href="https://t.me/hubex_bot" target="_blank" rel="noopener">@hubex_bot</a>&nbsp;или на почту&nbsp;<a href="mailto:help@hubex.ru">help@hubex.ru</a></p>
 <hr>

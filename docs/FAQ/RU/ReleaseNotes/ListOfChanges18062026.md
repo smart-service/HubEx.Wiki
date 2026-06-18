@@ -9,7 +9,7 @@ keywords: Склады, Материалы, импорт, создание, ск
 </head>
 <body>
 <h3 dir="auto">Ручное создание складов и материалов в Web</h3>
-<p dir="auto"><strong>Ручное создание складов и материалов в Web &mdash; доработки от 23.06.2026</strong></p>
+<p dir="auto"><strong>Ручное создание складов и материалов в Web &mdash; доработки от 18.06.2026</strong></p>
 <hr class=" border-gray-100 dark:border-gray-850" />
 <h4 dir="auto">🏭 Ручное создание складов</h4>
 <p dir="auto"><strong>Описание изменений</strong></p>
@@ -62,7 +62,7 @@ keywords: Склады, Материалы, импорт, создание, ск
 <p><img style="max-width: 80%; max-height: 1000px; height: auto; display: block; margin-left: auto; margin-right: auto;" src="https://wiki.hubex.ru/attachments/images/FAQ/RELEASENOTES/ListOfChanges18062026/4.jpg" alt="" /></p>
 <p dir="auto"><strong>Контекстное меню в таблице</strong><br />В таблице материалов появилось контекстное меню (три точки) с действиями:</p>
 <ul dir="auto">
-<li class="text-start "><strong>🆕 Копировать</strong> &mdash; открывает боковую панель создания со всеми заполненными полями оригинала. Название автоматически дополняется префиксом &laquo;Копия&raquo;.</li>
+<li class="text-start ">🆕<strong> Копировать</strong> &mdash; открывает боковую панель создания со всеми заполненными полями оригинала. Название автоматически дополняется префиксом &laquo;Копия&raquo;.</li>
 <li class="text-start "><strong>Удалить</strong> &mdash; отображается диалоговое окно подтверждения. После удаления появляется алерт об успешном выполнении.</li>
 </ul>
 <p dir="auto"><strong>Важно</strong></p>

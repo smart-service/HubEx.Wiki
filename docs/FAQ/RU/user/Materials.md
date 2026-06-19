@@ -81,8 +81,8 @@ keywords: создать склад, загрузить материалы, оп
     <li>в поле <strong>Единица измерения</strong> выберите необходимую единицу измерения из списка. Если не нашли подходящей, напишите
         нам в Чат с
         поддержкой в web-приложении или на почту <a
-                href="mailto:support@hubex.ru" target="_blank" rel="noopener">
-            support@hubex.ru</a>, мы добавим необходимые единицы измерения.
+                href="mailto:help@hubex.ru" target="_blank" rel="noopener">
+            help@hubex.ru</a>, мы добавим необходимые единицы измерения.
     </li>
 </ul>
 <div>
@@ -168,8 +168,8 @@ keywords: создать склад, загрузить материалы, оп
 <p>Обратите внимание! Если вы хотите удалить материал со склада, то в поле Количество на складе необходимо поставить
     0. Данные, которые когда-либо были загружены в систему возможно удалить только по
     запросу на почту <a
-            href="mailto:support@hubex.ru" target="_blank" rel="noopener">
-        support@hubex.ru</a>.</p>
+            href="mailto:help@hubex.ru" target="_blank" rel="noopener">
+        help@hubex.ru</a>.</p>
 <div>
     <img style="margin: 0 auto; display: block; max-width: 80%;"
          src="/attachments/images/FAQ/USER/Materials/TemplateCount.jpg"/>

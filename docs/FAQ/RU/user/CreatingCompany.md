@@ -193,7 +193,7 @@ keywords: создание компании, создать компанию, з
 </li>
 
 <li><strong>Банковские реквизиты</strong>: платежные реквизиты вашей <strong>Компании</strong> будут фигурировать в <strong>Акте выполненных работ</strong> и <strong>Счете на оплату</strong> для покупателя. По ним <strong>Заказчики</strong> смогут оплатить ваши услуги. Если вы не нашли в списке необходимый банк, напишите в Чат с поддержкой в web-приложении 
-или на почту <a href="mailto:support@hubex.ru" target="_blank" rel="noopener"> support@hubex.ru</a>.
+или на почту <a href="mailto:help@hubex.ru" target="_blank" rel="noopener"> help@hubex.ru</a>.
 </li>
 </ul>
 

@@ -20,7 +20,7 @@ keywords:
 <p>Внутри архива каждая <strong>Заявка</strong> будет представлять собой отдельную папку, внутри которой будут находиться папки с файлами из самой <strong>Заявки</strong> (вкладка <strong>Заявка</strong>), <strong>Чек-листов</strong> и (или) <strong>Выполненных работ</strong>.</p>
 <div><img style="margin: 0 auto; display: block; max-width: 100%;" src="/attachments/images/FAQ/RELEASENOTES/ExportFiles21092022/jfw2bzK_Screenshot-26.png" width="900" height="auto" /></div>
 
-<p>Предложения по доработкам в системе и сообщениям об ошибках просим отправлять к нам в "чат с поддержкой" в веб-приложении или на почту <a href="mailto:support@hubex.ru" target="_blank" rel="noopener"> support@hubex.ru </a>.</p>
+<p>Предложения по доработкам в системе и сообщениям об ошибках просим отправлять к нам в "чат с поддержкой" в веб-приложении или на почту <a href="mailto:help@hubex.ru" target="_blank" rel="noopener"> help@hubex.ru </a>.</p>
 
 </body>
 ___

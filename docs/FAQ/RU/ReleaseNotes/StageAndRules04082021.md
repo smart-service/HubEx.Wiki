@@ -34,7 +34,7 @@ keywords:
 
 <p>Подробнее читайте в статьях базы знаний: <a href="https://wiki.hubex.ru/docs/FAQ/RU/admin/StageType.html">Стадии заявки</a> и <a href="https://wiki.hubex.ru/docs/FAQ/RU/admin/RulesOfChoice.html">Автоназначение исполнителя</a>.</p>
 
-<p>Предложения по доработкам в системе и сообщениям об ошибках просим отправлять к нам в "чат с поддержкой" в веб-приложении или на почту <a href="mailto:support@hubex.ru" target="_blank" rel="noopener"> support@hubex.ru </a>.</p>
+<p>Предложения по доработкам в системе и сообщениям об ошибках просим отправлять к нам в "чат с поддержкой" в веб-приложении или на почту <a href="mailto:help@hubex.ru" target="_blank" rel="noopener"> help@hubex.ru </a>.</p>
 
 
 </body>

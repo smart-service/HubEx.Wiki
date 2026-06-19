@@ -77,8 +77,8 @@ keywords: бухгалтерский акт, мои отчеты, печатна
     акт</strong>. </p>
 
 <p>Обратите внимание! При подключении <strong>Бухгалтерского акта</strong> в панели <strong>Параметры</strong> будет доступно ограниченное количество фильтров, расширить функционал настроек вы можете, обратившись в нашу службу поддержки по почте <a
-        href="mailto:support@hubex.ru" target="_blank" rel="noopener">
-    support@hubex.ru</a>.</p>
+        href="mailto:help@hubex.ru" target="_blank" rel="noopener">
+    help@hubex.ru</a>.</p>
 
 <p>На панели <strong>Параметры</strong> необходимо указать настройки:</p>
 <ul>

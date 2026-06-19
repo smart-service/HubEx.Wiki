@@ -24,7 +24,7 @@ keywords:
 <div><img src="/attachments/images/FAQ/RELEASENOTES/ActiveFilters02112024/bL2zSyP_Active-Filters5.png" alt="Active-Filters5" border="0" /></div>
 <div><img src="/attachments/images/FAQ/RELEASENOTES/ActiveFilters02112024/6bJqvwQ_Active-Filters6.png" alt="Active-Filters6" border="0" /></div>
 <p>Таким образом, работать с <strong>Заявками</strong> стало еще удобнее: вы видите все важные данные сразу, без лишних шагов, и можете быстрее ориентироваться в информации.&nbsp;</p>
-<p>Предложения по доработкам в системе и сообщения об ошибках просим отправлять к нам в "чат с поддержкой" в веб-приложении или на почту&nbsp;<a href="mailto:support@hubex.ru" target="_blank" rel="noopener">support@hubex.ru&nbsp;</a>.</p>
+<p>Предложения по доработкам в системе и сообщения об ошибках просим отправлять к нам в "чат с поддержкой" в веб-приложении или на почту&nbsp;<a href="mailto:help@hubex.ru" target="_blank" rel="noopener">help@hubex.ru&nbsp;</a>.</p>
 </body>
 ___
 - [Перейти в меню](http://wiki.hubex.ru)

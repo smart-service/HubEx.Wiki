@@ -89,8 +89,8 @@ keywords: консоль администратора, консоль админ
 </div>
 
 <p>Если вы не смогли войти в консоль, значит у вас не хватает прав доступа. Обратитесь в <strong>Чат с
-    поддержкой</strong> в web-приложении или на почту <a href="mailto:support@hubex.ru" target="_blank" rel="noopener">
-        support@hubex.ru</a>.</p>
+    поддержкой</strong> в web-приложении или на почту <a href="mailto:help@hubex.ru" target="_blank" rel="noopener">
+        help@hubex.ru</a>.</p>
 <p>Кнопка для перехода в <strong>Чат с поддержкой</strong> и к обучающим статьям находится рядом с вашим аватаром (красный вопросительный знак).</p>
 <div>
     <img style="margin: 0 auto; display: block; max-width: 80%;"

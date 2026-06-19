@@ -52,7 +52,7 @@ keywords:
 
 
 <p>Подробнее читайте в статье нашей базы знаний: <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/AdditionalFields.html" target="_blank">Дополнительные поля</a>. </p>
-<p>Предложения по доработкам в системе и сообщения об ошибках просим отправлять к нам в "чат с поддержкой" в веб-приложении или на почту <a href="mailto:support@hubex.ru" target="_blank" rel="noopener"> support@hubex.ru </a>.</p>
+<p>Предложения по доработкам в системе и сообщения об ошибках просим отправлять к нам в "чат с поддержкой" в веб-приложении или на почту <a href="mailto:help@hubex.ru" target="_blank" rel="noopener"> help@hubex.ru </a>.</p>
 
 </body>
 ___

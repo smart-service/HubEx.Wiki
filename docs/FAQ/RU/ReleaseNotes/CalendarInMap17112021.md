@@ -23,7 +23,7 @@ keywords:
 <p>Нажмите на кнопку <strong>Показать путь</strong>, на карте зелеными стрелками будет отображен путь между назначенными на специалиста <strong>Заявками</strong>. С помощью этой функции вы легко сможете оптимизировать перемещение своих сотрудников при планировании загрузки.</p>
 <div><img style="margin: 0 auto; display: block; max-width: 100%;" src="/attachments/images/FAQ/RELEASENOTES/CalendarMap.png" width="558" height="auto" /></div>
 
-<p>Предложения по доработкам в системе и сообщениям об ошибках просим отправлять к нам в "чат с поддержкой" в веб-приложении или на почту <a href="mailto:support@hubex.ru" target="_blank" rel="noopener"> support@hubex.ru </a>.</p>
+<p>Предложения по доработкам в системе и сообщениям об ошибках просим отправлять к нам в "чат с поддержкой" в веб-приложении или на почту <a href="mailto:help@hubex.ru" target="_blank" rel="noopener"> help@hubex.ru </a>.</p>
 
 </body>
 ___

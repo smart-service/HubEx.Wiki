@@ -23,8 +23,8 @@ keywords:  hubex, хабекс, хубекс, хабикс
 
 <p>В HubEx база знаний является дополнительно подключаемым виджетом компании-партнера HiHub.</p>
 <p>Узнать подробность и подключить базу знаний в HubEx можно по запросу нашу службу поддержки на почту <a
-        href="mailto:support@hubex.ru"
-        target="_blank" rel="noopener">support@hubex.ru</a>.
+        href="mailto:help@hubex.ru"
+        target="_blank" rel="noopener">help@hubex.ru</a>.
 </p>
 
 <p>После подключения виджета для вашего аккаунта в меню HubEx появится отдельный пункт <strong>База знаний</strong>.</p>

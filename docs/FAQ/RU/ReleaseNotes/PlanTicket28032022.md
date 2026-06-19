@@ -29,7 +29,7 @@ keywords:
 <p>Подробнее о создании плановых заявок и работе с календарем вы можете прочитать в статьях нашей базы знаний: <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/Calendar.html">Календарь заявок</a>, <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/PlannedTickets.html">Создание плановой заявки</a>.</p>
 
 
-<p>Предложения по доработкам в системе и сообщениям об ошибках просим отправлять к нам в "чат с поддержкой" в веб-приложении или на почту <a href="mailto:support@hubex.ru" target="_blank" rel="noopener"> support@hubex.ru </a>.</p>
+<p>Предложения по доработкам в системе и сообщениям об ошибках просим отправлять к нам в "чат с поддержкой" в веб-приложении или на почту <a href="mailto:help@hubex.ru" target="_blank" rel="noopener"> help@hubex.ru </a>.</p>
 
 </body>
 ___

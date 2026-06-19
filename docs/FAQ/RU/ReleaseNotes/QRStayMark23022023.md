@@ -35,7 +35,7 @@ keywords:
 <p>Подробнее читайте в статье нашей базы знаний: <a href="https://wiki.hubex.ru/docs/FAQ/RU/admin/StageType.html" target="_blank" rel="noopener">Стадии заявки</a>.</p>
 <div><img style="margin: 0 auto; display: block; max-width: 100%;" src="https://i.postimg.cc/1Xmz3dTt/IMG-8076.png" width="358" height="auto" /></div>
 
-<p>Предложения по доработкам в системе и сообщения об ошибках просим отправлять к нам в "чат с поддержкой" в веб-приложении или на почту <a href="mailto:support@hubex.ru" target="_blank" rel="noopener"> support@hubex.ru </a>.</p>
+<p>Предложения по доработкам в системе и сообщения об ошибках просим отправлять к нам в "чат с поддержкой" в веб-приложении или на почту <a href="mailto:help@hubex.ru" target="_blank" rel="noopener"> help@hubex.ru </a>.</p>
 
 </body>
 ___

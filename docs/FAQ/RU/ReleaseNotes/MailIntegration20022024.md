@@ -25,7 +25,7 @@ keywords:
 <p>А в HubEx такие письма будут приходить, как <strong>Заявки</strong>, которые при необходимости можно редактировать.</p>
 <div><img style="margin: 0 auto; display: block; max-width: 100%;" src="https://wiki.hubex.ru/attachments/images/FAQ/RELEASENOTES/TicketMail/Integration21.jpg" width="800" height="auto" /></div>
 
-<p>Предложения по доработкам в системе и сообщения об ошибках просим отправлять к нам в "чат с поддержкой" в веб-приложении или на почту <a href="mailto:support@hubex.ru" target="_blank" rel="noopener"> support@hubex.ru </a>.</p>
+<p>Предложения по доработкам в системе и сообщения об ошибках просим отправлять к нам в "чат с поддержкой" в веб-приложении или на почту <a href="mailto:help@hubex.ru" target="_blank" rel="noopener"> help@hubex.ru </a>.</p>
 
 
 

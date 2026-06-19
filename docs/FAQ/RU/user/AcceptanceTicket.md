@@ -103,8 +103,8 @@ keywords: принять заявку из общего списка, назна
 </div>
 <p>Если у вас не получилось добиться нужного
     результата с помощью представленных настроек, обратитесь в Чат с
-    поддержкой в web-приложении или на почту <a href="mailto:support@hubex.ru" target="_blank" rel="noopener">
-        support@hubex.ru</a>.</p>
+    поддержкой в web-приложении или на почту <a href="mailto:help@hubex.ru" target="_blank" rel="noopener">
+        help@hubex.ru</a>.</p>
 </body>
 
 

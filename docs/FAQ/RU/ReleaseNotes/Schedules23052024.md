@@ -37,7 +37,7 @@ keywords:
 <p>Чтобы использовать автоназначение на <strong>Заявки</strong> по графику и отслеживать рабочее время исполнителей по календарю, необходимо указать созданный график в карточке <strong>Сотрудника</strong>.</p>
 <div><img style="margin: 0 auto; display: block; max-width: 100%;" src="https://wiki.hubex.ru/attachments/images/FAQ/RELEASENOTES/Schedules/Schedule20.png" width="800" height="auto" /></div>
 
-<p>Предложения по доработкам в системе и сообщения об ошибках просим отправлять к нам в "чат с поддержкой" в веб-приложении или на почту <a href="mailto:support@hubex.ru" target="_blank" rel="noopener"> support@hubex.ru </a>.</p>
+<p>Предложения по доработкам в системе и сообщения об ошибках просим отправлять к нам в "чат с поддержкой" в веб-приложении или на почту <a href="mailto:help@hubex.ru" target="_blank" rel="noopener"> help@hubex.ru </a>.</p>
 
 <p>Подробнее читайте в статье нашей базы знаний: <a href="https://wiki.hubex.ru/docs/FAQ/RU/admin/WorkSchedule.html" target="_blank">Настройка графиков работы</a>.</p>
 

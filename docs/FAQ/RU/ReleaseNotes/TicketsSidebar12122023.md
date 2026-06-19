@@ -35,7 +35,7 @@ keywords:
 <p>Здесь вы можете изменять также любые поля и назначать исполнителей в том числе.</p>
 <div><img style="margin: 0 auto; display: block; max-width: 100%;" src="https://wiki.hubex.ru/attachments/images/FAQ/RELEASENOTES/TicketsSidebar/Map2.jpg" width="800" height="auto" /></div>
 <p>Таким образом боковая панель <strong>Заявки</strong> - отличный инструмент для оперативного просмотра и редактирования данных.</p>
-<p>Предложения по доработкам в системе и сообщения об ошибках просим отправлять к нам в "чат с поддержкой" в веб-приложении или на почту <a href="mailto:support@hubex.ru" target="_blank" rel="noopener"> support@hubex.ru </a>.</p>
+<p>Предложения по доработкам в системе и сообщения об ошибках просим отправлять к нам в "чат с поддержкой" в веб-приложении или на почту <a href="mailto:help@hubex.ru" target="_blank" rel="noopener"> help@hubex.ru </a>.</p>
 
 
 

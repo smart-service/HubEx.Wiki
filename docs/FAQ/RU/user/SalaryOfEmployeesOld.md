@@ -168,8 +168,8 @@ description: Устаревшая статья
 
 <p>В HubEx также есть возможность разработки индивидуального отчета. Наша команда может создать отчет по расчету
     заработной платы по вашим требованиям. Напишите нам в <a href="https://t.me/hubex_bot">Telegram</a> или на почту <a
-            href="mailto:support@hubex.ru" target="_blank" rel="noopener">
-        support@hubex.ru</a> с запросом на разработку.</p>
+            href="mailto:help@hubex.ru" target="_blank" rel="noopener">
+        help@hubex.ru</a> с запросом на разработку.</p>
 </body>
 
 

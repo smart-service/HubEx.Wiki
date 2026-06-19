@@ -32,7 +32,7 @@ keywords:
 <p>Таким образом, благодаря новому обновлению, вы сможете быстрее и точнее находить нужные <strong>Заявки</strong>, поскольку фильтры будут настроены именно так, как удобно вам.&nbsp;</p>
 <p>Дополнительно о работе с фильтрами для&nbsp;<strong>Заявок</strong>&nbsp;читайте в статье нашей базы знаний:&nbsp;<a href="https://wiki.hubex.ru/docs/FAQ/RU/user/Filters.html" target="_blank" rel="noopener">Список заявок, поиск заявок с помощью фильтров</a>.</p>
 <p>Информацию по созданию и настройке Дополнительных полей читайте в статье: <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/AdditionalFields.html">Создание дополнительных полей для заявки.</a><br /><br
-<p>Предложения по доработкам в системе и сообщения об ошибках просим отправлять к нам в "чат с поддержкой" в веб-приложении или на почту&nbsp;<a href="mailto:support@hubex.ru" target="_blank" rel="noopener">support@hubex.ru&nbsp;</a>.</p>
+<p>Предложения по доработкам в системе и сообщения об ошибках просим отправлять к нам в "чат с поддержкой" в веб-приложении или на почту&nbsp;<a href="mailto:help@hubex.ru" target="_blank" rel="noopener">help@hubex.ru&nbsp;</a>.</p>
 </body>
 ___
 - [Перейти в меню](http://wiki.hubex.ru)

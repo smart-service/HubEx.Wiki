@@ -36,7 +36,7 @@ keywords:
 <div><img style="margin: 0 auto; display: block; max-width: 100%;" src="https://i.postimg.cc/jqPQfQsJ/Screenshot-10.png" width="700" height="auto" /></div>
 <p>Для удаления выбранного списка нажмите кнопку <strong>Удалить</strong> на панели редактирования.</p>
 <div><img style="margin: 0 auto; display: block; max-width: 100%;" src="https://i.postimg.cc/wTx2dRpy/Screenshot-12.png" width="700" height="auto" /></div>
-<p>Предложения по доработкам в системе и сообщения об ошибках просим отправлять к нам в "чат с поддержкой" в веб-приложении или на почту <a href="mailto:support@hubex.ru" target="_blank" rel="noopener"> support@hubex.ru </a>.</p>
+<p>Предложения по доработкам в системе и сообщения об ошибках просим отправлять к нам в "чат с поддержкой" в веб-приложении или на почту <a href="mailto:help@hubex.ru" target="_blank" rel="noopener"> help@hubex.ru </a>.</p>
 
 </body>
 ___

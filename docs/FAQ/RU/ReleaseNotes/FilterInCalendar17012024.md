@@ -29,7 +29,7 @@ keywords:
 <div><img style="margin: 0 auto; display: block; max-width: 100%;" src="https://wiki.hubex.ru/attachments/images/FAQ/RELEASENOTES/FilterInCalendar/CalendarFilterEmployee6.jpg" width="800" height="auto" /></div>
 <p>Таким образом новый функционал позволит диспетчерам, руководителям подразделения эффективнее работать с расписанием заявок: подбирать исполнителей по <strong>Видам работ</strong>, отслеживать загрузку сотрудников в разрезе <strong>Компаний</strong> и <strong>Участков</strong>, быстро и гибко принимать решения о назначении <strong>Заявок</strong> на сотрудников с определенными ролями в вашей компании.</p>
 <p>Подробнее читайте в статье нашей базы знаний: <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/Calendar.html" target="_blank">Календарь заявок</a>.</p>
-<p>Предложения по доработкам в системе и сообщения об ошибках просим отправлять к нам в "чат с поддержкой" в веб-приложении или на почту <a href="mailto:support@hubex.ru" target="_blank" rel="noopener"> support@hubex.ru </a>.</p>
+<p>Предложения по доработкам в системе и сообщения об ошибках просим отправлять к нам в "чат с поддержкой" в веб-приложении или на почту <a href="mailto:help@hubex.ru" target="_blank" rel="noopener"> help@hubex.ru </a>.</p>
 
 </body>
 ___

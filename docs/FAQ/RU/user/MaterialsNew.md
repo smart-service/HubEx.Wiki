@@ -112,7 +112,7 @@ description: (Новая)
         <p><strong>Обратите внимание!</strong> Созданные при импорте материалов склады станут доступны для выбора в карточках <strong>Сотрудников</strong>.</p>
     </li>
     <li><strong>Количество на складе</strong>: укажите фактическое количество материалов на складе;</li>
-    <li><strong>Единица измерения</strong>: выберите необходимую единицу измерения из списка. Если не нашли подходящей, напишите нам в Чат с поддержкой в web-версии HubEx или на почту <a href="mailto:support@hubex.ru" target="_blank" rel="noopener">support@hubex.ru</a>, мы добавим необходимые единицы измерения.</li>
+    <li><strong>Единица измерения</strong>: выберите необходимую единицу измерения из списка. Если не нашли подходящей, напишите нам в Чат с поддержкой в web-версии HubEx или на почту <a href="mailto:help@hubex.ru" target="_blank" rel="noopener">help@hubex.ru</a>, мы добавим необходимые единицы измерения.</li>
 </ul>
 
 <div> <img style="margin: 0 auto; display: block; max-width: 80%;" src="/attachments/images/FAQ/USER/Materials/Template.jpg"/> </div>
@@ -201,7 +201,7 @@ description: (Новая)
 
 <div> <img style="margin: 0 auto; display: block; max-width: 80%;" src="/attachments/images/FAQ/USER/Materials/Export.jpg"/> </div>
 
-<p><strong>Обратите внимание!</strong> Если вы хотите удалить материал со склада, то в поле Количество на складе необходимо поставить 0. Данные, которые когда-либо были загружены в систему возможно удалить только по запросу на почту <a href="mailto:support@hubex.ru" target="_blank" rel="noopener"> support@hubex.ru</a>.</p>
+<p><strong>Обратите внимание!</strong> Если вы хотите удалить материал со склада, то в поле Количество на складе необходимо поставить 0. Данные, которые когда-либо были загружены в систему возможно удалить только по запросу на почту <a href="mailto:help@hubex.ru" target="_blank" rel="noopener"> help@hubex.ru</a>.</p>
 
 <div> <img style="margin: 0 auto; display: block; max-width: 80%;" src="/attachments/images/FAQ/USER/Materials/TemplateCount.jpg"/> </div>
 

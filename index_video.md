@@ -102,7 +102,7 @@
     </div>
 </div>
 <!--Старый ролик <h5 id="firststeps">Начало работы в HubEx</h5>
-<p>Дополнительно ознакомьтесь со статьей <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/HubExStepByStep.html">Знакомство с системой HubEx</a>, в которой подробно описаны первые шаги для работы в HubEx.</p>
+<p>Дополнительно ознакомьтесь со статьей <a href="./docs/FAQ/RU/user/HubExStepByStep.md">Знакомство с системой HubEx</a>, в которой подробно описаны первые шаги для работы в HubEx.</p>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/BJU4AUR2nOU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>-->
 
 <h5 id="operator">Работа диспетчера в HubEx</h5>
@@ -143,14 +143,14 @@
 
 <h5 id="creatingobject">Как создавать объекты обслуживания в HubEx: способы создания объектов обслуживания, маркировка, паспорт объекта</h5>
 <p>Объекты необходимы для ведения учета <strong>Заявок</strong> в разрезе объектов и оборудования. В HubEx существует несколько способов создать <strong>Объекты</strong>. А также для каждого <strong>Объекта</strong> может быть создан QR и паспорт объекта для быстрой подачи <strong>Заявок</strong> как зарегистрированными, так и незарегистрированными в системе пользователями. </p>
-<p>Подробнее читайте в статье: <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/CreatingObjects.html">Создание обслуживаемого оборудования</a>.</p>
+<p>Подробнее читайте в статье: <a href="./docs/FAQ/RU/user/CreatingObjects.md">Создание обслуживаемого оборудования</a>.</p>
 
 <h5 id="creatinguser">Как создать пользователя в HubEx</h5>
 <p>В системе HubEx существует два типа пользователей: <strong>Сотрудники</strong> и <strong>Заказчики</strong>.</p>
-<p><strong>Сотрудники</strong> – пользователи, которые могут создавать и выполнять <strong>Заявки</strong>. Подробнее читайте в статье: <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/CreatingUser.html">Создание пользователя вашей системы</a>.</p>
+<p><strong>Сотрудники</strong> – пользователи, которые могут создавать и выполнять <strong>Заявки</strong>. Подробнее читайте в статье: <a href="./docs/FAQ/RU/user/CreatingUser.md">Создание пользователя вашей системы</a>.</p>
 
 <p><strong>Заказчик</strong> - пользователь, который может создавать <strong>Заявки</strong> в мобильном приложении заказчика.
-    <strong>Заказчик</strong> привязывается к компании-заказчику. Подробнее читайте в статье: <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/CreatingCustomer.html">Создание заказчика</a>.</p>
+    <strong>Заказчик</strong> привязывается к компании-заказчику. Подробнее читайте в статье: <a href="./docs/FAQ/RU/user/CreatingCustomer.md">Создание заказчика</a>.</p>
 
 <div class="video-player-container" data-player-id="player4">
     <div class="video-source-selector">
@@ -168,7 +168,7 @@
 </div>
 
 <h5 id="tickets">Способы подачи заявки в HubEx</h5>
-<p>В системе HubEx есть несколько способов подачи Заявок - через web и мобильные приложения, с помощью QR-кодов и планировщика работ. Подробнее читайте в статьях: <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/CreatingTicket.html">Создание заявки</a>, <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/CreatingTaskTemplates.html">Создание шаблона заявки, подача заявки по QR-коду</a>, <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/Calendar.html">Календарь заявок</a>.</p>
+<p>В системе HubEx есть несколько способов подачи Заявок - через web и мобильные приложения, с помощью QR-кодов и планировщика работ. Подробнее читайте в статьях: <a href="./docs/FAQ/RU/user/CreatingTicket.md">Создание заявки</a>, <a href="./docs/FAQ/RU/user/CreatingTaskTemplates.md">Создание шаблона заявки, подача заявки по QR-коду</a>, <a href="./docs/FAQ/RU/user/Calendar.md">Календарь заявок</a>.</p>
 
 <div class="video-player-container" data-player-id="player5">
     <div class="video-source-selector">
@@ -186,7 +186,7 @@
 </div>
 
 <h5 id="ticketsfields">Создание заявки в HubEx: расшифровка и заполнение всех полей на форме заявки</h5>
-<p>В данном видео подробно рассказываем о назначении и правильном заполнении всех полей на форме заявки. Подробнее читайте в статье: <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/CreatingTicket.html">Создание заявки</a>.</p>
+<p>В данном видео подробно рассказываем о назначении и правильном заполнении всех полей на форме заявки. Подробнее читайте в статье: <a href="./docs/FAQ/RU/user/CreatingTicket.md">Создание заявки</a>.</p>
 
 <div class="video-player-container" data-player-id="player6">
     <div class="video-source-selector">
@@ -222,7 +222,7 @@
 </div>
 
 <h5 id="customermob">Мобильное приложение заказчика. Как заказчику создавать и отслеживать заявки?</h5>
-<p>В обучающем видео показан функционал работы с мобильным приложением заказчика: работа с <Strong>Заявками</Strong>, подписание акта, общение в чатах. Дополнительно по теме ознакомьтесь со статьей: <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/CustomerApp.html">Работа с заявками в мобильном приложении HubEx заказчик: заявки, акты, оценка исполнителей</a>. </p>
+<p>В обучающем видео показан функционал работы с мобильным приложением заказчика: работа с <Strong>Заявками</Strong>, подписание акта, общение в чатах. Дополнительно по теме ознакомьтесь со статьей: <a href="./docs/FAQ/RU/user/CustomerApp.md">Работа с заявками в мобильном приложении HubEx заказчик: заявки, акты, оценка исполнителей</a>. </p>
 
 <div class="video-player-container" data-player-id="player8">
     <div class="video-source-selector">
@@ -240,7 +240,7 @@
 </div>
 
 <h5 id="plannedticket">Как создавать плановые заявки в системе</h5>
-<p>Дополнительно ознакомьтесь со статьей <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/PlannedTickets.html">Создание плановой заявки</a>. В статье подробно описан процесс создания и редактирования плановых заявок в web-приложении.</p>
+<p>Дополнительно ознакомьтесь со статьей <a href="./docs/FAQ/RU/user/PlannedTickets.md">Создание плановой заявки</a>. В статье подробно описан процесс создания и редактирования плановых заявок в web-приложении.</p>
 
 <div class="video-player-container" data-player-id="player9">
     <div class="video-source-selector">
@@ -260,7 +260,7 @@
 <h5 id="planshedule">Аналитика: График обслуживания объектов</h5>
 <p><strong>График обслуживания объектов</strong> - это форма представления <strong>Плановых заявок</strong>. Он
     используется при работе с
-    планово-предупредительными работами, техническим обслуживанием объектов. Дополнительно ознакомьтесь со статьей <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/PlannedTicketsSchedule.html">График обслуживания объектов</a>. </p>
+    планово-предупредительными работами, техническим обслуживанием объектов. Дополнительно ознакомьтесь со статьей <a href="./docs/FAQ/RU/user/PlannedTicketsSchedule.md">График обслуживания объектов</a>. </p>
 
 <div class="video-player-container" data-player-id="player10">
     <div class="video-source-selector">
@@ -278,7 +278,7 @@
 </div>
 
 <h5 id="addfields">Как создавать дополнительные поля в HubEx</h5>
-<p>Процессы создания дополнительных полей также подробно описаны в статьях <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/AdditionalFields.html">Создание дополнительных полей для заявки</a> и <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/AdditionalFieldsObject.htmll">Создание дополнительных полей для объекта</a>.</p>
+<p>Процессы создания дополнительных полей также подробно описано в статье <a href="./docs/FAQ/RU/user/AdditionalFields.md">Создание дополнительных полей</a>.</p>
 
 <div class="video-player-container" data-player-id="player11">
     <div class="video-source-selector">
@@ -297,7 +297,7 @@
 
 
 <h5 id="checklists">Чек-листы в HubEx: контролируйте качество работ, обучайте новых сотрудников</h5>
-<p>Подробно о создании и настройке чек-листов читайте в статье <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/Checklists.html">Чек-листы</a>.</p>
+<p>Подробно о создании и настройке чек-листов читайте в статье <a href="./docs/FAQ/RU/user/Checklists.md">Чек-листы</a>.</p>
 
 <div class="video-player-container" data-player-id="player12">
     <div class="video-source-selector">
@@ -315,7 +315,7 @@
 </div>
 
  <h5 id="objectimport">Как использовать импорт объектов для быстрого старта работы в Hubex</h5>
-<p>Подробно об импорте <strong>Объектов</strong>, <strong>Заявок</strong>, <strong>Пользователей</strong> и <strong>Компаний</strong> читайте в статье <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/Import.html">Импорт</a>.</p>
+<p>Подробно об импорте <strong>Объектов</strong>, <strong>Заявок</strong>, <strong>Пользователей</strong> и <strong>Компаний</strong> читайте в статье <a href="./docs/FAQ/RU/user/Import.md">Импорт</a>.</p>
 
 <div class="video-player-container" data-player-id="player13">
     <div class="video-source-selector">
@@ -334,7 +334,7 @@
 
 <h5 id="calendar">Расписание заявок: как назначать заявки с помощью календаря</h5>
 <p>Календарь помогает начальникам сервисной службы или диспетчерам эффективно планировать расписание исполнителей.
-    Исполнители в мобильном приложении в календаре могут просматривать свою дневную загрузку. Подробнее читайте в статье <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/Calendar.htmll">Календарь заявок</a>.</p>
+    Исполнители в мобильном приложении в календаре могут просматривать свою дневную загрузку. Подробнее читайте в статье <a href="./docs/FAQ/RU/user/Calendar.md">Календарь заявок</a>.</p>
 
 <div class="video-player-container" data-player-id="player14">
     <div class="video-source-selector">
@@ -352,7 +352,7 @@
 </div>
 
 <h5 id="ticketonmap">Распределение заявок в Hubex с помощью календаря и карты</h5>
-<p>Местонахождение <strong>Заявок</strong> и <strong>Сотрудников</strong> доступно в режиме карты. Вы можете видеть свободные часы ваших специалистов благодаря календарю и оперативно назначать <strong>Заявки</strong>. Подробнее читайте в статье <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/TicketsOnMap.htmll">Заявки и сотрудники на карте</a>.</p>
+<p>Местонахождение <strong>Заявок</strong> и <strong>Сотрудников</strong> доступно в режиме карты. Вы можете видеть свободные часы ваших специалистов благодаря календарю и оперативно назначать <strong>Заявки</strong>. Подробнее читайте в статье <a href="./docs/FAQ/RU/user/TicketsOnMap.md">Заявки и сотрудники на карте</a>.</p>
 
 <div class="video-player-container" data-player-id="player15">
     <div class="video-source-selector">
@@ -376,7 +376,7 @@
     вопросы - справляется ли сервисная служба с потоком поступающих <Strong>Заявок</Strong>? кто из исполнителей не выдерживает сроки
     закрытия <Strong>Заявок</Strong> и закрывает их с просрочкой? нужно ли нанять еще специалиста по определенному виду работ или
     справляется текущий, который работает по совместительству? </p>
-<p>Дополнительно ознакомьтесь со статьей <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/GeneralAnalytics.html">Общая аналитика</a>, где подробно описаны все визуализации и показатели.</p>
+<p>Дополнительно ознакомьтесь со статьей <a href="./docs/FAQ/RU/user/GeneralAnalytics.md">Общая аналитика</a>, где подробно описаны все визуализации и показатели.</p>
 
 <div class="video-player-container" data-player-id="player16">
     <div class="video-source-selector">
@@ -401,7 +401,7 @@
     ответить на
     вопросы: по каким объектам нужно сокращать время закрытия <Strong>Заявок</Strong>? Какие темпы роста количества
     обслуживаемого оборудования - нужно ли нанимать новых специалистов для обслуживания? </p>
-<p>Дополнительно ознакомьтесь со статьей <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/ObjectsAnalytics.html">Отчет по объектам обслуживания</a>, где подробно описаны все визуализации и показатели.</p>
+<p>Дополнительно ознакомьтесь со статьей <a href="./docs/FAQ/RU/user/ObjectsAnalytics.md">Отчет по объектам обслуживания</a>, где подробно описаны все визуализации и показатели.</p>
 
 <div class="video-player-container" data-player-id="player17">
     <div class="video-source-selector">
@@ -426,7 +426,7 @@
 <li>Отработанное время и переработки в динамике;</li>
 <li>% полезной загрузки и другие ключевые показатели эффективности.</li>
 </ul>
-<p>Дополнительно ознакомьтесь со статьей <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/EngineersAnalytics.html">Отчет по сотрудникам</a>, где подробно описаны все визуализации и показатели.</p>
+<p>Дополнительно ознакомьтесь со статьей <a href="./docs/FAQ/RU/user/EngineersAnalytics.md">Отчет по сотрудникам</a>, где подробно описаны все визуализации и показатели.</p>
 
 <div class="video-player-container" data-player-id="player18">
     <div class="video-source-selector">
@@ -450,7 +450,7 @@
     состоянию выполнения <Strong>Заявок</Strong>. Также данный отчет поможет клиентам оценить частоту создания <Strong>Заявок</Strong> в разрезе
     определенных <Strong>Объектов</Strong>, что позволит принять решение об изменении обслуживания, замене часто
     выходящего из строя оборудования и т.д. </p>
-<p>Дополнительно ознакомьтесь со статьей <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/ClientsAnalytics.html">Отчет для клиента</a>, где подробно описаны все визуализации и показатели.</p>
+<p>Дополнительно ознакомьтесь со статьей <a href="./docs/FAQ/RU/user/ClientsAnalytics.md">Отчет для клиента</a>, где подробно описаны все визуализации и показатели.</p>
 
 <div class="video-player-container" data-player-id="player19">
     <div class="video-source-selector">
@@ -469,7 +469,7 @@
 
 
 <h5 id="processefficiency">Аналитика:  Анализ эффективности процессов</h5>
-<p>Отчет <Strong>Анализ эффективности процессов</Strong> в HubEx позволяет найти проблемные места в бизнес-процессах сервисной организации, а также позволяет оценить эффективность внесенных в процессы изменений после обнаружения проблем. Подробнее читайте в статье <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/ProcessEfficiency.html">Анализ эффективности процессов</a>.</p>
+<p>Отчет <Strong>Анализ эффективности процессов</Strong> в HubEx позволяет найти проблемные места в бизнес-процессах сервисной организации, а также позволяет оценить эффективность внесенных в процессы изменений после обнаружения проблем. Подробнее читайте в статье <a href="./docs/FAQ/RU/user/ProcessEfficiency.md">Анализ эффективности процессов</a>.</p>
 
 <div class="video-player-container" data-player-id="player20">
     <div class="video-source-selector">
@@ -502,7 +502,7 @@
 </div>
 
 <h5 id="notification">Как настроить push-уведомление на телефон мобильного инженера</h5>
-<p>Отправка уведомлений на мобильный телефон позволяет держать в курсе происходящих событий - поступления новых <Strong>Заявок</Strong>, переходов по стадиям, смены исполнителя. Вы можете гибко настраивать условия отправки оповещений, получателей, а также вносить свой текст для уведомления. Подробнее читайте в статье <a href="https://wiki.hubex.ru/docs/FAQ/RU/admin/Notifications.html">Настройка оповещений</a>.</p>
+<p>Отправка уведомлений на мобильный телефон позволяет держать в курсе происходящих событий - поступления новых <Strong>Заявок</Strong>, переходов по стадиям, смены исполнителя. Вы можете гибко настраивать условия отправки оповещений, получателей, а также вносить свой текст для уведомления. Подробнее читайте в статье <a href="./docs/FAQ/RU/admin/Notifications.md">Настройка оповещений</a>.</p>
 
 <div class="video-player-container" data-player-id="player22">
     <div class="video-source-selector">
@@ -520,7 +520,7 @@
 </div>
  
 <h5 id="contract">Как создать договор</h5>
-<p>Договор необходим для фиксации взаимоотношений с клиентом. С его помощью можно отслеживать сроки действия и классифицировать Заявки. Подробнее читайте в статье <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/CreatingCompany.html#contract">Создание обслуживаемых компаний: Договор с клиентом</a>.</p>
+<p>Договор необходим для фиксации взаимоотношений с клиентом. С его помощью можно отслеживать сроки действия и классифицировать Заявки. Подробнее читайте в статье <a href="./docs/FAQ/RU/user/CreatingCompany.md#contract">Создание обслуживаемых компаний: Договор с клиентом</a>.</p>
 
 <div class="video-player-container" data-player-id="player23">
     <div class="video-source-selector">
@@ -538,7 +538,7 @@
 </div>
 
 <h5 id="qrcode">Как подать заявку по QR-коду</h5>
-<p>QR-код можно создать для любого объекта или оборудования в HubEx. При помощи QR-кодов можно оперативно создавать Заявки по определенному оборудованию. Подробнее читайте в статье <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/CreatingTaskTemplates">Создание шаблона заявки, подача заявки по QR-коду</a>.</p>
+<p>QR-код можно создать для любого объекта или оборудования в HubEx. При помощи QR-кодов можно оперативно создавать Заявки по определенному оборудованию. Подробнее читайте в статье <a href="./docs/FAQ/RU/user/CreatingTaskTemplates.md">Создание шаблона заявки, подача заявки по QR-коду</a>.</p>
 
 <div class="video-player-container" data-player-id="player24">
     <div class="video-source-selector">
@@ -557,7 +557,7 @@
 
 
 <h5 id="attachingfiles">Как заполнить выполненные работы и оценить показатели KPI</h5>
-<p>Заполнение выполненных работ позволяет формировать Акты выполненных работ, Сервисные акты для заказчиков. Подробнее читайте в статьях <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/AttachingFiles.html">Прикрепление выполненных работ в web и мобильном приложении</a>, <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/ActOFAcceptance.html">Акт выполненных работ</a>.</p>
+<p>Заполнение выполненных работ позволяет формировать Акты выполненных работ, Сервисные акты для заказчиков. Подробнее читайте в статьях <a href="./docs/FAQ/RU/user/AttachingFiles.md">Прикрепление выполненных работ в web и мобильном приложении</a>, <a href="./docs/FAQ/RU/user/ActOFAcceptance.md">Акт выполненных работ</a>.</p>
 
 <div class="video-player-container" data-player-id="player25">
     <div class="video-source-selector">
@@ -594,7 +594,7 @@
 
 
 <h5 id="rulesofchoice">Как работает автоназначение исполнителей на заявки</h5>
-<p>Правила автоназначения исполнителя используются для автоматического подбора исполнителей на Заявки. Правила автоназначения позволяют настроить параметры для подбора подходящих Сотрудников (исполнителей). Использование системы автоназначения на Заявки значительно экономит время диспетчеров при ручном выборе исполнителей, а также позволяет настроить автоматический переход Заявки на ответственных менеджеров и т.д. Подробнее читайте в статьях <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/RulesOfChoice.html">Правила автоназначения исполнителя</a>, <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/RulesOfChoiceGEO.html">Автоназначение на ближайшего исполнителя</a>.</p>
+<p>Правила автоназначения исполнителя используются для автоматического подбора исполнителей на Заявки. Правила автоназначения позволяют настроить параметры для подбора подходящих Сотрудников (исполнителей). Использование системы автоназначения на Заявки значительно экономит время диспетчеров при ручном выборе исполнителей, а также позволяет настроить автоматический переход Заявки на ответственных менеджеров и т.д. Подробнее читайте в статьях <a href="./docs/FAQ/RU/admin/RulesOfChoice.md">Правила автоназначения исполнителя</a>, <a href="./docs/FAQ/RU/user/RulesOfChoiceGEO.md">Автоназначение на ближайшего исполнителя</a>.</p>
 
 <div class="video-player-container" data-player-id="player27">
     <div class="video-source-selector">
@@ -612,7 +612,7 @@
 </div>
 
 <h5 id="geotracking">Как работает геотрекинг в HubEx</h5>
-<p>История перемещений (или геотрекинг) отображает перемещения каждого выездного сотрудника, у которого включена функция использования геопозиции. С помощью геотрекинга можно оценить эффективность работы мобильных исполнителей: время в пути, на заявке, остановки, простои. Подробнее читайте в статье <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/Geotracking.html">История перемещений</a>.</p>
+<p>История перемещений (или геотрекинг) отображает перемещения каждого выездного сотрудника, у которого включена функция использования геопозиции. С помощью геотрекинга можно оценить эффективность работы мобильных исполнителей: время в пути, на заявке, остановки, простои. Подробнее читайте в статье <a href="./docs/FAQ/RU/user/Geotracking.md">История перемещений</a>.</p>
 
 <div class="video-player-container" data-player-id="player36">
     <div class="video-source-selector">
@@ -632,7 +632,7 @@
 <h5 id="lifecycle">Настройка жизненного цикла для заявок в HubEx</h5>
 <p><strong>Жизненный цикл заявки</strong> - это совокупность стадий, по которым проходит <Strong>Заявка</Strong>, и описание
     взаимодействия между
-    стадиями. В обучающем видеоролике пошагово рассказываем, как создать стадии, статусы и настроить жизненный цикл. Подробнее читайте в статье <a href="https://wiki.hubex.ru/docs/FAQ/RU/admin/TicketLifeCycle.html">Жизненный цикл заявки</a>.</p>
+    стадиями. В обучающем видеоролике пошагово рассказываем, как создать стадии, статусы и настроить жизненный цикл. Подробнее читайте в статье <a href="./docs/FAQ/RU/admin/TicketLifeCycle.md">Жизненный цикл заявки</a>.</p>
 
 <div class="video-player-container" data-player-id="player28">
     <div class="video-source-selector">
@@ -652,7 +652,7 @@
 
 <h5 id="QRcontrol">Контроль присутствия сотрудника на объекте</h5>
 <p>При работе с <strong>Заявкой</strong> ваш специалист сможет подтвердить свое нахождение на объекте в мобильном
-    приложении <strong>HubEx исполнитель</strong> с помощью QR-кодов. Подробнее читайте в статье <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/CreatingTaskTemplates.html">Создание шаблона заявки, подача заявки по QR-коду</a>.</p>
+    приложении <strong>HubEx исполнитель</strong> с помощью QR-кодов. Подробнее читайте в статье <a href="./docs/FAQ/RU/user/CreatingTaskTemplates.md">Создание шаблона заявки, подача заявки по QR-коду</a>.</p>
 
 <div class="video-player-container" data-player-id="player29">
     <div class="video-source-selector">
@@ -670,7 +670,7 @@
 </div>
 
 <h5 id="sla">Настройка SLA: расчет крайнего срока закрытия заявки</h5>
-<p>С помощью SLA в HubEx можно настраивать гибкие правила автоматического расчета крайнего срока закрытия заявки. Подробнее читайте в статье <a href="https://wiki.hubex.ru/docs/FAQ/RU/admin/SLA.html">SLA - Правила расчета крайнего срока закрытия заявки</a>.</p>
+<p>С помощью SLA в HubEx можно настраивать гибкие правила автоматического расчета крайнего срока закрытия заявки. Подробнее читайте в статье <a href="./docs/FAQ/RU/admin/SLA.md">SLA - Правила расчета крайнего срока закрытия заявки</a>.</p>
 
 <div class="video-player-container" data-player-id="player30">
     <div class="video-source-selector">
@@ -689,7 +689,7 @@
 
 
 <h5 id="telegram">Интеграция с Telegram</h5>
-<p>С помощью настройки интеграции с Telegram (Телеграм) можно настроить подачу <strong>Заявок</strong> в HubEx через Telegram-бота. Подробнее читайте в статье <a href="https://wiki.hubex.ru/docs/FAQ/RU/admin/TelegramIntegration.html">Интеграция с Telegram</a>.</p>
+<p>С помощью настройки интеграции с Telegram (Телеграм) можно настроить подачу <strong>Заявок</strong> в HubEx через Telegram-бота. Подробнее читайте в статье <a href="./docs/FAQ/RU/admin/TelegramIntegration.md">Интеграция с Telegram</a>.</p>
 
 <div class="video-player-container" data-player-id="player31">
     <div class="video-source-selector">
@@ -707,7 +707,7 @@
 </div>
 
 <h5 id="ticketmail">Как подавать заявки с электронной почты в HubEx?</h5>
-<p>С помощью интеграции можно настроить подачу <strong>Заявок</strong> в HubEx по электронной почте. При настройке двусторонней интеграции общение с заказчиком объединяется в рамках чата внутри <strong>Заявки</strong>. Подробнее читайте в статье <a href="https://wiki.hubex.ru/docs/FAQ/RU/admin/TicketMail.html">Интеграция по электронной почте, подача заявок по электронной почте</a>.</p>
+<p>С помощью интеграции можно настроить подачу <strong>Заявок</strong> в HubEx по электронной почте. При настройке двусторонней интеграции общение с заказчиком объединяется в рамках чата внутри <strong>Заявки</strong>. Подробнее читайте в статье <a href="./docs/FAQ/RU/admin/TicketMail.md">Интеграция по электронной почте, подача заявок по электронной почте</a>.</p>
 
 <div class="video-player-container" data-player-id="player32">
     <div class="video-source-selector">
@@ -726,7 +726,7 @@
 
 
 <h5 id="floorplan">Как подавать заявки с использованием планов помещений в HubEx?</h5>
-<p>Использование планов помещений позволяет сократить затраты времени на поиск и устранение неисправностей: при подаче <strong>Заявки</strong> можно указать точное местоположение проблемы на карте бизнес-центра. Подробнее читайте в статье <a href="https://wiki.hubex.ru/docs/FAQ/RU/admin/FloorPlan.html">Планы помещений</a>.</p>
+<p>Использование планов помещений позволяет сократить затраты времени на поиск и устранение неисправностей: при подаче <strong>Заявки</strong> можно указать точное местоположение проблемы на карте бизнес-центра. Подробнее читайте в статье <a href="./docs/FAQ/RU/user/FloorPlan.md">Планы помещений</a>.</p>
 
 <div class="video-player-container" data-player-id="player33">
     <div class="video-source-selector">
@@ -747,7 +747,7 @@
 <p>Диспетчеру сервисной службы или начальнику сервиса удобно видеть сотрудников, которые работают в данный момент
     времени, чтобы оперативно назначать на них <strong>Заявки</strong>.</p>
 <p>Сервисному специалисту также важно предупреждать работодателя о том, что он приступил к работе, чтобы получать
-    <strong>Заявки</strong>, либо закончил смену и не может больше брать <strong>Заявки</strong>.</p> Подробнее читайте в статье <a href="https://wiki.hubex.ru/docs/FAQ/RU/admin/OnDutty.html">Индивидуальный график работы: функционал На смене</a>.</p>
+    <strong>Заявки</strong>, либо закончил смену и не может больше брать <strong>Заявки</strong>. Подробнее читайте в статье <a href="./docs/FAQ/RU/user/OnDuty.md">Индивидуальный график работы: функционал На смене</a>.</p>
 
 <div class="video-player-container" data-player-id="player34">
     <div class="video-source-selector">
@@ -771,11 +771,11 @@
 <p>Для каждой группы таких пользователей в системе создаются <Strong>Роли</Strong>, которые ограничивают функциональные
     возможности
     работы с системой и видимость некоторых данных в справочниках. Подробнее читайте в статье: <a
-            href="https://wiki.hubex.ru/docs/FAQ/RU/admin/Roles.html">Настройка ролей</a>. Но
+            href="./docs/FAQ/RU/admin/Roles.md">Настройка ролей</a>. Но
     именно для <Strong>Заявки</Strong> существует тонкая настройка видимости и редактирования полей. Например, вы можете
     запретить
     мобильному сотруднику
-    изменять исполнителя в <Strong>Заявке</Strong> на стадии <Strong>Назначена</Strong>. Подробнее читайте в статье <a href="https://wiki.hubex.ru/docs/FAQ/RU/admin/ElementsOfInterface.html">Поля на форме заявки: настройка доступа к полям заявки</a>.</p>
+    изменять исполнителя в <Strong>Заявке</Strong> на стадии <Strong>Назначена</Strong>. Подробнее читайте в статье <a href="./docs/FAQ/RU/admin/ElementsOfInterface.md">Поля на форме заявки: настройка доступа к полям заявки</a>.</p>
 
 <div class="video-player-container" data-player-id="player35">
     <div class="video-source-selector">
@@ -794,7 +794,7 @@
 
 <!--
  <h5 id="excelimport">Импорт данных</h5>
-<p>Дополнительно ознакомьтесь со статьями <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/Export.html">Экспорт</a> и <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/Import.html">Импорт</a>.</p>
+<p>Дополнительно ознакомьтесь со статьями <a href="./docs/FAQ/RU/user/Export.md">Экспорт</a> и <a href="./docs/FAQ/RU/user/Import.md">Импорт</a>.</p>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/PO71TKcqGBw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>-->
 
 

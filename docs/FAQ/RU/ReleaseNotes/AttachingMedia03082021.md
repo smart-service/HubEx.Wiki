@@ -15,14 +15,14 @@ keywords:
 <p>Как это работает?</p>
 <p>В мобильном приложении откройте необходимую <strong>Заявку</strong> и перейдите к сообщениям. Нажмите на значок скрепки и выберите один из вариантов: <strong>Сделать снимок</strong>, <strong>Сделать видео</strong> или <strong>Открыть галерею</strong>.&nbsp;</p>
 <p>Обратите внимание! Прикрепить можно до 10 файлов в одном сообщении.</p>
-<div><img style="margin: 0 auto; display: block; max-width: 100%;" src="https://content.screencast.com/users/echinaek.val/folders/Capture/media/7ea64f3b-637c-44ee-aa9e-d8b584ee6f34/LWR_Recording.png" width="260" height="450" /></div>
+<div><img style="margin: 0 auto; display: block; max-width: 100%;" src="/attachments/images/FAQ/RELEASENOTES/AttachingMedia03082021/1.png" width="260" height="450" /></div>
 <p>После прикрепления фото или видео вы можете дополнить сообщение текстом и нажать кнопку <strong>Отправить</strong>.</p>
-<div><img style="margin: 0 auto; display: block; max-width: 100%;" src="https://content.screencast.com/users/echinaek.val/folders/Capture/media/7465f47d-a419-41a4-a49d-c80ea6de2bc9/LWR_Recording.png" width="260" height="450" /></div>
+<div><img style="margin: 0 auto; display: block; max-width: 100%;" src="/attachments/images/FAQ/RELEASENOTES/AttachingMedia03082021/2.png" width="260" height="450" /></div>
 <p>В web-приложении в разделе <strong>Сообщения</strong> в <strong>Заявке</strong> ваши коллеги, добавленные в чат, смогут увидеть прикрепленные файлы.</p>
 <p>В чатах web-версии также доступна возможность прикрепления фото и видео файлов (нужно также нажать на значок скрепки).</p>
-<div><img style="margin: 0 auto; display: block; max-width: 100%;" src="https://content.screencast.com/users/echinaek.val/folders/Capture/media/b4d68e9c-08e9-41ce-8741-6d9eac8781ab/LWR_Recording.png" width="700" height="auto" /></div>
+<div><img style="margin: 0 auto; display: block; max-width: 100%;" src="/attachments/images/FAQ/RELEASENOTES/AttachingMedia03082021/3.png" width="700" height="auto" /></div>
 
-<p>Подробнее о сообщениях и чатах читайте в статье базы знаний: <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/Messages.html">Сообщения по заявке</a>.</p>
+<p>Подробнее о сообщениях и чатах читайте в статье базы знаний: <a href="../user/Messages.md">Сообщения по заявке</a>.</p>
 <p>Предложения по доработкам в системе и сообщениям об ошибках просим отправлять к нам в "чат с поддержкой" в веб-приложении или на почту <a href="mailto:help@hubex.ru" target="_blank" rel="noopener"> help@hubex.ru </a>.</p>
 
 

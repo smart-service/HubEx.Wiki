@@ -112,7 +112,7 @@ keywords: дочерние заявки, дочерняя заявка, роди
          src="/attachments/images/FAQ/USER/ChildTicket/TableTickets2.jpg"/>
 </div></p>
 
-<p>Добавленные столбцы можно будет перемещать по таблице. Подробнее читайте в статье: <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/Filters.html">Список заявок, поиск заявок с помощью фильтров</a>.</p>
+<p>Добавленные столбцы можно будет перемещать по таблице. Подробнее читайте в статье: <a href="./Filters.md">Список заявок, поиск заявок с помощью фильтров</a>.</p>
 <p><div>
     <img style="margin: 0 auto; display: block; max-width: 95%;"
          src="/attachments/images/FAQ/USER/ChildTicket/TableTickets3.jpg"/>

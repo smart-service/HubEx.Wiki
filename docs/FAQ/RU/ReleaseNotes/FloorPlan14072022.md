@@ -27,7 +27,7 @@ keywords:
 <div><img style="margin: 0 auto; display: block; max-width: 100%;" src="/attachments/images/FAQ/RELEASENOTES/FloorPlan14072022/BcW8sPJ_Mob3.png" width="278" height="auto" /></div>
 
 
-<p>Подробнее читайте в статье базы знаний: <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/FloorPlan.html">Планы помещений</a>.</p>
+<p>Подробнее читайте в статье базы знаний: <a href="../user/FloorPlan.md">Планы помещений</a>.</p>
 
 <p>Предложения по доработкам в системе и сообщениям об ошибках просим отправлять к нам в "чат с поддержкой" в веб-приложении или на почту <a href="mailto:help@hubex.ru" target="_blank" rel="noopener"> help@hubex.ru </a>.</p>
 

@@ -98,7 +98,7 @@ keywords:  hubex, хабекс, хубекс, хабикс
     Типов заявок и разных Критичностей).</p>
 
 <p>Для настройки интеграции с Telegram перейдите в <a
-        href="https://wiki.hubex.ru/docs/FAQ/RU/admin/HowToEnterTheAdmin.html">консоль администратора</a> в меню
+        href="./HowToEnterTheAdmin.md">консоль администратора</a> в меню
     <strong>Интеграция -
         Приложения
         - Telegram</strong> и нажмите кнопку <strong>Создать связку Telegram</strong>.

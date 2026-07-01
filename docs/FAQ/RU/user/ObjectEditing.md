@@ -24,7 +24,7 @@ keywords: редактировать объект, данные оборудов
         <ul>
             <li>После сканирования QR-кода при подаче <strong>Заявки</strong> открывается <strong>Паспорт объекта</strong>. Подробнее читайте в статье:
                 <a
-                        href="https://wiki.hubex.ru/docs/FAQ/RU/user/CreatingTaskTemplates.html#passport">Создание
+                        href="./CreatingTaskTemplates.md#passport">Создание
                     шаблона
                     заявки, подача заявки по QR-коду: Паспорт объекта и подача заявки в мобильном приложении исполнителя и
                     заказчика</a>.
@@ -50,7 +50,7 @@ keywords: редактировать объект, данные оборудов
     <ul>
         <li>Перейдите в главное меню <strong>HubEx исполнитель</strong> (три полоски в левом
             верхнем углу) и откройте пункт <strong>Объекты|Оборудование</strong> и в списке откройте необходимый <strong>Объект</strong>.
-            Подробнее читайте в статье: <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/ObjectListInMob.html">Список
+            Подробнее читайте в статье: <a href="./ObjectListInMob.md">Список
                 объектов и оборудования, история обслуживания объектов</a>.
         </li>
 
@@ -92,9 +92,9 @@ keywords: редактировать объект, данные оборудов
 
 <h5 id="role">Настройка Ролей для редактирования Объектов</h5>
 <p>Для того, чтобы пользователю была доступна возможность редактирования данных<strong> Объекта</strong>, необходимо в <a
-        href="https://wiki.hubex.ru/docs/FAQ/RU/admin/HowToEnterTheAdmin.html">консоли администрирования</a> для <strong>Роли</strong>
+        href="../admin/HowToEnterTheAdmin.md">консоли администрирования</a> для <strong>Роли</strong>
     этого пользователя выдать доступ к изменению <strong>Объектов</strong>: в разделе <strong>Объекты</strong> найдите и включите пункт <strong>Изменение данных
-    объекта</strong>. Подробнее читайте в статье: <a href="https://wiki.hubex.ru/docs/FAQ/RU/admin/Roles.html">Настройка ролей</a>.</p>
+    объекта</strong>. Подробнее читайте в статье: <a href="../admin/Roles.md">Настройка ролей</a>.</p>
 <div>
     <img style="margin: 0 auto; display: block; max-width: 80%;"
          src="/attachments/images/FAQ/USER/ObjectEditing/Role.jpg"/>

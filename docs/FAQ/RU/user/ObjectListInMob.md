@@ -56,7 +56,7 @@ keywords: история обслуживания, данные оборудов
 <p>В паспорте объекта пользователь может изменить некоторые характеристики: <strong>Класс
     оборудования</strong>, <strong>Серийный номер</strong>, <strong>Описание</strong> и <strong>Файлы</strong>.
     Подробнее читайте в статье:
-    <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/ObjectEditing.html">Редактирование данных Объекта (Оборудования)</a>.
+    <a href="./ObjectEditing.md">Редактирование данных Объекта (Оборудования)</a>.
 </p>
 
 <div>
@@ -76,7 +76,7 @@ keywords: история обслуживания, данные оборудов
     заявку</strong>.</p>
 <p>В открывшейся форме необходимо заполнить поля: <strong>Тип заявки</strong>, <strong>Вид работ</strong>, <strong>Исполнитель</strong>,
     <strong>Описание заявки</strong> и нажать кнопку <strong>Создать заявку</strong>. Подробнее о назначении и заполнении формы читайте в статье: <a
-            href="https://wiki.hubex.ru/docs/FAQ/RU/user/CreatingTicket.html">Создание заявки</a>.</p>
+            href="./CreatingTicket.md">Создание заявки</a>.</p>
 
 <div>
     <img style="margin: 0 auto; display: block; max-width: 70%;"

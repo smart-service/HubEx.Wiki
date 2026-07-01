@@ -18,7 +18,7 @@
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/BJU4AUR2nOU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Также читайте [статью](http://wiki.hubex.ru/docs/FAQ/RU/user/HubExStepByStep.html), в которой подробно описаны первые шаги для работы с системой HubEx.
+Также читайте [статью](./HubExStepByStep.md), в которой подробно описаны первые шаги для работы с системой HubEx.
 
  <li><h5 id="excelimport">Как импортировать данные через Excel?</h5></li>
 

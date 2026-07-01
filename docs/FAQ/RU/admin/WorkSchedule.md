@@ -26,8 +26,8 @@ keywords: график работы, графики работы, расписа
     подходящего исполнителя по
     определенным параметрам: <strong>Графику работы</strong>, <strong>Виду работ</strong>, особым
     <strong>Навыкам</strong> и тд. Подробнее об этом читайте в статье:
-    <a href="https://wiki.hubex.ru/docs/FAQ/RU/admin/RulesOfChoice.html">Правила автоназначения исполнителя</a>, <a
-            href="https://wiki.hubex.ru/docs/FAQ/RU/user/RulesOfChoiceGEO.html">Автоназначение на ближайшего
+    <a href="./RulesOfChoice.md">Правила автоназначения исполнителя</a>, <a
+            href="../user/RulesOfChoiceGEO.md">Автоназначение на ближайшего
         исполнителя</a>.</p>
 <p>В HubEx по умолчанию создано несколько графиков работы, которые можно указывать в карточке
     <strong>Сотрудника</strong> в web-приложении (в меню <strong>Пользователи - Сотрудники</strong>).</p>

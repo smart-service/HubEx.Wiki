@@ -29,7 +29,7 @@ keywords:
 <p>В мобильном приложении <strong>HubEx исполнитель</strong> дополнительные поля будут доступны на вкладке (<strong>Шаг 2</strong>) <strong>Дополнительно</strong>. Переключаться между вкладками выполненной работы можно по кнопке внизу.</p>
 <div><img style="margin: 0 auto; display: block; max-width: 100%;" src="https://wiki.hubex.ru/attachments/images/FAQ/RELEASENOTES/AdditionalFieldsWorks/Mob.jpg" width="700" height="auto" /></div>
 
-<p>Подробнее читайте в статье базы знаний: <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/AdditionalFields.html">Создание дополнительных полей</a>.</p>
+<p>Подробнее читайте в статье базы знаний: <a href="../user/AdditionalFields.md">Создание дополнительных полей</a>.</p>
 
 <p>Предложения по доработкам в системе и сообщения об ошибках просим отправлять к нам в "чат с поддержкой" в веб-приложении или на почту <a href="mailto:help@hubex.ru" target="_blank" rel="noopener"> help@hubex.ru </a>.</p>
 

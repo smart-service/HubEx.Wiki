@@ -21,7 +21,7 @@ keywords:
 <p>Цвет <strong>Заявок</strong> в календаре соответствует цвету <strong>Критичности</strong>.</p>
 </li>
 
-<div><img style="margin: 0 auto; display: block; max-width: 100%;" src="https://239911.selcdn.ru/Public/_articles/release_13.04.2020/engineer_schedule_1.png" width="559" height="auto" /></div>
+<div><img style="margin: 0 auto; display: block; max-width: 100%;" src="/attachments/images/FAQ/RELEASENOTES/UserInTicket13042020/1.png" width="559" height="auto" /></div>
 
 <li>Назначить время выполнения <strong>Заявки</strong> можно:
 <ul>
@@ -29,17 +29,17 @@ keywords:
 <li>при назначении свободной <strong>Заявки</strong> на необходимое время  в календаре по кнопке <strong>+</strong> и растягивания <strong>Заявки</strong> во времени.</li>
 </ul>
 
-<div><img style="margin: 0 auto; display: block; max-width: 60%;" src="https://239911.selcdn.ru/Public/_articles/release_13.04.2020/engineer_schedule_2_1.png" width="559" height="auto" /></div>
+<div><img style="margin: 0 auto; display: block; max-width: 60%;" src="/attachments/images/FAQ/RELEASENOTES/UserInTicket13042020/2.png" width="559" height="auto" /></div>
 
 </li>
 
 <p>При выборе исполнителя по календарю можно также посмотреть, в какие дни у <strong>Сотрудника</strong> время занято <strong>Заявками</strong> (красный индикатор), а в какие он свободен.</p>
 
-<div><img style="margin: 0 auto; display: block; max-width: 120%;" src="https://239911.selcdn.ru/Public/_articles/release_13.04.2020/engineer_schedule_3.png" width="559" height="auto" /></div>
+<div><img style="margin: 0 auto; display: block; max-width: 120%;" src="/attachments/images/FAQ/RELEASENOTES/UserInTicket13042020/3.png" width="559" height="auto" /></div>
 
 </ol>
 
-<p>Подробнее читайте в статьях базы знаний: <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/CreatingTicket.html">Создание заявки</a>, <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/Schedule.html">График работы исполнителей</a>.</p>
+<p>Подробнее читайте в статьях базы знаний: <a href="../user/CreatingTicket.md">Создание заявки</a>, <a href="../user/Schedule.md">График работы исполнителей</a>.</p>
 
 <p>Предложения по доработкам в системе и сообщениям об ошибках просим отправлять к нам в "чат с поддержкой" в веб-приложении или на почту <a href="mailto:help@hubex.ru" target="_blank" rel="noopener"> help@hubex.ru </a>.</p>
 

@@ -17,7 +17,7 @@ keywords:
 <p>Как это работает?</p>
 <p>В web-версии HubEx перейдите в <strong>Заявке</strong> на вкладку <strong>Чек-листы</strong> и к пункту, который предусматривает загрузку файлов добавьте несколько фотографий.</p>
 <div><img style="margin: 0 auto; display: block; max-width: 100%;" src="/attachments/images/FAQ/RELEASENOTES/PhotoCheckList31082022/RcgHG6f_Screenshot-16.png" width="900" height="auto" /></div>
-<p>Подробнее о создании и настройке чек-листов читайте в статье нашей базы знаний: <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/Checklists.html" target="_blank">Чек-листы</a>.</p>
+<p>Подробнее о создании и настройке чек-листов читайте в статье нашей базы знаний: <a href="../user/Checklists.md" target="_blank">Чек-листы</a>.</p>
 <p>В мобильном приложении при заполнении чек-листа также можно приложить несколько файлов к одному пункту, чтобы более полно отразить выполнение пункта. Теперь не нужно создавать разные пункты чек-листа для прикрепления нескольких файлов.</p>
 <div><img style="margin: 0 auto; display: block; max-width: 100%;" src="/attachments/images/FAQ/RELEASENOTES/PhotoCheckList31082022/XbFGpg2_Microsoft-Teams-image-14.jpg" width="300" height="auto" /></div>
 <p>Предложения по доработкам в системе и сообщениям об ошибках просим отправлять к нам в "чат с поддержкой" в веб-приложении или на почту <a href="mailto:help@hubex.ru" target="_blank" rel="noopener"> help@hubex.ru </a>.</p>

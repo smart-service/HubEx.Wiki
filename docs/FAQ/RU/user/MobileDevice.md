@@ -56,9 +56,9 @@ keywords: мобильный телефон, мобильное устройст
 
 <p>Начинайте работу в приложениях со статей: </p>
 <ul>
-<li><a href="https://wiki.hubex.ru/docs/FAQ/RU/user/EnterToMob.html">Вход в мобильное приложение Заказчика и Сотрудника</a>;</li>
-<li><a href="https://wiki.hubex.ru/docs/FAQ/RU/user/GEOinMob.html">Геолокация в мобильном приложении исполнителя</a>;</li>
-<li><a href="https://wiki.hubex.ru/docs/FAQ/RU/user/CreatingTicket.html#mobticket">Создание заявки</a>.</li>
+<li><a href="./EnterToMob.md">Вход в мобильное приложение Заказчика и Сотрудника</a>;</li>
+<li><a href="./GEOinMob.md">Геолокация в мобильном приложении исполнителя</a>;</li>
+<li><a href="./CreatingTicket.md#mobticket">Создание заявки</a>.</li>
 
 </ul>
 <p>Другие полезные статьи по работе с HubEx читайте также в <a href=" https://wiki.hubex.ru/">базе знаний</a>.</p>

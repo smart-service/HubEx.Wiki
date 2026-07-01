@@ -92,7 +92,7 @@ keywords: сла, sla, правило расчета крайнего срока
     срок закрытия</strong> в <strong>Заявке</strong> был установлен вручную, он не будет изменен с помощью правила. Если в системе не настроено или
     не включено ни одного правила срок закрытия может быть установлен по параметрам, заданным в <strong>Типе заявки</strong> или <strong>Виде
         работ</strong>. Подробнее читайте в статьях: <a
-            href="https://wiki.hubex.ru/docs/FAQ/RU/admin/TicketType.html">Типы заявок</a>, <a href="https://wiki.hubex.ru/docs/FAQ/RU/admin/WorkType.html">Виды работ</a>.</p>
+            href="./TicketType.md">Типы заявок</a>, <a href="./WorkType.md">Виды работ</a>.</p>
 
 
 <p>Правила расчета крайнего срока закрытия находятся в консоли администратора в меню <strong>Настройки заявки - SLA: расчет
@@ -236,8 +236,8 @@ keywords: сла, sla, правило расчета крайнего срока
 ___
 ### Следующие шаги:
 - [Настройка оповещений](./Notifications.md)
-- [Создание дополнительных полей в объекте](https://wiki.hubex.ru/docs/FAQ/RU/user/AdditionalFieldsObject.html)
-- [Создание дополнительных полей в заявке](https://wiki.hubex.ru/docs/FAQ/RU/user/AdditionalFields.html)
+- [Создание дополнительных полей в объекте](../user/AdditionalFields.md)
+- [Создание дополнительных полей в заявке](../user/AdditionalFields.md)
 
 ____
 - [Перейти в меню](http://wiki.hubex.ru)

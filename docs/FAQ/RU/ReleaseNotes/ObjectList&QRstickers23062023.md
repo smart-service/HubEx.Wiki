@@ -22,13 +22,13 @@ keywords:
     <strong>Заявку</strong> по выбранному оборудованию.</p>
 <p>Чтобы открыть список объектов перейдите в главное меню <strong>HubEx исполнитель</strong> (три полоски в левом
     верхнем углу) и откройте пункт <strong>Объекты|Оборудование</strong>.</p>
-<div><img style="margin: 0 auto; display: block; max-width: 100%;" src="https://i.postimg.cc/Bvc1qmps/Objectin-Mob.jpg"
+<div><img style="margin: 0 auto; display: block; max-width: 100%;" src="/attachments/images/FAQ/RELEASENOTES/ObjectList&QRstickers23062023/1.jpg"
           width="650" height="auto"/></div>
 <p>Для пользователя откроется список доступных ему <strong>Объектов</strong>. Обратите внимание! Доступ к <strong>Объектам</strong>
     регулируется настройками <strong>Роли</strong> пользователя в консоли администрирования.</p>
 <p>По щелчку на <strong>Объект</strong> откроется паспорт объекта. В паспорте представлены основные характеристики
     <strong>Объекта</strong>, а также можно просмотреть историю обслуживания и подать новую заявку.&nbsp;</p>
-<div><img style="margin: 0 auto; display: block; max-width: 100%;" src="https://i.postimg.cc/43zFXRjd/Objectin-Mob2.jpg"
+<div><img style="margin: 0 auto; display: block; max-width: 100%;" src="/attachments/images/FAQ/RELEASENOTES/ObjectList&QRstickers23062023/2.jpg"
           width="650" height="auto"/></div>
 
 <h5>Заказ QR-стикеров в web-приложении</h5>
@@ -40,17 +40,17 @@ keywords:
 <p>Также с помощью QR-стикеров можно реализовать подтверждение пребывания исполнителя на объекте. Что позволит
     контролировать выезд сотрудника и выполнение работ.&nbsp;</p>
 <p>Подробнее читайте в статье нашей базы знаний: <a
-        href="https://wiki.hubex.ru/docs/FAQ/RU/user/CreatingTaskTemplates.html" target="_blank">Создание шаблона
+        href="../user/CreatingTaskTemplates.md" target="_blank">Создание шаблона
     заявки, подача заявки по QR-коду</a>.</p>
 <p>Как быстро заказасть QR-стикеры?</p>
 <p>Перейдите в меню webприложения <strong>Заявки - Маркировка</strong> и нажмите кнопку рядом с названием раздела.&nbsp;
 </p>
-<div><img style="margin: 0 auto; display: block; max-width: 100%;" src="https://i.postimg.cc/QtGX47Wz/Screenshot-28.png"
+<div><img style="margin: 0 auto; display: block; max-width: 100%;" src="/attachments/images/FAQ/RELEASENOTES/ObjectList&QRstickers23062023/3.png"
           width="900" height="auto"/></div>
 <p>В открывшемся диалоговом окне нажмите кнопку <strong>Заказать QR-стикеры</strong>. Ваш запрос автоматически будет
     отправлен в службу поддержки и в ближайшее время наши сотрудники свяжутся с вами для уточнения подробной информации.
 </p>
-<div><img style="margin: 0 auto; display: block; max-width: 100%;" src="https://i.postimg.cc/rsyzj4Bk/Screenshot-29.png"
+<div><img style="margin: 0 auto; display: block; max-width: 100%;" src="/attachments/images/FAQ/RELEASENOTES/ObjectList&QRstickers23062023/4.png"
           width="900" height="auto"/></div>
 
 

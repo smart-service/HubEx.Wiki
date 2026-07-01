@@ -91,9 +91,9 @@ keywords: мобильное приложение исполнителя, исп
 
 <p>Также доступ к геопозиции на мобильном телефоне необходим, чтобы <strong>Сотрудник</strong> корректно отображался на
     картах в web приложении. Подробнее читайте в статьях: <a
-            href="https://wiki.hubex.ru/docs/FAQ/RU/user/GeoPosition.html">Карта: текущая геопозиция сотрудников</a>, <a
-            href="https://wiki.hubex.ru/docs/FAQ/RU/user/TicketsOnMap.html">Заявки
-        и сотрудники на карте</a>, <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/Geotracking.html">История
+            href="./GeoPosition.md">Карта: текущая геопозиция сотрудников</a>, <a
+            href="./TicketsOnMap.md">Заявки
+        и сотрудники на карте</a>, <a href="./Geotracking.md">История
         перемещений</a>.</p>
 
 <h5 id="settings">Настройки разных моделей телефонов, влияющие на некорректную работу GPS</h5>

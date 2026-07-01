@@ -16,12 +16,12 @@ keywords:
 <p>Как это работает?</p>
 <p>С помощью фильтров или (и) в ручного выбора сформируйте группу объектов, для которой необходимо изменить параметры. Выбрать объекты вручную можно с помощью установки флажков слева от объектов.</p>
 <p>Можно установить один флажок в панели редактирования (над списком объектов), тогда выбраны будут все объекты на странице.</p>
-<p><div><img style="margin: 0 auto; display: block; max-width: 100%;" src="https://content.screencast.com/users/echinaek.val/folders/Capture/media/d6de0f37-f302-4a72-95f6-3017bdce2bd2/LWR_Recording.png" width="700" height="auto" /></div></p>
+<p><div><img style="margin: 0 auto; display: block; max-width: 100%;" src="/attachments/images/FAQ/RELEASENOTES/GroupAction24122020/1.png" width="700" height="auto" /></div></p>
 <p>Нажмите кнопку Редактировать над списком объектов. Откроется дополнительная форма для установки параметров редактирования.</p>
-<p><div><img style="margin: 0 auto; display: block; max-width: 100%;" src="https://content.screencast.com/users/echinaek.val/folders/Capture/media/d02849a8-64fb-4762-96a0-aaa2e111b12d/LWR_Recording.png" width="700" height="auto" /></div></p>
+<p><div><img style="margin: 0 auto; display: block; max-width: 100%;" src="/attachments/images/FAQ/RELEASENOTES/GroupAction24122020/2.png" width="700" height="auto" /></div></p>
 <p>В форме редактирования можно установить сразу несколько параметров. Для Вида работ, Участка доступны варианты добавления и удаления значений. После установки значений для выбранных параметров нажмите кнопку Применить.</p>
 
-<p>Подробнее читайте в статье базы знаний: <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/GroupActions.html">Массовые действия для списка объектов</a>.</p>
+<p>Подробнее читайте в статье базы знаний: <a href="../user/GroupActions.md">Массовые действия для списка объектов</a>.</p>
 
 <p>Предложения по доработкам в системе и сообщениям об ошибках просим отправлять к нам в "чат с поддержкой" в веб-приложении или на почту <a href="mailto:help@hubex.ru" target="_blank" rel="noopener"> help@hubex.ru </a>.</p>
 

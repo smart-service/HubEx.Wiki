@@ -27,8 +27,8 @@ keywords: отличие классов оборудования от участ
 <p>Аналогично используются участки и для <Strong>Типов заявки</Strong>. С помощью <Strong>Участков</Strong> можно настроить использование специфических
     <Strong>Типов заявок</Strong> для
     определенных пользователей системы (<Strong>Сотрудников</Strong> и <Strong>Заказчиков)</Strong>.</p>
-<p>Подробнее читайте в статьях: <a href="https://wiki.hubex.ru/docs/FAQ/RU/admin/ObjectClass.html">Классы
-    оборудования</a>, <a href="https://wiki.hubex.ru/docs/FAQ/RU/admin/Places.html">Настройка участков</a>.</p>
+<p>Подробнее читайте в статьях: <a href="./ObjectClass.md">Классы
+    оборудования</a>, <a href="./Places.md">Настройка участков</a>.</p>
 </body>
 
 ____

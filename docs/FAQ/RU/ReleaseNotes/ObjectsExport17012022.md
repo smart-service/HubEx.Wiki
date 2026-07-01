@@ -21,28 +21,28 @@ keywords:
 <p>Перейдите в меню <strong>Объекты|Оборудование - Объекты|Оборудование</strong> и нажмите кнопку <strong>Экспорт объектов и оборудования</strong>.</p>
 <p>Выберите пункт - <strong>Расширенный экспорт</strong>. В списке укажите, какие поля требуется выгружать для <strong>Объектов</strong>. После выбора необходимых полей нажмите кнопку <strong>Экспорт</strong>.</p>
 
-<div><img style="margin: 0 auto; display: block; max-width: 100%;" src="https://content.screencast.com/users/echinaek.val/folders/Capture/media/7eb2d6ec-cde4-4d65-b848-4dd140aed6f2/LWR_Recording.png" width="800" height="auto" /></div>
+<div><img style="margin: 0 auto; display: block; max-width: 100%;" src="/attachments/images/FAQ/RELEASENOTES/ObjectsExport17012022/1.png" width="800" height="auto" /></div>
 
 <h5>Быстрые фильтры для списка объектов</h5>
 <p>Наборы фильтров для списка <strong>Объектов</strong> теперь сохраняются на специальную панель быстрых фильтров.</p>
 <p>Таким образом, вы получаете моментальный доступ к сортировке списка <strong>Объектов</strong> по различным параметрам, например, <strong>Компании-владельцу</strong>, <strong>Виду работ</strong>, <strong>Участку</strong> и т.д.</p>
 <p>Перейдите в меню <strong>Объекты|Оборудование - Объекты|Оборудование</strong>. Для сохранения фильтрации в меню справа выберите необходимые параметры фильтрации. Например, если вам нужно работать со списком <strong>Объектов</strong> определенного заказчика - выберите нужное значение для параметра <strong>Компания-владелец</strong> и нажмите кнопку <strong>Сохранить</strong>.</p>
 
-<div><img style="margin: 0 auto; display: block; max-width: 100%;" src="https://content.screencast.com/users/echinaek.val/folders/Capture/media/8afbc8c2-aad2-48f0-97e8-19e854bfe9be/LWR_Recording.png" width="800" height="auto" /></div>
+<div><img style="margin: 0 auto; display: block; max-width: 100%;" src="/attachments/images/FAQ/RELEASENOTES/ObjectsExport17012022/2.png" width="800" height="auto" /></div>
 
 <p>Введите наименование для сохраняемого фильтра и нажмите кнопку <strong>Сохранить</strong>.</p>
 
-<div><img style="margin: 0 auto; display: block; max-width: 100%;" src="https://content.screencast.com/users/echinaek.val/folders/Capture/media/de83e1dd-11ed-42e2-8e4b-11fb8e7ea756/LWR_Recording.png" width="800" height="auto" /></div>
+<div><img style="margin: 0 auto; display: block; max-width: 100%;" src="/attachments/images/FAQ/RELEASENOTES/ObjectsExport17012022/3.png" width="800" height="auto" /></div>
 
 <p>Сохраненные фильтры будут отображаться над списком <strong>Объектов</strong> в панели быстрых фильтров.</p>
 
-<div><img style="margin: 0 auto; display: block; max-width: 100%;" src="https://content.screencast.com/users/echinaek.val/folders/Capture/media/82ceaaa8-0038-4179-9104-d0f2b6fe46a7/LWR_Recording.png" width="800" height="auto" /></div>
+<div><img style="margin: 0 auto; display: block; max-width: 100%;" src="/attachments/images/FAQ/RELEASENOTES/ObjectsExport17012022/4.png" width="800" height="auto" /></div>
 
 <p>Чтобы удалить быстрый фильтр, нажмите на кнопку <strong>Все быстрые фильтры</strong> и в списке удалите необходимый.</p>
 
-<div><img style="margin: 0 auto; display: block; max-width: 100%;" src="https://content.screencast.com/users/echinaek.val/folders/Capture/media/c4655f89-f261-4a4d-8d09-d47e12cfe269/LWR_Recording.png" width="800" height="auto" /></div>
+<div><img style="margin: 0 auto; display: block; max-width: 100%;" src="/attachments/images/FAQ/RELEASENOTES/ObjectsExport17012022/5.png" width="800" height="auto" /></div>
 
-<p>Подробнее читайте в статье базы знаний: <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/Export.html">Экспорт</a>.</p>
+<p>Подробнее читайте в статье базы знаний: <a href="../user/Export.md">Экспорт</a>.</p>
 
 <p>Предложения по доработкам в системе и сообщениям об ошибках просим отправлять к нам в "чат с поддержкой" в веб-приложении или на почту <a href="mailto:help@hubex.ru" target="_blank" rel="noopener"> help@hubex.ru </a>.</p>
 

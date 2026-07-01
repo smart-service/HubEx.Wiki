@@ -29,8 +29,8 @@ keywords: термины, определения, заказчик, исполн
                 заявки его необходимо применить, а также в настройках жизненного цикла при переходе на эту стадию
                 установить
                 флажок Выполнить автоматический переход и установить время перехода.</p>
-            <p>Подробнее читайте в статьях: <a href="https://wiki.hubex.ru/docs/FAQ/RU/admin/RulesOfChoice.html">Правила
-                автоназначения исполнителя</a>, <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/RulesOfChoiceGEO.html">Автоназначение
+            <p>Подробнее читайте в статьях: <a href="../admin/RulesOfChoice.md">Правила
+                автоназначения исполнителя</a>, <a href="./RulesOfChoiceGEO.md">Автоназначение
                 на ближайшего исполнителя</a>.</p>
 
         </td>
@@ -58,7 +58,7 @@ keywords: термины, определения, заказчик, исполн
                 на заявки. Система будет подбирать исполнителя по совпадению вида работ в карточке сотрудника и
                 выбранного
                 вида работ в заявке.</p>
-            <p>Подробнее читайте в статье: <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/RulesOfChoiceGEO.html">Автоназначение
+            <p>Подробнее читайте в статье: <a href="./RulesOfChoiceGEO.md">Автоназначение
                 на ближайшего исполнителя</a>.</p>
 
         </td>
@@ -71,11 +71,11 @@ keywords: термины, определения, заказчик, исполн
                 описание взаимодействия между ними. Прохождение по каждой из стадий должно в итоге давать результат.</p>
             <p>Жизненный цикл настраивается после создания <a href="#tickettype">типа заявки</a> и <a
                     href="ticketstage">стадий заявки</a>.</p>
-            <p>Подробнее читайте в статьях: <a href="https://wiki.hubex.ru/docs/FAQ/RU/admin/BusinessProcess.html">Базовый
+            <p>Подробнее читайте в статьях: <a href="../admin/BusinessProcess.md">Базовый
                 бизнес-процесс для заявки</a>, <a
-                    href="https://wiki.hubex.ru/docs/FAQ/RU/admin/TicketType.html">Типы заявок</a>,
-                <a href="https://wiki.hubex.ru/docs/FAQ/RU/admin/StageType.html">Стадии заявки</a>, <a
-                        href="https://wiki.hubex.ru/docs/FAQ/RU/admin/TicketLifeCycle.html">Жизненный
+                    href="../admin/TicketType.md">Типы заявок</a>,
+                <a href="../admin/StageType.md">Стадии заявки</a>, <a
+                        href="../admin/TicketLifeCycle.md">Жизненный
                     цикл заявки</a>.</p>
 
 
@@ -91,7 +91,7 @@ keywords: термины, определения, заказчик, исполн
             <p>С помощью настройки прав доступа для заказчика ограничивается доступ к функционалу системы. Например,
                 заказчик сможет видеть только свои объекты (оборудование), видеть заявки только по своей компании и
                 т.д.</p>
-            <p>Подробнее читайте в статьях: <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/CreatingCustomer.html">Создание
+            <p>Подробнее читайте в статьях: <a href="./CreatingCustomer.md">Создание
                 заказчика</a>.</p>
 
         </td>
@@ -104,7 +104,7 @@ keywords: термины, определения, заказчик, исполн
                 назначать на выполнение заявки.</p>
             <p>Исполнители, как и другие сотрудники вашей организации создаются в справочнике <strong>Пользователи –
                 Сотрудники</strong>.</p>
-            <p>Подробнее читайте в статье: <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/CreatingUser.html">Создание
+            <p>Подробнее читайте в статье: <a href="./CreatingUser.md">Создание
                 пользователя вашей системы</a>.</p>
 
         </td>
@@ -126,7 +126,7 @@ keywords: термины, определения, заказчик, исполн
             </ul>
             <p>С помощью компаний и настройки ролей в системе можно разграничить доступ пользователей. Например,
                 заказчики, создавая заявки, будут видеть только объекты своей компании.</p>
-            <p>Подробнее читайте в статье: <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/CreatingCompany.html">Создание
+            <p>Подробнее читайте в статье: <a href="./CreatingCompany.md">Создание
                 обслуживаемых компаний</a>.</p>
         </td>
     </tr>
@@ -145,7 +145,7 @@ keywords: термины, определения, заказчик, исполн
                 исполнителей на заявки.
             </p>
 
-            <p>Подробнее читайте в статье: <a href="https://wiki.hubex.ru/docs/FAQ/RU/admin/RulesOfChoice.html">Правила
+            <p>Подробнее читайте в статье: <a href="../admin/RulesOfChoice.md">Правила
                 автоназначения исполнителя</a>.</p>
         </td>
     </tr>
@@ -175,7 +175,7 @@ keywords: термины, определения, заказчик, исполн
                 родительским является объект с типом Объект, а дочерним - с типом Оборудование.</p>
             <p>Например, Объектом может быть Двигатель, а Оборудованием его более мелкая часть - Топливный насос, или
                 Объектом может быть Бизнес-центр, а Оборудованием - Кофемашина внутри центра.</p>
-            <p>Подробнее читайте в статье: <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/CreatingObjects.html">Создание
+            <p>Подробнее читайте в статье: <a href="./CreatingObjects.md">Создание
                 обслуживаемого оборудования</a>.</p>
         </td>
     </tr>
@@ -194,7 +194,7 @@ keywords: термины, определения, заказчик, исполн
             </p>
             <p>Сотрудники создаются и настраиваются в справочнике <strong>Пользователи – Сотрудники</strong>.
             </p>
-            <p>Подробнее читайте в статье: <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/CreatingUser.html">Создание
+            <p>Подробнее читайте в статье: <a href="./CreatingUser.md">Создание
                 пользователя вашей системы</a>.</p>
 
         </td>
@@ -218,7 +218,7 @@ keywords: термины, определения, заказчик, исполн
                     закрытия, система выберет наименьшее значение из установленного в типе заявке и виде работ.
                 </li>
             </ol>
-            <p>Подробнее читайте в статье: <a href="https://wiki.hubex.ru/docs/FAQ/RU/admin/SLA.html">SLA - правила
+            <p>Подробнее читайте в статье: <a href="../admin/SLA.md">SLA - правила
                 расчета крайнего срока закрытия заявки</a>.</p>
 
         </td>
@@ -254,11 +254,11 @@ keywords: термины, определения, заказчик, исполн
 
             <p>Для каждой стадии задается свой цвет, которым название стадии будет отображаться у заявок в общем
                 списке.</p>
-            <p>Подробнее читайте в статьях: <a href="https://wiki.hubex.ru/docs/FAQ/RU/admin/BusinessProcess.html">Базовый
+            <p>Подробнее читайте в статьях: <a href="../admin/BusinessProcess.md">Базовый
                 бизнес-процесс для заявки</a>, <a
-                    href="https://wiki.hubex.ru/docs/FAQ/RU/admin/TicketType.html">Типы заявок</a>,
-                <a href="https://wiki.hubex.ru/docs/FAQ/RU/admin/StageType.html">Стадии заявки</a>, <a
-                        href="https://wiki.hubex.ru/docs/FAQ/RU/admin/TicketLifeCycle.html">Жизненный
+                    href="../admin/TicketType.md">Типы заявок</a>,
+                <a href="../admin/StageType.md">Стадии заявки</a>, <a
+                        href="../admin/TicketLifeCycle.md">Жизненный
                     цикл заявки</a>.</p>
 
         </td>
@@ -304,11 +304,11 @@ keywords: термины, определения, заказчик, исполн
                     href="#lifecycle">жизненный
                 цикл</a>) заявки ("Новая" → "Назначена диспетчером" → "Принята исполнителем" → "Выполнена"), так и более
                 сложные.</p>
-            <p>Подробнее читайте в статьях: <a href="https://wiki.hubex.ru/docs/FAQ/RU/admin/BusinessProcess.html">Базовый
+            <p>Подробнее читайте в статьях: <a href="../admin/BusinessProcess.md">Базовый
                 бизнес-процесс для заявки</a>, <a
-                    href="https://wiki.hubex.ru/docs/FAQ/RU/admin/TicketType.html">Типы заявок</a>,
-                <a href="https://wiki.hubex.ru/docs/FAQ/RU/admin/StageType.html">Стадии заявки</a>, <a
-                        href="https://wiki.hubex.ru/docs/FAQ/RU/admin/TicketLifeCycle.html">Жизненный
+                    href="../admin/TicketType.md">Типы заявок</a>,
+                <a href="../admin/StageType.md">Стадии заявки</a>, <a
+                        href="../admin/TicketLifeCycle.md">Жизненный
                     цикл заявки</a>.</p>
         </td>
     </tr>
@@ -328,8 +328,8 @@ keywords: термины, определения, заказчик, исполн
 
 
 <p>Благодаря такой классификации можно формировать аналитические отчеты в разрезе <strong>Типов оборудования</strong> (<a
-        href="https://wiki.hubex.ru/docs/FAQ/RU/user/ObjectsAnalytics.html">Отчет
-    по объектам</a>, <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/ClientsAnalytics.html">Отчет для клиента</a>).</p>
+        href="./ObjectsAnalytics.md">Отчет
+    по объектам</a>, <a href="./ClientsAnalytics.md">Отчет для клиента</a>).</p>
 
 
 <p>При создании <strong>Типов оборудования</strong> обратите внимание на флажок <strong>Обязательное наличие
@@ -359,8 +359,8 @@ keywords: термины, определения, заказчик, исполн
                 Другой пример: <strong>Объектом</strong> может быть Двигатель, а <strong>Оборудованием</strong> его
                 более мелкая часть - Топливный насос.</p>
             <p>Создать свои и настроить существующие типы оборудования можно в консоли администратора.</p>
-            <p>Подробнее читайте в статьях: <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/CreatingObjects.html">Создание
-                обслуживаемого оборудования</a>, <a href="https://wiki.hubex.ru/docs/FAQ/RU/admin/ObjectsType.html">Типы оборудования</a>.</p>
+            <p>Подробнее читайте в статьях: <a href="./CreatingObjects.md">Создание
+                обслуживаемого оборудования</a>, <a href="../admin/ObjectsType.md">Типы оборудования</a>.</p>
         </td>
     </tr>
 
@@ -383,7 +383,7 @@ keywords: термины, определения, заказчик, исполн
                 "Электрооборудования".</p>
             <p>Для сотрудника, объекта, заказчика и типа заявки можно указать несколько участков.</p>
             <p>Участки создаются и настраиваются в консоли администратора.</p>
-            <p>Подробнее читайте в статье: <a href="https://wiki.hubex.ru/docs/FAQ/RU/admin/Places.html">Настройка
+            <p>Подробнее читайте в статье: <a href="../admin/Places.md">Настройка
                 участков</a>.</p>
 
         </td>
@@ -414,7 +414,7 @@ keywords: термины, определения, заказчик, исполн
                 стадию "Выполнена". Тогда исполнитель не сможет перевести заявку на стадию "Выполнена", пока не заполнит
                 пункты чек-листа в <strong>Заявке</strong>.</p>
             <p>Подробнее читайте в статье: <a
-                    href="https://wiki.hubex.ru/docs/FAQ/RU/user/Checklists.html">Чек-листы</a>.
+                    href="./Checklists.md">Чек-листы</a>.
             </p>
         </td>
     </tr>

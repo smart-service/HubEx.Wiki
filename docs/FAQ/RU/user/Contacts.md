@@ -37,7 +37,7 @@ keywords: контакты, контактные лица, телефон для
 <p>Чтобы указать контактные лица в карточке <strong>Компании</strong>, выполните следующие шаги:</p>
 <ul>
     <li>откройте необходимую <strong>Компанию</strong> в меню <strong>Компании</strong> (или начните <a
-            href="https://wiki.hubex.ru/docs/FAQ/RU/user/CreatingCompany.html">создавать новую</a>) и на
+            href="./CreatingCompany.md">создавать новую</a>) и на
         вкладке <strong>Компания</strong> нажмите кнопку <strong>+Добавить контактное лицо</strong>;
     </li>
 
@@ -99,7 +99,7 @@ keywords: контакты, контактные лица, телефон для
 <ul>
     <li>откройте необходимый <strong>Объект</strong> в меню <strong>Объекты|Оборудование - Объекты|Оборудование</strong>
         (или начните <a
-                href="https://wiki.hubex.ru/docs/FAQ/RU/user/CreatingObjects.html">создавать новый</a>);
+                href="./CreatingObjects.md">создавать новый</a>);
     </li>
     <li>перейдите на вкладку <strong>Контакты</strong>;</li>
 
@@ -175,7 +175,7 @@ keywords: контакты, контактные лица, телефон для
     запретить доступ. </p>
 
 <p>Для настроек просмотра и выбора контактов перейдите в <a
-        href="https://wiki.hubex.ru/docs/FAQ/RU/admin/HowToEnterTheAdmin.html">консоль администратора</a> в меню
+        href="../admin/HowToEnterTheAdmin.md">консоль администратора</a> в меню
     <strong>Администрирование - Роли</strong>. В
     разделе <strong>Пользователи и контакты -
         Справочники</strong> найдите два полномочия:</p>
@@ -199,7 +199,7 @@ keywords: контакты, контактные лица, телефон для
     <li><strong>Удаление контактов</strong>: включение полномочия позволит пользователю удалять контактные лица.</li>
 </ul>
 
-<p>Подробнее читайте в статье: <a href="https://wiki.hubex.ru/docs/FAQ/RU/admin/Roles.html">Настройка ролей</a>.</p>
+<p>Подробнее читайте в статье: <a href="../admin/Roles.md">Настройка ролей</a>.</p>
 
 <p><div>
     <img style="margin: 0 auto; display: block; max-width: 95%;"
@@ -212,7 +212,7 @@ keywords: контакты, контактные лица, телефон для
 <p>С формы <strong>Заявки</strong> можно скрыть видимость поля <strong>Контакты по заказчику и
     объектам</strong> для различных ролей пользователей. </p>
 <p>Для настроек отображения контактов в Заявке перейдите в <a
-        href="https://wiki.hubex.ru/docs/FAQ/RU/admin/HowToEnterTheAdmin.html">консоль администратора</a> в меню
+        href="../admin/HowToEnterTheAdmin.md">консоль администратора</a> в меню
     <strong>Настройки заявки - Поля на форме заявки</strong>.</p>
 <p>Укажите для каких ролей и стадий необходимо произвести настройку. В таблице найдите по слову "контакт" поля 
     <strong>Адрес эл. почты контактного лица</strong>, <strong>Контакты по объекту</strong>, <strong>Телефон контактного лица</strong>, <strong>ФИО контактного лица</strong> и установите необходимые настройки:</p>
@@ -232,7 +232,7 @@ keywords: контакты, контактные лица, телефон для
 </ul>
     
     <p> Подробнее читайте в статье: <a
-            href="https://wiki.hubex.ru/docs/FAQ/RU/admin/ElementsOfInterface.html">Поля на
+            href="../admin/ElementsOfInterface.md">Поля на
         форме заявки: настройка доступа к полям заявки</a>.</p>
 <div>
     <img style="margin: 0 auto; display: block; max-width: 95%;"

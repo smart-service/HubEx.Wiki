@@ -25,27 +25,27 @@ keywords:
 <p>Создать шаблоны ответов можно двумя способами:</p>
 <ol>
 <li>в меню <strong>Сообщения - Шаблоны ответов</strong> по кнопке <strong>Создать шаблон</strong>. Здесь можно создавать новые шаблоны и редактировать ранее созданные;
-<p><img style="margin: 0 auto; display: block; max-width: 100%;" src="https://i.postimg.cc/DwvPf8Rs/1.jpg" width="800" height="auto" /></p>
+<p><img style="margin: 0 auto; display: block; max-width: 100%;" src="/attachments/images/FAQ/RELEASENOTES/AnswerTemplate25072023/1.jpg" width="800" height="auto" /></p>
 </li>
 <li>в чате с командой или в чате с заказчиком внутри <strong>Заявки </strong>по кнопке <strong>Шаблоны ответов</strong>. Если вы не создавали еще ни одного шаблона, то по нажатию на кнопку <strong>Шаблоны ответов </strong>в чате вы увидите соответствующее информационное окно. Внутри окна будет доступна кнопка <strong>Создать</strong>.</li>
 </ol>
-<p><img style="margin: 0 auto; display: block; max-width: 100%;" src="https://i.postimg.cc/htj91mSr/Screenshot-4.png" width="800" height="auto" /></p>
+<p><img style="margin: 0 auto; display: block; max-width: 100%;" src="/attachments/images/FAQ/RELEASENOTES/AnswerTemplate25072023/2.png" width="800" height="auto" /></p>
 <p>При создании шаблона ответов обязательно нужно указать его название и заполнить текст сообщения. Также можно указать, для каких <strong>Типов заявок</strong> будет использоваться данный шаблон:</p>
 <ul>
 <li><strong>Для всех</strong>: означает, что такой шаблон можно выбрать в любой <strong>Заявке</strong>;</li>
 <li><strong>По списку</strong>: позволяет выбрать конкретные <strong>Типы заявок</strong>, для которых будет доступен выбор шаблона ответов.</li>
 </ul>
 <p>После заполнения всех полей необходимо нажать кнопку <strong>Создать шаблон</strong>.</p>
-<div><img style="margin: 0 auto; display: block; max-width: 100%;" src="https://i.postimg.cc/RC7CtGNK/Screenshot-5.png" width="800" height="auto" /></div>
+<div><img style="margin: 0 auto; display: block; max-width: 100%;" src="/attachments/images/FAQ/RELEASENOTES/AnswerTemplate25072023/3.png" width="800" height="auto" /></div>
 <p>Выбрать шаблон для отправки в чат можно также по кнопке <strong>Шаблоны ответов</strong> в любом из чатов (с командой или заказчиком).&nbsp;</p>
-<div><img style="margin: 0 auto; display: block; max-width: 100%;" src="https://i.postimg.cc/c4MQFVLm/Screenshot-9.png" width="800" height="auto" /></div>
+<div><img style="margin: 0 auto; display: block; max-width: 100%;" src="/attachments/images/FAQ/RELEASENOTES/AnswerTemplate25072023/4.png" width="800" height="auto" /></div>
 <p>Обратите внимание! Шаблон ответа будет вставлен в текстовое поле, вы можете его отредактировать и только затем отправить.</p>
-<div><img style="margin: 0 auto; display: block; max-width: 100%;" src="https://i.postimg.cc/XJbj1DJf/Screenshot-10.png" width="800" height="auto" /></div>
+<div><img style="margin: 0 auto; display: block; max-width: 100%;" src="/attachments/images/FAQ/RELEASENOTES/AnswerTemplate25072023/5.png" width="800" height="auto" /></div>
 
 <p>Таким образом новый функционал <strong>Шаблоны ответов</strong> в HubEx обеспечивает экономию времени, гибкость и повышение эффективности вашей поддержки и обслуживания заказчиков.</p>
 
 
-<p>Подробнее читайте в статье базы знаний: <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/AnswerTemplate.html">Шаблоны ответов</a>.</p>
+<p>Подробнее читайте в статье базы знаний: <a href="../user/AnswerTemplate.md">Шаблоны ответов</a>.</p>
 
 <p>Предложения по доработкам в системе и сообщения об ошибках просим отправлять к нам в "чат с поддержкой" в веб-приложении или на почту <a href="mailto:help@hubex.ru" target="_blank" rel="noopener"> help@hubex.ru </a>.</p>
 

@@ -23,7 +23,7 @@ keywords: принять заявку из общего списка, назна
     </li>
     <li>с помощью специальных правил выбора исполнителя: вы создаете правило, использую различные параметры подбора
         подходящих исполнителей. Система использует это правило и выбирает исполнителя на <strong>Заявку</strong> (без
-        участия пользователя). Подробнее читайте в статьях: <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/CreatingTicket.html">Создание заявки</a>, <a href="https://wiki.hubex.ru/docs/FAQ/RU/admin/RulesOfChoice.html">Правила выбора исполнителя</a>.
+        участия пользователя). Подробнее читайте в статьях: <a href="./CreatingTicket.md">Создание заявки</a>, <a href="../admin/RulesOfChoice.md">Правила выбора исполнителя</a>.
     </li>
 </ul>
 
@@ -69,9 +69,9 @@ keywords: принять заявку из общего списка, назна
     <strong>Роли</strong> вашего пользователя не хватает настроек доступа к определенным <strong>Объектам</strong> и <strong>Заявкам</strong>. Далее будут рассмотрены
     самые популярные настройки. </p>
 <p>Перейдите в <a
-        href="https://wiki.hubex.ru/docs/FAQ/RU/admin/HowToEnterTheAdmin.html">консоли администрирования</a> в меню
+        href="../admin/HowToEnterTheAdmin.md">консоли администрирования</a> в меню
     <strong>Администрирование - Роли</strong>. <strong>Роль</strong> назначается индивидуально в карточке <strong>Сотрудника</strong>.
-    Подробнее читайте в статьях: <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/CreatingUser.html">Создание пользователя вашей системы</a>, <a href="https://wiki.hubex.ru/docs/FAQ/RU/admin/Roles.html">Настройка ролей</a>.</p>
+    Подробнее читайте в статьях: <a href="./CreatingUser.md">Создание пользователя вашей системы</a>, <a href="../admin/Roles.md">Настройка ролей</a>.</p>
 <p>Выберите <strong>Роль</strong> для настройки (например, Сервисный специалист). В разделе <strong>Объекты</strong> включите флажок <strong>Объекты на участках пользователя</strong>. </p>
 
 <div>

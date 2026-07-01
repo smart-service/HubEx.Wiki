@@ -39,7 +39,7 @@ keywords:
 
 <p>Предложения по доработкам в системе и сообщения об ошибках просим отправлять к нам в "чат с поддержкой" в веб-приложении или на почту <a href="mailto:help@hubex.ru" target="_blank" rel="noopener"> help@hubex.ru </a>.</p>
 
-<p>Подробнее читайте в статье нашей базы знаний: <a href="https://wiki.hubex.ru/docs/FAQ/RU/admin/WorkSchedule.html" target="_blank">Настройка графиков работы</a>.</p>
+<p>Подробнее читайте в статье нашей базы знаний: <a href="../admin/WorkSchedule.md" target="_blank">Настройка графиков работы</a>.</p>
 
 </body>
 ___

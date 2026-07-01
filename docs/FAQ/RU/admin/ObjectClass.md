@@ -34,7 +34,7 @@ keywords: класс оборудования, класс объекта, кла
     оборудования</Strong> по кнопке <Strong>Создать класс оборудования</Strong>.
     Как войти в
     консоль подробно описано в статье <a
-            href="https://wiki.hubex.ru/docs/FAQ/RU/admin/HowToEnterTheAdmin.html">Вход в консоль администратора</a>.
+            href="./HowToEnterTheAdmin.md">Вход в консоль администратора</a>.
 </p>
 
 <div>

@@ -49,7 +49,7 @@ keywords:
 <div>
 <h4>Обязательная регистрация по QR-коду</h4>
 <p>Реализована возможность настройки <strong>обязательной регистрации</strong> заказчика при подаче заявки <strong>через QR-код</strong>. Для этого необходимо включить в настройке приглашения пункт <strong>"Обязательная саморегистрация по QR-коду"</strong>.</p>
-<p>Более детальную информацию можно посмотреть в нашей Wiki HubEx <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/CreatingTaskTemplates.html" target="_blank" rel="noopener">по ссылке</a>.</p>
+<p>Более детальную информацию можно посмотреть в нашей Wiki HubEx <a href="../user/CreatingTaskTemplates.md" target="_blank" rel="noopener">по ссылке</a>.</p>
 <p><img src="/attachments/images/FAQ/RELEASENOTES/ListOfChanges31032025/VWZKSyPx_image.png" alt="image" border="0" /></p>
 <hr /></div>
 <div>

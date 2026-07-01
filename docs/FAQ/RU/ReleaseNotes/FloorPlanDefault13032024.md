@@ -23,7 +23,7 @@ keywords:
 <p>Обратите внимание! При изменении местоположения на плане в самой <strong>Заявке</strong> расположение по умолчанию в карточке <strong>Объекта</strong> изменено НЕ будет.</p>
 <div><img style="margin: 0 auto; display: block; max-width: 100%;" src="https://wiki.hubex.ru/attachments/images/FAQ/RELEASENOTES/FloorPlan/Plan.jpg" width="800" height="auto" /></div>
 
-<p>Подробнее читайте в статье нашей базы знаний: <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/FloorPlan.html" target="_blank">Планы помещений</a>.</p>
+<p>Подробнее читайте в статье нашей базы знаний: <a href="../user/FloorPlan.md" target="_blank">Планы помещений</a>.</p>
 
 <p>Предложения по доработкам в системе и сообщения об ошибках просим отправлять к нам в "чат с поддержкой" в веб-приложении или на почту <a href="mailto:help@hubex.ru" target="_blank" rel="noopener"> help@hubex.ru</a>.</p>
 

@@ -92,7 +92,7 @@ keywords: плановая заявка, планировщик работ, hube
 
 <p>Процесс заполнения полей <strong>Плановой заявки</strong> похож на заполнение стандартной <strong>Заявки</strong> в HubEx.
     Подробнее читайте в статье: <a
-            href="https://wiki.hubex.ru/docs/FAQ/RU/user/CreatingTicket.html#webticket">Создание заявки</a>.</p>
+            href="./CreatingTicket.md#webticket">Создание заявки</a>.</p>
 <p>Рассмотрим подробнее заполнение полей <strong>Плановой заявки</strong>:</p>
 <ul>
     <li><strong>Название</strong> заполняется в свободной форме;</li>
@@ -185,9 +185,9 @@ keywords: плановая заявка, планировщик работ, hube
         </div>
         </p>
         <p><strong>Правило автоназначения исполнителя</strong> можно создать в <a
-                href="https://wiki.hubex.ru/docs/FAQ/RU/admin/HowToEnterTheAdmin.html">консоли
+                href="../admin/HowToEnterTheAdmin.md">консоли
             администратора</a> в меню Настройки заявки - Автоназначение исполнителя. Подробнее читайте в статье: <a
-                href="https://wiki.hubex.ru/docs/FAQ/RU/admin/RulesOfChoice.html">Правила автоназначения исполнителя</a>.</p>
+                href="../admin/RulesOfChoice.md">Правила автоназначения исполнителя</a>.</p>
         <p>После создания правила его необходимо привязать к стадии заявки <strong>Новая</strong>, чтобы исполнитель
             назначался
             автоматически именно при создании <strong>Плановой заявки</strong>.</p>
@@ -201,9 +201,9 @@ keywords: плановая заявка, планировщик работ, hube
             <strong>Плановой заявки</strong>,
             создать новую стадию Новая (для плановой заявки), настроить жизненный цикл. И выбрать такой тип для создания
             <strong>Плановой заявки</strong>. Подробнее читайте в статьях: <a
-                    href="https://wiki.hubex.ru/docs/FAQ/RU/admin/TicketType.html">Типы заявок</a>, <a
-                    href="https://wiki.hubex.ru/docs/FAQ/RU/admin/StageType.html">Стадии заявки</a>, <a
-                    href="https://wiki.hubex.ru/docs/FAQ/RU/admin/TicketLifeCycle.html">Жизненный цикл заявки</a>.</p>
+                    href="../admin/TicketType.md">Типы заявок</a>, <a
+                    href="../admin/StageType.md">Стадии заявки</a>, <a
+                    href="../admin/TicketLifeCycle.md">Жизненный цикл заявки</a>.</p>
     </li>
 </ul>
 
@@ -226,7 +226,7 @@ keywords: плановая заявка, планировщик работ, hube
 
 <h5 id="plantick">Плановые заявки в календаре</h5>
 <p>В web-приложении для календаря на месяц доступно отображение плановых заявок. Подробнее читайте в статье: <a
-        href="https://wiki.hubex.ru/docs/FAQ/RU/user/Calendar.html">Календарь заявок</a>.</p>
+        href="./Calendar.md">Календарь заявок</a>.</p>
 <p>Плановые заявки будут располагаться как в самом календаре на запланированную дату, так и на отдельной вкладке
     <strong>Планировщик</strong>.</p>
 

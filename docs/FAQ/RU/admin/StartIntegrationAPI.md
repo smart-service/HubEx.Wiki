@@ -62,7 +62,7 @@ keywords: API, интеграция, REST API, REST, hubex, хабекс, хуб
 </ul>
 </li>
 </ol>
-<p class="ds-markdown-paragraph">Подробнее читайте в статье: <a href="https://wiki.hubex.ru/docs/FAQ/RU/admin/ServiceUsers.html">Служебные пользователи</a></p>
+<p class="ds-markdown-paragraph">Подробнее читайте в статье: <a href="./ServiceUsers.md">Служебные пользователи</a></p>
 <hr />
 <h2><strong>3. Получение Access Token (авторизация в API)</strong></h2>
 <p class="ds-markdown-paragraph">Для работы с API HubEx нужен&nbsp;<strong>JWT-токен доступа</strong>, который обновляется каждые&nbsp;<strong>30 минут</strong>.</p>

@@ -135,7 +135,7 @@ keywords: создание заказчика, создание пользова
 <p>Например, можно создать участок «Электрооборудование» и отнести к нему все подходящие объекты. Далее создать тип заявки, например, «Ремонт электрооборудования», который будет иметь специфический жизненный цикл, и указать у него участок «Электрооборудование». Затем указать у заказчика тот же участок. Таким образом, этот заказчик сможет создавать заявки с типом «Ремонт электрооборудования» и выбирать объекты своей компании только по участку «Электрооборудования».</p>
 
 <p>Для <strong>"Cотрудника"</strong>, <strong>"Объекта"</strong>, <strong>"Заказчика"</strong> и <strong>"Типа заявки"</strong> можно указать несколько <strong>"Участков"</strong>.</p>
-<p><strong>"Участки"</strong> создаются и настраиваются в консоли администратора. Подробнее читайте в статье: <a href="https://wiki.hubex.ru/docs/FAQ/RU/admin/Places.html">Настройка участков</a>, <a href="https://wiki.hubex.ru/docs/FAQ/RU/admin/Roles.html#exrole">Настройка ролей</a>.</p>
+<p><strong>"Участки"</strong> создаются и настраиваются в консоли администратора. Подробнее читайте в статье: <a href="../admin/Places.md">Настройка участков</a>, <a href="../admin/Roles.md#exrole">Настройка ролей</a>.</p>
 
 <h2 id="customer4">Карточка заказчика. Вкладка "Прочее"</h2>
 
@@ -178,8 +178,8 @@ keywords: создание заказчика, создание пользова
 
 <p><div><img style="margin: 0 auto; display: block; max-width: 90%;" src="/attachments/images/FAQ/USER/CreatingCustomerNew/CreatingCustomerNew11.png"/></div></p>
 
-<p> Для быстрого добавления <strong>"Заказчиков"</strong> в систему HubEx воспользуйтесь функцией <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/Import.html#workers"> импорта.</a></p>
-<p> Для выгрузки информации по <strong>Заказчикам</strong> из системы HubEx воспользуйтесь функцией <a href="https://wiki.hubex.ru/docs/FAQ/RU/user/Export.html#workers"> экспорта.</a></p>
+<p> Для быстрого добавления <strong>"Заказчиков"</strong> в систему HubEx воспользуйтесь функцией <a href="./Import.md#workers"> импорта.</a></p>
+<p> Для выгрузки информации по <strong>Заказчикам</strong> из системы HubEx воспользуйтесь функцией <a href="./Export.md#workers"> экспорта.</a></p>
 
 <p><div><img style="margin: 0 auto; display: block; max-width: 90%;" src="/attachments/images/FAQ/USER/CreatingCustomerNew/CreatingCustomerNew12.png"/></div></p>
 

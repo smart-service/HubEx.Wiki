@@ -19,17 +19,17 @@ keywords: отличие стадии от статуса, стадия заяв
     исполнитель.
 </p>
 <p>Стадии заявки используются для настройки жизненного цикла заявки. Подробнее читайте в статьях: <a
-        href="https://wiki.hubex.ru/docs/FAQ/RU/admin/StageType.html">Стадии заявки</a>, <a
-        href="https://wiki.hubex.ru/docs/FAQ/RU/admin/BusinessProcess.html">Базовый бизнес-процесс для Заявки</a>, <a
-        href="https://wiki.hubex.ru/docs/FAQ/RU/admin/TicketLifeCycle.html">Жизненный цикл заявки</a>.</p>
+        href="./StageType.md">Стадии заявки</a>, <a
+        href="./BusinessProcess.md">Базовый бизнес-процесс для Заявки</a>, <a
+        href="./TicketLifeCycle.md">Жизненный цикл заявки</a>.</p>
 
 <p><strong>Статус заявки</strong> – это визуальное отображение <strong>Стадии заявки</strong> для мобильного приложения
     заказчика.
     Для каждого статуса задается свой цвет.
     <strong>Статус заявки</strong> привязывается к <strong>Стадии заявки</strong> при создании <strong>Жизненного цикла
-        заявки</strong>. Подробнее читайте в статьях: <a href="https://wiki.hubex.ru/docs/FAQ/RU/admin/StatusType.html">Статусы
+        заявки</strong>. Подробнее читайте в статьях: <a href="./StatusType.md">Статусы
         заявки</a>, <a
-            href="https://wiki.hubex.ru/docs/FAQ/RU/admin/TicketLifeCycle.html">Жизненный цикл заявки</a>.</p>
+            href="./TicketLifeCycle.md">Жизненный цикл заявки</a>.</p>
 <p>Например, <Strong>Заявка</Strong> после принятия в работу проходит несколько этапов согласования на стороне нашей
     компании-исполнителя: мы согласуем перечень материалов, закупку, и только после этого приступаем к работе. Для наших
     заказчиков все эти стадии демонстрировать не обязательно. Для заказчика будет достаточно показать состояние <Strong>Заявки</Strong>

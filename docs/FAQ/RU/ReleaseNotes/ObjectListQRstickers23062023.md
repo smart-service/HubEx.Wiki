@@ -22,13 +22,13 @@ keywords:
     <strong>Заявку</strong> по выбранному оборудованию.</p>
 <p>Чтобы открыть список объектов перейдите в главное меню <strong>HubEx исполнитель</strong> (три полоски в левом
     верхнем углу) и откройте пункт <strong>Объекты|Оборудование</strong>.</p>
-<div><img style="margin: 0 auto; display: block; max-width: 100%;" src="/attachments/images/FAQ/RELEASENOTES/ObjectList&QRstickers23062023/1.jpg"
+<div><img style="margin: 0 auto; display: block; max-width: 100%;" src="/attachments/images/FAQ/RELEASENOTES/ObjectListQRstickers23062023/1.jpg"
           width="650" height="auto"/></div>
 <p>Для пользователя откроется список доступных ему <strong>Объектов</strong>. Обратите внимание! Доступ к <strong>Объектам</strong>
     регулируется настройками <strong>Роли</strong> пользователя в консоли администрирования.</p>
 <p>По щелчку на <strong>Объект</strong> откроется паспорт объекта. В паспорте представлены основные характеристики
     <strong>Объекта</strong>, а также можно просмотреть историю обслуживания и подать новую заявку.&nbsp;</p>
-<div><img style="margin: 0 auto; display: block; max-width: 100%;" src="/attachments/images/FAQ/RELEASENOTES/ObjectList&QRstickers23062023/2.jpg"
+<div><img style="margin: 0 auto; display: block; max-width: 100%;" src="/attachments/images/FAQ/RELEASENOTES/ObjectListQRstickers23062023/2.jpg"
           width="650" height="auto"/></div>
 
 <h5>Заказ QR-стикеров в web-приложении</h5>
@@ -45,12 +45,12 @@ keywords:
 <p>Как быстро заказасть QR-стикеры?</p>
 <p>Перейдите в меню webприложения <strong>Заявки - Маркировка</strong> и нажмите кнопку рядом с названием раздела.&nbsp;
 </p>
-<div><img style="margin: 0 auto; display: block; max-width: 100%;" src="/attachments/images/FAQ/RELEASENOTES/ObjectList&QRstickers23062023/3.png"
+<div><img style="margin: 0 auto; display: block; max-width: 100%;" src="/attachments/images/FAQ/RELEASENOTES/ObjectListQRstickers23062023/3.png"
           width="900" height="auto"/></div>
 <p>В открывшемся диалоговом окне нажмите кнопку <strong>Заказать QR-стикеры</strong>. Ваш запрос автоматически будет
     отправлен в службу поддержки и в ближайшее время наши сотрудники свяжутся с вами для уточнения подробной информации.
 </p>
-<div><img style="margin: 0 auto; display: block; max-width: 100%;" src="/attachments/images/FAQ/RELEASENOTES/ObjectList&QRstickers23062023/4.png"
+<div><img style="margin: 0 auto; display: block; max-width: 100%;" src="/attachments/images/FAQ/RELEASENOTES/ObjectListQRstickers23062023/4.png"
           width="900" height="auto"/></div>
 
 

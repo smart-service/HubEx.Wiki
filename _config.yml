@@ -13,3 +13,6 @@ plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
   - jekyll-favicon
+exclude:
+  - LINK_MAP.md
+  - BROKEN_LINKS.md

@@ -26,7 +26,7 @@ keywords:
 <p>Назначенные исполнители сразу же отобразятся для каждой из выбранных <strong>Заявок</strong>.</p>
 <p>Таким образом можно не только назначать исполнителей, но и заменять исполнителей, ранее назначенных на <strong>Заявки</strong>.</p>
 <div><img style="margin: 0 auto; display: block; max-width: 100%;" src="/attachments/images/FAQ/RELEASENOTES/GroupActions31052023/4.png" width="700" height="auto" /></div>
-<p>Подробнее читайте в статье нашей базы знаний: <a href="../user/GroupActionsForTickets.md" target="_blank">Массовые действия для списка заявок</a>.</p>
+<p>Подробнее читайте в статье нашей базы знаний: <a href="../user/GroupActionsForTickets.html" target="_blank">Массовые действия для списка заявок</a>.</p>
 <h5>Массовое удаление Заявок</h5>
 <p>Благодаря новому функционалу пользователи могут легко удалять ненужные или неактуальные <strong>Заявки</strong> в web-приложении HubEx.</p>
 <p>Как это работает?</p>

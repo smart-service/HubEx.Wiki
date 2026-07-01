@@ -32,7 +32,7 @@ keywords:
 <div><img style="margin: 0 auto; display: block; max-width: 100%;" src="/attachments/images/FAQ/RELEASENOTES/StageAndRules04082021/3.png" width="700" height="auto" /></div>
 
 
-<p>Подробнее читайте в статьях базы знаний: <a href="../admin/StageType.md">Стадии заявки</a> и <a href="../admin/RulesOfChoice.md">Автоназначение исполнителя</a>.</p>
+<p>Подробнее читайте в статьях базы знаний: <a href="../admin/StageType.html">Стадии заявки</a> и <a href="../admin/RulesOfChoice.html">Автоназначение исполнителя</a>.</p>
 
 <p>Предложения по доработкам в системе и сообщениям об ошибках просим отправлять к нам в "чат с поддержкой" в веб-приложении или на почту <a href="mailto:help@hubex.ru" target="_blank" rel="noopener"> help@hubex.ru </a>.</p>
 

@@ -87,9 +87,9 @@ keywords:  hubex, хабекс, хубекс, хабикс
 
 ___
 ### Следующие шаги:
-- [Создание плановой заявки](./PlannedTickets.md)
-- [Календарь заявок](./Calendar.md)
-- [Чек-листы](./Checklists.md)
+- [Создание плановой заявки](./PlannedTickets.html)
+- [Календарь заявок](./Calendar.html)
+- [Чек-листы](./Checklists.html)
 
 ___
 - [Перейти в меню](http://wiki.hubex.ru)

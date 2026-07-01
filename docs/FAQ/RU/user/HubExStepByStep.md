@@ -132,8 +132,8 @@ keywords: знакомство с системой, первые шаги, hubex
     пользователей. Например, заказчики,
     создавая <strong>Заявки</strong>, будут видеть только <strong>Объекты</strong> принадлежащие к их
     <strong>Компании</strong>.
-    Подробнее читайте в статьях: <a href="./CreatingCompany.md">Создание
-        компаний</a>, <a href="../admin/Roles.md">Настройка ролей</a>.</p>
+    Подробнее читайте в статьях: <a href="./CreatingCompany.html">Создание
+        компаний</a>, <a href="../admin/Roles.html">Настройка ролей</a>.</p>
 
 <p>Перед началом работы на вкладке <strong>Компании</strong> вы увидите одну уже созданную компанию - вашу.</p>
 <div>
@@ -144,7 +144,7 @@ keywords: знакомство с системой, первые шаги, hubex
 <p>Если ваша компания обслуживает несколько организаций, добавляйте каждую из них в справочник по кнопке
     <strong>Создать компанию</strong>. Подробная инструкция по заполнению реквизитов <strong>Компании</strong>
     находится
-    в статье <a href="./CreatingCompany.md">Создание обслуживаемых
+    в статье <a href="./CreatingCompany.html">Создание обслуживаемых
         компаний</a>.</p>
 <div>
     <img style="margin: 0 auto; display: block; max-width: 95%;"
@@ -171,9 +171,9 @@ keywords: знакомство с системой, первые шаги, hubex
          src="/attachments/images/FAQ/USER/HubExStepByStep/Objects.jpg"/>
 </div>
 
-<p>Подробнее читайте в статье: <a href="./CreatingObjects.md">Создание
+<p>Подробнее читайте в статье: <a href="./CreatingObjects.html">Создание
     обслуживаемого оборудования</a>. Для оперативности ввода данных можно использовать функцию <a
-        href="./Import.md#objects">импорта</a>.</p>
+        href="./Import.html#objects">импорта</a>.</p>
 
 <p>
     <details>
@@ -214,8 +214,8 @@ keywords: знакомство с системой, первые шаги, hubex
 </div>
 
 <p>Подробнее читайте в статьях: <a
-        href="./CreatingCustomer.md">Создание заказчика</a> и <a
-        href="./CreatingUser.md">Создание пользователя вашей системы.</a></p>
+        href="./CreatingCustomer.html">Создание заказчика</a> и <a
+        href="./CreatingUser.html">Создание пользователя вашей системы.</a></p>
 
 <h5 id="ticketcreation">Создание Заявок</h5>
 
@@ -272,7 +272,7 @@ keywords: знакомство с системой, первые шаги, hubex
         </div>
         <p>Для подачи <strong>Заявки</strong> через мобильное приложение необходимо нажать на кнопку в правом нижнем
             углу, выбрать из списка необходимый <strong>Объект</strong> и заполнить поля <strong>Заявки</strong>. Подробнее читайте в статье <a
-                    href="./CreatingTicket.md#mobticket">Создание
+                    href="./CreatingTicket.html#mobticket">Создание
                 заявки.</a>
         </p>
         <p>
@@ -330,7 +330,7 @@ keywords: знакомство с системой, первые шаги, hubex
     </li>
     <li>Полуавтоматический режим подразумевает сканирования QR-кода оборудования через мобильное приложение исполнителя
         или заказчика. Подробнее читайте в статье: <a
-                href="./QRcodeMain.md">QR-код в HubEx: основные понятия</a>.
+                href="./QRcodeMain.html">QR-код в HubEx: основные понятия</a>.
         <p>
             <details>
                 <summary><span style="text-decoration: underline; color: #3366ff;"><span>Нажмите на строку, чтобы открыть и посмотреть видеоролик <strong>Подача заявки по QR-коду</strong></span></span>.
@@ -355,7 +355,7 @@ keywords: знакомство с системой, первые шаги, hubex
 </ol>
 <p>Также <strong>Заявки</strong> можно загрузить в систему с помощью импорта: вы подготавливаете специальный шаблон в формате Excel и с
     его помощью можете загрузить до 1000 <strong>Заявок</strong> за раз.
-    Подробнее читайте в статье: <a href="./Import.md#tickets">Импорт</a>.</p>
+    Подробнее читайте в статье: <a href="./Import.html#tickets">Импорт</a>.</p>
     
 <script>
     function hideSiblingVideo(activeVideo){

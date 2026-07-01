@@ -13,9 +13,9 @@
 
 
 ### Следующие шаги:
-- [Критичность заявки](./Criticality.md)
-- [Правила выбора исполнителя](./RulesOfChoice.md)
-- [Стадии заявки](./StageType.md)
+- [Критичность заявки](./Criticality.html)
+- [Правила выбора исполнителя](./RulesOfChoice.html)
+- [Стадии заявки](./StageType.html)
 
 ____
 - [Перейти в меню](http://wiki.hubex.ru)

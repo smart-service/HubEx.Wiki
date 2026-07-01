@@ -19,7 +19,7 @@ keywords:
 <li><strong>Дата </strong>и <strong>Дата и время</strong>;</li>
 <li><strong>Значение из списка </strong>и <strong>Множественный выбор из списка</strong>.</li>
 </ul>
-<p>Дополнительные поля создаются и настраиваются в консоли администратора. Подробнее об этом читайте в статье: <a href="../user/AdditionalFields.md" target="_blank">Создание дополнительных полей для заявки</a></p>
+<p>Дополнительные поля создаются и настраиваются в консоли администратора. Подробнее об этом читайте в статье: <a href="../user/AdditionalFields.html" target="_blank">Создание дополнительных полей для заявки</a></p>
 <div><img style="margin: 0 auto; display: block; max-width: 100%;" src="https://wiki.hubex.ru/attachments/images/FAQ/RELEASENOTES/FilterList/AddFieldList.jpg" width="400" height="auto" /></div>
 <div>Дополнительные поля находятся на форме <strong>Заявки</strong> внизу списка и могут быть доступны как пользователям web-приложения, так и мобильных приложений <strong>HubEx исполнитель</strong> и <strong>HubEx заказчик</strong>.</div>
 <div><img style="margin: 0 auto; display: block; max-width: 100%;" src="https://wiki.hubex.ru/attachments/images/FAQ/RELEASENOTES/FilterList/Ticket.jpg" width="800" height="auto" />В меню <strong>Заявки - Все заявки</strong> на панели фильтров внизу будут доступны дополнительные поля для отбора.</div>
@@ -29,7 +29,7 @@ keywords:
 <div><img style="margin: 0 auto; display: block; max-width: 100%;" src="https://wiki.hubex.ru/attachments/images/FAQ/RELEASENOTES/FilterList/ListsFilter.jpg" width="800" height="auto" /></div>
 <p>Список <strong>Заявок</strong> будет отфильтрован согласно установленным параметрам поиска по дополнительным полям.</p>
 <div><img style="margin: 0 auto; display: block; max-width: 100%;" src="https://wiki.hubex.ru/attachments/images/FAQ/RELEASENOTES/FilterList/ResultFilter.jpg" width="800" height="auto" /></div>
-<p>Дополнительно о работе с фильтрами для <strong>Заявок</strong> читайте в статье нашей базы знаний: <a href="../user/Filters.md" target="_blank">Список заявок, поиск заявок с помощью фильтров</a>.</p>
+<p>Дополнительно о работе с фильтрами для <strong>Заявок</strong> читайте в статье нашей базы знаний: <a href="../user/Filters.html" target="_blank">Список заявок, поиск заявок с помощью фильтров</a>.</p>
 
 <p>Предложения по доработкам в системе и сообщения об ошибках просим отправлять к нам в "чат с поддержкой" в веб-приложении или на почту <a href="mailto:help@hubex.ru" target="_blank" rel="noopener"> help@hubex.ru </a>.</p>
 

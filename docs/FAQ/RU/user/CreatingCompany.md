@@ -181,7 +181,7 @@ keywords: создание компании, создать компанию, з
 <img style="margin: 0 auto; display: block;  width:100%" src="/attachments/images/FAQ/USER/CreatingCompanyNew/CreateCompanyNew11.png"/>
 </div>
 
-<p>Подробнее о контактных лицах вы можете почитать в статье: <a href="./Contacts.md#company">Как заполнить контактные лица в карточке компании</a>.</p>
+<p>Подробнее о контактных лицах вы можете почитать в статье: <a href="./Contacts.html#company">Как заполнить контактные лица в карточке компании</a>.</p>
 
 <h2 id="company5">Юридические и банковские реквизиты</h2>
 
@@ -246,7 +246,7 @@ keywords: создание компании, создать компанию, з
         <img style="margin: 0 auto; display: block; max-width: 95%;" src="/attachments/images/FAQ/USER/CreatingCompany/Contract2.jpg"/>
 </div>
 
-<p>Для договоров также предусмотрено создание дополнительных полей. Подробнее читайте в статье: <a href="./AdditionalFields.md#AdditionalFields7">Создание дополнительных полей для договора</a>.</p>
+<p>Для договоров также предусмотрено создание дополнительных полей. Подробнее читайте в статье: <a href="./AdditionalFields.html#AdditionalFields7">Создание дополнительных полей для договора</a>.</p>
 
 <p>Обратите внимание! В <strong>Заявке</strong> выбрать договор можно будет только после выбора <strong>Объекта</strong>. В случае просрочки договора в <strong>Заявке</strong> вы увидите соответствующую информационную подсказку.</p>
     <div>
@@ -256,10 +256,10 @@ keywords: создание компании, создать компанию, з
 <h2 id="company7">Импорт и экспорт</h2>
     
 <p> Вы можете ускорить процесс созданий <strong>Компаний</strong> с помощью функции <a
-            href="./Import.md#companies">Импорта</a>.</p>
+            href="./Import.html#companies">Импорта</a>.</p>
 
 <p> Выгрузить информацию по <strong>Компаниям</strong> из системы HubEx можно с помощью функции <a
-            href="./Export.md#companies">Экспорта</a>.</p>
+            href="./Export.html#companies">Экспорта</a>.</p>
 
 <div>
 <img style="margin: 0 auto; display: block;  width:100%" src="/attachments/images/FAQ/USER/CreatingCompanyNew/CreateCompanyNew13.png"/>
@@ -332,9 +332,9 @@ keywords: создание компании, создать компанию, з
 
 
 ### Следующие шаги:
-- [Ввод обслуживаемого оборудования](./CreatingObjects.md)
-- [Создание заказчика](./CreatingCustomer.md)
-- [Создание заявки](./CreatingTicket.md)
+- [Ввод обслуживаемого оборудования](./CreatingObjects.html)
+- [Создание заказчика](./CreatingCustomer.html)
+- [Создание заявки](./CreatingTicket.html)
 
 
 ___

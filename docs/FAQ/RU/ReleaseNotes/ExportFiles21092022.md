@@ -11,7 +11,7 @@ keywords:
 </html>
 <body>
 
-<p>Теперь при экспорте медиафайлов из <strong>Заявок</strong> выгружаются все файлы из выполненных работ и чек-листов! Подробнее о выгрузке читайте в статье нашей базы знаний: <a href="../user/Export.md" target="_blank">Экспорт</a>.</p>
+<p>Теперь при экспорте медиафайлов из <strong>Заявок</strong> выгружаются все файлы из выполненных работ и чек-листов! Подробнее о выгрузке читайте в статье нашей базы знаний: <a href="../user/Export.html" target="_blank">Экспорт</a>.</p>
 <p>Как это работает?</p>
 <p>В общем списке вы можете сделать отбор с помощью фильтров определенных <strong>Заявок</strong> и выгрузить медиафайлы из них. Для выгрузки нажмите кнопку <strong>Экспорт заявок</strong>.</p>
 <div><img style="margin: 0 auto; display: block; max-width: 100%;" src="/attachments/images/FAQ/RELEASENOTES/ExportFiles21092022/9NzqtKY_Screenshot-21.png" width="900" height="auto" /></div>

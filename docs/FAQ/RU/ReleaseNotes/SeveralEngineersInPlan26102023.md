@@ -28,7 +28,7 @@ keywords:
 <div><img style="margin: 0 auto; display: block; max-width: 100%;" src="https://wiki.hubex.ru/attachments/images/FAQ/USER/PlannedTickets/SelectEngineer3.jpg" width="700" height="auto" /></div>
 <p>Обратите внимание! Чтобы вносить изменения в уже запланированную заявку сначала нажмите кнопку <strong>Приостановить</strong>.</p>
 <div><img style="margin: 0 auto; display: block; max-width: 100%;" src="https://wiki.hubex.ru/attachments/images/FAQ/USER/PlannedTickets/Pause.jpg" width="700" height="auto" /></div>
-<p>Подробнее читайте в статье нашей базы знаний: <a href="../user/PlannedTickets.md" target="_blank" rel="noopener">Создание плановой заявки</a>.</p>
+<p>Подробнее читайте в статье нашей базы знаний: <a href="../user/PlannedTickets.html" target="_blank" rel="noopener">Создание плановой заявки</a>.</p>
 
 <p>Предложения по доработкам в системе и сообщения об ошибках просим отправлять к нам в "чат с поддержкой" в веб-приложении или на почту <a href="mailto:help@hubex.ru" target="_blank" rel="noopener"> help@hubex.ru </a>.</p>
 

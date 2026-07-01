@@ -11,7 +11,7 @@ keywords: "администрирование HubEX, права админист
 <p>Для настройки доступа к различному функционалу, работы с определенными данными в HubEx используются <Strong>Роли</Strong>. Для каждой
     <Strong>Роли</Strong> в консоли администрирования
     в меню <Strong>Администрирование - Роли</Strong> можно задать набор полномочий (разрешений). Подробнее читайте в статье: <a
-            href="./Roles.md">Настройка ролей</a>.</p>
+            href="./Roles.html">Настройка ролей</a>.</p>
 <p><Strong>Полномочия роли</Strong> - это основной раздел настройки <Strong>Ролей</Strong>, который отвечает за настройку доступа к
     элементам интерфейса и справочникам. Полномочия
     разделены на тематические блоки. Например, импорт, экспорт,
@@ -82,13 +82,13 @@ keywords: "администрирование HubEX, права админист
         (меню
         <Strong>Заявки -
             Маркировка</Strong>).
-        <p>Подробнее читайте в статьях: <a href="../user/QRcodeMain.md">QR-код в HubEx:
+        <p>Подробнее читайте в статьях: <a href="../user/QRcodeMain.html">QR-код в HubEx:
             основные
-            понятия</a>, <a href="../user/CreatingObjTemplates.md">Создание шаблона
+            понятия</a>, <a href="../user/CreatingObjTemplates.html">Создание шаблона
             оборудования, приемка и маркировка по QR-коду</a>, <a
-                href="../user/CreatingTaskTemplates.md">Создание шаблона заявки,
+                href="../user/CreatingTaskTemplates.html">Создание шаблона заявки,
             подача
-            заявки по QR-коду</a>, <a href="../user/SelfRegister.md">Подача заявок
+            заявки по QR-коду</a>, <a href="../user/SelfRegister.html">Подача заявок
             по
             QR-коду без приложения, самостоятельная регистрация нового пользователя</a>. </p>
         <div>
@@ -160,53 +160,53 @@ keywords: "администрирование HubEX, права админист
         <ul>
             <li><Strong>Срез по заявкам</Strong>: полномочие отвечает за доступ к отчету <Strong>Срез по
                 заявкам</Strong> в меню <Strong>Аналитика</Strong>.
-                Подробнее читайте в статье: <a href="../user/TicketsReport.md">Срез по
+                Подробнее читайте в статье: <a href="../user/TicketsReport.html">Срез по
                     заявкам</a>;
             </li>
             <li><Strong>История перемещений</Strong>: полномочие отвечает за доступ к отчету <Strong>История
                 перемещений</Strong> в меню <Strong>Карты</Strong>. Подробнее читайте в статье: <a
-                    href="../user/Geotracking.md">История перемещений</a>;
+                    href="../user/Geotracking.html">История перемещений</a>;
             </li>
             <li><Strong>Общая аналитика</Strong>: полномочие отвечает за доступ к отчету <Strong>Общая
                 аналитика</Strong> в меню <Strong>Аналитика</Strong>. Подробнее читайте в статье: <a
-                    href="../user/GeneralAnalytics.md">Общая аналитика</a>;
+                    href="../user/GeneralAnalytics.html">Общая аналитика</a>;
             </li>
             <li><Strong>Отчет для клиента</Strong>: полномочие отвечает за доступ к <Strong>Отчету для клиента</Strong>
                 в меню <Strong>Аналитика</Strong>. Подробнее читайте в статье: <a
-                        href="../user/ClientsAnalytics.md">Отчет для клиента</a>;
+                        href="../user/ClientsAnalytics.html">Отчет для клиента</a>;
             </li>
             <li><Strong>Отчет по объектам</Strong>: полномочие отвечает за доступ к <Strong>Отчету по объектам</Strong>
                 в меню <Strong>Аналитика</Strong>. Подробнее читайте в статье: <a
-                        href="../user/ObjectsAnalytics.md">Отчет по объектам</a>;
+                        href="../user/ObjectsAnalytics.html">Отчет по объектам</a>;
             </li>
             <li><Strong>Отчет по сотрудникам</Strong>: полномочие отвечает за доступ к <Strong>Отчету по
                 сотрудникам</Strong> в меню <Strong>Аналитика</Strong>. Подробнее читайте в статье: <a
-                    href="../user/EngineersAnalytics.md">Отчет по сотрудникам</a>;
+                    href="../user/EngineersAnalytics.html">Отчет по сотрудникам</a>;
             </li>
             <!--<li><Strong>Мои отчеты</Strong>: полномочие отвечает за доступ к печатным формам <Strong>Сервисного
                 акта</Strong>, <Strong>Акта выполненных работ</Strong> и
                 <Strong>Счета на оплату</Strong>;
             </li>-->
             <li><Strong>Анализ эффективности процессов</Strong>: полномочие отвечает за доступ к отчету <Strong>Анализ эффективности</Strong> в меню <Strong>Аналитика</Strong>. Подробнее читайте в статье: <a
-                    href="../user/ProcessEfficiency.md">Анализ эффективности процессов</a>;
+                    href="../user/ProcessEfficiency.html">Анализ эффективности процессов</a>;
             </li>           
             <li><Strong>График действия договоров</Strong>: полномочие отвечает за доступ к отчету <Strong>График действия договоров</Strong> в меню <Strong>Аналитика</Strong>. Подробнее читайте в статье: <a
-                    href="../user/ContractSchedule.md">График действия договоров</a>;
+                    href="../user/ContractSchedule.html">График действия договоров</a>;
             </li>
             <li><Strong>График обслуживания объектов</Strong>: полномочие отвечает за доступ к отчету <Strong>График обслуживания объектов</Strong> в меню <Strong>Заявки - Планировщик работ</Strong>. Подробнее читайте в статье: <a
-                    href="../user/PlannedTicketsSchedule.md">График обслуживания объектов</a>;
+                    href="../user/PlannedTicketsSchedule.html">График обслуживания объектов</a>;
             </li>
             <li><Strong>Сервисный акт</Strong>: полномочие отвечает за доступ к печатной форме <Strong>Сервисный акт</Strong> в меню <Strong>Печатные формы</Strong>. Подробнее читайте в статье: <a
-                    href="../user/PrintedFormAct.md">Сервисный акт</a>;
+                    href="../user/PrintedFormAct.html">Сервисный акт</a>;
             </li>
             <li><Strong>Бухгалтерский акт</Strong>: полномочие отвечает за доступ к печатной форме <Strong>Бухгалтерский акт</Strong> в меню <Strong>Печатные формы</Strong>. Подробнее читайте в статье: <a
-                    href="../user/PrintedFormActOfAccounting.md">Бухгалтерский акт</a>;
+                    href="../user/PrintedFormActOfAccounting.html">Бухгалтерский акт</a>;
             </li>
             <li><Strong>Счет на оплату</Strong>: полномочие отвечает за доступ к печатной форме <Strong>Счет на оплату</Strong> в меню <Strong>Печатные формы</Strong>. Подробнее читайте в статье: <a
-                    href="../user/PaymentInvoice.md">Счет на оплату</a>;
+                    href="../user/PaymentInvoice.html">Счет на оплату</a>;
             </li>
             <li><Strong>Доступ к подключаемым плагинам и отчетам</Strong>: полномочие отвечает за доступ к меню <Strong>Мои отчеты</Strong> и к индивидуально разработанным отчетам, которые будут находиться в этом меню. Также полномочие дает доступ к меню <Strong>База знаний</Strong>, что позволяет вести корпоративную базу знаний. Подробнее читайте в статье: <a
-                    href="../user/KnowledgeBase.md">Корпоративная база знаний</a>.
+                    href="../user/KnowledgeBase.html">Корпоративная база знаний</a>.
             </li>
         </ul>
     </li>
@@ -215,7 +215,7 @@ keywords: "администрирование HubEX, права админист
         администрирования <Strong>Настройки
             заявки - Виды работ</Strong>.
         <p>Подробнее о создании и использовании Видов работ читайте в статье:<a
-                href="./WorkType.md">Виды работ</a>.</p>
+                href="./WorkType.html">Виды работ</a>.</p>
         <div>
             <img style="margin: 0 auto; display: block; max-width: 80%;"
                  src="/attachments/images/FAQ/ADMIN/Powers/WorkType.jpg"/>
@@ -257,9 +257,9 @@ keywords: "администрирование HubEX, права админист
         выполненных
         работ в <Strong>Заявке</Strong>
         (вкладка <Strong>Выполнение</Strong>).
-        <p>Подробнее читайте в статьях: <a href="../user/AttachingFiles.md">Прикрепление
+        <p>Подробнее читайте в статьях: <a href="../user/AttachingFiles.html">Прикрепление
             выполненных работ в web и мобильном приложении</a>, <a
-                href="../user/ActOFAcceptance.md">Акт выполненных работ</a>.</p>
+                href="../user/ActOFAcceptance.html">Акт выполненных работ</a>.</p>
         <div>
             <img style="margin: 0 auto; display: block; max-width: 80%;"
                  src="/attachments/images/FAQ/ADMIN/Powers/Works.jpg"/>
@@ -321,7 +321,7 @@ keywords: "администрирование HubEX, права админист
         </ul>
     </li>
 <li id="addfields"><Strong>Графики работ</Strong>: данный блок предназначен для настройки доступа к созданию графиков работ в меню консоли администратора <Strong>Структура предприятия - Графики работы</Strong>.
-        <p>Подробнее читайте в статьях: <a href="./WorkSchedule.md">Настройка графиков работы</a>.
+        <p>Подробнее читайте в статьях: <a href="./WorkSchedule.html">Настройка графиков работы</a>.
         </p>
         <div>
             <img style="margin: 0 auto; display: block; max-width: 80%;"
@@ -338,11 +338,11 @@ keywords: "администрирование HubEX, права админист
         дополнительными
         полями в меню
         консоли администрирования <Strong>Настройки системы - Дополнительные поля</Strong>.
-        <p>Подробнее читайте в статьях: <a href="../user/AdditionalFields.md">Создание
+        <p>Подробнее читайте в статьях: <a href="../user/AdditionalFields.html">Создание
             дополнительных полей в объекте</a>, <a
-                href="../user/AdditionalFields.md">Создание дополнительных полей в
+                href="../user/AdditionalFields.html">Создание дополнительных полей в
             заявке</a>, <a
-                href="../user/AdditionalFields.md">Создание атрибутов для чек-листа</a>.
+                href="../user/AdditionalFields.html">Создание атрибутов для чек-листа</a>.
         </p>
         <div>
             <img style="margin: 0 auto; display: block; max-width: 80%;"
@@ -385,7 +385,7 @@ keywords: "администрирование HubEX, права админист
         с меню консоли
         администрирования
         <Strong>Настройки заявки - Жизненный цикл заявки</Strong>.
-        <p>Подробнее читайте в статье: <a href="./TicketLifeCycle.md">Жизненный
+        <p>Подробнее читайте в статье: <a href="./TicketLifeCycle.html">Жизненный
             цикл заявки</a>.</p>
         <div>
             <img style="margin: 0 auto; display: block; max-width: 80%;"
@@ -418,8 +418,8 @@ keywords: "администрирование HubEX, права админист
     <li id="tickets"><Strong>Заявки</Strong>: данный блок предназначен для настройки работы с меню <Strong>Заявки - Все
         заявки</Strong>. Здесь вы можете настроить доступ к работе и просмотру Заявок в разрезе Компаний, Объектов и
         т.д.
-        <p>Подробнее читайте в статьях: <a href="../user/CreatingTicket.md">Создание
-            заявки</a>, <a href="../user/ChildTicket.md">Дочерние заявки</a>.</p>
+        <p>Подробнее читайте в статьях: <a href="../user/CreatingTicket.html">Создание
+            заявки</a>, <a href="../user/ChildTicket.html">Дочерние заявки</a>.</p>
         <p><Strong>Элементы интерфейса:</Strong></p>
         <div>
             <img style="margin: 0 auto; display: block; max-width: 80%;"
@@ -468,15 +468,15 @@ keywords: "администрирование HubEX, права админист
             </li>
             <li><Strong>Копирование заявок</Strong>: при включении полномочия в меню <Strong>Заявки - Все заявки</Strong> в контекстном меню (три точки) появится пункт <Strong>Копировать</Strong>;
             </li>
-            <li><Strong>Изменение заявок</Strong>: при включении полномочия будет доступно изменение полей на форме <Strong>Заявки</Strong>, иначе все поля будут заблокированы. Обратите внимание! Настройка отображения конкретных полей на форме <Strong>Заявки</Strong> находится в меню <Strong>Настройки заявки - Поля на форме заявки</Strong>. Подробнее читайте в статье: <a href="./ElementsOfInterface.md">Поля на форме заявки: настройка доступа к полям заявки</a>;
+            <li><Strong>Изменение заявок</Strong>: при включении полномочия будет доступно изменение полей на форме <Strong>Заявки</Strong>, иначе все поля будут заблокированы. Обратите внимание! Настройка отображения конкретных полей на форме <Strong>Заявки</Strong> находится в меню <Strong>Настройки заявки - Поля на форме заявки</Strong>. Подробнее читайте в статье: <a href="./ElementsOfInterface.html">Поля на форме заявки: настройка доступа к полям заявки</a>;
             </li>
             <li><Strong>Экспорт заявок</Strong>: при включении полномочия в меню <Strong>Заявки - Все заявки</Strong>
                 появится кнопка <Strong>Экспорт</Strong>. Подробнее читайте в статье: <a
-                        href="../user/Export.md">Экспорт</a>;
+                        href="../user/Export.html">Экспорт</a>;
             </li>
             <li><Strong>Импорт заявок</Strong>: при включении полномочия в меню <Strong>Заявки - Все заявки</Strong>
                 появится кнопка <Strong>Импорт</Strong>. Подробнее читайте в статье: <a
-                        href="../user/Import.md">Импорт</a>;
+                        href="../user/Import.html">Импорт</a>;
             </li>
             <div>
                 <img style="margin: 0 auto; display: block; max-width: 80%;"
@@ -508,7 +508,7 @@ keywords: "администрирование HubEX, права админист
                 <Strong>Заявке</Strong> при выборе исполнителя
                 (<Strong>Выбрать исполнителя из списка</Strong>) на форме отображается календарь для просмотра занятости
                 выбранного
-                исполнителя. Подробнее читайте в статье: <a href="../user/Schedule.md">График
+                исполнителя. Подробнее читайте в статье: <a href="../user/Schedule.html">График
                     работы исполнителей</a>;
             </li>
             <div>
@@ -527,7 +527,7 @@ keywords: "администрирование HubEX, права админист
                 такими же <Strong>Участками</Strong>, как у этого пользователя. <Strong>Участки</Strong> устанавливаются
                 в карточках <Strong>Сотрудников</Strong>,
                 <Strong>Заказчиков</Strong> (меню <Strong>Пользователи</Strong>). Подробнее читайте в статье: <a
-                        href="./Places.md">Настройка участков</a>;
+                        href="./Places.html">Настройка участков</a>;
             </li>
             <li><Strong>Активные заявки на объектах моей компании</Strong>: пользователь будет видеть
                 <Strong>Заявки</Strong> по <Strong>Объектам</Strong>, в которых
@@ -544,7 +544,7 @@ keywords: "администрирование HubEX, права админист
                 заполнить <Strong>Виды работ</Strong> можно на вкладке <Strong>Квалификация</Strong>;
             </li>
             <li><Strong>Дочерние активные заявки</Strong>: пользователь сможет работать с дочерними заявками. Подробнее
-                читайте в статье: <a href="../user/ChildTicket.md">Дочерние заявки</a>;
+                читайте в статье: <a href="../user/ChildTicket.html">Дочерние заявки</a>;
             </li>
             <li><Strong>Заявки, на которые я когда-либо был назначен</Strong>: пользователю будут доступны те <Strong>Заявки</Strong>,
                 в которых он
@@ -556,7 +556,7 @@ keywords: "администрирование HubEX, права админист
                 стадии</Strong>: данная настройка разрешает просматривать и изменять все поля <Strong>Заявки</Strong>,
                 независимо от настроек в
                 меню <Strong>Настройки заявки - Поля на форме заявки</Strong>. Подробнее читайте в статье: <a
-                        href="./ElementsOfInterface.md">Поля на форме заявки:
+                        href="./ElementsOfInterface.html">Поля на форме заявки:
                     настройка доступа к полям заявки</a>;
             </li>
             <li><Strong>Заявки, где пользователь - ответственный за объект по заявке</Strong>: пользователю будут
@@ -585,7 +585,7 @@ keywords: "администрирование HubEX, права админист
         консоли
         администрирования
         <Strong>Интеграция - Ключи</Strong> и <Strong>Служебные пользователи</Strong>.
-        <p>Подробнее читайте в статье: <a href="./ServiceUsers.md">Служебные
+        <p>Подробнее читайте в статье: <a href="./ServiceUsers.html">Служебные
             пользователи</a>.</p>
         <div>
             <img style="margin: 0 auto; display: block; max-width: 80%;"
@@ -642,7 +642,7 @@ keywords: "администрирование HubEX, права админист
         консоли
         администрирования
         <Strong>Интеграция - Интеграция по эл. почте</Strong>.
-        <p>Подробнее читайте в статье: <a href="./TicketMail.md">Интеграция по
+        <p>Подробнее читайте в статье: <a href="./TicketMail.html">Интеграция по
             электронной почте, подача заявок по электронной почте</a>.</p>
         <div>
             <img style="margin: 0 auto; display: block; max-width: 80%;"
@@ -680,7 +680,7 @@ keywords: "администрирование HubEX, права админист
     <li id="calendar"><Strong>Календарь</Strong>: блок предназначен для настройки доступа к пункту меню web-приложения
         <Strong>Заявки
             - Расписание заявок</Strong>.
-        <p>Подробнее читайте в статье: <a href="../user/Calendar.md">Календарь
+        <p>Подробнее читайте в статье: <a href="../user/Calendar.html">Календарь
             заявок</a>.</p>
         <div>
             <img style="margin: 0 auto; display: block; max-width: 80%;"
@@ -695,7 +695,7 @@ keywords: "администрирование HubEX, права админист
     </li>
     <li id="map"><Strong>Карты</Strong>: блок предназначен для настройки доступа к пункту меню web-приложения
         <Strong>Карты</Strong> для работы с геопозицией мобильных сотрудников.
-        <p>Подробнее читайте в статье: <a href="../user/GeoPosition.md">Карта: текущая
+        <p>Подробнее читайте в статье: <a href="../user/GeoPosition.html">Карта: текущая
             геопозиция сотрудников</a>.</p>
         <div>
             <img style="margin: 0 auto; display: block; max-width: 80%;"
@@ -712,7 +712,7 @@ keywords: "администрирование HubEX, права админист
         администрирования
         <Strong>Структура
             предприятия - Классы оборудования</Strong>.
-        <p>Подробнее читайте в статье: <a href="./ObjectClass.md">Классы
+        <p>Подробнее читайте в статье: <a href="./ObjectClass.html">Классы
             оборудования</a>.</p>
         <div>
             <img style="margin: 0 auto; display: block; max-width: 80%;"
@@ -751,7 +751,7 @@ keywords: "администрирование HubEX, права админист
     </li>
     <li id="company"><Strong>Компании</Strong>: блок предназначен для настройки доступа к пункту меню web-приложения
         <Strong>Компании</Strong>.
-        <p>Подробнее читайте в статье: <a href="../user/CreatingCompany.md">Создание
+        <p>Подробнее читайте в статье: <a href="../user/CreatingCompany.html">Создание
             обслуживаемых компаний</a>.</p>
         <div>
             <img style="margin: 0 auto; display: block; max-width: 80%;"
@@ -810,7 +810,7 @@ keywords: "администрирование HubEX, права админист
         администрирования
         <Strong>Настройки заявки -
             Критичности</Strong>.
-        <p>Подробнее читайте в статье: <a href="./Criticality.md">Критичность
+        <p>Подробнее читайте в статье: <a href="./Criticality.html">Критичность
             заявки</a>.</p>
         <div>
             <img style="margin: 0 auto; display: block; max-width: 80%;"
@@ -850,10 +850,10 @@ keywords: "администрирование HubEX, права админист
         материалов,
         просмотром расхода
         по материалам. Эти функции находятся в меню web-приложения <Strong>Склады</Strong>.
-        <p>Подробнее читайте в статьях: <a href="../user/Materials.md">Загрузка
-            материалов и создание складов</a>, <a href="../user/Withdrawals.md">Расход
+        <p>Подробнее читайте в статьях: <a href="../user/Materials.html">Загрузка
+            материалов и создание складов</a>, <a href="../user/Withdrawals.html">Расход
             материалов по заявке, отчет по расходу</a>, <a
-                href="../user/SettingsWithMaterials.md">Настройки системы для работы с
+                href="../user/SettingsWithMaterials.html">Настройки системы для работы с
             материалами</a>.</p>
         <div>
             <img style="margin: 0 auto; display: block; max-width: 80%;"
@@ -874,7 +874,7 @@ keywords: "администрирование HubEX, права админист
                 данные настройки необходимы для
                 добавления материалов в <Strong>Заявку</Strong> (вкладка <Strong>Выполнение</Strong>). Подробнее читайте
                 в статье: <a
-                        href="../user/Materials.md">Загрузка материалов и создание
+                        href="../user/Materials.html">Загрузка материалов и создание
                     складов</a>;
             </li>
             <li><Strong>Пункт главного меню - Склады - Расход</Strong>: полномочие предоставляет доступ к
@@ -890,7 +890,7 @@ keywords: "администрирование HubEX, права админист
                 настроить доступ пользователя к определенным складам, если это необходимо. Предоставить доступ к
                 складам можно в карточке <Strong>Сотрудника</Strong> на вкладке Квалификация. Подробнее читайте в
                 статье: <a
-                        href="../user/Materials.md">Загрузка материалов и создание
+                        href="../user/Materials.html">Загрузка материалов и создание
                     складов</a>;
             </li>
             <li><Strong>Импорт материалов и складов</Strong>: при включении полномочия в меню <Strong>Склады -
@@ -907,14 +907,14 @@ keywords: "администрирование HubEX, права админист
                 те склады, к
                 которым у пользователя должен быть доступ. С этих же складов пользователь сможет указывать материалы в
                 <Strong>Заявке</Strong> на вкладке <Strong>Выполнение</Strong>. Подробнее читайте в статье: <a
-                        href="../user/SettingsWithMaterials.md">Настройки системы для
+                        href="../user/SettingsWithMaterials.html">Настройки системы для
                     работы с материалами</a>.;
             </li>
         </ul>
     </li>
     <li id="skills"><Strong>Навыки</Strong>: блок предназначен для настройки доступа
         к пункту меню консоли администрирования <Strong>Структура предприятия - Навыки</Strong>.
-        <p>Подробнее читайте в статье: <a href="./Skills.md">Навыки</a>.</p>
+        <p>Подробнее читайте в статье: <a href="./Skills.html">Навыки</a>.</p>
         <div>
             <img style="margin: 0 auto; display: block; max-width: 80%;"
                  src="/attachments/images/FAQ/ADMIN/Powers/Skills.jpg"/>
@@ -945,7 +945,7 @@ keywords: "администрирование HubEX, права админист
         а также для
         доступа к
         <Strong>Объектам</Strong> в мобильном приложении для подачи <Strong>Заявок</Strong>.
-        <p>Подробнее читайте в статье: <a href="../user/CreatingObjects.md">Создание
+        <p>Подробнее читайте в статье: <a href="../user/CreatingObjects.html">Создание
             обслуживаемого оборудования</a>.</p>
         <div>
             <img style="margin: 0 auto; display: block; max-width: 80%;"
@@ -1020,7 +1020,7 @@ keywords: "администрирование HubEX, права админист
                 <Strong>Заказчика</Strong> и <Strong>Сотрудника</Strong> на вкладке <Strong>Квалификация</Strong>. Такая
                 настройка очень актуальна для разделения доступа к
                 <Strong>Объектам</Strong> в разрезе <Strong>Участков</Strong>. Подробнее читайте в статье: <a
-                        href="./Places.md">Настройка участков</a>;
+                        href="./Places.html">Настройка участков</a>;
             </li>
             <li><Strong>Объекты у компаний пользователя</Strong>: пользователю будут доступны <Strong>Объекты</Strong>, у
                 которых <Strong>Компания-владелец</Strong> совпадает с
@@ -1042,7 +1042,7 @@ keywords: "администрирование HubEX, права админист
     <li id="planticket"><Strong>Плановые заявки</Strong>: блок предназначен для настройки доступа к пункту меню
         web-приложения <Strong>Заявки - Планировщик
         работ</Strong>.
-        <p>Подробнее читайте в статье: <a href="../user/PlannedTickets.md">Создание
+        <p>Подробнее читайте в статье: <a href="../user/PlannedTickets.html">Создание
             плановой заявки</a>.</p>
         <div>
             <img style="margin: 0 auto; display: block; max-width: 80%;"
@@ -1100,8 +1100,8 @@ keywords: "администрирование HubEX, права админист
         работы со справочниками <Strong>Сотрудники</Strong> и <Strong>Заказчики</Strong>.
         Также настройки блока необходимы для выбора исполнителей в <Strong>Заявке</Strong>, добавления пользователей в
         чат и т.д.
-        <p>Подробнее читайте в статьях: <a href="../user/CreatingUser.md">Создание
-            пользователя вашей системы</a>, <a href="../user/CreatingCustomer.md">Создание
+        <p>Подробнее читайте в статьях: <a href="../user/CreatingUser.html">Создание
+            пользователя вашей системы</a>, <a href="../user/CreatingCustomer.html">Создание
             заказчика</a>.</p>
         <div>
             <img style="margin: 0 auto; display: block; max-width: 80%;"
@@ -1238,7 +1238,7 @@ keywords: "администрирование HubEX, права админист
                 <Strong>Участком</Strong> пользователя. <Strong>Участок</Strong> устанавливается в карточке <Strong>Сотрудника</Strong>
                 и <Strong>Заказчика</Strong> на вкладке
                 <Strong>Трудоустройство</Strong>. Подробнее читайте в статье: <a
-                        href="./Places.md">Настройка участков</a>;
+                        href="./Places.html">Настройка участков</a>;
             </li>
         </ul>
     </li>
@@ -1249,7 +1249,7 @@ keywords: "администрирование HubEX, права админист
         <Strong>Заявки</Strong> в разрезе
         <Strong>Стадий заявки</Strong> и <Strong>Ролей</Strong>.
         <p>Подробнее читайте в статье: <a
-                href="./ElementsOfInterface.md">Поля на форме заявки:
+                href="./ElementsOfInterface.html">Поля на форме заявки:
             настройка доступа к полям
             заявки</a>.</p>
         <div>
@@ -1275,7 +1275,7 @@ keywords: "администрирование HubEX, права админист
         меню консоли
         администрирования <Strong>Настройки заявки -
             Автоназначение исполнителя</Strong>.
-        <p>Подробнее читайте в статье: <a href="./RulesOfChoice.md">Правила
+        <p>Подробнее читайте в статье: <a href="./RulesOfChoice.html">Правила
             выбора исполнителя</a>.</p>
         <div>
             <img style="margin: 0 auto; display: block; max-width: 80%;"
@@ -1315,7 +1315,7 @@ keywords: "администрирование HubEX, права админист
         меню консоли
         администрирования<Strong> Настройки заявки -
             Критерии оценки заявки</Strong>.
-        <p>Подробнее читайте в статье: <a href="../user/Rating.md">Оценка заявок и
+        <p>Подробнее читайте в статье: <a href="../user/Rating.html">Оценка заявок и
             рейтинг сотрудников</a>.</p>
         <div>
             <img style="margin: 0 auto; display: block; max-width: 80%;"
@@ -1359,7 +1359,7 @@ keywords: "администрирование HubEX, права админист
     </li>
     <li id="roles"><Strong>Роли</Strong>: блок предназначен для настройки доступа к пункту меню консоли
         администрирования <Strong>Администрирование - Роли</Strong>.
-        <p>Подробнее читайте в статье: <a href="./Roles.md">Настройка ролей</a>.
+        <p>Подробнее читайте в статье: <a href="./Roles.html">Настройка ролей</a>.
         </p>
         <div>
             <img style="margin: 0 auto; display: block; max-width: 80%;"
@@ -1413,7 +1413,7 @@ keywords: "администрирование HubEX, права админист
     <li id="messages"><Strong>Сообщения</Strong>: блок предназначен для настройки доступа к пункту меню Сообщения, а
         также настройки чатов в Заявках
         для web- и мобильного приложения.
-        <p>Подробнее читайте в статье: <a href="../user/Messages.md">Сообщения по
+        <p>Подробнее читайте в статье: <a href="../user/Messages.html">Сообщения по
             заявке</a>.</p>
         <div>
             <img style="margin: 0 auto; display: block; max-width: 80%;"
@@ -1457,7 +1457,7 @@ keywords: "администрирование HubEX, права админист
     <li id="stage"><Strong>Стадии</Strong>: блок предназначен для настройки доступа к пункту меню консоли
         администрирования <Strong>Настройки заявки -
             Стадии заявки</Strong>. Доступ к стадиям необходим для дальнейшей настройки жизненного цикла.
-        <p>Подробнее читайте в статье: <a href="./StageType.md">Стадии
+        <p>Подробнее читайте в статье: <a href="./StageType.html">Стадии
             заявки</a>.</p>
         <div>
             <img style="margin: 0 auto; display: block; max-width: 80%;"
@@ -1493,7 +1493,7 @@ keywords: "администрирование HubEX, права админист
     <li id="status"><Strong>Статусы заявки</Strong>: блок предназначен для настройки доступа к пункту меню консоли
         администрирования <Strong>Настройки заявки
             - Статусы заявки</Strong>.
-        <p>Подробнее читайте в статье: <a href="./StatusType.md">Статусы
+        <p>Подробнее читайте в статье: <a href="./StatusType.html">Статусы
             заявки</a>.</p>
         <div>
             <img style="margin: 0 auto; display: block; max-width: 80%;"
@@ -1533,7 +1533,7 @@ keywords: "администрирование HubEX, права админист
     <li id="tickettype"><Strong>Типы заявки</Strong>: блок предназначен для настройки доступа к пункту меню консоли
         администрирования Настройки заявки
         - Типы заявок. 
-        <p>Подробнее читайте в статье: <a href="./TicketType.md">Типы
+        <p>Подробнее читайте в статье: <a href="./TicketType.html">Типы
             заявок</a>.</p>
         <div>
             <img style="margin: 0 auto; display: block; max-width: 80%;"
@@ -1572,7 +1572,7 @@ keywords: "администрирование HubEX, права админист
     <li id="objecttype"><Strong>Типы объектов</Strong>: блок предназначен для настройки доступа к пункту меню консоли
         администрирования <Strong>Структура
             предприятия - Типы оборудования</Strong>.
-        <p>Подробнее читайте в статье: <a href="./ObjectsType.md">Типы
+        <p>Подробнее читайте в статье: <a href="./ObjectsType.html">Типы
             оборудования</a>.</p>
         <div>
             <img style="margin: 0 auto; display: block; max-width: 80%;"
@@ -1614,7 +1614,7 @@ keywords: "администрирование HubEX, права админист
     <li id="notification"><Strong>Настройка уведомлений</Strong>: блок предназначен для настройки доступа к пункту меню
         консоли администрирования <Strong>Настройки
             оповещений</Strong>. 
-        <p>Подробнее читайте в статье: <a href="./Notifications.md">Настройка
+        <p>Подробнее читайте в статье: <a href="./Notifications.html">Настройка
             оповещений</a>.</p>
         <div>
             <img style="margin: 0 auto; display: block; max-width: 80%;"
@@ -1700,7 +1700,7 @@ keywords: "администрирование HubEX, права админист
         администрирования <Strong>Структура предприятия -
             Участки</Strong>, а также доступа к <Strong>Участкам</Strong> из карточек <Strong>Сотрудника</Strong>,
         <Strong>Заказчика</Strong>, <Strong>Объекта</Strong> и т.д.
-        <p>Подробнее читайте в статье: <a href="./Places.md">Настройка
+        <p>Подробнее читайте в статье: <a href="./Places.html">Настройка
             участков</a>.</p>
         <div>
             <img style="margin: 0 auto; display: block; max-width: 80%;"
@@ -1742,7 +1742,7 @@ keywords: "администрирование HubEX, права админист
     </li>
     <li id="checklist"><Strong>Чек-листы</Strong>: блок предназначен для настройки доступа к пункту web-приложения
         <Strong>Чек-листы</Strong>.
-        <p>Подробнее читайте в статье: <a href="../user/Checklists.md">Чек-листы</a>.
+        <p>Подробнее читайте в статье: <a href="../user/Checklists.html">Чек-листы</a>.
         </p>
         <div>
             <img style="margin: 0 auto; display: block; max-width: 80%;"
@@ -1780,7 +1780,7 @@ keywords: "администрирование HubEX, права админист
     <li id="objecttemplate"><Strong>Шаблоны объектов</Strong>: блок предназначен для настройки доступа к пункту
         web-приложения <Strong>Объекты|Оборудование - Шаблон
             объектов и оборудования</Strong>.
-        <p>Подробнее читайте в статье: <a href="../user/CreatingObjTemplates.md">Создание
+        <p>Подробнее читайте в статье: <a href="../user/CreatingObjTemplates.html">Создание
             шаблона оборудования, приемка и маркировка по QR-коду</a>.</p>
         <div>
             <img style="margin: 0 auto; display: block; max-width: 80%;"

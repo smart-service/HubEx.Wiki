@@ -39,7 +39,7 @@ keywords:
 
 </ol>
 
-<p>Подробнее читайте в статьях базы знаний: <a href="../user/CreatingTicket.md">Создание заявки</a>, <a href="../user/Schedule.md">График работы исполнителей</a>.</p>
+<p>Подробнее читайте в статьях базы знаний: <a href="../user/CreatingTicket.html">Создание заявки</a>, <a href="../user/Schedule.html">График работы исполнителей</a>.</p>
 
 <p>Предложения по доработкам в системе и сообщениям об ошибках просим отправлять к нам в "чат с поддержкой" в веб-приложении или на почту <a href="mailto:help@hubex.ru" target="_blank" rel="noopener"> help@hubex.ru </a>.</p>
 

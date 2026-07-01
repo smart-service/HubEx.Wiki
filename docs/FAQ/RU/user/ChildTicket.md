@@ -112,7 +112,7 @@ keywords: дочерние заявки, дочерняя заявка, роди
          src="/attachments/images/FAQ/USER/ChildTicket/TableTickets2.jpg"/>
 </div></p>
 
-<p>Добавленные столбцы можно будет перемещать по таблице. Подробнее читайте в статье: <a href="./Filters.md">Список заявок, поиск заявок с помощью фильтров</a>.</p>
+<p>Добавленные столбцы можно будет перемещать по таблице. Подробнее читайте в статье: <a href="./Filters.html">Список заявок, поиск заявок с помощью фильтров</a>.</p>
 <p><div>
     <img style="margin: 0 auto; display: block; max-width: 95%;"
          src="/attachments/images/FAQ/USER/ChildTicket/TableTickets3.jpg"/>
@@ -148,9 +148,9 @@ keywords: дочерние заявки, дочерняя заявка, роди
 
 ___
 ### Следующие шаги:
-- [Создание плановой заявки](./PlannedTickets.md)
-- [Акт выполненных работ](./ActOFAcceptance.md)
-- [Календарь заявок](./Calendar.md)
+- [Создание плановой заявки](./PlannedTickets.html)
+- [Акт выполненных работ](./ActOFAcceptance.html)
+- [Календарь заявок](./Calendar.html)
 
 ____
 - [Перейти в меню](http://wiki.hubex.ru)

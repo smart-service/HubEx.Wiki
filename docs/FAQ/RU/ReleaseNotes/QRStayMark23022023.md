@@ -21,7 +21,7 @@ keywords:
 <h5>Пребывание на объекте</h5>
 <p>Как работает функционал подтверждения пребывания на объекте?</p>
 <p>Сотрудник в мобильном приложении <strong>HubEx исполнитель</strong> при переводе <strong>Заявки</strong> на стадию <strong>В работе</strong> должен будет отсканировать QR-код, которым промаркирован объект. Только после этого исполнитель сможет внести выполненные работы и перевести <strong>Заявку</strong> на следующие стадии (<strong>Выполнение</strong> и т.д.).</p>
-<p>QR-код создается в web-приложении HubEx при маркировке объектов и создании шаблонов заявок. Подробнее читайте в статье нашей базы знаний: <a href="../user/CreatingTaskTemplates.md" target="_blank" rel="noopener">Создание шаблона заявки, подача заявки по QR-коду</a>.</p>
+<p>QR-код создается в web-приложении HubEx при маркировке объектов и создании шаблонов заявок. Подробнее читайте в статье нашей базы знаний: <a href="../user/CreatingTaskTemplates.html" target="_blank" rel="noopener">Создание шаблона заявки, подача заявки по QR-коду</a>.</p>
 <p>Настройка подтверждения пребывания на объекте находится в консоли администрирования в меню <strong>Настройки заявки - Стадии заявки</strong>:</p>
 <ol>
 <li>откройте стадию (например, <strong>В работе</strong>) и в поле <strong>Требование</strong> выберите пункт <strong>Отсканировать QR код объекта</strong>;</li>
@@ -32,7 +32,7 @@ keywords:
 <div><img style="margin: 0 auto; display: block; max-width: 100%;" src="/attachments/images/FAQ/RELEASENOTES/QRStayMark23022023/2.jpg" width="708" height="auto" /></div>
 <p>QR-код будет проверяться на соответствие QR-коду из карточки <strong>Объекта</strong>, выбранного в <strong>Заявке</strong>.</p>
 <p>Если QR-код не совпадет, то сотрудник получит уведомление о том, что QR-код неверный. Если QR-код будет корректным, то будет осуществлен переход на стадию <strong>В работе</strong>.</p>
-<p>Подробнее читайте в статье нашей базы знаний: <a href="../admin/StageType.md" target="_blank" rel="noopener">Стадии заявки</a>.</p>
+<p>Подробнее читайте в статье нашей базы знаний: <a href="../admin/StageType.html" target="_blank" rel="noopener">Стадии заявки</a>.</p>
 <div><img style="margin: 0 auto; display: block; max-width: 100%;" src="/attachments/images/FAQ/RELEASENOTES/QRStayMark23022023/3.png" width="358" height="auto" /></div>
 
 <p>Предложения по доработкам в системе и сообщения об ошибках просим отправлять к нам в "чат с поддержкой" в веб-приложении или на почту <a href="mailto:help@hubex.ru" target="_blank" rel="noopener"> help@hubex.ru </a>.</p>

@@ -36,7 +36,7 @@ keywords:
 <p>В отчете-карточке по сотруднику вы можете увидеть динамику HubEx рейтинга, посмотреть основные показатели по закрытым Завявкам, отработанному времени, а также посмотреть историю перемещения сотрудника.</p>
 <p><span style="font-weight: @ArticleID00;"><img style="display: block; margin-left: auto; margin-right: auto;" src="/attachments/images/FAQ/RELEASENOTES/EngineersAnalytic19052021/5.png" alt="" width="700" height="auto" /></span></p>
 
-<p>Подробнее об отчете читайте в статье базы знаний: <a href="../user/EngineersAnalytics.md">Отчет по сотрудникам</a>.</p>
+<p>Подробнее об отчете читайте в статье базы знаний: <a href="../user/EngineersAnalytics.html">Отчет по сотрудникам</a>.</p>
 
 <p>Предложения по доработкам в системе и сообщениям об ошибках просим отправлять к нам в "чат с поддержкой" в веб-приложении или на почту <a href="mailto:help@hubex.ru" target="_blank" rel="noopener"> help@hubex.ru </a>.</p>
 

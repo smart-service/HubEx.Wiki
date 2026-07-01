@@ -25,7 +25,7 @@ keywords:
 <p>В табличном режиме отображения списка <strong>Заявок</strong> вы можете увидеть, есть ли у <strong>Заявки</strong> подчиненные ей дочерние и с какими <strong>Заявками</strong> они связаны.</p>
 <p><span style="font-weight: @ArticleID00;"><img style="display: block; margin-left: auto; margin-right: auto;" src="/attachments/images/FAQ/RELEASENOTES/ChildTicket21102020/4.png" alt="" width="700" height="auto" /></span></p>
 
-<p>Подробнее читайте в статье базы знаний: <a href="../user/ChildTicket.md">Дочерние заявки</a>.</p>
+<p>Подробнее читайте в статье базы знаний: <a href="../user/ChildTicket.html">Дочерние заявки</a>.</p>
 
 <p>Предложения по доработкам в системе и сообщениям об ошибках просим отправлять к нам в "чат с поддержкой" в веб-приложении или на почту <a href="mailto:help@hubex.ru" target="_blank" rel="noopener"> help@hubex.ru </a>.</p>
 

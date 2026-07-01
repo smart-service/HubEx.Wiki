@@ -23,7 +23,7 @@ keywords:
 <p><span style="font-weight: @ArticleID00;"><img style="display: block; margin-left: auto; margin-right: auto;" src="/attachments/images/FAQ/RELEASENOTES/NewCompanyForm01082020/2.png" alt="" width="360" height="375" /></span></p>
 <p>Добавляйте новых контактных лиц для <strong>Компаний</strong>.</p>
 
-<p>Подробнее читайте в статье базы знаний: <a href="../user/CreatingCompany.md">Создание обслуживаемых компаний</a>.</p>
+<p>Подробнее читайте в статье базы знаний: <a href="../user/CreatingCompany.html">Создание обслуживаемых компаний</a>.</p>
 
 <p>Предложения по доработкам в системе и сообщениям об ошибках просим отправлять к нам в "чат с поддержкой" в веб-приложении или на почту <a href="mailto:help@hubex.ru" target="_blank" rel="noopener"> help@hubex.ru </a>.</p>
 

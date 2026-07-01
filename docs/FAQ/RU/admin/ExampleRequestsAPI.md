@@ -61,7 +61,7 @@ keywords: API, интеграция, REST API, REST, hubex, хабекс, хуб
 <p class="ds-markdown-paragraph"><code>NotesHtml</code>&nbsp;- описание заявки - с html тегами (используется для отображения в заявке)</p>
 </li>
 </ul>
-<p>Полный перечень полей, а также их тип, можно посмотреть в SWAGGER. Список сервисов представлен в статье - <a href="./StartIntegrationAPI.md">Начало работы с REST API HubEx</a></p>
+<p>Полный перечень полей, а также их тип, можно посмотреть в SWAGGER. Список сервисов представлен в статье - <a href="./StartIntegrationAPI.html">Начало работы с REST API HubEx</a></p>
 <p class="ds-markdown-paragraph"><strong>Пример запроса</strong>:</p>
 <div class="md-code-block md-code-block-dark">
 <pre>POST https://api.hubex.ru/fsm/WORK/Tasks
@@ -113,7 +113,7 @@ Body:
 <p class="ds-markdown-paragraph">Адрес:&nbsp;<code>POST fsm/ES/locations</code>, или использовать адрес из Объекта</p>
 </li>
 <li>
-<p class="ds-markdown-paragraph">И так далее, endpoint представлены в SWAGGER. Список сервисов представлен в статье - <a href="./StartIntegrationAPI.md">Начало работы с REST API HubEx</a></p>
+<p class="ds-markdown-paragraph">И так далее, endpoint представлены в SWAGGER. Список сервисов представлен в статье - <a href="./StartIntegrationAPI.html">Начало работы с REST API HubEx</a></p>
 </li>
 </ol>
 <hr />
@@ -371,7 +371,7 @@ Body:
 <p class="ds-markdown-paragraph"><code>IsMobileAsset</code>&nbsp;- Признак "Мобильное оборудование"</p>
 </li>
 </ul>
-<p>Полный перечень полей, а также их тип, можно посмотреть в SWAGGER. Список сервисов представлен в статье - <a href="./StartIntegrationAPI.md">Начало работы с REST API HubEx</a></p>
+<p>Полный перечень полей, а также их тип, можно посмотреть в SWAGGER. Список сервисов представлен в статье - <a href="./StartIntegrationAPI.html">Начало работы с REST API HubEx</a></p>
 <p class="ds-markdown-paragraph"><strong>Пример запроса</strong>:</p>
 <div class="md-code-block md-code-block-dark">
 <div class="md-code-block-banner-wrap">&nbsp;</div>
@@ -415,7 +415,7 @@ Body:
 <p class="ds-markdown-paragraph">Класс оборудования:&nbsp;<code>GET /fsm/ES/assetClasses</code></p>
 </li>
 <li>
-<p class="ds-markdown-paragraph">И так далее, endpoint представлены в SWAGGER. Список сервисов представлен в статье - <a href="./StartIntegrationAPI.md">Начало работы с REST API HubEx</a></p>
+<p class="ds-markdown-paragraph">И так далее, endpoint представлены в SWAGGER. Список сервисов представлен в статье - <a href="./StartIntegrationAPI.html">Начало работы с REST API HubEx</a></p>
 </li>
 </ol>
 </div>
@@ -501,7 +501,7 @@ Body:
 <p class="ds-markdown-paragraph">Список контактов тенанта:&nbsp;<code>GET /fsm/COMMON/Contacts/?isDeleted=false</code></p>
 </li>
 <li>
-<p class="ds-markdown-paragraph">И так далее, endpoint представлены в SWAGGER. Список сервисов представлен в статье - <a href="./StartIntegrationAPI.md">Начало работы с REST API HubEx</a></p>
+<p class="ds-markdown-paragraph">И так далее, endpoint представлены в SWAGGER. Список сервисов представлен в статье - <a href="./StartIntegrationAPI.html">Начало работы с REST API HubEx</a></p>
 </li>
 </ol>
 <h3>Изменение компании</h3>

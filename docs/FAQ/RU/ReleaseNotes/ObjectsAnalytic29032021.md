@@ -25,7 +25,7 @@ keywords:
 <p><span style="font-weight: @ArticleID00;"><img style="display: block; margin-left: auto; margin-right: auto;" src="/attachments/images/FAQ/RELEASENOTES/ObjectsAnalytic29032021/4.png" alt="" width="700" height="auto" /></span></p>
 <p><span style="font-weight: @ArticleID00;">&nbsp;</span></p>
 
-<p>Подробнее об отчете читайте в статье базы знаний: <a href="../user/ObjectsAnalytics.md">Отчет по объектам</a>.</p>
+<p>Подробнее об отчете читайте в статье базы знаний: <a href="../user/ObjectsAnalytics.html">Отчет по объектам</a>.</p>
 
 <p>Предложения по доработкам в системе и сообщениям об ошибках просим отправлять к нам в "чат с поддержкой" в веб-приложении или на почту <a href="mailto:help@hubex.ru" target="_blank" rel="noopener"> help@hubex.ru </a>.</p>
 

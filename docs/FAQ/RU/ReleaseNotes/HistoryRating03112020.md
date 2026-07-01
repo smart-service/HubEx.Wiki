@@ -26,7 +26,7 @@ keywords:
 <p><span style="font-weight: @ArticleID00;"><img style="display: block; margin-left: auto; margin-right: auto;" src="/attachments/images/FAQ/RELEASENOTES/HistoryRating03112020/3.png" alt="" width="@ArticleID1@ArticleID" height="80" /></span></p>
 <p>В консоли администратора вы можете задать несколько критериев оценки для рейтинга. Например, скорость реагирования на <strong>Заявку</strong>и т.д.</p>
 
-<p>Подробнее читайте в статьях базы знаний: <a href="../user/Rating.md">Оценка заявок и рейтинг сотрудников</a>, <a href="../user/CreatingObjects.md">Создание обслуживаемого оборудования</a>.</p>
+<p>Подробнее читайте в статьях базы знаний: <a href="../user/Rating.html">Оценка заявок и рейтинг сотрудников</a>, <a href="../user/CreatingObjects.html">Создание обслуживаемого оборудования</a>.</p>
 
 <p>Предложения по доработкам в системе и сообщениям об ошибках просим отправлять к нам в "чат с поддержкой" в веб-приложении или на почту <a href="mailto:help@hubex.ru" target="_blank" rel="noopener"> help@hubex.ru </a>.</p>
 

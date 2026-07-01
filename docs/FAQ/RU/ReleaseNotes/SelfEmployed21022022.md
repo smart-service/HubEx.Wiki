@@ -46,7 +46,7 @@ keywords:
 
 <div><img style="display: block; max-width: 100%; border-style: solid; margin: 0px auto 0px auto;" src="/attachments/images/FAQ/RELEASENOTES/SelfEmployed21022022/5.png" width="350" height="auto" /></div>
 
-<p>Подробнее читайте в статье базы знаний: <a href="../user/OnDuty.md">Индивидуальный график работы: функционал "На смене"</a>.</p>
+<p>Подробнее читайте в статье базы знаний: <a href="../user/OnDuty.html">Индивидуальный график работы: функционал "На смене"</a>.</p>
 
 <p>Предложения по доработкам в системе и сообщениям об ошибках просим отправлять к нам в "чат с поддержкой" в веб-приложении или на почту <a href="mailto:help@hubex.ru" target="_blank" rel="noopener"> help@hubex.ru </a>.</p>
 

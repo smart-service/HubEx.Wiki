@@ -22,7 +22,7 @@ keywords:
 <p>Помимо <strong>Заявок</strong> на карте отображаются исполнители. Неназначеннную Заявку вы можете перетащить на желаемого исполнителя с помощью мышки.</p>
 <p><span style="font-weight: @ArticleID00;"><img style="display: block; margin-left: auto; margin-right: auto;" src="/attachments/images/FAQ/RELEASENOTES/TicketsOnMap19032021/4.png" alt="" width="700" height="auto" /></span></p>
 
-<p>Подробнее читайте в статье базы знаний: <a href="../user/TicketsOnMap.md">Заявки и сотрудники на карте</a>.</p>
+<p>Подробнее читайте в статье базы знаний: <a href="../user/TicketsOnMap.html">Заявки и сотрудники на карте</a>.</p>
 
 <p>Предложения по доработкам в системе и сообщениям об ошибках просим отправлять к нам в "чат с поддержкой" в веб-приложении или на почту <a href="mailto:help@hubex.ru" target="_blank" rel="noopener"> help@hubex.ru </a>.</p>
 </body>

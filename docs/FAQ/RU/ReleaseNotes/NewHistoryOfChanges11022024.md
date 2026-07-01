@@ -26,7 +26,7 @@ keywords:
 </p>
 <p style="text-align: left;">&nbsp;</p>
 <p style="text-align: left;">После этого, система отобразит старую Историю изменений.</p>
-<p style="text-align: left;">Более детальную информацию можно посмотреть в нашей Wiki HubEx по <a href="../user/HistoryOfChanges.md">ссылке</a>.</p>
+<p style="text-align: left;">Более детальную информацию можно посмотреть в нашей Wiki HubEx по <a href="../user/HistoryOfChanges.html">ссылке</a>.</p>
 <p style="text-align: left;">В случае возникновения проблем - пишите нам в поддержку Telegram&nbsp;<a href="https://t.me/hubex_bot" target="_blank" rel="noopener"><span>@hubex_bot</span></a>&nbsp;или на почту&nbsp;<a href="mailto:help@hubex.ru">help@hubex.ru</a></p>
 </body>
 ___

@@ -119,7 +119,7 @@ keywords: Интеграция, Битрикс, Битрикс24, bitrix, integr
 <p class="ds-markdown-paragraph">Сгенерируйте&nbsp;<strong>токен доступа (API-ключ)</strong>&nbsp;и сохраните его.</p>
 </li>
 </ol>
-<p>Подробнее читайте в статье:&nbsp;<a href="https://https//wiki.hubex.ru/docs/FAQ/RU/admin/ServiceUsers.html">Служебные пользователи</a></p>
+<p>Подробнее читайте в статье:&nbsp;<a href="./ServiceUsers.html">Служебные пользователи</a></p>
 <h3><strong>2. Связывание аккаунтов</strong></h3>
 <ol start="1">
 <li>

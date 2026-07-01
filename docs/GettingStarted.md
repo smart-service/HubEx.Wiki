@@ -23,4 +23,4 @@
 
 
 
-|[Перейти в меню](http://wiki.hubex.ru)|[Перейдите в раздел "Создание пользователей"](./CreatingUser.html)|
+|[Перейти в меню](http://wiki.hubex.ru)|[Перейдите в раздел "Создание пользователей"](./FAQ/RU/user/CreatingUser.html)|

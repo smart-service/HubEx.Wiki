@@ -39,7 +39,7 @@ ___
 ### Следующие шаги:
 - [Критичность заявки](./Criticality.html)
 - [Правила автоназначения исполнителя](./RulesOfChoice.html)
-- [Автоназначение на ближайшего исполнителя](docs/FAQ/RU/user/RulesOfChoiceGEO.html)
+- [Автоназначение на ближайшего исполнителя](../user/RulesOfChoiceGEO.html)
 
 ____
 - [Перейти в меню](http://wiki.hubex.ru)

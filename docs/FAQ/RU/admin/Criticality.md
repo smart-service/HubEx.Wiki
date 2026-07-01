@@ -52,7 +52,7 @@ keywords: критичность заявки, критичность, hubex, х
 ___
 ### Следующие шаги:
 - [Правила автоназначения исполнителя](./RulesOfChoice.html)
-- [Автоназначение на ближайшего исполнителя](docs/FAQ/RU/user/RulesOfChoiceGEO.html)
+- [Автоназначение на ближайшего исполнителя](../user/RulesOfChoiceGEO.html)
 - [Стадии заявки](./StageType.html)
 
 ____

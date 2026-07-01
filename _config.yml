@@ -1,7 +1,7 @@
 theme: jekyll-theme-slate
 title: Руководство пользователя HubEx
 description: Краткие инcтрукции по работе, основные понятия и первые шаги по освоению платформы.
-url: wiki.hubex.ru
+url: https://wiki.hubex.ru
 lang: "ru_RU"
 avatar: https://github.com/smart-service/HubEx.Wiki/blob/master/attachments/images/Logo%20WB%401x.jpg
 google_analytics: UA-134055582-1

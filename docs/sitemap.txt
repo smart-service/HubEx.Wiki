@@ -1,4 +1,4 @@
-http://wiki.hubex.ru/
+https://wiki.hubex.ru/
 https://wiki.hubex.ru/docs/FAQ/RU/user/HubExStepByStep.html
 https://wiki.hubex.ru/docs/FAQ/RU/user/CreatingUser.html
 https://wiki.hubex.ru/docs/FAQ/RU/user/CreatingCompany.html

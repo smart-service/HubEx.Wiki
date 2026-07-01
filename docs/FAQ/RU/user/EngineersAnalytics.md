@@ -164,19 +164,6 @@ keywords: отчет по сотрудникам, sla, показатели по
         закрытым <strong>Заявкам</strong>: синие столбцы - количество закрытых <strong>Заявок</strong> исполнителем за
         выбранный период, красные
         столбцы - количество из этих <strong>Заявок</strong>, закрытых с просрочкой.
-
-        <!-- <p>Данный отчет можно <a href="fourth">расшифровать по каждому сотруднику в отдельности</a>. Щелкните на
-             исполнителя и нажмите значок
-             стрелки справа на панели настроек.</p>
-         <div>
-             <img style="margin: 0 auto; display: block; max-width: 95%;"
-                  src="/attachments/images/FAQ/USER/EngineersAnalitics/XXXXXXXXXXXXXXX.jpg"/> ЗДЕСЬ СКРИН про отчет-карточку по сотруднику с аналитическими разрезами
-         </div>
-
-         <p>Перед вами откроется детальный отчет по сотруднику. С помощью расшифровки по аналитическим разрезам можно
-             ответить на впоросы: В чем причина закрытия <strong>Заявок</strong> с просрочкой? Например, можно выбрать разрезы - <strong>Закрытые
-             заявки - Закрытые с просрочкой - Клиенты - Объекты</strong> и проанализировать полученные <strong>Заявки</strong>.</p> -->
-
     </li>
     <li>Визуализация <strong>Сравнение эффективности исполнителей</strong>
         представляет собой зависимость закрытых с просрочкой <strong>Заявок</strong> от общего количества закрытых
@@ -189,7 +176,6 @@ keywords: отчет по сотрудникам, sla, показатели по
                 - это среднее
                 количество <strong>Заявок</strong> в день, которые закрыты специалистом;
             </li>
-
             <li><strong>Закрыто в срок, %</strong> - отражает процент <strong>Заявок</strong>, которые были закрыты с
                 просрочкой. Каждый исполнитель на
                 графике отображается
@@ -200,7 +186,6 @@ keywords: отчет по сотрудникам, sla, показатели по
             <img style="margin: 0 auto; display: block; max-width: 75%;"
                  src="/attachments/images/FAQ/USER/EngineersAnalitics/SLA.jpg"/>
         </div>
-
         <p>По каждой оси графика высчитывается средний показатель по всем исполнителям. Эти средние показатели образуют
             4
             квадранта - категории, на которые делятся исполнители: </p>
@@ -240,8 +225,6 @@ keywords: отчет по сотрудникам, sla, показатели по
         </ol>
     </li>
 </ul>
-
-
 <p>Таблица <strong>Среднее количество выполненных заявок по дням недели</strong> показывает среднее количество <strong>Заявок</strong>
     закрываемых специалистом на каждый день недели. Ячейки с минимальной загруженностью окрашиваются в светло-голубой
     цвет, с максимальной загруженностью - в темно-синий. С помощью данной таблицы вы сможете определить, в какие дни
@@ -280,14 +263,12 @@ keywords: отчет по сотрудникам, sla, показатели по
     <img style="margin: 0 auto; display: block; max-width: 100%;"
          src="/attachments/images/FAQ/USER/EngineersAnalitics/MainEAexample3.jpg"/>
 </div>
-
 <p>С помощью выбора показателя для <strong>Аналитических разрезов</strong> можно выводить <strong>Закрытые
     заявки</strong>, <strong>Открытые заявки</strong> и <strong>Переназначенные заявки</strong>. </p>
 <div>
     <img style="margin: 0 auto; display: block; max-width: 100%;"
          src="/attachments/images/FAQ/USER/EngineersAnalitics/MainEAexample4.jpg"/>
 </div>
-
 <p id="table">В таблице <strong>Показатели по сотрудникам</strong> находятся основные показатели по
     <strong>Заявкам</strong> в разрезе
     исполнителей. Таблицу можно отсортировать, кликнув по наименованию показателя в шапке таблицы.</p>
@@ -296,17 +277,11 @@ keywords: отчет по сотрудникам, sla, показатели по
     <img style="margin: 0 auto; display: block; max-width: 100%;"
          src="/attachments/images/FAQ/USER/EngineersAnalitics/MainEA6.jpg"/>
 </div>
-
 <p>Например, с помощью показателя <strong>Переназначенные заявки</strong> вы сможете выявить специалиста, который часто
     отказывается от <strong>Заявок</strong>. Какие именно <strong>Заявки</strong> исполнитель "сбрасывает" с себя?
     Возможно было ошибочное назначение
     специалиста не по
     его профилю и т.д. </p>
-
-<!--   Чтобы оценить, какие от каких <strong>Заявок</strong> исполнитель отказывается, щелкните на него в таблице, а
-   затем нажмите значок
-   стрелки справа на панели настроек. С помощью аналитических разрезов вы сможете найти эти <strong>Заявки</strong>.
-скрин по аналитически мразрезам-->
 <p>Для таблицы показателей также
     доступна
     функция выгрузки в Excel: нажмите на всплывающее <strong>контекстное меню (три точки) - Экспортировать
@@ -315,7 +290,6 @@ keywords: отчет по сотрудникам, sla, показатели по
     <img style="margin: 0 auto; display: block; max-width: 85%;"
          src="/attachments/images/FAQ/USER/EngineersAnalitics/Table.jpg"/>
 </div>
-
 <p>Таблица <strong>Закрытые и незакрытые заявки по исполнителям</strong> показывает количество закрытых и незакрытых
     <strong>Заявок</strong> за выбранный период с детализацией по дням. Также доступна для выгрузки в Excel: нажмите на
     всплывающее
@@ -324,7 +298,6 @@ keywords: отчет по сотрудникам, sla, показатели по
     <img style="margin: 0 auto; display: block; max-width: 85%;"
          src="/attachments/images/FAQ/USER/EngineersAnalitics/Table.jpg"/>
 </div>
-
 <h5 id="second">Отработанное время</h5>
 <p>В верхней части вкладки представлены основные показатели по отработанному времени за выбранный период по всем
     исполнителям:</p>
@@ -358,12 +331,10 @@ keywords: отчет по сотрудникам, sla, показатели по
     показатели
     по
     сотрудникам</strong></a>.</p>
-
 <div>
     <img style="margin: 0 auto; display: block; max-width: 100%;"
          src="/attachments/images/FAQ/USER/EngineersAnalitics/Second.jpg"/>
 </div>
-
 <p>Далее представлены две визуализации:</p>
 <ul>
     <li>Гистограмма <strong>Выполненные работы и переработки</strong> отображает количество отработанных часов (синие
@@ -387,15 +358,11 @@ keywords: отчет по сотрудникам, sla, показатели по
             на гистограмме
             появится линия с графиком работ выбранного исполнителя.</p>
     </li>
-
     <div>
         <img style="margin: 0 auto; display: block; max-width: 75%;"
              src="/attachments/images/FAQ/USER/EngineersAnalitics/Dynamic.png"/>
     </div>
-
 </ul>
-
-
 <p>Таблица <strong>Среднее количество переработок по дням недели</strong> показывает среднее количество переработанного
     времени
     специалистом на каждый день недели. Ячейки с минимальным количеством часов по переработке окрашиваются в
@@ -404,23 +371,19 @@ keywords: отчет по сотрудникам, sla, показатели по
     ваши специалисты перерабатывают больше всего. Возможно, нужно изменить график работ и т.д.</p>
 <p>Если вы указали период один месяц, значит данные в таблице будут браться по всем дням недели в течение этого месяца
     (все понедельники, все вторники и тд). </p>
-
 <div>
     <img style="margin: 0 auto; display: block; max-width: 100%;"
          src="/attachments/images/FAQ/USER/EngineersAnalitics/Second2.jpg"/>
 </div>
-
 <p>С помощью кнопки <strong>Включить аналитические разрезы</strong> на боковой панели вы можете открыть дополнительный
     отчет <strong>Аналитические разрезы</strong>, который позволяет детализировать данные. Например, рассмотрим таблицу
     <strong>Среднее количество переработок по дням недели</strong>, в которой у одного из специалистов очень высокие
     показатели по переработке. Также можем это видеть на визуализации <strong>Отработанные часы и переработки</strong>.
 </p>
-
 <div>
     <img style="margin: 0 auto; display: block; max-width: 100%;"
          src="/attachments/images/FAQ/USER/EngineersAnalitics/SecondEAexample.jpg"/>
 </div>
-
 <p>Выбираем щелчком мыши в таблице специалиста и нажимаем кнопку <strong>Включить аналитические разрезы</strong>. По
     кнопке <strong>+</strong> детализируем отчет по клиентам и дням недели, чтобы оценить показатели переработки. Дальше
     вы можете смотреть Заявки по дням недели и искать причину переработок. </p>
@@ -434,7 +397,6 @@ keywords: отчет по сотрудникам, sla, показатели по
     <img style="margin: 0 auto; display: block; max-width: 100%;"
          src="/attachments/images/FAQ/USER/EngineersAnalitics/SecondEAexample3.jpg"/>
 </div>
-
 <p id="table2">В таблице <strong>Временные показатели по сотрудникам</strong> находятся основные показатели по
     отработанному времени, переработкам, загрузке в разрезе
     исполнителей. Таблицу можно отсортировать, кликнув по наименованию показателя в шапке таблицы.</p>
@@ -446,7 +408,6 @@ keywords: отчет по сотрудникам, sla, показатели по
     <img style="margin: 0 auto; display: block; max-width: 85%;"
          src="/attachments/images/FAQ/USER/EngineersAnalitics/Table2.jpg"/>
 </div>
-
 <p>Таблица <strong>Разбивка отработанного времени и переработок</strong> отображает: </p>
 <ul>
     <li>время, которое сотрудники должны были отработать согласно графику работ;</li>
@@ -461,7 +422,7 @@ keywords: отчет по сотрудникам, sla, показатели по
 </div>
 <p>Данная таблица особенно полезна для анализа по каждому <strong>Cотруднику</strong> в отдельности. Для того чтобы
     выбрать конкретного
-    исполнителя, щелкните на его ФИО в любой таблице или графике на странице.</p> <!--скрин карточки-->
+    исполнителя, щелкните на его ФИО в любой таблице или графике на странице.</p> 
 <p>Для таблицы показателей также
     доступна
     функция выгрузки в Excel: нажмите на всплывающее контекстное меню (три точки) - Экспортировать данные.</p>
@@ -469,7 +430,6 @@ keywords: отчет по сотрудникам, sla, показатели по
     <img style="margin: 0 auto; display: block; max-width: 75%;"
          src="/attachments/images/FAQ/USER/EngineersAnalitics/Table3.jpg"/>
 </div>
-
 <h5 id="third">Показатели и KPI</h5>
 <p>В верхней части расположены основные показатели:</p>
 <ul>
@@ -502,7 +462,6 @@ keywords: отчет по сотрудникам, sla, показатели по
     <img style="margin: 0 auto; display: block; max-width: 100%;"
          src="/attachments/images/FAQ/USER/EngineersAnalitics/Third.jpg"/>
 </div>
-
 <p>Слева представлена визуализация по показателю <Strong>Коэффициент полезной загрузки исполнителей</Strong>
     (Utilization
     Rate). Он рассчитывается, как продолжительность всех
@@ -517,7 +476,6 @@ keywords: отчет по сотрудникам, sla, показатели по
             href="./Schedule.html">График работы исполнителей</a>, <a
             href="./AttachingFiles.html">Прикрепление выполненных работ в
         web и мобильном приложении</a>.</P>
-
 <p>Сверху представлен <Strong>Коэффициент полезной загрузки исполнителей</Strong> общий по всем исполнителям. Снизу он
     детализирован по
     каждому исполнителю в отдельности. Межотраслевым стандартом считается значение 80%. Оно отмечено на графике черной
@@ -526,18 +484,15 @@ keywords: отчет по сотрудникам, sla, показатели по
     <img style="margin: 0 auto; display: block; max-width: 60%;"
          src="/attachments/images/FAQ/USER/EngineersAnalitics/UR.jpg"/>
 </div>
-
 <p>График <Strong>Динамики показателей</Strong> - универсальный график, который покажет динамику, выбранного вами
     показателя. Выбрать
     показатель можно по нажатию на кнопку <Strong>Настроек</Strong> на боковой панели (справа). Например,
     Динамика изменения среднего количества закрытых заявок в день на исполнителя отображает изменения среднего
     количества закрытых <Strong>Заявок</Strong> за выбранный период в разбивке по дням (неделям или месяцам). </p>
-
 <div>
     <img style="margin: 0 auto; display: block; max-width: 100%;"
          src="/attachments/images/FAQ/USER/EngineersAnalitics/Dynamic2.jpg"/>
 </div>
-
 <p>Таблица <Strong>Базовые показатели по сотрудникам</Strong> содержит базовые показатели в разрезе сотрудников, а также универсальный
     показатель <Strong>HubEx Рейтинг</Strong>. </p>
 <p><Strong>HubEx Рейтинг</Strong> рассчитывается индивидуально по каждому исполнителю на основе четырех показателей:</p>
@@ -547,8 +502,6 @@ keywords: отчет по сотрудникам, sla, показатели по
     <li><Strong>Количество выполненных работ за период (часов)</Strong>;</li>
     <li><Strong>Рейтинг</Strong> (оценка сотрудников заказчиками).</li>
 </ul>
-
-
 <p>Сотрудники с <Strong>HubEx Рейтингом</Strong> = 1 считаются самыми эффективными за выбранный период. Чем больше
     цифра
     показателя <Strong>HubEx Рейтинга</Strong>, тем больше нужно уделить внимания исполнителю и разобраться с возможными
@@ -559,23 +512,18 @@ keywords: отчет по сотрудникам, sla, показатели по
     <img style="margin: 0 auto; display: block; max-width: 75%;"
          src="/attachments/images/FAQ/USER/EngineersAnalitics/Table4.jpg"/>
 </div>
-
 <p>При наведении на ФИО исполнителя в таблице будет всплывать окошко с четырьмя показателями, по которым рассчитывается
     <Strong>HubEx Рейтинг</Strong>.</p>
 <div>
     <img style="margin: 0 auto; display: block; max-width: 100%;"
          src="/attachments/images/FAQ/USER/EngineersAnalitics/HR.jpg"/>
 </div>
-
-
 <p>Диаграмма <Strong>Закрытые заявки по должностям</Strong> отображает процентное соотношение закрытых
     <Strong>Заявок</Strong> в разрезе должностей.
     <Strong>Должность</Strong> устанавливается в карточке <Strong>Сотрудника</Strong>. Подробнее читайте в статье: <a
             href="./CreatingUser.html">Создание пользователя вашей
         системы</a>. </p>
-
  <p>Дополнительно ознакомьтесь с обучающим видео <strong>Заполнение выполненных работ и их помощь в оцифровке ваших показателей и KPI</strong>.</p>
-
 <div class="video-player-container" data-player-id="player25">
     <div class="video-source-selector">
         <button class="source-btn active" data-source="vk">VK</button>
@@ -590,7 +538,6 @@ keywords: отчет по сотрудникам, sla, показатели по
         </div>
     </div>
 </div>    
-
 <h5 id="fourth">Отчет-карточка сотрудника</h5>
 <p>В отчет-карточку по сотруднику можно перейти из любой вкладки <Strong>Отчета по сотруднику</Strong>, щелкнув на его
     ФИО в любой
@@ -606,28 +553,22 @@ keywords: отчет по сотрудникам, sla, показатели по
     <li><Strong>Выполнено работ</Strong> (в часах);</li>
     <li><Strong>Переработки</Strong> (в часах);</li>
     <li><Strong>Рейтинг</Strong>.</li>
-
 </uL>
-
 <div>
     <img style="margin: 0 auto; display: block; max-width: 100%;"
          src="/attachments/images/FAQ/USER/EngineersAnalitics/Card.jpg"/>
 </div>
 <p>Также по <Strong>Cотруднику</Strong> представлен график динамики изменения <Strong>HubEx рейтинга</Strong> за
     выбранный период времени.</p>
-
 <p><Strong>История перемещений</Strong> (геотрекинг) отображает перемещения каждого исполнителя, у которого включена
     функция использования геопозиции. Включить функцию отслеживания исполнителя можно в карточке
     <Strong>Сотрудника</Strong> (флажок
     <Strong>Отслеживать местоположение сотрудника</Strong>).
     С помощью геотрекинга вы можете оценить эффективность работы мобильных
     исполнителей: время в пути, на заявке, остановки, простои. </p>
-
-
 <p>В нижней части отчета представлены круговые диаграммы по закрытым <Strong>Заявкам</Strong>: по <Strong>Типу
     заявки</Strong>, по <Strong>Критичности</Strong> и по <Strong>Видам
     работ</Strong>. </p>
-
 <script>
     function hideSiblingVideo(activeVideo){
         const nextSibling=activeVideo.nextElementSibling
@@ -639,7 +580,6 @@ keywords: отчет по сотрудникам, sla, показатели по
             prevSibling.style.display="none"
         }
     }
- 
     function switchActiveButtons(activeButton){
         const nextSibling=activeButton.nextElementSibling
         const prevSibling=activeButton.previousElementSibling
@@ -653,7 +593,6 @@ keywords: отчет по сотрудникам, sla, показатели по
         activeButton.classList.add(activeClass)
         return activeButton?.dataset?.source
     }
-
     function switchShowVideos(activeContainer,label){
         const videoClass=`video-frame ${label}-frame`
         const videoFrame=activeContainer.querySelector(videoClass)
@@ -663,7 +602,6 @@ keywords: отчет по сотрудникам, sla, показатели по
         hideSiblingVideo(activeVideo[0])
         activeVideo[0].style.display="block"
     }
-
     const allVideoContainers=document.querySelectorAll(".video-player-container")
     allVideoContainers.forEach((container)=>{
         container.addEventListener("click",(e)=>{
@@ -679,7 +617,6 @@ keywords: отчет по сотрудникам, sla, показатели по
         })
     })
 </script>
-
 </body>
 </html>
 

@@ -1,0 +1,199 @@
+# HubEx
+
+> HubEx — облачная FSM-платформа (Field Service Management) для выездного
+> обслуживания: заявки с настраиваемым жизненным циклом, объекты/оборудование,
+> исполнители, SLA, чек-листы, акты, склад, аналитика.
+
+Это машиночитаемый каталог вики HubEx (wiki.hubex.ru). Каждая ссылка ведёт на
+markdown-версию страницы. Страницы-«грабли» помечены ⚠. Не выдумывай факты о
+продукте: нет на страницах — так и скажи.
+
+## Заявки и ЖЦ
+
+- [BusinessProcess](https://wiki.hubex.ru/docs/FAQ/RU/admin/BusinessProcess.html.txt): типовой бизнес-процесс (ЖЦ) заявки на ремонт: таблица стадий и допустимых переходов.
+- [TicketLifeCycle](https://wiki.hubex.ru/docs/FAQ/RU/admin/TicketLifeCycle.html.txt): настройка жизненного цикла заявки: маршрут, переходы между стадиями, ветки ЖЦ.
+- [StageType](https://wiki.hubex.ru/docs/FAQ/RU/admin/StageType.html.txt): настройка стадий заявки: действия и требования при переходе (QR-код, чек-лист, подписанный акт).
+- [StatusType](https://wiki.hubex.ru/docs/FAQ/RU/admin/StatusType.html.txt): создание статуса заявки (название, цвет) для отображения заказчику.
+- [StageVSStatus](https://wiki.hubex.ru/docs/FAQ/RU/admin/StageVSStatus.html.txt): ⚠ разница между Стадией (для сотрудников) и Статусом (для заказчика).
+- [TicketType](https://wiki.hubex.ru/docs/FAQ/RU/admin/TicketType.html.txt): сущность «Тип заявки»: ЖЦ, маска номера, срок закрытия, доступные виды работ и участки.
+- [TicketAttribute](https://wiki.hubex.ru/docs/FAQ/RU/admin/TicketAttribute.html.txt): создание атрибутов (доп.полей) для пунктов чек-листа.
+- [TicketsAgreement](https://wiki.hubex.ru/docs/FAQ/RU/admin/TicketsAgreement.html.txt): настройка линейного и параллельного согласования заявок на примере закупки ТМЦ.
+- [Actuality](https://wiki.hubex.ru/docs/FAQ/RU/admin/Actuality.html.txt): справочник «Актуальность заявки» для оптимизации очередности выполнения.
+- [Criticality](https://wiki.hubex.ru/docs/FAQ/RU/admin/Criticality.html.txt): справочник критичности заявки и её роль в расчёте SLA.
+- [CreatingTicket](https://wiki.hubex.ru/docs/FAQ/RU/user/CreatingTicket.html.txt): создание заявки: поля формы, список заявок, назначение исполнителей, срок закрытия.
+- [ChangingStatus](https://wiki.hubex.ru/docs/FAQ/RU/user/ChangingStatus.html.txt): переход заявки по стадиям и её мягкое удаление.
+- [ChildTicket](https://wiki.hubex.ru/docs/FAQ/RU/user/ChildTicket.html.txt): создание, отслеживание и отображение дочерних заявок.
+- [ElectedTicket](https://wiki.hubex.ru/docs/FAQ/RU/user/ElectedTicket.html.txt): копирование и удаление заявок, поиск удалённых, избранное.
+- [AcceptanceTicket](https://wiki.hubex.ru/docs/FAQ/RU/user/AcceptanceTicket.html.txt): самостоятельное назначение заявки исполнителем из общего списка.
+- [SeveralEngineers](https://wiki.hubex.ru/docs/FAQ/RU/user/SeveralEngineers.html.txt): три способа назначить нескольких исполнителей на заявку.
+- [PlannedTickets](https://wiki.hubex.ru/docs/FAQ/RU/user/PlannedTickets.html.txt): создание и периодичность плановых заявок для регулярного обслуживания.
+- [PlannedTicketsSchedule](https://wiki.hubex.ru/docs/FAQ/RU/user/PlannedTicketsSchedule.html.txt): график обслуживания объектов как табличное представление плановых заявок.
+- [CustomerAgreement](https://wiki.hubex.ru/docs/FAQ/RU/admin/CustomerAgreement.html.txt): настройка согласования заявки с заказчиком: стадии, статусы, оповещения.
+- [ChoiceWorkType](https://wiki.hubex.ru/docs/FAQ/RU/user/ChoiceWorkType.html.txt): от чего зависит выбор вида работ в заявке.
+- [Filters](https://wiki.hubex.ru/docs/FAQ/RU/user/Filters.html.txt): режимы списка заявок, фильтры, быстрые фильтры, поиск.
+- [GroupActionsForTickets](https://wiki.hubex.ru/docs/FAQ/RU/user/GroupActionsForTickets.html.txt): массовое назначение исполнителей и массовое удаление заявок.
+- [HistoryOfChanges](https://wiki.hubex.ru/docs/FAQ/RU/user/HistoryOfChanges.html.txt): вкладка «История изменений» заявки: фиксация событий по полям и стадиям.
+- [ElementsOfInterface](https://wiki.hubex.ru/docs/FAQ/RU/admin/ElementsOfInterface.html.txt): настройка доступа к полям формы заявки (RO/RW/RWM) по ролям и стадиям.
+- [HowToDealWithWhiteScreen](https://wiki.hubex.ru/docs/FAQ/RU/user/HowToDealWithWhiteScreen.html.txt): причина пустой формы заявки: не настроен доступ к полям для новой стадии.
+- [UsersRequests](https://wiki.hubex.ru/docs/FAQ/RU/user/UsersRequests.html.txt): поле «Инициатор заявки», создание/выбор инициатора, история обращений.
+- [AlternativeWays](https://wiki.hubex.ru/docs/FAQ/RU/user/AlternativeWays.html.txt): альтернативные способы подачи заявки: паспорт объекта (QR), email, форма на сайте.
+- [TicketMail](https://wiki.hubex.ru/docs/FAQ/RU/admin/TicketMail.html.txt): интеграция по email (пересылка, IMAP) для автосоздания заявок из писем.
+- [HiddenObjectsTicketsUsers](https://wiki.hubex.ru/docs/FAQ/RU/user/HiddenObjectsTicketsUsers.html.txt): ⚠ причины, почему пользователь не видит заявки/объекты/исполнителей: фильтры vs права доступа.
+
+## Объекты
+
+- [ObjectsType](https://wiki.hubex.ru/docs/FAQ/RU/admin/ObjectsType.html.txt): типы оборудования: настройки (обязательный адрес, привязка видов работ), иерархия объект/оборудование.
+- [ObjectClass](https://wiki.hubex.ru/docs/FAQ/RU/admin/ObjectClass.html.txt): классы оборудования: группировка объектов и заявок по характеристикам (цена, производитель).
+- [PlacesVSObjectsClass](https://wiki.hubex.ru/docs/FAQ/RU/admin/PlacesVSObjectsClass.html.txt): ⚠ разница между Классом оборудования и Участком.
+- [CreatingObjects](https://wiki.hubex.ru/docs/FAQ/RU/user/CreatingObjects.html.txt): создание карточки объекта/оборудования: поля, дочерние объекты, QR-коды, история обслуживания.
+- [CreatingObjTemplates](https://wiki.hubex.ru/docs/FAQ/RU/user/CreatingObjTemplates.html.txt): создание шаблона объекта/оборудования, приёмка и маркировка через мобильное приложение по QR.
+- [ObjectEditing](https://wiki.hubex.ru/docs/FAQ/RU/user/ObjectEditing.html.txt): три способа редактирования данных объекта в мобильном приложении.
+- [ChangeOfObjectType](https://wiki.hubex.ru/docs/FAQ/RU/user/ChangeOfObjectType.html.txt): изменение типа оборудования в карточке объекта.
+- [TheDifferenceBetweenObjectTypes](https://wiki.hubex.ru/docs/FAQ/RU/user/TheDifferenceBetweenObjectTypes.html.txt): ⚠ иерархия объектов: родительский объект с адресом vs дочерний без адреса.
+- [MobileObjects](https://wiki.hubex.ru/docs/FAQ/RU/user/MobileObjects.html.txt): мобильное оборудование (изменяемый адрес) и обновление адреса через заявку.
+- [ObjectListInMob](https://wiki.hubex.ru/docs/FAQ/RU/user/ObjectListInMob.html.txt): список объектов в мобильном приложении, паспорт объекта, создание заявки из паспорта.
+- [DeletedObjects](https://wiki.hubex.ru/docs/FAQ/RU/user/DeletedObjects.html.txt): способы удаления/блокировки компаний, объектов, заявок и почему удаление всегда «мягкое».
+- [FloorPlan](https://wiki.hubex.ru/docs/FAQ/RU/user/FloorPlan.html.txt): план помещения объекта и указание расположения объекта на плане при подаче заявки.
+- [HowToMakePassport](https://wiki.hubex.ru/docs/FAQ/RU/user/HowToMakePassport.html.txt): создание паспорта объекта через привязку QR-кода к объекту и шаблону заявки.
+- [CreatingTaskTemplates](https://wiki.hubex.ru/docs/FAQ/RU/user/CreatingTaskTemplates.html.txt): создание шаблона заявки и QR-кода, паспорт объекта, подача заявки по QR-коду, подтверждение пребывания на объекте.
+- [QRcodeMain](https://wiki.hubex.ru/docs/FAQ/RU/user/QRcodeMain.html.txt): три сценария использования QR-кода: создание объектов, подача заявок, незарегистрированные пользователи.
+- [GroupActions](https://wiki.hubex.ru/docs/FAQ/RU/user/GroupActions.html.txt): быстрые фильтры и массовое изменение параметров списка объектов.
+
+## Компании и договоры
+
+- [CreatingCompany](https://wiki.hubex.ru/docs/FAQ/RU/user/CreatingCompany.html.txt): создание карточки компании: виды, реквизиты, контакты, договоры, импорт/экспорт.
+- [CreatingCustomer](https://wiki.hubex.ru/docs/FAQ/RU/user/CreatingCustomer.html.txt): создание карточки заказчика и перевод заказчика в сотрудники.
+- [CreatingUser](https://wiki.hubex.ru/docs/FAQ/RU/user/CreatingUser.html.txt): создание карточки сотрудника (Общее/Квалификация/Трудоустройство), перевод сотрудника в заказчики.
+- [Contacts](https://wiki.hubex.ru/docs/FAQ/RU/user/Contacts.html.txt): контактные лица в карточках компании и объекта, доступ к ним в заявке.
+- [ContractSchedule](https://wiki.hubex.ru/docs/FAQ/RU/user/ContractSchedule.html.txt): отчёт «График действия договоров»: сроки договоров и заявки вне периода действия.
+
+## Пользователи, роли, участки, навыки
+
+- [Roles](https://wiki.hubex.ru/docs/FAQ/RU/admin/Roles.html.txt): сущность «Роль», базовые роли (Заказчик, Сервисный специалист, Диспетчер), доступ по участкам и полномочиям.
+- [Powers](https://wiki.hubex.ru/docs/FAQ/RU/admin/Powers.html.txt): тематические блоки полномочий ролей в консоли администратора.
+- [UI_Permissions](https://wiki.hubex.ru/docs/FAQ/RU/admin/UI_Permissions.html.txt): раздел UI-полномочий для элементов интерфейса.
+- [Places](https://wiki.hubex.ru/docs/FAQ/RU/admin/Places.html.txt): сущность «Участок»: классификация объектов, сотрудников, заказчиков и типов заявок.
+- [Skills](https://wiki.hubex.ru/docs/FAQ/RU/admin/Skills.html.txt): сущность «Навык»: классификация объектов и сотрудников для автоназначения.
+- [ServiceUsers](https://wiki.hubex.ru/docs/FAQ/RU/admin/ServiceUsers.html.txt): служебные учётные записи: Пользователь API и Анонимный пользователь.
+- [RoleVSPosition](https://wiki.hubex.ru/docs/FAQ/RU/user/RoleVSPosition.html.txt): ⚠ разница между Ролью (права доступа) и Должностью (справочное поле).
+- [SuperAndUsualUser](https://wiki.hubex.ru/docs/FAQ/RU/user/SuperAndUsualUser.html.txt): ⚠ разница между «Системным администратором» без ограничений и обычной учётной записью владельца тенанта.
+- [EngineerVSCustomer](https://wiki.hubex.ru/docs/FAQ/RU/user/EngineerVSCustomer.html.txt): ⚠ разница прав и возможностей ролей Сотрудник и Заказчик.
+- [EnterToMob](https://wiki.hubex.ru/docs/FAQ/RU/user/EnterToMob.html.txt): регистрация и вход сотрудника/заказчика в мобильные приложения.
+- [SelfRegister](https://wiki.hubex.ru/docs/FAQ/RU/user/SelfRegister.html.txt): подача заявки по QR без приложения и самостоятельная регистрация заказчика.
+- [HowToSendInvitation](https://wiki.hubex.ru/docs/FAQ/RU/user/HowToSendInvitation.html.txt): автоотправка приглашения (email/sms) новому сотруднику или заказчику.
+- [ViewRestriction](https://wiki.hubex.ru/docs/FAQ/RU/user/ViewRestriction.html.txt): настройка доступа по ролям к файлам, прикреплённым к заявке или объекту.
+- [WorkSchedule](https://wiki.hubex.ru/docs/FAQ/RU/admin/WorkSchedule.html.txt): графики работы сотрудников (недельный, сменный) для автоназначения.
+- [Schedule](https://wiki.hubex.ru/docs/FAQ/RU/user/Schedule.html.txt): графики работы: типовые графики, недельные/сменные, привязка к сотрудникам и объектам, «Я на смене».
+- [OnDuty](https://wiki.hubex.ru/docs/FAQ/RU/user/OnDuty.html.txt): индивидуальный график и функционал «На смене» (начало/завершение смены).
+
+## SLA и критичности
+
+- [SLA](https://wiki.hubex.ru/docs/FAQ/RU/admin/SLA.html.txt): правила расчёта крайнего срока закрытия заявки в разрезе типа заявки, критичности, вида работ, заказчика, объекта.
+- [RulesOfChoice](https://wiki.hubex.ru/docs/FAQ/RU/admin/RulesOfChoice.html.txt): правила автоназначения исполнителя (навыки, вид работ, график, участок).
+- [RulesOfChoiceGEO](https://wiki.hubex.ru/docs/FAQ/RU/user/RulesOfChoiceGEO.html.txt): автоназначение ближайшего по геопозиции исполнителя.
+- [WorkType](https://wiki.hubex.ru/docs/FAQ/RU/admin/WorkType.html.txt): сущность «Вид работ»: классификация услуг, чек-лист, стоимость, срок закрытия.
+
+## Чек-листы
+
+- [Checklists](https://wiki.hubex.ru/docs/FAQ/RU/user/Checklists.html.txt): создание чек-листов и атрибутов, привязка к объектам/видам работ, заполнение в мобильном приложении.
+
+## Работы и акты
+
+- [ActOFAcceptance](https://wiki.hubex.ru/docs/FAQ/RU/user/ActOFAcceptance.html.txt): формирование Акта выполненных работ, расчёт стоимости, подпись заказчика.
+- [AttachingFiles](https://wiki.hubex.ru/docs/FAQ/RU/user/AttachingFiles.html.txt): прикрепление выполненных работ к заявке в web и мобильном приложении, офлайн-режим.
+- [PrintedFormAct](https://wiki.hubex.ru/docs/FAQ/RU/user/PrintedFormAct.html.txt): печатная форма «Сервисный акт»: фильтры, варианты НДС, экспорт.
+- [PrintedFormActOfAccounting](https://wiki.hubex.ru/docs/FAQ/RU/user/PrintedFormActOfAccounting.html.txt): «Бухгалтерский акт» с обязательными по 402-ФЗ реквизитами.
+- [PrintingFormDesigner](https://wiki.hubex.ru/docs/FAQ/RU/user/PrintingFormDesigner.html.txt): конструктор печатных форм: шаблоны с переменными и таблицами, ограничения.
+- [PaymentInvoice](https://wiki.hubex.ru/docs/FAQ/RU/user/PaymentInvoice.html.txt): печатная форма «Счёт на оплату» по выполненным работам, фильтры, НДС.
+- [Prices](https://wiki.hubex.ru/docs/FAQ/RU/user/Prices.html.txt): стоимости в HubEx: ставка сотрудников, стоимость видов работ и материалов, стоимость заявки, расчёт зарплаты.
+- [Rating](https://wiki.hubex.ru/docs/FAQ/RU/user/Rating.html.txt): система оценки заявок и рейтинга сотрудников, видимость по ролям и стадиям.
+- [OfflineMode](https://wiki.hubex.ru/docs/FAQ/RU/user/OfflineMode.html.txt): офлайн-режим мобильного приложения исполнителя: заявки, работы, чек-листы, одна стадия перехода.
+- [TicketWithMaterials](https://wiki.hubex.ru/docs/FAQ/RU/user/TicketWithMaterials.html.txt): вкладка «Необходимые материалы» в заявке (рекомендация без списания).
+
+## Склад
+
+- [Materials](https://wiki.hubex.ru/docs/FAQ/RU/user/Materials.html.txt): загрузка материалов и создание складов через Excel-импорт, изменение остатков.
+- [MaterialsNew](https://wiki.hubex.ru/docs/FAQ/RU/user/MaterialsNew.html.txt): расширенная версия статьи про склады и материалы, идея «рюкзака» сотрудника.
+- [InventoryAccounting](https://wiki.hubex.ru/docs/FAQ/RU/user/InventoryAccounting.html.txt): ⚠ два сценария складского учёта: с внешней системой (1С) и без неё.
+- [SettingsWithMaterials](https://wiki.hubex.ru/docs/FAQ/RU/user/SettingsWithMaterials.html.txt): доступ к меню «Склады» и право на добавление материалов в выполненную работу по ролям.
+- [Withdrawals](https://wiki.hubex.ru/docs/FAQ/RU/user/Withdrawals.html.txt): расход материалов по заявке и отчёт по израсходованным материалам.
+- [WarehouseOperations](https://wiki.hubex.ru/docs/FAQ/RU/user/WarehouseOperations.html.txt): страница-заглушка (реального содержания нет).
+- [Warehouses](https://wiki.hubex.ru/docs/FAQ/RU/user/Warehouses.html.txt): страница-заглушка (реального содержания нет).
+- [WarehousesGoodsReceipt](https://wiki.hubex.ru/docs/FAQ/RU/user/WarehousesGoodsReceipt.html.txt): страница-заглушка (реального содержания нет).
+
+## Уведомления и каналы
+
+- [Notifications](https://wiki.hubex.ru/docs/FAQ/RU/admin/Notifications.html.txt): настройка оповещений: правила выбора получателя и триггеры (push/email).
+- [NotificationInMob](https://wiki.hubex.ru/docs/FAQ/RU/user/NotificationInMob.html.txt): лента уведомлений в мобильном приложении исполнителя.
+- [NotificationInWeb](https://wiki.hubex.ru/docs/FAQ/RU/user/NotificationInWeb.html.txt): лента уведомлений в web-приложении для руководителей и диспетчеров.
+- [HowToManageNotifications](https://wiki.hubex.ru/docs/FAQ/RU/user/HowToManageNotifications.html.txt): настройка email-уведомления о выполнении заявки через копирование триггера.
+- [HowNotificationsToMobile](https://wiki.hubex.ru/docs/FAQ/RU/user/HowNotificationsToMobile.html.txt): проверка настроек уведомлений на мобильном устройстве.
+- [HowToNotificationsToMobile](https://wiki.hubex.ru/docs/FAQ/RU/user/HowToNotificationsToMobile.html.txt): включение уведомлений от мобильных приложений на устройстве (близко по содержанию к HowNotificationsToMobile).
+- [Messages](https://wiki.hubex.ru/docs/FAQ/RU/user/Messages.html.txt): сообщения по заявке в web и мобильном приложениях, участники чата, разделение чатов с командой и заказчиком.
+- [AnswerTemplate](https://wiki.hubex.ru/docs/FAQ/RU/user/AnswerTemplate.html.txt): шаблоны ответов для чатов с заказчиками и исполнителями.
+- [TelegramIntegration](https://wiki.hubex.ru/docs/FAQ/RU/admin/TelegramIntegration.html.txt): интеграция с Telegram-ботом для приёма и обработки заявок от заказчиков.
+- [HowToContactSupport](https://wiki.hubex.ru/docs/FAQ/RU/user/HowToContactSupport.html.txt): обращение в техподдержку HubEx через чат в web и кнопку в мобильном приложении.
+
+## Доп.поля
+
+- [AdditionalFields](https://wiki.hubex.ru/docs/FAQ/RU/user/AdditionalFields.html.txt): создание и использование дополнительных полей для компаний, объектов, заявок, работ, чек-листов, договоров.
+
+## Аналитика
+
+- [GeneralAnalytics](https://wiki.hubex.ru/docs/FAQ/RU/user/GeneralAnalytics.html.txt): панель Power BI «Общая аналитика»: KPI, динамика поступивших заявок, разрезы.
+- [EngineersAnalytics](https://wiki.hubex.ru/docs/FAQ/RU/user/EngineersAnalytics.html.txt): отчёт Power BI по сотрудникам: заявки и SLA, отработанное время, KPI, рейтинг.
+- [ObjectsAnalytics](https://wiki.hubex.ru/docs/FAQ/RU/user/ObjectsAnalytics.html.txt): отчёт по объектам обслуживания: KPI (MTBF, MTTR), динамика, география.
+- [ClientsAnalytics](https://wiki.hubex.ru/docs/FAQ/RU/user/ClientsAnalytics.html.txt): отчёт «Отчёт для клиента» на Power BI.
+- [ProcessEfficiency](https://wiki.hubex.ru/docs/FAQ/RU/user/ProcessEfficiency.html.txt): отчёт «Анализ эффективности процессов»: проблемы в бизнес-процессах, сравнение эффективности, время прохождения стадий.
+- [TicketsReport](https://wiki.hubex.ru/docs/FAQ/RU/user/TicketsReport.html.txt): раздел «Срез по заявкам»: диаграммы по стадиям, просрочкам, компаниям, загруженности.
+- [Export](https://wiki.hubex.ru/docs/FAQ/RU/user/Export.html.txt): экспорт заявок, медиафайлов, объектов, пользователей, компаний в Excel.
+- [Import](https://wiki.hubex.ru/docs/FAQ/RU/user/Import.html.txt): импорт объектов, пользователей, компаний, заявок через Excel-шаблоны, лимиты и обязательные поля.
+- [GeoPosition](https://wiki.hubex.ru/docs/FAQ/RU/user/GeoPosition.html.txt): просмотр текущей геопозиции сотрудников и заявок на карте.
+- [Geotracking](https://wiki.hubex.ru/docs/FAQ/RU/user/Geotracking.html.txt): «История перемещений»: маршруты, остановки, пробег сотрудников на карте.
+- [TicketsOnMap](https://wiki.hubex.ru/docs/FAQ/RU/user/TicketsOnMap.html.txt): заявки и сотрудники на карте, календарь загруженности, назначение через карту/календарь.
+- [UserOnMap](https://wiki.hubex.ru/docs/FAQ/RU/user/UserOnMap.html.txt): способы посмотреть геопозицию сотрудника и условие включения геотрекинга.
+- [Calendar](https://wiki.hubex.ru/docs/FAQ/RU/user/Calendar.html.txt): календарь заявок (день/неделя/месяц) в web и мобильном приложении, назначение и уведомления.
+
+## Администрирование и деплой
+
+- [AboutHubEx](https://wiki.hubex.ru/docs/FAQ/RU/admin/AboutHubEx.html.txt): общее описание платформы HubEx: сравнение с Help Desk/ITSM/CRM/ТОиР/SCADA, компоненты, способы доработки, стек.
+- [HowToEnterTheAdmin](https://wiki.hubex.ru/docs/FAQ/RU/admin/HowToEnterTheAdmin.html.txt): вход в консоль администратора и что делать при нехватке прав.
+- [Deployment](https://wiki.hubex.ru/docs/FAQ/RU/admin/Deployment.html.txt): сравнение вариантов развёртывания: публичное облако, облако на выделенных серверах, on-premise.
+- [OnPremise](https://wiki.hubex.ru/docs/FAQ/RU/admin/OnPremise.html.txt): страница-заглушка про On-Premise (реального содержания нет).
+- [Branding](https://wiki.hubex.ru/docs/FAQ/RU/user/Branding.html.txt): требования к логотипу компании и брендирование web/мобильного приложения (подписка «Корпорация»).
+- [MobileDevice](https://wiki.hubex.ru/docs/FAQ/RU/user/MobileDevice.html.txt): технические требования к Android/iOS-устройствам для мобильных приложений HubEx.
+- [GeoSettings](https://wiki.hubex.ru/docs/FAQ/RU/user/GeoSettings.html.txt): включение геолокации и настроек энергосбережения на iPhone/Samsung/Xiaomi/Huawei.
+- [GEOinMob](https://wiki.hubex.ru/docs/FAQ/RU/user/GEOinMob.html.txt): зачем нужна геолокация мобильному приложению исполнителя и какие настройки телефона мешают GPS.
+- [KnowledgeBase](https://wiki.hubex.ru/docs/FAQ/RU/user/KnowledgeBase.html.txt): база знаний HubEx как виджет партнёра HiHub: рабочие пространства, разделы, статьи, роли доступа.
+- [HubExAI](https://wiki.hubex.ru/docs/FAQ/RU/user/HubExAI.html.txt): встроенный AI-чат-бот HubEx AI: назначение, вызов, вопросы прямо в интерфейсе.
+- [HubExStepByStep](https://wiki.hubex.ru/docs/FAQ/RU/user/HubExStepByStep.html.txt): первые шаги в HubEx: заполнение справочников и способы создания заявок.
+- [Glossary](https://wiki.hubex.ru/docs/FAQ/RU/user/Glossary.html.txt): глоссарий основных терминов HubEx.
+
+## Интеграции и API
+
+- [RESTAPI](https://wiki.hubex.ru/docs/FAQ/RU/admin/RESTAPI.html.txt): обзор REST API: HTTP-методы, примеры интеграций с CRM, 1С, мессенджерами, системами мониторинга.
+- [StartIntegrationAPI](https://wiki.hubex.ru/docs/FAQ/RU/admin/StartIntegrationAPI.html.txt): начало работы с REST API: сервисный пользователь, access token, примеры запросов (Postman, cURL, Python).
+- [ExampleRequestsAPI](https://wiki.hubex.ru/docs/FAQ/RU/admin/ExampleRequestsAPI.html.txt): примеры REST API-запросов: заявки, объекты, компании, пользователи, стадии, сообщения, файлы.
+- [Integration](https://wiki.hubex.ru/docs/FAQ/RU/admin/Integration.html.txt): интеграция с Битрикс24 через сервис Albato (связки, токены, триггеры).
+- [IntegrationBitrix24](https://wiki.hubex.ru/docs/FAQ/RU/admin/IntegrationBitrix24.html.txt): альтернативная интеграция с Битрикс24 через приложение из Маркетплейса Битрикс24.
+- [SSOintegration](https://wiki.hubex.ru/docs/FAQ/RU/admin/SSOintegration.html.txt): единый вход SSO: протоколы (SAML, OAuth2/OIDC, LDAP), настройка через Keycloak.
+- [HowToManageGmailIntegration](https://wiki.hubex.ru/docs/FAQ/RU/user/HowToManageGmailIntegration.html.txt): настройка доступа «ненадёжных приложений» в Google для интеграции HubEx с Gmail.
+
+## Моб.приложения
+
+- [CustomerApp](https://wiki.hubex.ru/docs/FAQ/RU/user/CustomerApp.html.txt): мобильное приложение HubEx Заказчик: вход, создание заявки, чат, отмена, приёмка работ, оценка исполнителя.
+- [CustomerWeb](https://wiki.hubex.ru/docs/FAQ/RU/user/CustomerWeb.html.txt): клиентский веб-портал заказчика: вход, создание заявки, чат, печать акта, аналитика.
+- [RouteToObject](https://wiki.hubex.ru/docs/FAQ/RU/user/RouteToObject.html.txt): построение маршрута до объекта через внешние карты (Яндекс, 2ГИС, Google).
+
+
+## Новые страницы (разложить по темам)
+- [Руководство пользователя HubEx: видео](https://wiki.hubex.ru/docs/FAQ/RU/user/HubExVids.html.txt): подборка обучающих видео по HubEx: обзор функций, первые шаги, импорт данных через Excel.
+- [Маркировка Честный знак (Data Matrix)](https://wiki.hubex.ru/docs/FAQ/RU/user/AboutDataMatrix.html.txt): как включить и настроить сканирование кодов Data Matrix при списании маркированных материалов по заявке: полномочия роли, признак «Маркируемый материал», обязательность сканирования и работа в мобильном и веб-приложении.
+
+
+
+## Релиз-ноуты
+
+Полный список релиз-ноутов вынесен отдельно — нужен только для вопросов
+«что нового / что изменилось»:
+- [Релиз-ноуты HubEx](https://wiki.hubex.ru/llms-releasenotes.txt): хронология релизов, по строке на релиз.

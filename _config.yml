@@ -16,3 +16,4 @@ plugins:
 exclude:
   - LINK_MAP.md
   - BROKEN_LINKS.md
+  - specs/

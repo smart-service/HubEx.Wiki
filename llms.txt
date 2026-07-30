@@ -174,6 +174,7 @@ markdown-версию страницы. Страницы-«грабли» пом
 - [RESTAPI](https://wiki.hubex.ru/llms/docs/FAQ/RU/admin/RESTAPI.html.txt): обзор REST API: HTTP-методы, примеры интеграций с CRM, 1С, мессенджерами, системами мониторинга.
 - [StartIntegrationAPI](https://wiki.hubex.ru/llms/docs/FAQ/RU/admin/StartIntegrationAPI.html.txt): начало работы с REST API: сервисный пользователь, access token, примеры запросов (Postman, cURL, Python).
 - [ExampleRequestsAPI](https://wiki.hubex.ru/llms/docs/FAQ/RU/admin/ExampleRequestsAPI.html.txt): примеры REST API-запросов: заявки, объекты, компании, пользователи, стадии, сообщения, файлы.
+- [REST API HubEx — полный справочник](https://wiki.hubex.ru/api/llms.txt): исчерпывающий технический справочник REST API для интеграторов — все 22 сервиса, каждая ручка, точные схемы типов, проверенные практикой грабли. Статьи выше — обзор и первые шаги; здесь — полная матчасть.
 - [Integration](https://wiki.hubex.ru/llms/docs/FAQ/RU/admin/Integration.html.txt): интеграция с Битрикс24 через сервис Albato (связки, токены, триггеры).
 - [IntegrationBitrix24](https://wiki.hubex.ru/llms/docs/FAQ/RU/admin/IntegrationBitrix24.html.txt): альтернативная интеграция с Битрикс24 через приложение из Маркетплейса Битрикс24.
 - [SSOintegration](https://wiki.hubex.ru/llms/docs/FAQ/RU/admin/SSOintegration.html.txt): единый вход SSO: протоколы (SAML, OAuth2/OIDC, LDAP), настройка через Keycloak.

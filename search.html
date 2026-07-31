@@ -1,0 +1,53 @@
+---
+layout: default
+title: Результаты поиска
+---
+
+<style>
+  .search-results-list { list-style: none; padding: 0; }
+  .search-results-list li { margin-bottom: 1.5em; }
+  .search-results-list mark { background: #fff3a3; }
+</style>
+
+<div id="search-results"></div>
+
+<script type="module">
+  const params = new URLSearchParams(window.location.search);
+  const query = params.get('q') || '';
+  const resultsEl = document.getElementById('search-results');
+
+  function renderMessage(text) {
+    const p = document.createElement('p');
+    p.textContent = text;
+    resultsEl.appendChild(p);
+  }
+
+  if (!query) {
+    renderMessage('Введите запрос в поле поиска.');
+  } else {
+    const pagefind = await import('/pagefind/pagefind.js');
+    await pagefind.init();
+    const search = await pagefind.search(query);
+    const results = await Promise.all(search.results.map((r) => r.data()));
+
+    renderMessage(`Результатов: ${results.length} по запросу «${query}»`);
+
+    const list = document.createElement('ul');
+    list.className = 'search-results-list';
+    for (const result of results) {
+      const item = document.createElement('li');
+
+      const link = document.createElement('a');
+      link.href = result.url;
+      link.textContent = result.meta.title || result.url;
+
+      const excerpt = document.createElement('p');
+      excerpt.innerHTML = result.excerpt;
+
+      item.appendChild(link);
+      item.appendChild(excerpt);
+      list.appendChild(item);
+    }
+    resultsEl.appendChild(list);
+  }
+</script>

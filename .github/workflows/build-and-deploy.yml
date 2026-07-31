@@ -54,6 +54,9 @@ jobs:
           source: ./
           destination: ./_site
 
+      - name: Fix _site ownership after Docker-based Jekyll build
+        run: sudo chown -R $(id -u):$(id -g) _site
+
       - name: Index site with Pagefind
         run: npx pagefind --site _site
 

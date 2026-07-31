@@ -1,1 +1,1 @@
-Sitemap: wiki.hubex.ru/docs/sitemap.txt
+Sitemap: https://wiki.hubex.ru/sitemap.xml

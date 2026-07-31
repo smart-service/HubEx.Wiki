@@ -217,4 +217,63 @@ withTempArticle(
   }
 );
 
+// Task 10 refinement 2: реальный корпус (найдено контроллером на 252 файлах)
+// часто уже содержит front matter с ПУСТЫМИ полями вида "description: " (без
+// значения после двоеточия) — gray-matter/js-yaml разбирают это в JS `null`.
+// Когда backfillFile переписывает файл (например, чтобы добавить title),
+// matter.stringify пересериализует ВЕСЬ объект data целиком, и js-yaml по
+// умолчанию рендерит `null` как буквальный текст "null" — так нетронутое
+// поле "description: " превращается в "description: null", хотя backfillFile
+// это поле не трогал вовсе. Тест воспроизводит ровно этот сценарий (см.
+// docs/FAQ/RU/ReleaseNotes/Act30112020.md) и проверяет РЕЗУЛЬТАТ НА ДИСКЕ
+// (а не только возвращённый объект data): заполниться должны только
+// category/title, а description/keywords обязаны выглядеть как раньше
+// (round-trip), а не стать словом "null".
+withTempArticle(
+  'docs/FAQ/RU/admin',
+  'BlankFieldsRoundTrip.md',
+  '---\ntitle: \ndescription: \nkeywords: \n---\n# Заголовок из тела для бэкфилла\n\nТекст.\n',
+  (filePath) => {
+    const before = fs.readFileSync(filePath, 'utf8');
+    const beforeDescriptionLine = before.split('\n').find((line) => line.startsWith('description:'));
+    const beforeKeywordsLine = before.split('\n').find((line) => line.startsWith('keywords:'));
+
+    const result = backfillFile(filePath);
+    assert.deepStrictEqual(
+      result.changes.sort(),
+      ['category=admin', 'title="Заголовок из тела для бэкфилла"'].sort(),
+      'заполниться должны только category и title — для description/keywords нет источника значения'
+    );
+
+    const after = fs.readFileSync(filePath, 'utf8');
+    const afterDescriptionLine = after.split('\n').find((line) => line.startsWith('description:'));
+    const afterKeywordsLine = after.split('\n').find((line) => line.startsWith('keywords:'));
+
+    assert.ok(
+      !/\bnull\b/i.test(afterDescriptionLine),
+      `строка description на диске не должна содержать литеральный текст "null": ${JSON.stringify(afterDescriptionLine)}`
+    );
+    assert.ok(
+      !/\bnull\b/i.test(afterKeywordsLine),
+      `строка keywords на диске не должна содержать литеральный текст "null": ${JSON.stringify(afterKeywordsLine)}`
+    );
+
+    assert.strictEqual(
+      afterDescriptionLine,
+      beforeDescriptionLine,
+      'нетронутое поле description должно выглядеть на диске так же, как до бэкфилла (round-trip), а не стать словом "null"'
+    );
+    assert.strictEqual(
+      afterKeywordsLine,
+      beforeKeywordsLine,
+      'нетронутое поле keywords должно выглядеть на диске так же, как до бэкфилла (round-trip), а не стать словом "null"'
+    );
+
+    assert.ok(
+      after.includes('title: Заголовок из тела для бэкфилла'),
+      'title должен получить производное из тела значение (это поведение не должно измениться)'
+    );
+  }
+);
+
 console.log('Все тесты backfill-front-matter прошли успешно.');

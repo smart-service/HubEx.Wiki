@@ -2,6 +2,7 @@
 const fs = require('fs');
 const path = require('path');
 const matter = require('gray-matter');
+const yaml = require('js-yaml');
 const { safeParse } = require('./front-matter-fields');
 
 const FOLDER_CATEGORY = {
@@ -9,6 +10,75 @@ const FOLDER_CATEGORY = {
   user: 'user',
   ReleaseNotes: 'releasenotes',
 };
+
+// Task 10 refinement 2: у реального корпуса (обнаружено контроллером на всех
+// 252 файлах) многие статьи уже содержат front matter с ПУСТЫМИ полями вида
+// "description: " (без значения после двоеточия) — gray-matter/js-yaml
+// разбирают такое значение в JS `null`. matter.stringify() ниже пересобирает
+// ВЕСЬ front matter из объекта data целиком (а не только изменённые поля), а
+// стандартная схема js-yaml (DEFAULT_SAFE_SCHEMA, которую использует
+// gray-matter под капотом через yaml.safeDump) рендерит `null` как буквальный
+// 3-буквенный текст "null" — так нетронутое "description: " превращалось бы
+// в "description: null", хотя backfillFile это поле вообще не трогал.
+//
+// Казалось бы естественным решением выглядит опция js-yaml dump()
+// `styles: { '!!null': 'empty' }`, но стиля 'empty' в установленной версии
+// js-yaml (3.15.0, зафиксирована через gray-matter@4.0.3 -> js-yaml@^3.13.1)
+// не существует: node_modules/js-yaml/lib/js-yaml/type/null.js объявляет
+// только 'canonical' (~), 'lowercase' (null, по умолчанию), 'uppercase'
+// (NULL) и 'camelcase' (Null) — подтверждено и чтением исходников, и прямым
+// запуском (`styles: {'!!null': 'empty'}` бросает YAMLException: "tag
+// resolver accepts not "empty" style"). Поэтому вместо styles здесь
+// используется другой, тоже официальный и документированный механизм
+// js-yaml — своя Schema с переопределённым implicit-типом для `!!null`,
+// чей represent() всегда возвращает пустую строку.
+//
+// Как это доходит до js-yaml: gray-matter's lib/stringify.js вызывает
+// `engine.stringify(data, options)`, где options — это ТРЕТИЙ аргумент,
+// переданный в matter.stringify(content, data, options) вызывающим кодом
+// НИЖЕ, БЕЗ дефолтов/слияния (в отличие от остальных opts, прогоняемых через
+// defaults()); engines.js регистрирует `engine.stringify = yaml.safeDump`,
+// то есть options передаётся в yaml.safeDump как есть. safeDump() делает
+// `common.extend({ schema: DEFAULT_SAFE_SCHEMA }, options)` — extend()
+// копирует ключи ИЗ options ПОВЕРХ дефолтов, так что наш `options.schema`
+// корректно замещает DEFAULT_SAFE_SCHEMA. Всё это подтверждено прямым
+// запуском node -e с полным путём matter.stringify(...) перед тем, как
+// попасть в этот файл.
+//
+// resolve() ниже обязателен и должен в точности повторять поведение
+// встроенного null-типа (а не полагаться на дефолт Type() — функцию, всегда
+// возвращающую true): resolve используется js-yaml при выборе между plain- и
+// quoted-стилем ЛЮБОГО скаляра (chooseScalarStyle -> testAmbiguousType
+// проверяет resolve() каждого implicit-типа, включая наш), а с resolve по
+// умолчанию (always-true) абсолютно ЛЮБАЯ строка — включая ключи объекта и
+// уже заполненный title — ошибочно посчиталась бы неоднозначной с null и
+// была бы взята в кавычки. Это не гипотеза: без корректного resolve() ниже
+// прямой тестовый прогон дал `'title': 'Hello'` вместо `title: Hello`.
+function resolveAsYamlNull(data) {
+  if (data === null) return true;
+  const max = data.length;
+  return (
+    (max === 1 && data === '~') ||
+    (max === 4 && (data === 'null' || data === 'Null' || data === 'NULL'))
+  );
+}
+
+const BLANK_NULL_TYPE = new yaml.Type('tag:yaml.org,2002:null', {
+  kind: 'scalar',
+  resolve: resolveAsYamlNull,
+  construct: () => null,
+  predicate: (object) => object === null,
+  represent: () => '',
+});
+
+// DEFAULT_SAFE_SCHEMA — та же база, которую gray-matter/yaml.safeDump
+// использовали бы по умолчанию (см. комментарий выше); include сохраняет всё
+// остальное поведение схемы (типы для дат, бинарных данных и т.д.)
+// нетронутым — меняется только represent() для null.
+const BLANK_NULL_SCHEMA = new yaml.Schema({
+  include: [yaml.DEFAULT_SAFE_SCHEMA],
+  implicit: [BLANK_NULL_TYPE],
+});
 
 function categoryForFile(filePath) {
   const folder = path.basename(path.dirname(filePath));
@@ -177,7 +247,13 @@ function backfillFile(filePath, legacyTitlesPath = DEFAULT_LEGACY_TITLES_PATH) {
   }
 
   if (changes.length > 0) {
-    const updated = matter.stringify(parsed.content, data);
+    // schema: BLANK_NULL_SCHEMA — единственная причина третьего аргумента:
+    // не дать нетронутым null/пустым полям (см. комментарий у
+    // BLANK_NULL_SCHEMA выше) превратиться в буквальный текст "null" при
+    // пересборке front matter. На то, какие поля здесь получают значение
+    // (title/category derivation above), эта опция никак не влияет — она
+    // касается только сериализации того, что уже лежит в data.
+    const updated = matter.stringify(parsed.content, data, { schema: BLANK_NULL_SCHEMA });
     fs.writeFileSync(filePath, updated);
   }
 

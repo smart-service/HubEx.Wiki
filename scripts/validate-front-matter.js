@@ -1,11 +1,17 @@
 #!/usr/bin/env node
 const fs = require('fs');
-const matter = require('gray-matter');
-const { missingFields } = require('./front-matter-fields');
+const { missingFields, safeParse } = require('./front-matter-fields');
 
 function validateFile(filePath) {
   const raw = fs.readFileSync(filePath, 'utf8');
-  const { data } = matter(raw);
+  const { data, error } = safeParse(raw);
+  if (error) {
+    // Некорректный YAML во front matter (например, неэкранированный ":" в значении).
+    // Возвращаем строку, которая не может совпасть с реальным именем поля,
+    // чтобы main() (проверяющий missing.length > 0) корректно провалил сборку,
+    // а сообщение сразу объясняло причину — без падения со стектрейсом.
+    return [`malformed front matter: ${error}`];
+  }
   return missingFields(data);
 }
 

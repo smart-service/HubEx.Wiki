@@ -276,4 +276,46 @@ withTempArticle(
   }
 );
 
+// Покрытие пути matter.stringify с реальным, непустым значением поля:
+// backfillFile должна заполнить пустой title (чтобы вызвать matter.stringify),
+// при этом оставив нетронутое поле description неизменённым после пересериализации.
+// Это проверяет, что BLANK_NULL_SCHEMA не повредит реальные значения и
+// новый stringify-путь работает корректно при наличии как null-полей, так и
+// реальных полей в front matter.
+withTempArticle(
+  'docs/FAQ/RU/admin',
+  'RealFieldSurvivesStringify.md',
+  '---\ntitle: \ndescription: Реальное непустое описание статьи\n---\n# Заголовок из тела\n',
+  (filePath) => {
+    const before = fs.readFileSync(filePath, 'utf8');
+    const beforeDescriptionLine = before.split('\n').find((line) => line.startsWith('description:'));
+
+    const result = backfillFile(filePath);
+    assert.deepStrictEqual(
+      result.changes.sort(),
+      ['category=admin', 'title="Заголовок из тела"'].sort(),
+      'должны заполниться category и title, description не должен измениться'
+    );
+
+    const after = fs.readFileSync(filePath, 'utf8');
+    const afterDescriptionLine = after.split('\n').find((line) => line.startsWith('description:'));
+
+    assert.strictEqual(
+      afterDescriptionLine,
+      beforeDescriptionLine,
+      'нетронутое поле description с реальным значением должно остаться неизменённым (round-trip), не быть модифицировано новым stringify вызовом'
+    );
+
+    assert.ok(
+      afterDescriptionLine.includes('Реальное непустое описание статьи'),
+      'строка description должна содержать оригинальное значение, а не быть пустой или "null"'
+    );
+
+    assert.ok(
+      after.includes('title: Заголовок из тела'),
+      'title должен получить производное значение из тела статьи'
+    );
+  }
+);
+
 console.log('Все тесты backfill-front-matter прошли успешно.');

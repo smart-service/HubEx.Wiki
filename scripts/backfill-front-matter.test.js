@@ -2,7 +2,7 @@ const assert = require('assert');
 const fs = require('fs');
 const os = require('os');
 const path = require('path');
-const { backfillFile, categoryForFile, titleFromBody } = require('./backfill-front-matter');
+const { backfillFile, categoryForFile, titleFromBody, loadLegacyTitles } = require('./backfill-front-matter');
 
 function withTempArticle(relativeDir, fileName, content, fn) {
   const root = fs.mkdtempSync(path.join(os.tmpdir(), 'backfill-test-'));
@@ -12,6 +12,21 @@ function withTempArticle(relativeDir, fileName, content, fn) {
   fs.writeFileSync(filePath, content);
   try {
     fn(filePath);
+  } finally {
+    fs.rmSync(root, { recursive: true, force: true });
+  }
+}
+
+// Пишет карту исторических заголовков (форма legacy-titles.json) во
+// временный файл и передаёт его путь в fn — так тест может подсунуть
+// backfillFile собственную, контролируемую карту вместо реальной
+// .superpowers/sdd/legacy-titles.json.
+function withTempLegacyMap(mapObject, fn) {
+  const root = fs.mkdtempSync(path.join(os.tmpdir(), 'backfill-legacy-'));
+  const mapPath = path.join(root, 'legacy-titles.json');
+  fs.writeFileSync(mapPath, JSON.stringify(mapObject));
+  try {
+    fn(mapPath);
   } finally {
     fs.rmSync(root, { recursive: true, force: true });
   }
@@ -102,6 +117,103 @@ withTempArticle(
 
     const after = fs.readFileSync(filePath, 'utf8');
     assert.strictEqual(after, before, 'повреждённый файл не должен переписываться');
+  }
+);
+
+// Task 10 refinement: карта исторических заголовков (legacy-titles.json,
+// разово выгруженная контроллером из старого поискового индекса
+// assets/tipuesearch/tipuesearch_content.js, удалённого в более ранней
+// задаче) должна иметь приоритет над titleFromBody, даже если у тела статьи
+// есть собственный Markdown-заголовок, который titleFromBody успешно бы
+// распознал. Это подтверждает порядок приоритета источников title, а не
+// просто то, что чем-то заполнилось.
+withTempArticle(
+  'docs/FAQ/RU/admin',
+  'LegacyMapped.md',
+  '# Заголовок из тела\n\nТекст.\n',
+  (filePath) => {
+    withTempLegacyMap({ [filePath]: 'Историческое название статьи' }, (legacyMapPath) => {
+      const result = backfillFile(filePath, legacyMapPath);
+      assert.deepStrictEqual(
+        result.changes.sort(),
+        ['category=admin', 'title="Историческое название статьи"'].sort(),
+        'title должен браться из карты исторических заголовков, а не из тела статьи'
+      );
+
+      const after = fs.readFileSync(filePath, 'utf8');
+      assert.ok(
+        after.includes('title: Историческое название статьи'),
+        'записанный front matter должен содержать исторический заголовок из карты'
+      );
+      assert.ok(
+        !after.includes('title: Заголовок из тела'),
+        'заголовок, который извлёк бы titleFromBody, не должен попасть в поле title front matter при наличии записи в карте'
+      );
+    });
+  }
+);
+
+// Файл, путь которого отсутствует в карте исторических заголовков (даже
+// когда карта непуста и содержит записи для других файлов), должен
+// по-прежнему корректно откатываться на titleFromBody — регрессионное
+// покрытие поведения, существовавшего до этого задания.
+withTempArticle(
+  'docs/FAQ/RU/admin',
+  'NotInLegacyMap.md',
+  '# Заголовок из тела снова\n\nТекст.\n',
+  (filePath) => {
+    withTempLegacyMap(
+      { 'docs/FAQ/RU/admin/SomeOtherFile.md': 'Чужой исторический заголовок' },
+      (legacyMapPath) => {
+        const result = backfillFile(filePath, legacyMapPath);
+        assert.deepStrictEqual(
+          result.changes.sort(),
+          ['category=admin', 'title="Заголовок из тела снова"'].sort(),
+          'при отсутствии файла в карте title должен по-прежнему браться из titleFromBody'
+        );
+      }
+    );
+  }
+);
+
+// loadLegacyTitles на несуществующем пути должен молча вернуть пустую карту,
+// а не упасть — сценарий "миграция завершена, scratch-файл
+// .superpowers/sdd/legacy-titles.json подчищен" (или его вообще нет в чужом
+// чекауте, так как файл не отслеживается git).
+{
+  const missingMapRoot = fs.mkdtempSync(path.join(os.tmpdir(), 'backfill-no-legacy-'));
+  const missingMapPath = path.join(missingMapRoot, 'does-not-exist.json');
+  try {
+    assert.deepStrictEqual(
+      loadLegacyTitles(missingMapPath),
+      {},
+      'loadLegacyTitles должен вернуть пустую карту, если файл карты не существует, а не упасть'
+    );
+  } finally {
+    fs.rmSync(missingMapRoot, { recursive: true, force: true });
+  }
+}
+
+// То же самое, но сквозь весь backfillFile: отсутствующий файл карты не
+// должен приводить к падению, а title по-прежнему должен выводиться через
+// titleFromBody, как и до этого задания.
+withTempArticle(
+  'docs/FAQ/RU/admin',
+  'NoLegacyMapFile.md',
+  '# Заголовок без карты\n\nТекст.\n',
+  (filePath) => {
+    const missingMapRoot = fs.mkdtempSync(path.join(os.tmpdir(), 'backfill-no-legacy-'));
+    const missingMapPath = path.join(missingMapRoot, 'does-not-exist.json');
+    try {
+      const result = backfillFile(filePath, missingMapPath);
+      assert.deepStrictEqual(
+        result.changes.sort(),
+        ['category=admin', 'title="Заголовок без карты"'].sort(),
+        'при отсутствующем файле карты backfillFile не должен падать — title берётся из titleFromBody'
+      );
+    } finally {
+      fs.rmSync(missingMapRoot, { recursive: true, force: true });
+    }
   }
 );
 

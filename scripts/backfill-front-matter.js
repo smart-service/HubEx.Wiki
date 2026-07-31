@@ -46,6 +46,76 @@ function titleFromBody(content) {
   return null;
 }
 
+// Путь к разово выгруженной карте исторических заголовков по умолчанию —
+// см. подробности в комментарии к loadLegacyTitles ниже. Вычисляется
+// относительно расположения самого скрипта (scripts/), а не как абсолютный
+// путь конкретной машины, чтобы работать в любом чекауте репозитория.
+const DEFAULT_LEGACY_TITLES_PATH = path.join(__dirname, '..', '.superpowers', 'sdd', 'legacy-titles.json');
+
+// Кэш уже загруженных карт по пути к файлу, чтобы при реальном запуске CLI
+// (backfillFile вызывается по разу на файл, файлов — сотни) JSON карты
+// исторических заголовков читался и парсился с диска один раз за процесс, а
+// не на каждый файл.
+const legacyTitlesCache = {};
+
+// Загружает карту исторических заголовков вида
+// { "<путь от корня репозитория>": "<заголовок>" }. Эта карта — разовая
+// миграционная выгрузка (сделанная контроллером задачи, не этим скриптом) из
+// заголовков старого поискового индекса
+// assets/tipuesearch/tipuesearch_content.js (удалён в более ранней задаче,
+// поиск на нём больше не работает). Эти заголовки человек-редактор когда-то
+// подобрал вручную и они, как правило, чище/точнее того, что можно вывести
+// эвристикой из тела статьи (titleFromBody) — а для статей с заголовком
+// уровня <h4> и глубже они вообще единственный источник, так как
+// titleFromBody распознаёт только Markdown `#` и HTML <h1>/<h2> (см.
+// комментарий там).
+//
+// Файл — гитигнорнутый scratch-артефакт (.superpowers/sdd/, не отслеживается
+// git) и не гарантированно существует: ни в чужом чекауте, ни после того как
+// эта разовая миграция будет выполнена и scratch-файл подчистят. Поэтому
+// отсутствие файла (ENOENT) или некорректный JSON — это не ошибка, а сигнал
+// "исторических данных нет для этого запуска": карта считается пустой, и
+// backfillFile молча откатывается на titleFromBody для всех файлов, как и до
+// появления этой карты.
+function loadLegacyTitles(mapPath) {
+  if (Object.prototype.hasOwnProperty.call(legacyTitlesCache, mapPath)) {
+    return legacyTitlesCache[mapPath];
+  }
+
+  let legacyTitles;
+  try {
+    legacyTitles = JSON.parse(fs.readFileSync(mapPath, 'utf8'));
+  } catch (e) {
+    legacyTitles = {};
+  }
+
+  legacyTitlesCache[mapPath] = legacyTitles;
+  return legacyTitles;
+}
+
+// Ищет исторический заголовок файла в уже загруженной карте legacyTitles.
+// Возвращает значение из карты «как есть» (в том числе с окружающими
+// пробелами, если они были в исходных данных — известно как минимум одно
+// такое значение в реальной карте) — раз это человеком выверенный заголовок,
+// его не нужно нормализовать, как titleFromBody нормализует извлечённый из
+// разметки текст.
+//
+// Карта ключуется путями относительно корня репозитория с прямыми слэшами.
+// Именно в таком виде filePath приходит при реальном запуске:
+// node scripts/backfill-front-matter.js $(git ls-files 'docs/FAQ/RU/**/*.md')
+// — git ls-files всегда выводит пути с прямыми слэшами независимо от ОС, и
+// эти строки без какого-либо преобразования попадают в process.argv, то
+// есть в filePath. В тестах filePath — абсолютный путь во временном
+// каталоге; он по построению не совпадает ни с одним ключом реальной карты
+// (кроме случаев, когда тест сам конструирует карту специально под этот
+// filePath, чтобы проверить приоритет).
+function legacyTitleForFile(filePath, legacyTitles) {
+  if (Object.prototype.hasOwnProperty.call(legacyTitles, filePath)) {
+    return legacyTitles[filePath];
+  }
+  return null;
+}
+
 // Бэкфиллит category/title в front matter одного файла.
 //
 // Возвращает одну из трёх различимых форм результата:
@@ -58,7 +128,13 @@ function titleFromBody(content) {
 //    docs/FAQ/RU/**/*.md). В этом случае решать, какое значение чинить, — это
 //    редакторская задача вне рамок автоматического бэкфилла: файл пропускается
 //    без изменений и без попытки угадать исправление.
-function backfillFile(filePath) {
+//
+// legacyTitlesPath — необязательный путь к карте исторических заголовков
+// (см. loadLegacyTitles); по умолчанию — реальный
+// .superpowers/sdd/legacy-titles.json. Параметр существует в первую очередь
+// для тестов, которым нужно подставить контролируемую карту вместо реальной;
+// реальный CLI-вызов ниже полагается на значение по умолчанию.
+function backfillFile(filePath, legacyTitlesPath = DEFAULT_LEGACY_TITLES_PATH) {
   const raw = fs.readFileSync(filePath, 'utf8');
   const { error } = safeParse(raw);
   if (error) {
@@ -84,7 +160,12 @@ function backfillFile(filePath) {
   }
 
   if (!data.title) {
-    const derived = titleFromBody(parsed.content);
+    // Приоритет источников заголовка: сначала карта исторических
+    // заголовков (человек-выверенные, точнее и шире по покрытию — см.
+    // legacyTitleForFile/loadLegacyTitles), и только если там нет записи для
+    // этого файла — эвристика titleFromBody, как и раньше.
+    const legacyTitles = loadLegacyTitles(legacyTitlesPath);
+    const derived = legacyTitleForFile(filePath, legacyTitles) || titleFromBody(parsed.content);
     if (derived) {
       data.title = derived;
       changes.push(`title="${derived}"`);
@@ -103,7 +184,14 @@ function backfillFile(filePath) {
   return { changes, stillMissing, malformed: false };
 }
 
-module.exports = { backfillFile, categoryForFile, titleFromBody };
+module.exports = {
+  backfillFile,
+  categoryForFile,
+  titleFromBody,
+  loadLegacyTitles,
+  legacyTitleForFile,
+  DEFAULT_LEGACY_TITLES_PATH,
+};
 
 if (require.main === module) {
   const files = process.argv.slice(2);

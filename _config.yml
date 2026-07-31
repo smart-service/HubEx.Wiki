@@ -18,3 +18,7 @@ exclude:
   - BROKEN_LINKS.md
   - specs/
   - plans/
+  - node_modules/
+  - package.json
+  - package-lock.json
+  - scripts/

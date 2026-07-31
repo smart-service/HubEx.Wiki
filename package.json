@@ -1,0 +1,13 @@
+{
+  "name": "hubex-wiki-tooling",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Скрипты контентного пайплайна HubEx.Wiki",
+  "scripts": {
+    "test": "node scripts/validate-front-matter.test.js && node scripts/audit-front-matter.test.js && node scripts/backfill-front-matter.test.js",
+    "validate-front-matter": "node scripts/validate-front-matter.js"
+  },
+  "dependencies": {
+    "gray-matter": "^4.0.3"
+  }
+}

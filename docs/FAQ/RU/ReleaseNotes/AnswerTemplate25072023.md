@@ -1,7 +1,8 @@
 ---
-title: 
+title: 'Шаблоны ответов: обновление от 25.07.2023'
 description: 
 keywords: 
+category: releasenotes
 ---
 
 #### Шаблоны ответов: обновление от 25.07.2023

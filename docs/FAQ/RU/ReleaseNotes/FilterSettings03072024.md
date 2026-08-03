@@ -2,6 +2,7 @@
 title: 
 description: 
 keywords: 
+category: releasenotes
 ---
 
 #### Кастомная настройка отображения фильтров в Заявках: обновление от 03.07.2024

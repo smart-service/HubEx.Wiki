@@ -1,7 +1,8 @@
 ---
-title: 
+title: Обновления мобильного приложения HubEx для заказчика
 description: 
 keywords: 
+category: releasenotes
 ---
 
 #### Обновления мобильного приложения HubEx для заказчика

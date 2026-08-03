@@ -2,6 +2,7 @@
 title: 
 description: 
 keywords: 
+category: releasenotes
 ---
 
 #### Переход на Яндекс Карты: обновление от 21.11.2024

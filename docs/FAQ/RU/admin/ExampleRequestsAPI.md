@@ -1,7 +1,8 @@
 ---
 title: Примеры API запросов в HubEx для реализации интеграции
 description: Премеры API запросов в HubEx для реализации интеграции.
-keywords: API, интеграция, REST API, REST, hubex, хабекс, хубекс, хабикс
+keywords: 'API, интеграция, REST API, REST, hubex, хабекс, хубекс, хабикс'
+category: admin
 ---
 
 <html lang="ru">

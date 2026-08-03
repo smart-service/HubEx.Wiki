@@ -1,7 +1,11 @@
 ---
 title: Сравнение трех вариантов развертывания HubEx
 description: Сравнение трех вариантов развертывания HubEx
-keywords: Сравнение трех вариантов развертывания HubEx, Сравнение вариантов развертывания HubEx, развертывание, варианты, hubex public cloud, hubex cloud, hubex on-premises, on prem, hubex, хабекс, хубекс, хабикс
+keywords: >-
+  Сравнение трех вариантов развертывания HubEx, Сравнение вариантов
+  развертывания HubEx, развертывание, варианты, hubex public cloud, hubex cloud,
+  hubex on-premises, on prem, hubex, хабекс, хубекс, хабикс
+category: admin
 ---
 
 <h1>Сравнение трех вариантов развертывания HubEx</h1>

@@ -2,6 +2,7 @@
 title: 
 description: 
 keywords: 
+category: releasenotes
 ---
 
 #### Расширенный просмотр информации по заявкам: обновление от 02.11.2024

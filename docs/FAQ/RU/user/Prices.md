@@ -1,6 +1,7 @@
 ---
 title: Стоимости
 description: Стоимости
+category: user
 ---
 
 <h1>Стоимости</h1>

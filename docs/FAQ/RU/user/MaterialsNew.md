@@ -1,6 +1,7 @@
 ---
 title: Склады и материалы
 description: (Новая)
+category: user
 ---
 
 <h1>Склады и материалы</h1>

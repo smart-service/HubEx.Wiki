@@ -1,7 +1,8 @@
 ---
-title: 
+title: 'Работа с самозанятыми в HubEx: обновление от 21.02.2022'
 description: 
 keywords: 
+category: releasenotes
 ---
 
 #### Работа с самозанятыми в HubEx: обновление от 21.02.2022

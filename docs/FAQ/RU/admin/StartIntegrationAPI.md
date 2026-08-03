@@ -1,7 +1,8 @@
 ---
 title: Начало работы с REST API HubEx
 description: Описание способов взаимодействия с HubEx через REST API.
-keywords: API, интеграция, REST API, REST, hubex, хабекс, хубекс, хабикс
+keywords: 'API, интеграция, REST API, REST, hubex, хабекс, хубекс, хабикс'
+category: admin
 ---
 
 <html lang="ru">

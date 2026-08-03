@@ -1,7 +1,8 @@
 ---
 title: Планы помещений
-description:
-keywords:  hubex, хабекс, хубекс, хабикс
+description: 
+keywords: 'hubex, хабекс, хубекс, хабикс'
+category: user
 ---
 
 

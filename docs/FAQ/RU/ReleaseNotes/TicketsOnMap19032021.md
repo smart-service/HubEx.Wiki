@@ -1,7 +1,8 @@
 ---
-title: 
+title: 'Заявки на карте: обновление от 19.03.2021'
 description: 
 keywords: 
+category: releasenotes
 ---
 
 #### Заявки на карте: обновление от 19.03.2021

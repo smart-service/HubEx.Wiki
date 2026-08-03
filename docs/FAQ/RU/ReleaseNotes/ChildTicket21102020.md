@@ -1,7 +1,8 @@
 ---
-title: 
+title: 'Дочерние заявки: обновление от 21.10.2020'
 description: 
 keywords: 
+category: releasenotes
 ---
 
 #### Дочерние заявки: обновление от 21.10.2020

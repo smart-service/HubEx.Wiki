@@ -2,6 +2,7 @@
 title: 
 description: 
 keywords: 
+category: releasenotes
 ---
 
 #### Обновление в работе с договорами: обновление от 12.08.2024

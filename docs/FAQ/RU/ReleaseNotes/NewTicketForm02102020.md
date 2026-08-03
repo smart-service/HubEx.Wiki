@@ -1,7 +1,8 @@
 ---
-title: 
+title: 'Новая форма Заявки: обновление от 02.10.2020'
 description: 
 keywords: 
+category: releasenotes
 ---
 
 #### Новая форма Заявки: обновление от 02.10.2020

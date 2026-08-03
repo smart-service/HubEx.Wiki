@@ -1,7 +1,10 @@
 ---
 title: Что такое REST API
-description: Описание способов взаимодействия одной компьютерной программы с другими через REST API.
-keywords: API, интеграция, REST API, REST, hubex, хабекс, хубекс, хабикс
+description: >-
+  Описание способов взаимодействия одной компьютерной программы с другими через
+  REST API.
+keywords: 'API, интеграция, REST API, REST, hubex, хабекс, хубекс, хабикс'
+category: admin
 ---
 
 <html lang="ru">

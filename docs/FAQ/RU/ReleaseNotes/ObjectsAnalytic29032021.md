@@ -1,7 +1,8 @@
 ---
-title: 
+title: 'Отчет по объектам: обновление от 29.03.2021'
 description: 
 keywords: 
+category: releasenotes
 ---
 
 #### Отчет по объектам: обновление от 29.03.2021

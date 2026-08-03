@@ -2,6 +2,7 @@
 title: 
 description: 
 keywords: 
+category: releasenotes
 ---
 
 #### Создание и настройка графиков работы: обновление от 23.05.2024

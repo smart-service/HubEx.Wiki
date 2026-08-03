@@ -2,6 +2,7 @@
 title: 
 description: 
 keywords: 
+category: releasenotes
 ---
 
 #### Привязка Видов работ к Типу заявки: обновление от 06.06.2024

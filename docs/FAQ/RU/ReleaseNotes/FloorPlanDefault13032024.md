@@ -2,6 +2,7 @@
 title: 
 description: 
 keywords: 
+category: releasenotes
 ---
 
 #### Расположение Объекта на плане по умолчанию: обновление от 13.03.2024

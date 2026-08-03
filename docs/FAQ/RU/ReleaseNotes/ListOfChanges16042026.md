@@ -1,7 +1,12 @@
 ---
 title: Сканирование Data Matrix в МП — Этап 2 Контроль списания
-description: Реализовали второй этап для Data Matrix по контролю списания маркируемых материалов
-keywords: Data Matrix, DataMatrix, Дата Матрикс, списание, маркируемые материалы, hubex, хабекс, хубекс, хабикс
+description: >-
+  Реализовали второй этап для Data Matrix по контролю списания маркируемых
+  материалов
+keywords: >-
+  Data Matrix, DataMatrix, Дата Матрикс, списание, маркируемые материалы, hubex,
+  хабекс, хубекс, хабикс
+category: releasenotes
 ---
 
 <html lang="ru">

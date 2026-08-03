@@ -1,7 +1,8 @@
 ---
 title: Универсальная интеграция SSO для всех клиентов HubEx
 description: Узнайте о возможностях настройки SSO для HubEX.
-keywords: Интеграция, SSO, ССО, hubex, хабекс, хубекс, хабикс
+keywords: 'Интеграция, SSO, ССО, hubex, хабекс, хубекс, хабикс'
+category: admin
 ---
 <html lang="ru">
 <head>

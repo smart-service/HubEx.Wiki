@@ -2,6 +2,7 @@
 title: 
 description: 
 keywords: 
+category: releasenotes
 ---
 
 #### Отображение Заявки для нескольких исполнителей в календаре: обновление от 18.03.2024

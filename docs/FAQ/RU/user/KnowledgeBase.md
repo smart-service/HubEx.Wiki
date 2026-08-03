@@ -1,7 +1,8 @@
 ---
 title: Корпоративная база знаний
-description:
-keywords:  hubex, хабекс, хубекс, хабикс
+description: 
+keywords: 'hubex, хабекс, хубекс, хабикс'
+category: user
 ---
 
 #### Корпоративная база знаний

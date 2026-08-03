@@ -1,7 +1,8 @@
 ---
-title: 
+title: 'Планы помещений: обновление от 14.07.2022'
 description: 
 keywords: 
+category: releasenotes
 ---
 
 #### Планы помещений: обновление от 14.07.2022

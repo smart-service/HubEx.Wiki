@@ -1,3 +1,7 @@
+---
+category: admin
+title: HubEx FSM
+---
 <h1>HubEx FSM</h1>
 
 <p><strong>HubEx&nbsp;FSM</strong>&nbsp;&ndash; это специализированная&nbsp;ERP&nbsp;система класса&nbsp;FSM&nbsp;(Field&nbsp;Service&nbsp;Management) предназначенная для организации работы сервисных подразделений с мобильным персоналом, от ремонтов и технического обслуживания, до обходов и клинига.</p>

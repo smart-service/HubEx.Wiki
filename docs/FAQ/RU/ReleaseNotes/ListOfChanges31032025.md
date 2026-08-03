@@ -2,6 +2,7 @@
 title: 
 description: 
 keywords: 
+category: releasenotes
 ---
 
 #### HubEx стал ещё лучше! Свежие функции, которые вы ждали &mdash; уже в системе: обновление за первый квартал 2025 года

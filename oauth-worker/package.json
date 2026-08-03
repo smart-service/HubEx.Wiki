@@ -1,0 +1,10 @@
+{
+  "name": "hubex-wiki-oauth",
+  "version": "1.0.0",
+  "private": true,
+  "description": "GitHub OAuth relay Cloudflare Worker for Decap CMS login",
+  "main": "src/index.js",
+  "devDependencies": {
+    "wrangler": "^4.118.0"
+  }
+}

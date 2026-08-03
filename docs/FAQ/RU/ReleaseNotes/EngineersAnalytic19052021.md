@@ -1,6 +1,6 @@
 ---
 title: 'Отчет по сотрудникам: обновление от 19.05.2021'
-description: 
+description: 'Отчет по сотрудникам в HubEx: заявки и SLA, отработанное время и KPI для оценки эффективности исполнителей.'
 keywords: 
 category: releasenotes
 ---

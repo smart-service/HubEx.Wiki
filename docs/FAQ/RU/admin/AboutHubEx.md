@@ -1,6 +1,7 @@
 ---
 category: admin
 title: HubEx FSM
+description: 'HubEx FSM — платформа для сервисных подразделений с мобильным персоналом: отличия от Help Desk, CRM, ТОиР и SCADA/IoT, состав платформы и настройка.'
 ---
 <h1>HubEx FSM</h1>
 

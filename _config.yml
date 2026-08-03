@@ -22,4 +22,4 @@ exclude:
   - package.json
   - package-lock.json
   - scripts/
-  - oauth-worker/
+  - oauth-relay-n8n-setup.md

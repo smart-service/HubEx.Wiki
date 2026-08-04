@@ -789,7 +789,7 @@ category: user
 
 </blockquote>
 
-<p dir="auto">Следите за обновлениями в разделе <a href="../../../index_releasenotes.html" target="_blank" rel="nofollow">Новости системы</a>.</p>
+<p dir="auto">Следите за обновлениями в разделе <a href="../../../../index_releasenotes.html" target="_blank" rel="nofollow">Новости системы</a>.</p>
 
 <div class="my-2">&nbsp;</div>
 

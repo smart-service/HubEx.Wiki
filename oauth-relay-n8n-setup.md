@@ -1,6 +1,6 @@
 # GitHub OAuth-релей для Decap CMS через n8n
 
-Заменяет вариант с Cloudflare Worker (недоступен из-за блокировок). Реализует те же два эндпоинта, которые ожидает `github`-backend Decap CMS, но как два workflow в вашем self-hosted n8n — без единой строчки серверного кода вне n8n.
+Заменяет вариант с Cloudflare Worker (недоступен из-за блокировок). Реализует два эндпоинта, которые нужны `github`-backend Decap CMS, как два workflow в self-hosted n8n — но **финальный шаг (`postMessage` в окно Decap) вынесен на сам сайт wiki.hubex.ru**, не в n8n. Причина — см. «Важный нюанс с CSP» ниже; без этого шага логин молча не работает.
 
 ## Зачем это вообще нужно
 
@@ -13,21 +13,21 @@ GitHub требует, чтобы обмен одноразового OAuth-ко
    - Homepage URL: `https://wiki.hubex.ru`
    - Authorization callback URL: URL вашего n8n-webhook'а из Workflow 2 (см. ниже) — например `https://<ваш-n8n-домен>/webhook/github-oauth-callback`
 2. Сохранить `Client ID` и сгенерированный `Client Secret`.
-3. В n8n: Settings → Credentials → создать новый Credential (например, тип "Header Auth" не подходит — проще всего завести обычные **Environment Variables** на сервере, где крутится n8n: `GITHUB_CLIENT_ID`, `GITHUB_CLIENT_SECRET`), либо — если ваша версия n8n это поддерживает — сохранить их как n8n Credentials произвольного типа и ссылаться на них через `{{ $credentials... }}`. Не вписывайте `client_secret` напрямую в текст ноды: она попадёт в экспорт workflow открытым текстом.
+3. В n8n: завести переменные окружения на сервере, где крутится n8n: `GITHUB_CLIENT_ID`, `GITHUB_CLIENT_SECRET`. Не вписывайте `client_secret` напрямую в текст ноды: он попадёт в экспорт workflow открытым текстом.
 
 ## Workflow 1 — `/auth` (редирект на GitHub)
 
 1. **Webhook** node (триггер):
    - HTTP Method: `GET`
-   - Path: `github-oauth-auth`
+   - Path: например `github-wiki-oauth-auth`
    - Respond: `Using Respond to Webhook Node`
 2. **Respond to Webhook** node, подключить от Webhook:
-   - Respond With: **Redirect** (у ноды есть встроенный тип ответа именно для редиректа — не нужно вручную выставлять код 302 и заголовок Location)
+   - Respond With: **Redirect**
    - Redirect URL:
      ```
      https://github.com/login/oauth/authorize?client_id={{ $env.GITHUB_CLIENT_ID }}&redirect_uri=https%3A%2F%2F<ваш-n8n-домен>%2Fwebhook%2Fgithub-oauth-callback&scope=repo%2Cuser
      ```
-     (`redirect_uri` — это URL-энкодированный полный адрес Workflow 2 ниже; `scope=repo,user` в закодированном виде — `repo%2Cuser`)
+     (`redirect_uri` — URL-энкодированный полный адрес Workflow 2 ниже)
 
 ## Workflow 2 — `/callback` (обмен кода на токен)
 
@@ -35,7 +35,6 @@ GitHub требует, чтобы обмен одноразового OAuth-ко
    - HTTP Method: `GET`
    - Path: `github-oauth-callback`
    - Respond: `Using Respond to Webhook Node`
-   - После первого тестового запуска проверьте в выводе ноды, как реально называется поле с query-параметром `code` — стандартно это `{{ $json.query.code }}`, но лучше свериться с реальным выводом, а не верить документации вслепую.
 2. **HTTP Request** node, подключить от Webhook:
    - Method: `POST`
    - URL: `https://github.com/login/oauth/access_token`
@@ -50,34 +49,30 @@ GitHub требует, чтобы обмен одноразового OAuth-ко
      }
      ```
 3. **Respond to Webhook** node, подключить от HTTP Request:
-   - Respond With: **Text**
-   - Add Option → Response Headers → добавить `Content-Type: text/html`
-   - Response Body:
-     ```html
-     <!DOCTYPE html>
-     <html>
-     <body>
-     <script>
-     (function() {
-       function receiveMessage(e) {
-         window.opener.postMessage(
-           'authorization:github:success:{"token":"{{ $json.access_token }}","provider":"github"}',
-           e.origin
-         );
-         window.removeEventListener("message", receiveMessage, false);
-       }
-       window.addEventListener("message", receiveMessage, false);
-       window.opener.postMessage("authorizing:github", "*");
-     })();
-     </script>
-     </body>
-     </html>
+   - Respond With: **Redirect** (не Text/HTML — см. нюанс с CSP ниже)
+   - Redirect URL:
+     ```
+     https://wiki.hubex.ru/oauth-callback.html#token={{ $json.access_token }}
      ```
 
-**Важная оговорка про эту HTML-строку.** Токен GitHub подставляется напрямую в JS-строку в одинарных кавычках, без дополнительного экранирования — это безопасно, потому что access-токены GitHub всегда состоят только из букв/цифр/подчёркивания (например `gho_xxxxxxxxxxxxxxxxxxxx`) и физически не могут содержать кавычку или обратный слэш, которые сломали бы эту конструкцию. Если GitHub когда-либо изменит формат токенов — это единственное место, которое придётся пересмотреть.
+## Важный нюанс с CSP (почему тут редирект, а не HTML напрямую)
+
+Изначальная версия этой схемы отвечала на `/callback` прямо HTML-страницей со скриптом `postMessage`, как и на Cloudflare Worker. Не сработало: n8n принудительно добавляет заголовок `Content-Security-Policy: sandbox ...` (без `allow-same-origin`) к HTML-ответам webhook'ов — переопределить его кастомным заголовком не вышло. Без `allow-same-origin` страница получает «opaque origin», и `postMessage` с неё приходит с `event.origin === null` — Decap молча отбрасывает такое рукопожатие (сверяет origin с `base_url`), без единой ошибки в консоли. Диагностировалось долго: если увидите точно такую картину (всё вроде отрабатывает, попап не закрывается, ошибок нигде нет) — сразу проверяйте `event.origin` через `window.addEventListener('message', e => console.log(e.origin))`, вставленный в консоль окна `/admin/`.
+
+Решение — вынести сам `postMessage` за пределы n8n, на страницу того же сайта (`oauth-callback.html` в корне репозитория, не CSP-sandboxed), передав токен через URL-фрагмент (`#token=...` — фрагмент никогда не уходит на сервер, в отличие от query-параметра). n8n делает только то, что обязано — обмен кода на токен.
+
+## Настройка `admin/config.yml`
+
+```yaml
+backend:
+  base_url: https://wiki.hubex.ru
+  auth_endpoint: oauth-start.html
+```
+
+`base_url` указывает на **сам сайт**, не на n8n — потому что Decap сверяет origin входящих сообщений именно с `base_url`, а сообщения теперь шлёт `oauth-callback.html` на wiki.hubex.ru. `oauth-start.html` — маленькая статическая страница-переходник в репозитории: открывшись, она тут же редиректит на настоящий Workflow 1 в n8n. Без неё `base_url + auth_endpoint` не сложились бы в рабочий адрес.
 
 ## После настройки
 
-- Оба workflow должны быть **активны** (Active toggle в n8n), иначе webhook не отвечает.
-- В `admin/config.yml` Decap CMS (появится в Task 15) `base_url` должен указывать на корень, под которым живут оба webhook'а — то есть `https://<ваш-n8n-домен>`, а `auth_endpoint` — на путь первого workflow относительно этого корня (у n8n webhook-и обычно вида `/webhook/<path>`, так что итоговый `base_url` и `auth_endpoint` нужно подобрать так, чтобы `base_url + '/' + auth_endpoint` давал реальный полный адрес Workflow 1 — проверьте фактический URL в самой webhook-ноде n8n, она показывает его целиком).
-- Проверка перед подключением Decap: откройте адрес Workflow 1 в браузере напрямую — должно сразу перекинуть на страницу авторизации GitHub. Затем нажмите «Authorize» — должны вернуться на Workflow 2 и увидеть пустую белую страницу (это нормально — она просто отправляет сообщение открывшему её окну и без Decap CMS ничего не показывает).
+- Оба workflow должны быть **активны** (Active toggle в n8n).
+- Проверка Workflow 1 отдельно: откройте его адрес в браузере — должно сразу перекинуть на страницу авторизации GitHub.
+- Полная проверка — только через реальный `/admin/`: `oauth-start.html` → Workflow 1 → GitHub → Workflow 2 → `oauth-callback.html` → окно `/admin/` должно само показать список коллекций без перезагрузки страницы.

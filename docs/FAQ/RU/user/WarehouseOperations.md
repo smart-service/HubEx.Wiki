@@ -789,7 +789,7 @@ category: user
 
 </blockquote>
 
-<p dir="auto">Следите за обновлениями в разделе <a href="../index_releasenotes.html" target="_blank" rel="nofollow">Новости системы</a>.</p>
+<p dir="auto">Следите за обновлениями в разделе <a href="../../../index_releasenotes.html" target="_blank" rel="nofollow">Новости системы</a>.</p>
 
 <div class="my-2">&nbsp;</div>
 
@@ -799,12 +799,12 @@ category: user
 
 <ul dir="auto">
 
-<li class="text-start "><a href="../Materials.html" target="_blank" rel="nofollow">Загрузка материалов и создание складов</a></li>
+<li class="text-start "><a href="Materials.html" target="_blank" rel="nofollow">Загрузка материалов и создание складов</a></li>
 
-<li class="text-start "><a href="../Withdrawals.html" target="_blank" rel="nofollow">Расход материалов по заявке, отчет по расходу</a></li>
+<li class="text-start "><a href="Withdrawals.html" target="_blank" rel="nofollow">Расход материалов по заявке, отчет по расходу</a></li>
 
-<li class="text-start "><a href="../InventoryAccounting.html" target="_blank" rel="nofollow">Складской учет в HubEx: два сценария управления складом</a></li>
+<li class="text-start "><a href="InventoryAccounting.html" target="_blank" rel="nofollow">Складской учет в HubEx: два сценария управления складом</a></li>
 
-<li class="text-start "><a href="../SettingsWithMaterials.html" target="_blank" rel="nofollow">Настройки системы для работы с материалами</a></li>
+<li class="text-start "><a href="SettingsWithMaterials.html" target="_blank" rel="nofollow">Настройки системы для работы с материалами</a></li>
 
 </ul>

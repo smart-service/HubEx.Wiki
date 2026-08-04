@@ -2,8 +2,8 @@ backend:
   name: github
   repo: smart-service/HubEx.Wiki
   branch: master
-  base_url: https://dev-n-ai.hubex.ru
-  auth_endpoint: webhook/github-wiki-oauth-auth
+  base_url: https://wiki.hubex.ru
+  auth_endpoint: oauth-start.html
 
 publish_mode: simple
 media_folder: "attachments/images/uploads"

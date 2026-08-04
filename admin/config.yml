@@ -1,0 +1,89 @@
+backend:
+  name: github
+  repo: smart-service/HubEx.Wiki
+  branch: master
+  base_url: https://dev-n-ai.hubex.ru
+  auth_endpoint: webhook/github-wiki-oauth-auth
+
+publish_mode: simple
+media_folder: "attachments/images/uploads"
+public_folder: "/attachments/images/uploads"
+
+collections:
+  - name: "user_articles"
+    label: "Статьи: Пользователь"
+    folder: "docs/FAQ/RU/user"
+    create: true
+    slug: "{{slug}}"
+    extension: "md"
+    fields:
+      - { label: "Заголовок", name: "title", widget: "string" }
+      - { label: "Описание (SEO, до 160 символов)", name: "description", widget: "text" }
+      - { label: "Ключевые слова", name: "keywords", widget: "string", required: false }
+      - { label: "Категория", name: "category", widget: "hidden", default: "user" }
+      - { label: "Содержимое", name: "body", widget: "markdown" }
+
+  - name: "admin_articles"
+    label: "Статьи: Администрирование"
+    folder: "docs/FAQ/RU/admin"
+    create: true
+    slug: "{{slug}}"
+    extension: "md"
+    fields:
+      - { label: "Заголовок", name: "title", widget: "string" }
+      - { label: "Описание (SEO, до 160 символов)", name: "description", widget: "text" }
+      - { label: "Ключевые слова", name: "keywords", widget: "string", required: false }
+      - { label: "Категория", name: "category", widget: "hidden", default: "admin" }
+      - { label: "Содержимое", name: "body", widget: "markdown" }
+
+  - name: "release_notes"
+    label: "Релиз-ноуты"
+    folder: "docs/FAQ/RU/ReleaseNotes"
+    create: true
+    slug: "{{slug}}"
+    extension: "md"
+    fields:
+      - { label: "Заголовок", name: "title", widget: "string" }
+      - { label: "Описание (SEO, до 160 символов)", name: "description", widget: "text" }
+      - { label: "Ключевые слова", name: "keywords", widget: "string", required: false }
+      - { label: "Категория", name: "category", widget: "hidden", default: "releasenotes" }
+      - { label: "Содержимое", name: "body", widget: "markdown" }
+
+  - name: "topic_pages"
+    label: "Тематические страницы (главная)"
+    files:
+      - label: "Web-приложение"
+        name: "index_web"
+        file: "index_web.md"
+        fields:
+          - { label: "Содержимое", name: "body", widget: "markdown" }
+      - label: "Мобильное приложение (исполнитель)"
+        name: "index_app"
+        file: "index_app.md"
+        fields:
+          - { label: "Содержимое", name: "body", widget: "markdown" }
+      - label: "Клиентский портал и приложение заказчика"
+        name: "index_app_customer"
+        file: "index_app_customer.md"
+        fields:
+          - { label: "Содержимое", name: "body", widget: "markdown" }
+      - label: "Консоль администрирования"
+        name: "index_admin"
+        file: "index_admin.md"
+        fields:
+          - { label: "Содержимое", name: "body", widget: "markdown" }
+      - label: "Обучающие видео"
+        name: "index_video"
+        file: "index_video.md"
+        fields:
+          - { label: "Содержимое", name: "body", widget: "markdown" }
+      - label: "Что у нас нового"
+        name: "index_releasenotes"
+        file: "index_releasenotes.md"
+        fields:
+          - { label: "Содержимое", name: "body", widget: "markdown" }
+      - label: "Часто задаваемые вопросы"
+        name: "index_questions"
+        file: "index_questions.md"
+        fields:
+          - { label: "Содержимое", name: "body", widget: "markdown" }

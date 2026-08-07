@@ -1,4 +1,5 @@
 <!-- Yandex.Metrika counter -->
+
 <script type="text/javascript" >
    (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
    m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
@@ -11,11 +12,18 @@
         webvisor:true
    });
 </script>
+
 <noscript><div><img src="https://mc.yandex.ru/watch/'{{ site.yandex_metric }}'" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+
 <!-- /Yandex.Metrika counter -->
+
 <link rel="stylesheet" type="text/css" href="/assets/css/styles.css">
 ### Новые возможности web-приложения HubEx
 В данном разделе вы найдете краткие статьи с обзором новых возможностей web-приложения HubEx. Мы постоянно улучшаемся и добавляем полезные функции, чтобы ваша работа становилась еще комфортнее.
+
+
+
+<h4><a href="./docs/FAQ/RU/ReleaseNotes/c%D0%BA%D0%BB%D0%B0%D0%B4%D1%81%D0%BA%D0%BE%D0%B9-%D0%B4%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82-%D0%BE%D0%BF%D1%80%D0%B8%D1%85%D0%BE%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5-%D0%B2-%D1%81%D0%BA%D0%BB%D0%B0%D0%B4%D1%81%D0%BA%D0%B8%D1%85-%D0%B4%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D1%85-%D0%BE%D1%82-04-08-2026.html">Новый функционал: складской документ «Оприходование» от 06.08.2026</a></h4>
 
 <h4><a href="./docs/FAQ/RU/ReleaseNotes/ListOfChanges20072026.html">Магазин плагинов в системе HubEx, Настройка полей поиска объектов, Экран пробегов сотрудников в Истории перемещений, Сохранение настроек колонок таблицы заявок от 20.07.2026</a></h4>
 <h4><a href="./docs/FAQ/RU/ReleaseNotes/ListOfChanges01072026.html">Понятная ошибка при входе без интернета, Исправлен ввод количества материалов в выполненной работе, Повышена стабильность создания выполненных работ в МП от 01.07.2026</a></h4>
@@ -128,6 +136,7 @@
 <h4><a href="docs/FAQ/RU/ReleaseNotes/TicketArchives08042020.html">Архивные и удаленные заявки: обновление от 08.04.2020</a></h4> 
 
 ### Обновления мобильных приложений HubEx для сервисных специалистов и заказчиков
+
 В данном разделе вы найдете информацию о ключевых обновлениях мобильных приложений HubEx для исполнителей и заказчиков. Мы постоянно улучшаемся и добавляем полезные функции, чтобы ваша работа становилась еще комфортнее.
 Информация о версиях приложения обновляется постоянно внутри статей.
 

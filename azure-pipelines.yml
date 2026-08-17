@@ -1,0 +1,13 @@
+trigger:
+  branches:
+    include:
+      - master
+
+pool: wiki-server # self-hosted agent pool — must run ON the server that serves the site (see AZURE-DEPLOYMENT.md)
+
+steps:
+  - script: chmod +x deploy/deploy.sh && deploy/deploy.sh
+    displayName: "Validate, build, index, publish"
+    env:
+      SITE_ROOT: /var/www/wiki.hubex.ru
+      KEEP_RELEASES: 5

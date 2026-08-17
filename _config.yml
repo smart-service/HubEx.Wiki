@@ -23,3 +23,9 @@ exclude:
   - package-lock.json
   - scripts/
   - oauth-relay-n8n-setup.md
+  - AZURE-DEPLOYMENT.md
+  - Gemfile
+  - Gemfile.lock
+  - azure-pipelines.yml
+  - deploy/
+  - vendor/
